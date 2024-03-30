@@ -1,7 +1,10 @@
-export type RegionJson = {
+export type RegionsJson = 시도Region[];
+
+export type 시도Region = {
+  id: string;
   name: string;
   regions: Region[];
-}[];
+};
 
 export type Region = {
   id: string;
