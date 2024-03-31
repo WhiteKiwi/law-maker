@@ -1,34 +1,88 @@
 [
-  {
-    "id": "2280301-1",
-    "regionId": "2280301",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2803/Hb100152019/gicho/thumbnail.100152019.JPG?ver=1575878",
-    "기호": 1,
-    "이름": "허종식",
-    "생년월일": "19620208",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "국회의원",
-    "학력": "인하대학교 국어국문학과 졸업",
-    "경력": "(전)인천광역시 균형발전정무부시장\n(현)동구미추홀구갑 국회의원",
-    "재산": 802053,
-    "군필여부": false,
-    "전과건수": 1
-  },
-  {
-    "id": "2280301-2",
-    "regionId": "2280301",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2803/Hb100151815/gicho/thumbnail.100151815.JPG?ver=1685294",
-    "기호": 2,
-    "이름": "심재돈",
-    "생년월일": "19670217",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 공법학과 졸업",
-    "경력": "(전)서울중앙지검 부장검사\n(전)김앤장 법률사무소 변호사",
-    "재산": 3323099,
-    "군필여부": true,
-    "전과건수": 0
-  }
+    {
+        "id": "2280301-1",
+        "regionId": "2280301",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2803/Hb100152019/gicho/thumbnail.100152019.JPG?ver=1575878",
+        "기호": 1,
+        "이름": "허종식",
+        "생년월일": "19620208",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "국회의원",
+        "학력": "인하대학교 국어국문학과 졸업",
+        "경력": "(전)인천광역시 균형발전정무부시장\n(현)동구미추홀구갑 국회의원",
+        "재산": 802053,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
+                "date": "Sun, 31 Mar 2024 21:52:00 +0900"
+            },
+            {
+                "title": "공식 선거운동 첫 주말 유세전 치열",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081143",
+                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
+            },
+            {
+                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
+                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
+            },
+            {
+                "title": "[총선토론회] 동구미추홀갑 허종식·심재돈 격돌… ‘강압수사 논란’ vs ‘돈...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240331028263142",
+                "date": "Sun, 31 Mar 2024 18:18:00 +0900"
+            },
+            {
+                "title": "[4·10 총선 공식 선거운동 첫 주말] 더불어민주당 허종식 “민생 문제 해결할...",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787748",
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900"
+            }
+        ]
+    },
+    {
+        "id": "2280301-2",
+        "regionId": "2280301",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2803/Hb100151815/gicho/thumbnail.100151815.JPG?ver=1685294",
+        "기호": 2,
+        "이름": "심재돈",
+        "생년월일": "19670217",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 공법학과 졸업",
+        "경력": "(전)서울중앙지검 부장검사\n(전)김앤장 법률사무소 변호사",
+        "재산": 3323099,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "title": "[총선D-10] 심재돈 국회의원 후보, 부활절 예배 후 유세 강행군",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469859",
+                "date": "Sun, 31 Mar 2024 23:28:00 +0900"
+            },
+            {
+                "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
+                "date": "Sun, 31 Mar 2024 21:52:00 +0900"
+            },
+            {
+                "title": "공식선거운동 첫 주말 인천 여야 후보 거리로 나서 표심 잡기 총력전",
+                "link": "https://www.newspim.com/news/view/20240331000208",
+                "date": "Sun, 31 Mar 2024 20:04:00 +0900"
+            },
+            {
+                "title": "공식 선거운동 첫 주말 유세전 치열",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081143",
+                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
+            },
+            {
+                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
+                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
+            }
+        ]
+    }
 ]

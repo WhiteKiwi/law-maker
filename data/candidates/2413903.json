@@ -1,34 +1,88 @@
 [
-  {
-    "id": "2413903-1",
-    "regionId": "2413903",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4139/Hb100152035/gicho/thumbnail.100152035.JPG?ver=1577280",
-    "기호": 1,
-    "이름": "박상혁",
-    "생년월일": "19730320",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "국회의원",
-    "학력": "한양대학교 법과대학 법학과 졸업",
-    "경력": "(전) 김포와더불어 박상혁법률사무소 대표변호사\n(현) 더불어민주당 국회의원",
-    "재산": 2222561,
-    "군필여부": true,
-    "전과건수": 1
-  },
-  {
-    "id": "2413903-2",
-    "regionId": "2413903",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4139/Hb100151385/gicho/thumbnail.100151385.JPG?ver=1550156",
-    "기호": 2,
-    "이름": "홍철호",
-    "생년월일": "19580813",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "예산농업전문학교(현 공주대학교) 축산과 졸업",
-    "경력": "(전) 제19, 20대 국회의원\n(전) 국민의힘 전략기획부총장",
-    "재산": 29144959,
-    "군필여부": true,
-    "전과건수": 2
-  }
+    {
+        "id": "2413903-1",
+        "regionId": "2413903",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4139/Hb100152035/gicho/thumbnail.100152035.JPG?ver=1577280",
+        "기호": 1,
+        "이름": "박상혁",
+        "생년월일": "19730320",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "국회의원",
+        "학력": "한양대학교 법과대학 법학과 졸업",
+        "경력": "(전) 김포와더불어 박상혁법률사무소 대표변호사\n(현) 더불어민주당 국회의원",
+        "재산": 2222561,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534",
+                "date": "Sun, 31 Mar 2024 21:12:00 +0900"
+            },
+            {
+                "title": "민주 김포을 박상혁 후보 출정식… 힘 모아달라  호소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123703",
+                "date": "Fri, 29 Mar 2024 00:14:00 +0900"
+            },
+            {
+                "title": "[410=여론조사] 김포시 을, '정권견제론'에 매몰된 '서울편입론'",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241979",
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900"
+            },
+            {
+                "title": "민주당 박상혁 김포시을 국회의원 후보, 선거 출정식 가져",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850426",
+                "date": "Thu, 28 Mar 2024 17:32:00 +0900"
+            },
+            {
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165",
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900"
+            }
+        ]
+    },
+    {
+        "id": "2413903-2",
+        "regionId": "2413903",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4139/Hb100151385/gicho/thumbnail.100151385.JPG?ver=1550156",
+        "기호": 2,
+        "이름": "홍철호",
+        "생년월일": "19580813",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "예산농업전문학교(현 공주대학교) 축산과 졸업",
+        "경력": "(전) 제19, 20대 국회의원\n(전) 국민의힘 전략기획부총장",
+        "재산": 29144959,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534",
+                "date": "Sun, 31 Mar 2024 21:12:00 +0900"
+            },
+            {
+                "title": "한동훈, 김포 구래역 광장에서 홍철호 지원 유세…'김포ㆍ서울 통합' 실행 약...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558549",
+                "date": "Sun, 31 Mar 2024 17:22:00 +0900"
+            },
+            {
+                "title": "한동훈, 김포 구래역 광장에서 홍철호 지원 유세…'김포ㆍ서울 통합' 실행 약...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317285",
+                "date": "Sun, 31 Mar 2024 17:20:00 +0900"
+            },
+            {
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037825?sid=165",
+                "date": "Sun, 31 Mar 2024 16:24:00 +0900"
+            },
+            {
+                "title": "한동훈 김포 구래역 광장서 홍철호 지원 유세… “김포·서울 통합” 재차 확...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226524",
+                "date": "Sun, 31 Mar 2024 15:34:00 +0900"
+            }
+        ]
+    }
 ]

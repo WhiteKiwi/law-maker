@@ -1,34 +1,88 @@
 [
-  {
-    "id": "2430701-1",
-    "regionId": "2430701",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4307/Hb100153143/gicho/thumbnail.100153143.JPG?ver=1684681",
-    "기호": 1,
-    "이름": "이재한",
-    "생년월일": "19630426",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "한용산업(주) 대표이사",
-    "학력": "중앙대학교 국제대학원 국제관계및통상학과 졸업(박사학위)",
-    "경력": "(전)중소기업중앙회 부회장\n(현)더불어민주당 정책위원회 부의장",
-    "재산": 3788457,
-    "군필여부": false,
-    "전과건수": 3
-  },
-  {
-    "id": "2430701-2",
-    "regionId": "2430701",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4307/Hb100153158/gicho/thumbnail.100153158.JPG?ver=1685359",
-    "기호": 2,
-    "이름": "박덕흠",
-    "생년월일": "19531018",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "국회의원",
-    "학력": "한양대학교 대학원 토목공학과 졸업(공학박사)",
-    "경력": "(전)대한전문건설협회 중앙회 회장\n(현)제21대 국회 후반기 정보위원회 위원장",
-    "재산": 56278830,
-    "군필여부": true,
-    "전과건수": 1
-  }
+    {
+        "id": "2430701-1",
+        "regionId": "2430701",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4307/Hb100153143/gicho/thumbnail.100153143.JPG?ver=1684681",
+        "기호": 1,
+        "이름": "이재한",
+        "생년월일": "19630426",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "한용산업(주) 대표이사",
+        "학력": "중앙대학교 국제대학원 국제관계및통상학과 졸업(박사학위)",
+        "경력": "(전)중소기업중앙회 부회장\n(현)더불어민주당 정책위원회 부의장",
+        "재산": 3788457,
+        "군필여부": false,
+        "전과건수": 3,
+        "news": [
+            {
+                "title": "충북 동남4군 연일 '고발전'",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265678",
+                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+            },
+            {
+                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            },
+            {
+                "title": "민주당 이재한 후보, 부활절 맞아 연합예배 참석",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746080",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            },
+            {
+                "title": "동남4군 두 후보 진영간 선관위 고발로 난타전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746071",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            },
+            {
+                "title": "안효익 전 옥천군의원 지게춤 '눈길'",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746072",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            }
+        ]
+    },
+    {
+        "id": "2430701-2",
+        "regionId": "2430701",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4307/Hb100153158/gicho/thumbnail.100153158.JPG?ver=1685359",
+        "기호": 2,
+        "이름": "박덕흠",
+        "생년월일": "19531018",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "국회의원",
+        "학력": "한양대학교 대학원 토목공학과 졸업(공학박사)",
+        "경력": "(전)대한전문건설협회 중앙회 회장\n(현)제21대 국회 후반기 정보위원회 위원장",
+        "재산": 56278830,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "title": "충북 동남4군 연일 '고발전'",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265678",
+                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+            },
+            {
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+            },
+            {
+                "title": "동남4군 두 후보 진영간 선관위 고발로 난타전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746071",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            },
+            {
+                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            },
+            {
+                "title": "동남 4 군 국민의힘 박덕흠 후보 , 허위사실 공표 혐의로 민주당 대변인 고소...",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746002",
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+            }
+        ]
+    }
 ]

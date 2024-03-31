@@ -1,34 +1,88 @@
 [
-  {
-    "id": "2413301-1",
-    "regionId": "2413301",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4133/Hb100151355/gicho/thumbnail.100151355.JPG?ver=1698771",
-    "기호": 1,
-    "이름": "최재관",
-    "생년월일": "19681218",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 농생물학과 졸업",
-    "경력": "(전) 대통령비서실 농어업비서관\n(전) 더불어민주당 여주시양평군 지역위원장",
-    "재산": 210799,
-    "군필여부": true,
-    "전과건수": 1
-  },
-  {
-    "id": "2413301-2",
-    "regionId": "2413301",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4133/Hb100151371/gicho/thumbnail.100151371.JPG?ver=1550021",
-    "기호": 2,
-    "이름": "김선교",
-    "생년월일": "19600918",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 정책대학원 졸업(경제학석사)",
-    "경력": "(전) 여주시·양평군 국회의원\n(전) 양평군수(민선4,5,6기)",
-    "재산": 495043,
-    "군필여부": true,
-    "전과건수": 0
-  }
+    {
+        "id": "2413301-1",
+        "regionId": "2413301",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4133/Hb100151355/gicho/thumbnail.100151355.JPG?ver=1698771",
+        "기호": 1,
+        "이름": "최재관",
+        "생년월일": "19681218",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 농생물학과 졸업",
+        "경력": "(전) 대통령비서실 농어업비서관\n(전) 더불어민주당 여주시양평군 지역위원장",
+        "재산": 210799,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "title": "열흘 앞 다가온 총선, 농민후보 누가 뛰나",
+                "link": "http://www.ikpnews.net/news/articleView.html?idxno=63366",
+                "date": "Mon, 01 Apr 2024 00:06:00 +0900"
+            },
+            {
+                "title": "여주양평 최재관·김선교 후보, GTX, 서울양평고속道 등 '교통문제' 해결 공약",
+                "link": "https://www.ypsori.com/news/articleView.html?idxno=34935",
+                "date": "Sat, 30 Mar 2024 09:32:00 +0900"
+            },
+            {
+                "title": "여주양평 최재관 “여당 심판, 민생회복… 진정한 봄 만들 것”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240329023453155",
+                "date": "Fri, 29 Mar 2024 14:40:00 +0900"
+            },
+            {
+                "title": "최재관·김선교 후보, 양평출정식으로 본격 선거운동 시작",
+                "link": "https://www.ypsori.com/news/articleView.html?idxno=34927",
+                "date": "Thu, 28 Mar 2024 19:22:00 +0900"
+            },
+            {
+                "title": "[종합] ‘정권심판론’ 최재관 vs ‘친윤’ 김선교…막 오른 여주·양평 복수...",
+                "link": "https://www.etoday.co.kr/news/view/2345449",
+                "date": "Thu, 28 Mar 2024 18:26:00 +0900"
+            }
+        ]
+    },
+    {
+        "id": "2413301-2",
+        "regionId": "2413301",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4133/Hb100151371/gicho/thumbnail.100151371.JPG?ver=1550021",
+        "기호": 2,
+        "이름": "김선교",
+        "생년월일": "19600918",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 정책대학원 졸업(경제학석사)",
+        "경력": "(전) 여주시·양평군 국회의원\n(전) 양평군수(민선4,5,6기)",
+        "재산": 495043,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+            },
+            {
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826",
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900"
+            },
+            {
+                "title": "[총선 D-10] 국민의힘 김선교 여주·양평 후보  다양한 공직과 현장 경험 명품...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025383",
+                "date": "Sun, 31 Mar 2024 10:08:00 +0900"
+            },
+            {
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165",
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900"
+            },
+            {
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600",
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900"
+            }
+        ]
+    }
 ]

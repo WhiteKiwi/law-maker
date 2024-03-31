@@ -1,34 +1,88 @@
 [
-  {
-    "id": "2410202-1",
-    "regionId": "2410202",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100152149/gicho/thumbnail.100152149.JPG?ver=1587591",
-    "기호": 1,
-    "이름": "염태영",
-    "생년월일": "19600725",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 농과대학 농화학과 졸업",
-    "경력": "(전)수원시장\n(전)경기도 경제부지사",
-    "재산": 2095143,
-    "군필여부": false,
-    "전과건수": 0
-  },
-  {
-    "id": "2410202-2",
-    "regionId": "2410202",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100151333/gicho/thumbnail.100151333.JPG?ver=1549779",
-    "기호": 2,
-    "이름": "박재순",
-    "생년월일": "19620129",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "(사)한국지방발전연구원 이사장",
-    "학력": "아주대학교 경영대학원 졸업(경영학석사)",
-    "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
-    "재산": 10658416,
-    "군필여부": false,
-    "전과건수": 0
-  }
+    {
+        "id": "2410202-1",
+        "regionId": "2410202",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100152149/gicho/thumbnail.100152149.JPG?ver=1587591",
+        "기호": 1,
+        "이름": "염태영",
+        "생년월일": "19600725",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 농과대학 농화학과 졸업",
+        "경력": "(전)수원시장\n(전)경기도 경제부지사",
+        "재산": 2095143,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "title": "염태영 수원무 후보  민생 망친 정부·여당 심판하고 수원 지킬 것 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644610",
+                "date": "Sun, 31 Mar 2024 23:02:00 +0900"
+            },
+            {
+                "title": "염태영 후보  민생 망친 정부·여당 심판하고 수원 지키겠다 ",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48205",
+                "date": "Sun, 31 Mar 2024 22:24:00 +0900"
+            },
+            {
+                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046",
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900"
+            },
+            {
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165",
+                "date": "Sun, 31 Mar 2024 19:53:00 +0900"
+            },
+            {
+                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496",
+                "date": "Sun, 31 Mar 2024 18:44:00 +0900"
+            }
+        ]
+    },
+    {
+        "id": "2410202-2",
+        "regionId": "2410202",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100151333/gicho/thumbnail.100151333.JPG?ver=1549779",
+        "기호": 2,
+        "이름": "박재순",
+        "생년월일": "19620129",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "(사)한국지방발전연구원 이사장",
+        "학력": "아주대학교 경영대학원 졸업(경영학석사)",
+        "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
+        "재산": 10658416,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299",
+                "date": "Sun, 31 Mar 2024 23:16:00 +0900"
+            },
+            {
+                "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611",
+                "date": "Sun, 31 Mar 2024 22:56:00 +0900"
+            },
+            {
+                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046",
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900"
+            },
+            {
+                "title": "박재순 “수원, 세계가 놀랄만한 반도체 메카로 재탄생시킬 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787883",
+                "date": "Sun, 31 Mar 2024 19:24:00 +0900"
+            },
+            {
+                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496",
+                "date": "Sun, 31 Mar 2024 18:44:00 +0900"
+            }
+        ]
+    }
 ]
