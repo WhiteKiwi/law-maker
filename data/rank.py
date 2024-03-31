@@ -2,7 +2,7 @@ import os
 import json
 from operator import itemgetter
 
-#21대 불러오기
+#21대 리스트 불러오기
 _21th_file_list = os.listdir(os.path.abspath('./data/21th-law-makers'))
 
 os.chdir(os.path.abspath('./data/21th-law-makers'))
@@ -16,6 +16,11 @@ for file in _21th_file_list:
 #21대 등수 매기기에 이용할 리스트
 _21th_list = []
 
+#본회의_출석률, 대표발의법안 정리된 리스트 생성
+for _21th in _21th_data_list:
+	_21th_list.append({"id" : _21th["id"], "attendance": _21th["본회의_출석률"], "lawPropose" : _21th["대표발의법안"]})
+
+#--------재산등수 매기기 위한 작업-------
 #21대 국회의원이었던 후보자 불러오기
 os.chdir(os.path.abspath('../'))
 
@@ -35,7 +40,8 @@ for file in candidate_file_list:
 os.chdir(os.path.abspath('../'))
 os.chdir(os.path.abspath('./21th-law-makers'))
 
-estate_list = []
+no_increase_list = []
+has_increase_list = []
 
 for candidate in candidate_list:
 	with open(candidate["id_21th"]+'.json', 'r', encoding="UTF-8-sig")as f:
@@ -43,19 +49,19 @@ for candidate in candidate_list:
 		if len(data["연도별_재산"]) != 0:
 			estate = data["연도별_재산"][0]["재산"]
 			year = data["연도별_재산"][0]["연도"]
-			estate_list.append({"id" : candidate["id_21th"], "estate_increase" : (candidate["재산"] - estate)/(2024-year)})
+			has_increase_list.append({"id" : candidate["id_21th"], "estate_increase" : (candidate["재산"] - estate)/(2024-year)})
 
-#--------21대 국회의원이었던 후보자의 재산 계산완료. estate_list에 21대 id와 재산증감액이 들어가있음---------
+#--------21대 국회의원이었던 후보자의 재산 계산완료. has_increase_list에 id_21th와 재산증감액이 들어가있음---------
 
 #21대 국회의원 id 모두 가져오기
 os.chdir(os.path.abspath('../'))
 with open('ids_21th.json', 'r', encoding='UTF-8-sig')as file:
 	id_list = json.load(file)
 
-#21대이면서 후보자인 사람의 id 리스트
+#21대이면서 후보자인 사람의 id_21th 리스트
 _21thNcandidate_id_list = []
-for a in estate_list:
-	_21thNcandidate_id_list.append(int(a["id"]))
+for candidate in candidate_list:
+	_21thNcandidate_id_list.append(int(candidate["id_21th"]))
 
 a = set(_21thNcandidate_id_list)
 b = set(id_list)
@@ -68,22 +74,12 @@ os.chdir(os.path.abspath('./21th-law-makers'))
 for id in id_list:
 	with open(str(id)+'.json', 'r', encoding="UTF-8-sig")as f:
 		data = json.load(f)
-		#재산 정보가 하나이면 id만 estate_list에 넣는다.
+		#재산 정보가 하나이거나 없으면 id만 no_increase_list에 넣는다.
 		if len(data["연도별_재산"]) == 1 or len(data["연도별_재산"]) == 0:
-			estate_list.append({"id" : id})
-		#재산 정보가 여러개면 증감액을 계산해 estate_list에 넣는다. 
-		elif len(data["연도별_재산"]) != 0:
-			estate_list.append({"id" : id, "estate_increase" : (data["연도별_재산"][-1]["재산"] - data["연도별_재산"][0]["재산"])/(data["연도별_재산"][-1]["연도"] - data["연도별_재산"][0]["연도"])})
-
-#증감액 정보가 있는것과 없는것을 나눈다.
-no_increase_list = []
-has_increase_list = []
-
-for _21th_estate in estate_list:
-	if "estate_increase" in _21th_estate:
-		has_increase_list.append(_21th_estate)
-	else:
-		no_increase_list.append(_21th_estate)
+			no_increase_list.append({"id" : id})
+		#재산 정보가 여러개면 증감액을 계산해 has_increase_list에 넣는다. 
+		else:
+			has_increase_list.append({"id" : id, "estate_increase" : (data["연도별_재산"][-1]["재산"] - data["연도별_재산"][0]["재산"])/(data["연도별_재산"][-1]["연도"] - data["연도별_재산"][0]["연도"])})
 
 #증감액 정보가 없으면 재산등수를 -1로 넣는다.
 for i in range(len(no_increase_list)):
@@ -93,7 +89,7 @@ for i in range(len(no_increase_list)):
 		with open(str(no_increase_list[i]["id"])+'.json', 'w', encoding='UTF-8-sig') as file:
 			file.write(json.dumps(_21th, file, indent="\t", ensure_ascii=False))
 
-
+#등수를 저장하는 리스트
 global _21th_rank
 _21th_rank = []
 
@@ -123,11 +119,6 @@ def fileWrite(type, _21th_list):
 
 rankSort("estate_increase", has_increase_list)
 fileWrite("재산등수", has_increase_list)
-
-#본회의 출석률, 대표발의법안 정리된 리스트
-for _21th in _21th_data_list:
-	_21th_list.append({"id" : _21th["id"], "attendance": _21th["본회의_출석률"], "lawPropose" : _21th["대표발의법안"]})
-
 
 rankSort("attendance", _21th_list)
 fileWrite("본회의_출석률_등수", _21th_list)
