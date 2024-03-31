@@ -5,6 +5,7 @@ export type LawMakerCadidate = {
   imageUrl: string; // 이미지 url
   기호: number;
   이름: string;
+  생년월일: string; // yyyyMMdd
   정당: string;
   성별: string;
   직업: string;
