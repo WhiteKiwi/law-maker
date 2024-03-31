@@ -21,4 +21,10 @@ export type LawMaker = {
     위원회: string;
     발의수: number;
   }[];
+
+  연도별_재산: {
+    연도: number;
+    재산: number; // 단위: 천원
+  }[];
+  재산등수: number;
 };

@@ -1,5 +1,6 @@
 export type LawMakerCadidate = {
   id: string; // {region}-{no}
+  id_21th?: string;
   regionId: string; // 지역
   imageUrl: string; // 이미지 url
   기호: number;
