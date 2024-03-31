@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2280403-1",
-        "regionId": "2280403",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151810/gicho/thumbnail.100151810.JPG?ver=1565031",
-        "기호": 1,
-        "이름": "정일영",
-        "생년월일": "19570814",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "제21대 국회의원(더불어민주당 인천연수을)",
-        "학력": "영국 옥스퍼드대 발전경제학 석사(1987.10.~1988.07.)",
-        "경력": "(현) 제21대 국회의원(더불어민주당 인천연수을)\n(전) 인천국제공항공사 사장",
-        "재산": 2489926,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "공식선거운동 첫 주말 인천 여야 후보 거리로 나서 표심 잡기 총력전",
-                "link": "https://www.newspim.com/news/view/20240331000208",
-                "date": "Sun, 31 Mar 2024 20:04:00 +0900"
-            },
-            {
-                "title": "민주 정일영 연수을 후보 송도 상습 정체 해소 '스마트 도로' 약속",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081130",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            },
-            {
-                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-            },
-            {
-                "title": "낯 뜨거운 막말, 등 돌리는 중도층",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441013?sid=100",
-                "date": "Sun, 31 Mar 2024 18:20:00 +0900"
-            },
-            {
-                "title": "[4·10 총선현장] 민주당 연수을 정일영 후보,  송도국제도시에 스마트 도로를...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242288",
-                "date": "Sun, 31 Mar 2024 15:30:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2280403-2",
-        "regionId": "2280403",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151261/gicho/thumbnail.100151261.JPG?ver=1549608",
-        "기호": 2,
-        "이름": "김기흥",
-        "생년월일": "19750628",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 인문대학 종교학과 졸업",
-        "경력": "(전) 대통령실 부대변인\n(전) KBS 앵커·기자",
-        "재산": 613531,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100",
-                "date": "Sun, 31 Mar 2024 20:45:00 +0900"
-            },
-            {
-                "title": "한동훈 국민의힘 비대위원장, 연수구 지지 유세",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446780",
-                "date": "Sun, 31 Mar 2024 19:46:00 +0900"
-            },
-            {
-                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-            },
-            {
-                "title": "한동훈  총선 끝나면 쫓겨난다고? 저 그렇게 만만하지 않다 ",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351039?sid=165",
-                "date": "Sun, 31 Mar 2024 18:34:00 +0900"
-            },
-            {
-                "title": "낯 뜨거운 막말, 등 돌리는 중도층",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441013?sid=100",
-                "date": "Sun, 31 Mar 2024 18:20:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151810/gicho/thumbnail.100151810.JPG?ver=1565031",
+		"id": "2280403-1",
+		"재산": 2489926,
+		"생년월일": "19570814",
+		"경력": "(현) 제21대 국회의원(더불어민주당 인천연수을)\n(전) 인천국제공항공사 사장",
+		"학력": "영국 옥스퍼드대 발전경제학 석사(1987.10.~1988.07.)",
+		"직업": "제21대 국회의원(더불어민주당 인천연수을)",
+		"성별": "남",
+		"id_21th": "1077",
+		"regionId": "2280403",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:04:00 +0900",
+				"title": "공식선거운동 첫 주말 인천 여야 후보 거리로 나서 표심 잡기 총력전",
+				"link": "https://www.newspim.com/news/view/20240331000208"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
+				"title": "민주 정일영 연수을 후보 송도 상습 정체 해소 '스마트 도로' 약속",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081130"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:18:00 +0900",
+				"title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:20:00 +0900",
+				"title": "낯 뜨거운 막말, 등 돌리는 중도층",
+				"link": "https://n.news.naver.com/mnews/article/081/0003441013?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 15:30:00 +0900",
+				"title": "[4·10 총선현장] 민주당 연수을 정일영 후보,  송도국제도시에 스마트 도로를...",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242288"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "정일영"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151261/gicho/thumbnail.100151261.JPG?ver=1549608",
+		"id": "2280403-2",
+		"재산": 613531,
+		"생년월일": "19750628",
+		"경력": "(전) 대통령실 부대변인\n(전) KBS 앵커·기자",
+		"학력": "서울대학교 인문대학 종교학과 졸업",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2280403",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:45:00 +0900",
+				"title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
+				"link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:46:00 +0900",
+				"title": "한동훈 국민의힘 비대위원장, 연수구 지지 유세",
+				"link": "https://www.kmaeil.com/news/articleView.html?idxno=446780"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:18:00 +0900",
+				"title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:34:00 +0900",
+				"title": "한동훈  총선 끝나면 쫓겨난다고? 저 그렇게 만만하지 않다 ",
+				"link": "https://n.news.naver.com/mnews/article/025/0003351039?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:20:00 +0900",
+				"title": "낯 뜨거운 막말, 등 돌리는 중도층",
+				"link": "https://n.news.naver.com/mnews/article/081/0003441013?sid=100"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "김기흥"
+	}
 ]

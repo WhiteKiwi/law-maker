@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2110702-1",
-        "regionId": "2110702",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1107/Hb100152749/gicho/thumbnail.100152749.JPG?ver=1672846",
-        "기호": 1,
-        "이름": "박홍근",
-        "생년월일": "19691008",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "제21대 국회의원",
-        "학력": "경희대학교 행정대학원 환경행정학과 졸업(행정학석사)",
-        "경력": "(전)더불어민주당 원내대표\n(현)국회의원(제19,20,21대)",
-        "재산": 595498,
-        "군필여부": false,
-        "전과건수": 2,
-        "news": [
-            {
-                "title": "[지금, 여기]인권위, 더 늦기 전에 바로잡아야",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287813?sid=110",
-                "date": "Sun, 31 Mar 2024 20:27:00 +0900"
-            },
-            {
-                "title": "이재명, 계양을 ‘부활절 예배·미사’ 참석...안방 챙기기",
-                "link": "https://www.etoday.co.kr/news/view/2346077",
-                "date": "Sun, 31 Mar 2024 16:10:00 +0900"
-            },
-            {
-                "title": "[총선 D-10] 이재명, 계양을 표밭다지기…김부겸 '한강벨트'서 한표 호소",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025394",
-                "date": "Sun, 31 Mar 2024 10:20:00 +0900"
-            },
-            {
-                "title": "'계양을'표밭다지는 이재명, 부활절 예배·미사 '참석'",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070241?sid=100",
-                "date": "Sun, 31 Mar 2024 09:27:00 +0900"
-            },
-            {
-                "title": "선거운동 나흘차 여야 선거전 총력… 이재명 '안방' 표밭다지기-한동훈 수도권...",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3124335",
-                "date": "Sun, 31 Mar 2024 09:02:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2110702-2",
-        "regionId": "2110702",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1107/Hb100152342/gicho/thumbnail.100152342.JPG?ver=1600317",
-        "기호": 2,
-        "이름": "이승환",
-        "생년월일": "19830121",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한양대학교 대학원 정치외교학과 석사(수료)",
-        "경력": "(전)국민의힘 서울 중랑구(을) 당협위원장\n(전)대통령실 행정관 (인사기획관실·정무수석실)",
-        "재산": 265820,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[현장] 박홍근  초보운전자 안돼  vs 이승환  중랑 주민만 모시겠다 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815281?sid=165",
-                "date": "Sun, 31 Mar 2024 05:10:00 +0900"
-            },
-            {
-                "title": "조국 “한동훈, 헛꿈 깨라고 말씀드리고 싶다”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919565?sid=100",
-                "date": "Sun, 31 Mar 2024 02:05:00 +0900"
-            },
-            {
-                "title": "[현장] 중랑을 토박이 이승환의 '벽치기 유세'…시민들은 승리의 'V'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815278?sid=165",
-                "date": "Sun, 31 Mar 2024 01:00:00 +0900"
-            },
-            {
-                "title": "박홍근  차별금지법, 창조섭리에 반하는 면 있어 ",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815213?sid=165",
-                "date": "Sat, 30 Mar 2024 15:10:00 +0900"
-            },
-            {
-                "title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165",
-                "date": "Sat, 30 Mar 2024 14:23:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 2,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1107/Hb100152749/gicho/thumbnail.100152749.JPG?ver=1672846",
+		"id": "2110702-1",
+		"재산": 595498,
+		"생년월일": "19691008",
+		"경력": "(전)더불어민주당 원내대표\n(현)국회의원(제19,20,21대)",
+		"학력": "경희대학교 행정대학원 환경행정학과 졸업(행정학석사)",
+		"직업": "제21대 국회의원",
+		"성별": "남",
+		"id_21th": "710",
+		"regionId": "2110702",
+		"기호": 1,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:27:00 +0900",
+				"title": "[지금, 여기]인권위, 더 늦기 전에 바로잡아야",
+				"link": "https://n.news.naver.com/mnews/article/032/0003287813?sid=110"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 16:10:00 +0900",
+				"title": "이재명, 계양을 ‘부활절 예배·미사’ 참석...안방 챙기기",
+				"link": "https://www.etoday.co.kr/news/view/2346077"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 10:20:00 +0900",
+				"title": "[총선 D-10] 이재명, 계양을 표밭다지기…김부겸 '한강벨트'서 한표 호소",
+				"link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025394"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 09:27:00 +0900",
+				"title": "'계양을'표밭다지는 이재명, 부활절 예배·미사 '참석'",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070241?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 09:02:00 +0900",
+				"title": "선거운동 나흘차 여야 선거전 총력… 이재명 '안방' 표밭다지기-한동훈 수도권...",
+				"link": "https://www.newscj.com/news/articleView.html?idxno=3124335"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "박홍근"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1107/Hb100152342/gicho/thumbnail.100152342.JPG?ver=1600317",
+		"id": "2110702-2",
+		"재산": 265820,
+		"생년월일": "19830121",
+		"경력": "(전)국민의힘 서울 중랑구(을) 당협위원장\n(전)대통령실 행정관 (인사기획관실·정무수석실)",
+		"학력": "한양대학교 대학원 정치외교학과 석사(수료)",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2110702",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 05:10:00 +0900",
+				"title": "[현장] 박홍근  초보운전자 안돼  vs 이승환  중랑 주민만 모시겠다 (종합)",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815281?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 02:05:00 +0900",
+				"title": "조국 “한동훈, 헛꿈 깨라고 말씀드리고 싶다”",
+				"link": "https://n.news.naver.com/mnews/article/022/0003919565?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 01:00:00 +0900",
+				"title": "[현장] 중랑을 토박이 이승환의 '벽치기 유세'…시민들은 승리의 'V'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815278?sid=165"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 15:10:00 +0900",
+				"title": "박홍근  차별금지법, 창조섭리에 반하는 면 있어 ",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815213?sid=165"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 14:23:00 +0900",
+				"title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "이승환"
+	}
 ]

@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2490201-1",
-        "regionId": "2490201",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100152374/gicho/thumbnail.100152374.JPG?ver=1604592",
-        "기호": 1,
-        "이름": "위성곤",
-        "생년월일": "19680120",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "제주대학교 농과대학 졸업",
-        "경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
-        "재산": 562752,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
-                "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309",
-                "date": "Sun, 31 Mar 2024 23:52:00 +0900"
-            },
-            {
-                "title": " 하원 테크노캠퍼스에 산업단지 조성 추진 ",
-                "link": "http://www.jejumaeil.net/news/articleView.html?idxno=335632",
-                "date": "Sun, 31 Mar 2024 21:56:00 +0900"
-            },
-            {
-                "title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
-                "link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165",
-                "date": "Sun, 31 Mar 2024 21:31:00 +0900"
-            },
-            {
-                "title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
-                "link": "https://jejumbc.com/article/jiOn1794K2sa7VXI",
-                "date": "Sun, 31 Mar 2024 20:42:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2490201-2",
-        "regionId": "2490201",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100151000/gicho/thumbnail.100151000.JPG?ver=1549026",
-        "기호": 2,
-        "이름": "고기철",
-        "생년월일": "19620806",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
-        "경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
-        "재산": 624713,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
-                "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309",
-                "date": "Sun, 31 Mar 2024 23:52:00 +0900"
-            },
-            {
-                "title": " 더 많이 소통하며 청년의 미래 만들어 나갈 것 ",
-                "link": "http://www.jejumaeil.net/news/articleView.html?idxno=335631",
-                "date": "Sun, 31 Mar 2024 21:56:00 +0900"
-            },
-            {
-                "title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
-                "link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165",
-                "date": "Sun, 31 Mar 2024 21:31:00 +0900"
-            },
-            {
-                "title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
-                "link": "https://jejumbc.com/article/jiOn1794K2sa7VXI",
-                "date": "Sun, 31 Mar 2024 20:42:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 1,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100152374/gicho/thumbnail.100152374.JPG?ver=1604592",
+		"id": "2490201-1",
+		"재산": 562752,
+		"생년월일": "19680120",
+		"경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
+		"학력": "제주대학교 농과대학 졸업",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "966",
+		"regionId": "2490201",
+		"기호": 1,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 23:52:00 +0900",
+				"title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
+				"link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:56:00 +0900",
+				"title": " 하원 테크노캠퍼스에 산업단지 조성 추진 ",
+				"link": "http://www.jejumaeil.net/news/articleView.html?idxno=335632"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:31:00 +0900",
+				"title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
+				"link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:42:00 +0900",
+				"title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
+				"link": "https://jejumbc.com/article/jiOn1794K2sa7VXI"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "위성곤"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100151000/gicho/thumbnail.100151000.JPG?ver=1549026",
+		"id": "2490201-2",
+		"재산": 624713,
+		"생년월일": "19620806",
+		"경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
+		"학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2490201",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 23:52:00 +0900",
+				"title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
+				"link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:56:00 +0900",
+				"title": " 더 많이 소통하며 청년의 미래 만들어 나갈 것 ",
+				"link": "http://www.jejumaeil.net/news/articleView.html?idxno=335631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:31:00 +0900",
+				"title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
+				"link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:42:00 +0900",
+				"title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
+				"link": "https://jejumbc.com/article/jiOn1794K2sa7VXI"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "고기철"
+	}
 ]

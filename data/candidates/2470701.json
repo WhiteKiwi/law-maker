@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2470701-1",
-        "regionId": "2470701",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4707/Hb100151795/gicho/thumbnail.100151795.JPG?ver=1685001",
-        "기호": 1,
-        "이름": "김철호",
-        "생년월일": "19540503",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "손해사정사",
-        "학력": "고려대학교 대학원 법학과 석사과정 수료",
-        "경력": "(현)더불어민주당 중앙당 부대변인\n(전)형곡새마을금고 이사장",
-        "재산": 55517,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "[선택 2024 대구·경북] 구미시갑",
-                "link": "https://n.news.naver.com/mnews/article/657/0000024459?sid=100",
-                "date": "Sun, 31 Mar 2024 20:41:00 +0900"
-            },
-            {
-                "title": "구미갑-을 TV토론회…여야 후보자 상대 공약 놓고 '갑론을박'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005064",
-                "date": "Sun, 31 Mar 2024 18:30:00 +0900"
-            },
-            {
-                "title": "[열전 4.10 총선] 구미 여야 후보들 지방 방송국 토론회서 격돌",
-                "link": "http://www.kbsm.net/news/view.php?idx=428103",
-                "date": "Sun, 31 Mar 2024 14:18:00 +0900"
-            },
-            {
-                "title": "민주당 경북 후보자들 본 선거 돌입  바꿔야 한다 ",
-                "link": "http://www.breaknews.com/1024119",
-                "date": "Sat, 30 Mar 2024 17:08:00 +0900"
-            },
-            {
-                "title": "[총선] 구미시 갑, 민주 vs 국힘 후보 ‘리턴매치’",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691651?sid=100",
-                "date": "Fri, 29 Mar 2024 19:32:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2470701-2",
-        "regionId": "2470701",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4707/Hb100152950/gicho/thumbnail.100152950.JPG?ver=1679275",
-        "기호": 2,
-        "이름": "구자근",
-        "생년월일": "19671009",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "제21대 국회의원",
-        "학력": "동국대학교 대학원 법학과 졸업(법학석사)",
-        "경력": "(현)제21대 국회의원(구미시갑)\n(전)국민의힘 당대표 비서실장",
-        "재산": 595006,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "title": "[선택 2024 대구·경북] 구미시갑",
-                "link": "https://n.news.naver.com/mnews/article/657/0000024459?sid=100",
-                "date": "Sun, 31 Mar 2024 20:41:00 +0900"
-            },
-            {
-                "title": "[4·10 필드 속으로]구자근·강명구 후보  박정희 대통령과 위안부 피해자에 ...",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240331010004255",
-                "date": "Sun, 31 Mar 2024 20:16:00 +0900"
-            },
-            {
-                "title": " '박정희·위안부 비하' 김준혁 사퇴하라 ",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990430",
-                "date": "Sun, 31 Mar 2024 20:16:00 +0900"
-            },
-            {
-                "title": "구자근  새로운 산단, 문화·관광 인프라 확장으로 재도약 견인 ",
-                "link": "http://www.hidomin.com/news/articleView.html?idxno=544153",
-                "date": "Sun, 31 Mar 2024 18:52:00 +0900"
-            },
-            {
-                "title": "구미갑-을 TV토론회…여야 후보자 상대 공약 놓고 '갑론을박'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005064",
-                "date": "Sun, 31 Mar 2024 18:30:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 1,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4707/Hb100151795/gicho/thumbnail.100151795.JPG?ver=1685001",
+		"id": "2470701-1",
+		"재산": 55517,
+		"생년월일": "19540503",
+		"경력": "(현)더불어민주당 중앙당 부대변인\n(전)형곡새마을금고 이사장",
+		"학력": "고려대학교 대학원 법학과 석사과정 수료",
+		"직업": "손해사정사",
+		"성별": "남",
+		"regionId": "2470701",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:41:00 +0900",
+				"title": "[선택 2024 대구·경북] 구미시갑",
+				"link": "https://n.news.naver.com/mnews/article/657/0000024459?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:30:00 +0900",
+				"title": "구미갑-을 TV토론회…여야 후보자 상대 공약 놓고 '갑론을박'",
+				"link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005064"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 14:18:00 +0900",
+				"title": "[열전 4.10 총선] 구미 여야 후보들 지방 방송국 토론회서 격돌",
+				"link": "http://www.kbsm.net/news/view.php?idx=428103"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 17:08:00 +0900",
+				"title": "민주당 경북 후보자들 본 선거 돌입  바꿔야 한다 ",
+				"link": "http://www.breaknews.com/1024119"
+			},
+			{
+				"date": "Fri, 29 Mar 2024 19:32:00 +0900",
+				"title": "[총선] 구미시 갑, 민주 vs 국힘 후보 ‘리턴매치’",
+				"link": "https://n.news.naver.com/mnews/article/056/0011691651?sid=100"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "김철호"
+	},
+	{
+		"전과건수": 2,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4707/Hb100152950/gicho/thumbnail.100152950.JPG?ver=1679275",
+		"id": "2470701-2",
+		"재산": 595006,
+		"생년월일": "19671009",
+		"경력": "(현)제21대 국회의원(구미시갑)\n(전)국민의힘 당대표 비서실장",
+		"학력": "동국대학교 대학원 법학과 졸업(법학석사)",
+		"직업": "제21대 국회의원",
+		"성별": "남",
+		"id_21th": "1140",
+		"regionId": "2470701",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:41:00 +0900",
+				"title": "[선택 2024 대구·경북] 구미시갑",
+				"link": "https://n.news.naver.com/mnews/article/657/0000024459?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:16:00 +0900",
+				"title": "[4·10 필드 속으로]구자근·강명구 후보  박정희 대통령과 위안부 피해자에 ...",
+				"link": "https://www.yeongnam.com/web/view.php?key=20240331010004255"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:16:00 +0900",
+				"title": " '박정희·위안부 비하' 김준혁 사퇴하라 ",
+				"link": "http://www.kbmaeil.com/news/articleView.html?idxno=990430"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:52:00 +0900",
+				"title": "구자근  새로운 산단, 문화·관광 인프라 확장으로 재도약 견인 ",
+				"link": "http://www.hidomin.com/news/articleView.html?idxno=544153"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:30:00 +0900",
+				"title": "구미갑-을 TV토론회…여야 후보자 상대 공약 놓고 '갑론을박'",
+				"link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005064"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "구자근"
+	}
 ]

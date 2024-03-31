@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2410901-1",
-        "regionId": "2410901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4109/Hb100152957/gicho/thumbnail.100152957.JPG?ver=1684738",
-        "기호": 1,
-        "이름": "강득구",
-        "생년월일": "19630527",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "연세대학교 행정대학원 정치행정리더십전공 석사과정 졸업",
-        "경력": "(전)경기도 연정부지사\n(현)국회의원(안양시만안구)",
-        "재산": 1290388,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "최돈익 안양만안 후보,   민주당 24년 독식 끝내달라  표심 호소",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081040",
-                "date": "Sun, 31 Mar 2024 16:38:00 +0900"
-            },
-            {
-                "title": "강득구 안양만안 후보, 안양역서 유세단 출정 선거운동 돌입",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081039",
-                "date": "Sun, 31 Mar 2024 16:38:00 +0900"
-            },
-            {
-                "title": " 안양을 위해 일할 최돈익을 뽑아달라”…한동훈 지원 유세",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460681?sid=102",
-                "date": "Sun, 31 Mar 2024 06:00:00 +0900"
-            },
-            {
-                "title": "임금차별·고용불안·노인빈곤·입시경쟁…日처럼 격차사회 ‘경고음’",
-                "link": "https://n.news.naver.com/mnews/article/011/0004320852?sid=102",
-                "date": "Sat, 30 Mar 2024 09:12:00 +0900"
-            },
-            {
-                "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165",
-                "date": "Fri, 29 Mar 2024 16:58:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2410901-2",
-        "regionId": "2410901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4109/Hb100151862/gicho/thumbnail.100151862.JPG?ver=1684820",
-        "기호": 2,
-        "이름": "최돈익",
-        "생년월일": "19700801",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "연세대학교 법과대학 법학과 졸업",
-        "경력": "(전)국민의힘 안양시만안구 당원협의회 당협위원장\n(현)법무법인 나라 대표변호사",
-        "재산": 3112670,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "최돈익 안양만안 후보,   민주당 24년 독식 끝내달라  표심 호소",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081040",
-                "date": "Sun, 31 Mar 2024 16:38:00 +0900"
-            },
-            {
-                "title": "최돈익 후보, 출정식 갖고 본격 선거운동 돌입",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017109",
-                "date": "Sun, 31 Mar 2024 12:42:00 +0900"
-            },
-            {
-                "title": " 안양을 위해 일할 최돈익을 뽑아달라”…한동훈 지원 유세",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460681?sid=102",
-                "date": "Sun, 31 Mar 2024 06:00:00 +0900"
-            },
-            {
-                "title": "한동훈, 안양·군포·의왕·안산 지원 유세… 자신 만만하다 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460479?sid=102",
-                "date": "Sat, 30 Mar 2024 17:16:00 +0900"
-            },
-            {
-                "title": "한동훈 ‘이재명의 쓰레기 같은 말’ 발언에…민주 “그 입이 쓰레기통”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919523?sid=100",
-                "date": "Sat, 30 Mar 2024 15:02:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4109/Hb100152957/gicho/thumbnail.100152957.JPG?ver=1684738",
+		"id": "2410901-1",
+		"재산": 1290388,
+		"생년월일": "19630527",
+		"경력": "(전)경기도 연정부지사\n(현)국회의원(안양시만안구)",
+		"학력": "연세대학교 행정대학원 정치행정리더십전공 석사과정 졸업",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "1099",
+		"regionId": "2410901",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 16:38:00 +0900",
+				"title": "최돈익 안양만안 후보,   민주당 24년 독식 끝내달라  표심 호소",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081040"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 16:38:00 +0900",
+				"title": "강득구 안양만안 후보, 안양역서 유세단 출정 선거운동 돌입",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081039"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 06:00:00 +0900",
+				"title": " 안양을 위해 일할 최돈익을 뽑아달라”…한동훈 지원 유세",
+				"link": "https://n.news.naver.com/mnews/article/003/0012460681?sid=102"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 09:12:00 +0900",
+				"title": "임금차별·고용불안·노인빈곤·입시경쟁…日처럼 격차사회 ‘경고음’",
+				"link": "https://n.news.naver.com/mnews/article/011/0004320852?sid=102"
+			},
+			{
+				"date": "Fri, 29 Mar 2024 16:58:00 +0900",
+				"title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
+				"link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "강득구"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4109/Hb100151862/gicho/thumbnail.100151862.JPG?ver=1684820",
+		"id": "2410901-2",
+		"재산": 3112670,
+		"생년월일": "19700801",
+		"경력": "(전)국민의힘 안양시만안구 당원협의회 당협위원장\n(현)법무법인 나라 대표변호사",
+		"학력": "연세대학교 법과대학 법학과 졸업",
+		"직업": "변호사",
+		"성별": "남",
+		"regionId": "2410901",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 16:38:00 +0900",
+				"title": "최돈익 안양만안 후보,   민주당 24년 독식 끝내달라  표심 호소",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081040"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 12:42:00 +0900",
+				"title": "최돈익 후보, 출정식 갖고 본격 선거운동 돌입",
+				"link": "https://www.asiatoday.co.kr/view.php?key=20240328010017109"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 06:00:00 +0900",
+				"title": " 안양을 위해 일할 최돈익을 뽑아달라”…한동훈 지원 유세",
+				"link": "https://n.news.naver.com/mnews/article/003/0012460681?sid=102"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 17:16:00 +0900",
+				"title": "한동훈, 안양·군포·의왕·안산 지원 유세… 자신 만만하다 ",
+				"link": "https://n.news.naver.com/mnews/article/003/0012460479?sid=102"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 15:02:00 +0900",
+				"title": "한동훈 ‘이재명의 쓰레기 같은 말’ 발언에…민주 “그 입이 쓰레기통”",
+				"link": "https://n.news.naver.com/mnews/article/022/0003919523?sid=100"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "최돈익"
+	}
 ]

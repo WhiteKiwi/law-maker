@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2112403-1",
-        "regionId": "2112403",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152240/gicho/thumbnail.100152240.JPG?ver=1593880",
-        "기호": 1,
-        "이름": "남인순",
-        "생년월일": "19581105",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "국회의원",
-        "학력": "성공회대학교 시민사회복지대학원 사회복지학과 졸업(사회복지학석사)",
-        "경력": "(현) 송파병 국회의원\n(현) 국회 정치개혁특별위원장",
-        "재산": 676894,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "'도구' 확보하고 '영토' 넓힌 한의사들  열매 거둘 차례 ",
-                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016016",
-                "date": "Sun, 31 Mar 2024 19:00:00 +0900"
-            },
-            {
-                "title": "계양서 표밭 다진 이재명  與 악어의 눈물 속지말라 ",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281071?sid=100",
-                "date": "Sun, 31 Mar 2024 17:52:00 +0900"
-            },
-            {
-                "title": "후보보다 눈에 띄네…총선 유세 신스틸러, 박용진·임종석·유승민",
-                "link": "https://n.news.naver.com/mnews/article/028/0002683277?sid=165",
-                "date": "Sun, 31 Mar 2024 17:25:00 +0900"
-            },
-            {
-                "title": "[오마이포토] 낙천한 박용진 의원이 송파에 등장한 이유",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428244?sid=100",
-                "date": "Sun, 31 Mar 2024 17:05:00 +0900"
-            },
-            {
-                "title": "이재명 “국힘 흘리는 악어의 눈물에 속지마라…그들은 지금 읍소작전”",
-                "link": "https://n.news.naver.com/mnews/article/009/0005280960?sid=100",
-                "date": "Sun, 31 Mar 2024 16:44:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2112403-2",
-        "regionId": "2112403",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152026/gicho/thumbnail.100152026.JPG?ver=1689601",
-        "기호": 2,
-        "이름": "김근식",
-        "생년월일": "19650331",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "경남대학교 정치외교학과 교수",
-        "학력": "서울대학교대학원 정치학과 졸업(정치학박사)",
-        "경력": "(전) 국민의힘 송파구병 당협위원장\n(전) 국민의힘 비전전략실장",
-        "재산": 1246906,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "한동훈 비대위원장 '박정훈 송파갑-배현진 송파을-김근식 송파병 지원 유세'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815475?sid=100",
-                "date": "Sun, 31 Mar 2024 21:31:00 +0900"
-            },
-            {
-                "title": "'국민의힘 송파 합동 유세'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815474?sid=100",
-                "date": "Sun, 31 Mar 2024 21:30:00 +0900"
-            },
-            {
-                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165",
-                "date": "Sun, 31 Mar 2024 20:50:00 +0900"
-            },
-            {
-                "title": "[포토] 포옹하는 한동훈-김근식 송파병 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100075.html",
-                "date": "Sun, 31 Mar 2024 20:18:00 +0900"
-            },
-            {
-                "title": "[포토] 국민의미래 비례후보들과 석촌호 찾은 한동훈",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100073.html",
-                "date": "Sun, 31 Mar 2024 19:46:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152240/gicho/thumbnail.100152240.JPG?ver=1593880",
+		"id": "2112403-1",
+		"재산": 676894,
+		"생년월일": "19581105",
+		"경력": "(현) 송파병 국회의원\n(현) 국회 정치개혁특별위원장",
+		"학력": "성공회대학교 시민사회복지대학원 사회복지학과 졸업(사회복지학석사)",
+		"직업": "국회의원",
+		"성별": "여",
+		"id_21th": "833",
+		"regionId": "2112403",
+		"기호": 1,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 19:00:00 +0900",
+				"title": "'도구' 확보하고 '영토' 넓힌 한의사들  열매 거둘 차례 ",
+				"link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016016"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:52:00 +0900",
+				"title": "계양서 표밭 다진 이재명  與 악어의 눈물 속지말라 ",
+				"link": "https://n.news.naver.com/mnews/article/009/0005281071?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:25:00 +0900",
+				"title": "후보보다 눈에 띄네…총선 유세 신스틸러, 박용진·임종석·유승민",
+				"link": "https://n.news.naver.com/mnews/article/028/0002683277?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:05:00 +0900",
+				"title": "[오마이포토] 낙천한 박용진 의원이 송파에 등장한 이유",
+				"link": "https://n.news.naver.com/mnews/article/047/0002428244?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 16:44:00 +0900",
+				"title": "이재명 “국힘 흘리는 악어의 눈물에 속지마라…그들은 지금 읍소작전”",
+				"link": "https://n.news.naver.com/mnews/article/009/0005280960?sid=100"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "남인순"
+	},
+	{
+		"전과건수": 1,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152026/gicho/thumbnail.100152026.JPG?ver=1689601",
+		"id": "2112403-2",
+		"재산": 1246906,
+		"생년월일": "19650331",
+		"경력": "(전) 국민의힘 송파구병 당협위원장\n(전) 국민의힘 비전전략실장",
+		"학력": "서울대학교대학원 정치학과 졸업(정치학박사)",
+		"직업": "경남대학교 정치외교학과 교수",
+		"성별": "남",
+		"regionId": "2112403",
+		"기호": 2,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 21:31:00 +0900",
+				"title": "한동훈 비대위원장 '박정훈 송파갑-배현진 송파을-김근식 송파병 지원 유세'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815475?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:30:00 +0900",
+				"title": "'국민의힘 송파 합동 유세'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815474?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:50:00 +0900",
+				"title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+				"link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:18:00 +0900",
+				"title": "[포토] 포옹하는 한동훈-김근식 송파병 후보",
+				"link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100075.html"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:46:00 +0900",
+				"title": "[포토] 국민의미래 비례후보들과 석촌호 찾은 한동훈",
+				"link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100073.html"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "김근식"
+	}
 ]

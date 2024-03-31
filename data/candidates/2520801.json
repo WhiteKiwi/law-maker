@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2520801-1",
-        "regionId": "2520801",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg5208/Hb100151210/gicho/thumbnail.100151210.JPG?ver=1549226",
-        "기호": 1,
-        "이름": "김도균",
-        "생년월일": "19650714",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "더불어민주당 국방대변인",
-        "학력": "경기대학교 정치전문대학원 외교안보학과 박사과정 수료",
-        "경력": "(전) 수도방위사령관 \n(전) 청와대 국방개혁 비서관",
-        "재산": 1976404,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "'후보 사퇴하라' vs '허위사실 고발' 여야 후보자 공방 본격화",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035342?sid=100",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "후보 고발전 표심 영향줄까… 2030 최대 스윙보터로",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070348?sid=100",
-                "date": "Mon, 01 Apr 2024 00:08:00 +0900"
-            },
-            {
-                "title": " 허위사실 공표 고발  vs  취하 않을시 조치 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070306?sid=102",
-                "date": "Mon, 01 Apr 2024 00:06:00 +0900"
-            },
-            {
-                "title": "우상호 민주 도당 선대위원장, 김도균 후보 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070307?sid=102",
-                "date": "Mon, 01 Apr 2024 00:06:00 +0900"
-            },
-            {
-                "title": "의혹 제기·반박·고발…후보 간 공방 과열 ‘난타전’",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035319?sid=165",
-                "date": "Mon, 01 Apr 2024 00:02:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2520801-2",
-        "regionId": "2520801",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg5208/Hb100152965/gicho/thumbnail.100152965.JPG?ver=1679745",
-        "기호": 2,
-        "이름": "이양수",
-        "생년월일": "19670815",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "고려대학교 불어불문학과 졸업",
-        "경력": "(현) 국회의원\n(현) 국민의힘 원내수석부대표",
-        "재산": 1817187,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "'후보 사퇴하라' vs '허위사실 고발' 여야 후보자 공방 본격화",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035342?sid=100",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "후보 고발전 표심 영향줄까… 2030 최대 스윙보터로",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070348?sid=100",
-                "date": "Mon, 01 Apr 2024 00:08:00 +0900"
-            },
-            {
-                "title": " 허위사실 공표 고발  vs  취하 않을시 조치 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070306?sid=102",
-                "date": "Mon, 01 Apr 2024 00:06:00 +0900"
-            },
-            {
-                "title": "의혹 제기·반박·고발…후보 간 공방 과열 ‘난타전’",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035319?sid=165",
-                "date": "Mon, 01 Apr 2024 00:02:00 +0900"
-            },
-            {
-                "title": "[선택 4·10 총선]설악권(속초-인제-고성-양양) 선거전 과열 양상",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035303?sid=165",
-                "date": "Sun, 31 Mar 2024 21:01:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg5208/Hb100151210/gicho/thumbnail.100151210.JPG?ver=1549226",
+		"id": "2520801-1",
+		"재산": 1976404,
+		"생년월일": "19650714",
+		"경력": "(전) 수도방위사령관 \n(전) 청와대 국방개혁 비서관",
+		"학력": "경기대학교 정치전문대학원 외교안보학과 박사과정 수료",
+		"직업": "더불어민주당 국방대변인",
+		"성별": "남",
+		"regionId": "2520801",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "'후보 사퇴하라' vs '허위사실 고발' 여야 후보자 공방 본격화",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035342?sid=100"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:08:00 +0900",
+				"title": "후보 고발전 표심 영향줄까… 2030 최대 스윙보터로",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070348?sid=100"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:06:00 +0900",
+				"title": " 허위사실 공표 고발  vs  취하 않을시 조치 ",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070306?sid=102"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:06:00 +0900",
+				"title": "우상호 민주 도당 선대위원장, 김도균 후보 지지 호소",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070307?sid=102"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:02:00 +0900",
+				"title": "의혹 제기·반박·고발…후보 간 공방 과열 ‘난타전’",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035319?sid=165"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "김도균"
+	},
+	{
+		"전과건수": 1,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg5208/Hb100152965/gicho/thumbnail.100152965.JPG?ver=1679745",
+		"id": "2520801-2",
+		"재산": 1817187,
+		"생년월일": "19670815",
+		"경력": "(현) 국회의원\n(현) 국민의힘 원내수석부대표",
+		"학력": "고려대학교 불어불문학과 졸업",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "1001",
+		"regionId": "2520801",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "'후보 사퇴하라' vs '허위사실 고발' 여야 후보자 공방 본격화",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035342?sid=100"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:08:00 +0900",
+				"title": "후보 고발전 표심 영향줄까… 2030 최대 스윙보터로",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070348?sid=100"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:06:00 +0900",
+				"title": " 허위사실 공표 고발  vs  취하 않을시 조치 ",
+				"link": "https://n.news.naver.com/mnews/article/654/0000070306?sid=102"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:02:00 +0900",
+				"title": "의혹 제기·반박·고발…후보 간 공방 과열 ‘난타전’",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035319?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:01:00 +0900",
+				"title": "[선택 4·10 총선]설악권(속초-인제-고성-양양) 선거전 과열 양상",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035303?sid=165"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "이양수"
+	}
 ]

@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2411603-1",
-        "regionId": "2411603",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4116/Hb100152992/gicho/thumbnail.100152992.JPG?ver=1679970",
-        "기호": 1,
-        "이름": "정성호",
-        "생년월일": "19620602",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "서울대학교 법과대학 사법학과 졸업",
-        "경력": "(전)국회 예산결산특위 위원장\n(현)4선 국회의원",
-        "재산": 4497847,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": " 토박이 후보가 지역발전 견인  남병근·정성호 동두천서 유세",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081120",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            },
-            {
-                "title": "이름이냐, 지역이냐 경기지역 총선 후보들의 슬로건 전쟁 [총선 관전포인트]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037830?sid=165",
-                "date": "Sun, 31 Mar 2024 16:50:00 +0900"
-            },
-            {
-                "title": "최원식·원희룡·한동훈 계양서 만난 서울대 법대 선후배들",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240330010017774",
-                "date": "Sat, 30 Mar 2024 23:10:00 +0900"
-            },
-            {
-                "title": "민주 정성호, 선거운동 첫날 시민 5명 '형사 고발'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007444991?sid=165",
-                "date": "Fri, 29 Mar 2024 11:36:00 +0900"
-            },
-            {
-                "title": "안기영 국민의힘 후보 출정식…“양주 새롭게 만드는 일에 동참해 달라” 지지...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037690?sid=165",
-                "date": "Fri, 29 Mar 2024 10:08:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2411603-2",
-        "regionId": "2411603",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4116/Hb100152316/gicho/thumbnail.100152316.JPG?ver=1599697",
-        "기호": 2,
-        "이름": "안기영",
-        "생년월일": "19630405",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 대학원 졸업(정치학석사)",
-        "경력": "(전)경기도의회 의원\n(전)국민의힘 양주시 당협위원장",
-        "재산": 229378,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "이름이냐, 지역이냐 경기지역 총선 후보들의 슬로건 전쟁 [총선 관전포인트]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037830?sid=165",
-                "date": "Sun, 31 Mar 2024 16:50:00 +0900"
-            },
-            {
-                "title": "인요한, 양주·포천 찾아 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037792?sid=165",
-                "date": "Sun, 31 Mar 2024 12:31:00 +0900"
-            },
-            {
-                "title": "공식 선거운동 첫 주말…경기북부 표심 공략 '분주' [4·10총선 D-10]",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460590?sid=165",
-                "date": "Sat, 30 Mar 2024 20:51:00 +0900"
-            },
-            {
-                "title": "안기영 제22대 동두천시·양주시·연천군 갑 국회의원 후보 필승! 출정식",
-                "link": "http://www.tournews21.com/news/articleView.html?idxno=68345",
-                "date": "Sat, 30 Mar 2024 14:00:00 +0900"
-            },
-            {
-                "title": "[4·10 총선현장] 안기영  양주시민의 준엄한 심판, 16년 권력 놀음 꼭 끝내겠...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242119",
-                "date": "Fri, 29 Mar 2024 17:52:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4116/Hb100152992/gicho/thumbnail.100152992.JPG?ver=1679970",
+		"id": "2411603-1",
+		"재산": 4497847,
+		"생년월일": "19620602",
+		"경력": "(전)국회 예산결산특위 위원장\n(현)4선 국회의원",
+		"학력": "서울대학교 법과대학 사법학과 졸업",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "451",
+		"regionId": "2411603",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
+				"title": " 토박이 후보가 지역발전 견인  남병근·정성호 동두천서 유세",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081120"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 16:50:00 +0900",
+				"title": "이름이냐, 지역이냐 경기지역 총선 후보들의 슬로건 전쟁 [총선 관전포인트]",
+				"link": "https://n.news.naver.com/mnews/article/666/0000037830?sid=165"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 23:10:00 +0900",
+				"title": "최원식·원희룡·한동훈 계양서 만난 서울대 법대 선후배들",
+				"link": "https://www.asiatoday.co.kr/view.php?key=20240330010017774"
+			},
+			{
+				"date": "Fri, 29 Mar 2024 11:36:00 +0900",
+				"title": "민주 정성호, 선거운동 첫날 시민 5명 '형사 고발'",
+				"link": "https://n.news.naver.com/mnews/article/421/0007444991?sid=165"
+			},
+			{
+				"date": "Fri, 29 Mar 2024 10:08:00 +0900",
+				"title": "안기영 국민의힘 후보 출정식…“양주 새롭게 만드는 일에 동참해 달라” 지지...",
+				"link": "https://n.news.naver.com/mnews/article/666/0000037690?sid=165"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "정성호"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4116/Hb100152316/gicho/thumbnail.100152316.JPG?ver=1599697",
+		"id": "2411603-2",
+		"재산": 229378,
+		"생년월일": "19630405",
+		"경력": "(전)경기도의회 의원\n(전)국민의힘 양주시 당협위원장",
+		"학력": "고려대학교 대학원 졸업(정치학석사)",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2411603",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 16:50:00 +0900",
+				"title": "이름이냐, 지역이냐 경기지역 총선 후보들의 슬로건 전쟁 [총선 관전포인트]",
+				"link": "https://n.news.naver.com/mnews/article/666/0000037830?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 12:31:00 +0900",
+				"title": "인요한, 양주·포천 찾아 지지 호소",
+				"link": "https://n.news.naver.com/mnews/article/666/0000037792?sid=165"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 20:51:00 +0900",
+				"title": "공식 선거운동 첫 주말…경기북부 표심 공략 '분주' [4·10총선 D-10]",
+				"link": "https://n.news.naver.com/mnews/article/003/0012460590?sid=165"
+			},
+			{
+				"date": "Sat, 30 Mar 2024 14:00:00 +0900",
+				"title": "안기영 제22대 동두천시·양주시·연천군 갑 국회의원 후보 필승! 출정식",
+				"link": "http://www.tournews21.com/news/articleView.html?idxno=68345"
+			},
+			{
+				"date": "Fri, 29 Mar 2024 17:52:00 +0900",
+				"title": "[4·10 총선현장] 안기영  양주시민의 준엄한 심판, 16년 권력 놀음 꼭 끝내겠...",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242119"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "안기영"
+	}
 ]

@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2112402-1",
-        "regionId": "2112402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100151284/gicho/thumbnail.100151284.JPEG?ver=1686236",
-        "기호": 1,
-        "이름": "송기호",
-        "생년월일": "19630913",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "서울대학교 무역학과 졸업",
-        "경력": "(현) 서울시 공익변호사\n(전) 대통령직속 정책기획위원회 자문위원",
-        "재산": 1907955,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "유권자와 공 주고 받는 송기호 더불어민주당 송파을 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815463?sid=100",
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900"
-            },
-            {
-                "title": "운동하는 시민 바라보는 송기호 더불어민주당 송파을 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815461?sid=100",
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900"
-            },
-            {
-                "title": "송기호 더불어민주당 송파을 후보 '시민과 소통'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815459?sid=100",
-                "date": "Sun, 31 Mar 2024 21:05:00 +0900"
-            },
-            {
-                "title": "송기호 더불어민주당 송파을 후보 '유권자와 눈을 맞추고'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815460?sid=100",
-                "date": "Sun, 31 Mar 2024 21:05:00 +0900"
-            },
-            {
-                "title": "송기호 더불어민주당 송파을 후보 '지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815458?sid=100",
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2112402-2",
-        "regionId": "2112402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152726/gicho/thumbnail.100152726.JPG?ver=1672210",
-        "기호": 2,
-        "이름": "배현진",
-        "생년월일": "19831106",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "국회의원",
-        "학력": "북한대학원대학교 북한학과 석사 수료",
-        "경력": "(현) 제21대 국회의원\n(전) 국민의힘 최고위원",
-        "재산": 407248,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "한동훈 비대위원장 '박정훈 송파갑-배현진 송파을-김근식 송파병 지원 유세'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815475?sid=100",
-                "date": "Sun, 31 Mar 2024 21:31:00 +0900"
-            },
-            {
-                "title": "'국민의힘 송파 합동 유세'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815474?sid=100",
-                "date": "Sun, 31 Mar 2024 21:30:00 +0900"
-            },
-            {
-                "title": "배현진 국민의힘 송파을 후보, 송파 합동 유세에서",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815473?sid=100",
-                "date": "Sun, 31 Mar 2024 21:29:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100151284/gicho/thumbnail.100151284.JPEG?ver=1686236",
+		"id": "2112402-1",
+		"재산": 1907955,
+		"생년월일": "19630913",
+		"경력": "(현) 서울시 공익변호사\n(전) 대통령직속 정책기획위원회 자문위원",
+		"학력": "서울대학교 무역학과 졸업",
+		"직업": "변호사",
+		"성별": "남",
+		"regionId": "2112402",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 21:06:00 +0900",
+				"title": "유권자와 공 주고 받는 송기호 더불어민주당 송파을 후보",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815463?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:06:00 +0900",
+				"title": "운동하는 시민 바라보는 송기호 더불어민주당 송파을 후보",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815461?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:05:00 +0900",
+				"title": "송기호 더불어민주당 송파을 후보 '시민과 소통'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815459?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:05:00 +0900",
+				"title": "송기호 더불어민주당 송파을 후보 '유권자와 눈을 맞추고'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815460?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:04:00 +0900",
+				"title": "송기호 더불어민주당 송파을 후보 '지지 호소'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815458?sid=100"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "송기호"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152726/gicho/thumbnail.100152726.JPG?ver=1672210",
+		"id": "2112402-2",
+		"재산": 407248,
+		"생년월일": "19831106",
+		"경력": "(현) 제21대 국회의원\n(전) 국민의힘 최고위원",
+		"학력": "북한대학원대학교 북한학과 석사 수료",
+		"직업": "국회의원",
+		"성별": "여",
+		"id_21th": "1059",
+		"regionId": "2112402",
+		"기호": 2,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
+				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:31:00 +0900",
+				"title": "한동훈 비대위원장 '박정훈 송파갑-배현진 송파을-김근식 송파병 지원 유세'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815475?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:30:00 +0900",
+				"title": "'국민의힘 송파 합동 유세'",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815474?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:29:00 +0900",
+				"title": "배현진 국민의힘 송파을 후보, 송파 합동 유세에서",
+				"link": "https://n.news.naver.com/mnews/article/119/0002815473?sid=100"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "배현진"
+	}
 ]

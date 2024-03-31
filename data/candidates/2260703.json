@@ -1,88 +1,90 @@
-[
-    {
-        "id": "2260703-1",
-        "regionId": "2260703",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2607/Hb100152095/gicho/thumbnail.100152095.JPG?ver=1583649",
-        "기호": 1,
-        "이름": "박재호",
-        "생년월일": "19590213",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "중앙대학교 행정대학원 졸업(행정학 석사)",
-        "경력": "(현) 부산 남구을 재선 국회의원(제20대,제21대)\n(전) 노무현대통령 비서실 정무2비서관",
-        "재산": 1071961,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286",
-                "date": "Mon, 01 Apr 2024 03:48:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100",
-                "date": "Sun, 31 Mar 2024 20:55:00 +0900"
-            },
-            {
-                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
-                "date": "Sun, 31 Mar 2024 20:38:00 +0900"
-            },
-            {
-                "title": "민주 서은숙 “투표혁명 부산 디비질 것”",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070040?sid=165",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2260703-2",
-        "regionId": "2260703",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2607/Hb100152384/gicho/thumbnail.100152384.JPG?ver=1606852",
-        "기호": 2,
-        "이름": "박수영",
-        "생년월일": "19640107",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "부산 남구갑 국회의원",
-        "학력": "하버드대학교 졸업(공공정책학 석사)(1994.09~1996.06)",
-        "경력": "(전) 경기도 행정1부지사\n(전) 여의도연구원 원장",
-        "재산": 3516760,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286",
-                "date": "Mon, 01 Apr 2024 03:48:00 +0900"
-            },
-            {
-                "title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100",
-                "date": "Sun, 31 Mar 2024 20:55:00 +0900"
-            },
-            {
-                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
-                "date": "Sun, 31 Mar 2024 20:38:00 +0900"
-            },
-            {
-                "title": "[4·10 총선 D-9] 막판 치닫자 혼탁… 역대급 `황사 선거`",
-                "link": "https://n.news.naver.com/mnews/article/029/0002864567?sid=100",
-                "date": "Sun, 31 Mar 2024 19:46:00 +0900"
-            },
-            {
-                "title": "상춘객은 봄을, 후보자는 표를 챙기느라 바빴던 주말",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262929?sid=100",
-                "date": "Sun, 31 Mar 2024 18:52:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2607/Hb100152095/gicho/thumbnail.100152095.JPG?ver=1583649",
+		"id": "2260703-1",
+		"재산": 1071961,
+		"생년월일": "19590213",
+		"경력": "(현) 부산 남구을 재선 국회의원(제20대,제21대)\n(전) 노무현대통령 비서실 정무2비서관",
+		"학력": "중앙대학교 행정대학원 졸업(행정학 석사)",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "899",
+		"regionId": "2260703",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:48:00 +0900",
+				"title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
+				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
+				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:55:00 +0900",
+				"title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
+				"link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:38:00 +0900",
+				"title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+				"link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:19:00 +0900",
+				"title": "민주 서은숙 “투표혁명 부산 디비질 것”",
+				"link": "https://n.news.naver.com/mnews/article/658/0000070040?sid=165"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "박재호"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2607/Hb100152384/gicho/thumbnail.100152384.JPG?ver=1606852",
+		"id": "2260703-2",
+		"재산": 3516760,
+		"생년월일": "19640107",
+		"경력": "(전) 경기도 행정1부지사\n(전) 여의도연구원 원장",
+		"학력": "하버드대학교 졸업(공공정책학 석사)(1994.09~1996.06)",
+		"직업": "부산 남구갑 국회의원",
+		"성별": "남",
+		"id_21th": "1064",
+		"regionId": "2260703",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:48:00 +0900",
+				"title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
+				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:55:00 +0900",
+				"title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
+				"link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:38:00 +0900",
+				"title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+				"link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:46:00 +0900",
+				"title": "[4·10 총선 D-9] 막판 치닫자 혼탁… 역대급 `황사 선거`",
+				"link": "https://n.news.naver.com/mnews/article/029/0002864567?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:52:00 +0900",
+				"title": "상춘객은 봄을, 후보자는 표를 챙기느라 바빴던 주말",
+				"link": "https://n.news.naver.com/mnews/article/082/0001262929?sid=100"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "박수영"
+	}
 ]

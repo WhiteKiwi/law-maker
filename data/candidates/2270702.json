@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2270702-1",
-        "regionId": "2270702",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2707/Hb100152496/gicho/thumbnail.100152496.JPG?ver=1615209",
-        "기호": 1,
-        "이름": "김성태",
-        "생년월일": "19541110",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "경북대학교 행정대학원 행정학(석사) 졸업",
-        "경력": "(현)더불어민주당 달서을지역 위원장\n(전)대구광역시의회 의원",
-        "재산": 216171,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "與후보 “尹 무릎 꿇고 사과” 요구… 한동훈엔 “이-조 심판론 안먹혀”",
-                "link": "https://n.news.naver.com/mnews/article/020/0003556431?sid=100",
-                "date": "Mon, 01 Apr 2024 03:03:00 +0900"
-            },
-            {
-                "title": "“尹 무릎꿇고 사과해야”…與후보들 총선필패 위기감에 아우성",
-                "link": "https://n.news.naver.com/mnews/article/020/0003556381?sid=165",
-                "date": "Sun, 31 Mar 2024 19:12:00 +0900"
-            },
-            {
-                "title": "'민주주의·경제 퇴보' 공방...달서을 김성태  정부 실정  vs 윤재옥  야당 탓...",
-                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30284",
-                "date": "Sun, 31 Mar 2024 19:00:00 +0900"
-            },
-            {
-                "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160",
-                "date": "Sun, 31 Mar 2024 17:20:00 +0900"
-            },
-            {
-                "title": "'보수 위기론'에도···국민의힘-개혁신당 단일화, 사실상 불발",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106807",
-                "date": "Sun, 31 Mar 2024 15:38:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2270702-2",
-        "regionId": "2270702",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2707/Hb100153017/gicho/thumbnail.100153017.JPG?ver=1680929",
-        "기호": 2,
-        "이름": "윤재옥",
-        "생년월일": "19610910",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "동국대학교 대학원 경찰행정학과 박사과정 4학기 수료",
-        "경력": "(현) 국민의힘 원내대표\n(현) 국회 운영위원회 위원장",
-        "재산": 2449305,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "한동훈, 부산·경남 집중공략…흔들리는 텃밭 다잡기",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692347?sid=100",
-                "date": "Mon, 01 Apr 2024 01:00:00 +0900"
-            },
-            {
-                "title": "“금융위기 극복 앞장, 재계도 존경”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351075?sid=101",
-                "date": "Mon, 01 Apr 2024 00:10:00 +0900"
-            },
-            {
-                "title": " 진실된 사람 조해진, 김해 확 바꾼다 ",
-                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538186",
-                "date": "Sun, 31 Mar 2024 22:58:00 +0900"
-            },
-            {
-                "title": " 조석래, 존경받던 재계 원로 ..이명박·이관섭·구광모·정몽준 등 이틀째 조...",
-                "link": "http://www.4th.kr/news/articleView.html?idxno=2059954",
-                "date": "Sun, 31 Mar 2024 22:32:00 +0900"
-            },
-            {
-                "title": "한동훈, 닷새 연속 수도권 표심 읍소… 전체주의·범죄자 안돼 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/018/0005703841?sid=165",
-                "date": "Sun, 31 Mar 2024 22:22:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2707/Hb100152496/gicho/thumbnail.100152496.JPG?ver=1615209",
+		"id": "2270702-1",
+		"재산": 216171,
+		"생년월일": "19541110",
+		"경력": "(현)더불어민주당 달서을지역 위원장\n(전)대구광역시의회 의원",
+		"학력": "경북대학교 행정대학원 행정학(석사) 졸업",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2270702",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:03:00 +0900",
+				"title": "與후보 “尹 무릎 꿇고 사과” 요구… 한동훈엔 “이-조 심판론 안먹혀”",
+				"link": "https://n.news.naver.com/mnews/article/020/0003556431?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:12:00 +0900",
+				"title": "“尹 무릎꿇고 사과해야”…與후보들 총선필패 위기감에 아우성",
+				"link": "https://n.news.naver.com/mnews/article/020/0003556381?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:00:00 +0900",
+				"title": "'민주주의·경제 퇴보' 공방...달서을 김성태  정부 실정  vs 윤재옥  야당 탓...",
+				"link": "https://www.pn.or.kr/news/articleView.html?idxno=30284"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:20:00 +0900",
+				"title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
+				"link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 15:38:00 +0900",
+				"title": "'보수 위기론'에도···국민의힘-개혁신당 단일화, 사실상 불발",
+				"link": "http://www.m-i.kr/news/articleView.html?idxno=1106807"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "김성태"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2707/Hb100153017/gicho/thumbnail.100153017.JPG?ver=1680929",
+		"id": "2270702-2",
+		"재산": 2449305,
+		"생년월일": "19610910",
+		"경력": "(현) 국민의힘 원내대표\n(현) 국회 운영위원회 위원장",
+		"학력": "동국대학교 대학원 경찰행정학과 박사과정 4학기 수료",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "735",
+		"regionId": "2270702",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:00:00 +0900",
+				"title": "한동훈, 부산·경남 집중공략…흔들리는 텃밭 다잡기",
+				"link": "https://n.news.naver.com/mnews/article/056/0011692347?sid=100"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 00:10:00 +0900",
+				"title": "“금융위기 극복 앞장, 재계도 존경”",
+				"link": "https://n.news.naver.com/mnews/article/025/0003351075?sid=101"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
+				"title": " 진실된 사람 조해진, 김해 확 바꾼다 ",
+				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538186"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:32:00 +0900",
+				"title": " 조석래, 존경받던 재계 원로 ..이명박·이관섭·구광모·정몽준 등 이틀째 조...",
+				"link": "http://www.4th.kr/news/articleView.html?idxno=2059954"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:22:00 +0900",
+				"title": "한동훈, 닷새 연속 수도권 표심 읍소… 전체주의·범죄자 안돼 (종합)",
+				"link": "https://n.news.naver.com/mnews/article/018/0005703841?sid=165"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "윤재옥"
+	}
 ]

@@ -1,105 +1,106 @@
-[
-    {
-        "id": "2280402-1",
-        "regionId": "2280402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100152610/gicho/thumbnail.100152610.JPG?ver=1634932",
-        "기호": 1,
-        "이름": "박찬대",
-        "생년월일": "19670510",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "서울대학교 대학원 경영학 석사",
-        "경력": "(현) 제20·21대 연수구갑 국회의원\n(현) 더불어민주당 최고위원",
-        "재산": 2765467,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
-                "date": "Sun, 31 Mar 2024 21:52:00 +0900"
-            },
-            {
-                "title": "[총선 후보 현안현답] 인천 연수갑",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081121",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            },
-            {
-                "title": "박종진 국힘 서구을 후보, '들쥐' 발언 논란",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100632",
-                "date": "Sun, 31 Mar 2024 19:20:00 +0900"
-            },
-            {
-                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-            },
-            {
-                "title": "박찬대 의원, 전통무예 '궁도' 위한 법안 대표 발의",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081042",
-                "date": "Sun, 31 Mar 2024 16:38:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2280402-2",
-        "regionId": "2280402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151633/gicho/thumbnail.100151633.JPEG?ver=1684225",
-        "기호": 2,
-        "이름": "정승연",
-        "생년월일": "19660910",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "인하대학교 경영대학 교수",
-        "학력": "교토대학 대학원 경제학연구과 박사과정 졸업(경제학 박사, 1995. 4.~1999. 3.)",
-        "경력": "(전) 국민의힘 연수구갑 당협위원장\n(현) 인하대학교 국제통상학과 교수",
-        "재산": 2638116,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
-                "date": "Sun, 31 Mar 2024 21:52:00 +0900"
-            },
-            {
-                "title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100",
-                "date": "Sun, 31 Mar 2024 20:45:00 +0900"
-            },
-            {
-                "title": "한동훈 국민의힘 비대위원장, 연수구 지지 유세",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446780",
-                "date": "Sun, 31 Mar 2024 19:46:00 +0900"
-            },
-            {
-                "title": "'과거 발언·재산 검증'·거칠어진 말… 여야, 네거티브 확전",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003649",
-                "date": "Sun, 31 Mar 2024 19:40:00 +0900"
-            },
-            {
-                "title": "[총선 후보 현안현답] 인천 연수갑",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081121",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2280402-7",
-        "regionId": "2280402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100152661/gicho/thumbnail.100152661.JPG?ver=1646927",
-        "기호": 7,
-        "이름": "이영자",
-        "생년월일": "19620710",
-        "정당": "무소속",
-        "성별": "여",
-        "직업": "정치인",
-        "학력": "성신여자대학교 대학원 가정관리학과 졸업(이학박사)",
-        "경력": "(전) 인천대학교 겸임교수\n(전) 한국가족상담교육연구소 선임연구원",
-        "재산": 91600,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": []
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100152610/gicho/thumbnail.100152610.JPG?ver=1634932",
+		"id": "2280402-1",
+		"재산": 2765467,
+		"생년월일": "19670510",
+		"경력": "(현) 제20·21대 연수구갑 국회의원\n(현) 더불어민주당 최고위원",
+		"학력": "서울대학교 대학원 경영학 석사",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "913",
+		"regionId": "2280402",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 21:52:00 +0900",
+				"title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
+				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644602"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
+				"title": "[총선 후보 현안현답] 인천 연수갑",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081121"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:20:00 +0900",
+				"title": "박종진 국힘 서구을 후보, '들쥐' 발언 논란",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100632"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:18:00 +0900",
+				"title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 16:38:00 +0900",
+				"title": "박찬대 의원, 전통무예 '궁도' 위한 법안 대표 발의",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081042"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "박찬대"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100151633/gicho/thumbnail.100151633.JPEG?ver=1684225",
+		"id": "2280402-2",
+		"재산": 2638116,
+		"생년월일": "19660910",
+		"경력": "(전) 국민의힘 연수구갑 당협위원장\n(현) 인하대학교 국제통상학과 교수",
+		"학력": "교토대학 대학원 경제학연구과 박사과정 졸업(경제학 박사, 1995. 4.~1999. 3.)",
+		"직업": "인하대학교 경영대학 교수",
+		"성별": "남",
+		"regionId": "2280402",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 21:52:00 +0900",
+				"title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
+				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644602"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:45:00 +0900",
+				"title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
+				"link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:46:00 +0900",
+				"title": "한동훈 국민의힘 비대위원장, 연수구 지지 유세",
+				"link": "https://www.kmaeil.com/news/articleView.html?idxno=446780"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:40:00 +0900",
+				"title": "'과거 발언·재산 검증'·거칠어진 말… 여야, 네거티브 확전",
+				"link": "http://www.kyeongin.com/main/view.php?key=20240401010003649"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
+				"title": "[총선 후보 현안현답] 인천 연수갑",
+				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081121"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "정승연"
+	},
+	{
+		"전과건수": 1,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2804/Hb100152661/gicho/thumbnail.100152661.JPG?ver=1646927",
+		"id": "2280402-7",
+		"재산": 91600,
+		"생년월일": "19620710",
+		"경력": "(전) 인천대학교 겸임교수\n(전) 한국가족상담교육연구소 선임연구원",
+		"학력": "성신여자대학교 대학원 가정관리학과 졸업(이학박사)",
+		"직업": "정치인",
+		"성별": "여",
+		"regionId": "2280402",
+		"기호": 7,
+		"군필여부": false,
+		"news": [],
+		"정당": "무소속",
+		"이름": "이영자"
+	}
 ]

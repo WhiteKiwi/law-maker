@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2261002-1",
-        "regionId": "2261002",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2610/Hb100151119/gicho/thumbnail.100151119.JPEG?ver=1548135",
-        "기호": 1,
-        "이름": "최택용",
-        "생년월일": "19680331",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산대학교 환경대학원 도시계획학과 졸업",
-        "경력": "(전)더불어민주당 중앙당 대변인(SNS)\n(전)서울특별시 정무수석",
-        "재산": 4215204,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165",
-                "date": "Mon, 01 Apr 2024 03:04:00 +0900"
-            },
-            {
-                "title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            },
-            {
-                "title": "부산 기장군 野 최택용, 與 정동만 측 선대본부장 경찰 고발",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307282",
-                "date": "Sun, 31 Mar 2024 20:12:00 +0900"
-            },
-            {
-                "title": "최택용 후보 선대위, 정동만 후보 측 선대본부장 경찰 고발",
-                "link": "http://www.lawissue.co.kr/view.php?ud=2024033118515683409a8c8bf58f_12",
-                "date": "Sun, 31 Mar 2024 18:56:00 +0900"
-            },
-            {
-                "title": "[총선 브리핑]기장 최택용 선대위,  정동만 선대위, 선거법 위반  고발",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262891?sid=100",
-                "date": "Sun, 31 Mar 2024 15:15:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2261002-2",
-        "regionId": "2261002",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2610/Hb100152631/gicho/thumbnail.100152631.JPG?ver=1640741",
-        "기호": 2,
-        "이름": "정동만",
-        "생년월일": "19650718",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "부산대학교 경영대학원 졸업(경영학 석사)",
-        "경력": "(현)제21대 국회의원\n(전)제7대 부산광역시의원",
-        "재산": 1564896,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165",
-                "date": "Mon, 01 Apr 2024 03:04:00 +0900"
-            },
-            {
-                "title": "부산 기장군 野 최택용, 與 정동만 측 선대본부장 경찰 고발",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307282",
-                "date": "Sun, 31 Mar 2024 20:12:00 +0900"
-            },
-            {
-                "title": "최택용 후보 선대위, 정동만 후보 측 선대본부장 경찰 고발",
-                "link": "http://www.lawissue.co.kr/view.php?ud=2024033118515683409a8c8bf58f_12",
-                "date": "Sun, 31 Mar 2024 18:56:00 +0900"
-            },
-            {
-                "title": "부산 기장군 정동만 후보 공약... “‘품격있는 기장’ 만들겠다”",
-                "link": "https://www.ekn.kr/web/view.php?key=20240331020596056",
-                "date": "Sun, 31 Mar 2024 18:26:00 +0900"
-            },
-            {
-                "title": "국힘 정동만 후보 ‘기장 경제 활성화 공약’ 발표… “세계 속의 기장 만들 ...",
-                "link": "https://n.news.naver.com/mnews/article/382/0001116699?sid=102",
-                "date": "Sun, 31 Mar 2024 17:59:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2610/Hb100151119/gicho/thumbnail.100151119.JPEG?ver=1548135",
+		"id": "2261002-1",
+		"재산": 4215204,
+		"생년월일": "19680331",
+		"경력": "(전)더불어민주당 중앙당 대변인(SNS)\n(전)서울특별시 정무수석",
+		"학력": "부산대학교 환경대학원 도시계획학과 졸업",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2261002",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:04:00 +0900",
+				"title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
+				"link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:19:00 +0900",
+				"title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
+				"link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:12:00 +0900",
+				"title": "부산 기장군 野 최택용, 與 정동만 측 선대본부장 경찰 고발",
+				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307282"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:56:00 +0900",
+				"title": "최택용 후보 선대위, 정동만 후보 측 선대본부장 경찰 고발",
+				"link": "http://www.lawissue.co.kr/view.php?ud=2024033118515683409a8c8bf58f_12"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 15:15:00 +0900",
+				"title": "[총선 브리핑]기장 최택용 선대위,  정동만 선대위, 선거법 위반  고발",
+				"link": "https://n.news.naver.com/mnews/article/082/0001262891?sid=100"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "최택용"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2610/Hb100152631/gicho/thumbnail.100152631.JPG?ver=1640741",
+		"id": "2261002-2",
+		"재산": 1564896,
+		"생년월일": "19650718",
+		"경력": "(현)제21대 국회의원\n(전)제7대 부산광역시의원",
+		"학력": "부산대학교 경영대학원 졸업(경영학 석사)",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "1069",
+		"regionId": "2261002",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:04:00 +0900",
+				"title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
+				"link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:12:00 +0900",
+				"title": "부산 기장군 野 최택용, 與 정동만 측 선대본부장 경찰 고발",
+				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307282"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:56:00 +0900",
+				"title": "최택용 후보 선대위, 정동만 후보 측 선대본부장 경찰 고발",
+				"link": "http://www.lawissue.co.kr/view.php?ud=2024033118515683409a8c8bf58f_12"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 18:26:00 +0900",
+				"title": "부산 기장군 정동만 후보 공약... “‘품격있는 기장’ 만들겠다”",
+				"link": "https://www.ekn.kr/web/view.php?key=20240331020596056"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:59:00 +0900",
+				"title": "국힘 정동만 후보 ‘기장 경제 활성화 공약’ 발표… “세계 속의 기장 만들 ...",
+				"link": "https://n.news.naver.com/mnews/article/382/0001116699?sid=102"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "정동만"
+	}
 ]

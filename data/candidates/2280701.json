@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2280701-1",
-        "regionId": "2280701",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2807/Hb100152713/gicho/thumbnail.100152713.JPG?ver=1671929",
-        "기호": 1,
-        "이름": "유동수",
-        "생년월일": "19610918",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "연세대학교 상경대학 경영학과 졸업",
-        "경력": "(현)제21대 국회의원\n(전)제20대 국회의원",
-        "재산": 3906064,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "유동수 “살기 좋은 계양‧살고 싶은 계양 만들터” 포부 밝혀",
-                "link": "http://www.lawissue.co.kr/view.php?ud=20240401003655563892eef753eb_12",
-                "date": "Mon, 01 Apr 2024 00:44:00 +0900"
-            },
-            {
-                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-            },
-            {
-                "title": "[4·10 총선-계양구 갑 맞수] 국민의힘 최원식",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242377",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "[4·10 총선-계양구 갑 맞수] 더불어민주당 유동수",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242379",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "[총선] 인천 선거인 258만 명…후보들, 유권자 특색 '촉각'",
-                "link": "https://news.ifm.kr/news/articleView.html?idxno=384697",
-                "date": "Sun, 31 Mar 2024 17:50:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2280701-2",
-        "regionId": "2280701",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2807/Hb100152952/gicho/thumbnail.100152952.JPG?ver=1679426",
-        "기호": 2,
-        "이름": "최원식",
-        "생년월일": "19630308",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "서울대학교 법과대학 공법학과 졸업",
-        "경력": "(전)제19대 국회의원(계양구을선거구)\n(전)국민통합위원회 경제·계층분과위원",
-        "재산": 943467,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100",
-                "date": "Sun, 31 Mar 2024 20:45:00 +0900"
-            },
-            {
-                "title": "4‧10 총선 지원 유세 나선 유승민과 임종석의 공통점과 차이점은?",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78811",
-                "date": "Sun, 31 Mar 2024 20:08:00 +0900"
-            },
-            {
-                "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-                "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-                "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-            },
-            {
-                "title": "[4·10 총선-계양구 갑 맞수] 국민의힘 최원식",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242377",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "[4·10 총선-계양구 갑 맞수] 더불어민주당 유동수",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242379",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2807/Hb100152713/gicho/thumbnail.100152713.JPG?ver=1671929",
+		"id": "2280701-1",
+		"재산": 3906064,
+		"생년월일": "19610918",
+		"경력": "(현)제21대 국회의원\n(전)제20대 국회의원",
+		"학력": "연세대학교 상경대학 경영학과 졸업",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "918",
+		"regionId": "2280701",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 00:44:00 +0900",
+				"title": "유동수 “살기 좋은 계양‧살고 싶은 계양 만들터” 포부 밝혀",
+				"link": "http://www.lawissue.co.kr/view.php?ud=20240401003655563892eef753eb_12"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:18:00 +0900",
+				"title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
+				"title": "[4·10 총선-계양구 갑 맞수] 국민의힘 최원식",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242377"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
+				"title": "[4·10 총선-계양구 갑 맞수] 더불어민주당 유동수",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242379"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:50:00 +0900",
+				"title": "[총선] 인천 선거인 258만 명…후보들, 유권자 특색 '촉각'",
+				"link": "https://news.ifm.kr/news/articleView.html?idxno=384697"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "유동수"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2807/Hb100152952/gicho/thumbnail.100152952.JPG?ver=1679426",
+		"id": "2280701-2",
+		"재산": 943467,
+		"생년월일": "19630308",
+		"경력": "(전)제19대 국회의원(계양구을선거구)\n(전)국민통합위원회 경제·계층분과위원",
+		"학력": "서울대학교 법과대학 공법학과 졸업",
+		"직업": "변호사",
+		"성별": "남",
+		"regionId": "2280701",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Sun, 31 Mar 2024 20:45:00 +0900",
+				"title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
+				"link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:08:00 +0900",
+				"title": "4‧10 총선 지원 유세 나선 유승민과 임종석의 공통점과 차이점은?",
+				"link": "http://www.pennmike.com/news/articleView.html?idxno=78811"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:18:00 +0900",
+				"title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+				"link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
+				"title": "[4·10 총선-계양구 갑 맞수] 국민의힘 최원식",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242377"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
+				"title": "[4·10 총선-계양구 갑 맞수] 더불어민주당 유동수",
+				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242379"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "최원식"
+	}
 ]

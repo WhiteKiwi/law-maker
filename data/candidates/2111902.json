@@ -1,105 +1,106 @@
-[
-    {
-        "id": "2111902-1",
-        "regionId": "2111902",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100152475/gicho/thumbnail.100152475.JPG?ver=1695722",
-        "기호": 1,
-        "이름": "김민석",
-        "생년월일": "19640529",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국회의원",
-        "학력": "하버드대학교 케네디정치행정대학원 공공행정학석사(1994.9~1995.5)",
-        "경력": "(현)국회의원\n(전)더불어민주당 정책위의장",
-        "재산": -59320,
-        "군필여부": false,
-        "전과건수": 4,
-        "news": [
-            {
-                "title": "의정 갈등·도덕성·투표율...총선 '막판 변수'로 부상",
-                "link": "https://n.news.naver.com/mnews/article/052/0002017448?sid=165",
-                "date": "Mon, 01 Apr 2024 03:33:00 +0900"
-            },
-            {
-                "title": "자체 예상 판세는?…민주 ‘110곳+α’ vs 국힘 ‘80~90석’",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919785?sid=100",
-                "date": "Mon, 01 Apr 2024 01:03:00 +0900"
-            },
-            {
-                "title": "한동훈 국민의힘 비대위원장의 언더독(弱者) 전략은 실패할 것!",
-                "link": "http://www.breaknews.com/1024168",
-                "date": "Sun, 31 Mar 2024 21:50:00 +0900"
-            },
-            {
-                "title": "의정 갈등·도덕성·투표율...'D-10' 막판 변수로 부상",
-                "link": "https://n.news.naver.com/mnews/article/052/0002017378?sid=100",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "[이슈]  쓰레기, 정치를 개같이  부메랑 된 한동훈 막말, '이-조 심판론' 덫에...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641260",
-                "date": "Sun, 31 Mar 2024 20:08:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2111902-2",
-        "regionId": "2111902",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100151279/gicho/thumbnail.100151279.JPG?ver=1549429",
-        "기호": 2,
-        "이름": "박용찬",
-        "생년월일": "19641017",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 행정대학원졸업(행정학석사)",
-        "경력": "(전)국민의힘 영등포구을 당원협의회 위원장\n(전)MBC 뉴스데스크 앵커",
-        "재산": 2046903,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286",
-                "date": "Mon, 01 Apr 2024 03:48:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "[이슈분석]'총선' 카운트다운…한강벨트 '與 박빙열세'",
-                "link": "https://n.news.naver.com/mnews/article/030/0003193817?sid=100",
-                "date": "Sun, 31 Mar 2024 17:41:00 +0900"
-            },
-            {
-                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826",
-                "date": "Sun, 31 Mar 2024 15:42:00 +0900"
-            },
-            {
-                "title": "“도대체 어떤 은행이길래”…국힘·민주당, 집안싸움에 속탄다",
-                "link": "https://n.news.naver.com/mnews/article/009/0005280850?sid=165",
-                "date": "Sun, 31 Mar 2024 09:57:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2111902-7",
-        "regionId": "2111902",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100153173/gicho/thumbnail.100153173.JPG?ver=1685716",
-        "기호": 7,
-        "이름": "김정기",
-        "생년월일": "19670311",
-        "정당": "기후민생당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한양대학교 독어독문학과 졸업",
-        "경력": "(전)한양대학교 총학생회장\n(전)기후민생당 대표",
-        "재산": -84050,
-        "군필여부": false,
-        "전과건수": 2,
-        "news": []
-    }
+﻿[
+	{
+		"전과건수": 4,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100152475/gicho/thumbnail.100152475.JPG?ver=1695722",
+		"id": "2111902-1",
+		"재산": -59320,
+		"생년월일": "19640529",
+		"경력": "(현)국회의원\n(전)더불어민주당 정책위의장",
+		"학력": "하버드대학교 케네디정치행정대학원 공공행정학석사(1994.9~1995.5)",
+		"직업": "국회의원",
+		"성별": "남",
+		"id_21th": "276",
+		"regionId": "2111902",
+		"기호": 1,
+		"군필여부": false,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:33:00 +0900",
+				"title": "의정 갈등·도덕성·투표율...총선 '막판 변수'로 부상",
+				"link": "https://n.news.naver.com/mnews/article/052/0002017448?sid=165"
+			},
+			{
+				"date": "Mon, 01 Apr 2024 01:03:00 +0900",
+				"title": "자체 예상 판세는?…민주 ‘110곳+α’ vs 국힘 ‘80~90석’",
+				"link": "https://n.news.naver.com/mnews/article/022/0003919785?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:50:00 +0900",
+				"title": "한동훈 국민의힘 비대위원장의 언더독(弱者) 전략은 실패할 것!",
+				"link": "http://www.breaknews.com/1024168"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
+				"title": "의정 갈등·도덕성·투표율...'D-10' 막판 변수로 부상",
+				"link": "https://n.news.naver.com/mnews/article/052/0002017378?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:08:00 +0900",
+				"title": "[이슈]  쓰레기, 정치를 개같이  부메랑 된 한동훈 막말, '이-조 심판론' 덫에...",
+				"link": "https://www.polinews.co.kr/news/articleView.html?idxno=641260"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "김민석"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100151279/gicho/thumbnail.100151279.JPG?ver=1549429",
+		"id": "2111902-2",
+		"재산": 2046903,
+		"생년월일": "19641017",
+		"경력": "(전)국민의힘 영등포구을 당원협의회 위원장\n(전)MBC 뉴스데스크 앵커",
+		"학력": "서울대학교 행정대학원졸업(행정학석사)",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2111902",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 03:48:00 +0900",
+				"title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
+				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
+				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 17:41:00 +0900",
+				"title": "[이슈분석]'총선' 카운트다운…한강벨트 '與 박빙열세'",
+				"link": "https://n.news.naver.com/mnews/article/030/0003193817?sid=100"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 15:42:00 +0900",
+				"title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+				"link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 09:57:00 +0900",
+				"title": "“도대체 어떤 은행이길래”…국힘·민주당, 집안싸움에 속탄다",
+				"link": "https://n.news.naver.com/mnews/article/009/0005280850?sid=165"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "박용찬"
+	},
+	{
+		"전과건수": 2,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1119/Hb100153173/gicho/thumbnail.100153173.JPG?ver=1685716",
+		"id": "2111902-7",
+		"재산": -84050,
+		"생년월일": "19670311",
+		"경력": "(전)한양대학교 총학생회장\n(전)기후민생당 대표",
+		"학력": "한양대학교 독어독문학과 졸업",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2111902",
+		"기호": 7,
+		"군필여부": false,
+		"news": [],
+		"정당": "기후민생당",
+		"이름": "김정기"
+	}
 ]

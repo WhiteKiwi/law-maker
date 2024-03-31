@@ -1,88 +1,89 @@
-[
-    {
-        "id": "2480801-1",
-        "regionId": "2480801",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152622/gicho/thumbnail.100152622.JPG?ver=1639692",
-        "기호": 1,
-        "이름": "민홍철",
-        "생년월일": "19610418",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산대학교 대학원 법학과 졸업(법학석사)",
-        "경력": "(현)제21대 더불어민주당 국회의원\n(전)국방부 고등군사법원 법원장(육군준장)",
-        "재산": 2384275,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
-                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170",
-                "date": "Sun, 31 Mar 2024 22:58:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": " 윤 정권에 회초리 필요 · 민주당 200석 막아달라 ",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549484",
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900"
-            },
-            {
-                "title": "[한신협 민심 분석-경남] 진보세 강한 낙동강 벨트·창원 일부 두고 박빙의 승...",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003481",
-                "date": "Sun, 31 Mar 2024 20:36:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2480801-2",
-        "regionId": "2480801",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100151286/gicho/thumbnail.100151286.JPG?ver=1549639",
-        "기호": 2,
-        "이름": "박성호",
-        "생년월일": "19661213",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "경찰대학 법학과 졸업",
-        "경력": "(전)경상남도 행정부지사\n(전)김해의생명산업진흥원장",
-        "재산": 1371698,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
-                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170",
-                "date": "Sun, 31 Mar 2024 22:58:00 +0900"
-            },
-            {
-                "title": " 안동공단 근린공원 지하주차장 조성 ",
-                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538184",
-                "date": "Sun, 31 Mar 2024 22:58:00 +0900"
-            },
-            {
-                "title": " 진실된 사람 조해진, 김해 확 바꾼다 ",
-                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538186",
-                "date": "Sun, 31 Mar 2024 22:58:00 +0900"
-            },
-            {
-                "title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007",
-                "date": "Sun, 31 Mar 2024 22:04:00 +0900"
-            }
-        ]
-    }
+﻿[
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152622/gicho/thumbnail.100152622.JPG?ver=1639692",
+		"id": "2480801-1",
+		"재산": 2384275,
+		"생년월일": "19610418",
+		"경력": "(현)제21대 더불어민주당 국회의원\n(전)국방부 고등군사법원 법원장(육군준장)",
+		"학력": "부산대학교 대학원 법학과 졸업(법학석사)",
+		"직업": "정당인",
+		"성별": "남",
+		"id_21th": "778",
+		"regionId": "2480801",
+		"기호": 1,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
+				"title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
+				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
+				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 21:04:00 +0900",
+				"title": " 윤 정권에 회초리 필요 · 민주당 200석 막아달라 ",
+				"link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549484"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 20:36:00 +0900",
+				"title": "[한신협 민심 분석-경남] 진보세 강한 낙동강 벨트·창원 일부 두고 박빙의 승...",
+				"link": "http://www.kyeongin.com/main/view.php?key=20240401010003481"
+			}
+		],
+		"정당": "더불어민주당",
+		"이름": "민홍철"
+	},
+	{
+		"전과건수": 0,
+		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100151286/gicho/thumbnail.100151286.JPG?ver=1549639",
+		"id": "2480801-2",
+		"재산": 1371698,
+		"생년월일": "19661213",
+		"경력": "(전)경상남도 행정부지사\n(전)김해의생명산업진흥원장",
+		"학력": "경찰대학 법학과 졸업",
+		"직업": "정당인",
+		"성별": "남",
+		"regionId": "2480801",
+		"기호": 2,
+		"군필여부": true,
+		"news": [
+			{
+				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
+				"title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
+				"link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
+				"title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
+				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
+				"title": " 안동공단 근린공원 지하주차장 조성 ",
+				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538184"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
+				"title": " 진실된 사람 조해진, 김해 확 바꾼다 ",
+				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538186"
+			},
+			{
+				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
+				"title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
+				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007"
+			}
+		],
+		"정당": "국민의힘",
+		"이름": "박성호"
+	}
 ]
