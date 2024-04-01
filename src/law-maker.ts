@@ -13,6 +13,7 @@ export type LawMaker = {
     위원회: string;
     출석률: number; // 백분율
     등수: number;
+    총원: number;
   }[];
 
   대표발의법안: number;
@@ -26,6 +27,5 @@ export type LawMaker = {
     연도: number;
     재산: number; // 단위: 천원
   }[];
-  연평균_재산_증가량: number; // 계산 불가면 -1
   재산등수: number;
 };

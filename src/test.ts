@@ -18,6 +18,7 @@ async function main() {
       위원회: string;
       출석률: number;
       등수: number;
+      총원: number;
     }[]
   >();
   for (const lawMaker of lawMakers) {
@@ -33,12 +34,11 @@ async function main() {
     const ranks = 등수(sorted.map((info) => info.출석률));
     for (let i = 0; i < ranks.length; i++) {
       sorted[i].등수 = ranks[i];
+      sorted[i].총원 = sorted.length;
     }
   }
 
   for (const lawMaker of lawMakers) {
-    console.log("lawMaker", lawMaker);
-
     await writeJSON(path.join(lawMakerDir, `${lawMaker.id}.json`), lawMaker, {
       spaces: 2,
     });
