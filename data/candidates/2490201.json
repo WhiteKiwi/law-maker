@@ -1,113 +1,113 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100152374/gicho/thumbnail.100152374.JPG?ver=1604592",
-    "id": "2490201-1",
-    "재산": 562752,
-    "생년월일": "19680120",
-    "경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
-    "학력": "제주대학교 농과대학 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "966",
-    "regionId": "2490201",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-        "title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 23:52:00 +0900",
-        "title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:56:00 +0900",
-        "title": " 하원 테크노캠퍼스에 산업단지 조성 추진 ",
-        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=335632"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:31:00 +0900",
-        "title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
-        "link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:42:00 +0900",
-        "title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
-        "link": "https://jejumbc.com/article/jiOn1794K2sa7VXI"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "위성곤",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 488497
-      },
-      {
-        "연도": 2021,
-        "재산": 430378
-      },
-      {
-        "연도": 2022,
-        "재산": 364979
-      },
-      {
-        "연도": 2023,
-        "재산": 562752
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100151000/gicho/thumbnail.100151000.JPG?ver=1549026",
-    "id": "2490201-2",
-    "재산": 624713,
-    "생년월일": "19620806",
-    "경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
-    "학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2490201",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-        "title": "[한신협 공동 전국판세분석]제주 민주 3곳 우세 판단",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035350?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 23:52:00 +0900",
-        "title": "서귀포 선거구 첫 주말 유세…시민 만나 지지 호소",
-        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223309"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:56:00 +0900",
-        "title": " 더 많이 소통하며 청년의 미래 만들어 나갈 것 ",
-        "link": "http://www.jejumaeil.net/news/articleView.html?idxno=335631"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:31:00 +0900",
-        "title": "제주시갑·서귀포시 후보도 표십 잡기 나서",
-        "link": "https://n.news.naver.com/mnews/article/661/0000038670?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:42:00 +0900",
-        "title": " 민생파탄 심판해야  ..  제2공항 조속 추진 ",
-        "link": "https://jejumbc.com/article/jiOn1794K2sa7VXI"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "고기철",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 624713
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100152374/gicho/thumbnail.100152374.JPG?ver=1604592",
+        "id": "2490201-1",
+        "재산": 562752,
+        "생년월일": "19680120",
+        "경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
+        "학력": "제주대학교 농과대학 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "966",
+        "regionId": "2490201",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 21:23:00 +0900",
+                "title": "제주 제2공항 건설..정당.후보별 입장차 뚜렷",
+                "link": "https://n.news.naver.com/mnews/article/661/0000038701?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:56:00 +0900",
+                "title": "총선 후보자 제2공항 정책 답변은?",
+                "link": "https://jejumbc.com/article/wL15U8GjXezazlsOwT"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:54:00 +0900",
+                "title": "[사설] 중상모략식 '네거티브' 선거는 안된다",
+                "link": "http://www.jemin.com/news/articleView.html?idxno=770404"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+                "title": "[당선 가능성] 위성곤 62%…절반 이상 당선 전망",
+                "link": "http://www.jejuilbo.net/news/articleView.html?idxno=225147"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+                "title": "[종합] 제주도 여론조사, '갑 문대림-을 김한규-서귀포 위성곤' 우세",
+                "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540193"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "위성곤",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 488497
+            },
+            {
+                "연도": 2021,
+                "재산": 430378
+            },
+            {
+                "연도": 2022,
+                "재산": 364979
+            },
+            {
+                "연도": 2023,
+                "재산": 562752
+            }
+        ]
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4902/Hb100151000/gicho/thumbnail.100151000.JPG?ver=1549026",
+        "id": "2490201-2",
+        "재산": 624713,
+        "생년월일": "19620806",
+        "경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
+        "학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2490201",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 22:32:00 +0900",
+                "title": "[서귀포시] 고기철 후보, 남원읍 지역 유세.... 감귤산업법 제정 ",
+                "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540194"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:57:00 +0900",
+                "title": "여성가족부 유지 두고 총선 후보별 입장차 뚜렷",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693088?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:54:00 +0900",
+                "title": "[포토] 고기철 후보, 주말 시민들 만나 지지호소",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958571"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:52:00 +0900",
+                "title": "고기철, 서귀포 남원지역 농업정책 강화 계획 발표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958580"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "선거 공보물에 내 얼굴이…초상권 침해는 선거법 저촉 없어?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693045?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "고기철",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 624713
+            }
+        ]
+    }
 ]

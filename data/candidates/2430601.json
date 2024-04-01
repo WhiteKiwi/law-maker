@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2430601-1",
-    "regionId": "2430601",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4306/Hb100151059/gicho/thumbnail.100151059.JPG?ver=1684757",
-    "기호": 1,
-    "이름": "송재봉",
-    "생년월일": "19690925",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "충북대학교 대학원 행정학과 박사과정 수료",
-    "경력": "(전)더불어민주당 청주시장 후보\n(전)청와대 대통령비서실 행정관",
-    "재산": 453563,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-      },
-      {
-        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122",
-        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-      },
-      {
-        "title": " 예수, 부활하셨네 ",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746151",
-        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-      },
-      {
-        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540",
-        "date": "Sun, 31 Mar 2024 19:30:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 453563
-      }
-    ]
-  },
-  {
-    "id": "2430601-2",
-    "regionId": "2430601",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4306/Hb100152216/gicho/thumbnail.100152216.JPG?ver=1684759",
-    "기호": 2,
-    "이름": "김수민",
-    "생년월일": "19861225",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "숙명여자대학교 졸업(시각·영상디자인 학사)",
-    "경력": "(전)제20대 국회의원\n(현)국민의힘 홍보본부장",
-    "재산": 313326,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-      },
-      {
-        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122",
-        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-      },
-      {
-        "title": "인요한 국민의미래 선거대책위원장 청주 온다",
-        "link": "https://n.news.naver.com/mnews/article/031/0000824686?sid=102",
-        "date": "Sun, 31 Mar 2024 19:32:00 +0900"
-      },
-      {
-        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540",
-        "date": "Sun, 31 Mar 2024 19:30:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 313326
-      }
-    ]
-  }
+    {
+        "id": "2430601-1",
+        "regionId": "2430601",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4306/Hb100151059/gicho/thumbnail.100151059.JPG?ver=1684757",
+        "기호": 1,
+        "이름": "송재봉",
+        "생년월일": "19690925",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "충북대학교 대학원 행정학과 박사과정 수료",
+        "경력": "(전)더불어민주당 청주시장 후보\n(전)청와대 대통령비서실 행정관",
+        "재산": 453563,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 20:02:00 +0900",
+                "title": "민주 청주 후보들  오송참사 진상규명·책임자 처벌 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968568"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "민주당 청주지역 후보들  22대 국회서 오송참사, 국정조사 진행할 것 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746301"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:04:00 +0900",
+                "title": "민주당 청주권 후보 4인  오송참사 국정조사 실시 약속 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880639?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+                "title": "충북 총선 후보자 밀착 인터뷰 - 3. 송재봉 민주당 청주청원 후보",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430938"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+                "title": "민주 청주 후보들  오송참사 진상규명·책임자 처벌 ",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265962"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 453563
+            }
+        ]
+    },
+    {
+        "id": "2430601-2",
+        "regionId": "2430601",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4306/Hb100152216/gicho/thumbnail.100152216.JPG?ver=1684759",
+        "기호": 2,
+        "이름": "김수민",
+        "생년월일": "19861225",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "숙명여자대학교 졸업(시각·영상디자인 학사)",
+        "경력": "(전)제20대 국회의원\n(현)국민의힘 홍보본부장",
+        "재산": 313326,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 20:26:00 +0900",
+                "title": "민주 경기 판세 '우위'… 보수 '단일화' 저울질",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402010000104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": "충북 총선 후보자 밀착 인터뷰 - 4. 김수민 국민의힘 청주청원 후보",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430996"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:52:00 +0900",
+                "title": "수사받지 않는 성역에 '이·조 심판론' 한계…민주당 고비는?",
+                "link": "https://www.newsverse.kr/news/articleView.html?idxno=5121"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+                "title": "충북지역 국회의원 후보자, 병역사항은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307371"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+                "title": "0401 월리를 찾아서 1,2부 임시 2",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95012&s_mcd=0452&s_hcd=01"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 313326
+            }
+        ]
+    }
 ]

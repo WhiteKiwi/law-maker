@@ -1,169 +1,247 @@
 [
-  {
-    "id": "2310201-1",
-    "regionId": "2310201",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152783/gicho/thumbnail.100152783.JPG?ver=1673948",
-    "기호": 1,
-    "이름": "전은수",
-    "생년월일": "19841017",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "변호사",
-    "학력": "부산대학교 법학전문대학원 법무석사(법학) 졸업",
-    "경력": "(현)더불어민주당 중앙당 부대변인\n(전)한국에너지공단 상임감사",
-    "재산": 367377,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "종일 계양을 머무른 이재명 “악어 눈물에 속으면 안 된다”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001685144?sid=165",
-        "date": "Mon, 01 Apr 2024 04:09:00 +0900"
-      },
-      {
-        "title": "[한신협 공동 전국 판세분석]부산 울산 야권 거센 도전 여당 수성 관심",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035353?sid=165",
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-      },
-      {
-        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706",
-        "date": "Mon, 01 Apr 2024 00:12:00 +0900"
-      },
-      {
-        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936",
-        "date": "Sun, 31 Mar 2024 23:30:00 +0900"
-      },
-      {
-        "title": "울산 찾은 정세균  민주당 후보들 전폭적으로 밀어 달라 ",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344919",
-        "date": "Sun, 31 Mar 2024 23:30:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 367377
-      }
-    ]
-  },
-  {
-    "id": "2310201-2",
-    "regionId": "2310201",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152036/gicho/thumbnail.100152036.JPEG?ver=1686313",
-    "기호": 2,
-    "이름": "김상욱",
-    "생년월일": "19800101",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "법무법인 더정성 대표변호사",
-    "학력": "고려대학교 법과대학 법학과 졸업",
-    "경력": "(현)법무법인 더정성 대표변호사\n(전)국민의힘 울산광역시당 법률자문위원장",
-    "재산": 1243697,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "[한신협 공동 전국 판세분석]부산 울산 야권 거센 도전 여당 수성 관심",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035353?sid=165",
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-      },
-      {
-        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706",
-        "date": "Mon, 01 Apr 2024 00:12:00 +0900"
-      },
-      {
-        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936",
-        "date": "Sun, 31 Mar 2024 23:30:00 +0900"
-      },
-      {
-        "title": "최다 출마 남구갑.. 경쟁률만큼 치열한 유세전",
-        "link": "https://www.usmbc.co.kr/article/DFUdPW2ojW8H8DNtglb",
-        "date": "Sun, 31 Mar 2024 22:02:00 +0900"
-      },
-      {
-        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1243697
-      }
-    ]
-  },
-  {
-    "id": "2310201-6",
-    "regionId": "2310201",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152855/gicho/thumbnail.100152855.JPG?ver=1684390",
-    "기호": 6,
-    "이름": "이미영",
-    "생년월일": "19710713",
-    "정당": "새로운미래",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "고려대학교 행정전문대학원 행정학박사 수료",
-    "경력": "(전)제6대 울산남구의회 의원\n(전)제7대 울산광역시의회 부의장",
-    "재산": 277603,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 277603
-      }
-    ]
-  },
-  {
-    "id": "2310201-7",
-    "regionId": "2310201",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152256/gicho/thumbnail.100152256.JPG?ver=1595043",
-    "기호": 7,
-    "이름": "오호정",
-    "생년월일": "19900706",
-    "정당": "우리공화당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "인디애나대학교영어학사졸업(2013.09.~2019.05.)",
-    "경력": "(전)상신브레이크멕시코엔지니어\n(현)우리공화당울산남구갑당협위원장",
-    "재산": 51167,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 51167
-      }
-    ]
-  },
-  {
-    "id": "2310201-8",
-    "regionId": "2310201",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100151331/gicho/thumbnail.100151331.JPG?ver=1687000",
-    "기호": 8,
-    "이름": "허언욱",
-    "생년월일": "19640312",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "한양대학교 행정대학원 행정학과 졸업",
-    "경력": "(전)울산광역시 행정부시장\n(전)행정안전부 안전정책실장",
-    "재산": 1811740,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1811740
-      }
-    ]
-  }
+    {
+        "id": "2310201-1",
+        "regionId": "2310201",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152783/gicho/thumbnail.100152783.JPG?ver=1673948",
+        "기호": 1,
+        "이름": "전은수",
+        "생년월일": "19841017",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "변호사",
+        "학력": "부산대학교 법학전문대학원 법무석사(법학) 졸업",
+        "경력": "(현)더불어민주당 중앙당 부대변인\n(전)한국에너지공단 상임감사",
+        "재산": 367377,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 22:54:00 +0900",
+                "title": "울산 남구갑 TV토론…범죄자 변호 논란 등 공방전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464764?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:49:00 +0900",
+                "title": "[총선 D-9] 울산 남구갑 TV토론…상대 공약·경력 검증 집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603867?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "사전투표 앞두고 요동치는 울산 선거",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345022"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:06:00 +0900",
+                "title": "최다 각축 남구갑 TV 토론회..열띤 공방",
+                "link": "https://www.usmbc.co.kr/article/v2by-2ciwYtI"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:33:00 +0900",
+                "title": "울산 남구갑 후보 TV토론회…'파렴치범·성범죄자' 변호 논란",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451498?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 367377
+            }
+        ]
+    },
+    {
+        "id": "2310201-2",
+        "regionId": "2310201",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152036/gicho/thumbnail.100152036.JPEG?ver=1686313",
+        "기호": 2,
+        "이름": "김상욱",
+        "생년월일": "19800101",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "법무법인 더정성 대표변호사",
+        "학력": "고려대학교 법과대학 법학과 졸업",
+        "경력": "(현)법무법인 더정성 대표변호사\n(전)국민의힘 울산광역시당 법률자문위원장",
+        "재산": 1243697,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 00:12:00 +0900",
+                "title": "울산총선 거대 여야 후보 지지선언 잇따라",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995791"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:12:00 +0900",
+                "title": "울산 후보들 총선 공약발표",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995792"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:54:00 +0900",
+                "title": "울산 남구갑 TV토론…범죄자 변호 논란 등 공방전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464764?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:49:00 +0900",
+                "title": "[총선 D-9] 울산 남구갑 TV토론…상대 공약·경력 검증 집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603867?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "울산 남구갑 총선후보들 표심잡기 '공약 전쟁'",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344973"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1243697
+            }
+        ]
+    },
+    {
+        "id": "2310201-6",
+        "regionId": "2310201",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152855/gicho/thumbnail.100152855.JPG?ver=1684390",
+        "기호": 6,
+        "이름": "이미영",
+        "생년월일": "19710713",
+        "정당": "새로운미래",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "고려대학교 행정전문대학원 행정학박사 수료",
+        "경력": "(전)제6대 울산남구의회 의원\n(전)제7대 울산광역시의회 부의장",
+        "재산": 277603,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 00:12:00 +0900",
+                "title": "울산 후보들 총선 공약발표",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995792"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:54:00 +0900",
+                "title": "울산 남구갑 TV토론…범죄자 변호 논란 등 공방전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464764?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:49:00 +0900",
+                "title": "[총선 D-9] 울산 남구갑 TV토론…상대 공약·경력 검증 집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603867?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "울산 남구갑 총선후보들 표심잡기 '공약 전쟁'",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344973"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "사전투표 앞두고 요동치는 울산 선거",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345022"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 277603
+            }
+        ]
+    },
+    {
+        "id": "2310201-7",
+        "regionId": "2310201",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100152256/gicho/thumbnail.100152256.JPG?ver=1595043",
+        "기호": 7,
+        "이름": "오호정",
+        "생년월일": "19900706",
+        "정당": "우리공화당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "인디애나대학교영어학사졸업(2013.09.~2019.05.)",
+        "경력": "(전)상신브레이크멕시코엔지니어\n(현)우리공화당울산남구갑당협위원장",
+        "재산": 51167,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 22:54:00 +0900",
+                "title": "울산 남구갑 TV토론…범죄자 변호 논란 등 공방전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464764?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:49:00 +0900",
+                "title": "[총선 D-9] 울산 남구갑 TV토론…상대 공약·경력 검증 집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603867?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "사전투표 앞두고 요동치는 울산 선거",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345022"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:06:00 +0900",
+                "title": "최다 각축 남구갑 TV 토론회..열띤 공방",
+                "link": "https://www.usmbc.co.kr/article/v2by-2ciwYtI"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:00:00 +0900",
+                "title": "군소정당 빠진 TV토론회..제도 개선해야'",
+                "link": "http://web.ubc.co.kr/wp/archives/113104"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 51167
+            }
+        ]
+    },
+    {
+        "id": "2310201-8",
+        "regionId": "2310201",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3102/Hb100151331/gicho/thumbnail.100151331.JPG?ver=1687000",
+        "기호": 8,
+        "이름": "허언욱",
+        "생년월일": "19640312",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "한양대학교 행정대학원 행정학과 졸업",
+        "경력": "(전)울산광역시 행정부시장\n(전)행정안전부 안전정책실장",
+        "재산": 1811740,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 00:12:00 +0900",
+                "title": "울산 후보들 총선 공약발표",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995792"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:54:00 +0900",
+                "title": "울산 남구갑 TV토론…범죄자 변호 논란 등 공방전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464764?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:49:00 +0900",
+                "title": "[총선 D-9] 울산 남구갑 TV토론…상대 공약·경력 검증 집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603867?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "울산 남구갑 총선후보들 표심잡기 '공약 전쟁'",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344973"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "사전투표 앞두고 요동치는 울산 선거",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345022"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1811740
+            }
+        ]
+    }
 ]

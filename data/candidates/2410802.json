@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2410802-1",
-    "regionId": "2410802",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4108/Hb100151397/gicho/thumbnail.100151397.JPG?ver=1550249",
-    "기호": 1,
-    "이름": "이재강",
-    "생년월일": "19620720",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "의정부평화연구소 소장",
-    "학력": "런던정치경제대학교 정치학과 박사과정 수료(1993.10.1.~2005.9.30.)",
-    "경력": "(전) 경기도 평화부지사\n(현) 더불어민주당 기본사회위원회 부위원장",
-    "재산": 220195,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "국힘, ‘돌파구 찾기’...민주, ‘부동산 리스크’",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037827?sid=100",
-        "date": "Sun, 31 Mar 2024 16:28:00 +0900"
-      },
-      {
-        "title": "이재강 민주당 의정부을 후보, 한국공인중개사협회 의정부시지회와 정책전달식...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644501",
-        "date": "Sun, 31 Mar 2024 15:56:00 +0900"
-      },
-      {
-        "title": "[열전 25시] 3월 30일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037756?sid=165",
-        "date": "Sat, 30 Mar 2024 11:46:00 +0900"
-      },
-      {
-        "title": "[유세장 직격 인터뷰] 송석준·이재정·한무경·윤종군·한창섭·이재강·김선...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644230",
-        "date": "Thu, 28 Mar 2024 21:18:00 +0900"
-      },
-      {
-        "title": "북부자치도 신설 땐 규제 완화·미래 먹거리 확보 효능",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080793",
-        "date": "Thu, 28 Mar 2024 20:54:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 220195
-      }
-    ]
-  },
-  {
-    "id": "2410802-2",
-    "regionId": "2410802",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4108/Hb100152159/gicho/thumbnail.100152159.JPG?ver=1689830",
-    "기호": 2,
-    "이름": "이형섭",
-    "생년월일": "19790428",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "성균관대학교 법학과 졸업",
-    "경력": "(전) 국민의힘 의정부시을 당협위원장\n(현) 변호사",
-    "재산": 732000,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "의정부시을 이형섭 후보,  의정부 중심의 경기북부특별자치도 추진하겠다 ",
-        "link": "http://www.tournews21.com/news/articleView.html?idxno=68356",
-        "date": "Sun, 31 Mar 2024 23:52:00 +0900"
-      },
-      {
-        "title": "이형섭 국힘 의정부을 후보, 용현동 동네공약 7개 발표",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644533",
-        "date": "Sun, 31 Mar 2024 17:20:00 +0900"
-      },
-      {
-        "title": "[총선 동서남북] 국힘 의정부갑·을 지역구 전희경·이형섭 후보 합동출정식,...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644434",
-        "date": "Sun, 31 Mar 2024 14:38:00 +0900"
-      },
-      {
-        "title": "의정부을 국민의힘 이형섭  7호선 복선화 등 용현동 7개 공약 ",
-        "link": "https://n.news.naver.com/mnews/article/421/0007448007?sid=165",
-        "date": "Sun, 31 Mar 2024 14:07:00 +0900"
-      },
-      {
-        "title": "전희경·이형섭 의정부갑·을 후보 합동 출정식  우리는 새롭게 바꿀 준비가 ...",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080970",
-        "date": "Sun, 31 Mar 2024 14:00:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 732000
-      }
-    ]
-  }
+    {
+        "id": "2410802-1",
+        "regionId": "2410802",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4108/Hb100151397/gicho/thumbnail.100151397.JPG?ver=1550249",
+        "기호": 1,
+        "이름": "이재강",
+        "생년월일": "19620720",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "의정부평화연구소 소장",
+        "학력": "런던정치경제대학교 정치학과 박사과정 수료(1993.10.1.~2005.9.30.)",
+        "경력": "(전) 경기도 평화부지사\n(현) 더불어민주당 기본사회위원회 부위원장",
+        "재산": 220195,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 20:20:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037986?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+                "title": "의정부을 이재강 후보 공보책자에 지역현안 '고산동 물류센터 백지화' 공약 없...",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                "title": "[4.10총선-193] 부산 서·동구, 최형욱vs곽규택",
+                "link": "http://www.mhj21.com/160241"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "이재강 의정부을 후보  윤석열 대통령 담화, 총선용 포퓰리즘 …'국민 여론 잠...",
+                "link": "https://www.ajunews.com/view/20240401142536194"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "의정부교구 정평위, 관내 총선 후보 정책질의 결과 공개",
+                "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=33737"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 220195
+            }
+        ]
+    },
+    {
+        "id": "2410802-2",
+        "regionId": "2410802",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4108/Hb100152159/gicho/thumbnail.100152159.JPG?ver=1689830",
+        "기호": 2,
+        "이름": "이형섭",
+        "생년월일": "19790428",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "성균관대학교 법학과 졸업",
+        "경력": "(전) 국민의힘 의정부시을 당협위원장\n(현) 변호사",
+        "재산": 732000,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 18:40:00 +0900",
+                "title": "이형섭 국힘 의정부을 후보, 어르신·장애인 등 '생활 밀착형 복지 공약' 발표",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644632"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+                "title": "[총선 돋보기-경기 의정부을] 이형섭 후보, '생활 밀착형 복지 공약' 발표",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2108991"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "의정부교구 정평위, 관내 총선 후보 정책질의 결과 공개",
+                "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=33737"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:10:00 +0900",
+                "title": "국민의힘 이형섭 “경기북부특별자치도청은 의정부에”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023583715"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:02:00 +0900",
+                "title": "의정부을 국힘 이형섭 후보  생활 밀착형 복지 실현하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463196?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 732000
+            }
+        ]
+    }
 ]

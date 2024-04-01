@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2410401-1",
-    "regionId": "2410401",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4104/Hb100151690/gicho/thumbnail.100151690.JPG?ver=1594539",
-    "기호": 1,
-    "이름": "김준혁",
-    "생년월일": "19690307",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "대학교수",
-    "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
-    "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
-    "재산": 1386423,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "“한 번 더 기회” 비상등 켠 與… 野 후보 ‘닥공’· 폭탄 공약·읍소",
-        "link": "https://n.news.naver.com/mnews/article/005/0001685138?sid=165",
-        "date": "Mon, 01 Apr 2024 04:08:00 +0900"
-      },
-      {
-        "title": "한동훈 “음주운전 피해자 없으면 죄 아닌가”",
-        "link": "https://n.news.naver.com/mnews/article/005/0001685134?sid=165",
-        "date": "Mon, 01 Apr 2024 04:08:00 +0900"
-      },
-      {
-        "title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286",
-        "date": "Mon, 01 Apr 2024 03:48:00 +0900"
-      },
-      {
-        "title": "이재명 “여당 참패란 말은 엄살…악어의 눈물에 속지말라”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003351097?sid=165",
-        "date": "Mon, 01 Apr 2024 00:21:00 +0900"
-      },
-      {
-        "title": "김준혁 파동 2라운드… 박정희 증언 바탕  vs 이수정  변명하며 발 빼 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815489?sid=165",
-        "date": "Mon, 01 Apr 2024 00:10:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1386423
-      }
-    ]
-  },
-  {
-    "id": "2410401-2",
-    "regionId": "2410401",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4104/Hb100151496/gicho/thumbnail.100151496.JPG?ver=1552585",
-    "기호": 2,
-    "이름": "이수정",
-    "생년월일": "19640219",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "대학 교수",
-    "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
-    "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
-    "재산": 8551450,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "“전관예우면 160억” “마피아도 부인 안건드려”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003825616?sid=165",
-        "date": "Mon, 01 Apr 2024 03:06:00 +0900"
-      },
-      {
-        "title": "김준혁 파동 2라운드… 박정희 증언 바탕  vs 이수정  변명하며 발 빼 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815489?sid=165",
-        "date": "Mon, 01 Apr 2024 00:10:00 +0900"
-      },
-      {
-        "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299",
-        "date": "Sun, 31 Mar 2024 23:16:00 +0900"
-      },
-      {
-        "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611",
-        "date": "Sun, 31 Mar 2024 22:56:00 +0900"
-      },
-      {
-        "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046",
-        "date": "Sun, 31 Mar 2024 20:52:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 8551450
-      }
-    ]
-  }
+    {
+        "id": "2410401-1",
+        "regionId": "2410401",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4104/Hb100151690/gicho/thumbnail.100151690.JPG?ver=1594539",
+        "기호": 1,
+        "이름": "김준혁",
+        "생년월일": "19690307",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "대학교수",
+        "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
+        "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
+        "재산": 1386423,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 23:44:00 +0900",
+                "title": "“박정희, 위안부와 성관계” 발언 김준혁, 朴 외종손에 고소당해",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920230?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 23:37:00 +0900",
+                "title": "[사설] “尹·바이든 국지전 일으킬 수도” 김준혁, 국민 대표 자격 있나",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920227?sid=110"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:50:00 +0900",
+                "title": "[나이트포커스] 윤 대통령 대국민담화",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017785?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:29:00 +0900",
+                "title": "野 김준혁 “이대생 미군 성상납” 논란…與  즉각 사과하고 물러나야 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870494?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:26:00 +0900",
+                "title": "[4·10 총선] 국민의힘  민주당 김준혁(수원정) '이대생 미군장교 성상납'·'...",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667884"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1386423
+            }
+        ]
+    },
+    {
+        "id": "2410401-2",
+        "regionId": "2410401",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4104/Hb100151496/gicho/thumbnail.100151496.JPG?ver=1552585",
+        "기호": 2,
+        "이름": "이수정",
+        "생년월일": "19640219",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "대학 교수",
+        "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
+        "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
+        "재산": 8551450,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 21:53:00 +0900",
+                "title": "[앵커칼럼 오늘] 염장 지르기",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453680?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:50:00 +0900",
+                "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 8551450
+            }
+        ]
+    }
 ]

@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2412101-1",
-    "regionId": "2412101",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4121/Hb100151319/gicho/thumbnail.100151319.JPG?ver=1686000",
-    "기호": 1,
-    "이름": "이기헌",
-    "생년월일": "19681223",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "경희대학교 무역학과 졸업",
-    "경력": "(전)문재인대통령비서실 민정비서관\n(전)국가안보실 선임행정관",
-    "재산": 533937,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "title": "이기헌 고양시병 후보 마두역 광장에서 출정식… “더 살기 좋은 일산 만들겠...",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226531",
-        "date": "Sun, 31 Mar 2024 15:44:00 +0900"
-      },
-      {
-        "title": "이기헌 민주당 고양병 후보  무도한 정권 심판하고, 더 살기 좋은 일산 만들 ...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644416",
-        "date": "Sun, 31 Mar 2024 14:22:00 +0900"
-      },
-      {
-        "title": "이기헌 후보, 마두역 광장서 출정식 열어",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851252",
-        "date": "Sun, 31 Mar 2024 14:04:00 +0900"
-      },
-      {
-        "title": "이기헌 후보  경의중앙선을 경의중앙강남선으로  1호 공약 발표",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851020",
-        "date": "Sun, 31 Mar 2024 10:22:00 +0900"
-      },
-      {
-        "title": "&lt;고양병 후보 토론회&gt; 주도권 토론-이기헌·김종혁 후보",
-        "link": "http://www.mygoyang.com/news/articleView.html?idxno=78624",
-        "date": "Sun, 31 Mar 2024 09:54:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 533937
-      }
-    ]
-  },
-  {
-    "id": "2412101-2",
-    "regionId": "2412101",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4121/Hb100152032/gicho/thumbnail.100152032.JPG?ver=1685920",
-    "기호": 2,
-    "이름": "김종혁",
-    "생년월일": "19621019",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 정치외교학과 졸업",
-    "경력": "(전)중앙일보 편집국장\n(현)국민의힘 조직부총장",
-    "재산": 1701281,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "민주당 충북 총선 예비후보들  윤 정권 심판, 원팀 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307272",
-        "date": "Sun, 31 Mar 2024 14:50:00 +0900"
-      },
-      {
-        "title": "김종혁 후보, 22대 국회의원 출정식 개최",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851258",
-        "date": "Sun, 31 Mar 2024 14:36:00 +0900"
-      },
-      {
-        "title": "[노트북을 열며] 충북 여야 공약 비슷…오송참사 해법은 '극과 극'",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307271",
-        "date": "Sun, 31 Mar 2024 14:28:00 +0900"
-      },
-      {
-        "title": "이기헌 민주당 고양병 후보  무도한 정권 심판하고, 더 살기 좋은 일산 만들 ...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644416",
-        "date": "Sun, 31 Mar 2024 14:22:00 +0900"
-      },
-      {
-        "title": "김종혁·김용태 후보 “분담금 걱정 없는 재건축 추진·경제자유구역 확정”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851007",
-        "date": "Sun, 31 Mar 2024 10:22:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1701281
-      }
-    ]
-  }
+    {
+        "id": "2412101-1",
+        "regionId": "2412101",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4121/Hb100151319/gicho/thumbnail.100151319.JPG?ver=1686000",
+        "기호": 1,
+        "이름": "이기헌",
+        "생년월일": "19681223",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "경희대학교 무역학과 졸업",
+        "경력": "(전)문재인대통령비서실 민정비서관\n(전)국가안보실 선임행정관",
+        "재산": 533937,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "의정부교구 정평위, 관내 총선 후보 정책질의 결과 공개",
+                "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=33737"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:26:00 +0900",
+                "title": "[4·10 출사표] 이기헌 “난 경험 많은 유능한 신인… 투입 즉시 신속하게 성...",
+                "link": "https://n.news.naver.com/mnews/article/030/0003194071?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:44:00 +0900",
+                "title": "이기헌 고양시병 후보 마두역 광장에서 출정식… “더 살기 좋은 일산 만들겠...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226531"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:22:00 +0900",
+                "title": "이기헌 민주당 고양병 후보  무도한 정권 심판하고, 더 살기 좋은 일산 만들 ...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644416"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:04:00 +0900",
+                "title": "이기헌 후보, 마두역 광장서 출정식 열어",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851252"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 533937
+            }
+        ]
+    },
+    {
+        "id": "2412101-2",
+        "regionId": "2412101",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4121/Hb100152032/gicho/thumbnail.100152032.JPG?ver=1685920",
+        "기호": 2,
+        "이름": "김종혁",
+        "생년월일": "19621019",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 정치외교학과 졸업",
+        "경력": "(전)중앙일보 편집국장\n(현)국민의힘 조직부총장",
+        "재산": 1701281,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+                "title": "박덕흠 '당선축하 파티' 관련자 3명 검찰 고발…민주당  사퇴하라 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307378"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+                "title": "김종혁  선거 때만 되면 정권심판, 민주당 집권 후 일산 발전했나 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321670?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:59:00 +0900",
+                "title": "[총선] 국민의힘, ‘박정희·위안부’ 발언 김준혁에 “수원시민 모욕”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692625?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:50:00 +0900",
+                "title": "민주당 충북 총선 예비후보들  윤 정권 심판, 원팀 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307272"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:36:00 +0900",
+                "title": "김종혁 후보, 22대 국회의원 출정식 개최",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851258"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1701281
+            }
+        ]
+    }
 ]

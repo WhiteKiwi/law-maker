@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2280502-1",
-    "regionId": "2280502",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2805/Hb100152914/gicho/thumbnail.100152914.JPG?ver=1678779",
-    "기호": 1,
-    "이름": "이훈기",
-    "생년월일": "19651130",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "인하대학교 정책대학원 언론·홍보학과 석사 졸업",
-    "경력": "(전)진실화해를위한과거사정리위원회 대외협력담당관\n(전)OBS경인TV 방송정책국장",
-    "재산": 978181,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "title": "신재경  2호선 안양 연장 현실성 없어  vs 이훈기  무조건 용적률 상향, 답 아...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644601",
-        "date": "Sun, 31 Mar 2024 22:10:00 +0900"
-      },
-      {
-        "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
-        "date": "Sun, 31 Mar 2024 21:52:00 +0900"
-      },
-      {
-        "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-        "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-      },
-      {
-        "title": "[4·10 총선 인천 선거구별 정책 분석] 부평구 갑",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242340",
-        "date": "Sun, 31 Mar 2024 17:14:00 +0900"
-      },
-      {
-        "title": "[4·10 총선 인천 선거구별 정책 분석] 남동구 을",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242339",
-        "date": "Sun, 31 Mar 2024 17:14:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 978181
-      }
-    ]
-  },
-  {
-    "id": "2280502-2",
-    "regionId": "2280502",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2805/Hb100151407/gicho/thumbnail.100151407.JPG?ver=1685204",
-    "기호": 2,
-    "이름": "신재경",
-    "생년월일": "19690517",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "숭실대학교 대학원 정치외교학과 졸업(정치학 석사)",
-    "경력": "(전)대통령비서실 선임행정관\n(전)제20대 대통령직인수위원회 전문위원",
-    "재산": 413097,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "[22대 총선 D-9] '기세 -섬세 -상세' 주말이 뜨겁다",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644604",
-        "date": "Sun, 31 Mar 2024 22:12:00 +0900"
-      },
-      {
-        "title": "신재경  2호선 안양 연장 현실성 없어  vs 이훈기  무조건 용적률 상향, 답 아...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644601",
-        "date": "Sun, 31 Mar 2024 22:10:00 +0900"
-      },
-      {
-        "title": " 주말 표심 잡아라 … 후보 가족 총출동 선거구 돌며 유세전",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644602",
-        "date": "Sun, 31 Mar 2024 21:52:00 +0900"
-      },
-      {
-        "title": "국민의힘 수도권 후보, '원패스 벨트' 구축 시동",
-        "link": "https://n.news.naver.com/mnews/article/003/0012461867?sid=100",
-        "date": "Sun, 31 Mar 2024 20:45:00 +0900"
-      },
-      {
-        "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=100631",
-        "date": "Sun, 31 Mar 2024 19:18:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 413097
-      }
-    ]
-  }
+    {
+        "id": "2280502-1",
+        "regionId": "2280502",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2805/Hb100152914/gicho/thumbnail.100152914.JPG?ver=1678779",
+        "기호": 1,
+        "이름": "이훈기",
+        "생년월일": "19651130",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "인하대학교 정책대학원 언론·홍보학과 석사 졸업",
+        "경력": "(전)진실화해를위한과거사정리위원회 대외협력담당관\n(전)OBS경인TV 방송정책국장",
+        "재산": 978181,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 23:22:00 +0900",
+                "title": "인천 남동을 이훈기·신재경... 토론회서 제2경인선 등 교통 현안 놓고 열띤 ...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:40:00 +0900",
+                "title": "민생·실행계획 뒷전 '속 빈 정책공보물'",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402010000134"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:18:00 +0900",
+                "title": "[남동구을 TV토론] 인천대공원 활성화 어떻게…이훈기 '자연 친화' vs 신재경...",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=168431"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:13:00 +0900",
+                "title": "민주 ‘철도망 구축’ vs 국힘 ‘수도권 통합 패스’…인천 후보들 교통 정책...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037937?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:18:00 +0900",
+                "title": "[4·10 총선…인천 TV 토론회] 남동구을, ‘인천대공원’ 공약…이훈기 “자연...",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787876"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 978181
+            }
+        ]
+    },
+    {
+        "id": "2280502-2",
+        "regionId": "2280502",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2805/Hb100151407/gicho/thumbnail.100151407.JPG?ver=1685204",
+        "기호": 2,
+        "이름": "신재경",
+        "생년월일": "19690517",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "숭실대학교 대학원 정치외교학과 졸업(정치학 석사)",
+        "경력": "(전)대통령비서실 선임행정관\n(전)제20대 대통령직인수위원회 전문위원",
+        "재산": 413097,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 23:22:00 +0900",
+                "title": "인천 남동을 이훈기·신재경... 토론회서 제2경인선 등 교통 현안 놓고 열띤 ...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:52:00 +0900",
+                "title": "국민의힘 신재경 후보, 좋은 후보 인증서 전달식",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447011"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:10:00 +0900",
+                "title": "[총선 24시] 신재경  이승훈 역사공원 인근 주차장 확보 할 것 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644833"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+                "title": "[총선] 신재경 후보  이승훈 역사공원 인근 300여면 주자창 조성 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384796"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 413097
+            }
+        ]
+    }
 ]

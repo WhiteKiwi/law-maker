@@ -1,100 +1,100 @@
 [
-  {
-    "id": "2431401-1",
-    "regionId": "2431401",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4314/Hb100152150/gicho/thumbnail.100152150.JPG?ver=1587544",
-    "기호": 1,
-    "이름": "이광희",
-    "생년월일": "19631009",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "충북대학교 대학원 졸업(농학박사)",
-    "경력": "(전)제9대 제10대 충청북도의회의원\n(현)더불어민주당 교육연수원 부원장",
-    "재산": 343040,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-      },
-      {
-        "title": "4.10 총선 / 청주서원 이광희 후보",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746092",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122",
-        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-      },
-      {
-        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540",
-        "date": "Sun, 31 Mar 2024 19:30:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 343040
-      }
-    ]
-  },
-  {
-    "id": "2431401-2",
-    "regionId": "2431401",
-    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4314/Hb100151788/gicho/thumbnail.100151788.JPG?ver=1563256",
-    "기호": 2,
-    "이름": "김진모",
-    "생년월일": "19660125",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 법과대학 사법학과 졸업",
-    "경력": "(전)대통령실 민정2비서관\n(전)서울남부지방검찰청 검사장",
-    "재산": 9904779,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-      },
-      {
-        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "오제세, 휴대폰 불난다",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746149",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "4.10 총선 / 청주서원 김진모 후보",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746091",
-        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-      },
-      {
-        "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122",
-        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 9904779
-      }
-    ]
-  }
+    {
+        "id": "2431401-1",
+        "regionId": "2431401",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4314/Hb100152150/gicho/thumbnail.100152150.JPG?ver=1587544",
+        "기호": 1,
+        "이름": "이광희",
+        "생년월일": "19631009",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "충북대학교 대학원 졸업(농학박사)",
+        "경력": "(전)제9대 제10대 충청북도의회의원\n(현)더불어민주당 교육연수원 부원장",
+        "재산": 343040,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 21:29:00 +0900",
+                "title": "[총선/KBS 여론조사] 청주 상당·서원 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693005?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:14:00 +0900",
+                "title": "이재명, 이틀째 '계양을' 유세 집중…文은 부산 사상 깜짝 방문",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453660?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "[충북 청주서원] 더불어민주당 이광희 37%, 국민의힘 김진모 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428443?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "청주상당 `격차 축소'·서원 `박빙' … 격전지 혼전",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792508"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:02:00 +0900",
+                "title": "[KBS 청주방송총국 여론조사] 청주권·비청주권 엇갈린 표심",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968594"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 343040
+            }
+        ]
+    },
+    {
+        "id": "2431401-2",
+        "regionId": "2431401",
+        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4314/Hb100151788/gicho/thumbnail.100151788.JPG?ver=1563256",
+        "기호": 2,
+        "이름": "김진모",
+        "생년월일": "19660125",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 법과대학 사법학과 졸업",
+        "경력": "(전)대통령실 민정2비서관\n(전)서울남부지방검찰청 검사장",
+        "재산": 9904779,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 00:20:00 +0900",
+                "title": "[현장]  제가 왜 온지 알죠?  인요한, '청주 정치신인' 김진모·김동원 지원사...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815957?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:37:00 +0900",
+                "title": "인요한  尹 대국민담화 좋은 얘기…'의대 증원' 대화로 풀어야 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815946?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:29:00 +0900",
+                "title": "[총선/KBS 여론조사] 청주 상당·서원 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693005?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "[충북 청주서원] 더불어민주당 이광희 37%, 국민의힘 김진모 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428443?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "청주상당 `격차 축소'·서원 `박빙' … 격전지 혼전",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792508"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 9904779
+            }
+        ]
+    }
 ]
