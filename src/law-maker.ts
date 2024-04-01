@@ -26,5 +26,6 @@ export type LawMaker = {
     연도: number;
     재산: number; // 단위: 천원
   }[];
+  연평균_재산_증가량: number; // 계산 불가면 -1
   재산등수: number;
 };
