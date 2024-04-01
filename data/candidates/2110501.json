@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2110501-1",
-        "regionId": "2110501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1105/Hb100151442/gicho/thumbnail.100151442.JPG?ver=1685699",
-        "기호": 1,
-        "이름": "이정헌",
-        "생년월일": "19710505",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 영어영문학과 졸업",
-        "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
-        "재산": 748792,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "정동영 후보 1일 서울 광진 이정헌 후보 지원유세",
-                "link": "http://sjbnews.com/news/news.php?number=811341",
-                "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-            },
-            {
-                "title": "[현장] 박지원~고민정 vs 손학규~김병민…격전지 광진 찾은 '대표님'들",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815280?sid=165",
-                "date": "Sun, 31 Mar 2024 05:00:00 +0900"
-            },
-            {
-                "title": "공식 선거운동 첫 주말, 이재명 서울 한바퀴 돌며  단독 1당  당부(종합)",
-                "link": "https://n.news.naver.com/mnews/article/018/0005703474?sid=165",
-                "date": "Sat, 30 Mar 2024 19:54:00 +0900"
-            },
-            {
-                "title": "[포토] 지지 호소하는 광진갑 이정헌 후보",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315373",
-                "date": "Sat, 30 Mar 2024 19:02:00 +0900"
-            },
-            {
-                "title": "[포토] 이재명, 고민정·이정헌 후보 지원유세",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315372",
-                "date": "Sat, 30 Mar 2024 19:02:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2110501-2",
-        "regionId": "2110501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1105/Hb100152210/gicho/thumbnail.100152210.JPG?ver=1600874",
-        "기호": 2,
-        "이름": "김병민",
-        "생년월일": "19820204",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "경희대학교 행정학과 객원교수",
-        "학력": "경희대학교 대학원 행정학 박사",
-        "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
-        "재산": 1018304,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[스트레이트] '독재화'하는 한국 - 공영방송과 '신보도지침'",
-                "link": "https://n.news.naver.com/mnews/article/214/0001339808?sid=100",
-                "date": "Sun, 31 Mar 2024 21:12:00 +0900"
-            },
-            {
-                "title": "정동영 후보 1일 서울 광진 이정헌 후보 지원유세",
-                "link": "http://sjbnews.com/news/news.php?number=811341",
-                "date": "Sun, 31 Mar 2024 19:54:00 +0900"
-            },
-            {
-                "title": "격전지 서울 광진구에 손학규 박지원 지원유세 나서",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160275361613891",
-                "date": "Sun, 31 Mar 2024 11:44:00 +0900"
-            },
-            {
-                "title": "[고하승 칼럼] 손학규의 여당 후보 지원 유세…왜?",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271303773783",
-                "date": "Sun, 31 Mar 2024 11:22:00 +0900"
-            },
-            {
-                "title": "고양시갑 무소속 김성남 후보, '좋은 후보' 선정",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957326",
-                "date": "Sun, 31 Mar 2024 11:10:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2110501-1",
+    "regionId": "2110501",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1105/Hb100151442/gicho/thumbnail.100151442.JPG?ver=1685699",
+    "기호": 1,
+    "이름": "이정헌",
+    "생년월일": "19710505",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 영어영문학과 졸업",
+    "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
+    "재산": 748792,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "정동영 후보 1일 서울 광진 이정헌 후보 지원유세",
+        "link": "http://sjbnews.com/news/news.php?number=811341",
+        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
+      },
+      {
+        "title": "[현장] 박지원~고민정 vs 손학규~김병민…격전지 광진 찾은 '대표님'들",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815280?sid=165",
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900"
+      },
+      {
+        "title": "공식 선거운동 첫 주말, 이재명 서울 한바퀴 돌며  단독 1당  당부(종합)",
+        "link": "https://n.news.naver.com/mnews/article/018/0005703474?sid=165",
+        "date": "Sat, 30 Mar 2024 19:54:00 +0900"
+      },
+      {
+        "title": "[포토] 지지 호소하는 광진갑 이정헌 후보",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315373",
+        "date": "Sat, 30 Mar 2024 19:02:00 +0900"
+      },
+      {
+        "title": "[포토] 이재명, 고민정·이정헌 후보 지원유세",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315372",
+        "date": "Sat, 30 Mar 2024 19:02:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 748792
+      }
+    ]
+  },
+  {
+    "id": "2110501-2",
+    "regionId": "2110501",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1105/Hb100152210/gicho/thumbnail.100152210.JPG?ver=1600874",
+    "기호": 2,
+    "이름": "김병민",
+    "생년월일": "19820204",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "경희대학교 행정학과 객원교수",
+    "학력": "경희대학교 대학원 행정학 박사",
+    "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
+    "재산": 1018304,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[스트레이트] '독재화'하는 한국 - 공영방송과 '신보도지침'",
+        "link": "https://n.news.naver.com/mnews/article/214/0001339808?sid=100",
+        "date": "Sun, 31 Mar 2024 21:12:00 +0900"
+      },
+      {
+        "title": "정동영 후보 1일 서울 광진 이정헌 후보 지원유세",
+        "link": "http://sjbnews.com/news/news.php?number=811341",
+        "date": "Sun, 31 Mar 2024 19:54:00 +0900"
+      },
+      {
+        "title": "격전지 서울 광진구에 손학규 박지원 지원유세 나서",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160275361613891",
+        "date": "Sun, 31 Mar 2024 11:44:00 +0900"
+      },
+      {
+        "title": "[고하승 칼럼] 손학규의 여당 후보 지원 유세…왜?",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271303773783",
+        "date": "Sun, 31 Mar 2024 11:22:00 +0900"
+      },
+      {
+        "title": "고양시갑 무소속 김성남 후보, '좋은 후보' 선정",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957326",
+        "date": "Sun, 31 Mar 2024 11:10:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1018304
+      }
+    ]
+  }
 ]

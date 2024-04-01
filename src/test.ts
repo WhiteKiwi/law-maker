@@ -74,6 +74,8 @@ async function main() {
   }
 
   await createRanking(lawMakers);
+  await set연도별재산(lawMakers);
+  await sortCandidates();
 }
 
 async function createRanking(lawMakers: LawMaker[]) {
@@ -100,13 +102,13 @@ function 연평균재산증가(
   maker: LawMaker,
   candidates: LawMakerCadidate[]
 ): number {
-  const year24 = candidates.find((candidate) => candidate.id_21th === maker.id);
+  const year23 = candidates.find((candidate) => candidate.id_21th === maker.id);
   const 내림차순_연도별_재산 = maker.연도별_재산.sort(
     (a, b) => b.연도 - a.연도
   );
 
-  const 최근 = year24
-    ? { 연도: 2024, 재산: year24.재산 }
+  const 최근 = year23
+    ? { 연도: 2023, 재산: year23.재산 }
     : 내림차순_연도별_재산[0];
   const 제일오래전 = 내림차순_연도별_재산.at(-1);
   if (!제일오래전 || 제일오래전.연도 === 최근.연도) {
@@ -125,6 +127,42 @@ async function loadCandidates(): Promise<LawMakerCadidate[]> {
     candidates.push(..._candidates);
   }
   return candidates;
+}
+
+async function set연도별재산(lawMakers: LawMaker[]): Promise<void> {
+  const candidatesDir = path.join(__dirname, "../data/candidates");
+  const files = await readdir(candidatesDir);
+  for (const file of files) {
+    const candidates: LawMakerCadidate[] = await readJSON(
+      path.join(candidatesDir, file)
+    );
+
+    for (const candidate of candidates) {
+      const lawMaker = lawMakers.find(
+        (maker) => maker.id === candidate.id_21th
+      );
+      candidate.연도별_재산 = [
+        ...(lawMaker?.연도별_재산 || []),
+        { 연도: 2023, 재산: candidate.재산 },
+      ].sort((a, b) => a.연도 - b.연도);
+    }
+    await writeJSON(path.join(candidatesDir, file), candidates, { spaces: 2 });
+  }
+}
+
+async function sortCandidates() {
+  const candidatesDir = path.join(__dirname, "../data/candidates");
+  const files = await readdir(candidatesDir);
+  for (const file of files) {
+    const candidates: LawMakerCadidate[] = await readJSON(
+      path.join(candidatesDir, file)
+    );
+    await writeJSON(
+      path.join(candidatesDir, file),
+      candidates.sort((a, b) => a.기호 - b.기호),
+      { spaces: 2 }
+    );
+  }
 }
 
 main();

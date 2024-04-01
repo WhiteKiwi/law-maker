@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2413602-1",
-        "regionId": "2413602",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151812/gicho/thumbnail.100151812.JPG?ver=1685053",
-        "기호": 1,
-        "이름": "부승찬",
-        "생년월일": "19701014",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
-        "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
-        "재산": 71130,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212",
-                "date": "Sun, 31 Mar 2024 10:12:00 +0900"
-            },
-            {
-                "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165",
-                "date": "Sat, 30 Mar 2024 17:53:00 +0900"
-            },
-            {
-                "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425",
-                "date": "Fri, 29 Mar 2024 16:24:00 +0900"
-            },
-            {
-                "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165",
-                "date": "Fri, 29 Mar 2024 11:36:00 +0900"
-            },
-            {
-                "title": "[4·10 총선 여론조사-용인병] 고석 앞에 부승찬… 오차범위밖 선두",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644188",
-                "date": "Thu, 28 Mar 2024 23:56:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2413602-2",
-        "regionId": "2413602",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151212/gicho/thumbnail.100151212.JPG?ver=1684585",
-        "기호": 2,
-        "이름": "고석",
-        "생년월일": "19600316",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
-        "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
-        "재산": 3986876,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165",
-                "date": "Sun, 31 Mar 2024 20:50:00 +0900"
-            },
-            {
-                "title": "용인 지원 나선 한동훈  4명의 후보와 용인 발전 이루겠다 ",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644548",
-                "date": "Sun, 31 Mar 2024 19:32:00 +0900"
-            },
-            {
-                "title": "국힘 용인병 고석  수지중앙공원 등 대규모 공원 조성 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461809?sid=102",
-                "date": "Sun, 31 Mar 2024 18:37:00 +0900"
-            },
-            {
-                "title": "[현장] '용인行' 한동훈  국민 지배하려 드는 '민주·조국당'…우린 '섬기는 ...",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815408?sid=165",
-                "date": "Sun, 31 Mar 2024 14:33:00 +0900"
-            },
-            {
-                "title": "국민의힘 용인병 고석 후보 ‘수지중앙공원 조성 등 대규모 공원 조성...수지...",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281400881967",
-                "date": "Sun, 31 Mar 2024 13:42:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2413602-1",
+    "regionId": "2413602",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151812/gicho/thumbnail.100151812.JPG?ver=1685053",
+    "기호": 1,
+    "이름": "부승찬",
+    "생년월일": "19701014",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
+    "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
+    "재산": 71130,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212",
+        "date": "Sun, 31 Mar 2024 10:12:00 +0900"
+      },
+      {
+        "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165",
+        "date": "Sat, 30 Mar 2024 17:53:00 +0900"
+      },
+      {
+        "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425",
+        "date": "Fri, 29 Mar 2024 16:24:00 +0900"
+      },
+      {
+        "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165",
+        "date": "Fri, 29 Mar 2024 11:36:00 +0900"
+      },
+      {
+        "title": "[4·10 총선 여론조사-용인병] 고석 앞에 부승찬… 오차범위밖 선두",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644188",
+        "date": "Thu, 28 Mar 2024 23:56:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 71130
+      }
+    ]
+  },
+  {
+    "id": "2413602-2",
+    "regionId": "2413602",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151212/gicho/thumbnail.100151212.JPG?ver=1684585",
+    "기호": 2,
+    "이름": "고석",
+    "생년월일": "19600316",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
+    "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
+    "재산": 3986876,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165",
+        "date": "Sun, 31 Mar 2024 20:50:00 +0900"
+      },
+      {
+        "title": "용인 지원 나선 한동훈  4명의 후보와 용인 발전 이루겠다 ",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644548",
+        "date": "Sun, 31 Mar 2024 19:32:00 +0900"
+      },
+      {
+        "title": "국힘 용인병 고석  수지중앙공원 등 대규모 공원 조성 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012461809?sid=102",
+        "date": "Sun, 31 Mar 2024 18:37:00 +0900"
+      },
+      {
+        "title": "[현장] '용인行' 한동훈  국민 지배하려 드는 '민주·조국당'…우린 '섬기는 ...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815408?sid=165",
+        "date": "Sun, 31 Mar 2024 14:33:00 +0900"
+      },
+      {
+        "title": "국민의힘 용인병 고석 후보 ‘수지중앙공원 조성 등 대규모 공원 조성...수지...",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281400881967",
+        "date": "Sun, 31 Mar 2024 13:42:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3986876
+      }
+    ]
+  }
 ]

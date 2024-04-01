@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4124/Hb100152220/gicho/thumbnail.100152220.JPG?ver=1593024",
-		"id": "2412401-1",
-		"재산": 1221180,
-		"생년월일": "19850210",
-		"경력": "(현)더불어민주당 국회의원\n(전)김앤장 법률사무소 변호사",
-		"학력": "서울대학교 대학원 석사과정 수료(법학전공)",
-		"직업": "국회의원",
-		"성별": "여",
-		"id_21th": "1110",
-		"regionId": "2412401",
-		"기호": 1,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:01:00 +0900",
-				"title": "[격전지 탐방] 의왕·과천, 일타강사 vs 한동훈 동기…변호사 빅매치",
-				"link": "https://n.news.naver.com/mnews/article/629/0000277605?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:10:00 +0900",
-				"title": "이소영 의왕과천 후보 '내손 중·고 미래학교, 자율형 공립고 2.0 추진'공약 ...",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081081"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:02:00 +0900",
-				"title": "강훈식 더불어민주당 아산을 국회의원 후보, 첫 집중유세 진행",
-				"link": "http://www.newstnt.com/news/articleView.html?idxno=358368"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 19:02:00 +0900",
-				"title": "기후 위기 대응 첫걸음… 정당 현수막이 선거 재킷으로 ‘이유 있는 변신’ [...",
-				"link": "https://n.news.naver.com/mnews/article/022/0003919547?sid=102"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 23:09:00 +0900",
-				"title": "[과수원 사람들] 박재순 수원무·이소영 의왕과천·최돈익 안양만안 후보",
-				"link": "https://n.news.naver.com/mnews/article/119/0002815139?sid=165"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "이소영"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4124/Hb100151848/gicho/thumbnail.100151848.JPG?ver=1682767",
-		"id": "2412401-2",
-		"재산": 2279984,
-		"생년월일": "19690428",
-		"경력": "(전)국민의힘 의왕과천당협위원장\n(현)법무법인 산지 의왕분사무소 구성원변호사",
-		"학력": "고려대학교 법학과 졸업",
-		"직업": "변호사",
-		"성별": "남",
-		"regionId": "2412401",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:01:00 +0900",
-				"title": "[격전지 탐방] 의왕·과천, 일타강사 vs 한동훈 동기…변호사 빅매치",
-				"link": "https://n.news.naver.com/mnews/article/629/0000277605?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:42:00 +0900",
-				"title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-				"link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 09:34:00 +0900",
-				"title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-				"link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 09:19:00 +0900",
-				"title": "한동훈 “뒷구멍으로 늘 이런 식”…이재명 “국민들 염장을 지른다” [총선 ...",
-				"link": "https://n.news.naver.com/mnews/article/022/0003919584?sid=165"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "최기식"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4124/Hb100152220/gicho/thumbnail.100152220.JPG?ver=1593024",
+    "id": "2412401-1",
+    "재산": 1221180,
+    "생년월일": "19850210",
+    "경력": "(현)더불어민주당 국회의원\n(전)김앤장 법률사무소 변호사",
+    "학력": "서울대학교 대학원 석사과정 수료(법학전공)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1110",
+    "regionId": "2412401",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:01:00 +0900",
+        "title": "[격전지 탐방] 의왕·과천, 일타강사 vs 한동훈 동기…변호사 빅매치",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277605?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+        "title": "이소영 의왕과천 후보 '내손 중·고 미래학교, 자율형 공립고 2.0 추진'공약 ...",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081081"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:02:00 +0900",
+        "title": "강훈식 더불어민주당 아산을 국회의원 후보, 첫 집중유세 진행",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=358368"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:02:00 +0900",
+        "title": "기후 위기 대응 첫걸음… 정당 현수막이 선거 재킷으로 ‘이유 있는 변신’ [...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003919547?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 23:09:00 +0900",
+        "title": "[과수원 사람들] 박재순 수원무·이소영 의왕과천·최돈익 안양만안 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815139?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이소영",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 651173
+      },
+      {
+        "연도": 2021,
+        "재산": 595702
+      },
+      {
+        "연도": 2022,
+        "재산": 854269
+      },
+      {
+        "연도": 2023,
+        "재산": 1221180
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4124/Hb100151848/gicho/thumbnail.100151848.JPG?ver=1682767",
+    "id": "2412401-2",
+    "재산": 2279984,
+    "생년월일": "19690428",
+    "경력": "(전)국민의힘 의왕과천당협위원장\n(현)법무법인 산지 의왕분사무소 구성원변호사",
+    "학력": "고려대학교 법학과 졸업",
+    "직업": "변호사",
+    "성별": "남",
+    "regionId": "2412401",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:01:00 +0900",
+        "title": "[격전지 탐방] 의왕·과천, 일타강사 vs 한동훈 동기…변호사 빅매치",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277605?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+        "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:19:00 +0900",
+        "title": "한동훈 “뒷구멍으로 늘 이런 식”…이재명 “국민들 염장을 지른다” [총선 ...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003919584?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "최기식",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2279984
+      }
+    ]
+  }
 ]

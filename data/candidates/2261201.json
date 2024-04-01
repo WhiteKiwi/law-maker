@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2612/Hb100151160/gicho/thumbnail.100151160.JPG?ver=1673865",
-		"id": "2261201-1",
-		"재산": 534293,
-		"생년월일": "19770710",
-		"경력": "(전) 제8대 부산광역시의회 의장\n(현) 더불어민주당 금정구지역위원장",
-		"학력": "부산대학교 정치외교학과 졸업",
-		"직업": "정당인",
-		"성별": "여",
-		"regionId": "2261201",
-		"기호": 1,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 20:19:00 +0900",
-				"title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
-				"link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:00:00 +0900",
-				"title": "[격전지 후보 24시] 패기 앞세운 대장동 변호사 vs 일꾼론 내세워 3선 도전장",
-				"link": "https://n.news.naver.com/mnews/article/029/0002864558?sid=100"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 18:52:00 +0900",
-				"title": "상춘객은 봄을, 후보자는 표를 챙기느라 바빴던 주말",
-				"link": "https://n.news.naver.com/mnews/article/082/0001262929?sid=100"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:58:00 +0900",
-				"title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
-				"link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:17:00 +0900",
-				"title": "교회 앞에서, 야구장에서…부산 여야 후보 표심잡기 안간힘",
-				"link": "https://n.news.naver.com/mnews/article/421/0007448545?sid=165"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "박인영"
-	},
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2612/Hb100152536/gicho/thumbnail.100152536.JPG?ver=1684624",
-		"id": "2261201-2",
-		"재산": 35590611,
-		"생년월일": "19621223",
-		"경력": "(현) 금정구 국회의원\n(현) 국민의힘 원내부대표",
-		"학력": "부산대학교 환경대학원 도시계획학과 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1066",
-		"regionId": "2261201",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:19:00 +0900",
-				"title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
-				"link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:58:00 +0900",
-				"title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
-				"link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:05:00 +0900",
-				"title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
-				"link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 09:34:00 +0900",
-				"title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-				"link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "백종헌"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2612/Hb100151160/gicho/thumbnail.100151160.JPG?ver=1673865",
+    "id": "2261201-1",
+    "재산": 534293,
+    "생년월일": "19770710",
+    "경력": "(전) 제8대 부산광역시의회 의장\n(현) 더불어민주당 금정구지역위원장",
+    "학력": "부산대학교 정치외교학과 졸업",
+    "직업": "정당인",
+    "성별": "여",
+    "regionId": "2261201",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+        "title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:00:00 +0900",
+        "title": "[격전지 후보 24시] 패기 앞세운 대장동 변호사 vs 일꾼론 내세워 3선 도전장",
+        "link": "https://n.news.naver.com/mnews/article/029/0002864558?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:52:00 +0900",
+        "title": "상춘객은 봄을, 후보자는 표를 챙기느라 바빴던 주말",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262929?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:58:00 +0900",
+        "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:17:00 +0900",
+        "title": "교회 앞에서, 야구장에서…부산 여야 후보 표심잡기 안간힘",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448545?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박인영",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 534293
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2612/Hb100152536/gicho/thumbnail.100152536.JPG?ver=1684624",
+    "id": "2261201-2",
+    "재산": 35590611,
+    "생년월일": "19621223",
+    "경력": "(현) 금정구 국회의원\n(현) 국민의힘 원내부대표",
+    "학력": "부산대학교 환경대학원 도시계획학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1066",
+    "regionId": "2261201",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+        "title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:58:00 +0900",
+        "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+        "title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "백종헌",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 28207421
+      },
+      {
+        "연도": 2021,
+        "재산": 28602885
+      },
+      {
+        "연도": 2022,
+        "재산": 26574990
+      },
+      {
+        "연도": 2023,
+        "재산": 35590611
+      }
+    ]
+  }
 ]

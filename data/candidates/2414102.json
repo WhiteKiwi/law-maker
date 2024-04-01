@@ -1,105 +1,123 @@
 [
-    {
-        "id": "2414102-1",
-        "regionId": "2414102",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152123/gicho/thumbnail.100152123.JPG?ver=1585728",
-        "기호": 1,
-        "이름": "박윤국",
-        "생년월일": "19560412",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "명지대학 (현, 명지대학교) 토목공학과 졸업",
-        "경력": "(전)3선 포천시장(초대·2·7대)\n(전)제4대 경기도의회의원",
-        "재산": 402527,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[총선] 김현규 의원  포천, 보수당 공천만으론 당선 안돼… 진정한 변화 위해...",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014075",
-                "date": "Sun, 31 Mar 2024 22:10:00 +0900"
-            },
-            {
-                "title": "박윤국  김용태 뭘 믿고 지역 맡기나 검증된 내가 적임자 ",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081118",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            },
-            {
-                "title": "포천·가평 김용태·박윤국 후보, 출정식 갖고 본격 레이스",
-                "link": "http://www.kukinews.com/newsView/kuk202403290245",
-                "date": "Sun, 31 Mar 2024 16:26:00 +0900"
-            },
-            {
-                "title": "[총선 동서남북] 포천·가평 국회의원 후보들 각각 출정식 갖고 '필승 다짐'",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644463",
-                "date": "Sun, 31 Mar 2024 14:16:00 +0900"
-            },
-            {
-                "title": "김용태 포천가평 국힘 후보, 박윤국 후보에 '허위사실 공표' 공개사과 요구",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037793?sid=165",
-                "date": "Sun, 31 Mar 2024 12:46:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2414102-2",
-        "regionId": "2414102",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152146/gicho/thumbnail.100152146.JPG?ver=1588751",
-        "기호": 2,
-        "이름": "김용태",
-        "생년월일": "19901021",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대 그린스쿨대학원 에너지환경정책학 석사 졸업",
-        "경력": "(전) 국민의힘 청년최고위원\n(전) 윤석열 대통령직 인수위원회 자문위원",
-        "재산": 16790,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "다가온 4·10총선… 보험업계 관심 끄는 후보자는",
-                "link": "http://www.insnews.co.kr/design_php/news_view.php?num=78319&firstsec=1&secondsec=11",
-                "date": "Mon, 01 Apr 2024 02:54:00 +0900"
-            },
-            {
-                "title": "[총선] 국민의힘 김용태 후보 측, 안재웅 공동 선거대책위원장 인터뷰",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014074",
-                "date": "Sun, 31 Mar 2024 22:02:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "[기자수첩] 김용태 포천·가평 후보의 합장인사, 한국 정치의 '낯선 풍경'",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014073",
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900"
-            },
-            {
-                "title": "박윤국  김용태 뭘 믿고 지역 맡기나 검증된 내가 적임자 ",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081118",
-                "date": "Sun, 31 Mar 2024 19:28:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2414102-7",
-        "regionId": "2414102",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152864/gicho/thumbnail.100152864.JPG?ver=1676903",
-        "기호": 7,
-        "이름": "최영록",
-        "생년월일": "19650912",
-        "정당": "개혁신당",
-        "성별": "남",
-        "직업": "(주)모코건설 대표이사",
-        "학력": "경북대학교 법과대학 사법학과 졸업",
-        "경력": "(전)제18대 국회의원 후보\n(전)제19대 국회의원 후보",
-        "재산": 130800,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": []
-    }
+  {
+    "id": "2414102-1",
+    "regionId": "2414102",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152123/gicho/thumbnail.100152123.JPG?ver=1585728",
+    "기호": 1,
+    "이름": "박윤국",
+    "생년월일": "19560412",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "명지대학 (현, 명지대학교) 토목공학과 졸업",
+    "경력": "(전)3선 포천시장(초대·2·7대)\n(전)제4대 경기도의회의원",
+    "재산": 402527,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[총선] 김현규 의원  포천, 보수당 공천만으론 당선 안돼… 진정한 변화 위해...",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014075",
+        "date": "Sun, 31 Mar 2024 22:10:00 +0900"
+      },
+      {
+        "title": "박윤국  김용태 뭘 믿고 지역 맡기나 검증된 내가 적임자 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081118",
+        "date": "Sun, 31 Mar 2024 19:28:00 +0900"
+      },
+      {
+        "title": "포천·가평 김용태·박윤국 후보, 출정식 갖고 본격 레이스",
+        "link": "http://www.kukinews.com/newsView/kuk202403290245",
+        "date": "Sun, 31 Mar 2024 16:26:00 +0900"
+      },
+      {
+        "title": "[총선 동서남북] 포천·가평 국회의원 후보들 각각 출정식 갖고 '필승 다짐'",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644463",
+        "date": "Sun, 31 Mar 2024 14:16:00 +0900"
+      },
+      {
+        "title": "김용태 포천가평 국힘 후보, 박윤국 후보에 '허위사실 공표' 공개사과 요구",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037793?sid=165",
+        "date": "Sun, 31 Mar 2024 12:46:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 402527
+      }
+    ]
+  },
+  {
+    "id": "2414102-2",
+    "regionId": "2414102",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152146/gicho/thumbnail.100152146.JPG?ver=1588751",
+    "기호": 2,
+    "이름": "김용태",
+    "생년월일": "19901021",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대 그린스쿨대학원 에너지환경정책학 석사 졸업",
+    "경력": "(전) 국민의힘 청년최고위원\n(전) 윤석열 대통령직 인수위원회 자문위원",
+    "재산": 16790,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "다가온 4·10총선… 보험업계 관심 끄는 후보자는",
+        "link": "http://www.insnews.co.kr/design_php/news_view.php?num=78319&firstsec=1&secondsec=11",
+        "date": "Mon, 01 Apr 2024 02:54:00 +0900"
+      },
+      {
+        "title": "[총선] 국민의힘 김용태 후보 측, 안재웅 공동 선거대책위원장 인터뷰",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014074",
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900"
+      },
+      {
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+      },
+      {
+        "title": "[기자수첩] 김용태 포천·가평 후보의 합장인사, 한국 정치의 '낯선 풍경'",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014073",
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900"
+      },
+      {
+        "title": "박윤국  김용태 뭘 믿고 지역 맡기나 검증된 내가 적임자 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081118",
+        "date": "Sun, 31 Mar 2024 19:28:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 16790
+      }
+    ]
+  },
+  {
+    "id": "2414102-7",
+    "regionId": "2414102",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4141/Hb100152864/gicho/thumbnail.100152864.JPG?ver=1676903",
+    "기호": 7,
+    "이름": "최영록",
+    "생년월일": "19650912",
+    "정당": "개혁신당",
+    "성별": "남",
+    "직업": "(주)모코건설 대표이사",
+    "학력": "경북대학교 법과대학 사법학과 졸업",
+    "경력": "(전)제18대 국회의원 후보\n(전)제19대 국회의원 후보",
+    "재산": 130800,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 130800
+      }
+    ]
+  }
 ]

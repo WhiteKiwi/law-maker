@@ -1,122 +1,146 @@
 [
-    {
-        "id": "2430101-1",
-        "regionId": "2430101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100151169/gicho/thumbnail.100151169.JPG?ver=1549081",
-        "기호": 1,
-        "이름": "이강일",
-        "생년월일": "19670430",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "사) 행복가정재단 상임이사",
-        "학력": "연세대학교 행정대학원 졸업(정책학석사)",
-        "경력": "(현)더불어민주당 청주상당지역위원장\n(현)사)민생경제지원단 상임위원장",
-        "재산": 2265112,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "&lt;22대 국회의원 총선거 공약 비교&gt; 충북 청주 상당선거구",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265684",
-                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-            },
-            {
-                "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-            },
-            {
-                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-            },
-            {
-                "title": "이강일 43.2% vs 서승우 40.2%",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792284",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "민주·국힘 동문 2강 대결",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792283",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2430101-2",
-        "regionId": "2430101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100153100/gicho/thumbnail.100153100.JPG?ver=1683340",
-        "기호": 2,
-        "이름": "서승우",
-        "생년월일": "19681106",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한국개발연구원(KDI) 국제정책대학원(정책학석사)",
-        "경력": "(전)대통령실 자치행정비서관\n(전)충청북도 행정부지사",
-        "재산": 1622959,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "&lt;22대 국회의원 총선거 공약 비교&gt; 충북 청주 상당선거구",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265684",
-                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-            },
-            {
-                "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
-                "date": "Mon, 01 Apr 2024 00:00:00 +0900"
-            },
-            {
-                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
-                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
-                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-            },
-            {
-                "title": "[4.10 총선] 국민의힘 청주권 김동원, 김수민, 김진모, 서승우 후보 합동 지지...",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957467",
-                "date": "Sun, 31 Mar 2024 19:26:00 +0900"
-            },
-            {
-                "title": "이강일 43.2% vs 서승우 40.2%",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792284",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2430101-5",
-        "regionId": "2430101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100152534/gicho/thumbnail.100152534.JPG?ver=1680381",
-        "기호": 5,
-        "이름": "송상호",
-        "생년월일": "19720103",
-        "정당": "녹색정의당",
-        "성별": "남",
-        "직업": "사회운동가",
-        "학력": "충북대학교 천문우주학과 졸업",
-        "경력": "(현)충북장애인차별철폐연대 공동대표\n(현)충북기후위기비상행동 공동대표",
-        "재산": 392969,
-        "군필여부": true,
-        "전과건수": 3,
-        "news": []
-    },
-    {
-        "id": "2430101-7",
-        "regionId": "2430101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100151784/gicho/thumbnail.100151784.JPG?ver=1561877",
-        "기호": 7,
-        "이름": "우근헌",
-        "생년월일": "19660107",
-        "정당": "무소속",
-        "성별": "남",
-        "직업": "정보통신기술사",
-        "학력": "고려대학교 산업대학원 졸업(전파공학석사)",
-        "경력": "(전)제너럴시티주식회사 대표이사\n(현)무영씨엠건축사사무소 상무이사",
-        "재산": 595691,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": []
-    }
+  {
+    "id": "2430101-1",
+    "regionId": "2430101",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100151169/gicho/thumbnail.100151169.JPG?ver=1549081",
+    "기호": 1,
+    "이름": "이강일",
+    "생년월일": "19670430",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "사) 행복가정재단 상임이사",
+    "학력": "연세대학교 행정대학원 졸업(정책학석사)",
+    "경력": "(현)더불어민주당 청주상당지역위원장\n(현)사)민생경제지원단 상임위원장",
+    "재산": 2265112,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "&lt;22대 국회의원 총선거 공약 비교&gt; 충북 청주 상당선거구",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265684",
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+      },
+      {
+        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+      },
+      {
+        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+      },
+      {
+        "title": "이강일 43.2% vs 서승우 40.2%",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792284",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      },
+      {
+        "title": "민주·국힘 동문 2강 대결",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792283",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2265112
+      }
+    ]
+  },
+  {
+    "id": "2430101-2",
+    "regionId": "2430101",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100153100/gicho/thumbnail.100153100.JPG?ver=1683340",
+    "기호": 2,
+    "이름": "서승우",
+    "생년월일": "19681106",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "한국개발연구원(KDI) 국제정책대학원(정책학석사)",
+    "경력": "(전)대통령실 자치행정비서관\n(전)충청북도 행정부지사",
+    "재산": 1622959,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "&lt;22대 국회의원 총선거 공약 비교&gt; 충북 청주 상당선거구",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265684",
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+      },
+      {
+        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680",
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900"
+      },
+      {
+        "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144",
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+      },
+      {
+        "title": "[4.10 총선] 국민의힘 청주권 김동원, 김수민, 김진모, 서승우 후보 합동 지지...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957467",
+        "date": "Sun, 31 Mar 2024 19:26:00 +0900"
+      },
+      {
+        "title": "이강일 43.2% vs 서승우 40.2%",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792284",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1622959
+      }
+    ]
+  },
+  {
+    "id": "2430101-5",
+    "regionId": "2430101",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100152534/gicho/thumbnail.100152534.JPG?ver=1680381",
+    "기호": 5,
+    "이름": "송상호",
+    "생년월일": "19720103",
+    "정당": "녹색정의당",
+    "성별": "남",
+    "직업": "사회운동가",
+    "학력": "충북대학교 천문우주학과 졸업",
+    "경력": "(현)충북장애인차별철폐연대 공동대표\n(현)충북기후위기비상행동 공동대표",
+    "재산": 392969,
+    "군필여부": true,
+    "전과건수": 3,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 392969
+      }
+    ]
+  },
+  {
+    "id": "2430101-7",
+    "regionId": "2430101",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4301/Hb100151784/gicho/thumbnail.100151784.JPG?ver=1561877",
+    "기호": 7,
+    "이름": "우근헌",
+    "생년월일": "19660107",
+    "정당": "무소속",
+    "성별": "남",
+    "직업": "정보통신기술사",
+    "학력": "고려대학교 산업대학원 졸업(전파공학석사)",
+    "경력": "(전)제너럴시티주식회사 대표이사\n(현)무영씨엠건축사사무소 상무이사",
+    "재산": 595691,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 595691
+      }
+    ]
+  }
 ]

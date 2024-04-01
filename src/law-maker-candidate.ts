@@ -12,6 +12,10 @@ export type LawMakerCadidate = {
   학력: string;
   경력: string;
   재산: number; // 단위: 천원
+  연도별_재산: {
+    연도: number;
+    재산: number; // 단위: 천원
+  }[];
   군필여부: boolean;
   전과건수: number;
 };

@@ -1,90 +1,126 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152479/gicho/thumbnail.100152479.JPG?ver=1611753",
-		"id": "2411501-1",
-		"재산": 2601236,
-		"생년월일": "19641213",
-		"경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
-		"학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1104",
-		"regionId": "2411501",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 22:02:00 +0900",
-				"title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:02:00 +0900",
-				"title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:32:00 +0900",
-				"title": "홍기원 더불어민주당 평택갑 국회의원 후보 출정식",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644439"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 15:00:00 +0900",
-				"title": "민주당 홍기원 후보, 선거운동 첫날 송탄출장소 출정식",
-				"link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041756"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 14:42:00 +0900",
-				"title": "홍기원 민주당 평택갑 후보, 송탄출장소 앞 출정식 가져",
-				"link": "https://www.nspna.com/news/?mode=view&newsid=690818"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "홍기원"
-	},
-	{
-		"전과건수": 2,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152679/gicho/thumbnail.100152679.JPG?ver=1685659",
-		"id": "2411501-2",
-		"재산": 19183450,
-		"생년월일": "19580520",
-		"경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
-		"학력": "이화여자대학교 대학원 졸업(문학박사)",
-		"직업": "국회의원",
-		"성별": "여",
-		"id_21th": "1152",
-		"regionId": "2411501",
-		"기호": 2,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 22:02:00 +0900",
-				"title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:02:00 +0900",
-				"title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:52:00 +0900",
-				"title": "봄바람 타고 함께 걸으니… 부락산 자락 웃음꽃 ‘활짝’ [2024 평택시민건강...",
-				"link": "https://n.news.naver.com/mnews/article/666/0000037857?sid=102"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 00:00:00 +0900",
-				"title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
-				"link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 20:41:00 +0900",
-				"title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
-				"link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "한무경"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152479/gicho/thumbnail.100152479.JPG?ver=1611753",
+    "id": "2411501-1",
+    "재산": 2601236,
+    "생년월일": "19641213",
+    "경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
+    "학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1104",
+    "regionId": "2411501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:32:00 +0900",
+        "title": "홍기원 더불어민주당 평택갑 국회의원 후보 출정식",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644439"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:00:00 +0900",
+        "title": "민주당 홍기원 후보, 선거운동 첫날 송탄출장소 출정식",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041756"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:42:00 +0900",
+        "title": "홍기원 민주당 평택갑 후보, 송탄출장소 앞 출정식 가져",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=690818"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "홍기원",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1799557
+      },
+      {
+        "연도": 2021,
+        "재산": 1999107
+      },
+      {
+        "연도": 2022,
+        "재산": 2310933
+      },
+      {
+        "연도": 2023,
+        "재산": 2601236
+      }
+    ]
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152679/gicho/thumbnail.100152679.JPG?ver=1685659",
+    "id": "2411501-2",
+    "재산": 19183450,
+    "생년월일": "19580520",
+    "경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
+    "학력": "이화여자대학교 대학원 졸업(문학박사)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1152",
+    "regionId": "2411501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:52:00 +0900",
+        "title": "봄바람 타고 함께 걸으니… 부락산 자락 웃음꽃 ‘활짝’ [2024 평택시민건강...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037857?sid=102"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 00:00:00 +0900",
+        "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:41:00 +0900",
+        "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
+        "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "한무경",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 45208993
+      },
+      {
+        "연도": 2021,
+        "재산": 12923465
+      },
+      {
+        "연도": 2022,
+        "재산": 13866582
+      },
+      {
+        "연도": 2023,
+        "재산": 19183450
+      }
+    ]
+  }
 ]

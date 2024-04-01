@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2480901-1",
-        "regionId": "2480901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100152707/gicho/thumbnail.100152707.JPG?ver=1677311",
-        "기호": 1,
-        "이름": "우서영",
-        "생년월일": "19960101",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
-        "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
-        "재산": 55585,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165",
-                "date": "Sun, 31 Mar 2024 22:40:00 +0900"
-            },
-            {
-                "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468",
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900"
-            },
-            {
-                "title": "민주당 29세 후보 선거 운동 중 사무원이 할머니 구했다 (+사진)",
-                "link": "https://www.wikitree.co.kr/articles/939424",
-                "date": "Sun, 31 Mar 2024 20:14:00 +0900"
-            },
-            {
-                "title": "장터에 쓰러진 할머니 살린 선거운동원  오늘 부활절이라 더 의미 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880104?sid=165",
-                "date": "Sun, 31 Mar 2024 16:39:00 +0900"
-            },
-            {
-                "title": "우서영 밀양의령함안창녕 후보 운동원, 환자중 심폐소생술",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907727",
-                "date": "Sun, 31 Mar 2024 16:26:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2480901-2",
-        "regionId": "2480901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100151374/gicho/thumbnail.100151374.JPG?ver=1550112",
-        "기호": 2,
-        "이름": "박상웅",
-        "생년월일": "19600816",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 사범대학 사회교육학과 졸업",
-        "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
-        "재산": 541328,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468",
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900"
-            },
-            {
-                "title": "국힘 박상웅 후보  부곡온천 관광특구 활성화 추진할 것 ",
-                "link": "https://n.news.naver.com/mnews/article/031/0000824694?sid=102",
-                "date": "Sun, 31 Mar 2024 20:26:00 +0900"
-            },
-            {
-                "title": "[포토] 與 선거 운동원들과 인사하는 우서영 후보",
-                "link": "https://n.news.naver.com/mnews/article/031/0000824642?sid=102",
-                "date": "Sun, 31 Mar 2024 10:53:00 +0900"
-            },
-            {
-                "title": "박상웅 밀양의령함안창녕 후보, 28일 선거출정식 가져",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870023?sid=102",
-                "date": "Fri, 29 Mar 2024 18:28:00 +0900"
-            },
-            {
-                "title": "국민의힘 박상웅 후보, 총선 출정식",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325628?sid=102",
-                "date": "Fri, 29 Mar 2024 16:19:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2480901-1",
+    "regionId": "2480901",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100152707/gicho/thumbnail.100152707.JPG?ver=1677311",
+    "기호": 1,
+    "이름": "우서영",
+    "생년월일": "19960101",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
+    "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
+    "재산": 55585,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165",
+        "date": "Sun, 31 Mar 2024 22:40:00 +0900"
+      },
+      {
+        "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468",
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900"
+      },
+      {
+        "title": "민주당 29세 후보 선거 운동 중 사무원이 할머니 구했다 (+사진)",
+        "link": "https://www.wikitree.co.kr/articles/939424",
+        "date": "Sun, 31 Mar 2024 20:14:00 +0900"
+      },
+      {
+        "title": "장터에 쓰러진 할머니 살린 선거운동원  오늘 부활절이라 더 의미 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880104?sid=165",
+        "date": "Sun, 31 Mar 2024 16:39:00 +0900"
+      },
+      {
+        "title": "우서영 밀양의령함안창녕 후보 운동원, 환자중 심폐소생술",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907727",
+        "date": "Sun, 31 Mar 2024 16:26:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 55585
+      }
+    ]
+  },
+  {
+    "id": "2480901-2",
+    "regionId": "2480901",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100151374/gicho/thumbnail.100151374.JPG?ver=1550112",
+    "기호": 2,
+    "이름": "박상웅",
+    "생년월일": "19600816",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 사범대학 사회교육학과 졸업",
+    "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
+    "재산": 541328,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468",
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900"
+      },
+      {
+        "title": "국힘 박상웅 후보  부곡온천 관광특구 활성화 추진할 것 ",
+        "link": "https://n.news.naver.com/mnews/article/031/0000824694?sid=102",
+        "date": "Sun, 31 Mar 2024 20:26:00 +0900"
+      },
+      {
+        "title": "[포토] 與 선거 운동원들과 인사하는 우서영 후보",
+        "link": "https://n.news.naver.com/mnews/article/031/0000824642?sid=102",
+        "date": "Sun, 31 Mar 2024 10:53:00 +0900"
+      },
+      {
+        "title": "박상웅 밀양의령함안창녕 후보, 28일 선거출정식 가져",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870023?sid=102",
+        "date": "Fri, 29 Mar 2024 18:28:00 +0900"
+      },
+      {
+        "title": "국민의힘 박상웅 후보, 총선 출정식",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325628?sid=102",
+        "date": "Fri, 29 Mar 2024 16:19:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 541328
+      }
+    ]
+  }
 ]

@@ -1,105 +1,123 @@
 [
-    {
-        "id": "2411804-1",
-        "regionId": "2411804",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100151058/gicho/thumbnail.100151058.JPG?ver=1549112",
-        "기호": 1,
-        "이름": "김현",
-        "생년월일": "19651015",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "한양대학교 사학과 졸업",
-        "경력": "(전) 제19대 국회의원(비례대표)\n(현) 더불어민주당 당대표 언론특보",
-        "재산": 608859,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[포토] 합동출정식에서 환호하는 더불어민주당 양문석-김현-박해철 후보",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558383",
-                "date": "Fri, 29 Mar 2024 17:34:00 +0900"
-            },
-            {
-                "title": "민주당 안산시 갑‧을‧병 후보 합동 출정식",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850830",
-                "date": "Fri, 29 Mar 2024 17:02:00 +0900"
-            },
-            {
-                "title": "안산 민주당 합동출정식 가졌지만 공천 후유증에 '엇박자'",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325555?sid=102",
-                "date": "Fri, 29 Mar 2024 11:41:00 +0900"
-            },
-            {
-                "title": "민주당 안산을 김현 후보 선대위 출정식 갖고 본격 선거전 돌입",
-                "link": "https://www.viva100.com/main/view.php?key=20240329010009976",
-                "date": "Fri, 29 Mar 2024 11:24:00 +0900"
-            },
-            {
-                "title": "[4·10 총선] 민주당 안산시(갑)·(을)·(병) 선대위, 총선 승리를 위한 합동...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242032",
-                "date": "Fri, 29 Mar 2024 10:34:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2411804-2",
-        "regionId": "2411804",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100152338/gicho/thumbnail.100152338.JPG?ver=1599917",
-        "기호": 2,
-        "이름": "서정현",
-        "생년월일": "19850325",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "한양대학교 법학과 졸업",
-        "경력": "(전)국민의힘 안산시단원구을 당협위원장\n(현)법무법인 의담 대표변호사",
-        "재산": 529963,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[4·10 총선] 한동훈 비대위원장, 조국혁신당 박은정 후보 및 민주당 후보들 ...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242397",
-                "date": "Sun, 31 Mar 2024 21:58:00 +0900"
-            },
-            {
-                "title": "[4·10 총선] 경기 선거구 60곳 중 44곳, 남부에 화력 집중",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242374",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "한동훈 선대위원장,안산선부광장서 김명연 안산병 후보 지원 사격",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080934",
-                "date": "Sun, 31 Mar 2024 12:38:00 +0900"
-            },
-            {
-                "title": "한동훈 총괄선대위원장, 김명연 안산(병) 후보 지원 사격 나서",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850966",
-                "date": "Sun, 31 Mar 2024 08:40:00 +0900"
-            },
-            {
-                "title": "독해지는 한동훈의 입… 이재명·김준혁·양문석의 쓰레기 같은 말 들어봐라 ",
-                "link": "https://www.ajunews.com/view/20240330140151191",
-                "date": "Sat, 30 Mar 2024 14:12:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2411804-7",
-        "regionId": "2411804",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100151459/gicho/thumbnail.100151459.JPG?ver=1551030",
-        "기호": 7,
-        "이름": "홍장표",
-        "생년월일": "19590819",
-        "정당": "무소속",
-        "성별": "남",
-        "직업": "자영업",
-        "학력": "한양대학교 대학원 도시공학박사 졸업",
-        "경력": "(전) 제18대 국회의원\n(현) 도시공학박사",
-        "재산": 7681854,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": []
-    }
+  {
+    "id": "2411804-1",
+    "regionId": "2411804",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100151058/gicho/thumbnail.100151058.JPG?ver=1549112",
+    "기호": 1,
+    "이름": "김현",
+    "생년월일": "19651015",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "한양대학교 사학과 졸업",
+    "경력": "(전) 제19대 국회의원(비례대표)\n(현) 더불어민주당 당대표 언론특보",
+    "재산": 608859,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[포토] 합동출정식에서 환호하는 더불어민주당 양문석-김현-박해철 후보",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558383",
+        "date": "Fri, 29 Mar 2024 17:34:00 +0900"
+      },
+      {
+        "title": "민주당 안산시 갑‧을‧병 후보 합동 출정식",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850830",
+        "date": "Fri, 29 Mar 2024 17:02:00 +0900"
+      },
+      {
+        "title": "안산 민주당 합동출정식 가졌지만 공천 후유증에 '엇박자'",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325555?sid=102",
+        "date": "Fri, 29 Mar 2024 11:41:00 +0900"
+      },
+      {
+        "title": "민주당 안산을 김현 후보 선대위 출정식 갖고 본격 선거전 돌입",
+        "link": "https://www.viva100.com/main/view.php?key=20240329010009976",
+        "date": "Fri, 29 Mar 2024 11:24:00 +0900"
+      },
+      {
+        "title": "[4·10 총선] 민주당 안산시(갑)·(을)·(병) 선대위, 총선 승리를 위한 합동...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242032",
+        "date": "Fri, 29 Mar 2024 10:34:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 608859
+      }
+    ]
+  },
+  {
+    "id": "2411804-2",
+    "regionId": "2411804",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100152338/gicho/thumbnail.100152338.JPG?ver=1599917",
+    "기호": 2,
+    "이름": "서정현",
+    "생년월일": "19850325",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "한양대학교 법학과 졸업",
+    "경력": "(전)국민의힘 안산시단원구을 당협위원장\n(현)법무법인 의담 대표변호사",
+    "재산": 529963,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[4·10 총선] 한동훈 비대위원장, 조국혁신당 박은정 후보 및 민주당 후보들 ...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242397",
+        "date": "Sun, 31 Mar 2024 21:58:00 +0900"
+      },
+      {
+        "title": "[4·10 총선] 경기 선거구 60곳 중 44곳, 남부에 화력 집중",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242374",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      },
+      {
+        "title": "한동훈 선대위원장,안산선부광장서 김명연 안산병 후보 지원 사격",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080934",
+        "date": "Sun, 31 Mar 2024 12:38:00 +0900"
+      },
+      {
+        "title": "한동훈 총괄선대위원장, 김명연 안산(병) 후보 지원 사격 나서",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850966",
+        "date": "Sun, 31 Mar 2024 08:40:00 +0900"
+      },
+      {
+        "title": "독해지는 한동훈의 입… 이재명·김준혁·양문석의 쓰레기 같은 말 들어봐라 ",
+        "link": "https://www.ajunews.com/view/20240330140151191",
+        "date": "Sat, 30 Mar 2024 14:12:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 529963
+      }
+    ]
+  },
+  {
+    "id": "2411804-7",
+    "regionId": "2411804",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100151459/gicho/thumbnail.100151459.JPG?ver=1551030",
+    "기호": 7,
+    "이름": "홍장표",
+    "생년월일": "19590819",
+    "정당": "무소속",
+    "성별": "남",
+    "직업": "자영업",
+    "학력": "한양대학교 대학원 도시공학박사 졸업",
+    "경력": "(전) 제18대 국회의원\n(현) 도시공학박사",
+    "재산": 7681854,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 7681854
+      }
+    ]
+  }
 ]

@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 2,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152910/gicho/thumbnail.100152910.JPG?ver=1687041",
-		"id": "2440403-1",
-		"재산": 631281,
-		"생년월일": "19731024",
-		"경력": "(현)국회의원(제20·21대)\n(전)더불어민주당 충남도당위원장",
-		"학력": "건국대학교 경영정보학과 졸업(경영학사)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1005",
-		"regionId": "2440403",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 23:02:00 +0900",
-				"title": "아산시을 강훈식 후보,미세먼지 걱정 없는 도시 조성 공약",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265595"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:52:00 +0900",
-				"title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
-				"link": "https://tjmbc.co.kr/article/J1R0lnLN3R"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 18:49:00 +0900",
-				"title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
-				"link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "강훈식"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152607/gicho/thumbnail.100152607.JPG?ver=1684394",
-		"id": "2440403-2",
-		"재산": 2496145,
-		"생년월일": "19620215",
-		"경력": "(전)천안시 부시장\n(전)국민의힘 아산시을 당협위원장",
-		"학력": "국민대학교 일반대학원 행정학과 졸업(행정학박사)",
-		"직업": "정당인",
-		"성별": "남",
-		"regionId": "2440403",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 20:52:00 +0900",
-				"title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
-				"link": "https://tjmbc.co.kr/article/J1R0lnLN3R"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 18:06:00 +0900",
-				"title": "아산시갑 김영석 후보,출정식갖고 선거전 돌입",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265464"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 15:32:00 +0900",
-				"title": "[총선핫플] 민주당 97세대 주자 강훈식, 아산을서 3선 올라 존재감 더 높이나",
-				"link": "https://www.businesspost.co.kr/BP?command=article_view&num=347391"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 09:46:00 +0900",
-				"title": "아산 김영석 후보, 대규모 출정식 행사 개최",
-				"link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763900"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 05:56:00 +0900",
-				"title": "김영석 국민의힘 아산갑 국회의원 후보, 대규모 출정식 성황리 마무리",
-				"link": "http://www.newstnt.com/news/articleView.html?idxno=357903"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "전만권"
-	}
+[
+  {
+    "전과건수": 2,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152910/gicho/thumbnail.100152910.JPG?ver=1687041",
+    "id": "2440403-1",
+    "재산": 631281,
+    "생년월일": "19731024",
+    "경력": "(현)국회의원(제20·21대)\n(전)더불어민주당 충남도당위원장",
+    "학력": "건국대학교 경영정보학과 졸업(경영학사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1005",
+    "regionId": "2440403",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 23:02:00 +0900",
+        "title": "아산시을 강훈식 후보,미세먼지 걱정 없는 도시 조성 공약",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265595"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+        "title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
+        "link": "https://tjmbc.co.kr/article/J1R0lnLN3R"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+        "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "강훈식",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 402939
+      },
+      {
+        "연도": 2021,
+        "재산": 430292
+      },
+      {
+        "연도": 2022,
+        "재산": 458201
+      },
+      {
+        "연도": 2023,
+        "재산": 631281
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152607/gicho/thumbnail.100152607.JPG?ver=1684394",
+    "id": "2440403-2",
+    "재산": 2496145,
+    "생년월일": "19620215",
+    "경력": "(전)천안시 부시장\n(전)국민의힘 아산시을 당협위원장",
+    "학력": "국민대학교 일반대학원 행정학과 졸업(행정학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2440403",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+        "title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
+        "link": "https://tjmbc.co.kr/article/J1R0lnLN3R"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:06:00 +0900",
+        "title": "아산시갑 김영석 후보,출정식갖고 선거전 돌입",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265464"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:32:00 +0900",
+        "title": "[총선핫플] 민주당 97세대 주자 강훈식, 아산을서 3선 올라 존재감 더 높이나",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347391"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 09:46:00 +0900",
+        "title": "아산 김영석 후보, 대규모 출정식 행사 개최",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763900"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 05:56:00 +0900",
+        "title": "김영석 국민의힘 아산갑 국회의원 후보, 대규모 출정식 성황리 마무리",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=357903"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "전만권",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2496145
+      }
+    ]
+  }
 ]

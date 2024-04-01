@@ -1,105 +1,123 @@
 [
-    {
-        "id": "2440402-1",
-        "regionId": "2440402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100151221/gicho/thumbnail.100151221.JPG?ver=1683528",
-        "기호": 1,
-        "이름": "복기왕",
-        "생년월일": "19680410",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 정책대학원 졸업(행정학석사)",
-        "경력": "(전)민선 5, 6기 아산시장\n(전)문재인 대통령비서실 정무비서관",
-        "재산": 1544457,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": [
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "김영석 국민의힘 아산갑 국회의원 후보, 복기왕 민주당 후보에게 조국 대표 입...",
-                "link": "http://www.newstnt.com/news/articleView.html?idxno=358488",
-                "date": "Sun, 31 Mar 2024 19:22:00 +0900"
-            },
-            {
-                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826",
-                "date": "Sun, 31 Mar 2024 15:42:00 +0900"
-            },
-            {
-                "title": "조용한 현장·발언보다 긴 포토타임…조국혁신당의 ‘이색’ 선거운동[현장르...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002288313?sid=100",
-                "date": "Sun, 31 Mar 2024 15:34:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2440402-2",
-        "regionId": "2440402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100151218/gicho/thumbnail.100151218.JPG?ver=1684214",
-        "기호": 2,
-        "이름": "김영석",
-        "생년월일": "19590225",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "사)이순신리더십연구회 충남아카데미 원장",
-        "학력": "한국해양대학교대학원 해사법무정책박사과정 수료",
-        "경력": "(전)해양수산부장관\n(전)순천향대학교 일반대학원 석좌교수",
-        "재산": 1479080,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "아산시갑 김영석 후보,첫 주말 광폭 선거운동 전개",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265593",
-                "date": "Sun, 31 Mar 2024 23:02:00 +0900"
-            },
-            {
-                "title": "김영석 국민의힘 아산갑 후보, 아산 랜드마크 상징 조형물 건립 공약",
-                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746106",
-                "date": "Sun, 31 Mar 2024 19:55:00 +0900"
-            },
-            {
-                "title": "김영석 국민의힘 아산갑 국회의원 후보, 복기왕 민주당 후보에게 조국 대표 입...",
-                "link": "http://www.newstnt.com/news/articleView.html?idxno=358488",
-                "date": "Sun, 31 Mar 2024 19:22:00 +0900"
-            },
-            {
-                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
-                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100",
-                "date": "Sun, 31 Mar 2024 18:49:00 +0900"
-            },
-            {
-                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100",
-                "date": "Sun, 31 Mar 2024 09:10:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2440402-6",
-        "regionId": "2440402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152612/gicho/thumbnail.100152612.JPG?ver=1684404",
-        "기호": 6,
-        "이름": "조덕호",
-        "생년월일": "19660706",
-        "정당": "새로운미래",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "호서대학교 일반대학원 경영학과 졸업(경영학 박사)",
-        "경력": "(전)양승조 도지사 정무보좌관\n(현)새로운미래 중앙당 부대변인",
-        "재산": -47975,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": []
-    }
+  {
+    "id": "2440402-1",
+    "regionId": "2440402",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100151221/gicho/thumbnail.100151221.JPG?ver=1683528",
+    "기호": 1,
+    "이름": "복기왕",
+    "생년월일": "19680410",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 정책대학원 졸업(행정학석사)",
+    "경력": "(전)민선 5, 6기 아산시장\n(전)문재인 대통령비서실 정무비서관",
+    "재산": 1544457,
+    "군필여부": false,
+    "전과건수": 1,
+    "news": [
+      {
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+      },
+      {
+        "title": "김영석 국민의힘 아산갑 국회의원 후보, 복기왕 민주당 후보에게 조국 대표 입...",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=358488",
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900"
+      },
+      {
+        "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      },
+      {
+        "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826",
+        "date": "Sun, 31 Mar 2024 15:42:00 +0900"
+      },
+      {
+        "title": "조용한 현장·발언보다 긴 포토타임…조국혁신당의 ‘이색’ 선거운동[현장르...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002288313?sid=100",
+        "date": "Sun, 31 Mar 2024 15:34:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1544457
+      }
+    ]
+  },
+  {
+    "id": "2440402-2",
+    "regionId": "2440402",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100151218/gicho/thumbnail.100151218.JPG?ver=1684214",
+    "기호": 2,
+    "이름": "김영석",
+    "생년월일": "19590225",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "사)이순신리더십연구회 충남아카데미 원장",
+    "학력": "한국해양대학교대학원 해사법무정책박사과정 수료",
+    "경력": "(전)해양수산부장관\n(전)순천향대학교 일반대학원 석좌교수",
+    "재산": 1479080,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "아산시갑 김영석 후보,첫 주말 광폭 선거운동 전개",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265593",
+        "date": "Sun, 31 Mar 2024 23:02:00 +0900"
+      },
+      {
+        "title": "김영석 국민의힘 아산갑 후보, 아산 랜드마크 상징 조형물 건립 공약",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746106",
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900"
+      },
+      {
+        "title": "김영석 국민의힘 아산갑 국회의원 후보, 복기왕 민주당 후보에게 조국 대표 입...",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=358488",
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900"
+      },
+      {
+        "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100",
+        "date": "Sun, 31 Mar 2024 18:49:00 +0900"
+      },
+      {
+        "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100",
+        "date": "Sun, 31 Mar 2024 09:10:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1479080
+      }
+    ]
+  },
+  {
+    "id": "2440402-6",
+    "regionId": "2440402",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4404/Hb100152612/gicho/thumbnail.100152612.JPG?ver=1684404",
+    "기호": 6,
+    "이름": "조덕호",
+    "생년월일": "19660706",
+    "정당": "새로운미래",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "호서대학교 일반대학원 경영학과 졸업(경영학 박사)",
+    "경력": "(전)양승조 도지사 정무보좌관\n(현)새로운미래 중앙당 부대변인",
+    "재산": -47975,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -47975
+      }
+    ]
+  }
 ]

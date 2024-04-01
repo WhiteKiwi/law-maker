@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4805/Hb100152666/gicho/thumbnail.100152666.JPG?ver=1650240",
-		"id": "2480501-1",
-		"재산": 776762,
-		"생년월일": "19640810",
-		"경력": "(전)제7,8,9대 경상남도의회의원\n(전)제9대 통영시장(민선7기)",
-		"학력": "고려대학교 행정대학원 행정학과 졸업(행정학석사)",
-		"직업": "정치인",
-		"성별": "남",
-		"regionId": "2480501",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
-				"title": " 남부내륙철도 고성역사 신속 추진 ",
-				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538178"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
-				"title": "[공식선거운동 첫 주말] “내가 지역 발전 이끌 적임자”… 뜨거운 지지 호소...",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429005"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
-				"title": "[지역현안 돋보기] (7) 통영고성- 강석주 “속도 있게 추진해야”vs 정점식 “...",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428998"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:23:00 +0900",
-				"title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
-				"link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:22:00 +0900",
-				"title": "강석주 vs 정점식 통영·고성 후보자 토론회 2일 개최",
-				"link": "http://www.gndomin.com/news/articleView.html?idxno=388092"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "강석주"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4805/Hb100153121/gicho/thumbnail.100153121.JPG?ver=1684747",
-		"id": "2480501-2",
-		"재산": 9442704,
-		"생년월일": "19650715",
-		"경력": "(현) 21대 국회의원\n(현) 국회 법제사법위원회 간사",
-		"학력": "서울대학교 법과대학 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1039",
-		"regionId": "2480501",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
-				"title": "[공식선거운동 첫 주말] “내가 지역 발전 이끌 적임자”… 뜨거운 지지 호소...",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429005"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
-				"title": "[지역현안 돋보기] (7) 통영고성- 강석주 “속도 있게 추진해야”vs 정점식 “...",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428998"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:23:00 +0900",
-				"title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
-				"link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:22:00 +0900",
-				"title": "강석주 vs 정점식 통영·고성 후보자 토론회 2일 개최",
-				"link": "http://www.gndomin.com/news/articleView.html?idxno=388092"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 16:34:00 +0900",
-				"title": "[충청총선] 새로운미래 세종 갑 '김종민 후보' 11대 현안 해법은",
-				"link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009671"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "정점식"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4805/Hb100152666/gicho/thumbnail.100152666.JPG?ver=1650240",
+    "id": "2480501-1",
+    "재산": 776762,
+    "생년월일": "19640810",
+    "경력": "(전)제7,8,9대 경상남도의회의원\n(전)제9대 통영시장(민선7기)",
+    "학력": "고려대학교 행정대학원 행정학과 졸업(행정학석사)",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2480501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+        "title": " 남부내륙철도 고성역사 신속 추진 ",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538178"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[공식선거운동 첫 주말] “내가 지역 발전 이끌 적임자”… 뜨거운 지지 호소...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429005"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[지역현안 돋보기] (7) 통영고성- 강석주 “속도 있게 추진해야”vs 정점식 “...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428998"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+        "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+        "title": "강석주 vs 정점식 통영·고성 후보자 토론회 2일 개최",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388092"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "강석주",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 776762
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4805/Hb100153121/gicho/thumbnail.100153121.JPG?ver=1684747",
+    "id": "2480501-2",
+    "재산": 9442704,
+    "생년월일": "19650715",
+    "경력": "(현) 21대 국회의원\n(현) 국회 법제사법위원회 간사",
+    "학력": "서울대학교 법과대학 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1039",
+    "regionId": "2480501",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[공식선거운동 첫 주말] “내가 지역 발전 이끌 적임자”… 뜨거운 지지 호소...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429005"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[지역현안 돋보기] (7) 통영고성- 강석주 “속도 있게 추진해야”vs 정점식 “...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428998"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+        "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+        "title": "강석주 vs 정점식 통영·고성 후보자 토론회 2일 개최",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388092"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:34:00 +0900",
+        "title": "[충청총선] 새로운미래 세종 갑 '김종민 후보' 11대 현안 해법은",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009671"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "정점식",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 6207688
+      },
+      {
+        "연도": 2021,
+        "재산": 7496577
+      },
+      {
+        "연도": 2022,
+        "재산": 8426079
+      },
+      {
+        "연도": 2023,
+        "재산": 9442704
+      }
+    ]
+  }
 ]

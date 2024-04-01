@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2112301-1",
-        "regionId": "2112301",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100151594/gicho/thumbnail.100151594.JPG?ver=1682832",
-        "기호": 1,
-        "이름": "김태형",
-        "생년월일": "19701201",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
-        "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
-        "재산": 40327222,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "출마자 보유 주식 들여다보니...최고부자 후보 원픽은",
-                "link": "https://www.etoday.co.kr/news/view/2345419",
-                "date": "Sun, 31 Mar 2024 10:18:00 +0900"
-            },
-            {
-                "title": "[총선] 리턴 매치 구미 갑…첫 일정은 '경제' 챙기기",
-                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032800038&story_seq=0&soCode=114&socttSn=NS2024032800038&socttSeq=0",
-                "date": "Thu, 28 Mar 2024 18:30:00 +0900"
-            },
-            {
-                "title": "4 ·10 총선 후보자 평균 재산 24억원",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557879",
-                "date": "Thu, 28 Mar 2024 14:36:00 +0900"
-            },
-            {
-                "title": "총선 출마자 3명 중 1명 ‘전과자’…재산 최대 1446억",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403281157298560476",
-                "date": "Thu, 28 Mar 2024 14:22:00 +0900"
-            },
-            {
-                "title": "총선 후보자 10명 중 3명 전과자...재산 1위는 '1446억' 국힘 김복덕",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427841?sid=165",
-                "date": "Thu, 28 Mar 2024 13:31:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2112301-2",
-        "regionId": "2112301",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100153096/gicho/thumbnail.100153096.JPG?ver=1683241",
-        "기호": 2,
-        "이름": "서명옥",
-        "생년월일": "19601126",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "의사",
-        "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
-        "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
-        "재산": 29319703,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "22대총선 국민의힘 한동훈 서울특별시 강남구 합동 유세 수서역 현장",
-                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580227",
-                "date": "Mon, 01 Apr 2024 01:48:00 +0900"
-            },
-            {
-                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165",
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900"
-            },
-            {
-                "title": "'강남갑' 與 서명옥  징벌적 상속세 조정할 것 ",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815486?sid=165",
-                "date": "Sun, 31 Mar 2024 23:46:00 +0900"
-            },
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165",
-                "date": "Sun, 31 Mar 2024 20:50:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2112301-1",
+    "regionId": "2112301",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100151594/gicho/thumbnail.100151594.JPG?ver=1682832",
+    "기호": 1,
+    "이름": "김태형",
+    "생년월일": "19701201",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
+    "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
+    "재산": 40327222,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "출마자 보유 주식 들여다보니...최고부자 후보 원픽은",
+        "link": "https://www.etoday.co.kr/news/view/2345419",
+        "date": "Sun, 31 Mar 2024 10:18:00 +0900"
+      },
+      {
+        "title": "[총선] 리턴 매치 구미 갑…첫 일정은 '경제' 챙기기",
+        "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032800038&story_seq=0&soCode=114&socttSn=NS2024032800038&socttSeq=0",
+        "date": "Thu, 28 Mar 2024 18:30:00 +0900"
+      },
+      {
+        "title": "4 ·10 총선 후보자 평균 재산 24억원",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557879",
+        "date": "Thu, 28 Mar 2024 14:36:00 +0900"
+      },
+      {
+        "title": "총선 출마자 3명 중 1명 ‘전과자’…재산 최대 1446억",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403281157298560476",
+        "date": "Thu, 28 Mar 2024 14:22:00 +0900"
+      },
+      {
+        "title": "총선 후보자 10명 중 3명 전과자...재산 1위는 '1446억' 국힘 김복덕",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427841?sid=165",
+        "date": "Thu, 28 Mar 2024 13:31:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 40327222
+      }
+    ]
+  },
+  {
+    "id": "2112301-2",
+    "regionId": "2112301",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100153096/gicho/thumbnail.100153096.JPG?ver=1683241",
+    "기호": 2,
+    "이름": "서명옥",
+    "생년월일": "19601126",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "의사",
+    "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
+    "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
+    "재산": 29319703,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "22대총선 국민의힘 한동훈 서울특별시 강남구 합동 유세 수서역 현장",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580227",
+        "date": "Mon, 01 Apr 2024 01:48:00 +0900"
+      },
+      {
+        "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165",
+        "date": "Mon, 01 Apr 2024 01:01:00 +0900"
+      },
+      {
+        "title": "'강남갑' 與 서명옥  징벌적 상속세 조정할 것 ",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815486?sid=165",
+        "date": "Sun, 31 Mar 2024 23:46:00 +0900"
+      },
+      {
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+      },
+      {
+        "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165",
+        "date": "Sun, 31 Mar 2024 20:50:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 29319703
+      }
+    ]
+  }
 ]

@@ -1,105 +1,123 @@
 [
-    {
-        "id": "2411903-1",
-        "regionId": "2411903",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100153035/gicho/thumbnail.100153035.JPG?ver=1682430",
-        "기호": 1,
-        "이름": "박해철",
-        "생년월일": "19650914",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "회사원",
-        "학력": "단국대학교 부동산·건설대학원 졸업(도시계획학석사(도시개발))",
-        "경력": "(전)한국노총 LH노동조합 위원장\n(현)더불어민주당 대변인",
-        "재산": 1944797,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502",
-                "date": "Sun, 31 Mar 2024 21:32:00 +0900"
-            },
-            {
-                "title": "안산시병 박해철 후보, 선부119안전센터에 감사 인사 전해",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446779",
-                "date": "Sun, 31 Mar 2024 19:36:00 +0900"
-            },
-            {
-                "title": "[4·10 총선] 민주당 안산병 박해철  재건축 사업으로 시민 안전 및 쾌적한 주...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242229",
-                "date": "Sun, 31 Mar 2024 12:20:00 +0900"
-            },
-            {
-                "title": "안산시병 더불어민주당 박해철 후보, 선부동 동명삼거리에서 집중유세",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446774",
-                "date": "Sat, 30 Mar 2024 22:42:00 +0900"
-            },
-            {
-                "title": "[4·10 총선] 안산시병 더불어민주당 박해철 후보, 금융노조와 정책협약 체결",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242179",
-                "date": "Sat, 30 Mar 2024 16:16:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2411903-2",
-        "regionId": "2411903",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100151665/gicho/thumbnail.100151665.JPG?ver=1685111",
-        "기호": 2,
-        "이름": "김명연",
-        "생년월일": "19640228",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한양대학교 행정·자치대학원 졸업[지방자치학석사(지방·도시행정)]",
-        "경력": "(전)19대·20대 국회의원\n(현)사단법인 미래희망포럼 이사장",
-        "재산": 3394162,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[4·10 총선] 한동훈 비대위원장, 조국혁신당 박은정 후보 및 민주당 후보들 ...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242397",
-                "date": "Sun, 31 Mar 2024 21:58:00 +0900"
-            },
-            {
-                "title": "김명연 국힘 안산병 후보, 반도체특성화고교 유치 ‘현기차 유치 마중물’",
-                "link": "https://www.nspna.com/news/?mode=view&newsid=691000",
-                "date": "Sun, 31 Mar 2024 20:02:00 +0900"
-            },
-            {
-                "title": "[4·10 총선] 경기 선거구 60곳 중 44곳, 남부에 화력 집중",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242374",
-                "date": "Sun, 31 Mar 2024 19:06:00 +0900"
-            },
-            {
-                "title": "김명연 후보,  반도체특성화고교 유치해 반도체 산업인력 양성 ",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644435",
-                "date": "Sun, 31 Mar 2024 14:18:00 +0900"
-            },
-            {
-                "title": "김명연 후보, 반도체특성화고교 유치... ‘현대·기아차 유치 마중물’",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851199",
-                "date": "Sun, 31 Mar 2024 13:34:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2411903-7",
-        "regionId": "2411903",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100151192/gicho/thumbnail.100151192.JPG?ver=1684562",
-        "기호": 7,
-        "이름": "이혜숙",
-        "생년월일": "19640426",
-        "정당": "개혁신당",
-        "성별": "여",
-        "직업": "정치컨설팅 공론 대표",
-        "학력": "광운대학교 대학원 행정학과 졸업(행정학 박사)",
-        "경력": "(전)디지털서울문화예술대학교 외래교수\n(현)개혁신당 정책위원회 부의장",
-        "재산": 97622,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": []
-    }
+  {
+    "id": "2411903-1",
+    "regionId": "2411903",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100153035/gicho/thumbnail.100153035.JPG?ver=1682430",
+    "기호": 1,
+    "이름": "박해철",
+    "생년월일": "19650914",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "회사원",
+    "학력": "단국대학교 부동산·건설대학원 졸업(도시계획학석사(도시개발))",
+    "경력": "(전)한국노총 LH노동조합 위원장\n(현)더불어민주당 대변인",
+    "재산": 1944797,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502",
+        "date": "Sun, 31 Mar 2024 21:32:00 +0900"
+      },
+      {
+        "title": "안산시병 박해철 후보, 선부119안전센터에 감사 인사 전해",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446779",
+        "date": "Sun, 31 Mar 2024 19:36:00 +0900"
+      },
+      {
+        "title": "[4·10 총선] 민주당 안산병 박해철  재건축 사업으로 시민 안전 및 쾌적한 주...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242229",
+        "date": "Sun, 31 Mar 2024 12:20:00 +0900"
+      },
+      {
+        "title": "안산시병 더불어민주당 박해철 후보, 선부동 동명삼거리에서 집중유세",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446774",
+        "date": "Sat, 30 Mar 2024 22:42:00 +0900"
+      },
+      {
+        "title": "[4·10 총선] 안산시병 더불어민주당 박해철 후보, 금융노조와 정책협약 체결",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242179",
+        "date": "Sat, 30 Mar 2024 16:16:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1944797
+      }
+    ]
+  },
+  {
+    "id": "2411903-2",
+    "regionId": "2411903",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100151665/gicho/thumbnail.100151665.JPG?ver=1685111",
+    "기호": 2,
+    "이름": "김명연",
+    "생년월일": "19640228",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "한양대학교 행정·자치대학원 졸업[지방자치학석사(지방·도시행정)]",
+    "경력": "(전)19대·20대 국회의원\n(현)사단법인 미래희망포럼 이사장",
+    "재산": 3394162,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[4·10 총선] 한동훈 비대위원장, 조국혁신당 박은정 후보 및 민주당 후보들 ...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242397",
+        "date": "Sun, 31 Mar 2024 21:58:00 +0900"
+      },
+      {
+        "title": "김명연 국힘 안산병 후보, 반도체특성화고교 유치 ‘현기차 유치 마중물’",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=691000",
+        "date": "Sun, 31 Mar 2024 20:02:00 +0900"
+      },
+      {
+        "title": "[4·10 총선] 경기 선거구 60곳 중 44곳, 남부에 화력 집중",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242374",
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900"
+      },
+      {
+        "title": "김명연 후보,  반도체특성화고교 유치해 반도체 산업인력 양성 ",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644435",
+        "date": "Sun, 31 Mar 2024 14:18:00 +0900"
+      },
+      {
+        "title": "김명연 후보, 반도체특성화고교 유치... ‘현대·기아차 유치 마중물’",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851199",
+        "date": "Sun, 31 Mar 2024 13:34:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3394162
+      }
+    ]
+  },
+  {
+    "id": "2411903-7",
+    "regionId": "2411903",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4119/Hb100151192/gicho/thumbnail.100151192.JPG?ver=1684562",
+    "기호": 7,
+    "이름": "이혜숙",
+    "생년월일": "19640426",
+    "정당": "개혁신당",
+    "성별": "여",
+    "직업": "정치컨설팅 공론 대표",
+    "학력": "광운대학교 대학원 행정학과 졸업(행정학 박사)",
+    "경력": "(전)디지털서울문화예술대학교 외래교수\n(현)개혁신당 정책위원회 부의장",
+    "재산": 97622,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 97622
+      }
+    ]
+  }
 ]

@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152887/gicho/thumbnail.100152887.JPG?ver=1677858",
-		"id": "2111603-1",
-		"재산": 1375721,
-		"생년월일": "19650108",
-		"경력": "(현)강서구병 국회의원\n(전)제19대 환경부 장관",
-		"학력": "영국 노팅엄대학교 산업공학박사 (1999.9~2003.4)",
-		"직업": "국회의원",
-		"성별": "여",
-		"id_21th": "835",
-		"regionId": "2111603",
-		"기호": 1,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:00:00 +0900",
-				"title": "'도구' 확보하고 '영토' 넓힌 한의사들  열매 거둘 차례 ",
-				"link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016016"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:42:00 +0900",
-				"title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-				"link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:30:00 +0900",
-				"title": "[같이, 우리] 불멸의 열정으로 쓴 청춘의 투쟁, 그 끝나지 않는 이야기",
-				"link": "http://www.incheontoday.com/news/articleView.html?idxno=244222"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 09:34:00 +0900",
-				"title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-				"link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "한정애"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152808/gicho/thumbnail.100152808.JPG?ver=1684228",
-		"id": "2111603-2",
-		"재산": 1457232,
-		"생년월일": "19731129",
-		"경력": "(전)제20대 대통령직 인수위원회 전문위원\n(현)국민의힘 서울시당 전략기획위원장",
-		"학력": "서울대학교 사범대학 역사교육과 졸업",
-		"직업": "정당인",
-		"성별": "남",
-		"regionId": "2111603",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 00:00:00 +0900",
-				"title": "첫 주말 '한강벨트' 대격돌…이재명은 용산으로, 한동훈은 강서로",
-				"link": "https://n.news.naver.com/mnews/article/119/0002815272?sid=165"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 20:22:00 +0900",
-				"title": "지지 호소하는 김일호 국민의힘 강서구병 후보",
-				"link": "https://n.news.naver.com/mnews/article/119/0002815257?sid=100"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 09:36:00 +0900",
-				"title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
-				"link": "http://www.metroseoul.co.kr/article/20240330500001"
-			},
-			{
-				"date": "Thu, 28 Mar 2024 16:00:00 +0900",
-				"title": "[총선GO!] '강서병' 한정애  바닥에서부터 '尹 심판' 정서...보궐선거 기세 이...",
-				"link": "https://www.newspim.com/news/view/20240328000048"
-			},
-			{
-				"date": "Thu, 28 Mar 2024 08:12:00 +0900",
-				"title": "[강서구 총선 공약 톺아보기] 주민들, 투표일 가까워도 후보 누군지 몰라... ...",
-				"link": "https://www.gokorea.kr/news/articleView.html?idxno=752023"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "김일호"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152887/gicho/thumbnail.100152887.JPG?ver=1677858",
+    "id": "2111603-1",
+    "재산": 1375721,
+    "생년월일": "19650108",
+    "경력": "(현)강서구병 국회의원\n(전)제19대 환경부 장관",
+    "학력": "영국 노팅엄대학교 산업공학박사 (1999.9~2003.4)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "835",
+    "regionId": "2111603",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:00:00 +0900",
+        "title": "'도구' 확보하고 '영토' 넓힌 한의사들  열매 거둘 차례 ",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016016"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+        "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:30:00 +0900",
+        "title": "[같이, 우리] 불멸의 열정으로 쓴 청춘의 투쟁, 그 끝나지 않는 이야기",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244222"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "한정애",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1074609
+      },
+      {
+        "연도": 2021,
+        "재산": 1212276
+      },
+      {
+        "연도": 2022,
+        "재산": 1261985
+      },
+      {
+        "연도": 2023,
+        "재산": 1375721
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152808/gicho/thumbnail.100152808.JPG?ver=1684228",
+    "id": "2111603-2",
+    "재산": 1457232,
+    "생년월일": "19731129",
+    "경력": "(전)제20대 대통령직 인수위원회 전문위원\n(현)국민의힘 서울시당 전략기획위원장",
+    "학력": "서울대학교 사범대학 역사교육과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111603",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 00:00:00 +0900",
+        "title": "첫 주말 '한강벨트' 대격돌…이재명은 용산으로, 한동훈은 강서로",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815272?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:22:00 +0900",
+        "title": "지지 호소하는 김일호 국민의힘 강서구병 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815257?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 09:36:00 +0900",
+        "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
+        "link": "http://www.metroseoul.co.kr/article/20240330500001"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:00:00 +0900",
+        "title": "[총선GO!] '강서병' 한정애  바닥에서부터 '尹 심판' 정서...보궐선거 기세 이...",
+        "link": "https://www.newspim.com/news/view/20240328000048"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 08:12:00 +0900",
+        "title": "[강서구 총선 공약 톺아보기] 주민들, 투표일 가까워도 후보 누군지 몰라... ...",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752023"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김일호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1457232
+      }
+    ]
+  }
 ]

@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2260803-1",
-        "regionId": "2260803",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2608/Hb100152938/gicho/thumbnail.100152938.JPG?ver=1678999",
-        "기호": 1,
-        "이름": "정명희",
-        "생년월일": "19660502",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정치인",
-        "학력": "부산대학교 약학대학 제약학과 졸업",
-        "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
-        "재산": 5271041,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
-                "date": "Sun, 31 Mar 2024 20:38:00 +0900"
-            },
-            {
-                "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
-                "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            },
-            {
-                "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            },
-            {
-                "title": "[총선을 뛴다]⑥의료계 출신은 20명…의사 10명·간호사 4명",
-                "link": "https://n.news.naver.com/mnews/article/018/0005703814?sid=165",
-                "date": "Sun, 31 Mar 2024 18:33:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2260803-2",
-        "regionId": "2260803",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2608/Hb100152979/gicho/thumbnail.100152979.JPG?ver=1684004",
-        "기호": 2,
-        "이름": "박성훈",
-        "생년월일": "19710118",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
-        "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
-        "재산": 4342023,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900"
-            },
-            {
-                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
-                "date": "Sun, 31 Mar 2024 20:38:00 +0900"
-            },
-            {
-                "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
-                "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            },
-            {
-                "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165",
-                "date": "Sun, 31 Mar 2024 20:19:00 +0900"
-            },
-            {
-                "title": "보수 아성 흔들리는 ‘낙동강벨트’… 강서, 여야 모두  우세 [3대 승부처 판...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005164470?sid=100",
-                "date": "Sun, 31 Mar 2024 18:21:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2260803-1",
+    "regionId": "2260803",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2608/Hb100152938/gicho/thumbnail.100152938.JPG?ver=1678999",
+    "기호": 1,
+    "이름": "정명희",
+    "생년월일": "19660502",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정치인",
+    "학력": "부산대학교 약학대학 제약학과 졸업",
+    "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
+    "재산": 5271041,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+      },
+      {
+        "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
+        "date": "Sun, 31 Mar 2024 20:38:00 +0900"
+      },
+      {
+        "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
+        "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102",
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900"
+      },
+      {
+        "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165",
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900"
+      },
+      {
+        "title": "[총선을 뛴다]⑥의료계 출신은 20명…의사 10명·간호사 4명",
+        "link": "https://n.news.naver.com/mnews/article/018/0005703814?sid=165",
+        "date": "Sun, 31 Mar 2024 18:33:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 5271041
+      }
+    ]
+  },
+  {
+    "id": "2260803-2",
+    "regionId": "2260803",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2608/Hb100152979/gicho/thumbnail.100152979.JPG?ver=1684004",
+    "기호": 2,
+    "이름": "박성훈",
+    "생년월일": "19710118",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
+    "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
+    "재산": 4342023,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075",
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900"
+      },
+      {
+        "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097",
+        "date": "Sun, 31 Mar 2024 20:38:00 +0900"
+      },
+      {
+        "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
+        "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102",
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900"
+      },
+      {
+        "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165",
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900"
+      },
+      {
+        "title": "보수 아성 흔들리는 ‘낙동강벨트’… 강서, 여야 모두  우세 [3대 승부처 판...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005164470?sid=100",
+        "date": "Sun, 31 Mar 2024 18:21:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4342023
+      }
+    ]
+  }
 ]

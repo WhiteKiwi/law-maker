@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 2,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4105/Hb100152731/gicho/thumbnail.100152731.JPG?ver=1684267",
-		"id": "2410501-1",
-		"재산": 961665,
-		"생년월일": "19650320",
-		"경력": "(현)제21대 국회의원(4선)\n(전)더불어민주당 원내대표",
-		"학력": "경희대학교 행정대학원 졸업(행정학 석사)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "359",
-		"regionId": "2410501",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 17:44:00 +0900",
-				"title": "[4·10 총선]성남 수정 민주당 김태년  선거공보물 선관위 우편발송 전 배부한...",
-				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242359"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 16:19:00 +0900",
-				"title": "추미애·김태년·남인순  위례신사선 신속 추진하겠다 ",
-				"link": "https://n.news.naver.com/mnews/article/047/0002428241?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:22:00 +0900",
-				"title": "남인순·추미애·김태년  위례신사선 정상화 최우선 추진 ",
-				"link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310320&REFERER=NP"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 05:00:00 +0900",
-				"title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
-				"link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
-			},
-			{
-				"date": "Fri, 29 Mar 2024 13:36:00 +0900",
-				"title": "김태년 민주당 성남수정 후보, 주거 환경개선 공약 발표",
-				"link": "https://www.nspna.com/news/?mode=view&newsid=690809"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "김태년"
-	},
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4105/Hb100151568/gicho/thumbnail.100151568.JPG?ver=1553890",
-		"id": "2410501-2",
-		"재산": 3291228,
-		"생년월일": "19580409",
-		"경력": "(전)성남법원 판사\n(현)성남시개인택시조합 고문변호사",
-		"학력": "단국대학교 법학과 졸업",
-		"직업": "법무법인 디지털 대표변호사",
-		"성별": "남",
-		"regionId": "2410501",
-		"기호": 2,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 03:48:00 +0900",
-				"title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
-				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:55:00 +0900",
-				"title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
-				"link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:48:00 +0900",
-				"title": "범야권 '200석 압승' 현실화할까… 탄핵·개헌도 가능 ",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428982"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:44:00 +0900",
-				"title": "[4·10 총선]성남 수정 민주당 김태년  선거공보물 선관위 우편발송 전 배부한...",
-				"link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242359"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:40:00 +0900",
-				"title": "한동훈 “양문석, 날 고소하라”…野 도덕성 공세 수위 높이는 與 [이런정치]",
-				"link": "https://n.news.naver.com/mnews/article/016/0002288315?sid=100"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "장영하"
-	}
+[
+  {
+    "전과건수": 2,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4105/Hb100152731/gicho/thumbnail.100152731.JPG?ver=1684267",
+    "id": "2410501-1",
+    "재산": 961665,
+    "생년월일": "19650320",
+    "경력": "(현)제21대 국회의원(4선)\n(전)더불어민주당 원내대표",
+    "학력": "경희대학교 행정대학원 졸업(행정학 석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "359",
+    "regionId": "2410501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 17:44:00 +0900",
+        "title": "[4·10 총선]성남 수정 민주당 김태년  선거공보물 선관위 우편발송 전 배부한...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242359"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:19:00 +0900",
+        "title": "추미애·김태년·남인순  위례신사선 신속 추진하겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428241?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:22:00 +0900",
+        "title": "남인순·추미애·김태년  위례신사선 정상화 최우선 추진 ",
+        "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310320&REFERER=NP"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+        "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+        "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:36:00 +0900",
+        "title": "김태년 민주당 성남수정 후보, 주거 환경개선 공약 발표",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=690809"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김태년",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 820212
+      },
+      {
+        "연도": 2021,
+        "재산": 887789
+      },
+      {
+        "연도": 2022,
+        "재산": 956764
+      },
+      {
+        "연도": 2023,
+        "재산": 961665
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4105/Hb100151568/gicho/thumbnail.100151568.JPG?ver=1553890",
+    "id": "2410501-2",
+    "재산": 3291228,
+    "생년월일": "19580409",
+    "경력": "(전)성남법원 판사\n(현)성남시개인택시조합 고문변호사",
+    "학력": "단국대학교 법학과 졸업",
+    "직업": "법무법인 디지털 대표변호사",
+    "성별": "남",
+    "regionId": "2410501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 03:48:00 +0900",
+        "title": "네거티브, 마타도어 등 與 후보들의 갖가지 기행",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307286"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:55:00 +0900",
+        "title": "“악당” “쓰레기” “파란 조끼 통진당”…야당엔 거칠어지는 국민의힘",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287829?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:48:00 +0900",
+        "title": "범야권 '200석 압승' 현실화할까… 탄핵·개헌도 가능 ",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428982"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:44:00 +0900",
+        "title": "[4·10 총선]성남 수정 민주당 김태년  선거공보물 선관위 우편발송 전 배부한...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242359"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:40:00 +0900",
+        "title": "한동훈 “양문석, 날 고소하라”…野 도덕성 공세 수위 높이는 與 [이런정치]",
+        "link": "https://n.news.naver.com/mnews/article/016/0002288315?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "장영하",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3291228
+      }
+    ]
+  }
 ]

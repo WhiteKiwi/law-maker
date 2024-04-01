@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2290302-1",
-        "regionId": "2290302",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2903/Hb100151143/gicho/thumbnail.100151143.JPG?ver=1549047",
-        "기호": 1,
-        "이름": "정진욱",
-        "생년월일": "19641020",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 정치학과 졸업",
-        "경력": "(전)한국경제신문 기자\n(현)더불어민주당 당대표 정무특보",
-        "재산": 1827244,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "선거운동 첫 주말·휴일 광주 유세전 ‘치열’",
-                "link": "http://www.kjdaily.com/article.php?aid=1711887344626166245",
-                "date": "Sun, 31 Mar 2024 21:42:00 +0900"
-            },
-            {
-                "title": "광주 여야 후보들, 공식 선거운동 이후 첫 주말 표심잡기 안간힘",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880137?sid=165",
-                "date": "Sun, 31 Mar 2024 20:24:00 +0900"
-            },
-            {
-                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534",
-                "date": "Sun, 31 Mar 2024 18:48:00 +0900"
-            },
-            {
-                "title": "일주이슈 121-2&gt;“AI중심도시·군공항 이전·인구감소 대응”",
-                "link": "http://www.jnilbo.com/73183563112",
-                "date": "Sun, 31 Mar 2024 18:35:00 +0900"
-            },
-            {
-                "title": "[총선 기획 후보별 공약 점검]⑤광주 동남갑-강소기업 적극 유치·출퇴근 교통...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765045",
-                "date": "Sun, 31 Mar 2024 18:18:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2290302-2",
-        "regionId": "2290302",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2903/Hb100152545/gicho/thumbnail.100152545.JPG?ver=1623121",
-        "기호": 2,
-        "이름": "강현구",
-        "생년월일": "19551212",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "건축사",
-        "학력": "조선대학교 산업대학원 산업공학과(건축전공) 졸업(공학석사)",
-        "경력": "(전) 대한건축사협회 광주광역시 건축사회 회장\n(현) 민주평화통일자문회의 운영위원 광주부의장",
-        "재산": 318088,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "title": "선거운동 첫 주말·휴일 광주 유세전 ‘치열’",
-                "link": "http://www.kjdaily.com/article.php?aid=1711887344626166245",
-                "date": "Sun, 31 Mar 2024 21:42:00 +0900"
-            },
-            {
-                "title": "광주 여야 후보들, 공식 선거운동 이후 첫 주말 표심잡기 안간힘",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880137?sid=165",
-                "date": "Sun, 31 Mar 2024 20:24:00 +0900"
-            },
-            {
-                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534",
-                "date": "Sun, 31 Mar 2024 18:48:00 +0900"
-            },
-            {
-                "title": "[총선 기획 후보별 공약 점검]⑤광주 동남갑-강소기업 적극 유치·출퇴근 교통...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765045",
-                "date": "Sun, 31 Mar 2024 18:18:00 +0900"
-            },
-            {
-                "title": "공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
-                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433247",
-                "date": "Sun, 31 Mar 2024 16:28:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2290302-1",
+    "regionId": "2290302",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2903/Hb100151143/gicho/thumbnail.100151143.JPG?ver=1549047",
+    "기호": 1,
+    "이름": "정진욱",
+    "생년월일": "19641020",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전)한국경제신문 기자\n(현)더불어민주당 당대표 정무특보",
+    "재산": 1827244,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "선거운동 첫 주말·휴일 광주 유세전 ‘치열’",
+        "link": "http://www.kjdaily.com/article.php?aid=1711887344626166245",
+        "date": "Sun, 31 Mar 2024 21:42:00 +0900"
+      },
+      {
+        "title": "광주 여야 후보들, 공식 선거운동 이후 첫 주말 표심잡기 안간힘",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880137?sid=165",
+        "date": "Sun, 31 Mar 2024 20:24:00 +0900"
+      },
+      {
+        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534",
+        "date": "Sun, 31 Mar 2024 18:48:00 +0900"
+      },
+      {
+        "title": "일주이슈 121-2&gt;“AI중심도시·군공항 이전·인구감소 대응”",
+        "link": "http://www.jnilbo.com/73183563112",
+        "date": "Sun, 31 Mar 2024 18:35:00 +0900"
+      },
+      {
+        "title": "[총선 기획 후보별 공약 점검]⑤광주 동남갑-강소기업 적극 유치·출퇴근 교통...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765045",
+        "date": "Sun, 31 Mar 2024 18:18:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1827244
+      }
+    ]
+  },
+  {
+    "id": "2290302-2",
+    "regionId": "2290302",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2903/Hb100152545/gicho/thumbnail.100152545.JPG?ver=1623121",
+    "기호": 2,
+    "이름": "강현구",
+    "생년월일": "19551212",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "건축사",
+    "학력": "조선대학교 산업대학원 산업공학과(건축전공) 졸업(공학석사)",
+    "경력": "(전) 대한건축사협회 광주광역시 건축사회 회장\n(현) 민주평화통일자문회의 운영위원 광주부의장",
+    "재산": 318088,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "title": "선거운동 첫 주말·휴일 광주 유세전 ‘치열’",
+        "link": "http://www.kjdaily.com/article.php?aid=1711887344626166245",
+        "date": "Sun, 31 Mar 2024 21:42:00 +0900"
+      },
+      {
+        "title": "광주 여야 후보들, 공식 선거운동 이후 첫 주말 표심잡기 안간힘",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880137?sid=165",
+        "date": "Sun, 31 Mar 2024 20:24:00 +0900"
+      },
+      {
+        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534",
+        "date": "Sun, 31 Mar 2024 18:48:00 +0900"
+      },
+      {
+        "title": "[총선 기획 후보별 공약 점검]⑤광주 동남갑-강소기업 적극 유치·출퇴근 교통...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765045",
+        "date": "Sun, 31 Mar 2024 18:18:00 +0900"
+      },
+      {
+        "title": "공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=433247",
+        "date": "Sun, 31 Mar 2024 16:28:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 318088
+      }
+    ]
+  }
 ]

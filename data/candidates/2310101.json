@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3101/Hb100151512/gicho/thumbnail.100151512.JPG?ver=1684535",
-		"id": "2310101-1",
-		"재산": 1225035,
-		"생년월일": "19801128",
-		"경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
-		"학력": "성균관대학교 대학원 졸업(정치학박사)",
-		"직업": "정당인",
-		"성별": "남",
-		"regionId": "2310101",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:12:00 +0900",
-				"title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-				"link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 23:30:00 +0900",
-				"title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-				"link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:30:00 +0900",
-				"title": "시장으로 거점으로…불꽃튀는 표심전쟁",
-				"link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:22:00 +0900",
-				"title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
-				"link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 18:02:00 +0900",
-				"title": "제22대 총선 첫 주말유세 펼치는 선거차량들",
-				"link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037177"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "오상택"
-	},
-	{
-		"전과건수": 2,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3101/Hb100152554/gicho/thumbnail.100152554.JPG?ver=1684637",
-		"id": "2310101-2",
-		"재산": 1180741,
-		"생년월일": "19590419",
-		"경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
-		"학력": "울산대학교 정책대학원 졸업(행정학석사)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1089",
-		"regionId": "2310101",
-		"기호": 2,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:12:00 +0900",
-				"title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-				"link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 23:30:00 +0900",
-				"title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-				"link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:06:00 +0900",
-				"title": "대구시의사회, 김석준 의장 선출·민복기 회장 취임",
-				"link": "https://www.dkilbo.com/news/articleView.html?idxno=436740"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:30:00 +0900",
-				"title": "시장으로 거점으로…불꽃튀는 표심전쟁",
-				"link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "박성민"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3101/Hb100151512/gicho/thumbnail.100151512.JPG?ver=1684535",
+    "id": "2310101-1",
+    "재산": 1225035,
+    "생년월일": "19801128",
+    "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
+    "학력": "성균관대학교 대학원 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900",
+        "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:02:00 +0900",
+        "title": "제22대 총선 첫 주말유세 펼치는 선거차량들",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037177"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오상택",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1225035
+      }
+    ]
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3101/Hb100152554/gicho/thumbnail.100152554.JPG?ver=1684637",
+    "id": "2310101-2",
+    "재산": 1180741,
+    "생년월일": "19590419",
+    "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
+    "학력": "울산대학교 정책대학원 졸업(행정학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1089",
+    "regionId": "2310101",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+        "title": "대구시의사회, 김석준 의장 선출·민복기 회장 취임",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436740"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박성민",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 890741
+      },
+      {
+        "연도": 2021,
+        "재산": 911873
+      },
+      {
+        "연도": 2022,
+        "재산": 880255
+      },
+      {
+        "연도": 2023,
+        "재산": 1180741
+      }
+    ]
+  }
 ]

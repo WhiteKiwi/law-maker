@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4310/Hb100152665/gicho/thumbnail.100152665.JPG?ver=1650182",
-		"id": "2431002-1",
-		"재산": 2890911,
-		"생년월일": "19640927",
-		"경력": "(전) 경찰청 본청 차장\n(현) 제21대 국회의원",
-		"학력": "경찰대학 행정학과 졸업(행정학사)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1126",
-		"regionId": "2431002",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 23:04:00 +0900",
-				"title": "임호선 후보, '중단없는 혁신도시 변화'' 공약 발표",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265553"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:55:00 +0900",
-				"title": "총선/민 임호선·국힘 경대수, 충북혁신도시 표심 공략",
-				"link": "http://www.dynews.co.kr/news/articleView.html?idxno=746076"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:30:00 +0900",
-				"title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-				"link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "거리에서 … 유원지에서 … `표밭갈이'",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "임호선  중단없는 혁신도시 추진 ",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792328"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "임호선"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4310/Hb100152353/gicho/thumbnail.100152353.JPG?ver=1686953",
-		"id": "2431002-2",
-		"재산": 1420379,
-		"생년월일": "19580318",
-		"경력": "(전)제19, 20대 국회의원\n(전)대검찰청 마약·조직범죄부장(검사장)",
-		"학력": "서울대학교 법과대학 법학과 졸업",
-		"직업": "변호사",
-		"성별": "남",
-		"regionId": "2431002",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 23:04:00 +0900",
-				"title": "경대수 후보, 중부3군과 혁신도시 공약 발표",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265551"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:55:00 +0900",
-				"title": "총선/민 임호선·국힘 경대수, 충북혁신도시 표심 공략",
-				"link": "http://www.dynews.co.kr/news/articleView.html?idxno=746076"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:30:00 +0900",
-				"title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-				"link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "경대수  산·학·연 클러스터 조성 ",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792327"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "거리에서 … 유원지에서 … `표밭갈이'",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "경대수"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4310/Hb100152665/gicho/thumbnail.100152665.JPG?ver=1650182",
+    "id": "2431002-1",
+    "재산": 2890911,
+    "생년월일": "19640927",
+    "경력": "(전) 경찰청 본청 차장\n(현) 제21대 국회의원",
+    "학력": "경찰대학 행정학과 졸업(행정학사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1126",
+    "regionId": "2431002",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 23:04:00 +0900",
+        "title": "임호선 후보, '중단없는 혁신도시 변화'' 공약 발표",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265553"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+        "title": "총선/민 임호선·국힘 경대수, 충북혁신도시 표심 공략",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746076"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:30:00 +0900",
+        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "거리에서 … 유원지에서 … `표밭갈이'",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "임호선  중단없는 혁신도시 추진 ",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792328"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "임호선",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2704826
+      },
+      {
+        "연도": 2021,
+        "재산": 2607225
+      },
+      {
+        "연도": 2022,
+        "재산": 2747716
+      },
+      {
+        "연도": 2023,
+        "재산": 2890911
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4310/Hb100152353/gicho/thumbnail.100152353.JPG?ver=1686953",
+    "id": "2431002-2",
+    "재산": 1420379,
+    "생년월일": "19580318",
+    "경력": "(전)제19, 20대 국회의원\n(전)대검찰청 마약·조직범죄부장(검사장)",
+    "학력": "서울대학교 법과대학 법학과 졸업",
+    "직업": "변호사",
+    "성별": "남",
+    "regionId": "2431002",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 23:04:00 +0900",
+        "title": "경대수 후보, 중부3군과 혁신도시 공약 발표",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265551"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+        "title": "총선/민 임호선·국힘 경대수, 충북혁신도시 표심 공략",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746076"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:30:00 +0900",
+        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "경대수  산·학·연 클러스터 조성 ",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792327"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "거리에서 … 유원지에서 … `표밭갈이'",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "경대수",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1420379
+      }
+    ]
+  }
 ]

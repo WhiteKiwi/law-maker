@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4303/Hb100152357/gicho/thumbnail.100152357.JPG?ver=1602608",
-		"id": "2430301-1",
-		"재산": 1433496,
-		"생년월일": "19660329",
-		"경력": "(전) 국토교통부 제2차관\n(전) 인천국제공항공사 사장",
-		"학력": "서울대학교 행정대학원 행정학과 졸업(행정학석사)",
-		"직업": "정당인(더불어민주당 전략기획위원회 부위원장)",
-		"성별": "남",
-		"regionId": "2430301",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:00:00 +0900",
-				"title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:55:00 +0900",
-				"title": "총선/충주 민 김경욱·국힘 이종배 후보, 충주 5일장 전통시장 집중 유세",
-				"link": "http://www.dynews.co.kr/news/articleView.html?idxno=746087"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:30:00 +0900",
-				"title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-				"link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "고발·의혹 제기 … 충북 과열·혼탁",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792286"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "거리에서 … 유원지에서 … `표밭갈이'",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "김경욱"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4303/Hb100152801/gicho/thumbnail.100152801.JPG?ver=1674690",
-		"id": "2430301-2",
-		"재산": 2931845,
-		"생년월일": "19570530",
-		"경력": "(전) 충주시장\n(현) 제21대 국회의원",
-		"학력": "고려대학교 법과대학 행정학과 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "871",
-		"regionId": "2430301",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 00:00:00 +0900",
-				"title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
-				"link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:55:00 +0900",
-				"title": "총선/충주 민 김경욱·국힘 이종배 후보, 충주 5일장 전통시장 집중 유세",
-				"link": "http://www.dynews.co.kr/news/articleView.html?idxno=746087"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:30:00 +0900",
-				"title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
-				"link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:06:00 +0900",
-				"title": "김경욱·이종배 5일장 집중 유세",
-				"link": "http://www.cctimes.kr/news/articleView.html?idxno=792322"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "이종배"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4303/Hb100152357/gicho/thumbnail.100152357.JPG?ver=1602608",
+    "id": "2430301-1",
+    "재산": 1433496,
+    "생년월일": "19660329",
+    "경력": "(전) 국토교통부 제2차관\n(전) 인천국제공항공사 사장",
+    "학력": "서울대학교 행정대학원 행정학과 졸업(행정학석사)",
+    "직업": "정당인(더불어민주당 전략기획위원회 부위원장)",
+    "성별": "남",
+    "regionId": "2430301",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900",
+        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+        "title": "총선/충주 민 김경욱·국힘 이종배 후보, 충주 5일장 전통시장 집중 유세",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746087"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:30:00 +0900",
+        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "고발·의혹 제기 … 충북 과열·혼탁",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792286"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "거리에서 … 유원지에서 … `표밭갈이'",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792288"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김경욱",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1433496
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4303/Hb100152801/gicho/thumbnail.100152801.JPG?ver=1674690",
+    "id": "2430301-2",
+    "재산": 2931845,
+    "생년월일": "19570530",
+    "경력": "(전) 충주시장\n(현) 제21대 국회의원",
+    "학력": "고려대학교 법과대학 행정학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "871",
+    "regionId": "2430301",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 00:00:00 +0900",
+        "title": "공식 선거운동 첫 주말… 표심공략 '동분서주'",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265680"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+        "title": "총선/충주 민 김경욱·국힘 이종배 후보, 충주 5일장 전통시장 집중 유세",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746087"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:30:00 +0900",
+        "title": "충북 여야 후보들, 공식 선거운동 첫 주말 표심잡기 '동분서주'",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150540"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+        "title": "김경욱·이종배 5일장 집중 유세",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792322"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "이종배",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2230139
+      },
+      {
+        "연도": 2021,
+        "재산": 2655194
+      },
+      {
+        "연도": 2022,
+        "재산": 2952746
+      },
+      {
+        "연도": 2023,
+        "재산": 2931845
+      }
+    ]
+  }
 ]

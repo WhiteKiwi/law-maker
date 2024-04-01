@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4103/Hb100152714/gicho/thumbnail.100152714.JPG?ver=1671964",
-		"id": "2410301-1",
-		"재산": 1096525,
-		"생년월일": "19670910",
-		"경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
-		"학력": "중앙대학교 경영학과 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "982",
-		"regionId": "2410301",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:52:00 +0900",
-				"title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:36:00 +0900",
-				"title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
-				"link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:25:00 +0900",
-				"title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
-				"link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:04:00 +0900",
-				"title": "선관위 주최 중영도구 후보자 토론회 진행",
-				"link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:04:00 +0900",
-				"title": "[4·10 총선 여론조사-수원병] 국민의힘 37.3% &gt; 더불어민주당 31.9%",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644540"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "김영진"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4103/Hb100152070/gicho/thumbnail.100152070.JPG?ver=1616663",
-		"id": "2410301-2",
-		"재산": 7747562,
-		"생년월일": "19620226",
-		"경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
-		"학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
-		"직업": "정당인",
-		"성별": "남",
-		"regionId": "2410301",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 23:16:00 +0900",
-				"title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
-				"link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:56:00 +0900",
-				"title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:52:00 +0900",
-				"title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:36:00 +0900",
-				"title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
-				"link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:25:00 +0900",
-				"title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
-				"link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "방문규"
-	}
+[
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4103/Hb100152714/gicho/thumbnail.100152714.JPG?ver=1671964",
+    "id": "2410301-1",
+    "재산": 1096525,
+    "생년월일": "19670910",
+    "경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
+    "학력": "중앙대학교 경영학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "982",
+    "regionId": "2410301",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:52:00 +0900",
+        "title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:36:00 +0900",
+        "title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+        "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "선관위 주최 중영도구 후보자 토론회 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "[4·10 총선 여론조사-수원병] 국민의힘 37.3% &gt; 더불어민주당 31.9%",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644540"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김영진",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 995203
+      },
+      {
+        "연도": 2021,
+        "재산": 1054584
+      },
+      {
+        "연도": 2022,
+        "재산": 1103283
+      },
+      {
+        "연도": 2023,
+        "재산": 1096525
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4103/Hb100152070/gicho/thumbnail.100152070.JPG?ver=1616663",
+    "id": "2410301-2",
+    "재산": 7747562,
+    "생년월일": "19620226",
+    "경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
+    "학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2410301",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 23:16:00 +0900",
+        "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:56:00 +0900",
+        "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:52:00 +0900",
+        "title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:36:00 +0900",
+        "title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+        "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "방문규",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 7747562
+      }
+    ]
+  }
 ]

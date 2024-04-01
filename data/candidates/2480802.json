@@ -1,90 +1,126 @@
-﻿[
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152591/gicho/thumbnail.100152591.JPG?ver=1632923",
-		"id": "2480802-1",
-		"재산": 790342,
-		"생년월일": "19600618",
-		"경력": "(현)더불어민주당 김해시을 국회의원\n(전)노무현 대통령비서실 기록관리비서관",
-		"학력": "부산대학교 경제학과 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1036",
-		"regionId": "2480802",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 01:01:00 +0900",
-				"title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
-				"link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
-				"title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
-				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:58:00 +0900",
-				"title": " 尹 대통령 사과·내각 총사퇴해야 ",
-				"link": "http://www.gnmaeil.com/news/articleView.html?idxno=538185"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:04:00 +0900",
-				"title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
-				"link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "김정호"
-	},
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152777/gicho/thumbnail.100152777.JPG?ver=1673773",
-		"id": "2480802-2",
-		"재산": 1191492,
-		"생년월일": "19630804",
-		"경력": "(전)국회의원(제18대, 제19대)\n(전)국회 교육위·정보위 위원장",
-		"학력": "서울대학교 대학원 법학과 졸업(법학석사)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "662",
-		"regionId": "2480802",
-		"기호": 2,
-		"군필여부": false,
-		"news": [
-			{
-				"date": "Mon, 01 Apr 2024 04:09:00 +0900",
-				"title": "정부심판론에 PK 혼전… 31곳 중 11곳 與 우세·15곳서 접전",
-				"link": "https://n.news.naver.com/mnews/article/005/0001685143?sid=165"
-			},
-			{
-				"date": "Mon, 01 Apr 2024 04:08:00 +0900",
-				"title": "“한 번 더 기회” 비상등 켠 與… 野 후보 ‘닥공’· 폭탄 공약·읍소",
-				"link": "https://n.news.naver.com/mnews/article/005/0001685138?sid=165"
-			},
-			{
-				"date": "Mon, 01 Apr 2024 03:33:00 +0900",
-				"title": "의정 갈등·도덕성·투표율...총선 '막판 변수'로 부상",
-				"link": "https://n.news.naver.com/mnews/article/052/0002017448?sid=165"
-			},
-			{
-				"date": "Mon, 01 Apr 2024 03:05:00 +0900",
-				"title": "“그들 쓰레기 발언” 목청 높인 韓",
-				"link": "https://n.news.naver.com/mnews/article/023/0003825605?sid=165"
-			},
-			{
-				"date": "Mon, 01 Apr 2024 03:03:00 +0900",
-				"title": "與후보 “尹 무릎 꿇고 사과” 요구… 한동훈엔 “이-조 심판론 안먹혀”",
-				"link": "https://n.news.naver.com/mnews/article/020/0003556431?sid=100"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "조해진"
-	}
+[
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152591/gicho/thumbnail.100152591.JPG?ver=1632923",
+    "id": "2480802-1",
+    "재산": 790342,
+    "생년월일": "19600618",
+    "경력": "(현)더불어민주당 김해시을 국회의원\n(전)노무현 대통령비서실 기록관리비서관",
+    "학력": "부산대학교 경제학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1036",
+    "regionId": "2480802",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+        "title": "[한신협 공동 전국 판세분석]경남 낙동강 벨트 여야 박빙 승부",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035347?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+        "title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+        "title": " 尹 대통령 사과·내각 총사퇴해야 ",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538185"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김정호",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 415783
+      },
+      {
+        "연도": 2021,
+        "재산": 471891
+      },
+      {
+        "연도": 2022,
+        "재산": 646674
+      },
+      {
+        "연도": 2023,
+        "재산": 790342
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152777/gicho/thumbnail.100152777.JPG?ver=1673773",
+    "id": "2480802-2",
+    "재산": 1191492,
+    "생년월일": "19630804",
+    "경력": "(전)국회의원(제18대, 제19대)\n(전)국회 교육위·정보위 위원장",
+    "학력": "서울대학교 대학원 법학과 졸업(법학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "662",
+    "regionId": "2480802",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 04:09:00 +0900",
+        "title": "정부심판론에 PK 혼전… 31곳 중 11곳 與 우세·15곳서 접전",
+        "link": "https://n.news.naver.com/mnews/article/005/0001685143?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 04:08:00 +0900",
+        "title": "“한 번 더 기회” 비상등 켠 與… 野 후보 ‘닥공’· 폭탄 공약·읍소",
+        "link": "https://n.news.naver.com/mnews/article/005/0001685138?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 03:33:00 +0900",
+        "title": "의정 갈등·도덕성·투표율...총선 '막판 변수'로 부상",
+        "link": "https://n.news.naver.com/mnews/article/052/0002017448?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 03:05:00 +0900",
+        "title": "“그들 쓰레기 발언” 목청 높인 韓",
+        "link": "https://n.news.naver.com/mnews/article/023/0003825605?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 03:03:00 +0900",
+        "title": "與후보 “尹 무릎 꿇고 사과” 요구… 한동훈엔 “이-조 심판론 안먹혀”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003556431?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "조해진",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 826638
+      },
+      {
+        "연도": 2021,
+        "재산": 961703
+      },
+      {
+        "연도": 2022,
+        "재산": 1257041
+      },
+      {
+        "연도": 2023,
+        "재산": 1191492
+      }
+    ]
+  }
 ]

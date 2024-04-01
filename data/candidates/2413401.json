@@ -1,89 +1,113 @@
-﻿[
-	{
-		"전과건수": 1,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4134/Hb100151475/gicho/thumbnail.100151475.JPG?ver=1554934",
-		"id": "2413401-1",
-		"재산": 6664240,
-		"생년월일": "19630901",
-		"경력": "(전) 이천시장\n(전) 더불어민주당 이천시지역위원회 지역위원장",
-		"학력": "단국대학교 법학과 졸업",
-		"직업": "정치인",
-		"성별": "남",
-		"regionId": "2413401",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:12:00 +0900",
-				"title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:04:00 +0900",
-				"title": "민주당 엄태준(이천) 후보, 시민과 함께 SNS 공약 홍보 구상 [포토뉴스]",
-				"link": "https://n.news.naver.com/mnews/article/666/0000037854?sid=102"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 17:52:00 +0900",
-				"title": "용산·동작 화력집중 이재명 … 수원 7번 찾아간 한동훈",
-				"link": "https://n.news.naver.com/mnews/article/009/0005281070?sid=100"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 22:02:00 +0900",
-				"title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
-				"link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
-			},
-			{
-				"date": "Sat, 30 Mar 2024 21:22:00 +0900",
-				"title": "이재명,  4월 10일은 국민이 승리하는 날...지인에게 투표 독려해 달라 ",
-				"link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307262"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "엄태준"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4134/Hb100152824/gicho/thumbnail.100152824.JPG?ver=1675530",
-		"id": "2413401-2",
-		"재산": 1538172,
-		"생년월일": "19640310",
-		"경력": "(현)국회의원(20, 21대)\n(전)서울지방국토관리청 청장",
-		"학력": "미국 미주리대학교 경제학 박사 (2002. 8. ~ 2005. 5.)",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "994",
-		"regionId": "2413401",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:48:00 +0900",
-				"title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-				"link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:32:00 +0900",
-				"title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644502"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 21:12:00 +0900",
-				"title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:48:00 +0900",
-				"title": "韓, 수도권서 유권자 향해  박박 길 준비 돼 있어…이재명·조국 징징대 ",
-				"link": "https://www.ajunews.com/view/20240331203743663"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:45:00 +0900",
-				"title": "[총선 D-10] 與, 몸 낮추고 읍소… 부족함 반성, 기회달라 (종합)",
-				"link": "https://n.news.naver.com/mnews/article/001/0014601265?sid=165"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "송석준"
-	}
+[
+  {
+    "전과건수": 1,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4134/Hb100151475/gicho/thumbnail.100151475.JPG?ver=1554934",
+    "id": "2413401-1",
+    "재산": 6664240,
+    "생년월일": "19630901",
+    "경력": "(전) 이천시장\n(전) 더불어민주당 이천시지역위원회 지역위원장",
+    "학력": "단국대학교 법학과 졸업",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2413401",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:12:00 +0900",
+        "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:04:00 +0900",
+        "title": "민주당 엄태준(이천) 후보, 시민과 함께 SNS 공약 홍보 구상 [포토뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037854?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:52:00 +0900",
+        "title": "용산·동작 화력집중 이재명 … 수원 7번 찾아간 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281070?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 22:02:00 +0900",
+        "title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 21:22:00 +0900",
+        "title": "이재명,  4월 10일은 국민이 승리하는 날...지인에게 투표 독려해 달라 ",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307262"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "엄태준",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 6664240
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4134/Hb100152824/gicho/thumbnail.100152824.JPG?ver=1675530",
+    "id": "2413401-2",
+    "재산": 1538172,
+    "생년월일": "19640310",
+    "경력": "(현)국회의원(20, 21대)\n(전)서울지방국토관리청 청장",
+    "학력": "미국 미주리대학교 경제학 박사 (2002. 8. ~ 2005. 5.)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "994",
+    "regionId": "2413401",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:32:00 +0900",
+        "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:12:00 +0900",
+        "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:48:00 +0900",
+        "title": "韓, 수도권서 유권자 향해  박박 길 준비 돼 있어…이재명·조국 징징대 ",
+        "link": "https://www.ajunews.com/view/20240331203743663"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:45:00 +0900",
+        "title": "[총선 D-10] 與, 몸 낮추고 읍소… 부족함 반성, 기회달라 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014601265?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "송석준",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 945950
+      },
+      {
+        "연도": 2021,
+        "재산": 1065502
+      },
+      {
+        "연도": 2022,
+        "재산": 1305045
+      },
+      {
+        "연도": 2023,
+        "재산": 1538172
+      }
+    ]
+  }
 ]

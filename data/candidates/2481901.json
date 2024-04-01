@@ -1,88 +1,100 @@
 [
-    {
-        "id": "2481901-1",
-        "regionId": "2481901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152924/gicho/thumbnail.100152924.JPG?ver=1678976",
-        "기호": 1,
-        "이름": "김기태",
-        "생년월일": "19610628",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "순천향대학 국어국문학과 졸업",
-        "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
-        "재산": 144800,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009",
-                "date": "Sun, 31 Mar 2024 22:04:00 +0900"
-            },
-            {
-                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450",
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900"
-            },
-            {
-                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075",
-                "date": "Sun, 31 Mar 2024 17:23:00 +0900"
-            },
-            {
-                "title": "민주당 김기태 후보, 합천군 선거 출정식 진행",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388082",
-                "date": "Sun, 31 Mar 2024 17:22:00 +0900"
-            },
-            {
-                "title": "천안시의회 의원 아선거구(백석동) 보궐선거 4명 후보 각축전",
-                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265600",
-                "date": "Sun, 31 Mar 2024 11:40:00 +0900"
-            }
-        ]
-    },
-    {
-        "id": "2481901-2",
-        "regionId": "2481901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152030/gicho/thumbnail.100152030.JPG?ver=1577734",
-        "기호": 2,
-        "이름": "신성범",
-        "생년월일": "19630601",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정치인",
-        "학력": "서울대학교 사회과학대학 인류학과 졸업",
-        "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
-        "재산": 1215065,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009",
-                "date": "Sun, 31 Mar 2024 22:04:00 +0900"
-            },
-            {
-                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450",
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900"
-            },
-            {
-                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075",
-                "date": "Sun, 31 Mar 2024 17:23:00 +0900"
-            },
-            {
-                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100",
-                "date": "Sun, 31 Mar 2024 08:02:00 +0900"
-            },
-            {
-                "title": "TV토론서 '지역소멸 해결 방안' 놓고 공방 벌인 여야 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012459998?sid=102",
-                "date": "Fri, 29 Mar 2024 21:08:00 +0900"
-            }
-        ]
-    }
+  {
+    "id": "2481901-1",
+    "regionId": "2481901",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152924/gicho/thumbnail.100152924.JPG?ver=1678976",
+    "기호": 1,
+    "이름": "김기태",
+    "생년월일": "19610628",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "순천향대학 국어국문학과 졸업",
+    "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
+    "재산": 144800,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009",
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900"
+      },
+      {
+        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450",
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900"
+      },
+      {
+        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075",
+        "date": "Sun, 31 Mar 2024 17:23:00 +0900"
+      },
+      {
+        "title": "민주당 김기태 후보, 합천군 선거 출정식 진행",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388082",
+        "date": "Sun, 31 Mar 2024 17:22:00 +0900"
+      },
+      {
+        "title": "천안시의회 의원 아선거구(백석동) 보궐선거 4명 후보 각축전",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265600",
+        "date": "Sun, 31 Mar 2024 11:40:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 144800
+      }
+    ]
+  },
+  {
+    "id": "2481901-2",
+    "regionId": "2481901",
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152030/gicho/thumbnail.100152030.JPG?ver=1577734",
+    "기호": 2,
+    "이름": "신성범",
+    "생년월일": "19630601",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정치인",
+    "학력": "서울대학교 사회과학대학 인류학과 졸업",
+    "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
+    "재산": 1215065,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009",
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900"
+      },
+      {
+        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450",
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900"
+      },
+      {
+        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075",
+        "date": "Sun, 31 Mar 2024 17:23:00 +0900"
+      },
+      {
+        "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100",
+        "date": "Sun, 31 Mar 2024 08:02:00 +0900"
+      },
+      {
+        "title": "TV토론서 '지역소멸 해결 방안' 놓고 공방 벌인 여야 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012459998?sid=102",
+        "date": "Fri, 29 Mar 2024 21:08:00 +0900"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1215065
+      }
+    ]
+  }
 ]

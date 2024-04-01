@@ -1,106 +1,136 @@
-﻿[
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100152655/gicho/thumbnail.100152655.JPG?ver=1645759",
-		"id": "2410101-1",
-		"재산": 468269,
-		"생년월일": "19690708",
-		"경력": "(현)국회의원\n(전)전주 ㆍ수원지방법원 판사",
-		"학력": "서울대학교 법과대학 공법학과 졸업",
-		"직업": "국회의원",
-		"성별": "남",
-		"id_21th": "1094",
-		"regionId": "2410101",
-		"기호": 1,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 21:50:00 +0900",
-				"title": "김승원 수원시갑 후보, 김부겸 위원장과 선거 운동…  수원에 1개구 추가해야...",
-				"link": "https://www.newscj.com/news/articleView.html?idxno=3124485"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
-				"title": "공식 유세전 출발부터 '헐뜯기 경쟁'",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081146"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 18:20:00 +0900",
-				"title": "정권 심판 VS 막말 공세… 경기도 표심 잡기 ‘사활’ [4·10 총선]",
-				"link": "https://n.news.naver.com/mnews/article/666/0000037849?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 16:28:00 +0900",
-				"title": "국힘 수원 후보들  '젖가슴 비유, 박정희 성관계' 막말 김준혁 사퇴하라 ",
-				"link": "https://n.news.naver.com/mnews/article/421/0007448471?sid=165"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 15:46:00 +0900",
-				"title": " 여성 性 대상화·박정희 비하 김준혁 사퇴하라 …수원 국힘 후보들 규탄대회",
-				"link": "https://n.news.naver.com/mnews/article/119/0002815415?sid=165"
-			}
-		],
-		"정당": "더불어민주당",
-		"이름": "김승원"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100151323/gicho/thumbnail.100151323.JPG?ver=1549717",
-		"id": "2410101-2",
-		"재산": 5362107,
-		"생년월일": "19681010",
-		"경력": "(전)국세청장\n(전)한국토지주택공사 사장",
-		"학력": "서울대학교 경영학과 졸업",
-		"직업": "정당인",
-		"성별": "남",
-		"regionId": "2410101",
-		"기호": 2,
-		"군필여부": true,
-		"news": [
-			{
-				"date": "Sun, 31 Mar 2024 23:16:00 +0900",
-				"title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
-				"link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 22:56:00 +0900",
-				"title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
-				"link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 20:52:00 +0900",
-				"title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
-				"link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
-				"title": "김현준  수원 장안구 노후 어린이공원 시설 개선 약속 ",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081117"
-			},
-			{
-				"date": "Sun, 31 Mar 2024 19:28:00 +0900",
-				"title": "공식 유세전 출발부터 '헐뜯기 경쟁'",
-				"link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081146"
-			}
-		],
-		"정당": "국민의힘",
-		"이름": "김현준"
-	},
-	{
-		"전과건수": 0,
-		"imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100152722/gicho/thumbnail.100152722.JPG?ver=1672167",
-		"id": "2410101-7",
-		"재산": 270979,
-		"생년월일": "19870528",
-		"경력": "(현)개혁신당 이준석 당대표 정책특보\n(전)이찬열 국회의원 비서",
-		"학력": "고려대학교 문화스포츠대학원 사회복지학과 석사과정 재학중",
-		"직업": "방송인",
-		"성별": "남",
-		"regionId": "2410101",
-		"기호": 7,
-		"군필여부": true,
-		"news": [],
-		"정당": "개혁신당",
-		"이름": "정희윤"
-	}
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100152655/gicho/thumbnail.100152655.JPG?ver=1645759",
+    "id": "2410101-1",
+    "재산": 468269,
+    "생년월일": "19690708",
+    "경력": "(현)국회의원\n(전)전주 ㆍ수원지방법원 판사",
+    "학력": "서울대학교 법과대학 공법학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1094",
+    "regionId": "2410101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 21:50:00 +0900",
+        "title": "김승원 수원시갑 후보, 김부겸 위원장과 선거 운동…  수원에 1개구 추가해야...",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124485"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:28:00 +0900",
+        "title": "공식 유세전 출발부터 '헐뜯기 경쟁'",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081146"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:20:00 +0900",
+        "title": "정권 심판 VS 막말 공세… 경기도 표심 잡기 ‘사활’ [4·10 총선]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037849?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+        "title": "국힘 수원 후보들  '젖가슴 비유, 박정희 성관계' 막말 김준혁 사퇴하라 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448471?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+        "title": " 여성 性 대상화·박정희 비하 김준혁 사퇴하라 …수원 국힘 후보들 규탄대회",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815415?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김승원",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 374895
+      },
+      {
+        "연도": 2021,
+        "재산": 412101
+      },
+      {
+        "연도": 2022,
+        "재산": 425800
+      },
+      {
+        "연도": 2023,
+        "재산": 468269
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100151323/gicho/thumbnail.100151323.JPG?ver=1549717",
+    "id": "2410101-2",
+    "재산": 5362107,
+    "생년월일": "19681010",
+    "경력": "(전)국세청장\n(전)한국토지주택공사 사장",
+    "학력": "서울대학교 경영학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2410101",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 23:16:00 +0900",
+        "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:56:00 +0900",
+        "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+        "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:28:00 +0900",
+        "title": "김현준  수원 장안구 노후 어린이공원 시설 개선 약속 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081117"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:28:00 +0900",
+        "title": "공식 유세전 출발부터 '헐뜯기 경쟁'",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081146"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김현준",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 5362107
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4101/Hb100152722/gicho/thumbnail.100152722.JPG?ver=1672167",
+    "id": "2410101-7",
+    "재산": 270979,
+    "생년월일": "19870528",
+    "경력": "(현)개혁신당 이준석 당대표 정책특보\n(전)이찬열 국회의원 비서",
+    "학력": "고려대학교 문화스포츠대학원 사회복지학과 석사과정 재학중",
+    "직업": "방송인",
+    "성별": "남",
+    "regionId": "2410101",
+    "기호": 7,
+    "군필여부": true,
+    "news": [],
+    "정당": "개혁신당",
+    "이름": "정희윤",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 270979
+      }
+    ]
+  }
 ]
