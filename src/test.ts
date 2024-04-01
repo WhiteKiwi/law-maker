@@ -72,6 +72,28 @@ async function main() {
       spaces: 2,
     });
   }
+
+  await createRanking(lawMakers);
+}
+
+async function createRanking(lawMakers: LawMaker[]) {
+  const rankingFilePath = path.join(__dirname, "../data/ranking.json");
+  const ranking: {
+    출석률: string[];
+    대표발의법안: string[];
+    연평균_재산_증가량: string[];
+  } = {
+    출석률: lawMakers
+      .sort((a, b) => a.본회의_출석률_등수 - b.본회의_출석률_등수)
+      .map((maker) => maker.id),
+    대표발의법안: lawMakers
+      .sort((a, b) => a.대표발의법안_등수 - b.대표발의법안_등수)
+      .map((maker) => maker.id),
+    연평균_재산_증가량: lawMakers
+      .sort((a, b) => a.재산등수 - b.재산등수)
+      .map((maker) => maker.id),
+  };
+  await writeJSON(rankingFilePath, ranking, { spaces: 2 });
 }
 
 function 연평균재산증가(
