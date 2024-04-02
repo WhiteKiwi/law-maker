@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 4,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4152/Hb100152431/gicho/thumbnail.100152431.JPG?ver=1608336",
-        "id": "2415201-1",
-        "재산": 610730,
-        "생년월일": "19640916",
-        "경력": "(현) 국회의원\n(현) 더불어민주당 정책위원회 상임부의장",
-        "학력": "성균관대학교 약학대학 약학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1101",
-        "regionId": "2415201",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:44:00 +0900",
-                "title": "대한노인회, 건보공단 특사경 도입 적극 지지 결의",
-                "link": "http://www.bokuennews.com/news/article.html?no=242186"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "경기 부천시을 '3파전 구도'…표심은 어디로?",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461605"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:14:00 +0900",
-                "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
-                "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
-                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:02:00 +0900",
-                "title": "부천(갑) 서영석 후보, 한국노총 부천김포지부와 정책협약식 체결",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957757"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "서영석",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 492011
-            },
-            {
-                "연도": 2021,
-                "재산": 530564
-            },
-            {
-                "연도": 2022,
-                "재산": 691837
-            },
-            {
-                "연도": 2023,
-                "재산": 610730
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4152/Hb100153007/gicho/thumbnail.100153007.JPG?ver=1680217",
-        "id": "2415201-2",
-        "재산": 144667487,
-        "생년월일": "19650109",
-        "경력": "(전)(주)소룩스 대표이사\n(현)국민의힘 중앙당 재정위원회 수석부위원장",
-        "학력": "경희대학교 테크노경영대학원 글로벌경영학과 졸업(경영학 석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2415201",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:18:00 +0900",
-                "title": "총선 후보자 '재산 순위'가 싹 공개됐고, 안철수(2위)·허경영(4위) 제치고 왕...",
-                "link": "https://www.huffingtonpost.kr/news/articleView.html?idxno=218355"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:14:00 +0900",
-                "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:22:00 +0900",
-                "title": "한동훈 위원장,  김복덕은 부천 잘 살게 할 후보  경제 전문성 강조",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957729"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 05:05:00 +0900",
-                "title": "여야 10명 중 6명 재공천, 평균 55.9세… 구호만 요란했던 ‘인적 쇄신’[한규...",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441097?sid=110"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
-                "title": "한동훈 위원장, 부천 갑·을 김복덕·박성중 후보 지원 유세",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081082"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김복덕",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 144667487
-            }
-        ]
-    }
+  {
+    "전과건수": 4,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415201-1.jpg",
+    "id": "2415201-1",
+    "재산": 610730,
+    "생년월일": "19640916",
+    "경력": "(현) 국회의원\n(현) 더불어민주당 정책위원회 상임부의장",
+    "학력": "성균관대학교 약학대학 약학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1101",
+    "regionId": "2415201",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+        "title": "대한노인회, 건보공단 특사경 도입 적극 지지 결의",
+        "link": "http://www.bokuennews.com/news/article.html?no=242186"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "경기 부천시을 '3파전 구도'…표심은 어디로?",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461605"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+        "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+        "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
+        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:02:00 +0900",
+        "title": "부천(갑) 서영석 후보, 한국노총 부천김포지부와 정책협약식 체결",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957757"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "서영석",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 492011
+      },
+      {
+        "연도": 2021,
+        "재산": 530564
+      },
+      {
+        "연도": 2022,
+        "재산": 691837
+      },
+      {
+        "연도": 2023,
+        "재산": 610730
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415201-2.jpg",
+    "id": "2415201-2",
+    "재산": 144667487,
+    "생년월일": "19650109",
+    "경력": "(전)(주)소룩스 대표이사\n(현)국민의힘 중앙당 재정위원회 수석부위원장",
+    "학력": "경희대학교 테크노경영대학원 글로벌경영학과 졸업(경영학 석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2415201",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:18:00 +0900",
+        "title": "총선 후보자 '재산 순위'가 싹 공개됐고, 안철수(2위)·허경영(4위) 제치고 왕...",
+        "link": "https://www.huffingtonpost.kr/news/articleView.html?idxno=218355"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+        "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:22:00 +0900",
+        "title": "한동훈 위원장,  김복덕은 부천 잘 살게 할 후보  경제 전문성 강조",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957729"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 05:05:00 +0900",
+        "title": "여야 10명 중 6명 재공천, 평균 55.9세… 구호만 요란했던 ‘인적 쇄신’[한규...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441097?sid=110"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+        "title": "한동훈 위원장, 부천 갑·을 김복덕·박성중 후보 지원 유세",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081082"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김복덕",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 144667487
+      }
+    ]
+  }
 ]

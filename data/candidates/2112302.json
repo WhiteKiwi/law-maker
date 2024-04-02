@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2112302-1",
-        "regionId": "2112302",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100152859/gicho/thumbnail.100152859.JPG?ver=1684703",
-        "기호": 1,
-        "이름": "강청희",
-        "생년월일": "19640629",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "의사",
-        "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
-        "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
-        "재산": 3182848,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:57:00 +0900",
-                "title": "분노하거나 침묵하거나...尹대담에 의사 출신 후보들 반응은",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704691?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:51:00 +0900",
-                "title": "'강남 닥터' 강청희  강남과 대한민국 심장 다시 뛰게 하겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428345?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
-                "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
-                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3182848
-            }
-        ]
-    },
-    {
-        "id": "2112302-2",
-        "regionId": "2112302",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1123/Hb100153108/gicho/thumbnail.100153108.JPG?ver=1683419",
-        "기호": 2,
-        "이름": "박수민",
-        "생년월일": "19671203",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "AI 스타트업 대표",
-        "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
-        "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
-        "재산": 31562262,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:37:00 +0900",
-                "title": "5남매에 근육 공개까지...여야 온라인 홍보 '열기'",
-                "link": "https://n.news.naver.com/mnews/article/057/0001809473?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:51:00 +0900",
-                "title": "'강남 닥터' 강청희  강남과 대한민국 심장 다시 뛰게 하겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428345?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 31562262
-            }
-        ]
-    }
+  {
+    "id": "2112302-1",
+    "regionId": "2112302",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112302-1.jpg",
+    "기호": 1,
+    "이름": "강청희",
+    "생년월일": "19640629",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "의사",
+    "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
+    "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
+    "재산": 3182848,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:57:00 +0900",
+        "title": "분노하거나 침묵하거나...尹대담에 의사 출신 후보들 반응은",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704691?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:51:00 +0900",
+        "title": "'강남 닥터' 강청희  강남과 대한민국 심장 다시 뛰게 하겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428345?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+        "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
+        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3182848
+      }
+    ]
+  },
+  {
+    "id": "2112302-2",
+    "regionId": "2112302",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112302-2.jpg",
+    "기호": 2,
+    "이름": "박수민",
+    "생년월일": "19671203",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "AI 스타트업 대표",
+    "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
+    "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
+    "재산": 31562262,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:37:00 +0900",
+        "title": "5남매에 근육 공개까지...여야 온라인 홍보 '열기'",
+        "link": "https://n.news.naver.com/mnews/article/057/0001809473?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:51:00 +0900",
+        "title": "'강남 닥터' 강청희  강남과 대한민국 심장 다시 뛰게 하겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428345?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 31562262
+      }
+    ]
+  }
 ]

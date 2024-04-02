@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2412201-1",
-        "regionId": "2412201",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4122/Hb100153135/gicho/thumbnail.100153135.JPG?ver=1684509",
-        "기호": 1,
-        "이름": "김영환",
-        "생년월일": "19710707",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 사회학과 졸업",
-        "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
-        "재산": 1688057,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:34:00 +0900",
-                "title": "[유세장 직격인터뷰] 정동영·김윤식·김영환·김현준·윤호중",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644753"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-                "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
-                "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:26:00 +0900",
-                "title": "[현장] 고양정 김용태 선대위, '민주당 김영환 선거법 위반' 신고",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107242"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-                "title": "고양정 김용태 선대위,  민주당 김영환 선거법 위반  신고",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317398"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-                "title": "고양정 김용태, 민주당 김영환 선거법 위반 신고... 김용태 낙선목적, 중대 범...",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219968"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1688057
-            }
-        ]
-    },
-    {
-        "id": "2412201-2",
-        "regionId": "2412201",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4122/Hb100153136/gicho/thumbnail.100153136.JPG?ver=1684510",
-        "기호": 2,
-        "이름": "김용태",
-        "생년월일": "19680326",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "(사)한국보험대리점협회 회장",
-        "학력": "서울대학교 정치학과 졸업",
-        "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
-        "재산": 1844381,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 22:08:00 +0900",
-                "title": "[미리보는 이데일리 신문]2000명 강조한 尹  통일안 내면 재논의 ",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704743?sid=101"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:34:00 +0900",
-                "title": "포천  연이은 언행 구설수  22대 총선 보수 텃밭이 흔들린다",
-                "link": "http://www.joongang.tv/news/articleView.html?idxno=71266"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:58:00 +0900",
-                "title": "김용태 국힘 포천가평 후보  출산과 육아, 불평등과 격차 해소에 적극 나서겠...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644726"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-                "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
-                "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-                "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1844381
-            }
-        ]
-    }
+  {
+    "id": "2412201-1",
+    "regionId": "2412201",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-1.jpg",
+    "기호": 1,
+    "이름": "김영환",
+    "생년월일": "19710707",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 사회학과 졸업",
+    "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
+    "재산": 1688057,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:34:00 +0900",
+        "title": "[유세장 직격인터뷰] 정동영·김윤식·김영환·김현준·윤호중",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644753"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+        "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:26:00 +0900",
+        "title": "[현장] 고양정 김용태 선대위, '민주당 김영환 선거법 위반' 신고",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107242"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+        "title": "고양정 김용태 선대위,  민주당 김영환 선거법 위반  신고",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317398"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+        "title": "고양정 김용태, 민주당 김영환 선거법 위반 신고... 김용태 낙선목적, 중대 범...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219968"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1688057
+      }
+    ]
+  },
+  {
+    "id": "2412201-2",
+    "regionId": "2412201",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-2.jpg",
+    "기호": 2,
+    "이름": "김용태",
+    "생년월일": "19680326",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "(사)한국보험대리점협회 회장",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
+    "재산": 1844381,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 22:08:00 +0900",
+        "title": "[미리보는 이데일리 신문]2000명 강조한 尹  통일안 내면 재논의 ",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704743?sid=101"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:34:00 +0900",
+        "title": "포천  연이은 언행 구설수  22대 총선 보수 텃밭이 흔들린다",
+        "link": "http://www.joongang.tv/news/articleView.html?idxno=71266"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:58:00 +0900",
+        "title": "김용태 국힘 포천가평 후보  출산과 육아, 불평등과 격차 해소에 적극 나서겠...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644726"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+        "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+        "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1844381
+      }
+    ]
+  }
 ]

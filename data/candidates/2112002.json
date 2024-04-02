@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2112002-1",
-        "regionId": "2112002",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1120/Hb100152944/gicho/thumbnail.100152944.JPG?ver=1688174",
-        "기호": 1,
-        "이름": "류삼영",
-        "생년월일": "19641009",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "동아대학교 대학원 법학박사",
-        "경력": "(전)부산경찰청 반부패 경제범죄 수사대장\n(현)더불어민주당 국민안전살리기 본부장",
-        "재산": 1745393,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "“무임승차해 나라 망친 몰상식 정권…응어리 풀어줄 사람은 누구?”",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325951?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-                "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
-                "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-                "title": "정동영 후보 수도권 후보 압승 위한 지원유세 본격 나서",
-                "link": "http://sjbnews.com/news/news.php?number=811505"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:55:00 +0900",
-                "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1745393
-            }
-        ]
-    },
-    {
-        "id": "2112002-2",
-        "regionId": "2112002",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1120/Hb100152037/gicho/thumbnail.100152037.JPG?ver=1577757",
-        "기호": 2,
-        "이름": "나경원",
-        "생년월일": "19631206",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "서울대학교 대학원 법학과 박사과정 수료",
-        "경력": "(전)4선 국회의원(제17,18,19,20대)\n(전)자유한국당 원내대표",
-        "재산": 5831584,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 22:58:00 +0900",
-                "title": "나경원 “한동훈보다 차은우가 잘생겼다…내가 양심은 있다”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351317?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:32:00 +0900",
-                "title": "운석 같은 남자 윤석열",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558904"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:55:00 +0900",
-                "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:34:00 +0900",
-                "title": "尹 담화에 갈린 與… 韓  목숨 걸고 해결할 것 ",
-                "link": "https://n.news.naver.com/mnews/article/029/0002864857?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 5831584
-            }
-        ]
-    }
+  {
+    "id": "2112002-1",
+    "regionId": "2112002",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-1.jpg",
+    "기호": 1,
+    "이름": "류삼영",
+    "생년월일": "19641009",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "동아대학교 대학원 법학박사",
+    "경력": "(전)부산경찰청 반부패 경제범죄 수사대장\n(현)더불어민주당 국민안전살리기 본부장",
+    "재산": 1745393,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "“무임승차해 나라 망친 몰상식 정권…응어리 풀어줄 사람은 누구?”",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325951?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
+        "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+        "title": "정동영 후보 수도권 후보 압승 위한 지원유세 본격 나서",
+        "link": "http://sjbnews.com/news/news.php?number=811505"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:55:00 +0900",
+        "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1745393
+      }
+    ]
+  },
+  {
+    "id": "2112002-2",
+    "regionId": "2112002",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-2.jpg",
+    "기호": 2,
+    "이름": "나경원",
+    "생년월일": "19631206",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "서울대학교 대학원 법학과 박사과정 수료",
+    "경력": "(전)4선 국회의원(제17,18,19,20대)\n(전)자유한국당 원내대표",
+    "재산": 5831584,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 22:58:00 +0900",
+        "title": "나경원 “한동훈보다 차은우가 잘생겼다…내가 양심은 있다”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351317?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:32:00 +0900",
+        "title": "운석 같은 남자 윤석열",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558904"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:55:00 +0900",
+        "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:34:00 +0900",
+        "title": "尹 담화에 갈린 與… 韓  목숨 걸고 해결할 것 ",
+        "link": "https://n.news.naver.com/mnews/article/029/0002864857?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 5831584
+      }
+    ]
+  }
 ]

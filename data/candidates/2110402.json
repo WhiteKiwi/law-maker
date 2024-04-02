@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2110402-1",
-        "regionId": "2110402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1104/Hb100152932/gicho/thumbnail.100152932.JPG?ver=1678863",
-        "기호": 1,
-        "이름": "전현희",
-        "생년월일": "19641104",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "고려대학교 법무대학원 의료법학과 졸업(법학석사)",
-        "경력": "(전) 국민권익위원회 위원장\n(전) 제18대ㆍ20대 국회의원",
-        "재산": 2692743,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 23:35:00 +0900",
-                "title": "며칠새 들쑥날쑥 여론조사 결과…이유는?",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652903?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-                "title": "국민의힘에 유리한 여론조사 결과는 공표하지 말라?",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78885"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:00:00 +0900",
-                "title": "[뉴스특강] 4.10 총선 한강벨트 관전법",
-                "link": "https://n.news.naver.com/mnews/article/448/0000453653?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-                "title": "“현장서 발로 뛴 민생 전문가…‘핫플’ 성수동에 복합첨단산업밸리 만들 것...",
-                "link": "https://n.news.naver.com/mnews/article/011/0004321731?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2692743
-            }
-        ]
-    },
-    {
-        "id": "2110402-2",
-        "regionId": "2110402",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1104/Hb100152493/gicho/thumbnail.100152493.JPG?ver=1614741",
-        "기호": 2,
-        "이름": "윤희숙",
-        "생년월일": "19700207",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "서울대학교 행정대학원 객원교수",
-        "학력": "미국 콜럼비아대학교 경제학 박사 졸업 (1996.9~2003.5)",
-        "경력": "(전)제21대 국회의원\n(전)KDI 국제정책대학원 교수",
-        "재산": 1750924,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 23:35:00 +0900",
-                "title": "며칠새 들쑥날쑥 여론조사 결과…이유는?",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652903?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:17:00 +0900",
-                "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
-                "link": "https://www.newspim.com/news/view/20240401001269"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:17:00 +0900",
-                "title": "4·10 총선 중반전..광주·전남 민주당 싹쓸이? 뒤집기?",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058567?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:04:00 +0900",
-                "title": "“북구을서 기적의 1석 당선시켜 달라”",
-                "link": "http://www.kjdaily.com/article.php?aid=1711971684626270245"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-                "title": "민주, 선거 막판 ‘양문석 악재’에 당혹",
-                "link": "http://www.kjdaily.com/article.php?aid=1711971690626288002"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1750924
-            }
-        ]
-    }
+  {
+    "id": "2110402-1",
+    "regionId": "2110402",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110402-1.jpg",
+    "기호": 1,
+    "이름": "전현희",
+    "생년월일": "19641104",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "고려대학교 법무대학원 의료법학과 졸업(법학석사)",
+    "경력": "(전) 국민권익위원회 위원장\n(전) 제18대ㆍ20대 국회의원",
+    "재산": 2692743,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 23:35:00 +0900",
+        "title": "며칠새 들쑥날쑥 여론조사 결과…이유는?",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652903?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+        "title": "국민의힘에 유리한 여론조사 결과는 공표하지 말라?",
+        "link": "http://www.pennmike.com/news/articleView.html?idxno=78885"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:00:00 +0900",
+        "title": "[뉴스특강] 4.10 총선 한강벨트 관전법",
+        "link": "https://n.news.naver.com/mnews/article/448/0000453653?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+        "title": "“현장서 발로 뛴 민생 전문가…‘핫플’ 성수동에 복합첨단산업밸리 만들 것...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004321731?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2692743
+      }
+    ]
+  },
+  {
+    "id": "2110402-2",
+    "regionId": "2110402",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110402-2.jpg",
+    "기호": 2,
+    "이름": "윤희숙",
+    "생년월일": "19700207",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "서울대학교 행정대학원 객원교수",
+    "학력": "미국 콜럼비아대학교 경제학 박사 졸업 (1996.9~2003.5)",
+    "경력": "(전)제21대 국회의원\n(전)KDI 국제정책대학원 교수",
+    "재산": 1750924,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 23:35:00 +0900",
+        "title": "며칠새 들쑥날쑥 여론조사 결과…이유는?",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652903?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:17:00 +0900",
+        "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
+        "link": "https://www.newspim.com/news/view/20240401001269"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:17:00 +0900",
+        "title": "4·10 총선 중반전..광주·전남 민주당 싹쓸이? 뒤집기?",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058567?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:04:00 +0900",
+        "title": "“북구을서 기적의 1석 당선시켜 달라”",
+        "link": "http://www.kjdaily.com/article.php?aid=1711971684626270245"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+        "title": "민주, 선거 막판 ‘양문석 악재’에 당혹",
+        "link": "http://www.kjdaily.com/article.php?aid=1711971690626288002"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1750924
+      }
+    ]
+  }
 ]

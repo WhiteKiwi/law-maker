@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100152712/gicho/thumbnail.100152712.JPG?ver=1672646",
-        "id": "2410201-1",
-        "재산": 1667074,
-        "생년월일": "19670217",
-        "경력": "(현)국회의원(20,21대)\n(전)더불어민주당 최고위원",
-        "학력": "고려대학교 사회학과 졸업",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "981",
-        "regionId": "2410201",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:12:00 +0900",
-                "title": "백혜련 수원을 후보, 수원 소상공인연합회와 간담회 진행",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644885"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:58:00 +0900",
-                "title": "백혜련  소상공인과 지역경제 살리기 위해 최선 ",
-                "link": "http://www.m-economynews.com/news/article.html?no=42703"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:48:00 +0900",
-                "title": " 본격적인 서수원 시대 열겠습니다  수원을 백혜련 후보 (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168448"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:32:00 +0900",
-                "title": "민주당 백혜련 후보, 수원특례시 소상공인연합회와 간담회 개최",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401021173802"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "백혜련 후보  지역경제 살리기 위해 최선 ",
-                "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100277.html"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "백혜련",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 978143
-            },
-            {
-                "연도": 2021,
-                "재산": 1178337
-            },
-            {
-                "연도": 2022,
-                "재산": 1369919
-            },
-            {
-                "연도": 2023,
-                "재산": 1667074
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100152963/gicho/thumbnail.100152963.JPG?ver=1686165",
-        "id": "2410201-2",
-        "재산": 2010757,
-        "생년월일": "19641002",
-        "경력": "(전)대한민국 1호 아프간 종군기자(한국일보)\n(전)국회사무처 홍보기획관",
-        "학력": "서울대학교 언론정보학과 졸업",
-        "직업": "성균관대학교 국정전문대학원 겸임교수",
-        "성별": "남",
-        "regionId": "2410201",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:48:00 +0900",
-                "title": " 본격적인 서수원 시대 열겠습니다  수원을 백혜련 후보 (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168448"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-                "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
-                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
-                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
-                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:52:00 +0900",
-                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
-                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:44:00 +0900",
-                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "홍윤오",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2010757
-            }
-        ]
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410201-1.jpg",
+    "id": "2410201-1",
+    "재산": 1667074,
+    "생년월일": "19670217",
+    "경력": "(현)국회의원(20,21대)\n(전)더불어민주당 최고위원",
+    "학력": "고려대학교 사회학과 졸업",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "981",
+    "regionId": "2410201",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:12:00 +0900",
+        "title": "백혜련 수원을 후보, 수원 소상공인연합회와 간담회 진행",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644885"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:58:00 +0900",
+        "title": "백혜련  소상공인과 지역경제 살리기 위해 최선 ",
+        "link": "http://www.m-economynews.com/news/article.html?no=42703"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:48:00 +0900",
+        "title": " 본격적인 서수원 시대 열겠습니다  수원을 백혜련 후보 (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168448"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:32:00 +0900",
+        "title": "민주당 백혜련 후보, 수원특례시 소상공인연합회와 간담회 개최",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401021173802"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "백혜련 후보  지역경제 살리기 위해 최선 ",
+        "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100277.html"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "백혜련",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 978143
+      },
+      {
+        "연도": 2021,
+        "재산": 1178337
+      },
+      {
+        "연도": 2022,
+        "재산": 1369919
+      },
+      {
+        "연도": 2023,
+        "재산": 1667074
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410201-2.jpg",
+    "id": "2410201-2",
+    "재산": 2010757,
+    "생년월일": "19641002",
+    "경력": "(전)대한민국 1호 아프간 종군기자(한국일보)\n(전)국회사무처 홍보기획관",
+    "학력": "서울대학교 언론정보학과 졸업",
+    "직업": "성균관대학교 국정전문대학원 겸임교수",
+    "성별": "남",
+    "regionId": "2410201",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:48:00 +0900",
+        "title": " 본격적인 서수원 시대 열겠습니다  수원을 백혜련 후보 (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168448"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+        "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
+        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+        "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+        "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+        "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:44:00 +0900",
+        "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "홍윤오",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2010757
+      }
+    ]
+  }
 ]

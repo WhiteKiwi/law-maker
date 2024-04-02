@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2481901-1",
-        "regionId": "2481901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152924/gicho/thumbnail.100152924.JPG?ver=1678976",
-        "기호": 1,
-        "이름": "김기태",
-        "생년월일": "19610628",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "순천향대학 국어국문학과 졸업",
-        "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
-        "재산": 144800,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:45:00 +0900",
-                "title": "[마크맨]한동훈 “일할 기회 달라” vs 이재명 “읍소에 속으면 공범”",
-                "link": "https://n.news.naver.com/mnews/article/449/0000271551?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:25:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:06:00 +0900",
-                "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:16:00 +0900",
-                "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
-                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 144800
-            }
-        ]
-    },
-    {
-        "id": "2481901-2",
-        "regionId": "2481901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4819/Hb100152030/gicho/thumbnail.100152030.JPG?ver=1577734",
-        "기호": 2,
-        "이름": "신성범",
-        "생년월일": "19630601",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정치인",
-        "학력": "서울대학교 사회과학대학 인류학과 졸업",
-        "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
-        "재산": 1215065,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 09:10:00 +0900",
-                "title": "총선 여야 후보들 '독재 이승만·전두환' 역사 인식 논쟁",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907774"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
-                "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
-                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
-                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
-                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1215065
-            }
-        ]
-    }
+  {
+    "id": "2481901-1",
+    "regionId": "2481901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-1.jpg",
+    "기호": 1,
+    "이름": "김기태",
+    "생년월일": "19610628",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "순천향대학 국어국문학과 졸업",
+    "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
+    "재산": 144800,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:45:00 +0900",
+        "title": "[마크맨]한동훈 “일할 기회 달라” vs 이재명 “읍소에 속으면 공범”",
+        "link": "https://n.news.naver.com/mnews/article/449/0000271551?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:25:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:06:00 +0900",
+        "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:16:00 +0900",
+        "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
+        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 144800
+      }
+    ]
+  },
+  {
+    "id": "2481901-2",
+    "regionId": "2481901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-2.jpg",
+    "기호": 2,
+    "이름": "신성범",
+    "생년월일": "19630601",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정치인",
+    "학력": "서울대학교 사회과학대학 인류학과 졸업",
+    "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
+    "재산": 1215065,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 09:10:00 +0900",
+        "title": "총선 여야 후보들 '독재 이승만·전두환' 역사 인식 논쟁",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907774"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+        "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+        "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1215065
+      }
+    ]
+  }
 ]

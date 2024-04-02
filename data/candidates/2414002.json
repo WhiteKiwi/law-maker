@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4140/Hb100152135/gicho/thumbnail.100152135.JPG?ver=1683598",
-        "id": "2414002-1",
-        "재산": 2464744,
-        "생년월일": "19540603",
-        "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
-        "학력": "성균관대학교 철학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "997",
-        "regionId": "2414002",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:38:00 +0900",
-                "title": "소병훈 민주 광주갑 후보  경강선 증차하고 배차간격 줄이겠다  공약 발표",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
-                "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:53:00 +0900",
-                "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:27:00 +0900",
-                "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:02:00 +0900",
-                "title": "[4·10 총선] 국힘 한동훈,  대한민국에서 범죄자를 치우겠다 ",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242380"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "소병훈",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2903756
-            },
-            {
-                "연도": 2021,
-                "재산": 3553330
-            },
-            {
-                "연도": 2022,
-                "재산": 3706520
-            },
-            {
-                "연도": 2023,
-                "재산": 2464744
-            }
-        ]
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4140/Hb100151367/gicho/thumbnail.100151367.JPG?ver=1685056",
-        "id": "2414002-2",
-        "재산": 1505844,
-        "생년월일": "19740819",
-        "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
-        "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2414002",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:14:00 +0900",
-                "title": "함경우 국힘 광주갑 후보  복지 관련 종사자 처우 개선할 것 ",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-                "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:33:00 +0900",
-                "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-                "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:48:00 +0900",
-                "title": "공천 탈락 전직 시장·군수들, 상대 정당 후보 지지 행보",
-                "link": "https://n.news.naver.com/mnews/article/629/0000277856?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "함경우",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1505844
-            }
-        ]
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-1.jpg",
+    "id": "2414002-1",
+    "재산": 2464744,
+    "생년월일": "19540603",
+    "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
+    "학력": "성균관대학교 철학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "997",
+    "regionId": "2414002",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:38:00 +0900",
+        "title": "소병훈 민주 광주갑 후보  경강선 증차하고 배차간격 줄이겠다  공약 발표",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+        "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:53:00 +0900",
+        "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:27:00 +0900",
+        "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
+        "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:02:00 +0900",
+        "title": "[4·10 총선] 국힘 한동훈,  대한민국에서 범죄자를 치우겠다 ",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242380"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "소병훈",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2903756
+      },
+      {
+        "연도": 2021,
+        "재산": 3553330
+      },
+      {
+        "연도": 2022,
+        "재산": 3706520
+      },
+      {
+        "연도": 2023,
+        "재산": 2464744
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
+    "id": "2414002-2",
+    "재산": 1505844,
+    "생년월일": "19740819",
+    "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
+    "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2414002",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:14:00 +0900",
+        "title": "함경우 국힘 광주갑 후보  복지 관련 종사자 처우 개선할 것 ",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+        "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:33:00 +0900",
+        "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+        "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:48:00 +0900",
+        "title": "공천 탈락 전직 시장·군수들, 상대 정당 후보 지지 행보",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277856?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "함경우",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1505844
+      }
+    ]
+  }
 ]

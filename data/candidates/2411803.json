@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2411803-1",
-        "regionId": "2411803",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100152331/gicho/thumbnail.100152331.JPG?ver=1599988",
-        "기호": 1,
-        "이름": "양문석",
-        "생년월일": "19660928",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "방송인",
-        "학력": "성균관대학교 대학원 신문방송학과 졸업 (언론학박사)",
-        "경력": "(현) 공공미디어연구소 이사장\n(전) 방송통신위원회 상임위원",
-        "재산": 833378,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 00:26:00 +0900",
-                "title": "[사설] 이런 사람들이 국민의 대표가 되겠다고 나섰으니…",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967464?sid=110"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:25:00 +0900",
-                "title": "“여당 읍소에 또 속으면 공범”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351372?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:07:00 +0900",
-                "title": "양문석 딸 소득없는데 11억 대출…‘작업대출’ 가능성 제기",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920238?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:04:00 +0900",
-                "title": "[사설] 공영운·양문석 민주당 후보는 국회의원 자격 없다",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226654"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:02:00 +0900",
-                "title": "[포토] 새마을금고중앙회, 양문석 편법 대출 의혹 검사",
-                "link": "https://www.ajunews.com/view/20240401225610604"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 833378
-            }
-        ]
-    },
-    {
-        "id": "2411803-2",
-        "regionId": "2411803",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4118/Hb100152660/gicho/thumbnail.100152660.JPG?ver=1676028",
-        "기호": 2,
-        "이름": "장성민",
-        "생년월일": "19630905",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 대학원 졸업(정치학 석사)",
-        "경력": "(전) 대통령비서실 미래전략기획관\n(전) 제16대 국회의원",
-        "재산": 4833537,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-                "title": "국힘 후보들 '윤과 거리, 한 마케팅'",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242599"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:09:00 +0900",
-                "title": "안산 결혼이주여성들, 與장성민 만나 다문화가정 위한 정책 요청",
-                "link": "https://n.news.naver.com/mnews/article/001/0014603736?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:21:00 +0900",
-                "title": "든든한 표밭 혹은 불편한 동거…경기지역 후보들, 향우회 민심 촉각 [총선 관...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037966?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:54:00 +0900",
-                "title": "연속 당선전례 없는 금천…‘리턴매치’ 관전 포인트",
-                "link": "https://www.etoday.co.kr/news/view/2346535"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:04:00 +0900",
-                "title": "김부겸  양문석 공천 취소 어렵다. 걱정은 돼 ",
-                "link": "http://www.viewsnnews.com/article?q=218833"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 4833537
-            }
-        ]
-    }
+  {
+    "id": "2411803-1",
+    "regionId": "2411803",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-1.jpg",
+    "기호": 1,
+    "이름": "양문석",
+    "생년월일": "19660928",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "방송인",
+    "학력": "성균관대학교 대학원 신문방송학과 졸업 (언론학박사)",
+    "경력": "(현) 공공미디어연구소 이사장\n(전) 방송통신위원회 상임위원",
+    "재산": 833378,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 00:26:00 +0900",
+        "title": "[사설] 이런 사람들이 국민의 대표가 되겠다고 나섰으니…",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967464?sid=110"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:25:00 +0900",
+        "title": "“여당 읍소에 또 속으면 공범”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351372?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:07:00 +0900",
+        "title": "양문석 딸 소득없는데 11억 대출…‘작업대출’ 가능성 제기",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920238?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:04:00 +0900",
+        "title": "[사설] 공영운·양문석 민주당 후보는 국회의원 자격 없다",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226654"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:02:00 +0900",
+        "title": "[포토] 새마을금고중앙회, 양문석 편법 대출 의혹 검사",
+        "link": "https://www.ajunews.com/view/20240401225610604"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 833378
+      }
+    ]
+  },
+  {
+    "id": "2411803-2",
+    "regionId": "2411803",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-2.jpg",
+    "기호": 2,
+    "이름": "장성민",
+    "생년월일": "19630905",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 대학원 졸업(정치학 석사)",
+    "경력": "(전) 대통령비서실 미래전략기획관\n(전) 제16대 국회의원",
+    "재산": 4833537,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+        "title": "국힘 후보들 '윤과 거리, 한 마케팅'",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242599"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:09:00 +0900",
+        "title": "안산 결혼이주여성들, 與장성민 만나 다문화가정 위한 정책 요청",
+        "link": "https://n.news.naver.com/mnews/article/001/0014603736?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:21:00 +0900",
+        "title": "든든한 표밭 혹은 불편한 동거…경기지역 후보들, 향우회 민심 촉각 [총선 관...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037966?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:54:00 +0900",
+        "title": "연속 당선전례 없는 금천…‘리턴매치’ 관전 포인트",
+        "link": "https://www.etoday.co.kr/news/view/2346535"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:04:00 +0900",
+        "title": "김부겸  양문석 공천 취소 어렵다. 걱정은 돼 ",
+        "link": "http://www.viewsnnews.com/article?q=218833"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4833537
+      }
+    ]
+  }
 ]

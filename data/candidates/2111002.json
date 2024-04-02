@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1110/Hb100152438/gicho/thumbnail.100152438.JPG?ver=1608751",
-        "id": "2111002-1",
-        "재산": 1840120,
-        "생년월일": "19661125",
-        "경력": "(현) 도봉(을) 국회의원\n(현) 더불어민주당 서울시당 정책위원장",
-        "학력": "서울대학교 법과대학 공법학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1048",
-        "regionId": "2111002",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-                "title": "오기형 지원 유세 나선 김부겸  제멋대로 국정운영 尹 정권 심판하자  [TF사진...",
-                "link": "https://n.news.naver.com/mnews/article/629/0000277931?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-                "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:30:00 +0900",
-                "title": "김부겸 민주당 서울 성북을 지원 유세, 자영업단체와 정책협약도 맺어",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347664"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:28:00 +0900",
-                "title": "이재명, 이틀 연속 인천 계양을 다지기",
-                "link": "https://www.etoday.co.kr/news/view/2346509"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "오기형",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1775517
-            },
-            {
-                "연도": 2021,
-                "재산": 1822890
-            },
-            {
-                "연도": 2022,
-                "재산": 1844975
-            },
-            {
-                "연도": 2023,
-                "재산": 1840120
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1110/Hb100152292/gicho/thumbnail.100152292.JPG?ver=1677249",
-        "id": "2111002-2",
-        "재산": 1071159,
-        "생년월일": "19631009",
-        "경력": "(전) 제18대·20대 국회의원\n(전) 국민의힘 사무총장",
-        "학력": "고려대학교 대학원 정치외교학과 졸업(정치학 석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2111002",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 07:02:00 +0900",
-                "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:50:00 +0900",
-                "title": "‘정권심판론’ 바람 탄 서울…전문가들 “민주당 우세”",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287793?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:39:00 +0900",
-                "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김선동",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1071159
-            }
-        ]
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-1.jpg",
+    "id": "2111002-1",
+    "재산": 1840120,
+    "생년월일": "19661125",
+    "경력": "(현) 도봉(을) 국회의원\n(현) 더불어민주당 서울시당 정책위원장",
+    "학력": "서울대학교 법과대학 공법학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1048",
+    "regionId": "2111002",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+        "title": "오기형 지원 유세 나선 김부겸  제멋대로 국정운영 尹 정권 심판하자  [TF사진...",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277931?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+        "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:30:00 +0900",
+        "title": "김부겸 민주당 서울 성북을 지원 유세, 자영업단체와 정책협약도 맺어",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347664"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:28:00 +0900",
+        "title": "이재명, 이틀 연속 인천 계양을 다지기",
+        "link": "https://www.etoday.co.kr/news/view/2346509"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오기형",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1775517
+      },
+      {
+        "연도": 2021,
+        "재산": 1822890
+      },
+      {
+        "연도": 2022,
+        "재산": 1844975
+      },
+      {
+        "연도": 2023,
+        "재산": 1840120
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-2.jpg",
+    "id": "2111002-2",
+    "재산": 1071159,
+    "생년월일": "19631009",
+    "경력": "(전) 제18대·20대 국회의원\n(전) 국민의힘 사무총장",
+    "학력": "고려대학교 대학원 정치외교학과 졸업(정치학 석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111002",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 07:02:00 +0900",
+        "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:50:00 +0900",
+        "title": "‘정권심판론’ 바람 탄 서울…전문가들 “민주당 우세”",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287793?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:39:00 +0900",
+        "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김선동",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1071159
+      }
+    ]
+  }
 ]

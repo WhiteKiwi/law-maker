@@ -1,126 +1,126 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152591/gicho/thumbnail.100152591.JPG?ver=1632923",
-        "id": "2480802-1",
-        "재산": 790342,
-        "생년월일": "19600618",
-        "경력": "(현)더불어민주당 김해시을 국회의원\n(전)노무현 대통령비서실 기록관리비서관",
-        "학력": "부산대학교 경제학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1036",
-        "regionId": "2480802",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-                "title": "'총선 D-9' 한동훈은 '낙동강 벨트', 이재명은 '인천'",
-                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318856"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-                "title": "김정호 김해을 총선 후보, 윤석열 대통령·조해진 후보 동시 비판",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907813"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김정호",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 415783
-            },
-            {
-                "연도": 2021,
-                "재산": 471891
-            },
-            {
-                "연도": 2022,
-                "재산": 646674
-            },
-            {
-                "연도": 2023,
-                "재산": 790342
-            }
-        ]
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4808/Hb100152777/gicho/thumbnail.100152777.JPG?ver=1673773",
-        "id": "2480802-2",
-        "재산": 1191492,
-        "생년월일": "19630804",
-        "경력": "(전)국회의원(제18대, 제19대)\n(전)국회 교육위·정보위 위원장",
-        "학력": "서울대학교 대학원 법학과 졸업(법학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "662",
-        "regionId": "2480802",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 22:50:00 +0900",
-                "title": "[나이트포커스] 윤 대통령 대국민담화",
-                "link": "https://n.news.naver.com/mnews/article/052/0002017785?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 22:42:00 +0900",
-                "title": "김해 찾은 한동훈  범죄자들에게 지배받을 수 없다 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428451?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 22:38:00 +0900",
-                "title": "尹 담화에 똘똘 뭉치는 여권  대통령 탓 말고 현장 뛰라 ",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165255?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-                "title": "당 대표 떨구던 尹 맞나…與 ‘대폭발’, 한동훈 “내 책임 아냐”",
-                "link": "https://www.ekn.kr/web/view.php?key=20240401020257065"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "조해진",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 826638
-            },
-            {
-                "연도": 2021,
-                "재산": 961703
-            },
-            {
-                "연도": 2022,
-                "재산": 1257041
-            },
-            {
-                "연도": 2023,
-                "재산": 1191492
-            }
-        ]
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480802-1.jpg",
+    "id": "2480802-1",
+    "재산": 790342,
+    "생년월일": "19600618",
+    "경력": "(현)더불어민주당 김해시을 국회의원\n(전)노무현 대통령비서실 기록관리비서관",
+    "학력": "부산대학교 경제학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1036",
+    "regionId": "2480802",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+        "title": "'총선 D-9' 한동훈은 '낙동강 벨트', 이재명은 '인천'",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318856"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+        "title": "김정호 김해을 총선 후보, 윤석열 대통령·조해진 후보 동시 비판",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907813"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김정호",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 415783
+      },
+      {
+        "연도": 2021,
+        "재산": 471891
+      },
+      {
+        "연도": 2022,
+        "재산": 646674
+      },
+      {
+        "연도": 2023,
+        "재산": 790342
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480802-2.jpg",
+    "id": "2480802-2",
+    "재산": 1191492,
+    "생년월일": "19630804",
+    "경력": "(전)국회의원(제18대, 제19대)\n(전)국회 교육위·정보위 위원장",
+    "학력": "서울대학교 대학원 법학과 졸업(법학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "662",
+    "regionId": "2480802",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 22:50:00 +0900",
+        "title": "[나이트포커스] 윤 대통령 대국민담화",
+        "link": "https://n.news.naver.com/mnews/article/052/0002017785?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:42:00 +0900",
+        "title": "김해 찾은 한동훈  범죄자들에게 지배받을 수 없다 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428451?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:38:00 +0900",
+        "title": "尹 담화에 똘똘 뭉치는 여권  대통령 탓 말고 현장 뛰라 ",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165255?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+        "title": "당 대표 떨구던 尹 맞나…與 ‘대폭발’, 한동훈 “내 책임 아냐”",
+        "link": "https://www.ekn.kr/web/view.php?key=20240401020257065"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "조해진",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 826638
+      },
+      {
+        "연도": 2021,
+        "재산": 961703
+      },
+      {
+        "연도": 2022,
+        "재산": 1257041
+      },
+      {
+        "연도": 2023,
+        "재산": 1191492
+      }
+    ]
+  }
 ]

@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2260501-1",
-        "regionId": "2260501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2605/Hb100151103/gicho/thumbnail.100151103.JPG?ver=1548064",
-        "기호": 1,
-        "이름": "서은숙",
-        "생년월일": "19670925",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
-        "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
-        "재산": 106303,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-                "title": "與 “진정성 알지만 도움 되겠나”…野 “불통 정부” 총공세",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070148?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
-                "title": "구청장 출신 최고위원 vs 한동훈 영입인재 1호, 부산진구갑 접전",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464268?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
-                "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
-                "link": "http://www.mhj21.com/160226"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 106303
-            }
-        ]
-    },
-    {
-        "id": "2260501-2",
-        "regionId": "2260501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2605/Hb100152623/gicho/thumbnail.100152623.JPG?ver=1639856",
-        "기호": 2,
-        "이름": "정성국",
-        "생년월일": "19710403",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
-        "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
-        "재산": 305797,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-                "link": "https://www.newspim.com/news/view/20240401001242"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-                "title": "한동훈, 정성국 후보 지원 유세  이번 4.10총선에서 더불어민주당을 꼭 심판해...",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:44:00 +0900",
-                "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
-                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 305797
-            }
-        ]
-    }
+  {
+    "id": "2260501-1",
+    "regionId": "2260501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
+    "기호": 1,
+    "이름": "서은숙",
+    "생년월일": "19670925",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
+    "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
+    "재산": 106303,
+    "군필여부": false,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+        "title": "與 “진정성 알지만 도움 되겠나”…野 “불통 정부” 총공세",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070148?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+        "title": "구청장 출신 최고위원 vs 한동훈 영입인재 1호, 부산진구갑 접전",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464268?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+        "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
+        "link": "http://www.mhj21.com/160226"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 106303
+      }
+    ]
+  },
+  {
+    "id": "2260501-2",
+    "regionId": "2260501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
+    "기호": 2,
+    "이름": "정성국",
+    "생년월일": "19710403",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
+    "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
+    "재산": 305797,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+        "link": "https://www.newspim.com/news/view/20240401001242"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+        "title": "한동훈, 정성국 후보 지원 유세  이번 4.10총선에서 더불어민주당을 꼭 심판해...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+        "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 305797
+      }
+    ]
+  }
 ]

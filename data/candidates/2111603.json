@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152887/gicho/thumbnail.100152887.JPG?ver=1677858",
-        "id": "2111603-1",
-        "재산": 1375721,
-        "생년월일": "19650108",
-        "경력": "(현)강서구병 국회의원\n(전)제19대 환경부 장관",
-        "학력": "영국 노팅엄대학교 산업공학박사 (1999.9~2003.4)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "835",
-        "regionId": "2111603",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:44:00 +0900",
-                "title": "'증폭'되는 특혜의혹...국힘, 한정애 의원 등 정치자금법 위반 혐의 고발",
-                "link": "https://www.youthdaily.co.kr/news/article.html?no=149031"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:46:00 +0900",
-                "title": "총선 이슈 '강북횡단선'…한정애 김일호 조기 착공 해법은? (B tv 서울뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168446"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:16:00 +0900",
-                "title": "한정애, 선거법 위반 혐의로 고발당해…與 “주민센터 집기 사용”",
-                "link": "http://www.kukinews.com/newsView/kuk202404010316"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:09:00 +0900",
-                "title": "'강서병' 한정애 지원사격한 정세균…현장유세서  韓, 사랑받는 대표적 일꾼 ",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815899?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "한정애",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1074609
-            },
-            {
-                "연도": 2021,
-                "재산": 1212276
-            },
-            {
-                "연도": 2022,
-                "재산": 1261985
-            },
-            {
-                "연도": 2023,
-                "재산": 1375721
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1116/Hb100152808/gicho/thumbnail.100152808.JPG?ver=1684228",
-        "id": "2111603-2",
-        "재산": 1457232,
-        "생년월일": "19731129",
-        "경력": "(전)제20대 대통령직 인수위원회 전문위원\n(현)국민의힘 서울시당 전략기획위원장",
-        "학력": "서울대학교 사범대학 역사교육과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2111603",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:46:00 +0900",
-                "title": "총선 이슈 '강북횡단선'…한정애 김일호 조기 착공 해법은? (B tv 서울뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168446"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 00:00:00 +0900",
-                "title": "첫 주말 '한강벨트' 대격돌…이재명은 용산으로, 한동훈은 강서로",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815272?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 20:22:00 +0900",
-                "title": "지지 호소하는 김일호 국민의힘 강서구병 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815257?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 09:36:00 +0900",
-                "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
-                "link": "http://www.metroseoul.co.kr/article/20240330500001"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:00:00 +0900",
-                "title": "[총선GO!] '강서병' 한정애  바닥에서부터 '尹 심판' 정서...보궐선거 기세 이...",
-                "link": "https://www.newspim.com/news/view/20240328000048"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김일호",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1457232
-            }
-        ]
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111603-1.jpg",
+    "id": "2111603-1",
+    "재산": 1375721,
+    "생년월일": "19650108",
+    "경력": "(현)강서구병 국회의원\n(전)제19대 환경부 장관",
+    "학력": "영국 노팅엄대학교 산업공학박사 (1999.9~2003.4)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "835",
+    "regionId": "2111603",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:44:00 +0900",
+        "title": "'증폭'되는 특혜의혹...국힘, 한정애 의원 등 정치자금법 위반 혐의 고발",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=149031"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:46:00 +0900",
+        "title": "총선 이슈 '강북횡단선'…한정애 김일호 조기 착공 해법은? (B tv 서울뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168446"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:16:00 +0900",
+        "title": "한정애, 선거법 위반 혐의로 고발당해…與 “주민센터 집기 사용”",
+        "link": "http://www.kukinews.com/newsView/kuk202404010316"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:09:00 +0900",
+        "title": "'강서병' 한정애 지원사격한 정세균…현장유세서  韓, 사랑받는 대표적 일꾼 ",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815899?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "한정애",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1074609
+      },
+      {
+        "연도": 2021,
+        "재산": 1212276
+      },
+      {
+        "연도": 2022,
+        "재산": 1261985
+      },
+      {
+        "연도": 2023,
+        "재산": 1375721
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111603-2.jpg",
+    "id": "2111603-2",
+    "재산": 1457232,
+    "생년월일": "19731129",
+    "경력": "(전)제20대 대통령직 인수위원회 전문위원\n(현)국민의힘 서울시당 전략기획위원장",
+    "학력": "서울대학교 사범대학 역사교육과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111603",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:46:00 +0900",
+        "title": "총선 이슈 '강북횡단선'…한정애 김일호 조기 착공 해법은? (B tv 서울뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168446"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 00:00:00 +0900",
+        "title": "첫 주말 '한강벨트' 대격돌…이재명은 용산으로, 한동훈은 강서로",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815272?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:22:00 +0900",
+        "title": "지지 호소하는 김일호 국민의힘 강서구병 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815257?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 09:36:00 +0900",
+        "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
+        "link": "http://www.metroseoul.co.kr/article/20240330500001"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:00:00 +0900",
+        "title": "[총선GO!] '강서병' 한정애  바닥에서부터 '尹 심판' 정서...보궐선거 기세 이...",
+        "link": "https://www.newspim.com/news/view/20240328000048"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김일호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1457232
+      }
+    ]
+  }
 ]

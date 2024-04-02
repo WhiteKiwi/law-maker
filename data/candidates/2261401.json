@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2261401-2",
-        "regionId": "2261401",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2614/Hb100152163/gicho/thumbnail.100152163.JPG?ver=1687187",
-        "기호": 2,
-        "이름": "김희정",
-        "생년월일": "19710413",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "연세대학교 대학원 정치학과 박사과정 수료",
-        "경력": "(전)제17·19대 국회의원\n(전)여성가족부 장관",
-        "재산": 4626761,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 00:13:00 +0900",
-                "title": "한동훈, 이재명 직격 “형수 욕설 드러나자 눈물…왜 이따위 정치를 봐야 하나...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920248?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "권영세 vs 강태웅 초접전…김성완  윤핵관 발목  이종훈  몸집 커져 ",
-                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507890"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-                "link": "https://www.newspim.com/news/view/20240401001242"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:34:00 +0900",
-                "title": "[총선포토] 한동훈, 부산 방문해 김희정 후보 유세 지원",
-                "link": "https://www.news2day.co.kr/article/20240401500201"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 4626761
-            }
-        ]
-    },
-    {
-        "id": "2261401-7",
-        "regionId": "2261401",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2614/Hb100151144/gicho/thumbnail.100151144.JPG?ver=1548919",
-        "기호": 7,
-        "이름": "노정현",
-        "생년월일": "19780128",
-        "정당": "진보당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산대학교 상과대학 경영학부 졸업",
-        "경력": "(현)진보당 부산광역시당 위원장\n(전)제6, 7대 부산광역시 연제구의회 의원",
-        "재산": -21575,
-        "군필여부": true,
-        "전과건수": 3,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "권영세 vs 강태웅 초접전…김성완  윤핵관 발목  이종훈  몸집 커져 ",
-                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507890"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:04:00 +0900",
-                "title": "“북구을서 기적의 1석 당선시켜 달라”",
-                "link": "http://www.kjdaily.com/article.php?aid=1711971684626270245"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-                "title": "[인터뷰] '3선 도전' 김희정  연제구에도 중량감 있는 의원 필요 ",
-                "link": "https://n.news.naver.com/mnews/article/629/0000277917?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:01:00 +0900",
-                "title": "[인터뷰] 야권 단일후보 노정현  연제구서 정권심판 이뤄낼 것 ",
-                "link": "https://n.news.naver.com/mnews/article/629/0000277916?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:30:00 +0900",
-                "title": "[4.10총선-186] 부산 연제구, (무공천)vs김희정vs노정현. 노정현 후보 지지율",
-                "link": "http://www.mhj21.com/160234"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -21575
-            }
-        ]
-    }
+  {
+    "id": "2261401-2",
+    "regionId": "2261401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261401-2.jpg",
+    "기호": 2,
+    "이름": "김희정",
+    "생년월일": "19710413",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "연세대학교 대학원 정치학과 박사과정 수료",
+    "경력": "(전)제17·19대 국회의원\n(전)여성가족부 장관",
+    "재산": 4626761,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 00:13:00 +0900",
+        "title": "한동훈, 이재명 직격 “형수 욕설 드러나자 눈물…왜 이따위 정치를 봐야 하나...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920248?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "권영세 vs 강태웅 초접전…김성완  윤핵관 발목  이종훈  몸집 커져 ",
+        "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507890"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+        "link": "https://www.newspim.com/news/view/20240401001242"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:34:00 +0900",
+        "title": "[총선포토] 한동훈, 부산 방문해 김희정 후보 유세 지원",
+        "link": "https://www.news2day.co.kr/article/20240401500201"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4626761
+      }
+    ]
+  },
+  {
+    "id": "2261401-7",
+    "regionId": "2261401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261401-7.jpg",
+    "기호": 7,
+    "이름": "노정현",
+    "생년월일": "19780128",
+    "정당": "진보당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "부산대학교 상과대학 경영학부 졸업",
+    "경력": "(현)진보당 부산광역시당 위원장\n(전)제6, 7대 부산광역시 연제구의회 의원",
+    "재산": -21575,
+    "군필여부": true,
+    "전과건수": 3,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "권영세 vs 강태웅 초접전…김성완  윤핵관 발목  이종훈  몸집 커져 ",
+        "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507890"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:04:00 +0900",
+        "title": "“북구을서 기적의 1석 당선시켜 달라”",
+        "link": "http://www.kjdaily.com/article.php?aid=1711971684626270245"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+        "title": "[인터뷰] '3선 도전' 김희정  연제구에도 중량감 있는 의원 필요 ",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277917?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:01:00 +0900",
+        "title": "[인터뷰] 야권 단일후보 노정현  연제구서 정권심판 이뤄낼 것 ",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277916?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:30:00 +0900",
+        "title": "[4.10총선-186] 부산 연제구, (무공천)vs김희정vs노정현. 노정현 후보 지지율",
+        "link": "http://www.mhj21.com/160234"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -21575
+      }
+    ]
+  }
 ]

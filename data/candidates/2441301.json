@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2441301-1",
-        "regionId": "2441301",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4413/Hb100152842/gicho/thumbnail.100152842.JPG?ver=1676422",
-        "기호": 1,
-        "이름": "양승조",
-        "생년월일": "19590321",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
-        "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
-        "재산": 784712,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-                "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
-                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
-                "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
-                "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
-                "title": "[기획-하] 전북은 전략적 선택에 집중해야 할 시기",
-                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726260"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-                "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
-                "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-                "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
-                "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 784712
-            }
-        ]
-    },
-    {
-        "id": "2441301-2",
-        "regionId": "2441301",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4413/Hb100151782/gicho/thumbnail.100151782.JPG?ver=1563715",
-        "기호": 2,
-        "이름": "강승규",
-        "생년월일": "19630920",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
-        "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
-        "재산": 1921919,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-                "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
-                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
-                "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
-                "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-                "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
-                "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:50:00 +0900",
-                "title": "강승규 “양 후보 도지사 시절 공공기관 천안 몰아주기는 사실에 근거”",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451278?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-                "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
-                "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1921919
-            }
-        ]
-    }
+  {
+    "id": "2441301-1",
+    "regionId": "2441301",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-1.jpg",
+    "기호": 1,
+    "이름": "양승조",
+    "생년월일": "19590321",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
+    "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
+    "재산": 784712,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+        "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
+        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+        "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
+        "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+        "title": "[기획-하] 전북은 전략적 선택에 집중해야 할 시기",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726260"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+        "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
+        "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+        "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 784712
+      }
+    ]
+  },
+  {
+    "id": "2441301-2",
+    "regionId": "2441301",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-2.jpg",
+    "기호": 2,
+    "이름": "강승규",
+    "생년월일": "19630920",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
+    "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
+    "재산": 1921919,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+        "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
+        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+        "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
+        "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+        "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
+        "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:50:00 +0900",
+        "title": "강승규 “양 후보 도지사 시절 공공기관 천안 몰아주기는 사실에 근거”",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451278?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+        "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1921919
+      }
+    ]
+  }
 ]

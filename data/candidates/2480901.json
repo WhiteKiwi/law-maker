@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2480901-1",
-        "regionId": "2480901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100152707/gicho/thumbnail.100152707.JPG?ver=1677311",
-        "기호": 1,
-        "이름": "우서영",
-        "생년월일": "19960101",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
-        "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
-        "재산": 55585,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:21:00 +0900",
-                "title": "민주당 사무원, 길에 쓰러진 할머니 생명 구해",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919886?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 07:40:00 +0900",
-                "title": "[4.10총선 경남] 우서영 선거캠프,  부활절 아침, 쓰러진 생명을 구했다 ",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 22:40:00 +0900",
-                "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 55585
-            }
-        ]
-    },
-    {
-        "id": "2480901-2",
-        "regionId": "2480901",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4809/Hb100151374/gicho/thumbnail.100151374.JPG?ver=1550112",
-        "기호": 2,
-        "이름": "박상웅",
-        "생년월일": "19600816",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 사범대학 사회교육학과 졸업",
-        "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
-        "재산": 541328,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-                "title": "'밀양·의령·함안·창녕' 박상웅 후보  함안 신성장도시화 만들겠다 ",
-                "link": "https://www.newspim.com/news/view/20240401001209"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:45:00 +0900",
-                "title": "박상웅 국민의힘 국회의원 후보 유세 지지호소",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388266"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:43:00 +0900",
-                "title": "박상웅 밀양의령함안창녕 후보  부곡온천 특구 활성화 및 공공기관 유치 ",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870428?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 541328
-            }
-        ]
-    }
+  {
+    "id": "2480901-1",
+    "regionId": "2480901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-1.jpg",
+    "기호": 1,
+    "이름": "우서영",
+    "생년월일": "19960101",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
+    "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
+    "재산": 55585,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:21:00 +0900",
+        "title": "민주당 사무원, 길에 쓰러진 할머니 생명 구해",
+        "link": "https://n.news.naver.com/mnews/article/022/0003919886?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 07:40:00 +0900",
+        "title": "[4.10총선 경남] 우서영 선거캠프,  부활절 아침, 쓰러진 생명을 구했다 ",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:40:00 +0900",
+        "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 55585
+      }
+    ]
+  },
+  {
+    "id": "2480901-2",
+    "regionId": "2480901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-2.jpg",
+    "기호": 2,
+    "이름": "박상웅",
+    "생년월일": "19600816",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 사범대학 사회교육학과 졸업",
+    "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
+    "재산": 541328,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+        "title": "'밀양·의령·함안·창녕' 박상웅 후보  함안 신성장도시화 만들겠다 ",
+        "link": "https://www.newspim.com/news/view/20240401001209"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:45:00 +0900",
+        "title": "박상웅 국민의힘 국회의원 후보 유세 지지호소",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388266"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:43:00 +0900",
+        "title": "박상웅 밀양의령함안창녕 후보  부곡온천 특구 활성화 및 공공기관 유치 ",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870428?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 541328
+      }
+    ]
+  }
 ]

@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2270203-1",
-        "regionId": "2270203",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2702/Hb100152049/gicho/thumbnail.100152049.JPG?ver=1578098",
-        "기호": 1,
-        "이름": "신효철",
-        "생년월일": "19690217",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "경북대학교 행정대학원 정책.도시전공 졸업 (행정학 석사)",
-        "경력": "(전)대구과학대학교 경찰경호행정과 겸임교수\n(현)더불어민주당 대구동구군위군갑 지역위원장",
-        "재산": 123912,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Sun, 31 Mar 2024 17:20:00 +0900",
-                "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:12:00 +0900",
-                "title": "(4·10 총선 현장)전국탈시설장애인연대, 장애인 권리 10대 공약에 지역 후보...",
-                "link": "https://www.idaegu.com/newsView/idg202403310057"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:28:00 +0900",
-                "title": "대구 총선 후보 12명, '장애인 정책' 협약... 자립·이동권 등 장애인 인권 증...",
-                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30279"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:34:00 +0900",
-                "title": "허소  시민이 바람을  김기웅  모든 것 바치겠다  도태우  진정한 보수 후보 ",
-                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455295"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:56:00 +0900",
-                "title": "동구군위군갑, 신효철/최은석 '출정식'하며 선거운동 본격 시작",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461259"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 123912
-            }
-        ]
-    },
-    {
-        "id": "2270203-2",
-        "regionId": "2270203",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg2702/Hb100153123/gicho/thumbnail.100153123.JPG?ver=1683874",
-        "기호": 2,
-        "이름": "최은석",
-        "생년월일": "19670607",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 대학원 수료 (경영학과 석사과정)",
-        "경력": "(전) CJ제일제당 대표이사 사장\n",
-        "재산": 11083785,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:31:00 +0900",
-                "title": "선거공보물, 짜집기에 날림 공약으로 가득…유권자 '알 권리' 침해 비판",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870492?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:46:00 +0900",
-                "title": "[인터뷰] 최은석 동구군위군갑 후보  동구의 새로운 힘 되겠다 ",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469865"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:33:00 +0900",
-                "title": "차분하다 못해 차갑고 조용한 TK, 총선 맞나? [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005164580?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:55:00 +0900",
-                "title": "TK에서 '당선은 따 놓은 당상'?…與, 보여주기식 선거운동에 공약도 부실",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870254?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:20:00 +0900",
-                "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 11083785
-            }
-        ]
-    }
+  {
+    "id": "2270203-1",
+    "regionId": "2270203",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270203-1.jpg",
+    "기호": 1,
+    "이름": "신효철",
+    "생년월일": "19690217",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "경북대학교 행정대학원 정책.도시전공 졸업 (행정학 석사)",
+    "경력": "(전)대구과학대학교 경찰경호행정과 겸임교수\n(현)더불어민주당 대구동구군위군갑 지역위원장",
+    "재산": 123912,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Sun, 31 Mar 2024 17:20:00 +0900",
+        "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:12:00 +0900",
+        "title": "(4·10 총선 현장)전국탈시설장애인연대, 장애인 권리 10대 공약에 지역 후보...",
+        "link": "https://www.idaegu.com/newsView/idg202403310057"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:28:00 +0900",
+        "title": "대구 총선 후보 12명, '장애인 정책' 협약... 자립·이동권 등 장애인 인권 증...",
+        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30279"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:34:00 +0900",
+        "title": "허소  시민이 바람을  김기웅  모든 것 바치겠다  도태우  진정한 보수 후보 ",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455295"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:56:00 +0900",
+        "title": "동구군위군갑, 신효철/최은석 '출정식'하며 선거운동 본격 시작",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461259"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 123912
+      }
+    ]
+  },
+  {
+    "id": "2270203-2",
+    "regionId": "2270203",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270203-2.jpg",
+    "기호": 2,
+    "이름": "최은석",
+    "생년월일": "19670607",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 대학원 수료 (경영학과 석사과정)",
+    "경력": "(전) CJ제일제당 대표이사 사장\n",
+    "재산": 11083785,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:31:00 +0900",
+        "title": "선거공보물, 짜집기에 날림 공약으로 가득…유권자 '알 권리' 침해 비판",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870492?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:46:00 +0900",
+        "title": "[인터뷰] 최은석 동구군위군갑 후보  동구의 새로운 힘 되겠다 ",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469865"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:33:00 +0900",
+        "title": "차분하다 못해 차갑고 조용한 TK, 총선 맞나? [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005164580?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:55:00 +0900",
+        "title": "TK에서 '당선은 따 놓은 당상'?…與, 보여주기식 선거운동에 공약도 부실",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870254?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:20:00 +0900",
+        "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 11083785
+      }
+    ]
+  }
 ]

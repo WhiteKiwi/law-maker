@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2413602-1",
-        "regionId": "2413602",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151812/gicho/thumbnail.100151812.JPG?ver=1685053",
-        "기호": 1,
-        "이름": "부승찬",
-        "생년월일": "19701014",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
-        "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
-        "재산": 71130,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 11:36:00 +0900",
-                "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
-                "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:12:00 +0900",
-                "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:53:00 +0900",
-                "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:24:00 +0900",
-                "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:36:00 +0900",
-                "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 71130
-            }
-        ]
-    },
-    {
-        "id": "2413602-2",
-        "regionId": "2413602",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4136/Hb100151212/gicho/thumbnail.100151212.JPG?ver=1684585",
-        "기호": 2,
-        "이름": "고석",
-        "생년월일": "19600316",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
-        "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
-        "재산": 3986876,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-                "title": "[4·10총선] '선거법 위반' 고발전...경기경찰, 109건 160명수사",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242618"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:32:00 +0900",
-                "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-                "title": "총선 9일 앞…정책경쟁보다는 상대후보 고소·고발전",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464171?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:20:00 +0900",
-                "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:36:00 +0900",
-                "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
-                "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3986876
-            }
-        ]
-    }
+  {
+    "id": "2413602-1",
+    "regionId": "2413602",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-1.jpg",
+    "기호": 1,
+    "이름": "부승찬",
+    "생년월일": "19701014",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
+    "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
+    "재산": 71130,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 11:36:00 +0900",
+        "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
+        "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:12:00 +0900",
+        "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:53:00 +0900",
+        "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:24:00 +0900",
+        "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:36:00 +0900",
+        "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 71130
+      }
+    ]
+  },
+  {
+    "id": "2413602-2",
+    "regionId": "2413602",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-2.jpg",
+    "기호": 2,
+    "이름": "고석",
+    "생년월일": "19600316",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
+    "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
+    "재산": 3986876,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+        "title": "[4·10총선] '선거법 위반' 고발전...경기경찰, 109건 160명수사",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242618"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:32:00 +0900",
+        "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+        "title": "총선 9일 앞…정책경쟁보다는 상대후보 고소·고발전",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464171?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:20:00 +0900",
+        "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:36:00 +0900",
+        "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
+        "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3986876
+      }
+    ]
+  }
 ]

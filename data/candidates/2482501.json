@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2482501-1",
-        "regionId": "2482501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4825/Hb100152051/gicho/thumbnail.100152051.JPG?ver=1683565",
-        "기호": 1,
-        "이름": "황기철",
-        "생년월일": "19570315",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "국민대학교 석좌교수",
-        "학력": "한남대학교 대학원 졸업(정치학 박사)",
-        "경력": "(전)해군참모총장\n(전)국가보훈처장",
-        "재산": 2118856,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:08:00 +0900",
-                "title": "이종욱  격변기 맞은 진해, 新경제시대 열 것 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967416?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:40:00 +0900",
-                "title": "창원 진해 선거 새 거점 '석동터널' 현안 변수로도 부상",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907808"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:42:00 +0900",
-                "title": "[포토] 지역구 곳곳 누비며 표심 다지는 황기철 후보",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558793"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2118856
-            }
-        ]
-    },
-    {
-        "id": "2482501-2",
-        "regionId": "2482501",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4825/Hb100152902/gicho/thumbnail.100152902.JPG?ver=1690272",
-        "기호": 2,
-        "이름": "이종욱",
-        "생년월일": "19650315",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "미시간주립대학교 졸업(금융학 석사)(2002.8.~2004.5.)",
-        "경력": "(전)조달청장\n(전)기획재정부 기획조정실장",
-        "재산": 2909970,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 23:09:00 +0900",
-                "title": "창원 진해 이종욱, '진해 뉴빌리지' 사업 공약",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880664?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 22:46:00 +0900",
-                "title": "국힘 한동훈,  경제전문가 이종욱 창원진해구 후보 지지해 달라 ",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958617"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-                "title": "한동훈 위원장, 흔들리는 PK민심 잡기 나섰다",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429096"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-                "title": "‘민생’·‘이조심판’으로 PK 간 한동훈…“한번 더 기회달라” 읍소도(재종...",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704726?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2909970
-            }
-        ]
-    }
+  {
+    "id": "2482501-1",
+    "regionId": "2482501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-1.jpg",
+    "기호": 1,
+    "이름": "황기철",
+    "생년월일": "19570315",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "국민대학교 석좌교수",
+    "학력": "한남대학교 대학원 졸업(정치학 박사)",
+    "경력": "(전)해군참모총장\n(전)국가보훈처장",
+    "재산": 2118856,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:08:00 +0900",
+        "title": "이종욱  격변기 맞은 진해, 新경제시대 열 것 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967416?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:40:00 +0900",
+        "title": "창원 진해 선거 새 거점 '석동터널' 현안 변수로도 부상",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907808"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:42:00 +0900",
+        "title": "[포토] 지역구 곳곳 누비며 표심 다지는 황기철 후보",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558793"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2118856
+      }
+    ]
+  },
+  {
+    "id": "2482501-2",
+    "regionId": "2482501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-2.jpg",
+    "기호": 2,
+    "이름": "이종욱",
+    "생년월일": "19650315",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "미시간주립대학교 졸업(금융학 석사)(2002.8.~2004.5.)",
+    "경력": "(전)조달청장\n(전)기획재정부 기획조정실장",
+    "재산": 2909970,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 23:09:00 +0900",
+        "title": "창원 진해 이종욱, '진해 뉴빌리지' 사업 공약",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880664?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:46:00 +0900",
+        "title": "국힘 한동훈,  경제전문가 이종욱 창원진해구 후보 지지해 달라 ",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958617"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+        "title": "한동훈 위원장, 흔들리는 PK민심 잡기 나섰다",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429096"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+        "title": "‘민생’·‘이조심판’으로 PK 간 한동훈…“한번 더 기회달라” 읍소도(재종...",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704726?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2909970
+      }
+    ]
+  }
 ]

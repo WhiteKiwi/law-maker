@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4110/Hb100152982/gicho/thumbnail.100152982.JPG?ver=1679867",
-        "id": "2411001-1",
-        "재산": 618340,
-        "생년월일": "19701220",
-        "경력": "(현)국회의원\n(현)더불어민주당 전국소상공인위원회 공동위원장",
-        "학력": "서울대학교 정치학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1100",
-        "regionId": "2411001",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-                "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:42:00 +0900",
-                "title": "[4·10 총선] 민주당 안양동안갑  국민의힘 엉터리 선거공보물 사과해야 ",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242453"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
-                "title": "안양동안갑 민병덕 VS 임재훈, '주요 공약은' (B tv abc뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168389"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 17:34:00 +0900",
-                "title": "[칼럼] 총선 후 2단계 가상자산법 입법 방향과 쟁점(?)",
-                "link": "https://www.nbnews.kr/news/articleView.html?idxno=90072"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:58:00 +0900",
-                "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "민병덕",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 684547
-            },
-            {
-                "연도": 2021,
-                "재산": 673489
-            },
-            {
-                "연도": 2022,
-                "재산": 622056
-            },
-            {
-                "연도": 2023,
-                "재산": 618340
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4110/Hb100152177/gicho/thumbnail.100152177.JPG?ver=1684825",
-        "id": "2411001-2",
-        "재산": 2762473,
-        "생년월일": "19660101",
-        "경력": "(전)제20대 국회의원\n(전)대통령직속 국민통합위원회 위원",
-        "학력": "연세대학교 행정대학원 졸업(정치학석사)",
-        "직업": "국민대학교 전임연구교수",
-        "성별": "남",
-        "regionId": "2411001",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-                "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:05:00 +0900",
-                "title": "국힘 안양 동안갑 임재훈 후보 “강남 10분 시대를 열겠다” [열전 25시]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037918?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:54:00 +0900",
-                "title": "여당 함운경 후보, 尹 대국민담화에  쇠귀에 경 읽기…탈당하라 ",
-                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:04:00 +0900",
-                "title": "부활절 맞아 교회 예배 참석한 여·야 후보…주말 조기축구회 찾은 후보도 [S...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037853?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 23:40:00 +0900",
-                "title": " 민심 순응, 의대증원 새롭게 논의를  국힘 선거사령탑 용산에 잇단 쓴소리",
-                "link": "https://n.news.naver.com/mnews/article/029/0002864405?sid=100"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "임재훈",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2762473
-            }
-        ]
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-1.jpg",
+    "id": "2411001-1",
+    "재산": 618340,
+    "생년월일": "19701220",
+    "경력": "(현)국회의원\n(현)더불어민주당 전국소상공인위원회 공동위원장",
+    "학력": "서울대학교 정치학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1100",
+    "regionId": "2411001",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+        "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:42:00 +0900",
+        "title": "[4·10 총선] 민주당 안양동안갑  국민의힘 엉터리 선거공보물 사과해야 ",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242453"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+        "title": "안양동안갑 민병덕 VS 임재훈, '주요 공약은' (B tv abc뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168389"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 17:34:00 +0900",
+        "title": "[칼럼] 총선 후 2단계 가상자산법 입법 방향과 쟁점(?)",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=90072"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:58:00 +0900",
+        "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "민병덕",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 684547
+      },
+      {
+        "연도": 2021,
+        "재산": 673489
+      },
+      {
+        "연도": 2022,
+        "재산": 622056
+      },
+      {
+        "연도": 2023,
+        "재산": 618340
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-2.jpg",
+    "id": "2411001-2",
+    "재산": 2762473,
+    "생년월일": "19660101",
+    "경력": "(전)제20대 국회의원\n(전)대통령직속 국민통합위원회 위원",
+    "학력": "연세대학교 행정대학원 졸업(정치학석사)",
+    "직업": "국민대학교 전임연구교수",
+    "성별": "남",
+    "regionId": "2411001",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+        "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:05:00 +0900",
+        "title": "국힘 안양 동안갑 임재훈 후보 “강남 10분 시대를 열겠다” [열전 25시]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037918?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:54:00 +0900",
+        "title": "여당 함운경 후보, 尹 대국민담화에  쇠귀에 경 읽기…탈당하라 ",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:04:00 +0900",
+        "title": "부활절 맞아 교회 예배 참석한 여·야 후보…주말 조기축구회 찾은 후보도 [S...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037853?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 23:40:00 +0900",
+        "title": " 민심 순응, 의대증원 새롭게 논의를  국힘 선거사령탑 용산에 잇단 쓴소리",
+        "link": "https://n.news.naver.com/mnews/article/029/0002864405?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "임재훈",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2762473
+      }
+    ]
+  }
 ]

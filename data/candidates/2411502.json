@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2411502-1",
-        "regionId": "2411502",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152959/gicho/thumbnail.100152959.JPG?ver=1684785",
-        "기호": 1,
-        "이름": "이병진",
-        "생년월일": "19641208",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "한국외국어대학교 중국연구소 정치외교분과 연구위원",
-        "학력": "북경대학교 대학원 졸업(법학 박사, 1994.9~1997.7)",
-        "경력": "(현)더불어민주당 당대표 외교안보특보\n(전)평택대학교 교수",
-        "재산": 1420275,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:43:00 +0900",
-                "title": " 법적 책임 물을 것 vs 유권자 알 권리  평택을 토론회",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463978?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
-                "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:01:00 +0900",
-                "title": "사기 대출, 꼼수 증여, 성범죄 가해자 변호… 여야, 도덕성 흠집내기 ‘이전투...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919707?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1420275
-            }
-        ]
-    },
-    {
-        "id": "2411502-2",
-        "regionId": "2411502",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4115/Hb100152988/gicho/thumbnail.100152988.JPG?ver=1684784",
-        "기호": 2,
-        "이름": "정우성",
-        "생년월일": "19771021",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "교수",
-        "학력": "한국과학기술원(KAIST) 졸업(이학박사)",
-        "경력": "(현)포항공과대학교 교수\n(현)제22대 국회의원선거 국민의힘 공약개발본부 공동총괄본부장",
-        "재산": 750216,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:50:00 +0900",
-                "title": "[현장 한컷] 정우성 국힘 평택을 후보, 안중5일장 집중유세…  새로운 평택 열...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644829"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:43:00 +0900",
-                "title": " 법적 책임 물을 것 vs 유권자 알 권리  평택을 토론회",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463978?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
-                "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 750216
-            }
-        ]
-    }
+  {
+    "id": "2411502-1",
+    "regionId": "2411502",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-1.jpg",
+    "기호": 1,
+    "이름": "이병진",
+    "생년월일": "19641208",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "한국외국어대학교 중국연구소 정치외교분과 연구위원",
+    "학력": "북경대학교 대학원 졸업(법학 박사, 1994.9~1997.7)",
+    "경력": "(현)더불어민주당 당대표 외교안보특보\n(전)평택대학교 교수",
+    "재산": 1420275,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+        "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:43:00 +0900",
+        "title": " 법적 책임 물을 것 vs 유권자 알 권리  평택을 토론회",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463978?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+        "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:01:00 +0900",
+        "title": "사기 대출, 꼼수 증여, 성범죄 가해자 변호… 여야, 도덕성 흠집내기 ‘이전투...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003919707?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1420275
+      }
+    ]
+  },
+  {
+    "id": "2411502-2",
+    "regionId": "2411502",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-2.jpg",
+    "기호": 2,
+    "이름": "정우성",
+    "생년월일": "19771021",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "교수",
+    "학력": "한국과학기술원(KAIST) 졸업(이학박사)",
+    "경력": "(현)포항공과대학교 교수\n(현)제22대 국회의원선거 국민의힘 공약개발본부 공동총괄본부장",
+    "재산": 750216,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:50:00 +0900",
+        "title": "[현장 한컷] 정우성 국힘 평택을 후보, 안중5일장 집중유세…  새로운 평택 열...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644829"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+        "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:43:00 +0900",
+        "title": " 법적 책임 물을 것 vs 유권자 알 권리  평택을 토론회",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463978?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+        "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 750216
+      }
+    ]
+  }
 ]

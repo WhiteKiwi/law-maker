@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152240/gicho/thumbnail.100152240.JPG?ver=1593880",
-        "id": "2112403-1",
-        "재산": 676894,
-        "생년월일": "19581105",
-        "경력": "(현) 송파병 국회의원\n(현) 국회 정치개혁특별위원장",
-        "학력": "성공회대학교 시민사회복지대학원 사회복지학과 졸업(사회복지학석사)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "833",
-        "regionId": "2112403",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-                "title": "추미애  위례신사선 신속 착공 ",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081353"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:38:00 +0900",
-                "title": "성남수정 민주 김태년, ‘위례신사선 정상화’ 등 교통 공약 발표",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401020243888"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
-                "title": "남인순  바닥부터 민심 들끓어  김근식  송파 차별화 공약 승부 ",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281665?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-                "title": "'강남 지원 유세' 박용진  내가 한민수 안 도와? 그건 음해 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967287?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
-                "title": "김태년·추미애·남인순 민주당 후보, 위례신사선 정상화 촉구 공동 기자회견",
-                "link": "https://www.nspna.com/news/?mode=view&newsid=691166"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "남인순",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 685509
-            },
-            {
-                "연도": 2021,
-                "재산": 767367
-            },
-            {
-                "연도": 2022,
-                "재산": 675540
-            },
-            {
-                "연도": 2023,
-                "재산": 676894
-            }
-        ]
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1124/Hb100152026/gicho/thumbnail.100152026.JPG?ver=1689601",
-        "id": "2112403-2",
-        "재산": 1246906,
-        "생년월일": "19650331",
-        "경력": "(전) 국민의힘 송파구병 당협위원장\n(전) 국민의힘 비전전략실장",
-        "학력": "서울대학교대학원 정치학과 졸업(정치학박사)",
-        "직업": "경남대학교 정치외교학과 교수",
-        "성별": "남",
-        "regionId": "2112403",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:30:00 +0900",
-                "title": "[기획] 윤 대통령에 쓴 소리 쏟아낸 국민의힘 후보들, 왜?",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315450"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
-                "title": "윤석열 대통령 대국민 담화에 한숨 깊어진 국민의힘",
-                "link": "https://www.sisaweek.com/news/articleView.html?idxno=213297"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
-                "title": "남인순  바닥부터 민심 들끓어  김근식  송파 차별화 공약 승부 ",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281665?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김근식",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1246906
-            }
-        ]
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112403-1.jpg",
+    "id": "2112403-1",
+    "재산": 676894,
+    "생년월일": "19581105",
+    "경력": "(현) 송파병 국회의원\n(현) 국회 정치개혁특별위원장",
+    "학력": "성공회대학교 시민사회복지대학원 사회복지학과 졸업(사회복지학석사)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "833",
+    "regionId": "2112403",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+        "title": "추미애  위례신사선 신속 착공 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081353"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+        "title": "성남수정 민주 김태년, ‘위례신사선 정상화’ 등 교통 공약 발표",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401020243888"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+        "title": "남인순  바닥부터 민심 들끓어  김근식  송파 차별화 공약 승부 ",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281665?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+        "title": "'강남 지원 유세' 박용진  내가 한민수 안 도와? 그건 음해 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967287?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+        "title": "김태년·추미애·남인순 민주당 후보, 위례신사선 정상화 촉구 공동 기자회견",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=691166"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "남인순",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 685509
+      },
+      {
+        "연도": 2021,
+        "재산": 767367
+      },
+      {
+        "연도": 2022,
+        "재산": 675540
+      },
+      {
+        "연도": 2023,
+        "재산": 676894
+      }
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112403-2.jpg",
+    "id": "2112403-2",
+    "재산": 1246906,
+    "생년월일": "19650331",
+    "경력": "(전) 국민의힘 송파구병 당협위원장\n(전) 국민의힘 비전전략실장",
+    "학력": "서울대학교대학원 정치학과 졸업(정치학박사)",
+    "직업": "경남대학교 정치외교학과 교수",
+    "성별": "남",
+    "regionId": "2112403",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:30:00 +0900",
+        "title": "[기획] 윤 대통령에 쓴 소리 쏟아낸 국민의힘 후보들, 왜?",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315450"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+        "title": "윤석열 대통령 대국민 담화에 한숨 깊어진 국민의힘",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=213297"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+        "title": "남인순  바닥부터 민심 들끓어  김근식  송파 차별화 공약 승부 ",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281665?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김근식",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1246906
+      }
+    ]
+  }
 ]

@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3105/Hb100151574/gicho/thumbnail.100151574.JPG?ver=1553974",
-        "id": "2310501-1",
-        "재산": 698882,
-        "생년월일": "19601004",
-        "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
-        "학력": "울산대학교 행정학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2310501",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-                "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:36:00 +0900",
-                "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-                "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "이선호",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 698882
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg3105/Hb100152767/gicho/thumbnail.100152767.JPG?ver=1673473",
-        "id": "2310501-2",
-        "재산": 3243383,
-        "생년월일": "19630917",
-        "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
-        "학력": "서울대학교 농과대학 농경제학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1091",
-        "regionId": "2310501",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-                "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:36:00 +0900",
-                "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-                "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "서범수",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2627457
-            },
-            {
-                "연도": 2021,
-                "재산": 3164282
-            },
-            {
-                "연도": 2022,
-                "재산": 3529495
-            },
-            {
-                "연도": 2023,
-                "재산": 3243383
-            }
-        ]
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
+    "id": "2310501-1",
+    "재산": 698882,
+    "생년월일": "19601004",
+    "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
+    "학력": "울산대학교 행정학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
+        "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:36:00 +0900",
+        "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+        "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이선호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 698882
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-2.jpg",
+    "id": "2310501-2",
+    "재산": 3243383,
+    "생년월일": "19630917",
+    "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
+    "학력": "서울대학교 농과대학 농경제학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1091",
+    "regionId": "2310501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
+        "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:36:00 +0900",
+        "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+        "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "서범수",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2627457
+      },
+      {
+        "연도": 2021,
+        "재산": 3164282
+      },
+      {
+        "연도": 2022,
+        "재산": 3529495
+      },
+      {
+        "연도": 2023,
+        "재산": 3243383
+      }
+    ]
+  }
 ]

@@ -1,113 +1,113 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1112/Hb100152947/gicho/thumbnail.100152947.JPG?ver=1679243",
-        "id": "2111201-1",
-        "재산": 1391819,
-        "생년월일": "19731121",
-        "경력": "(현)더불어민주당 원내수석부대표\n(현)더불어민주당 을지키는민생실천위원회 위원장",
-        "학력": "서울대학교 법과대학 사법학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "888",
-        "regionId": "2111201",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:18:00 +0900",
-                "title": "민주당, 수도권 격전지 지원…사전 투표 독려",
-                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436719"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-                "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:28:00 +0900",
-                "title": "이재명, 이틀 연속 인천 계양을 다지기",
-                "link": "https://www.etoday.co.kr/news/view/2346509"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:54:00 +0900",
-                "title": "MBC노동조합  양문석 '사기대출' 언론사 고소는 '입틀막'...적반하장에 경악 ",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78803"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "박주민",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1128476
-            },
-            {
-                "연도": 2021,
-                "재산": 1144683
-            },
-            {
-                "연도": 2022,
-                "재산": 1425559
-            },
-            {
-                "연도": 2023,
-                "재산": 1391819
-            }
-        ]
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg1112/Hb100151398/gicho/thumbnail.100151398.JPG?ver=1570626",
-        "id": "2111201-2",
-        "재산": 1050000,
-        "생년월일": "19691115",
-        "경력": "(전)청와대 행정관\n(전)국무총리실 여성가족정책과장",
-        "학력": "서울대학교 대학원 졸업(보건학박사)",
-        "직업": "정당인",
-        "성별": "여",
-        "regionId": "2111201",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
-                "title": "[포토뉴스] 4·10 총선 선거운동 돌입...여야 후보 세절역 인근서 지지 호소",
-                "link": "https://www.tfmedia.co.kr/news/article.html?no=160765"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-                "title": "막 오른 선거전 ··· 은평이 키운 박주민 vs 은평이 최우선 홍인정 ",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461245"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": "타투로 새긴 은평, 홍인정 은평갑 후보  마지막 선거, 은평에서 죽겠다 ",
-                "link": "https://www.geconomy.co.kr/news/article.html?no=283282"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "홍인정",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1050000
-            }
-        ]
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111201-1.jpg",
+    "id": "2111201-1",
+    "재산": 1391819,
+    "생년월일": "19731121",
+    "경력": "(현)더불어민주당 원내수석부대표\n(현)더불어민주당 을지키는민생실천위원회 위원장",
+    "학력": "서울대학교 법과대학 사법학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "888",
+    "regionId": "2111201",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:18:00 +0900",
+        "title": "민주당, 수도권 격전지 지원…사전 투표 독려",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436719"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+        "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:28:00 +0900",
+        "title": "이재명, 이틀 연속 인천 계양을 다지기",
+        "link": "https://www.etoday.co.kr/news/view/2346509"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:54:00 +0900",
+        "title": "MBC노동조합  양문석 '사기대출' 언론사 고소는 '입틀막'...적반하장에 경악 ",
+        "link": "http://www.pennmike.com/news/articleView.html?idxno=78803"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박주민",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1128476
+      },
+      {
+        "연도": 2021,
+        "재산": 1144683
+      },
+      {
+        "연도": 2022,
+        "재산": 1425559
+      },
+      {
+        "연도": 2023,
+        "재산": 1391819
+      }
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111201-2.jpg",
+    "id": "2111201-2",
+    "재산": 1050000,
+    "생년월일": "19691115",
+    "경력": "(전)청와대 행정관\n(전)국무총리실 여성가족정책과장",
+    "학력": "서울대학교 대학원 졸업(보건학박사)",
+    "직업": "정당인",
+    "성별": "여",
+    "regionId": "2111201",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+        "title": "[포토뉴스] 4·10 총선 선거운동 돌입...여야 후보 세절역 인근서 지지 호소",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=160765"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
+        "title": "막 오른 선거전 ··· 은평이 키운 박주민 vs 은평이 최우선 홍인정 ",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461245"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": "타투로 새긴 은평, 홍인정 은평갑 후보  마지막 선거, 은평에서 죽겠다 ",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=283282"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "홍인정",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1050000
+      }
+    ]
+  }
 ]

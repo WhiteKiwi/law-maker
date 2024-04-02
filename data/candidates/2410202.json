@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2410202-1",
-        "regionId": "2410202",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100152149/gicho/thumbnail.100152149.JPG?ver=1587591",
-        "기호": 1,
-        "이름": "염태영",
-        "생년월일": "19600725",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 농과대학 농화학과 졸업",
-        "경력": "(전)수원시장\n(전)경기도 경제부지사",
-        "재산": 2095143,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 22:42:00 +0900",
-                "title": "[과수원 사람들] 염태영 수원무·김현준 수원갑·이재정 안양동안을 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815947?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-                "title": "[4·10 총선 열전 현장] 수원무",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:26:00 +0900",
-                "title": "전국사무금융서비스 노동조합, 민주당 염태영 후보 지지선언",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081316"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:10:00 +0900",
-                "title": "사무금융노조, 염태영 수원무 후보 지지 선언",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644877"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:23:00 +0900",
-                "title": "[열전 25시] 4월 1일 경기도 현장은 지금③",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037967?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2095143
-            }
-        ]
-    },
-    {
-        "id": "2410202-2",
-        "regionId": "2410202",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4102/Hb100151333/gicho/thumbnail.100151333.JPG?ver=1549779",
-        "기호": 2,
-        "이름": "박재순",
-        "생년월일": "19620129",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "(사)한국지방발전연구원 이사장",
-        "학력": "아주대학교 경영대학원 졸업(경영학석사)",
-        "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
-        "재산": 10658416,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-                "title": "[4·10 총선 열전 현장] 수원무",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-                "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
-                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
-                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
-                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:46:00 +0900",
-                "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
-                "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 10658416
-            }
-        ]
-    }
+  {
+    "id": "2410202-1",
+    "regionId": "2410202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-1.jpg",
+    "기호": 1,
+    "이름": "염태영",
+    "생년월일": "19600725",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 농과대학 농화학과 졸업",
+    "경력": "(전)수원시장\n(전)경기도 경제부지사",
+    "재산": 2095143,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 22:42:00 +0900",
+        "title": "[과수원 사람들] 염태영 수원무·김현준 수원갑·이재정 안양동안을 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815947?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+        "title": "[4·10 총선 열전 현장] 수원무",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:26:00 +0900",
+        "title": "전국사무금융서비스 노동조합, 민주당 염태영 후보 지지선언",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081316"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:10:00 +0900",
+        "title": "사무금융노조, 염태영 수원무 후보 지지 선언",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644877"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:23:00 +0900",
+        "title": "[열전 25시] 4월 1일 경기도 현장은 지금③",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037967?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2095143
+      }
+    ]
+  },
+  {
+    "id": "2410202-2",
+    "regionId": "2410202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-2.jpg",
+    "기호": 2,
+    "이름": "박재순",
+    "생년월일": "19620129",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "(사)한국지방발전연구원 이사장",
+    "학력": "아주대학교 경영대학원 졸업(경영학석사)",
+    "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
+    "재산": 10658416,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+        "title": "[4·10 총선 열전 현장] 수원무",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+        "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+        "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
+        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+        "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+        "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:46:00 +0900",
+        "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
+        "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 10658416
+      }
+    ]
+  }
 ]

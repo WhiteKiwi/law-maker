@@ -1,100 +1,100 @@
 [
-    {
-        "id": "2490101-1",
-        "regionId": "2490101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4901/Hb100151015/gicho/thumbnail.100151015.JPG?ver=1548777",
-        "기호": 1,
-        "이름": "문대림",
-        "생년월일": "19651122",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "제주대학교 대학원 법학과 졸업(법학석사)",
-        "경력": "(전)문재인정부 청와대비서관\n(현)더불어민주당 전략기획위원회 부위원장",
-        "재산": 2246388,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:48:00 +0900",
-                "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693046?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:23:00 +0900",
-                "title": "제주 제2공항 건설..정당.후보별 입장차 뚜렷",
-                "link": "https://n.news.naver.com/mnews/article/661/0000038701?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:56:00 +0900",
-                "title": "총선 후보자 제2공항 정책 답변은?",
-                "link": "https://jejumbc.com/article/wL15U8GjXezazlsOwT"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:18:00 +0900",
-                "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692863?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-                "title": "[여론조사] 제주시갑, '민주당 문대림 57% vs 국민의힘 고광철 25%'",
-                "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540158"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2246388
-            }
-        ]
-    },
-    {
-        "id": "2490101-2",
-        "regionId": "2490101",
-        "imageUrl": "http://info.nec.go.kr/photo_20240410/Gsg4901/Hb100153021/gicho/thumbnail.100153021.JPG?ver=1681518",
-        "기호": 2,
-        "이름": "고광철",
-        "생년월일": "19750414",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 공공정책대학원 행정법무학과 졸업 (법학석사)",
-        "경력": "(현)국민의힘 제주시갑당원협의회 조직위원장\n(전)국민의힘(구 자유한국당)보좌진협의회 회장(28대)",
-        "재산": -86740,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:57:00 +0900",
-                "title": "여성가족부 유지 두고 총선 후보별 입장차 뚜렷",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693088?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:48:00 +0900",
-                "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693046?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:23:00 +0900",
-                "title": "제주 제2공항 건설..정당.후보별 입장차 뚜렷",
-                "link": "https://n.news.naver.com/mnews/article/661/0000038701?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:56:00 +0900",
-                "title": "총선 후보자 제2공항 정책 답변은?",
-                "link": "https://jejumbc.com/article/wL15U8GjXezazlsOwT"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:56:00 +0900",
-                "title": "여성가족부 유지·강화 정책제안 의견 엇갈려",
-                "link": "https://jejumbc.com/article/cv4LydGFNLauw"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -86740
-            }
-        ]
-    }
+  {
+    "id": "2490101-1",
+    "regionId": "2490101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-1.jpg",
+    "기호": 1,
+    "이름": "문대림",
+    "생년월일": "19651122",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "제주대학교 대학원 법학과 졸업(법학석사)",
+    "경력": "(전)문재인정부 청와대비서관\n(현)더불어민주당 전략기획위원회 부위원장",
+    "재산": 2246388,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:48:00 +0900",
+        "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693046?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:23:00 +0900",
+        "title": "제주 제2공항 건설..정당.후보별 입장차 뚜렷",
+        "link": "https://n.news.naver.com/mnews/article/661/0000038701?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:56:00 +0900",
+        "title": "총선 후보자 제2공항 정책 답변은?",
+        "link": "https://jejumbc.com/article/wL15U8GjXezazlsOwT"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:18:00 +0900",
+        "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692863?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+        "title": "[여론조사] 제주시갑, '민주당 문대림 57% vs 국민의힘 고광철 25%'",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540158"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2246388
+      }
+    ]
+  },
+  {
+    "id": "2490101-2",
+    "regionId": "2490101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-2.jpg",
+    "기호": 2,
+    "이름": "고광철",
+    "생년월일": "19750414",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 공공정책대학원 행정법무학과 졸업 (법학석사)",
+    "경력": "(현)국민의힘 제주시갑당원협의회 조직위원장\n(전)국민의힘(구 자유한국당)보좌진협의회 회장(28대)",
+    "재산": -86740,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:57:00 +0900",
+        "title": "여성가족부 유지 두고 총선 후보별 입장차 뚜렷",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693088?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:48:00 +0900",
+        "title": "[총선/팩트체크K] 주택도시기금공사·글로벌어학타운…공약 실현 가능성은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693046?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:23:00 +0900",
+        "title": "제주 제2공항 건설..정당.후보별 입장차 뚜렷",
+        "link": "https://n.news.naver.com/mnews/article/661/0000038701?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:56:00 +0900",
+        "title": "총선 후보자 제2공항 정책 답변은?",
+        "link": "https://jejumbc.com/article/wL15U8GjXezazlsOwT"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:56:00 +0900",
+        "title": "여성가족부 유지·강화 정책제안 의견 엇갈려",
+        "link": "https://jejumbc.com/article/cv4LydGFNLauw"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -86740
+      }
+    ]
+  }
 ]
