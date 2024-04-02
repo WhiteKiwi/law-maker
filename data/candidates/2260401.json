@@ -1,1580 +1,1580 @@
 [
-    {
-        "id": "2260401-1",
-        "regionId": "2260401",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-1.jpg",
-        "기호": 1,
-        "이름": "박영미",
-        "생년월일": "19611206",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "서울대학교 사회학과 졸업",
-        "경력": "(현) 더불어민주당 부산시 중구 영도구 지역위원장\n(전) 부산시 인재평생교육진흥원 원장",
-        "재산": 483466,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
-                "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
-                "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:09:00 +0900",
-                "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
-                "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
-                "link": "http://www.mhj21.com/160240"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-                "title": "경찰, 부산서 총선 후보자 선거 벽보·현수막 훼손한 5명 검거",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325910?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:58:00 +0900",
-                "title": "중구영도구 선거구 총선 후보자 벽보 훼손",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461582"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
-                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:54:00 +0900",
-                "title": "선거벽보‧현수막 기타 선전시설 훼손‧철거한 피의자...'엄중하게 처벌한다!...",
-                "link": "http://www.kukinews.com/newsView/kuk202404010188"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
-                "title": "부산경찰, 선거벽보현수막 훼손 5명 검거",
-                "link": "https://www.newspim.com/news/view/20240401000767"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 03:04:00 +0900",
-                "title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
-                "title": "선관위 주최 중영도구 후보자 토론회 진행",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:18:00 +0900",
-                "title": "중·영도 민주당 박영미 후보 선거 벽보 훼손, 영도 경찰서 신고",
-                "link": "http://www.newsprime.co.kr/news/article.html?no=633994"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:37:00 +0900",
-                "title": "부산서 민주당 후보 선거 벽보 불에 타 그을린 흔적…선관위·경찰 조사",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879980?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
-                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:32:00 +0900",
-                "title": " 선관위 감시하겠다 …40개 사전투표소 '몰카', 혐의는",
-                "link": "https://n.news.naver.com/mnews/article/011/0004321004?sid=102"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:25:00 +0900",
-                "title": "부산서 총선 후보 선거 벽보 훼손 잇달아",
-                "link": "https://n.news.naver.com/mnews/article/081/0003440939?sid=102"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
-                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
-                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 23:12:00 +0900",
-                "title": "부산에서 총선 후보자 벽보 훼손 잇따라…경찰 신고",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447134?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 22:02:00 +0900",
-                "title": "박영미 민주당 부산 중영도구 후보, 김비오 전 행정관과 '원팀' 지지세 결집",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78787"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 21:45:00 +0900",
-                "title": "공식 선거운동 첫 주말…여야 유세 ‘총력’",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692092?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 21:38:00 +0900",
-                "title": "부산 한 지역구서 후보 벽보에 구멍 훼손… 중대한 범죄 행위 ",
-                "link": "https://n.news.naver.com/mnews/article/011/0004320940?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 21:21:00 +0900",
-                "title": "부산서 총선 후보 벽보 라이터로 훼손..선관위·경찰 신고",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058457?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 21:16:00 +0900",
-                "title": "후보 얼굴에 구멍을…총선 후보 벽보 훼손, 선관위·경찰 신고",
-                "link": "https://n.news.naver.com/mnews/article/021/0002629460?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 20:48:00 +0900",
-                "title": "여성 후보 비율 ↑..공약 차별화는?",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262660"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 20:36:00 +0900",
-                "title": "부산 중·영도 박영미 후보 벽보 훼손… 캠프 측 선관위·경찰 신고",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262839?sid=102"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:48:00 +0900",
-                "title": "부산서 박영미 후보 벽보 훼손…선관위·경찰 신고",
-                "link": "https://www.ajunews.com/view/20240330194002247"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:36:00 +0900",
-                "title": "부산 중·영도 박영미 후보  원팀으로 중구 영도구의 발전 도모할 것 ",
-                "link": "https://www.newspim.com/news/view/20240330000143"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:24:00 +0900",
-                "title": "벽보 훼손된 민주 박영미 부산 중·영도 후보… 중대한 범죄 조사 필요 ",
-                "link": "https://www.newspim.com/news/view/20240330000093"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-                "title": "선관위 주최 해운대을 후보자 토론회 진행",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262659"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-                "title": "박영미 후보 벽보 훼손..캠프 측 선관위 신고",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262661"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-                "title": "′해운대 선거구′ 토론회 생방송 진행",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:55:00 +0900",
-                "title": "후보 얼굴 라이터로 훼손…선거벽보 '수난'",
-                "link": "https://n.news.naver.com/mnews/article/215/0001155340?sid=102"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:36:00 +0900",
-                "title": "부산서 총선 후보 벽보 훼손…선관위·경찰 신고",
-                "link": "https://n.news.naver.com/mnews/article/001/0014599797?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:05:00 +0900",
-                "title": "민주당 박영미 후보, 벽보 훼손돼 선관위·경찰에 신고",
-                "link": "https://n.news.naver.com/mnews/article/031/0000824592?sid=102"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:42:00 +0900",
-                "title": "'22대 총선 D-11' 부산서 총선 후보자 벽보 훼손 잇따라",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3124191"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:31:00 +0900",
-                "title": "후보 얼굴에 구멍을…선거벽보 훼손, 처벌 수위는",
-                "link": "https://n.news.naver.com/mnews/article/469/0000793383?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:04:00 +0900",
-                "title": " 입은 찢기고, 눈엔 라이터 ..부산 총선 후보자 벽보 잇단 '수난'",
-                "link": "https://n.news.naver.com/mnews/article/014/0005164198?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 14:25:00 +0900",
-                "title": "부산서 총선 후보자 벽보 잇달아 훼손",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460360?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 13:48:00 +0900",
-                "title": "민주당 박영미 후보, 벽보 훼손돼 선관위·경찰에 신고",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069995?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 13:43:00 +0900",
-                "title": "부산 중·영도구 민주당 박영미 후보 벽보 훼손",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460353?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 08:07:00 +0900",
-                "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:50:00 +0900",
-                "title": "[나는 후보자다] 중구영도구 더불어민주당 기호1번 박영미 후보",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461424"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:50:00 +0900",
-                "title": "3당 격전지 중구-영도구",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262606"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:05:00 +0900",
-                "title": "정권심판 vs 거야심판…불붙은 표밭갈이",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069882?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:59:00 +0900",
-                "title": "부산 후보들 출정식 열고 선거운동",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163607?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:09:00 +0900",
-                "title": "거대 양당 맞서는 부산 진보당·녹색정의당",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457702?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:14:00 +0900",
-                "title": "중·영도구 박영미 후보 선거운동 출정식… 무너진 민생 되살리는 선거 ",
-                "link": "https://www.newspim.com/news/view/20240328001212"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:50:00 +0900",
-                "title": "[총선 브리핑] 중영도 민주 박영미  무도한 정권 역주행 막아야 ",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262603?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:56:00 +0900",
-                "title": "총선 현장 ①중·영도, 정책 전문가-마을 공동체 전문가 '격돌'",
-                "link": "http://www.newsprime.co.kr/news/article.html?no=633784"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:30:00 +0900",
-                "title": "[포토] 출정식 갖는 민주당 박영미 중·영도구 후보",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3123454"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:00:00 +0900",
-                "title": "큰절 올린 민주당  부산에서 민주당이라는 이유로 버림받지 않도록 해달라 ",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325408?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:03:00 +0900",
-                "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:50:00 +0900",
-                "title": "[2024 총선] 부산도 본격 선거운동...국힘·민주 후보들 출정식",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163265?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
-                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
-                "link": "https://www.naeil.com/news/read/505806?ref=naver"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:30:00 +0900",
-                "title": "부산서도 총선 레이스 돌입… 국정 지지 vs 정권 심판 ",
-                "link": "https://n.news.naver.com/mnews/article/001/0014594887?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:23:00 +0900",
-                "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 09:38:00 +0900",
-                "title": "중·영도 조승환 후보, 공식선거운동 출정식… 고향 발전 한몸 사리지 않겠다...",
-                "link": "https://www.newspim.com/news/view/20240328000196"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 08:40:00 +0900",
-                "title": "[2024년 3월 28일 정치·사회 주요일정] 한동훈 국힘 비대위원장, 망원-신촌-...",
-                "link": "https://www.mediapen.com/news/view/907687"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
-                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
-                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 07:04:00 +0900",
-                "title": "[오늘의 주요 일정] '이동관·검사 탄핵 철회' 권한쟁의심판 선고",
-                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213303"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 06:47:00 +0900",
-                "title": "[오늘의 정치일정] 3월 28일(목)",
-                "link": "https://www.newspim.com/news/view/20240328000037"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 05:00:00 +0900",
-                "title": "[오늘의 주요일정] 정치·정부(28일, 목)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007440917?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
-                "title": "대학병원 유치, 부산형 급행철·도시철…여야 한목소리 공약",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069789?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
-                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
-                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:44:00 +0900",
-                "title": "[선거레이더]중구영도구 박영미·조승환·김영진 3파전",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461063"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 05:13:00 +0900",
-                "title": "[사설] 선거철 도시철도 공약, 희망고문 끝낼 대책 내놔야",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262239?sid=110"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:40:00 +0900",
-                "title": "쏟아지는 도시철도 공약… 계속되는 ‘희망 고문’",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262216?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 19:48:00 +0900",
-                "title": "낙동강벨트 집결한 민주 수뇌부 “부울경 메가시티 재추진”",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069557?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 18:22:00 +0900",
-                "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 11:34:00 +0900",
-                "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 07:44:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011687623?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:01:00 +0900",
-                "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
-                "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 21:29:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011687471?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:33:00 +0900",
-                "title": "3파전 각축 수영, 복잡한 셈법 속 막판 표심에 촉각",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261769?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:18:00 +0900",
-                "title": "22대 총선 부산 여성 후보 9명..전체의 21%",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262449"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
-                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 15:44:00 +0900",
-                "title": "부산 제3지대·무소속 8곳 등판…7곳서 3파전 형성",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069402?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-                "title": "[표] 22대 총선 전국 지역구 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:13:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
-                "title": "부산 총선 후보 등록자 명단[22일 마감]",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:48:00 +0900",
-                "title": "PK총선 후보 97명...평균 2.43대 1 경쟁",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069384?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:17:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 15:20:00 +0900",
-                "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:05:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 19:05:00 +0900",
-                "title": "중영도 박영미 vs 조승환, 합구 후 보수 후보 잇달아 승리… 정치색 다양 영도...",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261500?sid=100"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 16:14:00 +0900",
-                "title": "중영도 더불어민주당 박영미 , 22대 총선 공식 후보 등록",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460357"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 15:28:00 +0900",
-                "title": "후보자 등록하는 더불어민주당 중·영도 박영미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007427491?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 12:41:00 +0900",
-                "title": "[총선여론] 부산 18개 지역구, 국힘 8곳 야권 2곳 우세.. 8곳은 오차범위 내 ...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639920"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 20:12:00 +0900",
-                "title": "민주 부산시당, 선대위 발족과 함께 '총선 승리' 다짐",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2949102"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 19:26:00 +0900",
-                "title": "[인터뷰] 국힘 조승환 부산 중·영도구 후보, “정치 거물만 지나가...지역민...",
-                "link": "https://www.smartfn.co.kr/article/view/sfn202403200053"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 15:19:00 +0900",
-                "title": "[오마이포토]  적어도 9석  민주당 부산선대위 출범",
-                "link": "https://n.news.naver.com/mnews/article/047/0002426629?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 15:03:00 +0900",
-                "title": "민주당 부산시당 “총선 승리로 윤석열 정권 폭주 막겠다”",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261163?sid=100"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 14:52:00 +0900",
-                "title": "더불어민주당 부산시당  선거대책위원회 발족, 총선 승리 다짐 ",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460184"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 13:31:00 +0900",
-                "title": "민주당 부산시당, 총선 승리 위한 선대위 발족…정권심판 강조",
-                "link": "https://n.news.naver.com/mnews/article/421/0007423637?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 12:27:00 +0900",
-                "title": " 폭주하는 尹정권에 경고해달라  민주당 부산 후보들 전면전 돌입",
-                "link": "https://n.news.naver.com/mnews/article/002/0002324193?sid=102"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 00:30:00 +0900",
-                "title": " 모든 특검법 부활 …부산 민주당, 구 통진당 후신·조국혁신당과 한자리에",
-                "link": "https://n.news.naver.com/mnews/article/119/0002811137?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 483466
-            }
-        ],
-        "huboid": "100151008",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100151008/junkwa/20231212104307768_1.PDF"
-    },
-    {
-        "id": "2260401-2",
-        "regionId": "2260401",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-2.jpg",
-        "기호": 2,
-        "이름": "조승환",
-        "생년월일": "19660217",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 법학과 졸업",
-        "경력": "(전) 해양수산부 장관\n(전) 부산지방해양수산청장",
-        "재산": 751975,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:01:00 +0900",
-                "title": "한동훈 뜨고 尹 사라졌다… 與 선거공보 들여다보니",
-                "link": "https://n.news.naver.com/mnews/article/469/0000793941?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:49:00 +0900",
-                "title": "이재용 회장 왜? 영화계 거물도 등장…총선 이색 홍보 전략",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351547?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:48:00 +0900",
-                "title": "한동훈, 영도 찾아 조승환 후보 지원 유세  야당 200석 헌법 바꾸려해, 중.영...",
-                "link": "http://www.breaknews.com/1024434"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:00:00 +0900",
-                "title": "[총선 D-8] '가족사진·대기업 총수·3행시' 부산 후보 이색공보물",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604025?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:52:00 +0900",
-                "title": "홍준표, “감히 대통령 탈당 요구? 탄핵 때 난파선 쥐새끼들 생각나”",
-                "link": "https://n.news.naver.com/mnews/article/021/0002629799?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-                "link": "https://www.newspim.com/news/view/20240401001242"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:39:00 +0900",
-                "title": "“염종석처럼 최선 다할 것”… 부산 텃밭 다잡는 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441290?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:09:00 +0900",
-                "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
-                "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
-                "link": "http://www.mhj21.com/160240"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
-                "title": "[포토] 한동훈  해운대 바꾸려면 주진우·김미애 뽑아달라”",
-                "link": "https://www.viva100.com/main/view.php?key=20240401010000425"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
-                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-                "title": "한동훈, 부산서 선거 막판 세몰이 총력... 92년 염종석처럼 ",
-                "link": "https://www.ajunews.com/view/20240401170406492"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
-                "title": "부산行 한동훈 “염종석처럼 혼신의 힘”…‘자영업자 육아휴직’ 공약도",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441274?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:57:00 +0900",
-                "title": "[총선현장] 부산 찾은 한동훈  조승환이야말로 중구영도구 발전 적임자 ",
-                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515335"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
-                "title": "한동훈 비대위원장, 조승환 부산 중구영도구 후보 지지 호소",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558826"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
-                "title": "부산 곳곳 누빈 한동훈  투수 염종석처럼 싸워 총선 이길 것 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880556?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:36:00 +0900",
-                "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:49:00 +0900",
-                "title": "[종합] 부산 영도 찾은 한동훈  조승환 후보 중·영도구 발전 적임자 ",
-                "link": "https://www.newspim.com/news/view/20240401000934"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:46:00 +0900",
-                "title": "영도 찾은 한동훈  조승환, 중구 영도구 발전 적임자 ",
-                "link": "http://www.newsprime.co.kr/news/article.html?no=634129"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
-                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
-                "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
-                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
-                "title": "한동훈이 뽑은 함운경 “尹, 기대할 바 없다…탈당해 주길”",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441197?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:18:00 +0900",
-                "title": "윤 대통령과 선 그은 한동훈  100일도 안 된 저한테 책임이...  ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428357?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:14:00 +0900",
-                "title": "조승환 후보 지지 유세하는 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450307?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:08:00 +0900",
-                "title": "한동훈  의대 증원, 숫자에 매몰될 문제 아니다 ",
-                "link": "https://www.ajunews.com/view/20240401125907081"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:06:00 +0900",
-                "title": "한동훈  의사 증원 해야 하지만 숫자에 매몰될 문제 아냐 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450260?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지원유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463373?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463371?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463375?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463374?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463372?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463370?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463369?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463368?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463376?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
-                "title": "조승환 후보 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463377?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:50:00 +0900",
-                "title": "한동훈  부가세 간이과세 기준 연매출 2억원으로 상향  공약",
-                "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=63694"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:30:00 +0900",
-                "title": "韓  야당, 200석 확보하면 자유민주주의서 '자유' 뺄 것 ",
-                "link": "http://www.metroseoul.co.kr/article/20240401500331"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:59:00 +0900",
-                "title": "한동훈  야당 200석은 자유민주주의에서 자유를 없애겠다는 것 ",
-                "link": "https://www.newspim.com/news/view/20240401000604"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:34:00 +0900",
-                "title": "지지자 손 잡은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449990?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:34:00 +0900",
-                "title": "부산 영동 방문한 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449988?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:34:00 +0900",
-                "title": "조승환 후보 지원유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449987?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:34:00 +0900",
-                "title": "조승환 후보 지원유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449989?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:34:00 +0900",
-                "title": "부산 영도 찾은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449986?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449979?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "조승환 후보 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449983?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "부산 영도 찾아 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449977?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "부산 영도 찾은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449981?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "부산 영도 찾은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449978?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "한동훈 지원유세 찾은 지지자들",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449984?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449975?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "한동훈 등장에 모여든 지지자들",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449985?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
-                "title": "꽃다발 받은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449982?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602299?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602296?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602291?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602292?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602293?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602298?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602300?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602297?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602294?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "'기호 2번 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602295?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:00:00 +0900",
-                "title": "[포토] 부산 영도 찾은 한동훈 위원장",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100162.html"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:58:00 +0900",
-                "title": "[포토] 한동훈 위원장 손잡은 조승환 부산중·영도 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100160.html"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:58:00 +0900",
-                "title": "[포토] 지지호소하는 조승환 부산중·영도 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100161.html"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462989?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462984?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462985?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462986?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462981?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462983?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462980?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462988?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462987?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602243?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602248?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602245?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602250?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602249?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602244?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602247?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602246?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602253?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:54:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602252?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:53:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602241?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:53:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602240?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:53:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602242?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:53:00 +0900",
-                "title": "부산 영도 찾은 한동훈 비대위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602239?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "한동훈 '조승환 후보에게 힘을'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449861?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "조승환 후보 지지 나선 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449857?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "한동훈 총괄선대위원장, 부산 영도구서 지지 유세",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449864?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "부산 영도구 찾아 조승환 후보 지지유세",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449859?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "부산 찾은 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449860?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:51:00 +0900",
-                "title": "한동훈 '부산 찾아 지지호소'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449858?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:50:00 +0900",
-                "title": "지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462953?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:50:00 +0900",
-                "title": "부산 영도 지원 유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462958?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:50:00 +0900",
-                "title": "부산 영도 찾은 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462957?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 751975
-            }
-        ],
-        "huboid": "100152080",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100152080/junkwa/20240110155530656_1.PDF"
-    },
-    {
-        "id": "2260401-5",
-        "regionId": "2260401",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-5.jpg",
-        "기호": 5,
-        "이름": "김영진",
-        "생년월일": "19621016",
-        "정당": "녹색정의당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산공업고등학교 기계과 졸업",
-        "경력": "(전) 2022년 제8회 전국동시지방선거 부산광역시장선거 후보\n(현) 녹색정의당 부산광역시당 위원장",
-        "재산": 297374,
-        "군필여부": false,
-        "전과건수": 5,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 15:37:00 +0900",
-                "title": "[4.10총선 이슈]  튀어야 산다 .. '고3, 천원 아침밥' '반려동물 건강보험 도...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641564"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:01:00 +0900",
-                "title": "[총선 D-8] '복지·반려동물' 부산 후보들 이색 공약은",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604028?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:09:00 +0900",
-                "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
-                "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
-                "link": "http://www.mhj21.com/160240"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:08:00 +0900",
-                "title": "[총선 여론조사-경기 수원병] '민주 김영진 44% vs 국힘 방문규 30%'",
-                "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246987"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
-                "title": "[경기 수원병 여론조사] 민주 김영진 44%·국힘 방문규 30%",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958230"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:31:00 +0900",
-                "title": "[경기 수원병] 더불어민주당 김영진 44%, 국민의힘 방문규 30%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428336?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:25:00 +0900",
-                "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
-                "title": "선관위 주최 중영도구 후보자 토론회 진행",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
-                "title": "[4·10 총선 여론조사-수원병] 국민의힘 37.3% &gt; 더불어민주당 31.9%",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644540"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:56:00 +0900",
-                "title": "공식 선거운동기간 첫 휴일, 유세전 가열",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262673"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
-                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 20:48:00 +0900",
-                "title": "부산 공식선거운동 첫 주말 열기 후끈",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262665"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-                "title": "′해운대 선거구′ 토론회 생방송 진행",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-                "title": "부산 공식선거운동 첫 주말 열기 후끈",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262652"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
-                "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
-                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:52:00 +0900",
-                "title": "[나는 후보자다]중구영도구 녹색정의당 기호5번 김영진 후보",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461426"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:40:00 +0900",
-                "title": "부산 군소정당·무소속 총선 후보자들도 선거전 돌입",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325543?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:40:00 +0900",
-                "title": "부산 군소정당·무소속 후보들도 표밭갈이 구슬땀",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596991?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:50:00 +0900",
-                "title": "3당 격전지 중구-영도구",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262606"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:09:00 +0900",
-                "title": "거대 양당 맞서는 부산 진보당·녹색정의당",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457702?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:28:00 +0900",
-                "title": "[22대 총선] D-13, 부산 총선 후보자 공식 선거운동 레이스 돌입",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503296"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:24:00 +0900",
-                "title": "총선 공식선거운동 시작…경기 여야 표심 공략 나섰다",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457355?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:28:00 +0900",
-                "title": "'정권심판'vs'거대야당 심판'…부산지역 주요 정당 선거전 돌입",
-                "link": "https://n.news.naver.com/mnews/article/421/0007443467?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:03:00 +0900",
-                "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:14:00 +0900",
-                "title": " 22대 총선 후보자 10명 중 3명 전과기록 보유···부실 공천 '도마 위' ",
-                "link": "https://www.ngonews.kr/news/articleView.html?idxno=149058"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
-                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
-                "link": "https://www.naeil.com/news/read/505806?ref=naver"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
-                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
-                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
-                "title": "대중교통 무료, 24시간 보육시설…제3지대 정당 ‘이색공약’",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069788?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
-                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
-                "title": "28일 0시 ‘총선 공식 선거운동’ 개시…여야 표밭갈이 총력",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=787454"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
-                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:44:00 +0900",
-                "title": "[선거레이더]중구영도구 박영미·조승환·김영진 3파전",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461063"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:02:00 +0900",
-                "title": "단일후보 내고 선거 연대, '힘 합치는 야권' (B tv 부산뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168244"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 08:26:00 +0900",
-                "title": "부울경 노동당·녹색정의당, 공동선거연대 합의",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428727"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 07:00:00 +0900",
-                "title": "계양을·광진을 '접전'…수원병·마포을·부산북갑 야당 우세(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007438105?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 07:00:00 +0900",
-                "title": "與 악재에도 원희룡 오신환 '선전'…방문규 서병수 함운경 '고전' (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007438106?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 21:56:00 +0900",
-                "title": "울산·부산·경남 노동당·녹색정의당, 영남권 노동벨트 구축 '공동선거연대'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344644"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:34:00 +0900",
-                "title": "부울경 노동당·녹색정의당 진보 미래 지키기 선거 연대 선언",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524761"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
-                "title": "녹색정의당-노동당 '영남권 노동벨트 구축' 선거연대",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907285"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:55:00 +0900",
-                "title": "녹색정의·노동당, 공동선거연대 합의",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=387546"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:50:00 +0900",
-                "title": "녹색정의·노동당, 부울경 공동선거연대 합의",
-                "link": "https://n.news.naver.com/mnews/article/079/0003878304?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:29:00 +0900",
-                "title": "부·울·경 노동당·녹색정의당  진보정치 미래 위해 선거연대 ",
-                "link": "https://n.news.naver.com/mnews/article/629/0000276441?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:30:00 +0900",
-                "title": "선거가 전쟁은 아니잖아요... 기사에서 '사수' '탈환' 그만 씁시다",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427500?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:30:00 +0900",
-                "title": "노동당·녹색정의당  진보정치 위해 선거연대 ",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262524"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 15:58:00 +0900",
-                "title": "위성정당에 날 세운 양경규  진보정치 지킬 것 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427495?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 14:20:00 +0900",
-                "title": "[22대 총선] 노동당-녹색정의당 부울경, 선거연대  진보정치 미래 지키겠다 ",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503241"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 13:04:00 +0900",
-                "title": "노동당·녹색정의당 부산  진보정치 위해 총선 선거연대 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012450646?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 12:06:00 +0900",
-                "title": "울산 동구 야권 단일화 무산.. 노동당, 민주당 대신 녹색정의당과 손잡아[202...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005161835?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:18:00 +0900",
-                "title": "부울경 각 1명씩 후보 낸 녹색정의당-노동당, 선거연대",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427430?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:13:00 +0900",
-                "title": "녹색정의·노동당, 공동선거연대 합의… 영남권 노동벨트 구축 ",
-                "link": "https://n.news.naver.com/mnews/article/001/0014588642?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:03:00 +0900",
-                "title": "부울경 노동당·녹색정의당, 공동 선거연대 선언",
-                "link": "https://n.news.naver.com/mnews/article/003/0012450155?sid=102"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:18:00 +0900",
-                "title": "부산 총선 후보 평균 재산은 '28억 원' (B tv 부산뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168178"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 18:22:00 +0900",
-                "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
-                "title": "녹색정의당·개혁신당·새로운미래 지역구에 누가 나오나",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427245?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 11:37:00 +0900",
-                "title": "부산 총선 후보자 43명 등록…경쟁률 2.38대 1",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877532?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 11:34:00 +0900",
-                "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 07:44:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011687623?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:01:00 +0900",
-                "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
-                "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:00:00 +0900",
-                "title": "[기획-4.10 총선] 정부 견제해야  4년 전보다 늘었다",
-                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21151"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 21:29:00 +0900",
-                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011687471?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
-                "title": "부산 후보 10명 전과…男 8명 군미필",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069442?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:35:00 +0900",
-                "title": "부산 18개 선거구에 43명 출사표… 남성 34명·50대 24명 [22대 총선 출마 후...",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261772?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:33:00 +0900",
-                "title": "3파전 각축 수영, 복잡한 셈법 속 막판 표심에 촉각",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261769?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:18:00 +0900",
-                "title": "부산 총선 후보 10명 전과, 7명은 병역 미필",
-                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262447"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:18:00 +0900",
-                "title": "제주도 총선 대격돌...제주시갑  후보자 검증 ...서귀포시  제2공항 ",
-                "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=539410"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 15:44:00 +0900",
-                "title": "부산 제3지대·무소속 8곳 등판…7곳서 3파전 형성",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069402?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:44:00 +0900",
-                "title": "22대 총선 지역구에 21개 정당 출사표…PK후보 97명 출격",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069398?sid=100"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-                "title": "[표] 22대 총선 전국 지역구 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 10:12:00 +0900",
-                "title": "22대 총선 부울경 경쟁률 2.45대 1…50대 45명 최다",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261623?sid=100"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 09:20:00 +0900",
-                "title": "총선 후보 730명 가운데 군(軍)복무 미필자 102명···이재명·운동권 인사 ...",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78381"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 08:08:00 +0900",
-                "title": "부산 총선 후보 10명 범죄 경력, 7명 병역 미필",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069389?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 08:02:00 +0900",
-                "title": "[금주 정치·사회 주요기사] '성범죄 변호' 조수진 사퇴에 '낙하산 비판' 한민...",
-                "link": "https://www.youthdaily.co.kr/news/article.html?no=148275"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 03:06:00 +0900",
-                "title": "“정부 견제해야” 4년 전보다 늘었다",
-                "link": "https://n.news.naver.com/mnews/article/023/0003823989?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 23:33:00 +0900",
-                "title": "[이슈] 4·10총선 총 686명 후보등록 마감, 평균 2.7대1.. 비례정당 38곳 등록...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640217"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:13:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
-                "title": "[4·10총선 후보자 등록] 경기",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:11:00 +0900",
-                "title": "총선 후보자 730명 중 군 미필 102명…이재명·주진우 등 포함(종합)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445543?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
-                "title": "부산 총선 후보 등록자 명단[22일 마감]",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:48:00 +0900",
-                "title": "PK총선 후보 97명...평균 2.43대 1 경쟁",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069384?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
-                "title": "부산 총선 후보 10명 전과 기록…7명은 병역 미필(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583335?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:20:00 +0900",
-                "title": "총선 후보자 694명 중 군 미필 92명…이재명·주진우 등 포함",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445440?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:17:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 18:43:00 +0900",
-                "title": "부산 총선 후보 전과자 10명…군 복무 7명 안 해",
-                "link": "https://n.news.naver.com/mnews/article/277/0005396070?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 18:06:00 +0900",
-                "title": "李 48% 元 43% … 명룡대전 접전",
-                "link": "https://n.news.naver.com/mnews/article/009/0005276896?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
-                "title": "부산 총선 후보 10명 전과…7명은 병역 미필",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583125?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 15:20:00 +0900",
-                "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 10:22:00 +0900",
-                "title": "[김희철의 위기관리] 4.10총선 전투에 공천된 별들의 진면목(하)",
-                "link": "https://www.news2day.co.kr/article/20240322500052"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 05:02:00 +0900",
-                "title": "후보 등록 첫날 경기도 127명 등록… 출마자들, 저마다 승리 다짐 [4·10 총선...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000036949?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 00:00:00 +0900",
-                "title": "첫날 등록한 총선 후보 16.8% 군복무 안 해… 민주 36명·국힘 33명",
-                "link": "https://n.news.naver.com/mnews/article/022/0003916708?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 23:04:00 +0900",
-                "title": "이재명·박성민 등 총선 첫날 등록후보 16.8% 군복무 안 해(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014581241?sid=100"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:05:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:02:00 +0900",
-                "title": "수원병 김영진 지지율 50.9% 방문규 39.7%와 11.2%p차 우세",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079411"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 21:31:00 +0900",
-                "title": "총선 후보 등록 첫날 311명 중 16.5% 군 미복무",
-                "link": "https://n.news.naver.com/mnews/article/088/0000868629?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:57:00 +0900",
-                "title": "22대 총선 첫날 등록 후보 16.5% 군 복무 안 해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014580836?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 297374
-            }
-        ],
-        "huboid": "100151010",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100151010/junkwa/20231212111420222_1.PDF"
-    }
+  {
+    "id": "2260401-1",
+    "regionId": "2260401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-1.jpg",
+    "기호": 1,
+    "이름": "박영미",
+    "생년월일": "19611206",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "서울대학교 사회학과 졸업",
+    "경력": "(현) 더불어민주당 부산시 중구 영도구 지역위원장\n(전) 부산시 인재평생교육진흥원 원장",
+    "재산": 483466,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+        "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:09:00 +0900",
+        "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+        "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
+        "link": "http://www.mhj21.com/160240"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+        "title": "경찰, 부산서 총선 후보자 선거 벽보·현수막 훼손한 5명 검거",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325910?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:58:00 +0900",
+        "title": "중구영도구 선거구 총선 후보자 벽보 훼손",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461582"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+        "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:54:00 +0900",
+        "title": "선거벽보‧현수막 기타 선전시설 훼손‧철거한 피의자...'엄중하게 처벌한다!...",
+        "link": "http://www.kukinews.com/newsView/kuk202404010188"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+        "title": "부산경찰, 선거벽보현수막 훼손 5명 검거",
+        "link": "https://www.newspim.com/news/view/20240401000767"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 03:04:00 +0900",
+        "title": "부산 북구 사전투표소에도 몰카…영도선 후보자 선거벽보 훼손도(종합)",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070081?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "선관위 주최 중영도구 후보자 토론회 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:18:00 +0900",
+        "title": "중·영도 민주당 박영미 후보 선거 벽보 훼손, 영도 경찰서 신고",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=633994"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:37:00 +0900",
+        "title": "부산서 민주당 후보 선거 벽보 불에 타 그을린 흔적…선관위·경찰 조사",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879980?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:32:00 +0900",
+        "title": " 선관위 감시하겠다 …40개 사전투표소 '몰카', 혐의는",
+        "link": "https://n.news.naver.com/mnews/article/011/0004321004?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:25:00 +0900",
+        "title": "부산서 총선 후보 선거 벽보 훼손 잇달아",
+        "link": "https://n.news.naver.com/mnews/article/081/0003440939?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+        "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 23:12:00 +0900",
+        "title": "부산에서 총선 후보자 벽보 훼손 잇따라…경찰 신고",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447134?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 22:02:00 +0900",
+        "title": "박영미 민주당 부산 중영도구 후보, 김비오 전 행정관과 '원팀' 지지세 결집",
+        "link": "http://www.pennmike.com/news/articleView.html?idxno=78787"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 21:45:00 +0900",
+        "title": "공식 선거운동 첫 주말…여야 유세 ‘총력’",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692092?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 21:38:00 +0900",
+        "title": "부산 한 지역구서 후보 벽보에 구멍 훼손… 중대한 범죄 행위 ",
+        "link": "https://n.news.naver.com/mnews/article/011/0004320940?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 21:21:00 +0900",
+        "title": "부산서 총선 후보 벽보 라이터로 훼손..선관위·경찰 신고",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058457?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 21:16:00 +0900",
+        "title": "후보 얼굴에 구멍을…총선 후보 벽보 훼손, 선관위·경찰 신고",
+        "link": "https://n.news.naver.com/mnews/article/021/0002629460?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:48:00 +0900",
+        "title": "여성 후보 비율 ↑..공약 차별화는?",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262660"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:36:00 +0900",
+        "title": "부산 중·영도 박영미 후보 벽보 훼손… 캠프 측 선관위·경찰 신고",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262839?sid=102"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:48:00 +0900",
+        "title": "부산서 박영미 후보 벽보 훼손…선관위·경찰 신고",
+        "link": "https://www.ajunews.com/view/20240330194002247"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:36:00 +0900",
+        "title": "부산 중·영도 박영미 후보  원팀으로 중구 영도구의 발전 도모할 것 ",
+        "link": "https://www.newspim.com/news/view/20240330000143"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:24:00 +0900",
+        "title": "벽보 훼손된 민주 박영미 부산 중·영도 후보… 중대한 범죄 조사 필요 ",
+        "link": "https://www.newspim.com/news/view/20240330000093"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+        "title": "선관위 주최 해운대을 후보자 토론회 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262659"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+        "title": "박영미 후보 벽보 훼손..캠프 측 선관위 신고",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262661"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+        "title": "′해운대 선거구′ 토론회 생방송 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:55:00 +0900",
+        "title": "후보 얼굴 라이터로 훼손…선거벽보 '수난'",
+        "link": "https://n.news.naver.com/mnews/article/215/0001155340?sid=102"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:36:00 +0900",
+        "title": "부산서 총선 후보 벽보 훼손…선관위·경찰 신고",
+        "link": "https://n.news.naver.com/mnews/article/001/0014599797?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:05:00 +0900",
+        "title": "민주당 박영미 후보, 벽보 훼손돼 선관위·경찰에 신고",
+        "link": "https://n.news.naver.com/mnews/article/031/0000824592?sid=102"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:42:00 +0900",
+        "title": "'22대 총선 D-11' 부산서 총선 후보자 벽보 훼손 잇따라",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124191"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:31:00 +0900",
+        "title": "후보 얼굴에 구멍을…선거벽보 훼손, 처벌 수위는",
+        "link": "https://n.news.naver.com/mnews/article/469/0000793383?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:04:00 +0900",
+        "title": " 입은 찢기고, 눈엔 라이터 ..부산 총선 후보자 벽보 잇단 '수난'",
+        "link": "https://n.news.naver.com/mnews/article/014/0005164198?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 14:25:00 +0900",
+        "title": "부산서 총선 후보자 벽보 잇달아 훼손",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460360?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 13:48:00 +0900",
+        "title": "민주당 박영미 후보, 벽보 훼손돼 선관위·경찰에 신고",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069995?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 13:43:00 +0900",
+        "title": "부산 중·영도구 민주당 박영미 후보 벽보 훼손",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460353?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 08:07:00 +0900",
+        "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:50:00 +0900",
+        "title": "[나는 후보자다] 중구영도구 더불어민주당 기호1번 박영미 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461424"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:50:00 +0900",
+        "title": "3당 격전지 중구-영도구",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262606"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:05:00 +0900",
+        "title": "정권심판 vs 거야심판…불붙은 표밭갈이",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069882?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:59:00 +0900",
+        "title": "부산 후보들 출정식 열고 선거운동",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163607?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:09:00 +0900",
+        "title": "거대 양당 맞서는 부산 진보당·녹색정의당",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457702?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:14:00 +0900",
+        "title": "중·영도구 박영미 후보 선거운동 출정식… 무너진 민생 되살리는 선거 ",
+        "link": "https://www.newspim.com/news/view/20240328001212"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:50:00 +0900",
+        "title": "[총선 브리핑] 중영도 민주 박영미  무도한 정권 역주행 막아야 ",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262603?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:56:00 +0900",
+        "title": "총선 현장 ①중·영도, 정책 전문가-마을 공동체 전문가 '격돌'",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=633784"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:30:00 +0900",
+        "title": "[포토] 출정식 갖는 민주당 박영미 중·영도구 후보",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3123454"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:00:00 +0900",
+        "title": "큰절 올린 민주당  부산에서 민주당이라는 이유로 버림받지 않도록 해달라 ",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325408?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:03:00 +0900",
+        "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:50:00 +0900",
+        "title": "[2024 총선] 부산도 본격 선거운동...국힘·민주 후보들 출정식",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163265?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+        "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+        "link": "https://www.naeil.com/news/read/505806?ref=naver"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:30:00 +0900",
+        "title": "부산서도 총선 레이스 돌입… 국정 지지 vs 정권 심판 ",
+        "link": "https://n.news.naver.com/mnews/article/001/0014594887?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:23:00 +0900",
+        "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 09:38:00 +0900",
+        "title": "중·영도 조승환 후보, 공식선거운동 출정식… 고향 발전 한몸 사리지 않겠다...",
+        "link": "https://www.newspim.com/news/view/20240328000196"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 08:40:00 +0900",
+        "title": "[2024년 3월 28일 정치·사회 주요일정] 한동훈 국힘 비대위원장, 망원-신촌-...",
+        "link": "https://www.mediapen.com/news/view/907687"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+        "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+        "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 07:04:00 +0900",
+        "title": "[오늘의 주요 일정] '이동관·검사 탄핵 철회' 권한쟁의심판 선고",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213303"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 06:47:00 +0900",
+        "title": "[오늘의 정치일정] 3월 28일(목)",
+        "link": "https://www.newspim.com/news/view/20240328000037"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 05:00:00 +0900",
+        "title": "[오늘의 주요일정] 정치·정부(28일, 목)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007440917?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+        "title": "대학병원 유치, 부산형 급행철·도시철…여야 한목소리 공약",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069789?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+        "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+        "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:44:00 +0900",
+        "title": "[선거레이더]중구영도구 박영미·조승환·김영진 3파전",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461063"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 05:13:00 +0900",
+        "title": "[사설] 선거철 도시철도 공약, 희망고문 끝낼 대책 내놔야",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262239?sid=110"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:40:00 +0900",
+        "title": "쏟아지는 도시철도 공약… 계속되는 ‘희망 고문’",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262216?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 19:48:00 +0900",
+        "title": "낙동강벨트 집결한 민주 수뇌부 “부울경 메가시티 재추진”",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069557?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 18:22:00 +0900",
+        "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 11:34:00 +0900",
+        "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 07:44:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011687623?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:01:00 +0900",
+        "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
+        "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 21:29:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011687471?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:33:00 +0900",
+        "title": "3파전 각축 수영, 복잡한 셈법 속 막판 표심에 촉각",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261769?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:18:00 +0900",
+        "title": "22대 총선 부산 여성 후보 9명..전체의 21%",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262449"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+        "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 15:44:00 +0900",
+        "title": "부산 제3지대·무소속 8곳 등판…7곳서 3파전 형성",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069402?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+        "title": "[표] 22대 총선 전국 지역구 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:13:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+        "title": "부산 총선 후보 등록자 명단[22일 마감]",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:48:00 +0900",
+        "title": "PK총선 후보 97명...평균 2.43대 1 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069384?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:17:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 15:20:00 +0900",
+        "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:05:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 19:05:00 +0900",
+        "title": "중영도 박영미 vs 조승환, 합구 후 보수 후보 잇달아 승리… 정치색 다양 영도...",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261500?sid=100"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 16:14:00 +0900",
+        "title": "중영도 더불어민주당 박영미 , 22대 총선 공식 후보 등록",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460357"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 15:28:00 +0900",
+        "title": "후보자 등록하는 더불어민주당 중·영도 박영미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007427491?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 12:41:00 +0900",
+        "title": "[총선여론] 부산 18개 지역구, 국힘 8곳 야권 2곳 우세.. 8곳은 오차범위 내 ...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639920"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 20:12:00 +0900",
+        "title": "민주 부산시당, 선대위 발족과 함께 '총선 승리' 다짐",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2949102"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 19:26:00 +0900",
+        "title": "[인터뷰] 국힘 조승환 부산 중·영도구 후보, “정치 거물만 지나가...지역민...",
+        "link": "https://www.smartfn.co.kr/article/view/sfn202403200053"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 15:19:00 +0900",
+        "title": "[오마이포토]  적어도 9석  민주당 부산선대위 출범",
+        "link": "https://n.news.naver.com/mnews/article/047/0002426629?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 15:03:00 +0900",
+        "title": "민주당 부산시당 “총선 승리로 윤석열 정권 폭주 막겠다”",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261163?sid=100"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 14:52:00 +0900",
+        "title": "더불어민주당 부산시당  선거대책위원회 발족, 총선 승리 다짐 ",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460184"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 13:31:00 +0900",
+        "title": "민주당 부산시당, 총선 승리 위한 선대위 발족…정권심판 강조",
+        "link": "https://n.news.naver.com/mnews/article/421/0007423637?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 12:27:00 +0900",
+        "title": " 폭주하는 尹정권에 경고해달라  민주당 부산 후보들 전면전 돌입",
+        "link": "https://n.news.naver.com/mnews/article/002/0002324193?sid=102"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 00:30:00 +0900",
+        "title": " 모든 특검법 부활 …부산 민주당, 구 통진당 후신·조국혁신당과 한자리에",
+        "link": "https://n.news.naver.com/mnews/article/119/0002811137?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 483466
+      }
+    ],
+    "huboid": "100151008",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100151008/junkwa/20231212104307768_1.PDF"
+  },
+  {
+    "id": "2260401-2",
+    "regionId": "2260401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-2.jpg",
+    "기호": 2,
+    "이름": "조승환",
+    "생년월일": "19660217",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 법학과 졸업",
+    "경력": "(전) 해양수산부 장관\n(전) 부산지방해양수산청장",
+    "재산": 751975,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:01:00 +0900",
+        "title": "한동훈 뜨고 尹 사라졌다… 與 선거공보 들여다보니",
+        "link": "https://n.news.naver.com/mnews/article/469/0000793941?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:49:00 +0900",
+        "title": "이재용 회장 왜? 영화계 거물도 등장…총선 이색 홍보 전략",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351547?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:48:00 +0900",
+        "title": "한동훈, 영도 찾아 조승환 후보 지원 유세  야당 200석 헌법 바꾸려해, 중.영...",
+        "link": "http://www.breaknews.com/1024434"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:00:00 +0900",
+        "title": "[총선 D-8] '가족사진·대기업 총수·3행시' 부산 후보 이색공보물",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604025?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:52:00 +0900",
+        "title": "홍준표, “감히 대통령 탈당 요구? 탄핵 때 난파선 쥐새끼들 생각나”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002629799?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+        "link": "https://www.newspim.com/news/view/20240401001242"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:39:00 +0900",
+        "title": "“염종석처럼 최선 다할 것”… 부산 텃밭 다잡는 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441290?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:09:00 +0900",
+        "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+        "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
+        "link": "http://www.mhj21.com/160240"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+        "title": "[포토] 한동훈  해운대 바꾸려면 주진우·김미애 뽑아달라”",
+        "link": "https://www.viva100.com/main/view.php?key=20240401010000425"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+        "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+        "title": "한동훈, 부산서 선거 막판 세몰이 총력... 92년 염종석처럼 ",
+        "link": "https://www.ajunews.com/view/20240401170406492"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+        "title": "부산行 한동훈 “염종석처럼 혼신의 힘”…‘자영업자 육아휴직’ 공약도",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441274?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:57:00 +0900",
+        "title": "[총선현장] 부산 찾은 한동훈  조승환이야말로 중구영도구 발전 적임자 ",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515335"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+        "title": "한동훈 비대위원장, 조승환 부산 중구영도구 후보 지지 호소",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558826"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+        "title": "부산 곳곳 누빈 한동훈  투수 염종석처럼 싸워 총선 이길 것 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880556?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:36:00 +0900",
+        "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:49:00 +0900",
+        "title": "[종합] 부산 영도 찾은 한동훈  조승환 후보 중·영도구 발전 적임자 ",
+        "link": "https://www.newspim.com/news/view/20240401000934"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:46:00 +0900",
+        "title": "영도 찾은 한동훈  조승환, 중구 영도구 발전 적임자 ",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=634129"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+        "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+        "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
+        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+        "title": "한동훈이 뽑은 함운경 “尹, 기대할 바 없다…탈당해 주길”",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441197?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:18:00 +0900",
+        "title": "윤 대통령과 선 그은 한동훈  100일도 안 된 저한테 책임이...  ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428357?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:14:00 +0900",
+        "title": "조승환 후보 지지 유세하는 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450307?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:08:00 +0900",
+        "title": "한동훈  의대 증원, 숫자에 매몰될 문제 아니다 ",
+        "link": "https://www.ajunews.com/view/20240401125907081"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:06:00 +0900",
+        "title": "한동훈  의사 증원 해야 하지만 숫자에 매몰될 문제 아냐 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450260?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지원유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463373?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463371?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463375?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463374?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463372?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463370?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463369?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463368?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463376?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+        "title": "조승환 후보 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463377?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:50:00 +0900",
+        "title": "한동훈  부가세 간이과세 기준 연매출 2억원으로 상향  공약",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=63694"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:30:00 +0900",
+        "title": "韓  야당, 200석 확보하면 자유민주주의서 '자유' 뺄 것 ",
+        "link": "http://www.metroseoul.co.kr/article/20240401500331"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:59:00 +0900",
+        "title": "한동훈  야당 200석은 자유민주주의에서 자유를 없애겠다는 것 ",
+        "link": "https://www.newspim.com/news/view/20240401000604"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:34:00 +0900",
+        "title": "지지자 손 잡은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449990?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:34:00 +0900",
+        "title": "부산 영동 방문한 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449988?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:34:00 +0900",
+        "title": "조승환 후보 지원유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449987?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:34:00 +0900",
+        "title": "조승환 후보 지원유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449989?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:34:00 +0900",
+        "title": "부산 영도 찾은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449986?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449979?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "조승환 후보 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449983?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "부산 영도 찾아 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449977?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "부산 영도 찾은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449981?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "부산 영도 찾은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449978?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "한동훈 지원유세 찾은 지지자들",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449984?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449975?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "한동훈 등장에 모여든 지지자들",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449985?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+        "title": "꽃다발 받은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449982?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602299?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602296?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602291?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602292?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602293?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602298?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602300?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602297?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602294?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "'기호 2번 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602295?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:00:00 +0900",
+        "title": "[포토] 부산 영도 찾은 한동훈 위원장",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100162.html"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:58:00 +0900",
+        "title": "[포토] 한동훈 위원장 손잡은 조승환 부산중·영도 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100160.html"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:58:00 +0900",
+        "title": "[포토] 지지호소하는 조승환 부산중·영도 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100161.html"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462989?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462984?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462985?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462986?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462981?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462983?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462980?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "조승환 후보 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462988?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462987?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602243?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602248?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602245?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602250?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602249?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602244?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602247?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602246?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602253?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:54:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602252?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:53:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602241?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:53:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602240?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:53:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602242?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:53:00 +0900",
+        "title": "부산 영도 찾은 한동훈 비대위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602239?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "한동훈 '조승환 후보에게 힘을'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449861?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "조승환 후보 지지 나선 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449857?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "한동훈 총괄선대위원장, 부산 영도구서 지지 유세",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449864?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "부산 영도구 찾아 조승환 후보 지지유세",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449859?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "부산 찾은 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449860?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:51:00 +0900",
+        "title": "한동훈 '부산 찾아 지지호소'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449858?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:50:00 +0900",
+        "title": "지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462953?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:50:00 +0900",
+        "title": "부산 영도 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462958?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:50:00 +0900",
+        "title": "부산 영도 찾은 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462957?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 751975
+      }
+    ],
+    "huboid": "100152080",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100152080/junkwa/20240110155530656_1.PDF"
+  },
+  {
+    "id": "2260401-5",
+    "regionId": "2260401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260401-5.jpg",
+    "기호": 5,
+    "이름": "김영진",
+    "생년월일": "19621016",
+    "정당": "녹색정의당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "부산공업고등학교 기계과 졸업",
+    "경력": "(전) 2022년 제8회 전국동시지방선거 부산광역시장선거 후보\n(현) 녹색정의당 부산광역시당 위원장",
+    "재산": 297374,
+    "군필여부": false,
+    "전과건수": 5,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:37:00 +0900",
+        "title": "[4.10총선 이슈]  튀어야 산다 .. '고3, 천원 아침밥' '반려동물 건강보험 도...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641564"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:01:00 +0900",
+        "title": "[총선 D-8] '복지·반려동물' 부산 후보들 이색 공약은",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604028?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:09:00 +0900",
+        "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+        "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
+        "link": "http://www.mhj21.com/160240"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:08:00 +0900",
+        "title": "[총선 여론조사-경기 수원병] '민주 김영진 44% vs 국힘 방문규 30%'",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246987"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+        "title": "[경기 수원병 여론조사] 민주 김영진 44%·국힘 방문규 30%",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958230"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:31:00 +0900",
+        "title": "[경기 수원병] 더불어민주당 김영진 44%, 국민의힘 방문규 30%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428336?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+        "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "선관위 주최 중영도구 후보자 토론회 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "[4·10 총선 여론조사-수원병] 국민의힘 37.3% &gt; 더불어민주당 31.9%",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644540"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:56:00 +0900",
+        "title": "공식 선거운동기간 첫 휴일, 유세전 가열",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262673"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+        "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:48:00 +0900",
+        "title": "부산 공식선거운동 첫 주말 열기 후끈",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262665"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+        "title": "′해운대 선거구′ 토론회 생방송 진행",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+        "title": "부산 공식선거운동 첫 주말 열기 후끈",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262652"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+        "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
+        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:52:00 +0900",
+        "title": "[나는 후보자다]중구영도구 녹색정의당 기호5번 김영진 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461426"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:40:00 +0900",
+        "title": "부산 군소정당·무소속 총선 후보자들도 선거전 돌입",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325543?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:40:00 +0900",
+        "title": "부산 군소정당·무소속 후보들도 표밭갈이 구슬땀",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596991?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:50:00 +0900",
+        "title": "3당 격전지 중구-영도구",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262606"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:09:00 +0900",
+        "title": "거대 양당 맞서는 부산 진보당·녹색정의당",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457702?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:28:00 +0900",
+        "title": "[22대 총선] D-13, 부산 총선 후보자 공식 선거운동 레이스 돌입",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503296"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+        "title": "총선 공식선거운동 시작…경기 여야 표심 공략 나섰다",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457355?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:28:00 +0900",
+        "title": "'정권심판'vs'거대야당 심판'…부산지역 주요 정당 선거전 돌입",
+        "link": "https://n.news.naver.com/mnews/article/421/0007443467?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:03:00 +0900",
+        "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:14:00 +0900",
+        "title": " 22대 총선 후보자 10명 중 3명 전과기록 보유···부실 공천 '도마 위' ",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=149058"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+        "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+        "link": "https://www.naeil.com/news/read/505806?ref=naver"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+        "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+        "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+        "title": "대중교통 무료, 24시간 보육시설…제3지대 정당 ‘이색공약’",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069788?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+        "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+        "title": "28일 0시 ‘총선 공식 선거운동’ 개시…여야 표밭갈이 총력",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=787454"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+        "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:44:00 +0900",
+        "title": "[선거레이더]중구영도구 박영미·조승환·김영진 3파전",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461063"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:02:00 +0900",
+        "title": "단일후보 내고 선거 연대, '힘 합치는 야권' (B tv 부산뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168244"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 08:26:00 +0900",
+        "title": "부울경 노동당·녹색정의당, 공동선거연대 합의",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428727"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 07:00:00 +0900",
+        "title": "계양을·광진을 '접전'…수원병·마포을·부산북갑 야당 우세(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007438105?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 07:00:00 +0900",
+        "title": "與 악재에도 원희룡 오신환 '선전'…방문규 서병수 함운경 '고전' (종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007438106?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:56:00 +0900",
+        "title": "울산·부산·경남 노동당·녹색정의당, 영남권 노동벨트 구축 '공동선거연대'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344644"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:34:00 +0900",
+        "title": "부울경 노동당·녹색정의당 진보 미래 지키기 선거 연대 선언",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524761"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+        "title": "녹색정의당-노동당 '영남권 노동벨트 구축' 선거연대",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907285"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:55:00 +0900",
+        "title": "녹색정의·노동당, 공동선거연대 합의",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=387546"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:50:00 +0900",
+        "title": "녹색정의·노동당, 부울경 공동선거연대 합의",
+        "link": "https://n.news.naver.com/mnews/article/079/0003878304?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:29:00 +0900",
+        "title": "부·울·경 노동당·녹색정의당  진보정치 미래 위해 선거연대 ",
+        "link": "https://n.news.naver.com/mnews/article/629/0000276441?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:30:00 +0900",
+        "title": "선거가 전쟁은 아니잖아요... 기사에서 '사수' '탈환' 그만 씁시다",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427500?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:30:00 +0900",
+        "title": "노동당·녹색정의당  진보정치 위해 선거연대 ",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262524"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 15:58:00 +0900",
+        "title": "위성정당에 날 세운 양경규  진보정치 지킬 것 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427495?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 14:20:00 +0900",
+        "title": "[22대 총선] 노동당-녹색정의당 부울경, 선거연대  진보정치 미래 지키겠다 ",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503241"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 13:04:00 +0900",
+        "title": "노동당·녹색정의당 부산  진보정치 위해 총선 선거연대 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012450646?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 12:06:00 +0900",
+        "title": "울산 동구 야권 단일화 무산.. 노동당, 민주당 대신 녹색정의당과 손잡아[202...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005161835?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:18:00 +0900",
+        "title": "부울경 각 1명씩 후보 낸 녹색정의당-노동당, 선거연대",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427430?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:13:00 +0900",
+        "title": "녹색정의·노동당, 공동선거연대 합의… 영남권 노동벨트 구축 ",
+        "link": "https://n.news.naver.com/mnews/article/001/0014588642?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:03:00 +0900",
+        "title": "부울경 노동당·녹색정의당, 공동 선거연대 선언",
+        "link": "https://n.news.naver.com/mnews/article/003/0012450155?sid=102"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:18:00 +0900",
+        "title": "부산 총선 후보 평균 재산은 '28억 원' (B tv 부산뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168178"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 18:22:00 +0900",
+        "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+        "title": "녹색정의당·개혁신당·새로운미래 지역구에 누가 나오나",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427245?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 11:37:00 +0900",
+        "title": "부산 총선 후보자 43명 등록…경쟁률 2.38대 1",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877532?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 11:34:00 +0900",
+        "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 07:44:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011687623?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:01:00 +0900",
+        "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
+        "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:00:00 +0900",
+        "title": "[기획-4.10 총선] 정부 견제해야  4년 전보다 늘었다",
+        "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21151"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 21:29:00 +0900",
+        "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011687471?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+        "title": "부산 후보 10명 전과…男 8명 군미필",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069442?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:35:00 +0900",
+        "title": "부산 18개 선거구에 43명 출사표… 남성 34명·50대 24명 [22대 총선 출마 후...",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261772?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:33:00 +0900",
+        "title": "3파전 각축 수영, 복잡한 셈법 속 막판 표심에 촉각",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261769?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:18:00 +0900",
+        "title": "부산 총선 후보 10명 전과, 7명은 병역 미필",
+        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262447"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:18:00 +0900",
+        "title": "제주도 총선 대격돌...제주시갑  후보자 검증 ...서귀포시  제2공항 ",
+        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=539410"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 15:44:00 +0900",
+        "title": "부산 제3지대·무소속 8곳 등판…7곳서 3파전 형성",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069402?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:44:00 +0900",
+        "title": "22대 총선 지역구에 21개 정당 출사표…PK후보 97명 출격",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069398?sid=100"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+        "title": "[표] 22대 총선 전국 지역구 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 10:12:00 +0900",
+        "title": "22대 총선 부울경 경쟁률 2.45대 1…50대 45명 최다",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261623?sid=100"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 09:20:00 +0900",
+        "title": "총선 후보 730명 가운데 군(軍)복무 미필자 102명···이재명·운동권 인사 ...",
+        "link": "http://www.pennmike.com/news/articleView.html?idxno=78381"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 08:08:00 +0900",
+        "title": "부산 총선 후보 10명 범죄 경력, 7명 병역 미필",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069389?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 08:02:00 +0900",
+        "title": "[금주 정치·사회 주요기사] '성범죄 변호' 조수진 사퇴에 '낙하산 비판' 한민...",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=148275"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 03:06:00 +0900",
+        "title": "“정부 견제해야” 4년 전보다 늘었다",
+        "link": "https://n.news.naver.com/mnews/article/023/0003823989?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 23:33:00 +0900",
+        "title": "[이슈] 4·10총선 총 686명 후보등록 마감, 평균 2.7대1.. 비례정당 38곳 등록...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640217"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:13:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+        "title": "[4·10총선 후보자 등록] 경기",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:11:00 +0900",
+        "title": "총선 후보자 730명 중 군 미필 102명…이재명·주진우 등 포함(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445543?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+        "title": "부산 총선 후보 등록자 명단[22일 마감]",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:48:00 +0900",
+        "title": "PK총선 후보 97명...평균 2.43대 1 경쟁",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069384?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+        "title": "부산 총선 후보 10명 전과 기록…7명은 병역 미필(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583335?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:20:00 +0900",
+        "title": "총선 후보자 694명 중 군 미필 92명…이재명·주진우 등 포함",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445440?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:17:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 18:43:00 +0900",
+        "title": "부산 총선 후보 전과자 10명…군 복무 7명 안 해",
+        "link": "https://n.news.naver.com/mnews/article/277/0005396070?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 18:06:00 +0900",
+        "title": "李 48% 元 43% … 명룡대전 접전",
+        "link": "https://n.news.naver.com/mnews/article/009/0005276896?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+        "title": "부산 총선 후보 10명 전과…7명은 병역 미필",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583125?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 15:20:00 +0900",
+        "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 10:22:00 +0900",
+        "title": "[김희철의 위기관리] 4.10총선 전투에 공천된 별들의 진면목(하)",
+        "link": "https://www.news2day.co.kr/article/20240322500052"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 05:02:00 +0900",
+        "title": "후보 등록 첫날 경기도 127명 등록… 출마자들, 저마다 승리 다짐 [4·10 총선...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000036949?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 00:00:00 +0900",
+        "title": "첫날 등록한 총선 후보 16.8% 군복무 안 해… 민주 36명·국힘 33명",
+        "link": "https://n.news.naver.com/mnews/article/022/0003916708?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 23:04:00 +0900",
+        "title": "이재명·박성민 등 총선 첫날 등록후보 16.8% 군복무 안 해(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014581241?sid=100"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:05:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:02:00 +0900",
+        "title": "수원병 김영진 지지율 50.9% 방문규 39.7%와 11.2%p차 우세",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079411"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 21:31:00 +0900",
+        "title": "총선 후보 등록 첫날 311명 중 16.5% 군 미복무",
+        "link": "https://n.news.naver.com/mnews/article/088/0000868629?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:57:00 +0900",
+        "title": "22대 총선 첫날 등록 후보 16.5% 군 복무 안 해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014580836?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 297374
+      }
+    ],
+    "huboid": "100151010",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2604/Hb100151010/junkwa/20231212111420222_1.PDF"
+  }
 ]

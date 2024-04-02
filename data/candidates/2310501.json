@@ -1,1067 +1,1067 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
-        "id": "2310501-1",
-        "재산": 698882,
-        "생년월일": "19601004",
-        "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
-        "학력": "울산대학교 행정학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2310501",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-                "title": "민주 이선호 지역경제 살릴 마중물  - 국힘 김기현  중단없는 발전 가속화 ",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995934"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "'한표라도 더…' 여야 지원유세 총력",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345123"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:02:00 +0900",
-                "title": " 가족·친구 떠나지 않는 울산 만들기 위한 선택의 시간 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037342"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
-                "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
-                "link": "http://www.mhj21.com/160256"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-                "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:36:00 +0900",
-                "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-                "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:43:00 +0900",
-                "title": "울주군 서범수  획기적 변화·발전  vs 이선호  군민 목소리 귀담을 것 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:15:00 +0900",
-                "title": "'민주당+야권연대' 진보당, 울산 동구에서 노동당 후보 지지…왜",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449301?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 23:30:00 +0900",
-                "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:30:00 +0900",
-                "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:22:00 +0900",
-                "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:04:00 +0900",
-                "title": "울산 울주군 총선서 불거진 지역감정 조장 논란",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469825"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 16:02:00 +0900",
-                "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 05:45:00 +0900",
-                "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]저마다  지역 발전 적임자  목청 높여",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995548"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 23:31:00 +0900",
-                "title": "울주군 후보들 TV토론 맞대결…양보없는 설전",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691018?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:33:00 +0900",
-                "title": "울주군 총선후보 토론회서 케이블카·인구정책 건건이 충돌",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596785?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:56:00 +0900",
-                "title": "전 군수 대 현 의원..거대 양당 총력전",
-                "link": "http://web.ubc.co.kr/wp/archives/113052"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:42:00 +0900",
-                "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:02:00 +0900",
-                "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:06:00 +0900",
-                "title": "더불어민주당 울산시당 총선 출정식",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:45:00 +0900",
-                "title": "울주군 TV토론회, 여야 후보 저출산 대책 등 지역 현안 '공방'",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457727?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:12:00 +0900",
-                "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:10:00 +0900",
-                "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
-                "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:45:00 +0900",
-                "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:36:00 +0900",
-                "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
-                "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
-                "title": "울산 울주군서 맞붙는 이선호·서범수",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596206?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:46:00 +0900",
-                "title": "더불어민주당 이선호(울산 울주군) 후보 '윤석열 정권 심판과 함께 울주 발전...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995479"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:39:00 +0900",
-                "title": "승리 다짐하는 이선호 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595957?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:39:00 +0900",
-                "title": "승리 다짐하는 이선호 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595955?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:43:00 +0900",
-                "title": "울산 여야 출정식  나라 발전하는 선거 vs 윤 정권 심판하는 선거 [2024 총선...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163258?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:18:00 +0900",
-                "title": "울산 민주당 출정식 선거운동 개시... 정권심판·국민승리 이끌 것 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037037"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:14:00 +0900",
-                "title": "울산 여야, 서로 합동 출정식 열고 총선 레이스 시작",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456405?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:43:00 +0900",
-                "title": "모두 발언하는 이선호 더불어민주당 시당 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456224?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:17:00 +0900",
-                "title": " 국민이 심판하면 민생 부활  울산 민주당, 출정식 열고 본격 선거전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007442653?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:13:00 +0900",
-                "title": " 정권 힘 싣자  vs  반헌법 세력 …울산서도 여야 총선 출정식",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595093?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:06:00 +0900",
-                "title": "울산 6개 선거구 총선 후보 주요 3대 공약",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069843?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 06:00:00 +0900",
-                "title": "[총선 D-13] 울산 여야, 합동출정식 열고 본격 선거레이스 돌입",
-                "link": "https://n.news.naver.com/mnews/article/421/0007440952?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]공식 선거운동 시작…13일간 열전",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995440"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:38:00 +0900",
-                "title": "울산, 국힘 '6+1 국민승리' 선대위 꾸려... 민주, 본선거 돌입 최종 점검 마쳐",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344730"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:38:00 +0900",
-                "title": "4·10 총선 공식 선거운동 막 올라",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344752"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 19:22:00 +0900",
-                "title": "총선 공식 선거운동 막 올라...울산 출정식, 본격 '선거 레이스'",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036980"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:34:00 +0900",
-                "title": "국힘, 중앙 6석 시당 4석 우세 전망...민주, 동·북구 우세 중구 열세 분류",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524712"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
-                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]여야 울산선대위 국힘 김기현-민주 송철호 '격돌'",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995185"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 21:38:00 +0900",
-                "title": "국힘-민주 울산시당  똘똘 뭉쳐 총선 승리 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344575"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 15:24:00 +0900",
-                "title": "제22대 총선 울산지역 대진표 완성…여야 맞대결 구도",
-                "link": "https://n.news.naver.com/mnews/article/011/0004318080?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:12:00 +0900",
-                "title": "[4·10총선 울산 후보등록 현황]울산 총선후보 18명중 8명 전과…2건 이상도 ...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995070"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택] 정권심판·국민승리  총선 필승의지 다져",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995077"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:46:00 +0900",
-                "title": "울산 총선후보 18명 중 8명 '전과' 보유",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344489"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:46:00 +0900",
-                "title": " 대한민국 기본 질서 말살하는 집권여당 심판 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344479"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:46:00 +0900",
-                "title": "울산 총선 경쟁률 '평균 3대 1'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344492"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:46:00 +0900",
-                "title": "울산 여야, 국힘 싹쓸이 vs 민주 과반 도전",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344480"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:26:00 +0900",
-                "title": "울산 18명…총선 앞으로",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524545"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:26:00 +0900",
-                "title": "더불어민주당 울산시당 선대위 출범",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524569"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
-                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
-                "title": "울산 남갑 5명 출사표 ‘군웅할거’…울산 남을 김기현 생환 여부도 주목",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069444?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 18:22:00 +0900",
-                "title": " 대한민국 되살리고 국민이 승리하도록 최선 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036747"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 20:36:00 +0900",
-                "title": "여·야 선대위 지지세 총력 결집",
-                "link": "https://www.usmbc.co.kr/article/NXmLKeMr6hIV"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 20:32:00 +0900",
-                "title": "울산 총선후보 18명 중 8명 전과 보유",
-                "link": "https://www.usmbc.co.kr/article/KHMnrxp4-kCtwZ"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-                "title": "[표] 22대 총선 전국 지역구 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 10:16:00 +0900",
-                "title": "울산 총선 후보 18명 중 8명 전과 보유…최고 자산가는 김기현",
-                "link": "https://n.news.naver.com/mnews/article/082/0001261624?sid=102"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 06:01:00 +0900",
-                "title": "울산 총선 후보 18명 중 8명이 전과있어.. 군 미필 2명 [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005160526?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:20:00 +0900",
-                "title": "울산 총선후보 18명 중 8명 전과 보유…2명 군 복무 안 해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583513?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:11:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 울산(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583509?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:12:00 +0900",
-                "title": "울산 18명 후보 등록.. 4년 전보다 10명 줄어",
-                "link": "http://web.ubc.co.kr/wp/archives/112996"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:23:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 울산(22일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583318?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 18:07:00 +0900",
-                "title": "[4·10총선 후보자 등록] 울산",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430764?sid=102"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]후보등록 첫날 울산 16명 등록…본격 선거전 준비 완료(종...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994962"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:31:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 울산(21일 마감)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014581182?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:30:00 +0900",
-                "title": "울산, 후보등록 첫날 16명 출사표… '금배지 쟁탈전' 막올라",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344403"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:30:00 +0900",
-                "title": "울주군 국회의원 후보들 악수",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344405"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:26:00 +0900",
-                "title": "[총선 D-20] 울주군 여·야 '맞대결'",
-                "link": "https://www.usmbc.co.kr/article/Zvc3xpeiVacch-1NX0o"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 21:02:00 +0900",
-                "title": "울산 첫날 16명 후보 등록 ... 직전 총선 비해 10명 줄듯",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036691"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:46:00 +0900",
-                "title": "후보 등록 후 손 맞잡은 경쟁자들",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524424"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:46:00 +0900",
-                "title": "울산, 총선 후보 등록 첫날 16명 접수",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524470"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:41:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 울산(21일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014580728?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:21:00 +0900",
-                "title": "'총선 후보자 등록 첫날' 울산 6개 선거구 16명 등록",
-                "link": "https://n.news.naver.com/mnews/article/003/0012443088?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 18:32:00 +0900",
-                "title": "총선 후보등록 첫날, 울산 6개 선거구에 16명 등록",
-                "link": "https://n.news.naver.com/mnews/article/421/0007428175?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 16:31:00 +0900",
-                "title": "울산 총선 후보들 등록 후 공약 발표 잇따라 [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005159915?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 11:25:00 +0900",
-                "title": "후보자 등록하는 이선호후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012441304?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 11:25:00 +0900",
-                "title": "후보자 등록하는 이선호후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012441300?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 11:25:00 +0900",
-                "title": "악수하는 서범수후보와 이선호 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012441299?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 11:25:00 +0900",
-                "title": "후보자 등록하는 이선호후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012441298?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 10:56:00 +0900",
-                "title": "악수하는 울주군 서범수-이선호",
-                "link": "https://n.news.naver.com/mnews/article/421/0007426225?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 10:53:00 +0900",
-                "title": "후보자 등록하는 민주당 이선호",
-                "link": "https://n.news.naver.com/mnews/article/421/0007426214?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 10:53:00 +0900",
-                "title": "울주군 후보등록하는 민주당 이선호",
-                "link": "https://n.news.naver.com/mnews/article/421/0007426218?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 10:20:00 +0900",
-                "title": "[사진뉴스]더불어민주당 이선호 후보 후보자등록",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994847"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 10:16:00 +0900",
-                "title": "4·10 총선 후보자 등록 21일부터 이틀간 시작",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994844"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 09:52:00 +0900",
-                "title": "울주 서범수·이선호 간 지역감정 조장 발언 공방 속 수혜자는?",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469238"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "이선호",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 698882
-            }
-        ],
-        "huboid": "100151574",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3105/Hb100151574/junkwa/20231214173914741_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-2.jpg",
-        "id": "2310501-2",
-        "재산": 3243383,
-        "생년월일": "19630917",
-        "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
-        "학력": "서울대학교 농과대학 농경제학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1091",
-        "regionId": "2310501",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "[총선기획]울산 후보 1호 공약 뜯어보기 - (1) 국민의힘",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345063"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:59:00 +0900",
-                "title": " 원희룡·강기윤·박정하·윤희숙, 의료 민영화 추진 '최악 4인방' ",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326141?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:58:00 +0900",
-                "title": "무상의료운동본부 선정 최악의후보 '국힘 원희룡, 박정하, 강기윤, 윤희숙'  ...",
-                "link": "http://worknworld.kctu.org/news/articleView.html?idxno=504334"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
-                "title": "보수 텃밭 '부울경' 40곳 중 14곳 '박빙' ... 낙동강벨트 외 지역구도 '위기'",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409479"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
-                "title": "[총선판세]더 이상 보수 텃밭 아니다…부울경 40곳 중 14곳 '박빙'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453668?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:25:00 +0900",
-                "title": "[포토] 무상의료운동본부,  의료공공성 파괴  총선 낙선 대상자 발표",
-                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33560"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
-                "title": "'시민건강 위협' 총선 후보 22인 발표…최악은 누구",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278174?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
-                "title": "의료계도 총선 낙선운동… 시민 생명과 건강 위협  주장",
-                "link": "https://www.econovill.com/news/articleView.html?idxno=650892"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
-                "title": "원희룡·강기윤·윤희숙, 국민 건강에 '최악의 후보'",
-                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220816"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
-                "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
-                "link": "http://www.mhj21.com/160256"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:53:00 +0900",
-                "title": "4·10 총선 D-8…시민 생명 위협할 '위험' 국회의원 후보?",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880870?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-                "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:36:00 +0900",
-                "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-                "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:43:00 +0900",
-                "title": "울주군 서범수  획기적 변화·발전  vs 이선호  군민 목소리 귀담을 것 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:16:00 +0900",
-                "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
-                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 23:30:00 +0900",
-                "title": "울산, 호랑이·토끼 등장한 후보자 선거운동 '눈길'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344917"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 23:30:00 +0900",
-                "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
-                "title": "온산·온양 관통 지역발전 걸림돌…수송량 급감·유독물질 우려도",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525069"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:30:00 +0900",
-                "title": " 호랑이처럼 언제든지 달려갑니다 ",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524996"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:30:00 +0900",
-                "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:22:00 +0900",
-                "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:58:00 +0900",
-                "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
-                "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:35:00 +0900",
-                "title": "국힘  야권에 맞서 법치  vs 민주  파란물결 더 …울산 유세 대결",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448266?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:04:00 +0900",
-                "title": "울산 울주군 총선서 불거진 지역감정 조장 논란",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469825"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
-                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
-                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
-                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:11:00 +0900",
-                "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
-                "link": "https://n.news.naver.com/mnews/article/001/0014600000?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 16:02:00 +0900",
-                "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 05:45:00 +0900",
-                "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 12:10:00 +0900",
-                "title": " 우리 지역도 비대면  우려 현실로... 총선용 공약 번져",
-                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310280&REFERER=NP"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:28:00 +0900",
-                "title": "정부·여당, ‘PA 간호사’ 법적 근거 마련…‘간호사법’ 추진",
-                "link": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=57338"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]저마다  지역 발전 적임자  목청 높여",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995548"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 23:31:00 +0900",
-                "title": "울주군 후보들 TV토론 맞대결…양보없는 설전",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691018?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "[4·10 총선 공식선거운동 화보]금배지 도전자들 봄비 내리는 거리 누비며 '민...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344798"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:33:00 +0900",
-                "title": "울주군 총선후보 토론회서 케이블카·인구정책 건건이 충돌",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596785?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:56:00 +0900",
-                "title": "전 군수 대 현 의원..거대 양당 총력전",
-                "link": "http://web.ubc.co.kr/wp/archives/113052"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:42:00 +0900",
-                "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": "울산 국회의원 작년 재산변동 2명 늘고 4명 줄어",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524966"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:02:00 +0900",
-                "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:06:00 +0900",
-                "title": "국민의힘 울산시당 총선 출정식",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037101"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:45:00 +0900",
-                "title": "울주군 TV토론회, 여야 후보 저출산 대책 등 지역 현안 '공방'",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457727?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:12:00 +0900",
-                "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:10:00 +0900",
-                "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
-                "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:02:00 +0900",
-                "title": "울산 국회의원 2023년 평균 재산 24억265만원",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037067"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:45:00 +0900",
-                "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:36:00 +0900",
-                "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
-                "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
-                "title": "울산 울주군서 맞붙는 이선호·서범수",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596206?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-                "title": "국민의힘 서범수(울산 울주군) 후보 '울주군이 고향임 강조'",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995481"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:42:00 +0900",
-                "title": "울주군 국민의힘 서범수  진짜 변화 만들어 내겠다  공식 선거전 돌입 [2024 ...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163413?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:57:00 +0900",
-                "title": "발언하는 서범수 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595381?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:57:00 +0900",
-                "title": "유세하는 서범수 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595376?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:43:00 +0900",
-                "title": "울산 여야 출정식  나라 발전하는 선거 vs 윤 정권 심판하는 선거 [2024 총선...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163258?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:27:00 +0900",
-                "title": "울산서도 총선 유세전 돌입…여야 서로  나라 망치고 있어  네탓 공방",
-                "link": "https://n.news.naver.com/mnews/article/011/0004319941?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:14:00 +0900",
-                "title": "울산 여야, 서로 합동 출정식 열고 총선 레이스 시작",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456405?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:02:00 +0900",
-                "title": "울산 국민의힘 합동 출정식...총선 공식 선거운동  거대야당 심판 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037036"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:13:00 +0900",
-                "title": " 정권 힘 싣자  vs  반헌법 세력 …울산서도 여야 총선 출정식",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595093?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:06:00 +0900",
-                "title": "울산 6개 선거구 총선 후보 주요 3대 공약",
-                "link": "https://n.news.naver.com/mnews/article/658/0000069843?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:48:00 +0900",
-                "title": "국민의힘 울산 총선 후보들  6+1 국민승리  합동 출정식",
-                "link": "https://n.news.naver.com/mnews/article/421/0007442543?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:48:00 +0900",
-                "title": "[사진뉴스]제22대 국회의원선거 공식 선거운동 첫날, 국민의힘 울산시당 합동...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995456"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:45:00 +0900",
-                "title": "국민의힘 울산 후보들 합동출정식",
-                "link": "https://n.news.naver.com/mnews/article/421/0007442530?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 09:00:00 +0900",
-                "title": "[사설] 공동주택 현안 외면하는 국회의원 후보들",
-                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161725"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 07:43:00 +0900",
-                "title": "[총선] KBS울산, 국회의원 후보자 토론회 등 개최",
-                "link": "https://n.news.naver.com/mnews/article/056/0011690262?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 06:00:00 +0900",
-                "title": "[총선 D-13] 울산 여야, 합동출정식 열고 본격 선거레이스 돌입",
-                "link": "https://n.news.naver.com/mnews/article/421/0007440952?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]공식 선거운동 시작…13일간 열전",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995440"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 23:24:00 +0900",
-                "title": "[총선] KBS울산, 국회의원 후보자 토론회 등 개최",
-                "link": "https://n.news.naver.com/mnews/article/056/0011690129?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:41:00 +0900",
-                "title": "오늘부터 13일간 공식선거운동…여야 출정식 필승 결의",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524862"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:40:00 +0900",
-                "title": "[제22대 총선 울산 후보 공약 발표]",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524789"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:38:00 +0900",
-                "title": " 스마트 경로당에서 어르신들 비대면 진료 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344734"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:38:00 +0900",
-                "title": "4·10 총선 공식 선거운동 막 올라",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344752"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 19:50:00 +0900",
-                "title": "국민의힘 서범수 울산 울주군 후보  울주군 비대면·원격 진료 추진 ",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995355"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 19:22:00 +0900",
-                "title": "총선 공식 선거운동 막 올라...울산 출정식, 본격 '선거 레이스'",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036980"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 18:12:00 +0900",
-                "title": "[나는 후보자다] 부산 금정구 출마 후보는?",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461170"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:39:00 +0900",
-                "title": "울산 총선 후보들  원격진료   수사청 신설   무상의료  등 공약",
-                "link": "https://n.news.naver.com/mnews/article/003/0012453506?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:00:00 +0900",
-                "title": "서범수  울주군 초진부터 비대면 진료 가능하도록 하겠다 [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005162564?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 11:42:00 +0900",
-                "title": "서범수  울주군 의료격차 해소 위해 원격진료 시대 열 것 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036928"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
-                "title": "총선후 첫 울산행 국힘 한동훈,  산업수도 걸맞은 혜택 누려야 ",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995322"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 22:02:00 +0900",
-                "title": "경남 총선후보 공약 키워드는 ‘철도·의대·지역소멸’",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428701"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 21:56:00 +0900",
-                "title": "울산 온 한동훈, 전통시장 누비며 지지 호소",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344657"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:34:00 +0900",
-                "title": "국힘, 중앙 6석 시당 4석 우세 전망...민주, 동·북구 우세 중구 열세 분류",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524712"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:34:00 +0900",
-                "title": " 산업수도 울산에 걸맞은 혜택 돌려 드릴 것 ",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524729"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:22:00 +0900",
-                "title": "한동훈  산업 주역 울산에 걸 맞는 혜택 돌려드릴 것 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036924"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:48:00 +0900",
-                "title": "한동훈, PK 승부처 돌며 판세 뒤집기 총력… 정말 민생 챙기겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005017363?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:32:00 +0900",
-                "title": "민주당·진보당 동남풍에 놀랐나? 한동훈 부울경 유세 총력",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907343"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:12:00 +0900",
-                "title": "울산 신정시장서 시민들에게 지지 호소하는 한동훈 비상대책위원장",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036905"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:12:00 +0900",
-                "title": "울산 호계시장서 시민들에게 지지 호소하는 한동훈 비상대책위원장",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036904"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:06:00 +0900",
-                "title": "[포토] 손들어 인사하는 서범수 울주군 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/26/2024032600414.html"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:48:00 +0900",
-                "title": "韓  울산, 대한민국 산업 이끈 곳…걸맞은 혜택 드릴 것 ",
-                "link": "https://www.ajunews.com/view/20240326155631372"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:30:00 +0900",
-                "title": "대구 찍고, 또 부산행… ‘보수 표심’ 단속 나선 여",
-                "link": "https://n.news.naver.com/mnews/article/082/0001262213?sid=100"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "서범수",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2627457
-            },
-            {
-                "연도": 2021,
-                "재산": 3164282
-            },
-            {
-                "연도": 2022,
-                "재산": 3529495
-            },
-            {
-                "연도": 2023,
-                "재산": 3243383
-            }
-        ],
-        "huboid": "100152767",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3105/Hb100152767/junkwa/20240219113957517_1.PDF"
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
+    "id": "2310501-1",
+    "재산": 698882,
+    "생년월일": "19601004",
+    "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
+    "학력": "울산대학교 행정학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+        "title": "민주 이선호 지역경제 살릴 마중물  - 국힘 김기현  중단없는 발전 가속화 ",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995934"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "'한표라도 더…' 여야 지원유세 총력",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345123"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:02:00 +0900",
+        "title": " 가족·친구 떠나지 않는 울산 만들기 위한 선택의 시간 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037342"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+        "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
+        "link": "http://www.mhj21.com/160256"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
+        "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:36:00 +0900",
+        "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+        "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:43:00 +0900",
+        "title": "울주군 서범수  획기적 변화·발전  vs 이선호  군민 목소리 귀담을 것 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:15:00 +0900",
+        "title": "'민주당+야권연대' 진보당, 울산 동구에서 노동당 후보 지지…왜",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449301?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900",
+        "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:04:00 +0900",
+        "title": "울산 울주군 총선서 불거진 지역감정 조장 논란",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469825"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:02:00 +0900",
+        "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 05:45:00 +0900",
+        "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]저마다  지역 발전 적임자  목청 높여",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995548"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 23:31:00 +0900",
+        "title": "울주군 후보들 TV토론 맞대결…양보없는 설전",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691018?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:33:00 +0900",
+        "title": "울주군 총선후보 토론회서 케이블카·인구정책 건건이 충돌",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596785?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:56:00 +0900",
+        "title": "전 군수 대 현 의원..거대 양당 총력전",
+        "link": "http://web.ubc.co.kr/wp/archives/113052"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:42:00 +0900",
+        "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:02:00 +0900",
+        "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:06:00 +0900",
+        "title": "더불어민주당 울산시당 총선 출정식",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:45:00 +0900",
+        "title": "울주군 TV토론회, 여야 후보 저출산 대책 등 지역 현안 '공방'",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457727?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:12:00 +0900",
+        "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:10:00 +0900",
+        "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
+        "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:45:00 +0900",
+        "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:36:00 +0900",
+        "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
+        "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+        "title": "울산 울주군서 맞붙는 이선호·서범수",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596206?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:46:00 +0900",
+        "title": "더불어민주당 이선호(울산 울주군) 후보 '윤석열 정권 심판과 함께 울주 발전...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995479"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:39:00 +0900",
+        "title": "승리 다짐하는 이선호 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595957?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:39:00 +0900",
+        "title": "승리 다짐하는 이선호 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595955?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:43:00 +0900",
+        "title": "울산 여야 출정식  나라 발전하는 선거 vs 윤 정권 심판하는 선거 [2024 총선...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163258?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:18:00 +0900",
+        "title": "울산 민주당 출정식 선거운동 개시... 정권심판·국민승리 이끌 것 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037037"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:14:00 +0900",
+        "title": "울산 여야, 서로 합동 출정식 열고 총선 레이스 시작",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456405?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:43:00 +0900",
+        "title": "모두 발언하는 이선호 더불어민주당 시당 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456224?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:17:00 +0900",
+        "title": " 국민이 심판하면 민생 부활  울산 민주당, 출정식 열고 본격 선거전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007442653?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:13:00 +0900",
+        "title": " 정권 힘 싣자  vs  반헌법 세력 …울산서도 여야 총선 출정식",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595093?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:06:00 +0900",
+        "title": "울산 6개 선거구 총선 후보 주요 3대 공약",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069843?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 06:00:00 +0900",
+        "title": "[총선 D-13] 울산 여야, 합동출정식 열고 본격 선거레이스 돌입",
+        "link": "https://n.news.naver.com/mnews/article/421/0007440952?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]공식 선거운동 시작…13일간 열전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995440"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:38:00 +0900",
+        "title": "울산, 국힘 '6+1 국민승리' 선대위 꾸려... 민주, 본선거 돌입 최종 점검 마쳐",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344730"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:38:00 +0900",
+        "title": "4·10 총선 공식 선거운동 막 올라",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344752"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 19:22:00 +0900",
+        "title": "총선 공식 선거운동 막 올라...울산 출정식, 본격 '선거 레이스'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036980"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:34:00 +0900",
+        "title": "국힘, 중앙 6석 시당 4석 우세 전망...민주, 동·북구 우세 중구 열세 분류",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524712"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+        "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 울산선대위 국힘 김기현-민주 송철호 '격돌'",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995185"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 21:38:00 +0900",
+        "title": "국힘-민주 울산시당  똘똘 뭉쳐 총선 승리 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344575"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 15:24:00 +0900",
+        "title": "제22대 총선 울산지역 대진표 완성…여야 맞대결 구도",
+        "link": "https://n.news.naver.com/mnews/article/011/0004318080?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:12:00 +0900",
+        "title": "[4·10총선 울산 후보등록 현황]울산 총선후보 18명중 8명 전과…2건 이상도 ...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995070"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택] 정권심판·국민승리  총선 필승의지 다져",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995077"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:46:00 +0900",
+        "title": "울산 총선후보 18명 중 8명 '전과' 보유",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344489"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:46:00 +0900",
+        "title": " 대한민국 기본 질서 말살하는 집권여당 심판 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344479"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:46:00 +0900",
+        "title": "울산 총선 경쟁률 '평균 3대 1'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344492"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:46:00 +0900",
+        "title": "울산 여야, 국힘 싹쓸이 vs 민주 과반 도전",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344480"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:26:00 +0900",
+        "title": "울산 18명…총선 앞으로",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524545"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:26:00 +0900",
+        "title": "더불어민주당 울산시당 선대위 출범",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524569"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+        "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+        "title": "울산 남갑 5명 출사표 ‘군웅할거’…울산 남을 김기현 생환 여부도 주목",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069444?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 18:22:00 +0900",
+        "title": " 대한민국 되살리고 국민이 승리하도록 최선 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036747"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 20:36:00 +0900",
+        "title": "여·야 선대위 지지세 총력 결집",
+        "link": "https://www.usmbc.co.kr/article/NXmLKeMr6hIV"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 20:32:00 +0900",
+        "title": "울산 총선후보 18명 중 8명 전과 보유",
+        "link": "https://www.usmbc.co.kr/article/KHMnrxp4-kCtwZ"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+        "title": "[표] 22대 총선 전국 지역구 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 10:16:00 +0900",
+        "title": "울산 총선 후보 18명 중 8명 전과 보유…최고 자산가는 김기현",
+        "link": "https://n.news.naver.com/mnews/article/082/0001261624?sid=102"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 06:01:00 +0900",
+        "title": "울산 총선 후보 18명 중 8명이 전과있어.. 군 미필 2명 [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005160526?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:20:00 +0900",
+        "title": "울산 총선후보 18명 중 8명 전과 보유…2명 군 복무 안 해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583513?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:11:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 울산(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583509?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:12:00 +0900",
+        "title": "울산 18명 후보 등록.. 4년 전보다 10명 줄어",
+        "link": "http://web.ubc.co.kr/wp/archives/112996"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:23:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 울산(22일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583318?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 18:07:00 +0900",
+        "title": "[4·10총선 후보자 등록] 울산",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430764?sid=102"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]후보등록 첫날 울산 16명 등록…본격 선거전 준비 완료(종...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994962"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:31:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 울산(21일 마감)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014581182?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:30:00 +0900",
+        "title": "울산, 후보등록 첫날 16명 출사표… '금배지 쟁탈전' 막올라",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344403"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:30:00 +0900",
+        "title": "울주군 국회의원 후보들 악수",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344405"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:26:00 +0900",
+        "title": "[총선 D-20] 울주군 여·야 '맞대결'",
+        "link": "https://www.usmbc.co.kr/article/Zvc3xpeiVacch-1NX0o"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 21:02:00 +0900",
+        "title": "울산 첫날 16명 후보 등록 ... 직전 총선 비해 10명 줄듯",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036691"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:46:00 +0900",
+        "title": "후보 등록 후 손 맞잡은 경쟁자들",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524424"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:46:00 +0900",
+        "title": "울산, 총선 후보 등록 첫날 16명 접수",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524470"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:41:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 울산(21일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014580728?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:21:00 +0900",
+        "title": "'총선 후보자 등록 첫날' 울산 6개 선거구 16명 등록",
+        "link": "https://n.news.naver.com/mnews/article/003/0012443088?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 18:32:00 +0900",
+        "title": "총선 후보등록 첫날, 울산 6개 선거구에 16명 등록",
+        "link": "https://n.news.naver.com/mnews/article/421/0007428175?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 16:31:00 +0900",
+        "title": "울산 총선 후보들 등록 후 공약 발표 잇따라 [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005159915?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 11:25:00 +0900",
+        "title": "후보자 등록하는 이선호후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012441304?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 11:25:00 +0900",
+        "title": "후보자 등록하는 이선호후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012441300?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 11:25:00 +0900",
+        "title": "악수하는 서범수후보와 이선호 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012441299?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 11:25:00 +0900",
+        "title": "후보자 등록하는 이선호후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012441298?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 10:56:00 +0900",
+        "title": "악수하는 울주군 서범수-이선호",
+        "link": "https://n.news.naver.com/mnews/article/421/0007426225?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 10:53:00 +0900",
+        "title": "후보자 등록하는 민주당 이선호",
+        "link": "https://n.news.naver.com/mnews/article/421/0007426214?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 10:53:00 +0900",
+        "title": "울주군 후보등록하는 민주당 이선호",
+        "link": "https://n.news.naver.com/mnews/article/421/0007426218?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 10:20:00 +0900",
+        "title": "[사진뉴스]더불어민주당 이선호 후보 후보자등록",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994847"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 10:16:00 +0900",
+        "title": "4·10 총선 후보자 등록 21일부터 이틀간 시작",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994844"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 09:52:00 +0900",
+        "title": "울주 서범수·이선호 간 지역감정 조장 발언 공방 속 수혜자는?",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469238"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이선호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 698882
+      }
+    ],
+    "huboid": "100151574",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3105/Hb100151574/junkwa/20231214173914741_1.PDF"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-2.jpg",
+    "id": "2310501-2",
+    "재산": 3243383,
+    "생년월일": "19630917",
+    "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
+    "학력": "서울대학교 농과대학 농경제학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1091",
+    "regionId": "2310501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "[총선기획]울산 후보 1호 공약 뜯어보기 - (1) 국민의힘",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345063"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:59:00 +0900",
+        "title": " 원희룡·강기윤·박정하·윤희숙, 의료 민영화 추진 '최악 4인방' ",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326141?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+        "title": "무상의료운동본부 선정 최악의후보 '국힘 원희룡, 박정하, 강기윤, 윤희숙'  ...",
+        "link": "http://worknworld.kctu.org/news/articleView.html?idxno=504334"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+        "title": "보수 텃밭 '부울경' 40곳 중 14곳 '박빙' ... 낙동강벨트 외 지역구도 '위기'",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409479"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+        "title": "[총선판세]더 이상 보수 텃밭 아니다…부울경 40곳 중 14곳 '박빙'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453668?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:25:00 +0900",
+        "title": "[포토] 무상의료운동본부,  의료공공성 파괴  총선 낙선 대상자 발표",
+        "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33560"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+        "title": "'시민건강 위협' 총선 후보 22인 발표…최악은 누구",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278174?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+        "title": "의료계도 총선 낙선운동… 시민 생명과 건강 위협  주장",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=650892"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+        "title": "원희룡·강기윤·윤희숙, 국민 건강에 '최악의 후보'",
+        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220816"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+        "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
+        "link": "http://www.mhj21.com/160256"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:53:00 +0900",
+        "title": "4·10 총선 D-8…시민 생명 위협할 '위험' 국회의원 후보?",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880870?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "[총선기획]서범수  어린이·노인 버스 무료화  이선호  전지역 전기료 절반 감...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
+        "title": "전 군수 vs 현역 의원 '맞대결'…출생지 등 신경전",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525120"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:36:00 +0900",
+        "title": "[울산 총선 대전(6·울주군)] 전 울주군수 vs 현 국회의원 … 도농복합 유권자...",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037271"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "범서읍 천상리 이장협의회,  버스노선개편안 쳘회하고 주민의견 수용하라 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037253"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+        "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:43:00 +0900",
+        "title": "울주군 서범수  획기적 변화·발전  vs 이선호  군민 목소리 귀담을 것 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:16:00 +0900",
+        "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
+        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "울산, 호랑이·토끼 등장한 후보자 선거운동 '눈길'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344917"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+        "title": "온산·온양 관통 지역발전 걸림돌…수송량 급감·유독물질 우려도",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525069"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": " 호랑이처럼 언제든지 달려갑니다 ",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524996"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900",
+        "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:58:00 +0900",
+        "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:35:00 +0900",
+        "title": "국힘  야권에 맞서 법치  vs 민주  파란물결 더 …울산 유세 대결",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448266?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:04:00 +0900",
+        "title": "울산 울주군 총선서 불거진 지역감정 조장 논란",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469825"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+        "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:11:00 +0900",
+        "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600000?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:02:00 +0900",
+        "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 05:45:00 +0900",
+        "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 12:10:00 +0900",
+        "title": " 우리 지역도 비대면  우려 현실로... 총선용 공약 번져",
+        "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310280&REFERER=NP"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:28:00 +0900",
+        "title": "정부·여당, ‘PA 간호사’ 법적 근거 마련…‘간호사법’ 추진",
+        "link": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=57338"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]저마다  지역 발전 적임자  목청 높여",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995548"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 23:31:00 +0900",
+        "title": "울주군 후보들 TV토론 맞대결…양보없는 설전",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691018?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "[4·10 총선 공식선거운동 화보]금배지 도전자들 봄비 내리는 거리 누비며 '민...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344798"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:33:00 +0900",
+        "title": "울주군 총선후보 토론회서 케이블카·인구정책 건건이 충돌",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596785?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:56:00 +0900",
+        "title": "전 군수 대 현 의원..거대 양당 총력전",
+        "link": "http://web.ubc.co.kr/wp/archives/113052"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:42:00 +0900",
+        "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": "울산 국회의원 작년 재산변동 2명 늘고 4명 줄어",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524966"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:02:00 +0900",
+        "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:06:00 +0900",
+        "title": "국민의힘 울산시당 총선 출정식",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037101"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:45:00 +0900",
+        "title": "울주군 TV토론회, 여야 후보 저출산 대책 등 지역 현안 '공방'",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457727?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:12:00 +0900",
+        "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:10:00 +0900",
+        "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
+        "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:02:00 +0900",
+        "title": "울산 국회의원 2023년 평균 재산 24억265만원",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037067"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:45:00 +0900",
+        "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:36:00 +0900",
+        "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
+        "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+        "title": "울산 울주군서 맞붙는 이선호·서범수",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596206?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
+        "title": "국민의힘 서범수(울산 울주군) 후보 '울주군이 고향임 강조'",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995481"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:42:00 +0900",
+        "title": "울주군 국민의힘 서범수  진짜 변화 만들어 내겠다  공식 선거전 돌입 [2024 ...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163413?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:57:00 +0900",
+        "title": "발언하는 서범수 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595381?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:57:00 +0900",
+        "title": "유세하는 서범수 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595376?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:43:00 +0900",
+        "title": "울산 여야 출정식  나라 발전하는 선거 vs 윤 정권 심판하는 선거 [2024 총선...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163258?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:27:00 +0900",
+        "title": "울산서도 총선 유세전 돌입…여야 서로  나라 망치고 있어  네탓 공방",
+        "link": "https://n.news.naver.com/mnews/article/011/0004319941?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:14:00 +0900",
+        "title": "울산 여야, 서로 합동 출정식 열고 총선 레이스 시작",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456405?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:02:00 +0900",
+        "title": "울산 국민의힘 합동 출정식...총선 공식 선거운동  거대야당 심판 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037036"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:13:00 +0900",
+        "title": " 정권 힘 싣자  vs  반헌법 세력 …울산서도 여야 총선 출정식",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595093?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:06:00 +0900",
+        "title": "울산 6개 선거구 총선 후보 주요 3대 공약",
+        "link": "https://n.news.naver.com/mnews/article/658/0000069843?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:48:00 +0900",
+        "title": "국민의힘 울산 총선 후보들  6+1 국민승리  합동 출정식",
+        "link": "https://n.news.naver.com/mnews/article/421/0007442543?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:48:00 +0900",
+        "title": "[사진뉴스]제22대 국회의원선거 공식 선거운동 첫날, 국민의힘 울산시당 합동...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995456"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:45:00 +0900",
+        "title": "국민의힘 울산 후보들 합동출정식",
+        "link": "https://n.news.naver.com/mnews/article/421/0007442530?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 09:00:00 +0900",
+        "title": "[사설] 공동주택 현안 외면하는 국회의원 후보들",
+        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161725"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 07:43:00 +0900",
+        "title": "[총선] KBS울산, 국회의원 후보자 토론회 등 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0011690262?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 06:00:00 +0900",
+        "title": "[총선 D-13] 울산 여야, 합동출정식 열고 본격 선거레이스 돌입",
+        "link": "https://n.news.naver.com/mnews/article/421/0007440952?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]공식 선거운동 시작…13일간 열전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995440"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 23:24:00 +0900",
+        "title": "[총선] KBS울산, 국회의원 후보자 토론회 등 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0011690129?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:41:00 +0900",
+        "title": "오늘부터 13일간 공식선거운동…여야 출정식 필승 결의",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524862"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:40:00 +0900",
+        "title": "[제22대 총선 울산 후보 공약 발표]",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524789"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:38:00 +0900",
+        "title": " 스마트 경로당에서 어르신들 비대면 진료 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344734"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:38:00 +0900",
+        "title": "4·10 총선 공식 선거운동 막 올라",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344752"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 19:50:00 +0900",
+        "title": "국민의힘 서범수 울산 울주군 후보  울주군 비대면·원격 진료 추진 ",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995355"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 19:22:00 +0900",
+        "title": "총선 공식 선거운동 막 올라...울산 출정식, 본격 '선거 레이스'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036980"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 18:12:00 +0900",
+        "title": "[나는 후보자다] 부산 금정구 출마 후보는?",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461170"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:39:00 +0900",
+        "title": "울산 총선 후보들  원격진료   수사청 신설   무상의료  등 공약",
+        "link": "https://n.news.naver.com/mnews/article/003/0012453506?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:00:00 +0900",
+        "title": "서범수  울주군 초진부터 비대면 진료 가능하도록 하겠다 [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005162564?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 11:42:00 +0900",
+        "title": "서범수  울주군 의료격차 해소 위해 원격진료 시대 열 것 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036928"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+        "title": "총선후 첫 울산행 국힘 한동훈,  산업수도 걸맞은 혜택 누려야 ",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995322"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 22:02:00 +0900",
+        "title": "경남 총선후보 공약 키워드는 ‘철도·의대·지역소멸’",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428701"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:56:00 +0900",
+        "title": "울산 온 한동훈, 전통시장 누비며 지지 호소",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344657"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:34:00 +0900",
+        "title": "국힘, 중앙 6석 시당 4석 우세 전망...민주, 동·북구 우세 중구 열세 분류",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524712"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:34:00 +0900",
+        "title": " 산업수도 울산에 걸맞은 혜택 돌려 드릴 것 ",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524729"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:22:00 +0900",
+        "title": "한동훈  산업 주역 울산에 걸 맞는 혜택 돌려드릴 것 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036924"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:48:00 +0900",
+        "title": "한동훈, PK 승부처 돌며 판세 뒤집기 총력… 정말 민생 챙기겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005017363?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:32:00 +0900",
+        "title": "민주당·진보당 동남풍에 놀랐나? 한동훈 부울경 유세 총력",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907343"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:12:00 +0900",
+        "title": "울산 신정시장서 시민들에게 지지 호소하는 한동훈 비상대책위원장",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036905"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:12:00 +0900",
+        "title": "울산 호계시장서 시민들에게 지지 호소하는 한동훈 비상대책위원장",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036904"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:06:00 +0900",
+        "title": "[포토] 손들어 인사하는 서범수 울주군 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/26/2024032600414.html"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:48:00 +0900",
+        "title": "韓  울산, 대한민국 산업 이끈 곳…걸맞은 혜택 드릴 것 ",
+        "link": "https://www.ajunews.com/view/20240326155631372"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:30:00 +0900",
+        "title": "대구 찍고, 또 부산행… ‘보수 표심’ 단속 나선 여",
+        "link": "https://n.news.naver.com/mnews/article/082/0001262213?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "서범수",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2627457
+      },
+      {
+        "연도": 2021,
+        "재산": 3164282
+      },
+      {
+        "연도": 2022,
+        "재산": 3529495
+      },
+      {
+        "연도": 2023,
+        "재산": 3243383
+      }
+    ],
+    "huboid": "100152767",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3105/Hb100152767/junkwa/20240219113957517_1.PDF"
+  }
 ]

@@ -1,1067 +1,1067 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-1.jpg",
-        "id": "2310101-1",
-        "재산": 1225035,
-        "생년월일": "19801128",
-        "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
-        "학력": "성균관대학교 대학원 졸업(정치학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2310101",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:10:00 +0900",
-                "title": "문재인  민주당이 중심, 조국당·새미래 등 야권 힘 모아야 ",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326148?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-                "title": "울산 후보들 총선공약 발표",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995892"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]유력인사들 잇따라 울산 찾아 지원사격",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995896"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:10:00 +0900",
-                "title": "문재인 부·울·경 유세…퇴임 2년 대통령의 선거운동 논란",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351626?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:12:00 +0900",
-                "title": "[사설] 선거에 노골적 개입하는 文, 이런 전직 대통령 있었나",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920622?sid=110"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:09:00 +0900",
-                "title": "선거 전면에 나선 文, 부산 이어 울산서 지원 사격",
-                "link": "https://n.news.naver.com/mnews/article/023/0003826007?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "울산 찾은 文  이렇게 못하는 정부 칠십 평생 처음 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345062"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "'한표라도 더…' 여야 지원유세 총력",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345123"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:12:00 +0900",
-                "title": "문재인 전 대통령, 울산 찾아 본격 선거운동",
-                "link": "https://www.usmbc.co.kr/article/fsFL5nV5xq8sJ0i7WO"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:04:00 +0900",
-                "title": "文 “지금처럼 이렇게 못하는 정부 처음 본다” 직격",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920595?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:02:00 +0900",
-                "title": "여야 주요인사 잇따라 울산 방문 '표밭갈이'",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525228"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:02:00 +0900",
-                "title": "[제22대 울산 총선 후보 공약 발표]",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525218"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:22:00 +0900",
-                "title": "울산 치열한 경합...거대 정당들 총력 지원전",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037383"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:38:00 +0900",
-                "title": "'정권심판론'에 '범죄자 심판' 맞불 국민의힘",
-                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220833"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:38:00 +0900",
-                "title": "문재인 등판에 한동훈  고맙게 생각한다 ",
-                "link": "https://n.news.naver.com/mnews/article/018/0005705490?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:22:00 +0900",
-                "title": " 새로운 인물 국회 진입해야 정치 바뀔 수 있어 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037374"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
-                "title": "文  이렇게 못하는 정부 처음 …韓  나라 망해가던 것 잊었나 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967940?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:48:00 +0900",
-                "title": "문재인, 울산 찾아 '깜짝 유세'…  연고 있는 후보 응원 ",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3125368"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:46:00 +0900",
-                "title": "태화강국가정원 방문한 문재인 전 대통령",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037345"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:45:00 +0900",
-                "title": "울산 온 문재인  이렇게 못하는 정부 처음 … '정권 심판론' 가세(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453982?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:37:00 +0900",
-                "title": "잊히고 싶다던 文... 연이틀 尹정부 향해 맹폭",
-                "link": "https://n.news.naver.com/mnews/article/123/0002331133?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:36:00 +0900",
-                "title": "尹 얼마나 아래로 봤길래…文, 선거유세 다니며 “평생 처음 못하는 정부”",
-                "link": "https://www.ekn.kr/web/view.php?key=20240402021368004"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:32:00 +0900",
-                "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165896?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
-                "title": "문재인, 울산까지 광폭행보,  눈 떠보니 후진국 ",
-                "link": "https://n.news.naver.com/mnews/article/053/0000042610?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:26:00 +0900",
-                "title": "잊혀지겠다던 文…“이렇게 못하는 정부 처음” 강경 발언 왜",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441574?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:16:00 +0900",
-                "title": "울산 찾은 문재인  이번 총선, 대한민국 운명 좌우 ",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469937"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
-                "title": "文  이렇게 못하는 정부 처음 봤다  한동훈  최악은 文정부 ",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351572?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
-                "title": "文 전 대통령  70 평생 이렇게 못하는 정부 처음 ",
-                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84622"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
-                "title": "비판 수위 높이는 文  이렇게 못하는 정부 처음…‘저질 정치’ 전락 ",
-                "link": "https://n.news.naver.com/mnews/article/016/0002289577?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:30:00 +0900",
-                "title": "‘보수 텃밭’ 울산 찾은 文 “이번 총선은 대한민국 운명을 좌우…‘파란 옷...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920493?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:24:00 +0900",
-                "title": "이번엔 한동훈 VS 문재인…“최악의 정부는 文정부” “이렇게 못하는 정부 처...",
-                "link": "https://n.news.naver.com/mnews/article/011/0004322312?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:19:00 +0900",
-                "title": " 70 평생 이렇게 못하는 정부 처음 ···문재인 총선 등판에 엇갈린 시선",
-                "link": "https://n.news.naver.com/mnews/article/008/0005020585?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-                "title": "울산 찾은 文  막말 난무하는 저질의 정치… 선거가 희망 드려야 ",
-                "link": "https://n.news.naver.com/mnews/article/469/0000793915?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:09:00 +0900",
-                "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원[2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165770?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
-                "title": "‘선거 등판’ 문재인, 울산서 尹 향해 “이렇게 못하는 정부는 처음봐”",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021637591260229"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
-                "title": "문재인, 울산서 '민주당 후보' 지원··· 이번 총선, 대한민국 운명 좌우 ",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107624"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
-                "title": "총선 등판 文  尹 정신차리게 해야  vs 韓  당시 나라 망해가 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453755?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:54:00 +0900",
-                "title": "문 전 대통령, 이틀 연속 부울경 총선 지원...“무너진 민생 살려야”",
-                "link": "https://vop.co.kr/A00001650820.html"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:53:00 +0900",
-                "title": "문재인, 울산 찾아 민주당 후보 지원... 눈 떠보니 후진국 ",
-                "link": "https://n.news.naver.com/mnews/article/052/0002018104?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:50:00 +0900",
-                "title": "문재인, 연이틀  칠십 평생 이렇게 못하는 정부 처음 ",
-                "link": "https://n.news.naver.com/mnews/article/277/0005400753?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:48:00 +0900",
-                "title": "'잊혀지고 싶은' 문재인 전 대통령...이틀 연속 유세 현장 등판",
-                "link": "https://www.etoday.co.kr/news/view/2346951"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:44:00 +0900",
-                "title": "울산 찾은 文  민주당 중심 되겠지만 조국혁신당 등 힘 모아야 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003881007?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:40:00 +0900",
-                "title": "文은 조용한 응원이라는데…與  선거 개입 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967770?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:33:00 +0900",
-                "title": "문재인 전 대통령 “이번 총선이 대한민국 운명 좌우”",
-                "link": "https://n.news.naver.com/mnews/article/032/0003288251?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:26:00 +0900",
-                "title": "文 전 대통령, 울산서  이렇게 못하는 정부 처음 …이틀째 성토",
-                "link": "https://www.slist.kr/news/articleView.html?idxno=538191"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
-                "title": "울산 찾은 문재인  대한민국 운명 좌우하는 중요한 선거 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880992?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:22:00 +0900",
-                "title": "오상택  임금 삭감 없는 주 4.5일제 도입, 울산 중구 시범도시 추진 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037305"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
-                "title": "울산 찾은 문재인 전 대통령  이렇게 못하는 정부 처음 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001143871?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:17:00 +0900",
-                "title": "선거전 뛰어든 문재인  칠십 평생, 이렇게 못하는 정부는 처음 ",
-                "link": "https://n.news.naver.com/mnews/article/018/0005705355?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:15:00 +0900",
-                "title": "`잊히고 싶다`던 文, 총선 등판… 野 내부  중도층 이탈 우려 ",
-                "link": "https://n.news.naver.com/mnews/article/029/0002865061?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:11:00 +0900",
-                "title": "울산 찾은 문재인  이번 총선은 대한민국 운명 좌우하는 선거 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466854?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:11:00 +0900",
-                "title": "문재인, 총선 8일 앞두고 PK '광폭 행보'… 이렇게 못하는 정부 처음 ",
-                "link": "https://www.newspim.com/news/view/20240402000842"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-                "title": "임종석·박용진… '컷오프' 비주류의 백의종군",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852751"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-                "title": "文, 울산 오상택·전은수 지원 유세 “민주당 중심, 조국혁신당·새로운미래 ...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002289519?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
-                "title": "文, 현실정치 관여 안 한다더니…공염불 된 ‘잊힌 삶’",
-                "link": "http://www.kukinews.com/newsView/kuk202404020214"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:58:00 +0900",
-                "title": "밝은 표정의 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453524?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
-                "title": "태화강 국가정원 찾은 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/001/0014605704?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
-                "title": "태화강 국가정원 찾은 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/001/0014605705?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
-                "title": "허리굽혀 인사하는 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453518?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
-                "title": "[사진뉴스]문재인 전 대통령 울산방문",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995846"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:55:00 +0900",
-                "title": "문재인 전 대통령, 울산중구 오상택 후보 지원",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453515?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:48:00 +0900",
-                "title": "울산찾은 文 전 대통령  이렇게 못하는 정부 …이틀연속 직격(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014605668?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:43:00 +0900",
-                "title": "'총선 광폭행보' 文… 이렇게 못하는 정부는 처음 본다 ",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870626?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:41:00 +0900",
-                "title": "김연주, 文 향해  퇴임 2년도 안돼 총선 나서는 대통령도 처음 ",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351528?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:35:00 +0900",
-                "title": "문재인  모든 야권이 힘 모아야 할 때 …'청와대 인연' 김태선·오상택 지지",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453427?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:22:00 +0900",
-                "title": "[총선] 문재인, 울산 찾아 “이렇게 못하는 정부 처음…국민에 희망 드려야”",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693617?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:21:00 +0900",
-                "title": "'잊혀지고 싶지만’ 선거 때는 아니다?…文의 선거 개입 [어떻게 생각하십니까...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920439?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
-                "title": "선거 등판한 '문재인'  70 평생 이런 정권 처음 ",
-                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318908"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:08:00 +0900",
-                "title": "울산 방문한 문재인 전 대톨령",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453301?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
-                "title": "文 '尹 무능정부'에 한동훈  文정부 당시 나라 망해가 ",
-                "link": "http://www.gobalnews.com/news/articleView.html?idxno=35482"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
-                "title": "문재인 전 대통령 민주당 후보 응원 위해 2일 울산 방문",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070230?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:52:00 +0900",
-                "title": "문재인 총선 광폭 행보… 후보 지원 유세까지",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447118"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:52:00 +0900",
-                "title": "더불어민주당 오상택(울산 중구) 후보  임금 삭감 없는 주 4.5일제 도입 ",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995842"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:48:00 +0900",
-                "title": "울산 찾은 문재인  막말 난무하는 저질 정치돼  쓴소리(종합)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466462?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:48:00 +0900",
-                "title": "문재인 전 대통령 울산 방문 김태선 오상택 후보 응원 [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165643?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
-                "title": "'울산'에 뜬 문재인 전 대통령  김태선 후보, 민생 살릴 것 ",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428548?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:32:00 +0900",
-                "title": "김연주  퇴임 2년 만에 총선 나서는 대통령 처음 …文 직격",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967694?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:28:00 +0900",
-                "title": "문재인 ‘평생 이렇게 못하는 정부 처음’ 비난에 되받아친 한동훈 “文정부 ...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920415?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
-                "title": "문재인 “이번 총선이 대한민국 운명 좌우”",
-                "link": "https://n.news.naver.com/mnews/article/366/0000982667?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:06:00 +0900",
-                "title": "구름인파 속 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453026?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
-                "title": "文 '칠십 평생' 발언에, 한동훈  집값 폭등하던 文정부 잊었나 ",
-                "link": "https://n.news.naver.com/mnews/article/025/0003351494?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:00:00 +0900",
-                "title": "울산태화강국가정원 온 문재인 전 대통령",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453004?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:00:00 +0900",
-                "title": "울산 방문 문 전 대통령, 오상택 후보와 나란히",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453003?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:59:00 +0900",
-                "title": "'선거 등판' 문재인, 울산서  이번 총선, 대한민국 운명 좌우 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005020384?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:25:00 +0900",
-                "title": "파란색 점퍼 입은 문재인 전 대통령, 김정숙 여사와 울산 찾아 [뉴시스Pic]",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466098?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:13:00 +0900",
-                "title": "파란 점퍼 文, 이번엔 울산에서 “운명 좌우하는 선거…조용히 응원하겠다”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003920393?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:09:00 +0900",
-                "title": "울산중구 오상택  임금 삭감없는 주 4.5일제 도입…변화 필요 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452760?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:02:00 +0900",
-                "title": "문재인 전 대통령 울산 민주당 총선 지원 나서",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037292"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:48:00 +0900",
-                "title": " 잊히고 싶다 던 문재인 전 대통령, 본격 선거지원 나섰다 | 부산-경남-울산 ...",
-                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19437&Newsnumb=20240419437"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:45:00 +0900",
-                "title": "울산 찾은 문재인  운명 좌우하는 선거…민주당 후보 응원 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012465971?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:07:00 +0900",
-                "title": "울산 찾은 문재인  이번 총선은 대한민국 운명 좌우하는 선거 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452725?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:04:00 +0900",
-                "title": "선거 전면 나선 문재인 前 대통령, 오늘은 울산서 후보 지원 유세",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78917"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:56:00 +0900",
-                "title": "이재명이 못 나오면 文이 나선다",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307419"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:49:00 +0900",
-                "title": "‘잊히고 싶다’ 던 문재인, 광폭행보… 여권 “민주, 4톱 선대위냐”",
-                "link": "https://n.news.naver.com/mnews/article/021/0002629932?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:32:00 +0900",
-                "title": "문재인 전 대통령도 총선 정권심판론 행보",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070520?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
-                "title": "文, 울산 찾아 민주당 지원 유세… '정권 심판론' 힘 보태",
-                "link": "https://n.news.naver.com/mnews/article/417/0000993551?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:16:00 +0900",
-                "title": "선거 전면 나선 文… 칠십 평생 이렇게 못하는 정부는 처음 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967623?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:33:00 +0900",
-                "title": "문재인 총선 '광폭행보'…울산서 후보 지원 유세",
-                "link": "https://n.news.naver.com/mnews/article/057/0001809683?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:04:00 +0900",
-                "title": "文, 2일 울산까지 가 민주당 후보들 지원사격",
-                "link": "http://www.viewsnnews.com/article?q=218859"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "오상택",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1225035
-            }
-        ],
-        "huboid": "100151512",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100151512/junkwa/20231215161433014_1.PDF"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-2.jpg",
-        "id": "2310101-2",
-        "재산": 1180741,
-        "생년월일": "19590419",
-        "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
-        "학력": "울산대학교 정책대학원 졸업(행정학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1089",
-        "regionId": "2310101",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-                "title": "[경상시론]법조인 출마자와 과거의 변호 활동",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995851"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "울산 혁신도시공공노조 대표자협의회  박성민 후보 지지 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345058"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "[총선기획]울산 후보 1호 공약 뜯어보기 - (1) 국민의힘",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345063"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:54:00 +0900",
-                "title": "'화마' 만난 충남 홍성 서부면, 희망의 나무 심는다",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559086"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
-                "title": "홍성·예산 강승규, 양승조 후보 '무고 혐의' 맞고소",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559065"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:58:00 +0900",
-                "title": "선거 해설하는 AI…총선 앞둔 지상파 이색 방송 예고",
-                "link": "http://www.kukinews.com/newsView/kuk202404020137"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
-                "title": "[정치쇼] 박성민  尹 대국민 담화, 기름을 붓고 갔다 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001143738?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:38:00 +0900",
-                "title": "'尹 의료개혁 대국민 담화'  대화 물꼬 마련  vs  돌림노래 ",
-                "link": "https://n.news.naver.com/mnews/article/123/0002331040?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:33:00 +0900",
-                "title": "정광재  경합지역 민주당 후보들, 양문석 정리 원할 것  [한판승부]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880691?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:03:00 +0900",
-                "title": "박성민  尹 담화? 국힘은 소방수 원했겠지만 결과는 방화  [한판승부]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:12:00 +0900",
-                "title": "울산 후보들 총선 공약발표",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995792"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": " 울산 초등생, 75세 이상 시내버스 요금 무료화 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344971"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-                "title": "[제22대 울산 총선 후보 공약 발표]",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525126"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:00:00 +0900",
-                "title": "지역 현안 물었다..중구 후보들의 답변은?",
-                "link": "http://web.ubc.co.kr/wp/archives/113103"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:04:00 +0900",
-                "title": "국민의힘 박성민(울산 중구) 후보  초등학생·75세 이상 시내버스 이용요금 무...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995751"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-                "title": "박성민  울산 중구 초등생, 75세 이상 버스요금 무료화  공약",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037262"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-                "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:10:00 +0900",
-                "title": "[4.10총선-196] 울산 중구, 오상택vs박성민. 승리보단 정권심판",
-                "link": "http://www.mhj21.com/160244"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:21:00 +0900",
-                "title": "울산중구 박성민  초등생·75세 이상 버스료 무료…조부모 돌봄수당 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450910?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:41:00 +0900",
-                "title": "울산중구 박성민  입화산 휴양림  vs 오상택  변화 매진 … 다운시장 유세",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450720?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
-                "title": "국힘 울산 중구 박성민  초등·75세이상 시내버스 무료 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463927?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:25:00 +0900",
-                "title": "잠잠하던 국민의힘 박성민 삼청교육대 입소 논란 재점화 [2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005164999?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
-                "title": "양승조 홍성·예산 국회의원 후보, 강승규 후보 고발",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558646"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:44:00 +0900",
-                "title": "MBC, 유시민‧김진 등 선거방송 무게감 더하는 패널 공개",
-                "link": "http://journal.kobeta.com/?post_type=post&p=55062"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:16:00 +0900",
-                "title": "[인터뷰] 강승규 홍성·예산 국회의원 후보  지역소멸 위기 타개 ",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558618"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:13:00 +0900",
-                "title": "‘선택 2024’ 유시민→김대호, 선거 방송 무게감 더한다",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281244?sid=106"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:25:00 +0900",
-                "title": "유시민·김진→김대호…MBC, '선택 2024'무게감 더하는 출연진 공개",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815568?sid=106"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
-                "title": "“국민 건강권 보호 위해 잘못된 정책에 선제적 대처”",
-                "link": "http://www.whosaeng.com/151220"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:52:00 +0900",
-                "title": "유시민·김진→김대호...총선 앞둔 MBC, '선택2024' 역량 총동원",
-                "link": "https://www.slist.kr/news/articleView.html?idxno=537704"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:50:00 +0900",
-                "title": "MBC '선택 2024' 토론패널부터유시민·김진·박성민·윤희석‥데이터 중심의 ...",
-                "link": "https://n.news.naver.com/mnews/article/408/0000219240?sid=106"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 23:30:00 +0900",
-                "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
-                "title": "대구시의사회, 김석준 의장 선출·민복기 회장 취임",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436740"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:30:00 +0900",
-                "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:22:00 +0900",
-                "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:02:00 +0900",
-                "title": "제22대 총선 첫 주말유세 펼치는 선거차량들",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037177"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 16:36:00 +0900",
-                "title": "(27) 국민의힘, ‘승리’ 보다는 ‘참패를 면하는 것’이 목표",
-                "link": "https://www.lawtimes.co.kr/opinion/197178"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
-                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:02:00 +0900",
-                "title": "‘총선 후 유학설’ 일축한 한동훈… 당권·대권 도전 암시?",
-                "link": "https://n.news.naver.com/mnews/article/037/0000034183?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
-                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
-                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
-                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 16:02:00 +0900",
-                "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 05:45:00 +0900",
-                "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 21:19:00 +0900",
-                "title": "여성이 세 번 사라졌다… ‘심판론’ 뒤에서 벌어지는 일",
-                "link": "https://n.news.naver.com/mnews/article/036/0000049627?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:33:00 +0900",
-                "title": "여당 ‘100석 붕괴’ 조짐…정권심판 태풍에 PK도 요동 [논썰]",
-                "link": "https://n.news.naver.com/mnews/article/028/0002683170?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 19:35:00 +0900",
-                "title": "공식 선거운동 둘째 날…'울산 정치 1번지' 중구의 선택은",
-                "link": "https://n.news.naver.com/mnews/article/421/0007446248?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
-                "title": "22대 총선 국민의힘·민주당 후보 범죄이력…③벌금 100만원 미만",
-                "link": "https://www.kpinews.kr/newsView/1065589147970335"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:22:00 +0900",
-                "title": "대구시의사회, 김석준 의장 선출-민복기 회장 취임",
-                "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2219659"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:42:00 +0900",
-                "title": "조국혁신당 비례 1번 박은정 후보 남편 '다단계' 변호 논란… 전관예우 아니지...",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142898?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:37:00 +0900",
-                "title": "'아빠 찬스' 부동산 투기 의혹…공영운·양문석 후보  송구, 의혹은 부인 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142896?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:30:00 +0900",
-                "title": "이재명, 경찰 '불공정 대처' 표현하며  난리 뽕짝 …배현진  제 이름 거론, 정...",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142894?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:27:00 +0900",
-                "title": "한동훈, 공식 선거운동 첫날 과격 발언…중도층엔 어떤 영향?",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142891?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:26:00 +0900",
-                "title": "'총선 D-12' 이종섭 호주대사 사의 표명…외교부  대통령 보고 뒤 사의 수용 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142890?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:38:00 +0900",
-                "title": "대구시의사회, 제15대 회장 민복기 집행부 출범",
-                "link": "http://www.bokuennews.com/news/article.html?no=242051"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:06:00 +0900",
-                "title": "총선 2주 전 연달아 대형공약…퍼지는 피로감",
-                "link": "https://www.naeil.com/news/read/505967?ref=naver"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:53:00 +0900",
-                "title": "당에 '말조심' 당부한 한동훈의 급발진",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428007?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:24:00 +0900",
-                "title": "대구시의사회  의대정원 증원 정책 강력 규탄 ",
-                "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154073"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 08:06:00 +0900",
-                "title": "양심을 찌른 사건, 그들에게 채수근은 2등 시민이었다: 슬로우레터 3월29일.",
-                "link": "https://slownews.kr/106176"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 06:04:00 +0900",
-                "title": "대구시의사회 민복기 회장ㆍ김석준 의장 출범  단합만이 살 길 ",
-                "link": "http://www.newsmp.com/news/articleView.html?idxno=240090"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
-                "title": " 2찍   개같이  이런 거친 말만큼 무섭다, 총선 막판 변수 넷 [총선 D-12]",
-                "link": "https://n.news.naver.com/mnews/article/025/0003350727?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 03:04:00 +0900",
-                "title": "[박성민의 정치 포커스] 대통령 탄핵까지 주장하는데 왜 역풍 안 부나",
-                "link": "https://n.news.naver.com/mnews/article/023/0003825123?sid=103"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
-                "title": "[4·10 울산의 선택]후보들 주요 길목에서 열정적인 지지 호소",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995544"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:04:00 +0900",
-                "title": "국민의힘 박성민 후보, 총선 출정식  제가 중구 미래 책임질 적임자 ",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469673"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 23:12:00 +0900",
-                "title": "[총선] 국힘 박성민, 공직선거법 위반으로 오상택 고발",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691029?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "박성민 선대위, 민주당 오상택 후보 고발",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344800"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": "[4·10 총선 공식선거운동 화보]금배지 도전자들 봄비 내리는 거리 누비며 '민...",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344798"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
-                "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:42:00 +0900",
-                "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": "울산 국회의원 작년 재산변동 2명 늘고 4명 줄어",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524966"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
-                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:02:00 +0900",
-                "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:12:00 +0900",
-                "title": "양승조 홍성·예산 후보  5선 국회의원 힘으로 현안 신속 해결 ",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558095"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:06:00 +0900",
-                "title": "국민의힘 울산시당 총선 출정식",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037101"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:00:00 +0900",
-                "title": "국힘 울산 중구 박성민 선대위, 민주당 오상택 후보 고발",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879388?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:36:00 +0900",
-                "title": "“문제는 투표율”… 尹 집권 동력, 이재명·조국 정치 명운 달렸다",
-                "link": "https://n.news.naver.com/mnews/article/022/0003919014?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:12:00 +0900",
-                "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:10:00 +0900",
-                "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
-                "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:02:00 +0900",
-                "title": "울산 국회의원 2023년 평균 재산 24억265만원",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037067"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:04:00 +0900",
-                "title": "충남도, 11만여 명 생명 구한 구급차 17대 라오스에 출하",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558047"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:45:00 +0900",
-                "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:33:00 +0900",
-                "title": "울산 중구에서 맞붙는 오상택·박성민",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596203?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:24:00 +0900",
-                "title": "강승규 홍성·예산 후보, 집권여당 프리미엄 앞세워 '표심' 공략",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558032"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:22:00 +0900",
-                "title": "울산 중구 국민의힘 박성민  허위사실 유포  민주당 오상택 고발",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037042"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:03:00 +0900",
-                "title": "국힘 울산 중구 박성민 측  민주당 후보, 허위 사실 유포  고발",
-                "link": "https://n.news.naver.com/mnews/article/003/0012457248?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:02:00 +0900",
-                "title": "국힘 울산 중구 박성민  민주 오상택 '공선법 위반' 고발 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007443649?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:32:00 +0900",
-                "title": "4.10총선 투표율 최대 관전포인트로 대두, 21대 66.2% 넘어서 '야당 압승' 현...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347210"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:30:00 +0900",
-                "title": "국민의힘 박성민(울산 중구) 후보  더 낮은 자세로 중구민과 함께 하겠다 ",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995472"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:53:00 +0900",
-                "title": "[뉴스외전 정치 맞수다] 국회 세종시 이전,  뭐하다가 이제 와서? 선거용 뒷북...",
-                "link": "https://n.news.naver.com/mnews/article/214/0001339286?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:00:00 +0900",
-                "title": "국힘 울산 중구 박성민  재선 의원 되면 중구 발전 책임지겠다 ",
-                "link": "https://n.news.naver.com/mnews/article/421/0007442973?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:57:00 +0900",
-                "title": "발언하는 박성민 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595377?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:56:00 +0900",
-                "title": "발언하는 박성민 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014595373?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": " 2번 선택  외치는 강승규 유세단",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557915"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": "지지 호소하는 강승규 홍성·예산 후보",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557921"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": "대화 나누는 강승규 홍성·예산 후보와 배우자",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557916"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": "표심 공략 나선 강승규 홍성·예산 후보",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557911"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
-                "title": "강승규 홍성·예산 후보  2번 선택 ",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557918"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박성민",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 890741
-            },
-            {
-                "연도": 2021,
-                "재산": 911873
-            },
-            {
-                "연도": 2022,
-                "재산": 880255
-            },
-            {
-                "연도": 2023,
-                "재산": 1180741
-            }
-        ],
-        "huboid": "100152554",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100152554/junkwa/20240205113723979_1.PDF"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-1.jpg",
+    "id": "2310101-1",
+    "재산": 1225035,
+    "생년월일": "19801128",
+    "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
+    "학력": "성균관대학교 대학원 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:10:00 +0900",
+        "title": "문재인  민주당이 중심, 조국당·새미래 등 야권 힘 모아야 ",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326148?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+        "title": "울산 후보들 총선공약 발표",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995892"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]유력인사들 잇따라 울산 찾아 지원사격",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995896"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:10:00 +0900",
+        "title": "문재인 부·울·경 유세…퇴임 2년 대통령의 선거운동 논란",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351626?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:12:00 +0900",
+        "title": "[사설] 선거에 노골적 개입하는 文, 이런 전직 대통령 있었나",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920622?sid=110"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:09:00 +0900",
+        "title": "선거 전면에 나선 文, 부산 이어 울산서 지원 사격",
+        "link": "https://n.news.naver.com/mnews/article/023/0003826007?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "울산 찾은 文  이렇게 못하는 정부 칠십 평생 처음 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345062"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "'한표라도 더…' 여야 지원유세 총력",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345123"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:12:00 +0900",
+        "title": "문재인 전 대통령, 울산 찾아 본격 선거운동",
+        "link": "https://www.usmbc.co.kr/article/fsFL5nV5xq8sJ0i7WO"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:04:00 +0900",
+        "title": "文 “지금처럼 이렇게 못하는 정부 처음 본다” 직격",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920595?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:02:00 +0900",
+        "title": "여야 주요인사 잇따라 울산 방문 '표밭갈이'",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525228"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:02:00 +0900",
+        "title": "[제22대 울산 총선 후보 공약 발표]",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525218"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:22:00 +0900",
+        "title": "울산 치열한 경합...거대 정당들 총력 지원전",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037383"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:38:00 +0900",
+        "title": "'정권심판론'에 '범죄자 심판' 맞불 국민의힘",
+        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220833"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:38:00 +0900",
+        "title": "문재인 등판에 한동훈  고맙게 생각한다 ",
+        "link": "https://n.news.naver.com/mnews/article/018/0005705490?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:22:00 +0900",
+        "title": " 새로운 인물 국회 진입해야 정치 바뀔 수 있어 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037374"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+        "title": "文  이렇게 못하는 정부 처음 …韓  나라 망해가던 것 잊었나 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967940?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:48:00 +0900",
+        "title": "문재인, 울산 찾아 '깜짝 유세'…  연고 있는 후보 응원 ",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3125368"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:46:00 +0900",
+        "title": "태화강국가정원 방문한 문재인 전 대통령",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037345"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:45:00 +0900",
+        "title": "울산 온 문재인  이렇게 못하는 정부 처음 … '정권 심판론' 가세(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453982?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:37:00 +0900",
+        "title": "잊히고 싶다던 文... 연이틀 尹정부 향해 맹폭",
+        "link": "https://n.news.naver.com/mnews/article/123/0002331133?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:36:00 +0900",
+        "title": "尹 얼마나 아래로 봤길래…文, 선거유세 다니며 “평생 처음 못하는 정부”",
+        "link": "https://www.ekn.kr/web/view.php?key=20240402021368004"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:32:00 +0900",
+        "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165896?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+        "title": "문재인, 울산까지 광폭행보,  눈 떠보니 후진국 ",
+        "link": "https://n.news.naver.com/mnews/article/053/0000042610?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:26:00 +0900",
+        "title": "잊혀지겠다던 文…“이렇게 못하는 정부 처음” 강경 발언 왜",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441574?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:16:00 +0900",
+        "title": "울산 찾은 문재인  이번 총선, 대한민국 운명 좌우 ",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469937"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+        "title": "文  이렇게 못하는 정부 처음 봤다  한동훈  최악은 文정부 ",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351572?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+        "title": "文 전 대통령  70 평생 이렇게 못하는 정부 처음 ",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84622"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+        "title": "비판 수위 높이는 文  이렇게 못하는 정부 처음…‘저질 정치’ 전락 ",
+        "link": "https://n.news.naver.com/mnews/article/016/0002289577?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:30:00 +0900",
+        "title": "‘보수 텃밭’ 울산 찾은 文 “이번 총선은 대한민국 운명을 좌우…‘파란 옷...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920493?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:24:00 +0900",
+        "title": "이번엔 한동훈 VS 문재인…“최악의 정부는 文정부” “이렇게 못하는 정부 처...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004322312?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:19:00 +0900",
+        "title": " 70 평생 이렇게 못하는 정부 처음 ···문재인 총선 등판에 엇갈린 시선",
+        "link": "https://n.news.naver.com/mnews/article/008/0005020585?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+        "title": "울산 찾은 文  막말 난무하는 저질의 정치… 선거가 희망 드려야 ",
+        "link": "https://n.news.naver.com/mnews/article/469/0000793915?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:09:00 +0900",
+        "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원[2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165770?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+        "title": "‘선거 등판’ 문재인, 울산서 尹 향해 “이렇게 못하는 정부는 처음봐”",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021637591260229"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+        "title": "문재인, 울산서 '민주당 후보' 지원··· 이번 총선, 대한민국 운명 좌우 ",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107624"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+        "title": "총선 등판 文  尹 정신차리게 해야  vs 韓  당시 나라 망해가 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453755?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:54:00 +0900",
+        "title": "문 전 대통령, 이틀 연속 부울경 총선 지원...“무너진 민생 살려야”",
+        "link": "https://vop.co.kr/A00001650820.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:53:00 +0900",
+        "title": "문재인, 울산 찾아 민주당 후보 지원... 눈 떠보니 후진국 ",
+        "link": "https://n.news.naver.com/mnews/article/052/0002018104?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:50:00 +0900",
+        "title": "문재인, 연이틀  칠십 평생 이렇게 못하는 정부 처음 ",
+        "link": "https://n.news.naver.com/mnews/article/277/0005400753?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:48:00 +0900",
+        "title": "'잊혀지고 싶은' 문재인 전 대통령...이틀 연속 유세 현장 등판",
+        "link": "https://www.etoday.co.kr/news/view/2346951"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:44:00 +0900",
+        "title": "울산 찾은 文  민주당 중심 되겠지만 조국혁신당 등 힘 모아야 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881007?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:40:00 +0900",
+        "title": "文은 조용한 응원이라는데…與  선거 개입 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967770?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:33:00 +0900",
+        "title": "문재인 전 대통령 “이번 총선이 대한민국 운명 좌우”",
+        "link": "https://n.news.naver.com/mnews/article/032/0003288251?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:26:00 +0900",
+        "title": "文 전 대통령, 울산서  이렇게 못하는 정부 처음 …이틀째 성토",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=538191"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+        "title": "울산 찾은 문재인  대한민국 운명 좌우하는 중요한 선거 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880992?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:22:00 +0900",
+        "title": "오상택  임금 삭감 없는 주 4.5일제 도입, 울산 중구 시범도시 추진 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037305"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+        "title": "울산 찾은 문재인 전 대통령  이렇게 못하는 정부 처음 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001143871?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:17:00 +0900",
+        "title": "선거전 뛰어든 문재인  칠십 평생, 이렇게 못하는 정부는 처음 ",
+        "link": "https://n.news.naver.com/mnews/article/018/0005705355?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:15:00 +0900",
+        "title": "`잊히고 싶다`던 文, 총선 등판… 野 내부  중도층 이탈 우려 ",
+        "link": "https://n.news.naver.com/mnews/article/029/0002865061?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:11:00 +0900",
+        "title": "울산 찾은 문재인  이번 총선은 대한민국 운명 좌우하는 선거 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466854?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:11:00 +0900",
+        "title": "문재인, 총선 8일 앞두고 PK '광폭 행보'… 이렇게 못하는 정부 처음 ",
+        "link": "https://www.newspim.com/news/view/20240402000842"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+        "title": "임종석·박용진… '컷오프' 비주류의 백의종군",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852751"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+        "title": "文, 울산 오상택·전은수 지원 유세 “민주당 중심, 조국혁신당·새로운미래 ...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002289519?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+        "title": "文, 현실정치 관여 안 한다더니…공염불 된 ‘잊힌 삶’",
+        "link": "http://www.kukinews.com/newsView/kuk202404020214"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:58:00 +0900",
+        "title": "밝은 표정의 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453524?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+        "title": "태화강 국가정원 찾은 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/001/0014605704?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+        "title": "태화강 국가정원 찾은 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/001/0014605705?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+        "title": "허리굽혀 인사하는 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453518?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+        "title": "[사진뉴스]문재인 전 대통령 울산방문",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995846"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:55:00 +0900",
+        "title": "문재인 전 대통령, 울산중구 오상택 후보 지원",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453515?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:48:00 +0900",
+        "title": "울산찾은 文 전 대통령  이렇게 못하는 정부 …이틀연속 직격(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014605668?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:43:00 +0900",
+        "title": "'총선 광폭행보' 文… 이렇게 못하는 정부는 처음 본다 ",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870626?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:41:00 +0900",
+        "title": "김연주, 文 향해  퇴임 2년도 안돼 총선 나서는 대통령도 처음 ",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351528?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:35:00 +0900",
+        "title": "문재인  모든 야권이 힘 모아야 할 때 …'청와대 인연' 김태선·오상택 지지",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453427?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:22:00 +0900",
+        "title": "[총선] 문재인, 울산 찾아 “이렇게 못하는 정부 처음…국민에 희망 드려야”",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693617?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:21:00 +0900",
+        "title": "'잊혀지고 싶지만’ 선거 때는 아니다?…文의 선거 개입 [어떻게 생각하십니까...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920439?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+        "title": "선거 등판한 '문재인'  70 평생 이런 정권 처음 ",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318908"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:08:00 +0900",
+        "title": "울산 방문한 문재인 전 대톨령",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453301?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+        "title": "文 '尹 무능정부'에 한동훈  文정부 당시 나라 망해가 ",
+        "link": "http://www.gobalnews.com/news/articleView.html?idxno=35482"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+        "title": "문재인 전 대통령 민주당 후보 응원 위해 2일 울산 방문",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070230?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:52:00 +0900",
+        "title": "문재인 총선 광폭 행보… 후보 지원 유세까지",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447118"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:52:00 +0900",
+        "title": "더불어민주당 오상택(울산 중구) 후보  임금 삭감 없는 주 4.5일제 도입 ",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995842"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:48:00 +0900",
+        "title": "울산 찾은 문재인  막말 난무하는 저질 정치돼  쓴소리(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466462?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:48:00 +0900",
+        "title": "문재인 전 대통령 울산 방문 김태선 오상택 후보 응원 [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165643?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+        "title": "'울산'에 뜬 문재인 전 대통령  김태선 후보, 민생 살릴 것 ",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428548?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:32:00 +0900",
+        "title": "김연주  퇴임 2년 만에 총선 나서는 대통령 처음 …文 직격",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967694?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:28:00 +0900",
+        "title": "문재인 ‘평생 이렇게 못하는 정부 처음’ 비난에 되받아친 한동훈 “文정부 ...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920415?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+        "title": "문재인 “이번 총선이 대한민국 운명 좌우”",
+        "link": "https://n.news.naver.com/mnews/article/366/0000982667?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:06:00 +0900",
+        "title": "구름인파 속 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453026?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+        "title": "文 '칠십 평생' 발언에, 한동훈  집값 폭등하던 文정부 잊었나 ",
+        "link": "https://n.news.naver.com/mnews/article/025/0003351494?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:00:00 +0900",
+        "title": "울산태화강국가정원 온 문재인 전 대통령",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453004?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:00:00 +0900",
+        "title": "울산 방문 문 전 대통령, 오상택 후보와 나란히",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453003?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:59:00 +0900",
+        "title": "'선거 등판' 문재인, 울산서  이번 총선, 대한민국 운명 좌우 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005020384?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:25:00 +0900",
+        "title": "파란색 점퍼 입은 문재인 전 대통령, 김정숙 여사와 울산 찾아 [뉴시스Pic]",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466098?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:13:00 +0900",
+        "title": "파란 점퍼 文, 이번엔 울산에서 “운명 좌우하는 선거…조용히 응원하겠다”",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920393?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:09:00 +0900",
+        "title": "울산중구 오상택  임금 삭감없는 주 4.5일제 도입…변화 필요 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452760?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:02:00 +0900",
+        "title": "문재인 전 대통령 울산 민주당 총선 지원 나서",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037292"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:48:00 +0900",
+        "title": " 잊히고 싶다 던 문재인 전 대통령, 본격 선거지원 나섰다 | 부산-경남-울산 ...",
+        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19437&Newsnumb=20240419437"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:45:00 +0900",
+        "title": "울산 찾은 문재인  운명 좌우하는 선거…민주당 후보 응원 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012465971?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:07:00 +0900",
+        "title": "울산 찾은 문재인  이번 총선은 대한민국 운명 좌우하는 선거 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452725?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:04:00 +0900",
+        "title": "선거 전면 나선 문재인 前 대통령, 오늘은 울산서 후보 지원 유세",
+        "link": "http://www.pennmike.com/news/articleView.html?idxno=78917"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:56:00 +0900",
+        "title": "이재명이 못 나오면 文이 나선다",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307419"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:49:00 +0900",
+        "title": "‘잊히고 싶다’ 던 문재인, 광폭행보… 여권 “민주, 4톱 선대위냐”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002629932?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:32:00 +0900",
+        "title": "문재인 전 대통령도 총선 정권심판론 행보",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070520?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+        "title": "文, 울산 찾아 민주당 지원 유세… '정권 심판론' 힘 보태",
+        "link": "https://n.news.naver.com/mnews/article/417/0000993551?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:16:00 +0900",
+        "title": "선거 전면 나선 文… 칠십 평생 이렇게 못하는 정부는 처음 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967623?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:33:00 +0900",
+        "title": "문재인 총선 '광폭행보'…울산서 후보 지원 유세",
+        "link": "https://n.news.naver.com/mnews/article/057/0001809683?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:04:00 +0900",
+        "title": "文, 2일 울산까지 가 민주당 후보들 지원사격",
+        "link": "http://www.viewsnnews.com/article?q=218859"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오상택",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1225035
+      }
+    ],
+    "huboid": "100151512",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100151512/junkwa/20231215161433014_1.PDF"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-2.jpg",
+    "id": "2310101-2",
+    "재산": 1180741,
+    "생년월일": "19590419",
+    "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
+    "학력": "울산대학교 정책대학원 졸업(행정학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1089",
+    "regionId": "2310101",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+        "title": "[경상시론]법조인 출마자와 과거의 변호 활동",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995851"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "울산 혁신도시공공노조 대표자협의회  박성민 후보 지지 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345058"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "[총선기획]울산 후보 1호 공약 뜯어보기 - (1) 국민의힘",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345063"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:54:00 +0900",
+        "title": "'화마' 만난 충남 홍성 서부면, 희망의 나무 심는다",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559086"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+        "title": "홍성·예산 강승규, 양승조 후보 '무고 혐의' 맞고소",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559065"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:58:00 +0900",
+        "title": "선거 해설하는 AI…총선 앞둔 지상파 이색 방송 예고",
+        "link": "http://www.kukinews.com/newsView/kuk202404020137"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+        "title": "[정치쇼] 박성민  尹 대국민 담화, 기름을 붓고 갔다 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001143738?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:38:00 +0900",
+        "title": "'尹 의료개혁 대국민 담화'  대화 물꼬 마련  vs  돌림노래 ",
+        "link": "https://n.news.naver.com/mnews/article/123/0002331040?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:33:00 +0900",
+        "title": "정광재  경합지역 민주당 후보들, 양문석 정리 원할 것  [한판승부]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880691?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:03:00 +0900",
+        "title": "박성민  尹 담화? 국힘은 소방수 원했겠지만 결과는 방화  [한판승부]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:12:00 +0900",
+        "title": "울산 후보들 총선 공약발표",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995792"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": " 울산 초등생, 75세 이상 시내버스 요금 무료화 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344971"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
+        "title": "[제22대 울산 총선 후보 공약 발표]",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525126"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:00:00 +0900",
+        "title": "지역 현안 물었다..중구 후보들의 답변은?",
+        "link": "http://web.ubc.co.kr/wp/archives/113103"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:04:00 +0900",
+        "title": "국민의힘 박성민(울산 중구) 후보  초등학생·75세 이상 시내버스 이용요금 무...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995751"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+        "title": "박성민  울산 중구 초등생, 75세 이상 버스요금 무료화  공약",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037262"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+        "title": "총선 9일 앞으로…울산 여야 후보 유세 각축전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451339?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:10:00 +0900",
+        "title": "[4.10총선-196] 울산 중구, 오상택vs박성민. 승리보단 정권심판",
+        "link": "http://www.mhj21.com/160244"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:21:00 +0900",
+        "title": "울산중구 박성민  초등생·75세 이상 버스료 무료…조부모 돌봄수당 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450910?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:41:00 +0900",
+        "title": "울산중구 박성민  입화산 휴양림  vs 오상택  변화 매진 … 다운시장 유세",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450720?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+        "title": "국힘 울산 중구 박성민  초등·75세이상 시내버스 무료 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463927?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:25:00 +0900",
+        "title": "잠잠하던 국민의힘 박성민 삼청교육대 입소 논란 재점화 [2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005164999?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+        "title": "양승조 홍성·예산 국회의원 후보, 강승규 후보 고발",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558646"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:44:00 +0900",
+        "title": "MBC, 유시민‧김진 등 선거방송 무게감 더하는 패널 공개",
+        "link": "http://journal.kobeta.com/?post_type=post&p=55062"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:16:00 +0900",
+        "title": "[인터뷰] 강승규 홍성·예산 국회의원 후보  지역소멸 위기 타개 ",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558618"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:13:00 +0900",
+        "title": "‘선택 2024’ 유시민→김대호, 선거 방송 무게감 더한다",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281244?sid=106"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:25:00 +0900",
+        "title": "유시민·김진→김대호…MBC, '선택 2024'무게감 더하는 출연진 공개",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815568?sid=106"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+        "title": "“국민 건강권 보호 위해 잘못된 정책에 선제적 대처”",
+        "link": "http://www.whosaeng.com/151220"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:52:00 +0900",
+        "title": "유시민·김진→김대호...총선 앞둔 MBC, '선택2024' 역량 총동원",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=537704"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:50:00 +0900",
+        "title": "MBC '선택 2024' 토론패널부터유시민·김진·박성민·윤희석‥데이터 중심의 ...",
+        "link": "https://n.news.naver.com/mnews/article/408/0000219240?sid=106"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]여야 공식선거운동 첫 주말 '주도권 잡기' 총력전",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995706"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 23:30:00 +0900",
+        "title": "총선 열흘 앞으로… 울산 여야 후보들 '주말 대회전'",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344936"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+        "title": "대구시의사회, 김석준 의장 선출·민복기 회장 취임",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436740"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:30:00 +0900",
+        "title": "시장으로 거점으로…불꽃튀는 표심전쟁",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525028"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:22:00 +0900",
+        "title": "울산 총선 첫 주말 대회전...민주당 '협동공격', 국민의힘 '각개전투'",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037211"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:02:00 +0900",
+        "title": "제22대 총선 첫 주말유세 펼치는 선거차량들",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037177"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:36:00 +0900",
+        "title": "(27) 국민의힘, ‘승리’ 보다는 ‘참패를 면하는 것’이 목표",
+        "link": "https://www.lawtimes.co.kr/opinion/197178"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:02:00 +0900",
+        "title": "‘총선 후 유학설’ 일축한 한동훈… 당권·대권 도전 암시?",
+        "link": "https://n.news.naver.com/mnews/article/037/0000034183?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+        "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+        "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:02:00 +0900",
+        "title": "근거없이 상대 공격하다 후폭풍…선거초반 스텝꼬인 울산 민주당 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446829?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 05:45:00 +0900",
+        "title": "선거운동 첫 주말…울산 여야 후보들, 유세 동분서주",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460082?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 21:19:00 +0900",
+        "title": "여성이 세 번 사라졌다… ‘심판론’ 뒤에서 벌어지는 일",
+        "link": "https://n.news.naver.com/mnews/article/036/0000049627?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:33:00 +0900",
+        "title": "여당 ‘100석 붕괴’ 조짐…정권심판 태풍에 PK도 요동 [논썰]",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683170?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:35:00 +0900",
+        "title": "공식 선거운동 둘째 날…'울산 정치 1번지' 중구의 선택은",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446248?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+        "title": "22대 총선 국민의힘·민주당 후보 범죄이력…③벌금 100만원 미만",
+        "link": "https://www.kpinews.kr/newsView/1065589147970335"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:22:00 +0900",
+        "title": "대구시의사회, 김석준 의장 선출-민복기 회장 취임",
+        "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2219659"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:42:00 +0900",
+        "title": "조국혁신당 비례 1번 박은정 후보 남편 '다단계' 변호 논란… 전관예우 아니지...",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142898?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:37:00 +0900",
+        "title": "'아빠 찬스' 부동산 투기 의혹…공영운·양문석 후보  송구, 의혹은 부인 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142896?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:30:00 +0900",
+        "title": "이재명, 경찰 '불공정 대처' 표현하며  난리 뽕짝 …배현진  제 이름 거론, 정...",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142894?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:27:00 +0900",
+        "title": "한동훈, 공식 선거운동 첫날 과격 발언…중도층엔 어떤 영향?",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142891?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:26:00 +0900",
+        "title": "'총선 D-12' 이종섭 호주대사 사의 표명…외교부  대통령 보고 뒤 사의 수용 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142890?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:38:00 +0900",
+        "title": "대구시의사회, 제15대 회장 민복기 집행부 출범",
+        "link": "http://www.bokuennews.com/news/article.html?no=242051"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:06:00 +0900",
+        "title": "총선 2주 전 연달아 대형공약…퍼지는 피로감",
+        "link": "https://www.naeil.com/news/read/505967?ref=naver"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:53:00 +0900",
+        "title": "당에 '말조심' 당부한 한동훈의 급발진",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428007?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:24:00 +0900",
+        "title": "대구시의사회  의대정원 증원 정책 강력 규탄 ",
+        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154073"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 08:06:00 +0900",
+        "title": "양심을 찌른 사건, 그들에게 채수근은 2등 시민이었다: 슬로우레터 3월29일.",
+        "link": "https://slownews.kr/106176"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 06:04:00 +0900",
+        "title": "대구시의사회 민복기 회장ㆍ김석준 의장 출범  단합만이 살 길 ",
+        "link": "http://www.newsmp.com/news/articleView.html?idxno=240090"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+        "title": " 2찍   개같이  이런 거친 말만큼 무섭다, 총선 막판 변수 넷 [총선 D-12]",
+        "link": "https://n.news.naver.com/mnews/article/025/0003350727?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 03:04:00 +0900",
+        "title": "[박성민의 정치 포커스] 대통령 탄핵까지 주장하는데 왜 역풍 안 부나",
+        "link": "https://n.news.naver.com/mnews/article/023/0003825123?sid=103"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택] 힘있는 여당 vs 무능정권 심판  우중 격돌",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+        "title": "[4·10 울산의 선택]후보들 주요 길목에서 열정적인 지지 호소",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995544"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:04:00 +0900",
+        "title": "국민의힘 박성민 후보, 총선 출정식  제가 중구 미래 책임질 적임자 ",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469673"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 23:12:00 +0900",
+        "title": "[총선] 국힘 박성민, 공직선거법 위반으로 오상택 고발",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691029?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "박성민 선대위, 민주당 오상택 후보 고발",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344800"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": "[4·10 총선 공식선거운동 화보]금배지 도전자들 봄비 내리는 거리 누비며 '민...",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344798"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+        "title": " 울산 역대최대 예산확보 정권 - 윤석열 정권 2년간 민생 파탄 ",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=344797"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:42:00 +0900",
+        "title": "울산 총선 대장정  국민의힘 집권 후 발전 vs 민주당 때 굵직한 사업 ",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037117"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": "울산 국회의원 작년 재산변동 2명 늘고 4명 줄어",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524966"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": " 경제폭망 무능정권 심판  vs  민생발목 입법폭주 저지 ",
+        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:02:00 +0900",
+        "title": "궂은 날씨도 막지 못한 '표심 잡기' 뜨거운 열정",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037113"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:12:00 +0900",
+        "title": "양승조 홍성·예산 후보  5선 국회의원 힘으로 현안 신속 해결 ",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558095"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:06:00 +0900",
+        "title": "국민의힘 울산시당 총선 출정식",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037101"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:00:00 +0900",
+        "title": "국힘 울산 중구 박성민 선대위, 민주당 오상택 후보 고발",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879388?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:36:00 +0900",
+        "title": "“문제는 투표율”… 尹 집권 동력, 이재명·조국 정치 명운 달렸다",
+        "link": "https://n.news.naver.com/mnews/article/022/0003919014?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:12:00 +0900",
+        "title": "울산서 與野 출정식  나라발전 갈림길 vs 정권심판  [요동치는 전국 총선판]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005163524?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:10:00 +0900",
+        "title": " 정권 심판  vs  야권 폭주  울산 여야 출정식 열고 본격 총선 레이스",
+        "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:02:00 +0900",
+        "title": "울산 국회의원 2023년 평균 재산 24억265만원",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037067"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:04:00 +0900",
+        "title": "충남도, 11만여 명 생명 구한 구급차 17대 라오스에 출하",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558047"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:45:00 +0900",
+        "title": "울산 여야 출정식… 힘있는 여권 뽑아야  vs  윤 정권 심판 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879323?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:33:00 +0900",
+        "title": "울산 중구에서 맞붙는 오상택·박성민",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596203?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+        "title": "강승규 홍성·예산 후보, 집권여당 프리미엄 앞세워 '표심' 공략",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558032"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:22:00 +0900",
+        "title": "울산 중구 국민의힘 박성민  허위사실 유포  민주당 오상택 고발",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037042"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:03:00 +0900",
+        "title": "국힘 울산 중구 박성민 측  민주당 후보, 허위 사실 유포  고발",
+        "link": "https://n.news.naver.com/mnews/article/003/0012457248?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:02:00 +0900",
+        "title": "국힘 울산 중구 박성민  민주 오상택 '공선법 위반' 고발 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007443649?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:32:00 +0900",
+        "title": "4.10총선 투표율 최대 관전포인트로 대두, 21대 66.2% 넘어서 '야당 압승' 현...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347210"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:30:00 +0900",
+        "title": "국민의힘 박성민(울산 중구) 후보  더 낮은 자세로 중구민과 함께 하겠다 ",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995472"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:53:00 +0900",
+        "title": "[뉴스외전 정치 맞수다] 국회 세종시 이전,  뭐하다가 이제 와서? 선거용 뒷북...",
+        "link": "https://n.news.naver.com/mnews/article/214/0001339286?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:00:00 +0900",
+        "title": "국힘 울산 중구 박성민  재선 의원 되면 중구 발전 책임지겠다 ",
+        "link": "https://n.news.naver.com/mnews/article/421/0007442973?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:57:00 +0900",
+        "title": "발언하는 박성민 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595377?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:56:00 +0900",
+        "title": "발언하는 박성민 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014595373?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": " 2번 선택  외치는 강승규 유세단",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557915"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": "지지 호소하는 강승규 홍성·예산 후보",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557921"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": "대화 나누는 강승규 홍성·예산 후보와 배우자",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557916"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": "표심 공략 나선 강승규 홍성·예산 후보",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557911"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+        "title": "강승규 홍성·예산 후보  2번 선택 ",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557918"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박성민",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 890741
+      },
+      {
+        "연도": 2021,
+        "재산": 911873
+      },
+      {
+        "연도": 2022,
+        "재산": 880255
+      },
+      {
+        "연도": 2023,
+        "재산": 1180741
+      }
+    ],
+    "huboid": "100152554",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100152554/junkwa/20240205113723979_1.PDF"
+  }
 ]

@@ -1,1593 +1,1593 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-1.jpg",
-        "id": "2520401-1",
-        "재산": 2066232,
-        "생년월일": "19651111",
-        "경력": "(전)소방산업공제조합 이사장\n(현)더불어민주당 정책위원회 부의장",
-        "학력": "연세대학교 상경대학 경제학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2520401",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10 총선 D-7여론조사] 이철규 24.2%p 격차로 한호연 크게 앞서",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035906?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 한호연·이철규 '일꾼론' 앞세워 표심 공략",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070563?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:43:00 +0900",
-                "title": "[총선 여론조사] 후보 대 정당 지지율…춘천 갑·원주 갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694059?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:32:00 +0900",
-                "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:48:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693968?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:35:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
-                "title": "[선택 4·10총선] 정선 표심 잡아라, 후보자들 세 몰이 경합 펼쳐",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035862?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
-                "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
-                "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:38:00 +0900",
-                "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
-                "link": "https://www.mbceg.co.kr/post/114183"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
-                "title": "&lt;여론2-4&gt;동태삼정 이철규 후보 격차 벌려",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305182"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693777?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:03:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
-                "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:48:00 +0900",
-                "title": "민주당 한호연(동해태백삼척정선)후보, 이색 현수막에 유권자들 눈길끈다!",
-                "link": "https://n.news.naver.com/mnews/article/468/0001046436?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:47:00 +0900",
-                "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-                "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
-                "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
-                "link": "https://www.mbceg.co.kr/post/114177"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
-                "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
-                "title": "강원 동해안벨트 여·야 후보간 고소·고발 난무…네거티브전 우려",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880784?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 01:02:00 +0900",
-                "title": "'비방' '허위사실 유포' 잠잠했던 영동지역서도 고발·고소전",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035637?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-                "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:32:00 +0900",
-                "title": "네거티브에 정책은 실종?",
-                "link": "https://www.mbceg.co.kr/post/114152"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
-                "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:35:00 +0900",
-                "title": "[포토뉴스] 한호연 후보 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035489?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:07:00 +0900",
-                "title": "이철규 후보 “민주당은 흑색·비방 선전, 즉각 중단하라”",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325840?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:24:00 +0900",
-                "title": "이철규 후보, 흑색 비방 중단 촉구 성명",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851663"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
-                "title": "이철규 캠프  저질 흑색 비방 중단하라 ...조작·왜곡 법적 검토",
-                "link": "http://www.kukinews.com/newsView/kuk202404010085"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:34:00 +0900",
-                "title": "이철규 후보 선대위  더불어민주당 흑색 비방 선전 중단 ",
-                "link": "https://www.mbceg.co.kr/post/114132"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:25:00 +0900",
-                "title": "이철규  민주당, 사실 조작·왜곡한 몰염치한 흑색 비방 중단하라 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880327?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:10:00 +0900",
-                "title": "이철규  민주당 사실 조작·왜곡해 흑색 비방선전 중단하라 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070371?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
-                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10총선] 우상호 “대통령 정신차리게 하려면 대통령과 가까운 국회의...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035337?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
-                "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
-                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
-                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:23:00 +0900",
-                "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
-                "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:00:00 +0900",
-                "title": "[포토]한호연 후보 지원나선 우상호 민주당 강원도당 공동선대위원장",
-                "link": "http://www.kukinews.com/newsView/kuk202403310056"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 16:22:00 +0900",
-                "title": "우상호  강릉서 이변 일어나고 있어, 권성동 할 만큼 했다 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880099?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:31:00 +0900",
-                "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 12:28:00 +0900",
-                "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
-                "link": "https://www.mbceg.co.kr/post/114106"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:38:00 +0900",
-                "title": "공식 선거운동 첫 주말 '후끈'…동해안벨트 후보들 '집중 유세'",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879981?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:39:00 +0900",
-                "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 19:47:00 +0900",
-                "title": "민주당 강원도당 우상호 공동선대위원장, 31일 '복합선거구' 지원유세",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070234?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:57:00 +0900",
-                "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:52:00 +0900",
-                "title": "공식 선거운동 첫 주말…강원 후보자들, 열띤 유세전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014599773?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 16:47:00 +0900",
-                "title": "공식 선거운동 첫 주말…강원 후보자들, 유세 경쟁 '치열'",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070230?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:38:00 +0900",
-                "title": "한호연 후보 태백서 집중 유세... 간절한 마음으로 태백 회생에 앞장 ",
-                "link": "http://www.kukinews.com/newsView/kuk202403300027"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:22:00 +0900",
-                "title": "[포토]태백 문화장터서 유세 펼치는 동태삼정 한호연 후보",
-                "link": "http://www.kukinews.com/newsView/kuk202403300024"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 15:22:00 +0900",
-                "title": "[포토]동태삼정 한호연 후보 태백 문화장터서 집중 유세",
-                "link": "http://www.kukinews.com/newsView/kuk202403300026"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 14:44:00 +0900",
-                "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 09:06:00 +0900",
-                "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 23:33:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 22:03:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:34:00 +0900",
-                "title": "한호연-이철규 '상대 공약·지역 현안 입장 차'",
-                "link": "https://www.mbceg.co.kr/post/114096"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:30:00 +0900",
-                "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:01:00 +0900",
-                "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 19:37:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:46:00 +0900",
-                "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
-                "link": "https://www.mbceg.co.kr/post/114078"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:01:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:52:00 +0900",
-                "title": "한호연 민주당 후보 북평5일장 유세... 폭정 심판 ",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317119"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:49:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:07:00 +0900",
-                "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:06:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 한호연  정권 심판  vs 이철규  미래 완성  vs 류성...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070105?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:42:00 +0900",
-                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
-                "link": "https://n.news.naver.com/mnews/article/056/0011690884?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
-                "title": "거리에서 장터에서…  소중한 한 표  목소리",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034961?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:34:00 +0900",
-                "title": "강원 남부 폐광지역 3파전...지역 발전 한목소리",
-                "link": "https://www.mbceg.co.kr/post/114066"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": "2024 강원의 선택",
-                "link": "https://www.mbceg.co.kr/post/114068"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:26:00 +0900",
-                "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
-                "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:11:00 +0900",
-                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
-                "link": "https://n.news.naver.com/mnews/article/056/0011690726?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
-                "title": "한호연 후보, 제22대 국회의원 선거운동 첫날 동해북평5일장서 집중유세 펼쳐",
-                "link": "https://www.ajunews.com/view/20240328165321367"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:33:00 +0900",
-                "title": "한호연 민주당 후보 북평5일장 집중 유세... 폭정 심판 ",
-                "link": "https://www.newspim.com/news/view/20240328000934"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:34:00 +0900",
-                "title": "[포토] 동해 북평장서 연설하는 한호연 후보",
-                "link": "http://www.kukinews.com/newsView/kuk202403280207"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:11:00 +0900",
-                "title": "'심상치 않은' 강원 동해안 벨트… 보수 수성 vs 권력 교체 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879194?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:04:00 +0900",
-                "title": "[선거레이더]동태삼정, 공룡선거구 유권자들의 선택은?",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461229"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
-                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 11:14:00 +0900",
-                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 10:46:00 +0900",
-                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
-                "link": "https://n.news.naver.com/mnews/article/056/0011690455?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:43:00 +0900",
-                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
-                "link": "https://n.news.naver.com/mnews/article/056/0011689991?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
-                "title": "[선택 4·10 총선] 가리왕산 국가정원 유치 한 목소리",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034669?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
-                "title": "[선택 4·10총선] 태백 장성광업소 6월 폐광 대비 대체산업 육성 적임자 '지지...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034672?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 19:08:00 +0900",
-                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
-                "link": "https://n.news.naver.com/mnews/article/056/0011689803?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 08:47:00 +0900",
-                "title": "강원 총선여론조사…국힘 4곳 우세, 4곳은 민주당과 접전",
-                "link": "https://n.news.naver.com/mnews/article/003/0012452142?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 05:01:00 +0900",
-                "title": "'친윤' 지역구 출마자들…엇갈리는 국회 진출 확률",
-                "link": "https://n.news.naver.com/mnews/article/011/0004318992?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
-                "title": "오차범위 밖 격차 4곳 공통점 '복합선거구'",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069888?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 21:03:00 +0900",
-                "title": "[선택 4·10총선]삼척 ‘경제활성화 등 현안해결에 초점’",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034367?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 21:02:00 +0900",
-                "title": "정당 지지율 뛰어넘는 후보 지지율…확장성 변수될까",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034364?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:28:00 +0900",
-                "title": "[강원도 여론조사] 강원 영서 접전, 강원 영동 국민의힘 우세",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307020"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:55:00 +0900",
-                "title": "[총선여론]  해운대 마저  디비진 부산.. 강원 지역도 여야 오차범위 내 접전",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640498"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:10:00 +0900",
-                "title": "&lt;여론&gt;동태삼정, 이철규 오차범위 밖 우세",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304816"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 07:15:00 +0900",
-                "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304802"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:08:00 +0900",
-                "title": "'과반 지지율' 이철규, 2위 한호연과 19%p차",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069757?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:08:00 +0900",
-                "title": "춘천 갑·원주 갑 초접전…영동 국민의힘 우위",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069758?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:04:00 +0900",
-                "title": "‘빅3’ 오차범위 내 접전·추격전…‘동-태-삼-정’ 與 우세",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034113?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "한호연",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2066232
-            }
-        ],
-        "huboid": "100153156",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153156/junkwa/20240321163001745_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-2.jpg",
-        "id": "2520401-2",
-        "재산": 4149502,
-        "생년월일": "19570920",
-        "경력": "(현)국회의원(제20·21대)\n(현)국민의힘 인재영입위원회 공동위원장",
-        "학력": "한양대학교 행정대학원 졸업(행정학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1000",
-        "regionId": "2520401",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10 총선 D-7여론조사] 이철규 24.2%p 격차로 한호연 크게 앞서",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035906?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
-                "title": "[사설] 총선 SOC 공약, 실현 가능성이 관건",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070585?sid=110"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 한호연·이철규 '일꾼론' 앞세워 표심 공략",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070563?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:43:00 +0900",
-                "title": "[총선 여론조사] 후보 대 정당 지지율…춘천 갑·원주 갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694059?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:32:00 +0900",
-                "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:48:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693968?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:35:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
-                "title": "[선택 4·10총선] 정선 표심 잡아라, 후보자들 세 몰이 경합 펼쳐",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035862?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
-                "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
-                "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:39:00 +0900",
-                "title": "국민의미래 박충권  ICBM 연구하다 건넌 두만강‥그만큼 큰 사회격차 해소 ",
-                "link": "https://n.news.naver.com/mnews/article/214/0001340291?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:38:00 +0900",
-                "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
-                "link": "https://www.mbceg.co.kr/post/114183"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
-                "title": "&lt;여론2-4&gt;동태삼정 이철규 후보 격차 벌려",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305182"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:13:00 +0900",
-                "title": " 산업전사 유산 강원랜드, 해외 카지노 시장과 맞서 성장을 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007454024?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693777?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:03:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
-                "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
-                "title": "강원랜드, 2조5천억 투자 ‘역대최고’…“K-복합리조트 재탄생”",
-                "link": "https://www.ekn.kr/web/view.php?key=20240402022307749"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:47:00 +0900",
-                "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-                "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
-                "title": "[4.10총선-213] 경남 사천·남해·하동, 제윤경vs서천호vs최상화",
-                "link": "http://www.mhj21.com/160273"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
-                "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
-                "link": "https://www.mbceg.co.kr/post/114177"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
-                "title": "강원랜드 K-복합리조트 도약 청사진, 2조5천억 들여 비카지노 비중 30%로",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347810"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
-                "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
-                "title": "4·3추념식 야당 지도부 대거 참석···한동훈 위원장 불참",
-                "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223374"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
-                "title": "강원 동해안벨트 여·야 후보간 고소·고발 난무…네거티브전 우려",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880784?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:07:00 +0900",
-                "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:15:00 +0900",
-                "title": "선거 격화..네거티브 가열",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=305166"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 01:02:00 +0900",
-                "title": "'비방' '허위사실 유포' 잠잠했던 영동지역서도 고발·고소전",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035637?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:08:00 +0900",
-                "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 23:12:00 +0900",
-                "title": "이철규 후보, 정선군 전역 돌며 다시한번 많은 힘 을 실어달라 호소!",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958586"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-                "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:32:00 +0900",
-                "title": "네거티브에 정책은 실종?",
-                "link": "https://www.mbceg.co.kr/post/114152"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:30:00 +0900",
-                "title": "선거 격화..네거티브 가열",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305149"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:25:00 +0900",
-                "title": "[차재원 칼럼] 윤석열 대통령이 살려면?",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641440"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
-                "title": "이철규 후보, 삼척·정선 집중유세  지역 경제 활성화와 관광 인프라 개발  약...",
-                "link": "https://www.ajunews.com/view/20240401171649507"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
-                "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:36:00 +0900",
-                "title": "[포토뉴스] 국민의 힘 이철규 후보 정선 집중 유세",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035490?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:07:00 +0900",
-                "title": "이철규 후보 “민주당은 흑색·비방 선전, 즉각 중단하라”",
-                "link": "https://n.news.naver.com/mnews/article/002/0002325840?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:24:00 +0900",
-                "title": "이철규 후보, 흑색 비방 중단 촉구 성명",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851663"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:28:00 +0900",
-                "title": "이철규 후보, 지역 유세 활발히 이어가며 정책 발표",
-                "link": "https://www.ajunews.com/view/20240401113503011"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
-                "title": "이철규 캠프  저질 흑색 비방 중단하라 ...조작·왜곡 법적 검토",
-                "link": "http://www.kukinews.com/newsView/kuk202404010085"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:42:00 +0900",
-                "title": "4.3추념식 이재명·조국 제주로...국민의힘 한동훈 불참, 인요한 대타로 참석",
-                "link": "http://www.jejusori.net/news/articleView.html?idxno=425431"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:34:00 +0900",
-                "title": "이철규 후보 선대위  더불어민주당 흑색 비방 선전 중단 ",
-                "link": "https://www.mbceg.co.kr/post/114132"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:25:00 +0900",
-                "title": "이철규  민주당, 사실 조작·왜곡한 몰염치한 흑색 비방 중단하라 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880327?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:46:00 +0900",
-                "title": "이철규후보 선대위  사실 조작 흑색 비방 즉각 중단 ",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035367?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:10:00 +0900",
-                "title": "이철규  민주당 사실 조작·왜곡해 흑색 비방선전 중단하라 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070371?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:04:00 +0900",
-                "title": "이철규 후보 '재산증식 흑색 비방 선전' 중단 촉구... 반복된다면 법적 대응 ",
-                "link": "https://www.newspim.com/news/view/20240401000217"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:40:00 +0900",
-                "title": "실적 회복 흐름에 여유 생긴 강원랜드, 힘 받는 경쟁력 강화 프로젝트",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347529"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:21:00 +0900",
-                "title": "총선 D-9 노무현 전 대통령이 여당서 소환되는 이유?",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070365?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 06:11:00 +0900",
-                "title": "검찰 수사관 출신 ‘민생특보’, 납득이 가나요? [편집국장의 편지]",
-                "link": "https://n.news.naver.com/mnews/article/308/0000034614?sid=110"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
-                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 00:07:00 +0900",
-                "title": " 바보 노무현 같은 바보 윤석열 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070335?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
-                "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
-                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
-                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:23:00 +0900",
-                "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
-                "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 18:19:00 +0900",
-                "title": "여, 강원 8곳 중 5곳 기대감…야, 금강벨트 대전·세종 8곳 자신감",
-                "link": "https://n.news.naver.com/mnews/article/081/0003441012?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:52:00 +0900",
-                "title": "[팩트인사이드] 비례대표는 연임하지 않는 것이 관례다",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644409"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:48:00 +0900",
-                "title": "[선택 4·10총선]이철규 후보 태백 거리유세",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035267?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:31:00 +0900",
-                "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:35:00 +0900",
-                "title": "이철규  윤 대통령은 '바보 노무현' 닮은 '바보 윤석열' ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070258?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 12:34:00 +0900",
-                "title": "[포토] 이철규 후보 , 지역구 돌며 집중유세",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957362"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 12:28:00 +0900",
-                "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
-                "link": "https://www.mbceg.co.kr/post/114106"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 11:50:00 +0900",
-                "title": "국민의힘 이철규후보, 태백시  폐광 지역경제 회생을 위해 달리고 또 달리겠읍...",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957319"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 11:17:00 +0900",
-                "title": "한동훈  선거 이후 쫓겨난다? 총선 후에도 역할 다할 것 ",
-                "link": "https://n.news.naver.com/mnews/article/214/0001339744?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:38:00 +0900",
-                "title": "공식 선거운동 첫 주말 '후끈'…동해안벨트 후보들 '집중 유세'",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879981?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:39:00 +0900",
-                "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:57:00 +0900",
-                "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:58:00 +0900",
-                "title": "이철규 후보 집중유세 '북적'... 압도적 승리로 다시 뛰는 태백 ",
-                "link": "http://www.kukinews.com/newsView/kuk202403300043"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:52:00 +0900",
-                "title": "공식 선거운동 첫 주말…강원 후보자들, 열띤 유세전(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014599773?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:44:00 +0900",
-                "title": "[포토]태백 집중유세장의 이철규 후보",
-                "link": "http://www.kukinews.com/newsView/kuk202403300042"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:40:00 +0900",
-                "title": "[포토]태백서 집중유세 하는 이철규 후보",
-                "link": "http://www.kukinews.com/newsView/kuk202403300040"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:38:00 +0900",
-                "title": "[포토]승리 다짐하는 이철규 후보와 국민의힘 태백",
-                "link": "http://www.kukinews.com/newsView/kuk202403300039"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 16:47:00 +0900",
-                "title": "공식 선거운동 첫 주말…강원 후보자들, 유세 경쟁 '치열'",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070230?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 14:44:00 +0900",
-                "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 09:06:00 +0900",
-                "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 04:07:00 +0900",
-                "title": "함부로 탄 사다리… 공부도 인생도 ‘꽝’",
-                "link": "https://n.news.naver.com/mnews/article/005/0001684845?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 23:33:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 22:03:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:30:00 +0900",
-                "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:01:00 +0900",
-                "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 19:37:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
-                "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
-                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 18:16:00 +0900",
-                "title": "&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규",
-                "link": "https://n.news.naver.com/mnews/article/607/0000001935?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
-                "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:48:00 +0900",
-                "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
-                "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:32:00 +0900",
-                "title": "시민유권자운동본부, 총선 출마 '좋은 후보' 33명 선정 발표",
-                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104566"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:46:00 +0900",
-                "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
-                "link": "https://www.mbceg.co.kr/post/114078"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:01:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 09:31:00 +0900",
-                "title": "권력 핵심부 ‘투톱’ 이러니 지지층 분열할 수밖에",
-                "link": "https://n.news.naver.com/mnews/article/036/0000049625?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 08:35:00 +0900",
-                "title": "[22대 총선] 이철규 동해·태백·삼척·정선 국민의힘 후보, 선거 운동 출정식...",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503306"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:49:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:07:00 +0900",
-                "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "이철규",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 3949642
-            },
-            {
-                "연도": 2021,
-                "재산": 3939993
-            },
-            {
-                "연도": 2022,
-                "재산": 3981960
-            },
-            {
-                "연도": 2023,
-                "재산": 4149502
-            }
-        ],
-        "huboid": "100153139",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153139/junkwa/20240321163141172_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-7.jpg",
-        "id": "2520401-7",
-        "재산": 382630,
-        "생년월일": "19591108",
-        "경력": "(전)태백경찰서장\n(현)개혁신당 당대표 정무특보",
-        "학력": "동국대학교 행정대학원 졸업(행정학 석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2520401",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-                "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:32:00 +0900",
-                "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:35:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
-                "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
-                "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:38:00 +0900",
-                "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
-                "link": "https://www.mbceg.co.kr/post/114183"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:03:00 +0900",
-                "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
-                "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:47:00 +0900",
-                "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-                "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
-                "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
-                "link": "https://www.mbceg.co.kr/post/114177"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-                "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
-                "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-                "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:05:00 +0900",
-                "title": "동·태·삼·정 개혁신당 류성호  거대 양당 정치에 너무 매몰돼 있어 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880612?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
-                "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 12:28:00 +0900",
-                "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
-                "link": "https://www.mbceg.co.kr/post/114106"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:39:00 +0900",
-                "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 14:44:00 +0900",
-                "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 09:06:00 +0900",
-                "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 23:33:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 22:03:00 +0900",
-                "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:34:00 +0900",
-                "title": "한호연-이철규 '상대 공약·지역 현안 입장 차'",
-                "link": "https://www.mbceg.co.kr/post/114096"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:30:00 +0900",
-                "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:01:00 +0900",
-                "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 19:37:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:46:00 +0900",
-                "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
-                "link": "https://www.mbceg.co.kr/post/114078"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:01:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:49:00 +0900",
-                "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 00:06:00 +0900",
-                "title": "[4.10 총선, 강원의 선택] 한호연  정권 심판  vs 이철규  미래 완성  vs 류성...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070105?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
-                "title": "거리에서 장터에서…  소중한 한 표  목소리",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034961?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:34:00 +0900",
-                "title": "강원 남부 폐광지역 3파전...지역 발전 한목소리",
-                "link": "https://www.mbceg.co.kr/post/114066"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-                "title": "2024 강원의 선택",
-                "link": "https://www.mbceg.co.kr/post/114068"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:11:00 +0900",
-                "title": "'심상치 않은' 강원 동해안 벨트… 보수 수성 vs 권력 교체 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879194?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:04:00 +0900",
-                "title": "[선거레이더]동태삼정, 공룡선거구 유권자들의 선택은?",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461229"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
-                "title": "[선택 4·10 총선] 가리왕산 국가정원 유치 한 목소리",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034669?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
-                "title": "[선택 4·10총선] 태백 장성광업소 6월 폐광 대비 대체산업 육성 적임자 '지지...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034672?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 21:03:00 +0900",
-                "title": "[선택 4·10총선]삼척 ‘경제활성화 등 현안해결에 초점’",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034367?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:28:00 +0900",
-                "title": "[강원도 여론조사] 강원 영서 접전, 강원 영동 국민의힘 우세",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307020"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:10:00 +0900",
-                "title": "&lt;여론&gt;동태삼정, 이철규 오차범위 밖 우세",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304816"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 07:15:00 +0900",
-                "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304802"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:08:00 +0900",
-                "title": "'과반 지지율' 이철규, 2위 한호연과 19%p차",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069757?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:08:00 +0900",
-                "title": "춘천 갑·원주 갑 초접전…영동 국민의힘 우위",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069758?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:04:00 +0900",
-                "title": "‘빅3’ 오차범위 내 접전·추격전…‘동-태-삼-정’ 與 우세",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034113?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 00:02:00 +0900",
-                "title": "이철규 과반 지지율…4개 시·군 모두 선두",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034101?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 23:36:00 +0900",
-                "title": "[총선/여론조사]③ 동해태백삼척정선, 1위 이철규…2위 한호연",
-                "link": "https://n.news.naver.com/mnews/article/056/0011688326?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 21:49:00 +0900",
-                "title": "[총선/여론조사]④ 동해태백삼척정선, 1위 이철규…2위 한호연",
-                "link": "https://n.news.naver.com/mnews/article/056/0011688183?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 21:03:00 +0900",
-                "title": "[선택 4·10총선]동해지역 키워드는 '지역경기 활성화'",
-                "link": "https://n.news.naver.com/mnews/article/087/0001034079?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 20:34:00 +0900",
-                "title": "동해태백삼척정선 '이철규 51% VS 한호연 32%'",
-                "link": "https://www.mbceg.co.kr/post/113962"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 20:30:00 +0900",
-                "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304782"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 19:17:00 +0900",
-                "title": "[총선 여론조사] 춘천갑·원주갑 오차범위 내 초접전…강릉도 박빙",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069684?sid=102"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 19:10:00 +0900",
-                "title": "[총선/여론조사]④ 동해태백삼척정선, 1위 이철규…2위 한호연",
-                "link": "https://n.news.naver.com/mnews/article/056/0011688041?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 17:59:00 +0900",
-                "title": "[강원 동해태백삼척정선] 국민의힘 이철규 51%, 더불어민주당 한호연 32%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427334?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 17:40:00 +0900",
-                "title": "도내 5개 언론사 공동 여론조사 발표",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_5&newsid=304761"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:28:00 +0900",
-                "title": "강릉시 '김중남 35.4% 권성동 44.1% 이영랑 3.3%' 동해태백삼척정선 '한호연 ...",
-                "link": "https://www.mbceg.co.kr/post/113954"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:04:00 +0900",
-                "title": "동·태·삼·정 이철규 51%, 한호연 32% [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069669?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:03:00 +0900",
-                "title": "춘천갑·원주갑 오차범위 내 초접전…강릉도 박빙 [4·10총선 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069665?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:03:00 +0900",
-                "title": "[여론조사 종합]춘천갑-원주갑 오차범위내 초박빙 승부…강릉서도 추격전",
-                "link": "https://n.news.naver.com/mnews/article/087/0001033996?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:03:00 +0900",
-                "title": "[여론조사-동태삼정] 한호연 32% vs 이철규 51%",
-                "link": "https://n.news.naver.com/mnews/article/087/0001033995?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:02:00 +0900",
-                "title": "[5시 리포트] 국회의원 선거 후보자 여론조사 결과 공개",
-                "link": "https://chmbc.co.kr/article/fpYqDTPfBopu2Xv-f_jY2"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 00:07:00 +0900",
-                "title": "[4·10 총선 격전지를 가다] 해양·폐광지 '공룡선거구' 폭넓은 민심 수확 당...",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069608?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 12:28:00 +0900",
-                "title": "22대 국회의원 선거 강원 8개 선거구 21명 후보 등록[2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005160682?sid=102"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 23:38:00 +0900",
-                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
-                "link": "https://n.news.naver.com/mnews/article/056/0011687106?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:16:00 +0900",
-                "title": "[2대 총선] 강원 8개 선거구 21명 후보등록…1.90대 1 경쟁률",
-                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200345.html"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:44:00 +0900",
-                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
-                "link": "https://n.news.naver.com/mnews/article/056/0011686996?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:58:00 +0900",
-                "title": "제22대 총선, 동해시태백시삼척시정선군 선거구 후보군",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583413?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:36:00 +0900",
-                "title": "영동권 8명 후보 등록, '28일부터 본격 유세전'",
-                "link": "https://www.mbceg.co.kr/post/113916"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 강원(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583361?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:45:00 +0900",
-                "title": "강원 여성 후보 2명 출사표…'윤핵관' 권성동 후보는 5선 도전",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583344?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:33:00 +0900",
-                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
-                "link": "https://n.news.naver.com/mnews/article/056/0011686907?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:24:00 +0900",
-                "title": "[4·10총선 후보자 등록] 강원",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430839?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:04:00 +0900",
-                "title": "강원 총선 후보자 17명 '병역필'…여성 이외 2명 '미필'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583293?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 14:46:00 +0900",
-                "title": "개혁신당, 중앙선대위 출범···천하람 총괄선대위원장 선임",
-                "link": "http://www.mdilbo.com/detail/0kIA7d/715902"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 11:58:00 +0900",
-                "title": "영동지역 3개 선거구, 총선 후보 8명 등록",
-                "link": "https://www.mbceg.co.kr/post/113905"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:34:00 +0900",
-                "title": "동해·태백·삼척·정선 '힘있는 3선 vs 새로운 바람'",
-                "link": "https://www.mbceg.co.kr/post/113892"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:23:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 강원(21일 마감)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014580685?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 17:58:00 +0900",
-                "title": "'동해·태백·삼척·정선' 한호연·이철규·류성호 후보자 등록",
-                "link": "https://www.newspim.com/news/view/20240321000862"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 17:16:00 +0900",
-                "title": "동해·삼척·태백·정선 선거구 한호연·이철규·류성호 후보 등록",
-                "link": "https://n.news.naver.com/mnews/article/087/0001033424?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 16:56:00 +0900",
-                "title": "개혁신당 류성호 동태삼정 후보 등록",
-                "link": "https://n.news.naver.com/mnews/article/087/0001033406?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 16:34:00 +0900",
-                "title": "22대 총선 본격 레이스...동해·태백·삼척·정선 후보 속속 등록",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069360?sid=100"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 15:34:00 +0900",
-                "title": "영동지역 총선 후보 대부분 첫날 등록...본격적인 선거전",
-                "link": "https://www.mbceg.co.kr/post/113884"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 07:41:00 +0900",
-                "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011685672?sid=100"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-                "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 23:53:00 +0900",
-                "title": "[총선] ‘동태삼정’ 지역 경제 살리기…4명 공약은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011685493?sid=100"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 21:45:00 +0900",
-                "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011685370?sid=100"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 19:29:00 +0900",
-                "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
-                "link": "https://n.news.naver.com/mnews/article/056/0011685238?sid=100"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 17:16:00 +0900",
-                "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
-                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 15:48:00 +0900",
-                "title": "[22대 총선 대진표] ⑥강원·제주…집토끼 단속 먼저! 텃밭을 지켜라",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468928"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 13:40:00 +0900",
-                "title": "[총선24] 대진표 완성한 강원도...'보수' 강세에 민주 도전장",
-                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317926"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 21:03:00 +0900",
-                "title": "[총선 자기소개서] ‘일 잘하는 일꾼’ 이철규 의원에·민주 한호연 ‘우직함...",
-                "link": "https://n.news.naver.com/mnews/article/087/0001032376?sid=165"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 23:38:00 +0900",
-                "title": "[총선] ‘동태삼정’ 선거구, 여야 후보 4명 출사표",
-                "link": "https://n.news.naver.com/mnews/article/056/0011682357?sid=100"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 21:58:00 +0900",
-                "title": "[총선] ‘동태삼정’, 후보 4명…‘3선’ vs ‘새 인물’",
-                "link": "https://n.news.naver.com/mnews/article/056/0011682315?sid=100"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 10:27:00 +0900",
-                "title": "강원 8개 선거구 대진표 확정…핵심 승부처 원주·춘천 불꽃경쟁 예고",
-                "link": "https://n.news.naver.com/mnews/article/003/0012428480?sid=102"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 15:22:00 +0900",
-                "title": "22대 총선 동해·태백·삼척·정선 선거구, 29일 후보자 초청 방송토론회",
-                "link": "https://n.news.naver.com/mnews/article/654/0000068655?sid=100"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 15:20:00 +0900",
-                "title": "강원 동해안 벨트, 與 '5선·3선 수성' vs 野 '권력교체' 도전장",
-                "link": "https://n.news.naver.com/mnews/article/079/0003873911?sid=165"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 10:10:00 +0900",
-                "title": "&lt;총선.6&gt; 동태삼정,  재선 현역에 3명 도전장 ",
-                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304134"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "류성호",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 382630
-            }
-        ],
-        "huboid": "100153147",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153147/junkwa/20240321170311156_8.PDF"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-1.jpg",
+    "id": "2520401-1",
+    "재산": 2066232,
+    "생년월일": "19651111",
+    "경력": "(전)소방산업공제조합 이사장\n(현)더불어민주당 정책위원회 부의장",
+    "학력": "연세대학교 상경대학 경제학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2520401",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10 총선 D-7여론조사] 이철규 24.2%p 격차로 한호연 크게 앞서",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035906?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 한호연·이철규 '일꾼론' 앞세워 표심 공략",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070563?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:43:00 +0900",
+        "title": "[총선 여론조사] 후보 대 정당 지지율…춘천 갑·원주 갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694059?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:32:00 +0900",
+        "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:48:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693968?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:35:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+        "title": "[선택 4·10총선] 정선 표심 잡아라, 후보자들 세 몰이 경합 펼쳐",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035862?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+        "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+        "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+        "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
+        "link": "https://www.mbceg.co.kr/post/114183"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+        "title": "&lt;여론2-4&gt;동태삼정 이철규 후보 격차 벌려",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305182"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693777?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:03:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+        "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:48:00 +0900",
+        "title": "민주당 한호연(동해태백삼척정선)후보, 이색 현수막에 유권자들 눈길끈다!",
+        "link": "https://n.news.naver.com/mnews/article/468/0001046436?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:47:00 +0900",
+        "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+        "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+        "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
+        "link": "https://www.mbceg.co.kr/post/114177"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+        "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+        "title": "강원 동해안벨트 여·야 후보간 고소·고발 난무…네거티브전 우려",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880784?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 01:02:00 +0900",
+        "title": "'비방' '허위사실 유포' 잠잠했던 영동지역서도 고발·고소전",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035637?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+        "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:32:00 +0900",
+        "title": "네거티브에 정책은 실종?",
+        "link": "https://www.mbceg.co.kr/post/114152"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+        "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:35:00 +0900",
+        "title": "[포토뉴스] 한호연 후보 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035489?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:07:00 +0900",
+        "title": "이철규 후보 “민주당은 흑색·비방 선전, 즉각 중단하라”",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325840?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:24:00 +0900",
+        "title": "이철규 후보, 흑색 비방 중단 촉구 성명",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851663"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+        "title": "이철규 캠프  저질 흑색 비방 중단하라 ...조작·왜곡 법적 검토",
+        "link": "http://www.kukinews.com/newsView/kuk202404010085"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:34:00 +0900",
+        "title": "이철규 후보 선대위  더불어민주당 흑색 비방 선전 중단 ",
+        "link": "https://www.mbceg.co.kr/post/114132"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:25:00 +0900",
+        "title": "이철규  민주당, 사실 조작·왜곡한 몰염치한 흑색 비방 중단하라 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880327?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:10:00 +0900",
+        "title": "이철규  민주당 사실 조작·왜곡해 흑색 비방선전 중단하라 ",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070371?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+        "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10총선] 우상호 “대통령 정신차리게 하려면 대통령과 가까운 국회의...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035337?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+        "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+        "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+        "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+        "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:00:00 +0900",
+        "title": "[포토]한호연 후보 지원나선 우상호 민주당 강원도당 공동선대위원장",
+        "link": "http://www.kukinews.com/newsView/kuk202403310056"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:22:00 +0900",
+        "title": "우상호  강릉서 이변 일어나고 있어, 권성동 할 만큼 했다 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880099?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:31:00 +0900",
+        "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:28:00 +0900",
+        "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
+        "link": "https://www.mbceg.co.kr/post/114106"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:38:00 +0900",
+        "title": "공식 선거운동 첫 주말 '후끈'…동해안벨트 후보들 '집중 유세'",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879981?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:39:00 +0900",
+        "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 19:47:00 +0900",
+        "title": "민주당 강원도당 우상호 공동선대위원장, 31일 '복합선거구' 지원유세",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070234?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:57:00 +0900",
+        "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:52:00 +0900",
+        "title": "공식 선거운동 첫 주말…강원 후보자들, 열띤 유세전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014599773?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:47:00 +0900",
+        "title": "공식 선거운동 첫 주말…강원 후보자들, 유세 경쟁 '치열'",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070230?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:38:00 +0900",
+        "title": "한호연 후보 태백서 집중 유세... 간절한 마음으로 태백 회생에 앞장 ",
+        "link": "http://www.kukinews.com/newsView/kuk202403300027"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:22:00 +0900",
+        "title": "[포토]태백 문화장터서 유세 펼치는 동태삼정 한호연 후보",
+        "link": "http://www.kukinews.com/newsView/kuk202403300024"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 15:22:00 +0900",
+        "title": "[포토]동태삼정 한호연 후보 태백 문화장터서 집중 유세",
+        "link": "http://www.kukinews.com/newsView/kuk202403300026"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 14:44:00 +0900",
+        "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 09:06:00 +0900",
+        "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 23:33:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 22:03:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:34:00 +0900",
+        "title": "한호연-이철규 '상대 공약·지역 현안 입장 차'",
+        "link": "https://www.mbceg.co.kr/post/114096"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:30:00 +0900",
+        "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:01:00 +0900",
+        "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:37:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:46:00 +0900",
+        "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
+        "link": "https://www.mbceg.co.kr/post/114078"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:01:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:52:00 +0900",
+        "title": "한호연 민주당 후보 북평5일장 유세... 폭정 심판 ",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317119"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:49:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:07:00 +0900",
+        "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:06:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 한호연  정권 심판  vs 이철규  미래 완성  vs 류성...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070105?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:42:00 +0900",
+        "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+        "link": "https://n.news.naver.com/mnews/article/056/0011690884?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+        "title": "거리에서 장터에서…  소중한 한 표  목소리",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034961?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:34:00 +0900",
+        "title": "강원 남부 폐광지역 3파전...지역 발전 한목소리",
+        "link": "https://www.mbceg.co.kr/post/114066"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": "2024 강원의 선택",
+        "link": "https://www.mbceg.co.kr/post/114068"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:26:00 +0900",
+        "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:11:00 +0900",
+        "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+        "link": "https://n.news.naver.com/mnews/article/056/0011690726?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+        "title": "한호연 후보, 제22대 국회의원 선거운동 첫날 동해북평5일장서 집중유세 펼쳐",
+        "link": "https://www.ajunews.com/view/20240328165321367"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:33:00 +0900",
+        "title": "한호연 민주당 후보 북평5일장 집중 유세... 폭정 심판 ",
+        "link": "https://www.newspim.com/news/view/20240328000934"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:34:00 +0900",
+        "title": "[포토] 동해 북평장서 연설하는 한호연 후보",
+        "link": "http://www.kukinews.com/newsView/kuk202403280207"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:11:00 +0900",
+        "title": "'심상치 않은' 강원 동해안 벨트… 보수 수성 vs 권력 교체 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879194?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:04:00 +0900",
+        "title": "[선거레이더]동태삼정, 공룡선거구 유권자들의 선택은?",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461229"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+        "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 11:14:00 +0900",
+        "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 10:46:00 +0900",
+        "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+        "link": "https://n.news.naver.com/mnews/article/056/0011690455?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:43:00 +0900",
+        "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+        "link": "https://n.news.naver.com/mnews/article/056/0011689991?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+        "title": "[선택 4·10 총선] 가리왕산 국가정원 유치 한 목소리",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034669?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+        "title": "[선택 4·10총선] 태백 장성광업소 6월 폐광 대비 대체산업 육성 적임자 '지지...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034672?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 19:08:00 +0900",
+        "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+        "link": "https://n.news.naver.com/mnews/article/056/0011689803?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 08:47:00 +0900",
+        "title": "강원 총선여론조사…국힘 4곳 우세, 4곳은 민주당과 접전",
+        "link": "https://n.news.naver.com/mnews/article/003/0012452142?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 05:01:00 +0900",
+        "title": "'친윤' 지역구 출마자들…엇갈리는 국회 진출 확률",
+        "link": "https://n.news.naver.com/mnews/article/011/0004318992?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+        "title": "오차범위 밖 격차 4곳 공통점 '복합선거구'",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069888?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:03:00 +0900",
+        "title": "[선택 4·10총선]삼척 ‘경제활성화 등 현안해결에 초점’",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034367?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:02:00 +0900",
+        "title": "정당 지지율 뛰어넘는 후보 지지율…확장성 변수될까",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034364?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:28:00 +0900",
+        "title": "[강원도 여론조사] 강원 영서 접전, 강원 영동 국민의힘 우세",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307020"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:55:00 +0900",
+        "title": "[총선여론]  해운대 마저  디비진 부산.. 강원 지역도 여야 오차범위 내 접전",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640498"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:10:00 +0900",
+        "title": "&lt;여론&gt;동태삼정, 이철규 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304816"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 07:15:00 +0900",
+        "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304802"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:08:00 +0900",
+        "title": "'과반 지지율' 이철규, 2위 한호연과 19%p차",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069757?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:08:00 +0900",
+        "title": "춘천 갑·원주 갑 초접전…영동 국민의힘 우위",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069758?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:04:00 +0900",
+        "title": "‘빅3’ 오차범위 내 접전·추격전…‘동-태-삼-정’ 與 우세",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034113?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "한호연",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2066232
+      }
+    ],
+    "huboid": "100153156",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153156/junkwa/20240321163001745_1.PDF"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-2.jpg",
+    "id": "2520401-2",
+    "재산": 4149502,
+    "생년월일": "19570920",
+    "경력": "(현)국회의원(제20·21대)\n(현)국민의힘 인재영입위원회 공동위원장",
+    "학력": "한양대학교 행정대학원 졸업(행정학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1000",
+    "regionId": "2520401",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10 총선 D-7여론조사] 이철규 24.2%p 격차로 한호연 크게 앞서",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035906?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+        "title": "[사설] 총선 SOC 공약, 실현 가능성이 관건",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070585?sid=110"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 한호연·이철규 '일꾼론' 앞세워 표심 공략",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070563?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:43:00 +0900",
+        "title": "[총선 여론조사] 후보 대 정당 지지율…춘천 갑·원주 갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694059?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:32:00 +0900",
+        "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:48:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693968?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:35:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+        "title": "[선택 4·10총선] 정선 표심 잡아라, 후보자들 세 몰이 경합 펼쳐",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035862?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+        "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+        "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:39:00 +0900",
+        "title": "국민의미래 박충권  ICBM 연구하다 건넌 두만강‥그만큼 큰 사회격차 해소 ",
+        "link": "https://n.news.naver.com/mnews/article/214/0001340291?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+        "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
+        "link": "https://www.mbceg.co.kr/post/114183"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+        "title": "&lt;여론2-4&gt;동태삼정 이철규 후보 격차 벌려",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305182"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:13:00 +0900",
+        "title": " 산업전사 유산 강원랜드, 해외 카지노 시장과 맞서 성장을 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007454024?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 대 정당 지지율…춘천갑·원주갑·강릉·동태...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693777?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:03:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+        "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+        "title": "강원랜드, 2조5천억 투자 ‘역대최고’…“K-복합리조트 재탄생”",
+        "link": "https://www.ekn.kr/web/view.php?key=20240402022307749"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:47:00 +0900",
+        "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+        "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+        "title": "[4.10총선-213] 경남 사천·남해·하동, 제윤경vs서천호vs최상화",
+        "link": "http://www.mhj21.com/160273"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+        "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
+        "link": "https://www.mbceg.co.kr/post/114177"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+        "title": "강원랜드 K-복합리조트 도약 청사진, 2조5천억 들여 비카지노 비중 30%로",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347810"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+        "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+        "title": "4·3추념식 야당 지도부 대거 참석···한동훈 위원장 불참",
+        "link": "http://www.jejudomin.co.kr/news/articleView.html?idxno=223374"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+        "title": "강원 동해안벨트 여·야 후보간 고소·고발 난무…네거티브전 우려",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880784?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+        "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:15:00 +0900",
+        "title": "선거 격화..네거티브 가열",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=305166"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 01:02:00 +0900",
+        "title": "'비방' '허위사실 유포' 잠잠했던 영동지역서도 고발·고소전",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035637?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:08:00 +0900",
+        "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 23:12:00 +0900",
+        "title": "이철규 후보, 정선군 전역 돌며 다시한번 많은 힘 을 실어달라 호소!",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958586"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+        "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:32:00 +0900",
+        "title": "네거티브에 정책은 실종?",
+        "link": "https://www.mbceg.co.kr/post/114152"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:30:00 +0900",
+        "title": "선거 격화..네거티브 가열",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305149"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:25:00 +0900",
+        "title": "[차재원 칼럼] 윤석열 대통령이 살려면?",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641440"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+        "title": "이철규 후보, 삼척·정선 집중유세  지역 경제 활성화와 관광 인프라 개발  약...",
+        "link": "https://www.ajunews.com/view/20240401171649507"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+        "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:36:00 +0900",
+        "title": "[포토뉴스] 국민의 힘 이철규 후보 정선 집중 유세",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035490?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:07:00 +0900",
+        "title": "이철규 후보 “민주당은 흑색·비방 선전, 즉각 중단하라”",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325840?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:24:00 +0900",
+        "title": "이철규 후보, 흑색 비방 중단 촉구 성명",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851663"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:28:00 +0900",
+        "title": "이철규 후보, 지역 유세 활발히 이어가며 정책 발표",
+        "link": "https://www.ajunews.com/view/20240401113503011"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+        "title": "이철규 캠프  저질 흑색 비방 중단하라 ...조작·왜곡 법적 검토",
+        "link": "http://www.kukinews.com/newsView/kuk202404010085"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:42:00 +0900",
+        "title": "4.3추념식 이재명·조국 제주로...국민의힘 한동훈 불참, 인요한 대타로 참석",
+        "link": "http://www.jejusori.net/news/articleView.html?idxno=425431"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:34:00 +0900",
+        "title": "이철규 후보 선대위  더불어민주당 흑색 비방 선전 중단 ",
+        "link": "https://www.mbceg.co.kr/post/114132"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:25:00 +0900",
+        "title": "이철규  민주당, 사실 조작·왜곡한 몰염치한 흑색 비방 중단하라 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880327?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:46:00 +0900",
+        "title": "이철규후보 선대위  사실 조작 흑색 비방 즉각 중단 ",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035367?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:10:00 +0900",
+        "title": "이철규  민주당 사실 조작·왜곡해 흑색 비방선전 중단하라 ",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070371?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:04:00 +0900",
+        "title": "이철규 후보 '재산증식 흑색 비방 선전' 중단 촉구... 반복된다면 법적 대응 ",
+        "link": "https://www.newspim.com/news/view/20240401000217"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:40:00 +0900",
+        "title": "실적 회복 흐름에 여유 생긴 강원랜드, 힘 받는 경쟁력 강화 프로젝트",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347529"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:21:00 +0900",
+        "title": "총선 D-9 노무현 전 대통령이 여당서 소환되는 이유?",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070365?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 06:11:00 +0900",
+        "title": "검찰 수사관 출신 ‘민생특보’, 납득이 가나요? [편집국장의 편지]",
+        "link": "https://n.news.naver.com/mnews/article/308/0000034614?sid=110"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+        "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 00:07:00 +0900",
+        "title": " 바보 노무현 같은 바보 윤석열 ",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070335?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+        "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+        "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+        "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+        "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:19:00 +0900",
+        "title": "여, 강원 8곳 중 5곳 기대감…야, 금강벨트 대전·세종 8곳 자신감",
+        "link": "https://n.news.naver.com/mnews/article/081/0003441012?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:52:00 +0900",
+        "title": "[팩트인사이드] 비례대표는 연임하지 않는 것이 관례다",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644409"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:48:00 +0900",
+        "title": "[선택 4·10총선]이철규 후보 태백 거리유세",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035267?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:31:00 +0900",
+        "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:35:00 +0900",
+        "title": "이철규  윤 대통령은 '바보 노무현' 닮은 '바보 윤석열' ",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070258?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:34:00 +0900",
+        "title": "[포토] 이철규 후보 , 지역구 돌며 집중유세",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957362"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:28:00 +0900",
+        "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
+        "link": "https://www.mbceg.co.kr/post/114106"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 11:50:00 +0900",
+        "title": "국민의힘 이철규후보, 태백시  폐광 지역경제 회생을 위해 달리고 또 달리겠읍...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957319"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 11:17:00 +0900",
+        "title": "한동훈  선거 이후 쫓겨난다? 총선 후에도 역할 다할 것 ",
+        "link": "https://n.news.naver.com/mnews/article/214/0001339744?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:38:00 +0900",
+        "title": "공식 선거운동 첫 주말 '후끈'…동해안벨트 후보들 '집중 유세'",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879981?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:39:00 +0900",
+        "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:57:00 +0900",
+        "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:58:00 +0900",
+        "title": "이철규 후보 집중유세 '북적'... 압도적 승리로 다시 뛰는 태백 ",
+        "link": "http://www.kukinews.com/newsView/kuk202403300043"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:52:00 +0900",
+        "title": "공식 선거운동 첫 주말…강원 후보자들, 열띤 유세전(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014599773?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:44:00 +0900",
+        "title": "[포토]태백 집중유세장의 이철규 후보",
+        "link": "http://www.kukinews.com/newsView/kuk202403300042"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:40:00 +0900",
+        "title": "[포토]태백서 집중유세 하는 이철규 후보",
+        "link": "http://www.kukinews.com/newsView/kuk202403300040"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:38:00 +0900",
+        "title": "[포토]승리 다짐하는 이철규 후보와 국민의힘 태백",
+        "link": "http://www.kukinews.com/newsView/kuk202403300039"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 16:47:00 +0900",
+        "title": "공식 선거운동 첫 주말…강원 후보자들, 유세 경쟁 '치열'",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070230?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 14:44:00 +0900",
+        "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 09:06:00 +0900",
+        "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 04:07:00 +0900",
+        "title": "함부로 탄 사다리… 공부도 인생도 ‘꽝’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001684845?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 23:33:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 22:03:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:30:00 +0900",
+        "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:01:00 +0900",
+        "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:37:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+        "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:16:00 +0900",
+        "title": "&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규",
+        "link": "https://n.news.naver.com/mnews/article/607/0000001935?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+        "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:48:00 +0900",
+        "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:32:00 +0900",
+        "title": "시민유권자운동본부, 총선 출마 '좋은 후보' 33명 선정 발표",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104566"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:46:00 +0900",
+        "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
+        "link": "https://www.mbceg.co.kr/post/114078"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:01:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 09:31:00 +0900",
+        "title": "권력 핵심부 ‘투톱’ 이러니 지지층 분열할 수밖에",
+        "link": "https://n.news.naver.com/mnews/article/036/0000049625?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 08:35:00 +0900",
+        "title": "[22대 총선] 이철규 동해·태백·삼척·정선 국민의힘 후보, 선거 운동 출정식...",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503306"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:49:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:07:00 +0900",
+        "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "이철규",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 3949642
+      },
+      {
+        "연도": 2021,
+        "재산": 3939993
+      },
+      {
+        "연도": 2022,
+        "재산": 3981960
+      },
+      {
+        "연도": 2023,
+        "재산": 4149502
+      }
+    ],
+    "huboid": "100153139",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153139/junkwa/20240321163141172_1.PDF"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520401-7.jpg",
+    "id": "2520401-7",
+    "재산": 382630,
+    "생년월일": "19591108",
+    "경력": "(전)태백경찰서장\n(현)개혁신당 당대표 정무특보",
+    "학력": "동국대학교 행정대학원 졸업(행정학 석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2520401",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+        "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] '굳히기 혹은 뒤집기' 막판 부동층 표심이 당락 좌...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070614?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:32:00 +0900",
+        "title": "[총선 여론조사] 후보 지지도…춘천 갑·원주 갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694056?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:35:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693900?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+        "title": "[선택 4·10총선]'꼭 필요' … '힘 있는' … '바꿔야'",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035861?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+        "title": "[강원 동해태백삼척정선] 국민의힘 이철규 53.5%, 더불어민주당 한호연 29.3%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428644?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+        "title": "동해·태백·삼척·정선, 이철규 24.2%p 차로 한호연에 앞서",
+        "link": "https://www.mbceg.co.kr/post/114183"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:03:00 +0900",
+        "title": "[총선/강원 2차 여론조사] 후보 지지도…춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693764?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+        "title": "[총선/강원 2차 여론조사]① 후보 지지도 - 춘천갑·원주갑·강릉·동태삼정",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693721?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:47:00 +0900",
+        "title": "[총선 여론조사] 원주갑 초접전…허영·권성동·이철규 우세",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070550?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+        "title": "[케이스탯리서치] 동해태백삼척정선, 국힘 이철규 53.5%로 민주 한호연 29.3%...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347836"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+        "title": "2차 여론조사, 권성동·이철규·허영 1위, 원주 갑 접전",
+        "link": "https://www.mbceg.co.kr/post/114177"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "[2차 여론조사 종합] 춘천 갑 허영 48.1% vs 김혜란 38.8% ··· 원주갑은 오...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035790?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "동태삼정 이철규 53.5%, 한호연 29.3% [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070540?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+        "title": "원주갑 초접전… 허영, 권성동, 이철규 우세 [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070541?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+        "title": "[2차 여론조사-동태삼정] 한호연 29.3% vs 이철규 53.5% vs 류성호 1.4%",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035789?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+        "title": "[선택 4·10 총선 D-8]동해·태백·삼척·정선 “지역발전 적임자 선택해 달라...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035595?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:05:00 +0900",
+        "title": "동·태·삼·정 개혁신당 류성호  거대 양당 정치에 너무 매몰돼 있어 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880612?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+        "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:28:00 +0900",
+        "title": "후보 등록 후 첫 주말, 동해안 벨트 접전 양상에 후보들 열띤 유세전",
+        "link": "https://www.mbceg.co.kr/post/114106"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:39:00 +0900",
+        "title": "강원 '보수 아성' 심상찮다…동해안벨트 野 '추격'에 與 '진땀'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447169?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 14:44:00 +0900",
+        "title": "'정권 심판 vs 검증된 일꾼' 한호연·이철규 국정 평가 '공방'",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879910?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 09:06:00 +0900",
+        "title": "한호연·이철규 후보, 현정부 국정평가 놓고 치열한 공방",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070210?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 23:33:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691853?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 22:03:00 +0900",
+        "title": "[총선] ‘동태삼정’, 한호연·이철규 열띤 공방",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691790?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:34:00 +0900",
+        "title": "한호연-이철규 '상대 공약·지역 현안 입장 차'",
+        "link": "https://www.mbceg.co.kr/post/114096"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:30:00 +0900",
+        "title": "&lt;토론회&gt;3선 도전 vs 정권 심판 동태삼정",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305060"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:01:00 +0900",
+        "title": "[4·10총선 토론회]청정 수소 산업 추진엔 공감…국정 평가는 정반대",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035054?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:37:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 열려",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691633?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:46:00 +0900",
+        "title": "공식 선거운동 첫 유세지역... 후보자 '전략' 담겼다",
+        "link": "https://www.mbceg.co.kr/post/114078"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:01:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 개최",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691286?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:49:00 +0900",
+        "title": "‘동태삼정’ 선거구 후보자 토론회 오늘 오후 2시 KBS1TV",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691155?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 00:06:00 +0900",
+        "title": "[4.10 총선, 강원의 선택] 한호연  정권 심판  vs 이철규  미래 완성  vs 류성...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070105?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+        "title": "거리에서 장터에서…  소중한 한 표  목소리",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034961?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:34:00 +0900",
+        "title": "강원 남부 폐광지역 3파전...지역 발전 한목소리",
+        "link": "https://www.mbceg.co.kr/post/114066"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+        "title": "2024 강원의 선택",
+        "link": "https://www.mbceg.co.kr/post/114068"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:11:00 +0900",
+        "title": "'심상치 않은' 강원 동해안 벨트… 보수 수성 vs 권력 교체 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879194?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:04:00 +0900",
+        "title": "[선거레이더]동태삼정, 공룡선거구 유권자들의 선택은?",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461229"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+        "title": "[선택 4·10 총선] 가리왕산 국가정원 유치 한 목소리",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034669?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+        "title": "[선택 4·10총선] 태백 장성광업소 6월 폐광 대비 대체산업 육성 적임자 '지지...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034672?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:03:00 +0900",
+        "title": "[선택 4·10총선]삼척 ‘경제활성화 등 현안해결에 초점’",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034367?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:28:00 +0900",
+        "title": "[강원도 여론조사] 강원 영서 접전, 강원 영동 국민의힘 우세",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307020"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:10:00 +0900",
+        "title": "&lt;여론&gt;동태삼정, 이철규 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304816"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 07:15:00 +0900",
+        "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304802"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:08:00 +0900",
+        "title": "'과반 지지율' 이철규, 2위 한호연과 19%p차",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069757?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:08:00 +0900",
+        "title": "춘천 갑·원주 갑 초접전…영동 국민의힘 우위",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069758?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:04:00 +0900",
+        "title": "‘빅3’ 오차범위 내 접전·추격전…‘동-태-삼-정’ 與 우세",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034113?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 00:02:00 +0900",
+        "title": "이철규 과반 지지율…4개 시·군 모두 선두",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034101?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 23:36:00 +0900",
+        "title": "[총선/여론조사]③ 동해태백삼척정선, 1위 이철규…2위 한호연",
+        "link": "https://n.news.naver.com/mnews/article/056/0011688326?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 21:49:00 +0900",
+        "title": "[총선/여론조사]④ 동해태백삼척정선, 1위 이철규…2위 한호연",
+        "link": "https://n.news.naver.com/mnews/article/056/0011688183?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 21:03:00 +0900",
+        "title": "[선택 4·10총선]동해지역 키워드는 '지역경기 활성화'",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034079?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 20:34:00 +0900",
+        "title": "동해태백삼척정선 '이철규 51% VS 한호연 32%'",
+        "link": "https://www.mbceg.co.kr/post/113962"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 20:30:00 +0900",
+        "title": "&lt;여론&gt; 동태삼정, 이철규 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304782"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 19:17:00 +0900",
+        "title": "[총선 여론조사] 춘천갑·원주갑 오차범위 내 초접전…강릉도 박빙",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069684?sid=102"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 19:10:00 +0900",
+        "title": "[총선/여론조사]④ 동해태백삼척정선, 1위 이철규…2위 한호연",
+        "link": "https://n.news.naver.com/mnews/article/056/0011688041?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 17:59:00 +0900",
+        "title": "[강원 동해태백삼척정선] 국민의힘 이철규 51%, 더불어민주당 한호연 32%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427334?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 17:40:00 +0900",
+        "title": "도내 5개 언론사 공동 여론조사 발표",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_5&newsid=304761"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:28:00 +0900",
+        "title": "강릉시 '김중남 35.4% 권성동 44.1% 이영랑 3.3%' 동해태백삼척정선 '한호연 ...",
+        "link": "https://www.mbceg.co.kr/post/113954"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:04:00 +0900",
+        "title": "동·태·삼·정 이철규 51%, 한호연 32% [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069669?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:03:00 +0900",
+        "title": "춘천갑·원주갑 오차범위 내 초접전…강릉도 박빙 [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069665?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:03:00 +0900",
+        "title": "[여론조사 종합]춘천갑-원주갑 오차범위내 초박빙 승부…강릉서도 추격전",
+        "link": "https://n.news.naver.com/mnews/article/087/0001033996?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:03:00 +0900",
+        "title": "[여론조사-동태삼정] 한호연 32% vs 이철규 51%",
+        "link": "https://n.news.naver.com/mnews/article/087/0001033995?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:02:00 +0900",
+        "title": "[5시 리포트] 국회의원 선거 후보자 여론조사 결과 공개",
+        "link": "https://chmbc.co.kr/article/fpYqDTPfBopu2Xv-f_jY2"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 00:07:00 +0900",
+        "title": "[4·10 총선 격전지를 가다] 해양·폐광지 '공룡선거구' 폭넓은 민심 수확 당...",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069608?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 12:28:00 +0900",
+        "title": "22대 국회의원 선거 강원 8개 선거구 21명 후보 등록[2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005160682?sid=102"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 23:38:00 +0900",
+        "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+        "link": "https://n.news.naver.com/mnews/article/056/0011687106?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:16:00 +0900",
+        "title": "[2대 총선] 강원 8개 선거구 21명 후보등록…1.90대 1 경쟁률",
+        "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200345.html"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:44:00 +0900",
+        "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+        "link": "https://n.news.naver.com/mnews/article/056/0011686996?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:58:00 +0900",
+        "title": "제22대 총선, 동해시태백시삼척시정선군 선거구 후보군",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583413?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:36:00 +0900",
+        "title": "영동권 8명 후보 등록, '28일부터 본격 유세전'",
+        "link": "https://www.mbceg.co.kr/post/113916"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 강원(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583361?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:45:00 +0900",
+        "title": "강원 여성 후보 2명 출사표…'윤핵관' 권성동 후보는 5선 도전",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583344?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:33:00 +0900",
+        "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+        "link": "https://n.news.naver.com/mnews/article/056/0011686907?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:24:00 +0900",
+        "title": "[4·10총선 후보자 등록] 강원",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430839?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:04:00 +0900",
+        "title": "강원 총선 후보자 17명 '병역필'…여성 이외 2명 '미필'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583293?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 14:46:00 +0900",
+        "title": "개혁신당, 중앙선대위 출범···천하람 총괄선대위원장 선임",
+        "link": "http://www.mdilbo.com/detail/0kIA7d/715902"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 11:58:00 +0900",
+        "title": "영동지역 3개 선거구, 총선 후보 8명 등록",
+        "link": "https://www.mbceg.co.kr/post/113905"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:34:00 +0900",
+        "title": "동해·태백·삼척·정선 '힘있는 3선 vs 새로운 바람'",
+        "link": "https://www.mbceg.co.kr/post/113892"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:23:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 강원(21일 마감)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014580685?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 17:58:00 +0900",
+        "title": "'동해·태백·삼척·정선' 한호연·이철규·류성호 후보자 등록",
+        "link": "https://www.newspim.com/news/view/20240321000862"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 17:16:00 +0900",
+        "title": "동해·삼척·태백·정선 선거구 한호연·이철규·류성호 후보 등록",
+        "link": "https://n.news.naver.com/mnews/article/087/0001033424?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 16:56:00 +0900",
+        "title": "개혁신당 류성호 동태삼정 후보 등록",
+        "link": "https://n.news.naver.com/mnews/article/087/0001033406?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 16:34:00 +0900",
+        "title": "22대 총선 본격 레이스...동해·태백·삼척·정선 후보 속속 등록",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069360?sid=100"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 15:34:00 +0900",
+        "title": "영동지역 총선 후보 대부분 첫날 등록...본격적인 선거전",
+        "link": "https://www.mbceg.co.kr/post/113884"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 07:41:00 +0900",
+        "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011685672?sid=100"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 23:53:00 +0900",
+        "title": "[총선] ‘동태삼정’ 지역 경제 살리기…4명 공약은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011685493?sid=100"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 21:45:00 +0900",
+        "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011685370?sid=100"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 19:29:00 +0900",
+        "title": "[총선] 동태삼정, 지역 경제 살리기…4명 공약은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011685238?sid=100"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 17:16:00 +0900",
+        "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
+        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 15:48:00 +0900",
+        "title": "[22대 총선 대진표] ⑥강원·제주…집토끼 단속 먼저! 텃밭을 지켜라",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468928"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 13:40:00 +0900",
+        "title": "[총선24] 대진표 완성한 강원도...'보수' 강세에 민주 도전장",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317926"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 21:03:00 +0900",
+        "title": "[총선 자기소개서] ‘일 잘하는 일꾼’ 이철규 의원에·민주 한호연 ‘우직함...",
+        "link": "https://n.news.naver.com/mnews/article/087/0001032376?sid=165"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 23:38:00 +0900",
+        "title": "[총선] ‘동태삼정’ 선거구, 여야 후보 4명 출사표",
+        "link": "https://n.news.naver.com/mnews/article/056/0011682357?sid=100"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 21:58:00 +0900",
+        "title": "[총선] ‘동태삼정’, 후보 4명…‘3선’ vs ‘새 인물’",
+        "link": "https://n.news.naver.com/mnews/article/056/0011682315?sid=100"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 10:27:00 +0900",
+        "title": "강원 8개 선거구 대진표 확정…핵심 승부처 원주·춘천 불꽃경쟁 예고",
+        "link": "https://n.news.naver.com/mnews/article/003/0012428480?sid=102"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 15:22:00 +0900",
+        "title": "22대 총선 동해·태백·삼척·정선 선거구, 29일 후보자 초청 방송토론회",
+        "link": "https://n.news.naver.com/mnews/article/654/0000068655?sid=100"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 15:20:00 +0900",
+        "title": "강원 동해안 벨트, 與 '5선·3선 수성' vs 野 '권력교체' 도전장",
+        "link": "https://n.news.naver.com/mnews/article/079/0003873911?sid=165"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 10:10:00 +0900",
+        "title": "&lt;총선.6&gt; 동태삼정,  재선 현역에 3명 도전장 ",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304134"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "류성호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 382630
+      }
+    ],
+    "huboid": "100153147",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5204/Hb100153147/junkwa/20240321170311156_8.PDF"
+  }
 ]

@@ -1,1059 +1,1059 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112201-1.jpg",
-        "id": "2112201-1",
-        "재산": 446308,
-        "생년월일": "19810401",
-        "경력": "(현) 법무법인 두우 파트너 변호사\n(현) 더불어민주당 중앙당 부대변인",
-        "학력": "이화여자대학교 사범대학 사회생활학과 (졸업)",
-        "직업": "변호사",
-        "성별": "여",
-        "regionId": "2112201",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Wed, 27 Mar 2024 19:11:00 +0900",
-                "title": "국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유",
-                "link": "https://n.news.naver.com/mnews/article/607/0000001930?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:17:00 +0900",
-                "title": "기름 붓듯이 돈 풀어 물가 잡겠다는 이재명식 재난지원금",
-                "link": "https://www.newspim.com/news/view/20240326000923"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 09:46:00 +0900",
-                "title": "이재명  민주 현역 교체 69명, 사상 최대…총선서 효과 낼 것 ",
-                "link": "https://www.newspim.com/news/view/20240326000160"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 09:32:00 +0900",
-                "title": "이재명, '돈 풀면 물가 올라' 한동훈에  소양호에 돌 던진다고 댐 넘치나 ",
-                "link": "https://www.newspim.com/news/view/20240326000121"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 19:11:00 +0900",
-                "title": "[총선을 뛴다]②정치판 몰려든 법조인…'친윤 vs 친명 검사' 승부",
-                "link": "https://n.news.naver.com/mnews/article/018/0005699813?sid=100"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 18:57:00 +0900",
-                "title": "이재명, 지지율 상승세에  이럴 때 가장 위험…고개 들면 진다 ",
-                "link": "https://www.newspim.com/news/view/20240325001071"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 17:44:00 +0900",
-                "title": "이재명, '민생회복 지원금' 비판에 반박... 긍정적 효과가 더 커 ",
-                "link": "https://www.newspim.com/news/view/20240325001010"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:14:00 +0900",
-                "title": "민주, 이재명-김부겸-이해찬 '3두 체제' 선거 주도",
-                "link": "http://www.gjdream.com/news/articleView.html?idxno=641654"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 14:42:00 +0900",
-                "title": "이재명 대표, 1인당 25만원 민생회복 지원금 지급 제안",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=445595"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 13:23:00 +0900",
-                "title": "이재명-김부겸-이해찬, ‘3두 체제’ 역할 분담…심판론 확산 효과 내나",
-                "link": "https://n.news.naver.com/mnews/article/003/0012448274?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 08:25:00 +0900",
-                "title": "尹지지율, 4주 연속 하락 36.5%…국민의힘 37.1% 민주 42.8%",
-                "link": "https://n.news.naver.com/mnews/article/022/0003917477?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 06:08:00 +0900",
-                "title": "강남 간 이재명 “1인당 25만원 민생회복지원금…지역화폐로 지급”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003917453?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 02:03:00 +0900",
-                "title": "이재명 “차라리 대통령 없었으면 나았을 듯…무식한 양반들”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003917434?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 21:04:00 +0900",
-                "title": "이재명  민생회복지원금 국민 1인당 25만원 지급 ",
-                "link": "https://n.news.naver.com/mnews/article/022/0003917390?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:30:00 +0900",
-                "title": "고속터미널 광장에서 인사하는 이재명 대표",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951778"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 20:28:00 +0900",
-                "title": "이재명, '험지' 서초구 표심 공략",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951776"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 19:55:00 +0900",
-                "title": "이재명은 서울로 김부겸은 PK로…민주, 격전지 집중유세",
-                "link": "https://n.news.naver.com/mnews/article/028/0002682290?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 19:39:00 +0900",
-                "title": "[총선현장] '험지' 강남3구 찾은 이재명...민생회복 지원금 등 경제공약 강조",
-                "link": "https://www.newspim.com/news/view/20240324000140"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 17:22:00 +0900",
-                "title": "이재명  주가 5000시대 만들겠다 …에너지고속도로 구축 촉구",
-                "link": "https://n.news.naver.com/mnews/article/018/0005698977?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 17:08:00 +0900",
-                "title": "與 이재명 선거법 위반 고발…“비례정당 지원·마이크 사용”",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037111?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:24:00 +0900",
-                "title": "광장에서 기자회견 연 이재명 대표 [포토]",
-                "link": "https://n.news.naver.com/mnews/article/629/0000275828?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:23:00 +0900",
-                "title": "'험지 공략' 나선 이재명 '전국민 25만원 민생회복지원금 제안' [TF사진관]",
-                "link": "https://n.news.naver.com/mnews/article/629/0000275825?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:23:00 +0900",
-                "title": "이재명 '여러분의 지지가 필요합니다' [포토]",
-                "link": "https://n.news.naver.com/mnews/article/629/0000275827?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:04:00 +0900",
-                "title": "[포토] 시민들에게 인사하는 이재명·김한나·홍익표",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013734"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:04:00 +0900",
-                "title": "[포토] 고속버스터미널 찾은 이재명",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013732"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:03:00 +0900",
-                "title": "이재명, '험지' 서초구 표심 공략",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432582?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:03:00 +0900",
-                "title": "서초 표심에 지지 호소하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432579?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:03:00 +0900",
-                "title": "고속터미널 광장에서 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432578?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 16:03:00 +0900",
-                "title": "험지 표심 공략하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432580?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:48:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014585011?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:47:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014585006?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:47:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014585005?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
-                "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446930?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
-                "title": "김한나-홍익표 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446928?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
-                "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446929?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
-                "title": "서초 방문한 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446927?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:31:00 +0900",
-                "title": "지지 호소하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432533?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "이재명 대표, 서초구 김한나-홍익표 후보 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432515?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "김한나-홍익표 후보 지원사격 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432524?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "주말 표심 공략 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432516?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "이재명, 서초구 김한나-홍익표 후보 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432518?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "이재명, 서초 고속버스터미널 방문",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432521?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:27:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584968?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:27:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584969?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "'손을 맞잡고'",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446893?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "김한나-홍익표 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446894?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "'손을 맞잡고'",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446886?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "서초구 찾아 시민들에게 지지 호소하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877335?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446887?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:23:00 +0900",
-                "title": "김한나-홍익표 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446885?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:22:00 +0900",
-                "title": "서초구 찾은 민주당 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877329?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:22:00 +0900",
-                "title": "서초 지역 후보들과 함께하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877331?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "발언나선 이재명 민주당 대표",
-                "link": "https://www.newspim.com/news/view/20240324000115"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "서초구 찾은 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000117"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "서초구 지원유세나선 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000114"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "발언하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000108"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "서초구 찾은 이재명",
-                "link": "https://www.newspim.com/news/view/20240324000111"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "악수하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000109"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "시민들에게 인사하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000118"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "고속버스터미널 찾은 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000120"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "현장 기자회견하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000116"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "지지 호소하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000113"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "서초구 지원유세나선 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000107"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "서초구 고속버스터미널 방문한 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000119"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:16:00 +0900",
-                "title": "기자회견하는 이재명 대표",
-                "link": "https://www.newspim.com/news/view/20240324000112"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
-                "title": "시민들에게 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446880?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
-                "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446879?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
-                "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446877?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
-                "title": "서초구 지지 호소하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446878?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:08:00 +0900",
-                "title": "서초구 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584942?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "서초구 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584941?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "이재명, 서초 고속터미널 찾아 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432417?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "이재명 대표, 서울고속버스터미널 찾아 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432419?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "강남 고속터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432416?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584939?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "고속터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432420?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:07:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584940?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:54:00 +0900",
-                "title": "험지 공략 나선 이재명",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432354?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:54:00 +0900",
-                "title": "이재명, 서초구 김한나-홍익표 후보 지원사격",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432350?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:54:00 +0900",
-                "title": "주말 표심 호소하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432351?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446794?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초 민심잡기 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432339?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584910?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584911?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446793?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446795?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서울고속버스터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446798?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초구 지원 나선 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584909?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "이재명 대표, 서울고속버스터미널 방문",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432336?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "서초 유권자들에게 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432338?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-                "title": "이재명 '양손 엄지 척'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007432337?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:48:00 +0900",
-                "title": "서울고속버스터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584873?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:48:00 +0900",
-                "title": "서울고속버스터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584877?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:48:00 +0900",
-                "title": "서울고속버스터미널에서 시민들에게 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584874?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:48:00 +0900",
-                "title": "서울고속버스터미널 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/001/0014584878?sid=100"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:41:00 +0900",
-                "title": "서초구 찾은 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446778?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:41:00 +0900",
-                "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446779?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 14:41:00 +0900",
-                "title": "김한나-홍익표 후보와 인사 하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012446777?sid=165"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 10:04:00 +0900",
-                "title": "소리없이 교체된 서울 서초갑 1번(민주당) 후보.... 대체 무슨 일이? | '돈봉...",
-                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19396&Newsnumb=20240319396"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 09:02:00 +0900",
-                "title": "이재명, 서울 내 험지 송파·강남·서초·동작 등 '강남 4구' 지원",
-                "link": "https://www.newspim.com/news/view/20240324000020"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김한나",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 446308
-            }
-        ],
-        "huboid": "100153024",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1122/Hb100153024/junkwa/20240312180418295_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112201-2.jpg",
-        "id": "2112201-2",
-        "재산": 4470553,
-        "생년월일": "19610520",
-        "경력": "(현) 서초구갑 국회의원\n(전) 민선6,7기 서초구청장",
-        "학력": "서울대학교 대학원 국어국문학과 졸업 (문학석사)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "1197",
-        "regionId": "2112201",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
-                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
-                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:06:00 +0900",
-                "title": "D-8, 여야 막판 골칫거리는…의대정원·부동산리스크",
-                "link": "https://www.naeil.com/news/read/506245?ref=naver"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
-                "title": "[오늘의 주요 정치 일정] 국회(4월2일 화요일)",
-                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=333027"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:42:00 +0900",
-                "title": "[오늘의 국회] 2024년 4월2일",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404020936035380924"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:04:00 +0900",
-                "title": "[오늘의 주요 일정] '대장동 배임·성남FC 뇌물' 이재명 공판",
-                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213395"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:00:00 +0900",
-                "title": "[오늘의 국회일정](2일·화)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604026?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 06:18:00 +0900",
-                "title": "【오늘의 국회일정】 2024년 4월 1일",
-                "link": "https://www.lawtimes.co.kr/news/197255"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
-                "title": "[오늘의 주요일정]국회(4월2일 화요일)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464803?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
-                "title": "[오늘의 국회일정] (2일, 화)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451608?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 04:11:00 +0900",
-                "title": "“신공항·産銀·사직구장”… PK 격전지 찾아 ‘보따리’ 푼 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/005/0001685474?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 23:18:00 +0900",
-                "title": "與  새마을금고, 양문석 대출 의혹 신속히 조사해야 ",
-                "link": "https://n.news.naver.com/mnews/article/052/0002017795?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 22:35:00 +0900",
-                "title": "'편법대출' 양문석  아파트 처분, 차액 기부 …與, 사기 혐의로 檢 고발",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880659?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:17:00 +0900",
-                "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
-                "link": "https://www.newspim.com/news/view/20240401001269"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:17:00 +0900",
-                "title": "양문석 후보 ‘수성새마을금고 편법 대출’ 의혹 일파만파",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870490?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:03:00 +0900",
-                "title": "양문석 “아파트 처분, 차익 전액 기부”…편법대출 논란 봉합될까",
-                "link": "https://n.news.naver.com/mnews/article/028/0002683487?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-                "title": "양문석 “아파트 팔아 새마을금고 대출 갚을 것…남으면 기부”",
-                "link": "https://n.news.naver.com/mnews/article/032/0003288074?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:36:00 +0900",
-                "title": " 막판 악재될까  민주, 양문석 리스크 골머리",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990583"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:52:00 +0900",
-                "title": "새마을금고 중앙회 찾은 국민의힘  양문석 대출 관례 아니라더라 ",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644814"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:10:00 +0900",
-                "title": "尹담화에…한동훈  조속 결론 요청 ·이재명  엄하게 심판해야 ",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652855?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "與 '불법대출' 논란 양문석에  거짓말 일관 …野 '도덕성 리스크' 비상",
-                "link": "https://n.news.naver.com/mnews/article/011/0004321764?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:15:00 +0900",
-                "title": "‘편법 대출 의혹’ 양문석 “아파트 처분할 것···이익 발생시 공익단체 기...",
-                "link": "https://n.news.naver.com/mnews/article/032/0003288043?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:12:00 +0900",
-                "title": "與  새마을금고, '양문석 대출' 관례 아니라고 해 ",
-                "link": "https://www.ajunews.com/view/20240401144138228"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
-                "title": "편법대출 양문석  집 팔겠다  … 김준혁 농지투기 의혹도",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281666?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:48:00 +0900",
-                "title": "‘PK’ 방문한 한동훈…신공항·산업은행·사직야구장까지 ‘약속 보따리’",
-                "link": "https://n.news.naver.com/mnews/article/005/0001685315?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-                "title": "양문석 '편법 대출' 직격한 與…민주당, 무대응 속 '공천 취소' 요구도",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704610?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-                "title": "버티는 양문석, 손 놓은 당에 속타는 민주당 후보들",
-                "link": "https://n.news.naver.com/mnews/article/469/0000793695?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
-                "title": "국힘, 양문석 '사기'로 고발.  제출서류 허위인듯 ",
-                "link": "http://www.viewsnnews.com/article?q=218848"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:58:00 +0900",
-                "title": "D-9 … 네거티브 공세·읍소 모드로 막판 뒤집기 나선 與",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100227.html"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:57:00 +0900",
-                "title": "윤대통령 담화에… 국민 위한 결론 요청   불통정권 ",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652821?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
-                "title": "野양문석 편법대출 논란 일파만파…“새마을금고, 관례 아니라 했다” 맹공 나...",
-                "link": "https://n.news.naver.com/mnews/article/009/0005281536?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "양문석 리스크 급부상… 여  불량 후보 공천  vs 야  결과부터 봐야 ",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3124800"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-                "title": "윤재옥 “양문석 대출 관례 아냐” 확인…민주당 자성론",
-                "link": "https://www.idaegu.com/newsView/idg202404010078"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:29:00 +0900",
-                "title": "국힘 ‘딸 명의 편법대출’ 양문석 후보 고발",
-                "link": "https://n.news.naver.com/mnews/article/658/0000070125?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:13:00 +0900",
-                "title": "與  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
-                "link": "https://n.news.naver.com/mnews/article/448/0000453622?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:53:00 +0900",
-                "title": "與  새마을금고, 양문석 대출 의혹 신속히 조사해야 ",
-                "link": "https://n.news.naver.com/mnews/article/052/0002017654?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
-                "title": "국민의힘, '편법 대출' 의혹 양문석 고발에 조사 촉구까지",
-                "link": "https://n.news.naver.com/mnews/article/469/0000793651?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:21:00 +0900",
-                "title": "윤 대통령 담화에… 국민 위한 결론 요청   불통정권 ",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652813?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:20:00 +0900",
-                "title": "새마을금고 방문한 與  양문석 대출, 관례 아니라고 확인 ",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000526"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
-                "title": "與  새마을금고, '양문석 편법 대출' 관례 아니라고 해 ",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880482?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:04:00 +0900",
-                "title": "국민의힘  양문석 대출 논란...새마을금고, 관례 아니야 ",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317353"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:56:00 +0900",
-                "title": "국민의힘  민주 양문석 후보 새마을금고 대출 관례 아니다 ",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000093"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
-                "title": " 새마을금고, `양문석 대출` 관례 아니라고 확인...현지 검사 중 ",
-                "link": "https://n.news.naver.com/mnews/article/029/0002864734?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:40:00 +0900",
-                "title": "'편법대출 의혹' 양문석...국민의힘  새마을금고 측은 관례 아니라고 해 ",
-                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318821"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:40:00 +0900",
-                "title": "“‘양문석 대출’ 관례 아냐”… 與, 새마을금고에 자료 제출 요구",
-                "link": "https://n.news.naver.com/mnews/article/005/0001685228?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:20:00 +0900",
-                "title": "“양문석 ‘관례’ 주장, 수성새마을금고는 아니라고 해”",
-                "link": "http://www.kukinews.com/newsView/kuk202404010170"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:12:00 +0900",
-                "title": "여당  새마을금고 중앙회, '양문석 대출' 관례 아니라고 확인 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004967123?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:03:00 +0900",
-                "title": "국민의힘  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001143472?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:01:00 +0900",
-                "title": "국민의힘  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
-                "link": "https://n.news.naver.com/mnews/article/055/0001143470?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:48:00 +0900",
-                "title": "與  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602482?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:26:00 +0900",
-                "title": "여, '양문석 편법대출' 조사 촉구… 새마을금고 관례 아니다고 해 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463268?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:11:00 +0900",
-                "title": "與, 양문석 자녀 사업자등록증 자료요구…신속한 진상규명 촉구",
-                "link": "https://n.news.naver.com/mnews/article/018/0005704328?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:56:00 +0900",
-                "title": "[총선] 국민의힘 “새마을금고, ‘양문석 대출’ 관례 아니라고 확인”",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692692?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:18:00 +0900",
-                "title": "與, ‘양문석 편법대출 의혹’ 공세…검찰 고발·신속 조사 촉구",
-                "link": "https://www.etoday.co.kr/news/view/2346388"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:04:00 +0900",
-                "title": "양문석 편법대출 변곡점 될까…국힘, 새마을금고 찾아 조사 촉구",
-                "link": "https://n.news.naver.com/mnews/article/421/0007449927?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
-                "title": "여당, 연일 야당 '부동산 사기 대출 의혹-아빠 찬스' 집중 공세",
-                "link": "https://n.news.naver.com/mnews/article/003/0012462966?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
-                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
-                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
-                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
-                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
-                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
-                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
-                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:21:00 +0900",
-                "title": "김남국 말고 가상자산 10억 이상 공직자도 있다… 최지영 기재부 차관보 ‘재...",
-                "link": "https://n.news.naver.com/mnews/article/081/0003440577?sid=102"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:46:00 +0900",
-                "title": "임재훈 국민의힘 안양동안갑 후보, 선거사무소 개소식 개최",
-                "link": "http://www.breaknews.com/1023682"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 08:26:00 +0900",
-                "title": "가상자산 매매 국회의원 20명…김남국 78종 15억 원 보유",
-                "link": "https://n.news.naver.com/mnews/article/055/0001142405?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 05:03:00 +0900",
-                "title": "김남국 의원 가상자산 78종 15억 보유… 최지영 기재부 차관보 494억대 ‘최고...",
-                "link": "https://n.news.naver.com/mnews/article/081/0003440308?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:03:00 +0900",
-                "title": "[재산공개] 국회의원 가상자산 1위 김남국…78종 코인 15억 보유",
-                "link": "https://n.news.naver.com/mnews/article/366/0000981269?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:02:00 +0900",
-                "title": "총 1.3억짜리 하프·순금열쇠·다이아몬드…국회의원 이색 자산",
-                "link": "https://n.news.naver.com/mnews/article/016/0002286792?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-                "title": "[재산공개] 가상자산 매매 국회의원 20명…김남국 78종 15억원 보유",
-                "link": "https://n.news.naver.com/mnews/article/001/0014593476?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-                "title": "[재산공개] 5억 골프 회원권·포르쉐·묘지까지…국회의원 이색재산",
-                "link": "https://n.news.naver.com/mnews/article/421/0007440778?sid=100"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 05:03:00 +0900",
-                "title": "수도권 우세, 與 19vs 野 83… 20곳은 초접전",
-                "link": "https://n.news.naver.com/mnews/article/081/0003439985?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:06:00 +0900",
-                "title": "국힘 82곳-민주 110곳 '우세' 분류…수도권·충청에 촉각",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240326010015139"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
-                "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
-                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
-                "title": "[총선여론] 수도권, 국힘 20곳·민주 87곳 '우세·경합우세' 전망.. 동작을 제...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640634"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:08:00 +0900",
-                "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
-                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
-                "title": "4·10 총선 D-15, 우세지역 與 82 vs 野 110‥중도·부동층 민심 밀집한 '서울...",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219388"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
-                "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
-                "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:57:00 +0900",
-                "title": "'수도권 출마' TK 출향 후보들, 격전지서 금배지 사냥 나선다",
-                "link": "https://n.news.naver.com/mnews/article/088/0000869415?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:40:00 +0900",
-                "title": "여야 총선 전망, 국민의힘  82곳  민주  110곳 ",
-                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021689"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 17:38:00 +0900",
-                "title": "국힘  최대 10곳  민주  최소 21곳 …승부처 '서울' 판세",
-                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224685&inflow=N"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 16:47:00 +0900",
-                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
-                "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
-                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 13:50:00 +0900",
-                "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
-                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:46:00 +0900",
-                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
-                "title": "국힘 82곳-민주 110곳에서 우세 자신",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:46:00 +0900",
-                "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
-                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:44:00 +0900",
-                "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
-                "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:24:00 +0900",
-                "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 10:22:00 +0900",
-                "title": "총선 D-15 우세지역…국힘  82곳 ·민주  110곳 ",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436028"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 09:19:00 +0900",
-                "title": "'총선 D-15' 우세지역 묻자…국힘  82곳 ·민주  110곳 ",
-                "link": "https://n.news.naver.com/mnews/article/015/0004964472?sid=165"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 08:51:00 +0900",
-                "title": "양당이 분석한 '우세 지역'… 국민의힘  82곳 ·민주  110곳 ",
-                "link": "https://n.news.naver.com/mnews/article/654/0000069769?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 07:46:00 +0900",
-                "title": "총선 D-15, 국민의힘 82곳·민주 110곳 ‘우세’… 막판 혼전 예상",
-                "link": "https://n.news.naver.com/mnews/article/366/0000980675?sid=100"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
-                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
-                "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 16:36:00 +0900",
-                "title": "중2가 도박사이트 총판…실효성 의심되는 ‘도박예방교육’",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=786946"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 12:38:00 +0900",
-                "title": "임재훈 안양동안갑 후보  민주당 20여 년간 독점 새로운 변화 필요 ",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079750"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 11:50:00 +0900",
-                "title": "임재훈 국힘 안양 동안갑 후보 22대 총선 향해 힘찬 시동",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=225591"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "조은희",
-        "연도별_재산": [
-            {
-                "연도": 2022,
-                "재산": 4337098
-            },
-            {
-                "연도": 2023,
-                "재산": 4470553
-            }
-        ],
-        "huboid": "100152989",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1122/Hb100152989/junkwa/20240308103538344_1.PDF"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112201-1.jpg",
+    "id": "2112201-1",
+    "재산": 446308,
+    "생년월일": "19810401",
+    "경력": "(현) 법무법인 두우 파트너 변호사\n(현) 더불어민주당 중앙당 부대변인",
+    "학력": "이화여자대학교 사범대학 사회생활학과 (졸업)",
+    "직업": "변호사",
+    "성별": "여",
+    "regionId": "2112201",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Wed, 27 Mar 2024 19:11:00 +0900",
+        "title": "국회의원 후보 '가상자산' 첫 신고… 66명이 10억 9500만 원 보유",
+        "link": "https://n.news.naver.com/mnews/article/607/0000001930?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:17:00 +0900",
+        "title": "기름 붓듯이 돈 풀어 물가 잡겠다는 이재명식 재난지원금",
+        "link": "https://www.newspim.com/news/view/20240326000923"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 09:46:00 +0900",
+        "title": "이재명  민주 현역 교체 69명, 사상 최대…총선서 효과 낼 것 ",
+        "link": "https://www.newspim.com/news/view/20240326000160"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 09:32:00 +0900",
+        "title": "이재명, '돈 풀면 물가 올라' 한동훈에  소양호에 돌 던진다고 댐 넘치나 ",
+        "link": "https://www.newspim.com/news/view/20240326000121"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 19:11:00 +0900",
+        "title": "[총선을 뛴다]②정치판 몰려든 법조인…'친윤 vs 친명 검사' 승부",
+        "link": "https://n.news.naver.com/mnews/article/018/0005699813?sid=100"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 18:57:00 +0900",
+        "title": "이재명, 지지율 상승세에  이럴 때 가장 위험…고개 들면 진다 ",
+        "link": "https://www.newspim.com/news/view/20240325001071"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 17:44:00 +0900",
+        "title": "이재명, '민생회복 지원금' 비판에 반박... 긍정적 효과가 더 커 ",
+        "link": "https://www.newspim.com/news/view/20240325001010"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:14:00 +0900",
+        "title": "민주, 이재명-김부겸-이해찬 '3두 체제' 선거 주도",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=641654"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 14:42:00 +0900",
+        "title": "이재명 대표, 1인당 25만원 민생회복 지원금 지급 제안",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=445595"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 13:23:00 +0900",
+        "title": "이재명-김부겸-이해찬, ‘3두 체제’ 역할 분담…심판론 확산 효과 내나",
+        "link": "https://n.news.naver.com/mnews/article/003/0012448274?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 08:25:00 +0900",
+        "title": "尹지지율, 4주 연속 하락 36.5%…국민의힘 37.1% 민주 42.8%",
+        "link": "https://n.news.naver.com/mnews/article/022/0003917477?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 06:08:00 +0900",
+        "title": "강남 간 이재명 “1인당 25만원 민생회복지원금…지역화폐로 지급”",
+        "link": "https://n.news.naver.com/mnews/article/022/0003917453?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 02:03:00 +0900",
+        "title": "이재명 “차라리 대통령 없었으면 나았을 듯…무식한 양반들”",
+        "link": "https://n.news.naver.com/mnews/article/022/0003917434?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 21:04:00 +0900",
+        "title": "이재명  민생회복지원금 국민 1인당 25만원 지급 ",
+        "link": "https://n.news.naver.com/mnews/article/022/0003917390?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:30:00 +0900",
+        "title": "고속터미널 광장에서 인사하는 이재명 대표",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951778"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 20:28:00 +0900",
+        "title": "이재명, '험지' 서초구 표심 공략",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951776"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 19:55:00 +0900",
+        "title": "이재명은 서울로 김부겸은 PK로…민주, 격전지 집중유세",
+        "link": "https://n.news.naver.com/mnews/article/028/0002682290?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 19:39:00 +0900",
+        "title": "[총선현장] '험지' 강남3구 찾은 이재명...민생회복 지원금 등 경제공약 강조",
+        "link": "https://www.newspim.com/news/view/20240324000140"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 17:22:00 +0900",
+        "title": "이재명  주가 5000시대 만들겠다 …에너지고속도로 구축 촉구",
+        "link": "https://n.news.naver.com/mnews/article/018/0005698977?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 17:08:00 +0900",
+        "title": "與 이재명 선거법 위반 고발…“비례정당 지원·마이크 사용”",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037111?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:24:00 +0900",
+        "title": "광장에서 기자회견 연 이재명 대표 [포토]",
+        "link": "https://n.news.naver.com/mnews/article/629/0000275828?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:23:00 +0900",
+        "title": "'험지 공략' 나선 이재명 '전국민 25만원 민생회복지원금 제안' [TF사진관]",
+        "link": "https://n.news.naver.com/mnews/article/629/0000275825?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:23:00 +0900",
+        "title": "이재명 '여러분의 지지가 필요합니다' [포토]",
+        "link": "https://n.news.naver.com/mnews/article/629/0000275827?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:04:00 +0900",
+        "title": "[포토] 시민들에게 인사하는 이재명·김한나·홍익표",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013734"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:04:00 +0900",
+        "title": "[포토] 고속버스터미널 찾은 이재명",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013732"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:03:00 +0900",
+        "title": "이재명, '험지' 서초구 표심 공략",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432582?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:03:00 +0900",
+        "title": "서초 표심에 지지 호소하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432579?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:03:00 +0900",
+        "title": "고속터미널 광장에서 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432578?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 16:03:00 +0900",
+        "title": "험지 표심 공략하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432580?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:48:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014585011?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:47:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014585006?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:47:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014585005?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+        "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446930?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+        "title": "김한나-홍익표 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446928?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+        "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446929?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+        "title": "서초 방문한 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446927?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:31:00 +0900",
+        "title": "지지 호소하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432533?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "이재명 대표, 서초구 김한나-홍익표 후보 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432515?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "김한나-홍익표 후보 지원사격 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432524?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "주말 표심 공략 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432516?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "이재명, 서초구 김한나-홍익표 후보 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432518?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "이재명, 서초 고속버스터미널 방문",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432521?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:27:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584968?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:27:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584969?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "'손을 맞잡고'",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446893?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "김한나-홍익표 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446894?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "'손을 맞잡고'",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446886?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "서초구 찾아 시민들에게 지지 호소하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877335?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446887?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:23:00 +0900",
+        "title": "김한나-홍익표 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446885?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:22:00 +0900",
+        "title": "서초구 찾은 민주당 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877329?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:22:00 +0900",
+        "title": "서초 지역 후보들과 함께하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877331?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "발언나선 이재명 민주당 대표",
+        "link": "https://www.newspim.com/news/view/20240324000115"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "서초구 찾은 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000117"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "서초구 지원유세나선 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000114"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "발언하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000108"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "서초구 찾은 이재명",
+        "link": "https://www.newspim.com/news/view/20240324000111"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "악수하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000109"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "시민들에게 인사하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000118"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "고속버스터미널 찾은 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000120"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "현장 기자회견하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000116"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "지지 호소하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000113"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "서초구 지원유세나선 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000107"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "서초구 고속버스터미널 방문한 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000119"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:16:00 +0900",
+        "title": "기자회견하는 이재명 대표",
+        "link": "https://www.newspim.com/news/view/20240324000112"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+        "title": "시민들에게 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446880?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+        "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446879?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+        "title": "김한나-홍익표 후보와 함께 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446877?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+        "title": "서초구 지지 호소하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446878?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:08:00 +0900",
+        "title": "서초구 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584942?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "서초구 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584941?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "이재명, 서초 고속터미널 찾아 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432417?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "이재명 대표, 서울고속버스터미널 찾아 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432419?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "강남 고속터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432416?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584939?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "고속터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432420?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:07:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584940?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:54:00 +0900",
+        "title": "험지 공략 나선 이재명",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432354?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:54:00 +0900",
+        "title": "이재명, 서초구 김한나-홍익표 후보 지원사격",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432350?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:54:00 +0900",
+        "title": "주말 표심 호소하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432351?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446794?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초 민심잡기 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432339?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584910?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584911?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446793?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446795?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서울고속버스터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446798?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초구 지원 나선 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584909?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "이재명 대표, 서울고속버스터미널 방문",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432336?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "서초 유권자들에게 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432338?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+        "title": "이재명 '양손 엄지 척'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007432337?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:48:00 +0900",
+        "title": "서울고속버스터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584873?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:48:00 +0900",
+        "title": "서울고속버스터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584877?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:48:00 +0900",
+        "title": "서울고속버스터미널에서 시민들에게 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584874?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:48:00 +0900",
+        "title": "서울고속버스터미널 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014584878?sid=100"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:41:00 +0900",
+        "title": "서초구 찾은 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446778?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:41:00 +0900",
+        "title": "서초구 출마 후보와 함께 인사하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446779?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 14:41:00 +0900",
+        "title": "김한나-홍익표 후보와 인사 하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012446777?sid=165"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 10:04:00 +0900",
+        "title": "소리없이 교체된 서울 서초갑 1번(민주당) 후보.... 대체 무슨 일이? | '돈봉...",
+        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19396&Newsnumb=20240319396"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 09:02:00 +0900",
+        "title": "이재명, 서울 내 험지 송파·강남·서초·동작 등 '강남 4구' 지원",
+        "link": "https://www.newspim.com/news/view/20240324000020"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김한나",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 446308
+      }
+    ],
+    "huboid": "100153024",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1122/Hb100153024/junkwa/20240312180418295_1.PDF"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112201-2.jpg",
+    "id": "2112201-2",
+    "재산": 4470553,
+    "생년월일": "19610520",
+    "경력": "(현) 서초구갑 국회의원\n(전) 민선6,7기 서초구청장",
+    "학력": "서울대학교 대학원 국어국문학과 졸업 (문학석사)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1197",
+    "regionId": "2112201",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+        "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:06:00 +0900",
+        "title": "D-8, 여야 막판 골칫거리는…의대정원·부동산리스크",
+        "link": "https://www.naeil.com/news/read/506245?ref=naver"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+        "title": "[오늘의 주요 정치 일정] 국회(4월2일 화요일)",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=333027"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:42:00 +0900",
+        "title": "[오늘의 국회] 2024년 4월2일",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404020936035380924"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:04:00 +0900",
+        "title": "[오늘의 주요 일정] '대장동 배임·성남FC 뇌물' 이재명 공판",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213395"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:00:00 +0900",
+        "title": "[오늘의 국회일정](2일·화)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604026?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 06:18:00 +0900",
+        "title": "【오늘의 국회일정】 2024년 4월 1일",
+        "link": "https://www.lawtimes.co.kr/news/197255"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+        "title": "[오늘의 주요일정]국회(4월2일 화요일)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464803?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+        "title": "[오늘의 국회일정] (2일, 화)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451608?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 04:11:00 +0900",
+        "title": "“신공항·産銀·사직구장”… PK 격전지 찾아 ‘보따리’ 푼 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/005/0001685474?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 23:18:00 +0900",
+        "title": "與  새마을금고, 양문석 대출 의혹 신속히 조사해야 ",
+        "link": "https://n.news.naver.com/mnews/article/052/0002017795?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:35:00 +0900",
+        "title": "'편법대출' 양문석  아파트 처분, 차액 기부 …與, 사기 혐의로 檢 고발",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880659?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:17:00 +0900",
+        "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
+        "link": "https://www.newspim.com/news/view/20240401001269"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:17:00 +0900",
+        "title": "양문석 후보 ‘수성새마을금고 편법 대출’ 의혹 일파만파",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870490?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:03:00 +0900",
+        "title": "양문석 “아파트 처분, 차익 전액 기부”…편법대출 논란 봉합될까",
+        "link": "https://n.news.naver.com/mnews/article/028/0002683487?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+        "title": "양문석 “아파트 팔아 새마을금고 대출 갚을 것…남으면 기부”",
+        "link": "https://n.news.naver.com/mnews/article/032/0003288074?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:36:00 +0900",
+        "title": " 막판 악재될까  민주, 양문석 리스크 골머리",
+        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990583"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:52:00 +0900",
+        "title": "새마을금고 중앙회 찾은 국민의힘  양문석 대출 관례 아니라더라 ",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644814"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:10:00 +0900",
+        "title": "尹담화에…한동훈  조속 결론 요청 ·이재명  엄하게 심판해야 ",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652855?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "與 '불법대출' 논란 양문석에  거짓말 일관 …野 '도덕성 리스크' 비상",
+        "link": "https://n.news.naver.com/mnews/article/011/0004321764?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:15:00 +0900",
+        "title": "‘편법 대출 의혹’ 양문석 “아파트 처분할 것···이익 발생시 공익단체 기...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003288043?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:12:00 +0900",
+        "title": "與  새마을금고, '양문석 대출' 관례 아니라고 해 ",
+        "link": "https://www.ajunews.com/view/20240401144138228"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+        "title": "편법대출 양문석  집 팔겠다  … 김준혁 농지투기 의혹도",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281666?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:48:00 +0900",
+        "title": "‘PK’ 방문한 한동훈…신공항·산업은행·사직야구장까지 ‘약속 보따리’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001685315?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+        "title": "양문석 '편법 대출' 직격한 與…민주당, 무대응 속 '공천 취소' 요구도",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704610?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+        "title": "버티는 양문석, 손 놓은 당에 속타는 민주당 후보들",
+        "link": "https://n.news.naver.com/mnews/article/469/0000793695?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+        "title": "국힘, 양문석 '사기'로 고발.  제출서류 허위인듯 ",
+        "link": "http://www.viewsnnews.com/article?q=218848"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:58:00 +0900",
+        "title": "D-9 … 네거티브 공세·읍소 모드로 막판 뒤집기 나선 與",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100227.html"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:57:00 +0900",
+        "title": "윤대통령 담화에… 국민 위한 결론 요청   불통정권 ",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652821?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+        "title": "野양문석 편법대출 논란 일파만파…“새마을금고, 관례 아니라 했다” 맹공 나...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005281536?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "양문석 리스크 급부상… 여  불량 후보 공천  vs 야  결과부터 봐야 ",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124800"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+        "title": "윤재옥 “양문석 대출 관례 아냐” 확인…민주당 자성론",
+        "link": "https://www.idaegu.com/newsView/idg202404010078"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:29:00 +0900",
+        "title": "국힘 ‘딸 명의 편법대출’ 양문석 후보 고발",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070125?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:13:00 +0900",
+        "title": "與  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
+        "link": "https://n.news.naver.com/mnews/article/448/0000453622?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:53:00 +0900",
+        "title": "與  새마을금고, 양문석 대출 의혹 신속히 조사해야 ",
+        "link": "https://n.news.naver.com/mnews/article/052/0002017654?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+        "title": "국민의힘, '편법 대출' 의혹 양문석 고발에 조사 촉구까지",
+        "link": "https://n.news.naver.com/mnews/article/469/0000793651?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:21:00 +0900",
+        "title": "윤 대통령 담화에… 국민 위한 결론 요청   불통정권 ",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652813?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:20:00 +0900",
+        "title": "새마을금고 방문한 與  양문석 대출, 관례 아니라고 확인 ",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000526"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+        "title": "與  새마을금고, '양문석 편법 대출' 관례 아니라고 해 ",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880482?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:04:00 +0900",
+        "title": "국민의힘  양문석 대출 논란...새마을금고, 관례 아니야 ",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317353"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:56:00 +0900",
+        "title": "국민의힘  민주 양문석 후보 새마을금고 대출 관례 아니다 ",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000093"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+        "title": " 새마을금고, `양문석 대출` 관례 아니라고 확인...현지 검사 중 ",
+        "link": "https://n.news.naver.com/mnews/article/029/0002864734?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:40:00 +0900",
+        "title": "'편법대출 의혹' 양문석...국민의힘  새마을금고 측은 관례 아니라고 해 ",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318821"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:40:00 +0900",
+        "title": "“‘양문석 대출’ 관례 아냐”… 與, 새마을금고에 자료 제출 요구",
+        "link": "https://n.news.naver.com/mnews/article/005/0001685228?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:20:00 +0900",
+        "title": "“양문석 ‘관례’ 주장, 수성새마을금고는 아니라고 해”",
+        "link": "http://www.kukinews.com/newsView/kuk202404010170"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:12:00 +0900",
+        "title": "여당  새마을금고 중앙회, '양문석 대출' 관례 아니라고 확인 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004967123?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:03:00 +0900",
+        "title": "국민의힘  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001143472?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:01:00 +0900",
+        "title": "국민의힘  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
+        "link": "https://n.news.naver.com/mnews/article/055/0001143470?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:48:00 +0900",
+        "title": "與  새마을금고, '양문석 대출' 관례 아니라고 확인 ",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602482?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:26:00 +0900",
+        "title": "여, '양문석 편법대출' 조사 촉구… 새마을금고 관례 아니다고 해 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463268?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:11:00 +0900",
+        "title": "與, 양문석 자녀 사업자등록증 자료요구…신속한 진상규명 촉구",
+        "link": "https://n.news.naver.com/mnews/article/018/0005704328?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:56:00 +0900",
+        "title": "[총선] 국민의힘 “새마을금고, ‘양문석 대출’ 관례 아니라고 확인”",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692692?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:18:00 +0900",
+        "title": "與, ‘양문석 편법대출 의혹’ 공세…검찰 고발·신속 조사 촉구",
+        "link": "https://www.etoday.co.kr/news/view/2346388"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:04:00 +0900",
+        "title": "양문석 편법대출 변곡점 될까…국힘, 새마을금고 찾아 조사 촉구",
+        "link": "https://n.news.naver.com/mnews/article/421/0007449927?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+        "title": "여당, 연일 야당 '부동산 사기 대출 의혹-아빠 찬스' 집중 공세",
+        "link": "https://n.news.naver.com/mnews/article/003/0012462966?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+        "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+        "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+        "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+        "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+        "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+        "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:21:00 +0900",
+        "title": "김남국 말고 가상자산 10억 이상 공직자도 있다… 최지영 기재부 차관보 ‘재...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003440577?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:46:00 +0900",
+        "title": "임재훈 국민의힘 안양동안갑 후보, 선거사무소 개소식 개최",
+        "link": "http://www.breaknews.com/1023682"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 08:26:00 +0900",
+        "title": "가상자산 매매 국회의원 20명…김남국 78종 15억 원 보유",
+        "link": "https://n.news.naver.com/mnews/article/055/0001142405?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 05:03:00 +0900",
+        "title": "김남국 의원 가상자산 78종 15억 보유… 최지영 기재부 차관보 494억대 ‘최고...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003440308?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:03:00 +0900",
+        "title": "[재산공개] 국회의원 가상자산 1위 김남국…78종 코인 15억 보유",
+        "link": "https://n.news.naver.com/mnews/article/366/0000981269?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:02:00 +0900",
+        "title": "총 1.3억짜리 하프·순금열쇠·다이아몬드…국회의원 이색 자산",
+        "link": "https://n.news.naver.com/mnews/article/016/0002286792?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+        "title": "[재산공개] 가상자산 매매 국회의원 20명…김남국 78종 15억원 보유",
+        "link": "https://n.news.naver.com/mnews/article/001/0014593476?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+        "title": "[재산공개] 5억 골프 회원권·포르쉐·묘지까지…국회의원 이색재산",
+        "link": "https://n.news.naver.com/mnews/article/421/0007440778?sid=100"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 05:03:00 +0900",
+        "title": "수도권 우세, 與 19vs 野 83… 20곳은 초접전",
+        "link": "https://n.news.naver.com/mnews/article/081/0003439985?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:06:00 +0900",
+        "title": "국힘 82곳-민주 110곳 '우세' 분류…수도권·충청에 촉각",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240326010015139"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+        "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+        "title": "[총선여론] 수도권, 국힘 20곳·민주 87곳 '우세·경합우세' 전망.. 동작을 제...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640634"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:08:00 +0900",
+        "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+        "title": "4·10 총선 D-15, 우세지역 與 82 vs 野 110‥중도·부동층 민심 밀집한 '서울...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219388"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+        "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:57:00 +0900",
+        "title": "'수도권 출마' TK 출향 후보들, 격전지서 금배지 사냥 나선다",
+        "link": "https://n.news.naver.com/mnews/article/088/0000869415?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:40:00 +0900",
+        "title": "여야 총선 전망, 국민의힘  82곳  민주  110곳 ",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021689"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 17:38:00 +0900",
+        "title": "국힘  최대 10곳  민주  최소 21곳 …승부처 '서울' 판세",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1224685&inflow=N"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 16:47:00 +0900",
+        "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+        "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 13:50:00 +0900",
+        "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
+        "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:46:00 +0900",
+        "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+        "title": "국힘 82곳-민주 110곳에서 우세 자신",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:46:00 +0900",
+        "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
+        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:44:00 +0900",
+        "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
+        "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:24:00 +0900",
+        "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:22:00 +0900",
+        "title": "총선 D-15 우세지역…국힘  82곳 ·민주  110곳 ",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436028"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 09:19:00 +0900",
+        "title": "'총선 D-15' 우세지역 묻자…국힘  82곳 ·민주  110곳 ",
+        "link": "https://n.news.naver.com/mnews/article/015/0004964472?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 08:51:00 +0900",
+        "title": "양당이 분석한 '우세 지역'… 국민의힘  82곳 ·민주  110곳 ",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069769?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 07:46:00 +0900",
+        "title": "총선 D-15, 국민의힘 82곳·민주 110곳 ‘우세’… 막판 혼전 예상",
+        "link": "https://n.news.naver.com/mnews/article/366/0000980675?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+        "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+        "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 16:36:00 +0900",
+        "title": "중2가 도박사이트 총판…실효성 의심되는 ‘도박예방교육’",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=786946"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 12:38:00 +0900",
+        "title": "임재훈 안양동안갑 후보  민주당 20여 년간 독점 새로운 변화 필요 ",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079750"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 11:50:00 +0900",
+        "title": "임재훈 국힘 안양 동안갑 후보 22대 총선 향해 힘찬 시동",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=225591"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "조은희",
+    "연도별_재산": [
+      {
+        "연도": 2022,
+        "재산": 4337098
+      },
+      {
+        "연도": 2023,
+        "재산": 4470553
+      }
+    ],
+    "huboid": "100152989",
+    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1122/Hb100152989/junkwa/20240308103538344_1.PDF"
+  }
 ]
