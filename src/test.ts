@@ -15,6 +15,7 @@ async function main() {
     const lawMaker = await readJSON(path.join(lawMakerDir, file));
     lawMakers.push(lawMaker);
   }
+  await 주요법안표결(lawMakers);
 
   const map = new Map<
     string,
@@ -218,6 +219,55 @@ async function getRegion(id: string): Promise<Region> {
     }
   }
   throw new Error(`Region not found: ${id}`);
+}
+
+async function 주요법안표결(lawMakers: LawMaker[]) {
+  const 주요법안: { 별칭: string; 의안번호: number; 의안명: string }[] =
+    await readJSON(path.join(__dirname, "../data/주요법안.json"));
+  const 주요법안표결: {
+    의안번호: number;
+    찬성: string[];
+    반대: string[];
+    기권: string[];
+  }[] = await readJSON(path.join(__dirname, "../data/주요법안표결.json"));
+
+  for (const lawMaker of lawMakers) {
+    lawMaker.주요법안표결 = 주요법안.map((법안) => {
+      const 법안표결 = 주요법안표결.find(
+        (법안) => 법안.의안번호 === 법안.의안번호
+      )!;
+      return {
+        별칭: 법안.별칭,
+        의안명: 법안.의안명,
+        의안번호: 법안.의안번호,
+        찬반여부: 찬반여부(lawMaker, 법안표결),
+      };
+    });
+    lawMaker.주요법안표결 = lawMaker.주요법안표결.sort(
+      (a, b) => a.의안번호 - b.의안번호
+    );
+  }
+
+  function 찬반여부(
+    lawMaker: LawMaker,
+    법안표결: {
+      의안번호: number;
+      찬성: string[];
+      반대: string[];
+      기권: string[];
+    }
+  ): "찬성" | "반대" | "기권" | "불참" {
+    if (법안표결.찬성.includes(lawMaker.이름)) {
+      return "찬성";
+    }
+    if (법안표결.반대.includes(lawMaker.이름)) {
+      return "반대";
+    }
+    if (법안표결.기권.includes(lawMaker.이름)) {
+      return "기권";
+    }
+    return "불참";
+  }
 }
 
 main();

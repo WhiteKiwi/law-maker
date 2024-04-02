@@ -28,4 +28,10 @@ export type LawMaker = {
     재산: number; // 단위: 천원
   }[];
   재산등수: number;
+  주요법안표결: {
+    별칭: string;
+    의안명: string;
+    의안번호: number;
+    찬반여부: "찬성" | "반대" | "기권" | "불참";
+  }[];
 };
