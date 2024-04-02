@@ -1,130 +1,130 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260703-1.jpg",
-        "id": "2260703-1",
-        "재산": 1071961,
-        "생년월일": "19590213",
-        "경력": "(현) 부산 남구을 재선 국회의원(제20대,제21대)\n(전) 노무현대통령 비서실 정무2비서관",
-        "학력": "중앙대학교 행정대학원 졸업(행정학 석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "899",
-        "regionId": "2260703",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:06:00 +0900",
-                "title": "[현장] '재호카' 골목골목 누빈 박재호…\"직통번호로 전화하이소!\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002816385?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
-                "title": "[더스팟 254]현역 의원 맞대결…‘부산 남구’ 박재호 vs 박수영",
-                "link": "https://n.news.naver.com/mnews/article/449/0000271643?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:49:00 +0900",
-                "title": "장성철 \"두 딸 소복입고 선거\" 주장에 박재호 \"허위사실 고발\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428555?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:48:00 +0900",
-                "title": "박재호 후보, 장성철 소장의 허위사실 유포에 대한 입장 밝혀",
-                "link": "http://www.lawissue.co.kr/view.php?ud=202404021143291019a8c8bf58f_12"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
-                "title": "[4.10총선-187] 부산 남구, 박재호vs박수영. 선거구 축소",
-                "link": "http://www.mhj21.com/160235"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "박재호",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1048690
-            },
-            {
-                "연도": 2021,
-                "재산": 1212816
-            },
-            {
-                "연도": 2022,
-                "재산": 1111910
-            },
-            {
-                "연도": 2023,
-                "재산": 1071961
-            }
-        ],
-        "huboid": "100152095",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2607/Hb100152095/junkwa/20240111093106209_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260703-2.jpg",
-        "id": "2260703-2",
-        "재산": 3516760,
-        "생년월일": "19640107",
-        "경력": "(전) 경기도 행정1부지사\n(전) 여의도연구원 원장",
-        "학력": "하버드대학교 졸업(공공정책학 석사)(1994.09~1996.06)",
-        "직업": "부산 남구갑 국회의원",
-        "성별": "남",
-        "id_21th": "1064",
-        "regionId": "2260703",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
-                "title": "[더스팟 254]현역 의원 맞대결…‘부산 남구’ 박재호 vs 박수영",
-                "link": "https://n.news.naver.com/mnews/article/449/0000271643?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 08:48:00 +0900",
-                "title": "박수영 “산은의 부산 이전, 기업엔 자본줄·청년엔 일자리·남구엔 집값 상승...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002289108?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 01:22:00 +0900",
-                "title": "[격전지를 가다] 합구되는 바람에…'현역 의원 맞대결' 부산 남구 박수영 vs ...",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652908?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
-                "title": "[4.10총선-187] 부산 남구, 박재호vs박수영. 선거구 축소",
-                "link": "http://www.mhj21.com/160235"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:41:00 +0900",
-                "title": "박수영 후보 지원유세 나선 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/001/0014602676?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박수영",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 3332091
-            },
-            {
-                "연도": 2021,
-                "재산": 3390653
-            },
-            {
-                "연도": 2022,
-                "재산": 3384691
-            },
-            {
-                "연도": 2023,
-                "재산": 3516760
-            }
-        ],
-        "huboid": "100152384",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2607/Hb100152384/junkwa/20240124144825837_1.PDF"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260703-1.jpg",
+    "id": "2260703-1",
+    "재산": 1071961,
+    "생년월일": "19590213",
+    "경력": "(현) 부산 남구을 재선 국회의원(제20대,제21대)\n(전) 노무현대통령 비서실 정무2비서관",
+    "학력": "중앙대학교 행정대학원 졸업(행정학 석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "899",
+    "regionId": "2260703",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:06:00 +0900",
+        "title": "[현장] '재호카' 골목골목 누빈 박재호…\"직통번호로 전화하이소!\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816385?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+        "title": "[더스팟 254]현역 의원 맞대결…‘부산 남구’ 박재호 vs 박수영",
+        "link": "https://n.news.naver.com/mnews/article/449/0000271643?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:49:00 +0900",
+        "title": "장성철 \"두 딸 소복입고 선거\" 주장에 박재호 \"허위사실 고발\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428555?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:48:00 +0900",
+        "title": "박재호 후보, 장성철 소장의 허위사실 유포에 대한 입장 밝혀",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202404021143291019a8c8bf58f_12"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+        "title": "[4.10총선-187] 부산 남구, 박재호vs박수영. 선거구 축소",
+        "link": "http://www.mhj21.com/160235"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박재호",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1048690
+      },
+      {
+        "연도": 2021,
+        "재산": 1212816
+      },
+      {
+        "연도": 2022,
+        "재산": 1111910
+      },
+      {
+        "연도": 2023,
+        "재산": 1071961
+      }
+    ],
+    "huboid": "100152095",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260703-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260703-2.jpg",
+    "id": "2260703-2",
+    "재산": 3516760,
+    "생년월일": "19640107",
+    "경력": "(전) 경기도 행정1부지사\n(전) 여의도연구원 원장",
+    "학력": "하버드대학교 졸업(공공정책학 석사)(1994.09~1996.06)",
+    "직업": "부산 남구갑 국회의원",
+    "성별": "남",
+    "id_21th": "1064",
+    "regionId": "2260703",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+        "title": "[더스팟 254]현역 의원 맞대결…‘부산 남구’ 박재호 vs 박수영",
+        "link": "https://n.news.naver.com/mnews/article/449/0000271643?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 08:48:00 +0900",
+        "title": "박수영 “산은의 부산 이전, 기업엔 자본줄·청년엔 일자리·남구엔 집값 상승...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002289108?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 01:22:00 +0900",
+        "title": "[격전지를 가다] 합구되는 바람에…'현역 의원 맞대결' 부산 남구 박수영 vs ...",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652908?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+        "title": "[4.10총선-187] 부산 남구, 박재호vs박수영. 선거구 축소",
+        "link": "http://www.mhj21.com/160235"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:41:00 +0900",
+        "title": "박수영 후보 지원유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/001/0014602676?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박수영",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 3332091
+      },
+      {
+        "연도": 2021,
+        "재산": 3390653
+      },
+      {
+        "연도": 2022,
+        "재산": 3384691
+      },
+      {
+        "연도": 2023,
+        "재산": 3516760
+      }
+    ],
+    "huboid": "100152384",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260703-2.jpg"
+  }
 ]

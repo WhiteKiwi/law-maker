@@ -1,104 +1,104 @@
 [
-    {
-        "id": "2110501-1",
-        "regionId": "2110501",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-1.jpg",
-        "기호": 1,
-        "이름": "이정헌",
-        "생년월일": "19710505",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 영어영문학과 졸업",
-        "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
-        "재산": 748792,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
-                "title": "[단독]민주 광진갑 이정헌, 선관위에 고발당해…동부지검 이관",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165606?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:40:00 +0900",
-                "title": "이정헌 더불어민주당 광진갑 후보 '유권자들에게 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815772?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:39:00 +0900",
-                "title": "신성시장에서 지지 호소하는 이정헌 더불어민주당 광진갑 후보 '",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815770?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:39:00 +0900",
-                "title": "이정헌 더불어민주당 광진갑 후보 '시민들 속에서'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815771?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:38:00 +0900",
-                "title": "이정헌 더불어민주당 광진갑 후보 '지원 유세'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815768?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 748792
-            }
-        ],
-        "huboid": "100151442",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1105/Hb100151442/junkwa/20231212180947662_1.PDF"
-    },
-    {
-        "id": "2110501-2",
-        "regionId": "2110501",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-2.jpg",
-        "기호": 2,
-        "이름": "김병민",
-        "생년월일": "19820204",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "경희대학교 행정학과 객원교수",
-        "학력": "경희대학교 대학원 행정학 박사",
-        "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
-        "재산": 1018304,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 18:37:00 +0900",
-                "title": "김병민 국민의힘 광진갑 후보 '신성시장에서 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815920?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:36:00 +0900",
-                "title": "가수 박상민 손 들어 올리는 김병민 국민의힘 광진갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815918?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:35:00 +0900",
-                "title": "김병민 국민의힘 광진갑 후보 '지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815914?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:35:00 +0900",
-                "title": "김병민 국민의힘 광진갑 후보 '가수 박상민과 포옹'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815916?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-                "title": "지지 호소하는 김병민 국민의힘 광진갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002815912?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1018304
-            }
-        ],
-        "huboid": "100152210",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1105/Hb100152210/junkwa/20240116182805322_1.PDF"
-    }
+  {
+    "id": "2110501-1",
+    "regionId": "2110501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-1.jpg",
+    "기호": 1,
+    "이름": "이정헌",
+    "생년월일": "19710505",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 영어영문학과 졸업",
+    "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
+    "재산": 748792,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+        "title": "[단독]민주 광진갑 이정헌, 선관위에 고발당해…동부지검 이관",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165606?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:40:00 +0900",
+        "title": "이정헌 더불어민주당 광진갑 후보 '유권자들에게 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815772?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:39:00 +0900",
+        "title": "신성시장에서 지지 호소하는 이정헌 더불어민주당 광진갑 후보 '",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815770?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:39:00 +0900",
+        "title": "이정헌 더불어민주당 광진갑 후보 '시민들 속에서'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815771?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:38:00 +0900",
+        "title": "이정헌 더불어민주당 광진갑 후보 '지원 유세'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815768?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 748792
+      }
+    ],
+    "huboid": "100151442",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-1.jpg"
+  },
+  {
+    "id": "2110501-2",
+    "regionId": "2110501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-2.jpg",
+    "기호": 2,
+    "이름": "김병민",
+    "생년월일": "19820204",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "경희대학교 행정학과 객원교수",
+    "학력": "경희대학교 대학원 행정학 박사",
+    "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
+    "재산": 1018304,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 18:37:00 +0900",
+        "title": "김병민 국민의힘 광진갑 후보 '신성시장에서 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815920?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:36:00 +0900",
+        "title": "가수 박상민 손 들어 올리는 김병민 국민의힘 광진갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815918?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:35:00 +0900",
+        "title": "김병민 국민의힘 광진갑 후보 '지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815914?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:35:00 +0900",
+        "title": "김병민 국민의힘 광진갑 후보 '가수 박상민과 포옹'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815916?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+        "title": "지지 호소하는 김병민 국민의힘 광진갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815912?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1018304
+      }
+    ],
+    "huboid": "100152210",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-2.jpg"
+  }
 ]

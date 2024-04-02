@@ -1,104 +1,104 @@
 [
-    {
-        "id": "2412201-1",
-        "regionId": "2412201",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-1.jpg",
-        "기호": 1,
-        "이름": "김영환",
-        "생년월일": "19710707",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 사회학과 졸업",
-        "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
-        "재산": 1688057,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 23:00:00 +0900",
-                "title": "이동환 고양시장 \"민주당 김영환 고양정 국회의원 후보 발언에 깊은 유감\"",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469960"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:11:00 +0900",
-                "title": "[2024총선] 김영환 \"덕이동-가좌동 교통문제 합리적 해결 약속\"",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051149"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
-                "title": "이동환 고양시장 \"김영환 후보 허위사실 유포 깊은 유감\"",
-                "link": "https://n.news.naver.com/mnews/article/417/0000993662?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
-                "title": "이동환 고양시장 \"김영환 후보 허위사실 유포에 유감\"",
-                "link": "https://www.onews.tv/news/articleView.html?idxno=202357"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:36:00 +0900",
-                "title": "김영환 \"예타면제 법안 통과돼야\"vs \"경제자유구역으로 수요 높여야\"",
-                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78666"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1688057
-            }
-        ],
-        "huboid": "100153135",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4122/Hb100153135/junkwa/20240321131840825_9.PDF"
-    },
-    {
-        "id": "2412201-2",
-        "regionId": "2412201",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-2.jpg",
-        "기호": 2,
-        "이름": "김용태",
-        "생년월일": "19680326",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "(사)한국보험대리점협회 회장",
-        "학력": "서울대학교 정치학과 졸업",
-        "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
-        "재산": 1844381,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 17:50:00 +0900",
-                "title": "[총선] 포천경찰서, 김용태 포천·가평후보 캠프 '제3자 기부행위 금지위반' ...",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014243"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:26:00 +0900",
-                "title": "‘연륜’ 박윤국 VS ‘열정’ 김용태, 포천·가평 격돌",
-                "link": "https://www.etoday.co.kr/news/view/2346975"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
-                "title": "국민의힘 고양시정 김용태 후보 \"아저씨가 좋은 학교, 좋은 시설 많이 만들어...",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447190"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:48:00 +0900",
-                "title": "與김용태·野전용기…최초 '90년대생 지역구 국회의원' 탄생할까",
-                "link": "https://n.news.naver.com/mnews/article/586/0000075771?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-                "title": "[4·10 총선] 국힘 김용태, 한수중 학생 환호받고 좋은 학교·좋은 시설 약속",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242672"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1844381
-            }
-        ],
-        "huboid": "100153136",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4122/Hb100153136/junkwa/20240321132548543_9.PDF"
-    }
+  {
+    "id": "2412201-1",
+    "regionId": "2412201",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-1.jpg",
+    "기호": 1,
+    "이름": "김영환",
+    "생년월일": "19710707",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 사회학과 졸업",
+    "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
+    "재산": 1688057,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 23:00:00 +0900",
+        "title": "이동환 고양시장 \"민주당 김영환 고양정 국회의원 후보 발언에 깊은 유감\"",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469960"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:11:00 +0900",
+        "title": "[2024총선] 김영환 \"덕이동-가좌동 교통문제 합리적 해결 약속\"",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051149"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+        "title": "이동환 고양시장 \"김영환 후보 허위사실 유포 깊은 유감\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0000993662?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+        "title": "이동환 고양시장 \"김영환 후보 허위사실 유포에 유감\"",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=202357"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:36:00 +0900",
+        "title": "김영환 \"예타면제 법안 통과돼야\"vs \"경제자유구역으로 수요 높여야\"",
+        "link": "http://www.mygoyang.com/news/articleView.html?idxno=78666"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1688057
+      }
+    ],
+    "huboid": "100153135",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412201-1.jpg"
+  },
+  {
+    "id": "2412201-2",
+    "regionId": "2412201",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-2.jpg",
+    "기호": 2,
+    "이름": "김용태",
+    "생년월일": "19680326",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "(사)한국보험대리점협회 회장",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
+    "재산": 1844381,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 17:50:00 +0900",
+        "title": "[총선] 포천경찰서, 김용태 포천·가평후보 캠프 '제3자 기부행위 금지위반' ...",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014243"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:26:00 +0900",
+        "title": "‘연륜’ 박윤국 VS ‘열정’ 김용태, 포천·가평 격돌",
+        "link": "https://www.etoday.co.kr/news/view/2346975"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+        "title": "국민의힘 고양시정 김용태 후보 \"아저씨가 좋은 학교, 좋은 시설 많이 만들어...",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447190"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:48:00 +0900",
+        "title": "與김용태·野전용기…최초 '90년대생 지역구 국회의원' 탄생할까",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075771?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+        "title": "[4·10 총선] 국힘 김용태, 한수중 학생 환호받고 좋은 학교·좋은 시설 약속",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242672"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1844381
+      }
+    ],
+    "huboid": "100153136",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412201-2.jpg"
+  }
 ]

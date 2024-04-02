@@ -1,150 +1,150 @@
 [
-    {
-        "id": "2112303-1",
-        "regionId": "2112303",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-1.jpg",
-        "기호": 1,
-        "이름": "박경미",
-        "생년월일": "19651015",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정치인",
-        "학력": "미국 일리노이대학교 수학교육학 박사 (Ph.D)(1990.8.~1993.1.)",
-        "경력": "(전) 제20대 국회의원\n(전) 청와대 대변인",
-        "재산": 4873846,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 09:40:00 +0900",
-                "title": "함께 청소 나선 고동진·박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452062?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:39:00 +0900",
-                "title": "함께 청소 나선 고동진·박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452060?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:22:00 +0900",
-                "title": "스팀 청소 나선 박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604281?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:21:00 +0900",
-                "title": "도로 난간 청소하는 박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604276?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:21:00 +0900",
-                "title": "청소 마친 박경미-고동진",
-                "link": "https://n.news.naver.com/mnews/article/001/0014604278?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 4873846
-            }
-        ],
-        "huboid": "100152968",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100152968/junkwa/20240322110547757_8.PDF"
-    },
-    {
-        "id": "2112303-2",
-        "regionId": "2112303",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-2.jpg",
-        "기호": 2,
-        "이름": "고동진",
-        "생년월일": "19610326",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "성균관대학교 산업공학과 졸업",
-        "경력": "(전) 삼성전자 대표이사 \n(현) 국민의힘 선거대책위원회 부위원장",
-        "재산": 31176591,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
-                "title": "고동진 국민의힘 강남병 후보, 강남 발전과 민생 문제 해결 약속",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240402002353578"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
-                "title": "'갤럭시신화' 쓴 고동진, 정치 목표는 \"청년의 미래\"[총선人]",
-                "link": "https://n.news.naver.com/mnews/article/018/0005705405?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:16:00 +0900",
-                "title": "고동진 \"갤럭시 성공 경험, 강남에 적용하겠습니다\"",
-                "link": "https://n.news.naver.com/mnews/article/092/0002326619?sid=105"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:40:00 +0900",
-                "title": "함께 청소 나선 고동진·박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452062?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:39:00 +0900",
-                "title": "함께 청소 나선 고동진·박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007452060?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 31176591
-            }
-        ],
-        "huboid": "100153038",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100153038/junkwa/20240322110831737_8.PDF"
-    },
-    {
-        "id": "2112303-7",
-        "regionId": "2112303",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-7.jpg",
-        "기호": 7,
-        "이름": "양한별",
-        "생년월일": "19560720",
-        "정당": "내일로미래로",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한국방송통신대학교 법학과 졸업",
-        "경력": "(전)2020 강남구 병선거구 국회의원 후보 \n(현)국가유공자 공상군경 7급",
-        "재산": -17000,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sat, 23 Mar 2024 15:32:00 +0900",
-                "title": "22대 총선 서울 강남구 총 7명 후보자 등록",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427090?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-                "title": "[표] 22대 총선 전국 지역구 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-                "title": "[4·10총선 후보자 등록] 서울",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
-                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -17000
-            }
-        ],
-        "huboid": "100153168",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100153168/junkwa/20240322111114896_7.PDF"
-    }
+  {
+    "id": "2112303-1",
+    "regionId": "2112303",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-1.jpg",
+    "기호": 1,
+    "이름": "박경미",
+    "생년월일": "19651015",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정치인",
+    "학력": "미국 일리노이대학교 수학교육학 박사 (Ph.D)(1990.8.~1993.1.)",
+    "경력": "(전) 제20대 국회의원\n(전) 청와대 대변인",
+    "재산": 4873846,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 09:40:00 +0900",
+        "title": "함께 청소 나선 고동진·박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452062?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:39:00 +0900",
+        "title": "함께 청소 나선 고동진·박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452060?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:22:00 +0900",
+        "title": "스팀 청소 나선 박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604281?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:21:00 +0900",
+        "title": "도로 난간 청소하는 박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604276?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:21:00 +0900",
+        "title": "청소 마친 박경미-고동진",
+        "link": "https://n.news.naver.com/mnews/article/001/0014604278?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4873846
+      }
+    ],
+    "huboid": "100152968",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112303-1.jpg"
+  },
+  {
+    "id": "2112303-2",
+    "regionId": "2112303",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-2.jpg",
+    "기호": 2,
+    "이름": "고동진",
+    "생년월일": "19610326",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "성균관대학교 산업공학과 졸업",
+    "경력": "(전) 삼성전자 대표이사 \n(현) 국민의힘 선거대책위원회 부위원장",
+    "재산": 31176591,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+        "title": "고동진 국민의힘 강남병 후보, 강남 발전과 민생 문제 해결 약속",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240402002353578"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+        "title": "'갤럭시신화' 쓴 고동진, 정치 목표는 \"청년의 미래\"[총선人]",
+        "link": "https://n.news.naver.com/mnews/article/018/0005705405?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:16:00 +0900",
+        "title": "고동진 \"갤럭시 성공 경험, 강남에 적용하겠습니다\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002326619?sid=105"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:40:00 +0900",
+        "title": "함께 청소 나선 고동진·박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452062?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:39:00 +0900",
+        "title": "함께 청소 나선 고동진·박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007452060?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 31176591
+      }
+    ],
+    "huboid": "100153038",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112303-2.jpg"
+  },
+  {
+    "id": "2112303-7",
+    "regionId": "2112303",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112303-7.jpg",
+    "기호": 7,
+    "이름": "양한별",
+    "생년월일": "19560720",
+    "정당": "내일로미래로",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "한국방송통신대학교 법학과 졸업",
+    "경력": "(전)2020 강남구 병선거구 국회의원 후보 \n(현)국가유공자 공상군경 7급",
+    "재산": -17000,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sat, 23 Mar 2024 15:32:00 +0900",
+        "title": "22대 총선 서울 강남구 총 7명 후보자 등록",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427090?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+        "title": "[표] 22대 총선 전국 지역구 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+        "title": "[4·10총선 후보자 등록] 서울",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+        "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -17000
+      }
+    ],
+    "huboid": "100153168",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112303-7.jpg"
+  }
 ]

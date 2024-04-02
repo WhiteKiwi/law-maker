@@ -1,117 +1,117 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-1.jpg",
-        "id": "2270801-1",
-        "재산": 499330,
-        "생년월일": "19651117",
-        "경력": "(전)대통령직속 국가균형발전위원회 정책조정실장\n(전)제21대 국회의원선거 달성군 선거구 후보자",
-        "학력": "경북대학교 대학원 정치학과 석사과정 수료",
-        "직업": "정치인",
-        "성별": "남",
-        "regionId": "2270801",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:44:00 +0900",
-                "title": "[포토] 대구 합동유세, 지지호소하는 박형룡 대구달성 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200375.html"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:44:00 +0900",
-                "title": "박형룡 “지방청년 균형소득 월 20만원 지급 추진”",
-                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475508"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
-                "title": "[열전 4.10 총선] 박형룡 “지방청년 균형소득 월 20만원 지급” 공약",
-                "link": "http://www.kbsm.net/news/view.php?idx=427917"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 21:44:00 +0900",
-                "title": "박형룡 \"지방청년 균형소득 월 20만원 지급\"",
-                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455087"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:58:00 +0900",
-                "title": "(4·10 총선 현장)민주당 박형룡 ‘지방청년 균형소득 월 20만 원 지급’ 공약",
-                "link": "https://www.idaegu.com/newsView/idg202403270031"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "박형룡",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 499330
-            }
-        ],
-        "huboid": "100151936",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2708/Hb100151936/junkwa/20240320144236820_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-2.jpg",
-        "id": "2270801-2",
-        "재산": 4252392,
-        "생년월일": "19600729",
-        "경력": "(전)부총리 겸 기획재정부 장관\n(현)대구 달성군 국회의원",
-        "학력": "미국 오리건대학교 대학원 졸업(경제학 석사, 1991.9~1993.3)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "912",
-        "regionId": "2270801",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 18:40:00 +0900",
-                "title": "추경호, 달성 중부권 복합문화센터 건립 사업 국비 120억 확보",
-                "link": "http://www.hidomin.com/news/articleView.html?idxno=544419"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                "title": "[4.10 현장르포] 대구 달성군, 재선 추경호 후보 우세 속 정권심판론도 '꿈틀...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641602"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
-                "title": "추경호, 복합문화센터 건립 사업 국비 확보",
-                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455690"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:10:00 +0900",
-                "title": "추경호, 달성 중부권 복합문화센터 건립사업 선정으로 국비 120억원 확보",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000323"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
-                "title": "[열전 4.10 총선] 추경호, 중부권(옥포) 복합문화센터 건립 국비 120억 확보",
-                "link": "http://www.kbsm.net/news/view.php?idx=428455"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "추경호",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 3206435
-            },
-            {
-                "연도": 2021,
-                "재산": 3641750
-            },
-            {
-                "연도": 2022,
-                "재산": 4094381
-            },
-            {
-                "연도": 2023,
-                "재산": 4252392
-            }
-        ],
-        "huboid": "100152750",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2708/Hb100152750/junkwa/20240320141954276_1.PDF"
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-1.jpg",
+    "id": "2270801-1",
+    "재산": 499330,
+    "생년월일": "19651117",
+    "경력": "(전)대통령직속 국가균형발전위원회 정책조정실장\n(전)제21대 국회의원선거 달성군 선거구 후보자",
+    "학력": "경북대학교 대학원 정치학과 석사과정 수료",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2270801",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:44:00 +0900",
+        "title": "[포토] 대구 합동유세, 지지호소하는 박형룡 대구달성 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200375.html"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:44:00 +0900",
+        "title": "박형룡 “지방청년 균형소득 월 20만원 지급 추진”",
+        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475508"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+        "title": "[열전 4.10 총선] 박형룡 “지방청년 균형소득 월 20만원 지급” 공약",
+        "link": "http://www.kbsm.net/news/view.php?idx=427917"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:44:00 +0900",
+        "title": "박형룡 \"지방청년 균형소득 월 20만원 지급\"",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455087"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:58:00 +0900",
+        "title": "(4·10 총선 현장)민주당 박형룡 ‘지방청년 균형소득 월 20만 원 지급’ 공약",
+        "link": "https://www.idaegu.com/newsView/idg202403270031"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박형룡",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 499330
+      }
+    ],
+    "huboid": "100151936",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270801-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-2.jpg",
+    "id": "2270801-2",
+    "재산": 4252392,
+    "생년월일": "19600729",
+    "경력": "(전)부총리 겸 기획재정부 장관\n(현)대구 달성군 국회의원",
+    "학력": "미국 오리건대학교 대학원 졸업(경제학 석사, 1991.9~1993.3)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "912",
+    "regionId": "2270801",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:40:00 +0900",
+        "title": "추경호, 달성 중부권 복합문화센터 건립 사업 국비 120억 확보",
+        "link": "http://www.hidomin.com/news/articleView.html?idxno=544419"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "[4.10 현장르포] 대구 달성군, 재선 추경호 후보 우세 속 정권심판론도 '꿈틀...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641602"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+        "title": "추경호, 복합문화센터 건립 사업 국비 확보",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455690"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:10:00 +0900",
+        "title": "추경호, 달성 중부권 복합문화센터 건립사업 선정으로 국비 120억원 확보",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240402010000323"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+        "title": "[열전 4.10 총선] 추경호, 중부권(옥포) 복합문화센터 건립 국비 120억 확보",
+        "link": "http://www.kbsm.net/news/view.php?idx=428455"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "추경호",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 3206435
+      },
+      {
+        "연도": 2021,
+        "재산": 3641750
+      },
+      {
+        "연도": 2022,
+        "재산": 4094381
+      },
+      {
+        "연도": 2023,
+        "재산": 4252392
+      }
+    ],
+    "huboid": "100152750",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270801-2.jpg"
+  }
 ]

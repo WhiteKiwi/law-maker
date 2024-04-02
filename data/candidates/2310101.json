@@ -1,117 +1,117 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-1.jpg",
-        "id": "2310101-1",
-        "재산": 1225035,
-        "생년월일": "19801128",
-        "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
-        "학력": "성균관대학교 대학원 졸업(정치학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2310101",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:22:00 +0900",
-                "title": "오상택 \"임금 삭감 없는 주 4.5일제 도입, 울산 중구 시범도시 추진\"",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037305"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-                "title": "文, 울산 오상택·전은수 지원 유세 “민주당 중심, 조국혁신당·새로운미래 ...",
-                "link": "https://n.news.naver.com/mnews/article/016/0002289519?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:55:00 +0900",
-                "title": "문재인 전 대통령, 울산중구 오상택 후보 지원",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453515?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:35:00 +0900",
-                "title": "문재인 \"모든 야권이 힘 모아야 할 때\"…'청와대 인연' 김태선·오상택 지지",
-                "link": "https://n.news.naver.com/mnews/article/421/0007453427?sid=102"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "오상택",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1225035
-            }
-        ],
-        "huboid": "100151512",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100151512/junkwa/20231215161433014_1.PDF"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-2.jpg",
-        "id": "2310101-2",
-        "재산": 1180741,
-        "생년월일": "19590419",
-        "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
-        "학력": "울산대학교 정책대학원 졸업(행정학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1089",
-        "regionId": "2310101",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "울산 혁신도시공공노조 대표자협의회 \"박성민 후보 지지\"",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345058"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
-                "title": "[정치쇼] 박성민 \"尹 대국민 담화, 기름을 붓고 갔다\"",
-                "link": "https://n.news.naver.com/mnews/article/055/0001143738?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:03:00 +0900",
-                "title": "박성민 \"尹 담화? 국힘은 소방수 원했겠지만 결과는 방화\" [한판승부]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:04:00 +0900",
-                "title": "국민의힘 박성민(울산 중구) 후보 \"초등학생·75세 이상 시내버스 이용요금 무...",
-                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995751"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-                "title": "박성민 \"울산 중구 초등생, 75세 이상 버스요금 무료화\" 공약",
-                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037262"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박성민",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 890741
-            },
-            {
-                "연도": 2021,
-                "재산": 911873
-            },
-            {
-                "연도": 2022,
-                "재산": 880255
-            },
-            {
-                "연도": 2023,
-                "재산": 1180741
-            }
-        ],
-        "huboid": "100152554",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3101/Hb100152554/junkwa/20240205113723979_1.PDF"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-1.jpg",
+    "id": "2310101-1",
+    "재산": 1225035,
+    "생년월일": "19801128",
+    "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
+    "학력": "성균관대학교 대학원 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:22:00 +0900",
+        "title": "오상택 \"임금 삭감 없는 주 4.5일제 도입, 울산 중구 시범도시 추진\"",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037305"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+        "title": "文, 울산 오상택·전은수 지원 유세 “민주당 중심, 조국혁신당·새로운미래 ...",
+        "link": "https://n.news.naver.com/mnews/article/016/0002289519?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:55:00 +0900",
+        "title": "문재인 전 대통령, 울산중구 오상택 후보 지원",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453515?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:35:00 +0900",
+        "title": "문재인 \"모든 야권이 힘 모아야 할 때\"…'청와대 인연' 김태선·오상택 지지",
+        "link": "https://n.news.naver.com/mnews/article/421/0007453427?sid=102"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오상택",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1225035
+      }
+    ],
+    "huboid": "100151512",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310101-1.jpg"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-2.jpg",
+    "id": "2310101-2",
+    "재산": 1180741,
+    "생년월일": "19590419",
+    "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
+    "학력": "울산대학교 정책대학원 졸업(행정학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1089",
+    "regionId": "2310101",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "울산 혁신도시공공노조 대표자협의회 \"박성민 후보 지지\"",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345058"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+        "title": "[정치쇼] 박성민 \"尹 대국민 담화, 기름을 붓고 갔다\"",
+        "link": "https://n.news.naver.com/mnews/article/055/0001143738?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:03:00 +0900",
+        "title": "박성민 \"尹 담화? 국힘은 소방수 원했겠지만 결과는 방화\" [한판승부]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:04:00 +0900",
+        "title": "국민의힘 박성민(울산 중구) 후보 \"초등학생·75세 이상 시내버스 이용요금 무...",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995751"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+        "title": "박성민 \"울산 중구 초등생, 75세 이상 버스요금 무료화\" 공약",
+        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037262"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박성민",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 890741
+      },
+      {
+        "연도": 2021,
+        "재산": 911873
+      },
+      {
+        "연도": 2022,
+        "재산": 880255
+      },
+      {
+        "연도": 2023,
+        "재산": 1180741
+      }
+    ],
+    "huboid": "100152554",
+    "전과PdfUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310101-2.jpg"
+  }
 ]

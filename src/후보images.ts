@@ -13,7 +13,7 @@ async function main() {
 
     for (const candidate of candidates) {
       await saveImage(candidate);
-      candidate.imageUrl = `https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/${candidate.id}.jpg`;
+      candidate.imageUrl = `https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/${candidate.id}.jpg`;
     }
 
     await writeJSON(path.join(candidatesDir, file), candidates, { spaces: 2 });
