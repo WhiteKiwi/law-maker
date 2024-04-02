@@ -3,7 +3,7 @@ import path from "path";
 import { LawMaker } from "./law-maker";
 import { LawMakerCadidate } from "./law-maker-candidate";
 import { Region, RegionsJson } from "./region";
-import { SearchItem } from "./search";
+import { SearchItem, splitHangul } from "./search";
 import { 등수 } from "./등수";
 
 async function main() {
@@ -198,6 +198,7 @@ async function createSearchItems() {
         id: candidate.id,
         imageUrl: candidate.imageUrl,
         이름: candidate.이름,
+        splitted이름: splitHangul(candidate.이름),
         지역구: `${region.시도} ${region.시군구}`,
         정당: candidate.정당,
       });
