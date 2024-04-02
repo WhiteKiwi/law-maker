@@ -2,7 +2,8 @@ import { readJSON, readdir, writeJSON } from "fs-extra";
 import path from "path";
 import { LawMaker } from "./law-maker";
 import { LawMakerCadidate } from "./law-maker-candidate";
-import { RegionsJson } from "./region";
+import { Region, RegionsJson } from "./region";
+import { SearchItem } from "./search";
 import { 등수 } from "./등수";
 
 async function main() {
@@ -77,7 +78,8 @@ async function main() {
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
-  await sortRegions();
+  // await sortRegions();
+  await createSearchItems();
 }
 
 async function createRanking(lawMakers: LawMaker[]) {
@@ -181,6 +183,42 @@ async function sortRegions() {
     });
   }
   await writeJSON(filePath, regionsJson, { spaces: 2 });
+}
+async function createSearchItems() {
+  const searchItems: SearchItem[] = [];
+  const candidatesDir = path.join(__dirname, "../data/candidates");
+  const files = await readdir(candidatesDir);
+  for (const file of files) {
+    const candidates: LawMakerCadidate[] = await readJSON(
+      path.join(candidatesDir, file)
+    );
+    for (const candidate of candidates) {
+      const region = await getRegion(candidate.regionId);
+      searchItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: `${region.시도} ${region.시군구}`,
+        정당: candidate.정당,
+      });
+    }
+  }
+  await writeJSON(path.join(__dirname, "../data/search.json"), searchItems, {
+    spaces: 2,
+  });
+}
+
+async function getRegion(id: string): Promise<Region> {
+  const filePath = path.join(__dirname, "../data/regions.json");
+  const regionsJson: RegionsJson = await readJSON(filePath);
+  for (const parent of regionsJson) {
+    for (const region of parent.regions) {
+      if (region.id === id) {
+        return region;
+      }
+    }
+  }
+  throw new Error(`Region not found: ${id}`);
 }
 
 main();
