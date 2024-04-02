@@ -13,7 +13,33 @@
         "regionId": "2110901",
         "기호": 1,
         "군필여부": true,
-        "news": [],
+        "news": [
+            {
+                "date": "Tue, 26 Mar 2024 11:50:00 +0900",
+                "title": "강북갑 양자대결…현역 '천준호' VS 판사 '전상범' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168189"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:16:00 +0900",
+                "title": "[포토]'대화하는 천준호-조수진'",
+                "link": "https://n.news.naver.com/mnews/article/018/0005696389?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 16:42:00 +0900",
+                "title": "천준호 \"윤 정부 2년, 민생보다 정적 제거 몰두\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002425118?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 11:49:00 +0900",
+                "title": "‘사천 파동’ 와중에…민주 “통합 달성한 공천혁명”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000976189?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 09:05:00 +0900",
+                "title": "서울 37곳 총선 대진표 확정… ‘운동권 심판’ vs ‘尹 정부 심판’ 구도 뚜...",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034055?sid=100"
+            }
+        ],
         "정당": "더불어민주당",
         "이름": "천준호",
         "연도별_재산": [
@@ -53,8 +79,28 @@
         "news": [
             {
                 "date": "Wed, 03 Apr 2024 00:01:00 +0900",
-                "title": "[험지를 뛴다] 강북갑 <b>전상범</b> \"선택 망설이는 중도층 공략할 것\"",
+                "title": "[험지를 뛴다] 강북갑 전상범 \"선택 망설이는 중도층 공략할 것\"",
                 "link": "https://n.news.naver.com/mnews/article/629/0000278242?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:30:00 +0900",
+                "title": "전상범 강북갑 후보, 강북구청 앞에서 출정식 가져...한동훈, \"보증하는 좋은...",
+                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752143"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:40:00 +0900",
+                "title": "한동훈 \"전상범, 늘 약자 편에 선 공정한 진짜 법조인\"",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748333"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:35:00 +0900",
+                "title": "'한동훈 영입인재' 전상범, 서울강북갑서 출정식… 한동훈 지지유세도",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193502?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:44:00 +0900",
+                "title": "'욕설파일 재판' 전상범 \"검사 사칭 이재명, 너무 품격 없다\"",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=633739"
             }
         ],
         "정당": "국민의힘",

@@ -16,27 +16,27 @@
         "news": [
             {
                 "date": "Tue, 02 Apr 2024 20:50:00 +0900",
-                "title": "<b>이개호</b> “저와 이석형 모두 세무조사하자”",
+                "title": "이개호 “저와 이석형 모두 세무조사하자”",
                 "link": "http://www.kjdaily.com/article.php?aid=1712056905626399246"
             },
             {
                 "date": "Tue, 02 Apr 2024 19:18:00 +0900",
-                "title": "무소속 이석형 후보 선대위, <b>이개호</b> 후보 허위사실 공표 선관위 맞고발",
+                "title": "무소속 이석형 후보 선대위, 이개호 후보 허위사실 공표 선관위 맞고발",
                 "link": "https://www.wikitree.co.kr/articles/940088"
             },
             {
                 "date": "Tue, 02 Apr 2024 17:38:00 +0900",
-                "title": "[4·10 총선] <b>이개호</b> 후보, 지역 밀착 정책 선거운동, 정책협약 및 지지선언 ...",
+                "title": "[4·10 총선] 이개호 후보, 지역 밀착 정책 선거운동, 정책협약 및 지지선언 ...",
                 "link": "http://www.breaknews.com/1024648"
             },
             {
                 "date": "Tue, 02 Apr 2024 17:34:00 +0900",
-                "title": "[선택4·10] <b>이개호</b> 후보,한농연 담양군연합회와 정책협약식 가져",
+                "title": "[선택4·10] 이개호 후보,한농연 담양군연합회와 정책협약식 가져",
                 "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069543"
             },
             {
                 "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-                "title": "<b>이개호</b>, 각 분야 단체들과 정책간담회 개최",
+                "title": "이개호, 각 분야 단체들과 정책간담회 개최",
                 "link": "http://www.kjdaily.com/article.php?aid=1712045570626310246"
             }
         ],
@@ -76,7 +76,33 @@
         "regionId": "2462202",
         "기호": 2,
         "군필여부": true,
-        "news": [],
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 11:58:00 +0900",
+                "title": "김유성 담양‧함평‧영광‧장성 후보 \"낙후된 지역, 잘사는 동네 만들 것\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880859?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:06:00 +0900",
+                "title": "김유성 후보 \"지역발전 매진할 것\"…선거사무소 개소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016489"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:47:00 +0900",
+                "title": "<총선브리핑> 박병석 안태욱 김유성",
+                "link": "https://kjmbc.co.kr/article/92tsDpObmXsK"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:02:00 +0900",
+                "title": "담양·함평·영광·장성 이개호 42.9% vs 이석형 41.9% ‘초접전’",
+                "link": "http://www.kjdaily.com/article.php?aid=1710665766624875246"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "[뉴스1 여론조사]'정책위의장이냐 황금박쥐냐' 이개호·이석형 초접전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007416787?sid=102"
+            }
+        ],
         "정당": "국민의힘",
         "이름": "김유성",
         "연도별_재산": [
@@ -104,8 +130,28 @@
         "news": [
             {
                 "date": "Tue, 02 Apr 2024 11:30:00 +0900",
-                "title": "[2024 총선]<b>새로운미래 김선우</b> 후보, 92세 노모와 함께 선거운동 '눈길'",
+                "title": "[2024 총선]새로운미래 김선우 후보, 92세 노모와 함께 선거운동 '눈길'",
                 "link": "http://www.namdonews.com/news/articleView.html?idxno=765288"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:38:00 +0900",
+                "title": "[포토]김선우 후보, 92세 어머니와 함께 선거운동 '눈길'",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010000824"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:42:00 +0900",
+                "title": "김선우 후보, '노년층에 출마 알리기' 열중",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/716774"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+                "title": "김선우 새로운미래 담양함평영광장성 선거구 후보, 노인시설 돌며 얼굴알리기...",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711963500766440359"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:06:00 +0900",
+                "title": "김선우 새로운미래 후보 \"지역예산 확실히 챙길 것\"...선거 유세단 출정",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240330010017717"
             }
         ],
         "정당": "새로운미래",
@@ -132,7 +178,33 @@
         "regionId": "2462202",
         "기호": 7,
         "군필여부": true,
-        "news": [],
+        "news": [
+            {
+                "date": "Fri, 29 Mar 2024 10:33:00 +0900",
+                "title": "<총선브리핑> 박은식*정희성*곽진오",
+                "link": "https://kjmbc.co.kr/article/qCdKhgC8RvNbC"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 16:10:00 +0900",
+                "title": "개혁신당, 화성을에 이준석 공천… 종로엔 금태섭",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240311010005450"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:28:00 +0900",
+                "title": "판 커진 '반도체 벨트'···개혁신당, 이준석·이원욱·유시진 등 공천",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=221789"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 12:48:00 +0900",
+                "title": "개혁신당, 경북 공천 신청자 '0'... 대구 북구을에 황영헌 공천",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=434026"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:43:00 +0900",
+                "title": "개혁신당, 이준석·이원욱·금태섭·천하람 등 18명 2차 공천",
+                "link": "https://n.news.naver.com/mnews/article/119/0002808012?sid=165"
+            }
+        ],
         "정당": "개혁신당",
         "이름": "곽진오",
         "연도별_재산": [
@@ -160,18 +232,28 @@
         "news": [
             {
                 "date": "Tue, 02 Apr 2024 20:50:00 +0900",
-                "title": "이개호 “저와 <b>이석형</b> 모두 세무조사하자”",
+                "title": "이개호 “저와 이석형 모두 세무조사하자”",
                 "link": "http://www.kjdaily.com/article.php?aid=1712056905626399246"
             },
             {
                 "date": "Tue, 02 Apr 2024 19:18:00 +0900",
-                "title": "<b>무소속 이석형</b> 후보 선대위, 이개호 후보 허위사실 공표 선관위 맞고발",
+                "title": "무소속 이석형 후보 선대위, 이개호 후보 허위사실 공표 선관위 맞고발",
                 "link": "https://www.wikitree.co.kr/articles/940088"
             },
             {
                 "date": "Tue, 02 Apr 2024 14:10:00 +0900",
-                "title": "<b>이석형</b> \"이개호 거짓말에 이은 지연납부 말장난까지\"",
+                "title": "이석형 \"이개호 거짓말에 이은 지연납부 말장난까지\"",
                 "link": "http://www.newsprime.co.kr/news/article.html?no=634274"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:36:00 +0900",
+                "title": "이개호 '본인과 이석형 후보자 모두 특별 세무조사 의뢰하자' 제의",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641979"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:01:00 +0900",
+                "title": "이석형 담양‧함평‧영광‧장성 후보 \"일하지 않는 국회의원 교체해야\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880872?sid=165"
             }
         ],
         "정당": "무소속",

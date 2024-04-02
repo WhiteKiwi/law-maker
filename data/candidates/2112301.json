@@ -14,7 +14,33 @@
         "재산": 40327222,
         "군필여부": true,
         "전과건수": 0,
-        "news": [],
+        "news": [
+            {
+                "date": "Fri, 22 Mar 2024 06:04:00 +0900",
+                "title": "총선 후보등록 첫날, 평균재산 29억원… 최고액은 1446억원",
+                "link": "https://n.news.naver.com/mnews/article/022/0003916726?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:46:00 +0900",
+                "title": "총선 후보등록 첫날, 평균재산 29억원…'50억 이상' 52명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581198?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:59:00 +0900",
+                "title": "총선 후보자등록 첫날…지역구 607명·14개 정당 비례명부 등록",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443311?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:30:00 +0900",
+                "title": "[총선] 후보 등록 시작...본선 막 오른 22대 총선",
+                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032100064&story_seq=0&soCode=114&socttSn=NS2024032100064&socttSeq=0"
+            }
+        ],
         "연도별_재산": [
             {
                 "연도": 2023,
@@ -42,23 +68,28 @@
         "news": [
             {
                 "date": "Tue, 02 Apr 2024 23:34:00 +0900",
-                "title": "<b>서명옥</b> <b>국민의힘</b> 강남갑 후보 “토지거래허가제 반드시 해제되야”",
+                "title": "서명옥 국민의힘 강남갑 후보 “토지거래허가제 반드시 해제되야”",
                 "link": "https://www.asiatoday.co.kr/view.php?key=20240402002305242"
             },
             {
                 "date": "Tue, 02 Apr 2024 23:33:00 +0900",
-                "title": "'강남갑' 與 <b>서명옥</b> \"토지거래허가제 반드시 해제할 것\"",
+                "title": "'강남갑' 與 서명옥 \"토지거래허가제 반드시 해제할 것\"",
                 "link": "https://n.news.naver.com/mnews/article/119/0002816422?sid=165"
             },
             {
                 "date": "Tue, 02 Apr 2024 14:02:00 +0900",
-                "title": "강남갑 <b>서명옥</b> “압구정·청담동 토지거래허가제 해제 추진”",
+                "title": "강남갑 서명옥 “압구정·청담동 토지거래허가제 해제 추진”",
                 "link": "https://n.news.naver.com/mnews/article/016/0002289441?sid=100"
             },
             {
                 "date": "Tue, 02 Apr 2024 13:07:00 +0900",
-                "title": "보건소장 출신 '강남갑' <b>서명옥</b> \"의료개혁 위해 정부와 의료계 소통창구 되겠...",
+                "title": "보건소장 출신 '강남갑' 서명옥 \"의료개혁 위해 정부와 의료계 소통창구 되겠...",
                 "link": "https://n.news.naver.com/mnews/article/022/0003920390?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:04:00 +0900",
+                "title": "與 강남갑 서명옥 \"재건축·재개발, 제1과제로 추진할 것\"",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864883?sid=100"
             }
         ],
         "연도별_재산": [
