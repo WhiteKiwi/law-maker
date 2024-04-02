@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2261601-1",
-    "regionId": "2261601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-1.jpg",
-    "기호": 1,
-    "이름": "배재정",
-    "생년월일": "19680216",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
-    "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
-    "재산": 289433,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 23:01:00 +0900",
-        "title": "文 “칠십 평생 이렇게 못하는 정부 처음 봐…무지·무능·무도”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002629802?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:30:00 +0900",
-        "title": "文 전면 등판?  70 평생 이렇게 못하는 정부 처음 봐…무지·무능·무도 ",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=537942"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "文 전 대통령  70 평생 이렇게 못하는 정부는 처음 ",
-        "link": "https://n.news.naver.com/mnews/article/031/0000825096?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "사상구, 공업지역 탈바꿈 어떻게?",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262710"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "문 전 대통령 “이렇게 못하는 정부 처음 봐”…총선 본격 ‘참전’?",
-        "link": "https://n.news.naver.com/mnews/article/082/0001263162?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 289433
-      }
-    ]
-  },
-  {
-    "id": "2261601-2",
-    "regionId": "2261601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-2.jpg",
-    "기호": 2,
-    "이름": "김대식",
-    "생년월일": "19620811",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
-    "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
-    "재산": 2368023,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:15:00 +0900",
-        "title": "[현장] '공약 선물 세트' 들고 부산 찾은 한동훈… 1992년 '영광의 시대' 만들...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815955?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "사상구, 공업지역 탈바꿈 어떻게?",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262710"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:34:00 +0900",
-        "title": "한동훈, 부산서 정면 반박  이재명이 진짜 악어의 눈물 ",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455615"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:57:00 +0900",
-        "title": "문재인 전 대통령, 부산 사상 지원…비슷한 시간 한동훈도",
-        "link": "https://n.news.naver.com/mnews/article/422/0000652882?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-        "link": "https://www.newspim.com/news/view/20240401001242"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2368023
-      }
-    ]
-  }
+    {
+        "id": "2261601-1",
+        "regionId": "2261601",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-1.jpg",
+        "기호": 1,
+        "이름": "배재정",
+        "생년월일": "19680216",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
+        "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
+        "재산": 289433,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:02:00 +0900",
+                "title": "'전·현 정부 실정' 문재인-한동훈 설전",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641998"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:12:00 +0900",
+                "title": "[사설] 선거에 노골적 개입하는 文, 이런 전직 대통령 있었나",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920622?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:19:00 +0900",
+                "title": "인요한, 文 '민주당 후보 지원'에  상식 한참 벗어난 행동 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606446?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+                "title": " 전직 대통령 노골적 선거 개입 중단하라 ",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345065"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:44:00 +0900",
+                "title": "문재인 “이렇게 못하는 정부 처음 본다”… 한동훈 “나라 망해가던 것 기억...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429206"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:27:00 +0900",
+                "title": "교정시설 통합 이전…여야 넘어 지역 간 신경전 팽팽",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070266?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+                "title": "文  이렇게 못하는 정부 처음 …韓  나라 망해가던 것 잊었나 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967940?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:36:00 +0900",
+                "title": "尹 얼마나 아래로 봤길래…文, 선거유세 다니며 “평생 처음 못하는 정부”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021368004"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+                "title": " 이렇게 못하는 정부 처음  문 전 대통령 참전… 호재? 악재?",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263380?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+                "title": "문재인, 울산까지 광폭행보,  눈 떠보니 후진국 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042610?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:26:00 +0900",
+                "title": "잊혀지겠다던 文…“이렇게 못하는 정부 처음” 강경 발언 왜",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441574?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+                "title": "현역 장제원 불출마 전국구 부상… 지역 인지도 VS 선거 조직력 팽팽 [PK 격전...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263374?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "'전열 정비' 한동훈  뭉쳐야 산다 …문재인, 울산 지원사격[박지환의 뉴스톡]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "文  이렇게 못하는 정부 처음 봤다  한동훈  최악은 文정부 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351572?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "文 전 대통령  70 평생 이렇게 못하는 정부 처음 ",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84622"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:19:00 +0900",
+                "title": " 70 평생 이렇게 못하는 정부 처음 ···문재인 총선 등판에 엇갈린 시선",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020585?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+                "title": "울산 찾은 文  막말 난무하는 저질의 정치… 선거가 희망 드려야 ",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793915?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:54:00 +0900",
+                "title": "문 전 대통령, 이틀 연속 부울경 총선 지원...“무너진 민생 살려야”",
+                "link": "https://vop.co.kr/A00001650820.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+                "title": " 잊히고 싶다 면서 현실 정치 출몰하는 문재인 전 대통령",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222317"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:50:00 +0900",
+                "title": "문재인, 연이틀  칠십 평생 이렇게 못하는 정부 처음 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400753?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:11:00 +0900",
+                "title": "울산 찾은 문재인  이번 총선은 대한민국 운명 좌우하는 선거 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466854?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:11:00 +0900",
+                "title": "문재인, 총선 8일 앞두고 PK '광폭 행보'… 이렇게 못하는 정부 처음 ",
+                "link": "https://www.newspim.com/news/view/20240402000842"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "임종석·박용진… '컷오프' 비주류의 백의종군",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852751"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:27:00 +0900",
+                "title": "부산 이어 울산 찾은 文 “이번 총선, 대한민국 운명 좌우”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441505?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:21:00 +0900",
+                "title": "'잊혀지고 싶지만’ 선거 때는 아니다?…文의 선거 개입 [어떻게 생각하십니까...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920439?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+                "title": "파란색 점퍼 입은 文 “칠십 평생 이렇게 못하는 정부는 처음”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920421?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:13:00 +0900",
+                "title": "파란색 점퍼 입고…文 전 대통령 부부 ‘깜짝 등장’[포착]",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685574?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "文 '칠십 평생' 발언에, 한동훈  집값 폭등하던 文정부 잊었나 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351494?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:25:00 +0900",
+                "title": "파란색 점퍼 입은 문재인 전 대통령, 김정숙 여사와 울산 찾아 [뉴시스Pic]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466098?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:19:00 +0900",
+                "title": "文 “이번 총선 대한민국 운명 좌우”…부산 이어 울산서 민주당 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289422?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:06:00 +0900",
+                "title": "문재인 “이런 정부는 처음” 윤 대통령 직격",
+                "link": "https://www.naeil.com/news/read/506246?ref=naver"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:48:00 +0900",
+                "title": " 잊히고 싶다 던 문재인 전 대통령, 본격 선거지원 나섰다 | 부산-경남-울산 ...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19437&Newsnumb=20240419437"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:56:00 +0900",
+                "title": "이재명이 못 나오면 文이 나선다",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307419"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:49:00 +0900",
+                "title": "‘잊히고 싶다’ 던 문재인, 광폭행보… 여권 “민주, 4톱 선대위냐”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629932?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:42:00 +0900",
+                "title": "비명도 뭉친 민주당...임종석·박용진에 文도 전면 등판",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289398?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:40:00 +0900",
+                "title": "총선 전면 등장한 문재인...윤석열 정부 '직격'",
+                "link": "https://www.cnbnews.com/news/article.html?no=651960"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:13:00 +0900",
+                "title": "비명도 뭉친 민주당…임종석-박용진에 文도 전면 등판[이런정치]",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289312?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:34:00 +0900",
+                "title": "사상구, 정권 심판 vs 중단 없는 발전 (B tv 부산뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168467"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:31:00 +0900",
+                "title": "文의 노골적 개입?  평생 이렇게 못하는 정부 처음 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042598?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:22:00 +0900",
+                "title": "文  칠십평생 이렇게 못하는 정부 처음 봐‥'3무' 정권 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340141?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:08:00 +0900",
+                "title": "文 전 대통령 민주당 선거운동 지원... 내 70 평생, 이렇게 못하는 정부는 처...",
+                "link": "https://www.insight.co.kr/news/465573"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:06:00 +0900",
+                "title": "문재인, 윤석열 정부 직격…  이렇게 못하는 정부는 처음 ",
+                "link": "https://www.sisaweek.com/news/articleView.html?idxno=213305"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:14:00 +0900",
+                "title": "'총선 등판' 문재인  70 평생 이렇게 못하는 정부 처음 ...오늘은 울산행",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020196?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:27:00 +0900",
+                "title": "파란 점퍼 文, 총선 ‘낙동강벨트’서 야권 힘싣기?…“이렇게 못하는 정부 처...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920289?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:11:00 +0900",
+                "title": "문재인 “칠십 평생 이렇게 못하는 정부는 처음 봐” [총선 말말말]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920275?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:06:00 +0900",
+                "title": "문 전 대통령 “평생 이렇게 못하는 정부 처음…무지·무능·무도”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288127?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:00:00 +0900",
+                "title": "文 '정권 심판론' 힘 보탠다…PK 깜짝지원 존재감 커져",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451666?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:45:00 +0900",
+                "title": "문재인  70 평생 이렇게 못하는 정부는 처음, 무지·무능·무도  [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165274?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 04:09:00 +0900",
+                "title": "文 “이렇게 못하는 정부는 처음”… 사실상 선거 뛰어든 前 대통령",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685466?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 02:06:00 +0900",
+                "title": "문재인 전 대통령  더불어민주당·조국혁신당·새로운미래 좋은 성적 거둬야 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765261"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 23:01:00 +0900",
+                "title": "文 “칠십 평생 이렇게 못하는 정부 처음 봐…무지·무능·무도”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629802?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:30:00 +0900",
+                "title": "文 전면 등판?  70 평생 이렇게 못하는 정부 처음 봐…무지·무능·무도 ",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=537942"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "사상구, 공업지역 탈바꿈 어떻게?",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262710"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "文 전 대통령  70 평생 이렇게 못하는 정부는 처음 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825096?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "문 전 대통령 “이렇게 못하는 정부 처음 봐”…총선 본격 ‘참전’?",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263162?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:16:00 +0900",
+                "title": "문재인  70 평생 이렇게 못하는 정부 처음… 野, 좋은 성적 거둬야 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852122"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:14:00 +0900",
+                "title": "이재명, 이틀째 '계양을' 유세 집중…文은 부산 사상 깜짝 방문",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453660?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:07:00 +0900",
+                "title": "文 “70 평생 이렇게 못하는 정부 처음”…정권심판론에 사실상 무게",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920202?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+                "title": "문재인 전 대통령  칠십 평생 이렇게 못하는 정부 처음 본다 ",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386596?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "“배재정 도우러 왔다” 文, 사상서 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070144?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:18:00 +0900",
+                "title": "文  尹정권, 무지-무능-무도 , 정권심판 주장",
+                "link": "http://www.viewsnnews.com/article?q=218855"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:14:00 +0900",
+                "title": "문재인  칠십 평생 이렇게 못하는 정부는 처음 봤다 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351306?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:14:00 +0900",
+                "title": "문재인 “칠십 평생 이렇게 못하는 정부는 처음 봐”",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825754?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:12:00 +0900",
+                "title": "문재인 “칠십 평생 이렇게 못하는 정부 처음…무지·무능·무도”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288996?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:10:00 +0900",
+                "title": "문재인  민주당, 조국당, 새미래 함께 좋은 성적 거둬야 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325947?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:03:00 +0900",
+                "title": "문재인  70평생에 이렇게 못하는 정부는 처음 본다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428439?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:41:00 +0900",
+                "title": "文  '70 평생' 이렇게 못하는 정부 처음… 무지·무능·무도 ",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793741?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:30:00 +0900",
+                "title": "부산 사상구 방문한 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603753?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:30:00 +0900",
+                "title": "배재정 후보 지원 나선 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603755?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:30:00 +0900",
+                "title": "부산 사상구 깜짝 지원 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603754?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:15:00 +0900",
+                "title": "문재인  70 평생 이렇게 못하는 정부 처음 …정권심판론 무게 보태(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464569?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:53:00 +0900",
+                "title": "[총선] 문재인 “이렇게 못하는 정부 처음…민주당·조국당·새미래 좋은 성적...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692848?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:47:00 +0900",
+                "title": "낙동강벨트서 文  칠십 평생 이렇게 못하는 정부 처음…무도해 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880631?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:39:00 +0900",
+                "title": "“지지율 조금 변해도 뒤집혀”… 인천 표심몰이 나선 이재명",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441291?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:35:00 +0900",
+                "title": "文, 부산 사상 깜짝 방문해 배재정 후보 격려",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870472?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:29:00 +0900",
+                "title": "이재명  여당, 선거마다 큰절하며 읍소…계속 속는 건 공범 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351296?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "'총선 D-9' 한동훈은 '낙동강 벨트', 이재명은 '인천'",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318856"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:23:00 +0900",
+                "title": "문재인 “70 평생 이렇게 못하는 정부는 처음, 무지·무능·무도”···총선...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:11:00 +0900",
+                "title": "문재인  70 평생에 이렇게 못하는 정부는 처음 본다 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451334?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:08:00 +0900",
+                "title": "문재인, 낙동강 벨트 민주당 후보 지지 행보 넓힌다",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907797"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 '깜짝' 방문...한동훈과 마주칠 뻔",
+                "link": "https://www.ajunews.com/view/20240401165255475"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 배재정 후보 지원",
+                "link": "https://www.etoday.co.kr/news/view/2346542"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "[총선 격전지 여론조사-낙동강벨트] 부산·경남...최대 접전 양상 '팽팽'",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237903"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:06:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 지원 방문",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603391?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:06:00 +0900",
+                "title": "문재인 전 대통령, 김정숙 여사와 함께 ‘부산 사상 배재정’ 깜짝 지원",
+                "link": "https://vop.co.kr/A00001650712.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:00:00 +0900",
+                "title": "文  칠십 평생 처음 본 정부…야당들 이겨 정신 차리게 해야 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351269?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "문재인 전 대통령 1일 사상 배재정 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263098?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:39:00 +0900",
+                "title": "문재인 전 대통령 내외, 배재정 후보와 함께",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450975?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:38:00 +0900",
+                "title": "文, 부산 사상 벚꽃길 방문…배재정 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825731?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "파란 옷의 문재인, '옛 지역구' 부산 사상서 배재정과 벚꽃 나들이",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019944?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:35:00 +0900",
+                "title": "문재인 전 대통령, 배재정 후보와 함께",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450960?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:35:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상구 찾아 배재정 후보와 함께",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450961?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:34:00 +0900",
+                "title": "문재인, 부산 사상구 배재정 깜짝 지원…김정숙 여사도 동행",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464197?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:28:00 +0900",
+                "title": "부산 사상구 깜짝 방문한 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450932?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:28:00 +0900",
+                "title": "부산 사상구 찾은 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450933?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:27:00 +0900",
+                "title": "부산 사상구 낙동제방벚꽃길 찾은 문재인 전 대통령 내외",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450931?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:27:00 +0900",
+                "title": "부산 사상구 찾은 문재인 전 대통령 내외",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450928?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상구 방문해 민주당 배재정 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/214/0001339984?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 289433
+            }
+        ],
+        "huboid": "100151549",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2616/Hb100151549/junkwa/20231214165058195_1.PDF"
+    },
+    {
+        "id": "2261601-2",
+        "regionId": "2261601",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-2.jpg",
+        "기호": 2,
+        "이름": "김대식",
+        "생년월일": "19620811",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
+        "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
+        "재산": 2368023,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:27:00 +0900",
+                "title": "교정시설 통합 이전…여야 넘어 지역 간 신경전 팽팽",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070266?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "당색 빼고 인물로 승부…흰옷 입는 후보들",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070262?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+                "title": " 자영업자 육아휴직 도입  한동훈의 영혼 없는 공(空)약",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220818"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+                "title": "'수성이냐 탈환이냐'…PK 10곳 대혼전",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225680&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+                "title": "현역 장제원 불출마 전국구 부상… 지역 인지도 VS 선거 조직력 팽팽 [PK 격전...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263374?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+                "title": "'흔들리는' PK 민심 누구에게 쏠릴까?",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99833"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+                "title": "[포토]  평택 을 민주당 이병진·국힘 정우성 후보자 초청 간담회",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559096"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:19:00 +0900",
+                "title": "총선 D-8, 국민의미래 35.1%-조국혁신당 24.7%-민주연합 22.2%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428529?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:40:00 +0900",
+                "title": "총선 전면 등장한 문재인...윤석열 정부 '직격'",
+                "link": "https://www.cnbnews.com/news/article.html?no=651960"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:34:00 +0900",
+                "title": "사상구, 정권 심판 vs 중단 없는 발전 (B tv 부산뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168467"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:38:00 +0900",
+                "title": "한동훈, '캐스팅보트' 충청권 지원 사격…윤재옥·인요한도 막판 유세",
+                "link": "https://www.ajunews.com/view/20240402083504696"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:31:00 +0900",
+                "title": "[4/2(화) 데일리안 출근길 뉴스] [현장] '공약 선물 세트' 들고 부산 찾은 한...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815997?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:15:00 +0900",
+                "title": "[현장] '공약 선물 세트' 들고 부산 찾은 한동훈… 1992년 '영광의 시대' 만들...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815955?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "사상구, 공업지역 탈바꿈 어떻게?",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262710"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:34:00 +0900",
+                "title": "한동훈, 부산서 정면 반박  이재명이 진짜 악어의 눈물 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455615"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:57:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 지원…비슷한 시간 한동훈도",
+                "link": "https://n.news.naver.com/mnews/article/422/0000652882?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+                "link": "https://www.newspim.com/news/view/20240401001242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "“배재정 도우러 왔다” 文, 사상서 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070144?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:14:00 +0900",
+                "title": "문재인  칠십 평생 이렇게 못하는 정부는 처음 봤다 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351306?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:13:00 +0900",
+                "title": "문재인 “70 평생 이렇게 못하는 정부 처음 본다”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982476?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:12:00 +0900",
+                "title": "문재인 “칠십 평생 이렇게 못하는 정부 처음…무지·무능·무도”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288996?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:03:00 +0900",
+                "title": "문재인  70평생에 이렇게 못하는 정부는 처음 본다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428439?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:30:00 +0900",
+                "title": "부산 사상구 방문한 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603753?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:15:00 +0900",
+                "title": "문재인  70 평생 이렇게 못하는 정부 처음 …정권심판론 무게 보태(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464569?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:48:00 +0900",
+                "title": "[포토] 전국 섬유·유통노동조합연맹, '친노동자' 사상 김대식 지지선언",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515353"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+                "title": "'PK 위기감' 한동훈 하루 7곳 돌며  부산 되살리겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263147?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:39:00 +0900",
+                "title": "“염종석처럼 최선 다할 것”… 부산 텃밭 다잡는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441290?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:35:00 +0900",
+                "title": "文, 부산 사상 깜짝 방문해 배재정 후보 격려",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870472?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "'총선 D-9' 한동훈은 '낙동강 벨트', 이재명은 '인천'",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318856"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:01:00 +0900",
+                "title": "[총선, 현장] PK 유세 한동훈… “1992년 롯데 우승 이끈 염종석처럼 소진하겠...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982458?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "부산 찾은 한동훈, 오전엔 ‘민생’ 오후엔 ‘이조심판’ 강조(종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704655?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 '깜짝' 방문...한동훈과 마주칠 뻔",
+                "link": "https://www.ajunews.com/view/20240401165255475"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "[포토] 한동훈  해운대 바꾸려면 주진우·김미애 뽑아달라”",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000425"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+                "title": "부산行 한동훈 “염종석처럼 혼신의 힘”…‘자영업자 육아휴직’ 공약도",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441274?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "한동훈, ‘지지율 급락’ PK로…“사직구장 조속히 재건축”",
+                "link": "https://www.etoday.co.kr/news/view/2346547"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "한동훈  정부 의사 2000명 고수 안 해…이번 총선 '범죄와의 전쟁' (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451224?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+                "title": "한동훈, 'P·K' 지지율 급락에 급거 부산행...'보수 텃밭 표심' 단속",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104637"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:28:00 +0900",
+                "title": "[펜앤포토] 밴드 감은 한동훈 비대위원장의 손... 상처투성이 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78882"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:28:00 +0900",
+                "title": "[4.10총선-185] 부산 사상구, 배재정vs김대식. ‘사상이 수상하다’",
+                "link": "http://www.mhj21.com/160233"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[총선포토] 한동훈  중단없는 사상발전 김대식이 이룰 것 ",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515351"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "與  간이과세자 기준 연매출 2억원·자영업자 육아휴직 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000388"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "[총선 격전지 여론조사-낙동강벨트] 부산·경남...최대 접전 양상 '팽팽'",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237903"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:00:00 +0900",
+                "title": "文  칠십 평생 처음 본 정부…야당들 이겨 정신 차리게 해야 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351269?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "문재인 전 대통령 1일 사상 배재정 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263098?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:38:00 +0900",
+                "title": "文, 부산 사상 벚꽃길 방문…배재정 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825731?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "파란 옷의 문재인, '옛 지역구' 부산 사상서 배재정과 벚꽃 나들이",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019944?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "부산 곳곳 누빈 한동훈  투수 염종석처럼 싸워 총선 이길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880556?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:36:00 +0900",
+                "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:34:00 +0900",
+                "title": "문재인, 부산 사상구 배재정 깜짝 지원…김정숙 여사도 동행",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464197?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:33:00 +0900",
+                "title": "4·10 총선 사전투표 D-4, 여야 모두 투표율 높이기 주력",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704579?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:19:00 +0900",
+                "title": "배재정 후보 지원 위해 부산 사상 찾은 문재인…한동훈과도 만날뻔 했다",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321650?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "문재인 전 대통령 부산 사상 깜짝 방문…배재정 민주당 후보 격려",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450783?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:46:00 +0900",
+                "title": "오늘 부산 길거리서 목격된 문재인 전 대통령 깜짝 근황 (+사진)",
+                "link": "https://www.wikitree.co.kr/articles/939656"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:46:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 배재정 후보 지원…비슷한 시각 한동훈도 부산 ...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000113"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:43:00 +0900",
+                "title": "文, 옛 지역구 부산 사상 깜짝방문…한동훈도 비슷한 때 갔다",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351244?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+                "title": "文, 한동훈 찾은 부산 사상 찾아 민주당 후보 지원",
+                "link": "http://www.viewsnnews.com/article?q=218843"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:28:00 +0900",
+                "title": "[총선 D-9] 문재인 전 대통령, 부산 사상 지원 방문…배재정 후보 격려",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026007"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:27:00 +0900",
+                "title": "한동훈 “부가세 간이과세 기준, 연매출 8000만원→2억원 상향 조정”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288883?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 지원 방문…비슷한 시간 한동훈도",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602859?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:08:00 +0900",
+                "title": "부산 찾은 한동훈 “소진돼도 좋다, 1992년 롯데 우승 이끈 염종석 같은 사람...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825710?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:18:00 +0900",
+                "title": "윤 대통령과 선 그은 한동훈  100일도 안 된 저한테 책임이...  ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428357?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:13:00 +0900",
+                "title": "[단독]문재인 전 대통령, 부산 사상 깜짝방문…한동훈 마주칠 뻔",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880429?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:06:00 +0900",
+                "title": "한동훈  의사 증원 해야 하지만 숫자에 매몰될 문제 아냐 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450260?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463405?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463415?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463407?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463413?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "부산 사상 김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463412?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463411?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463410?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463409?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463408?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "부산 사상 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463414?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463416?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463417?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:10:00 +0900",
+                "title": "‘낙동강’ 대혼전에 “대통령 무릎꿇으라”",
+                "link": "https://www.naeil.com/news/read/506113?ref=naver"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:53:00 +0900",
+                "title": "윤 대통령 담화에 한동훈  의사 증원 숫자 매몰 안 돼 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428337?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:50:00 +0900",
+                "title": "한동훈은 PK행, 이재명은 인천행... 표심잡기 총력",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436820"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:38:00 +0900",
+                "title": "한동훈 “의대 증원 숫자에 매몰될 문제 아냐…조속한 해결 요청”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704311?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:16:00 +0900",
+                "title": "한동훈  부가세 간이과세 기준 2억으로 상향…자영업자도 육아휴직 (종합)",
+                "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4304106"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:14:00 +0900",
+                "title": "한동훈  부가가치세 간이과세자 적용 기준 2억원 상향  공약",
+                "link": "https://www.ajunews.com/view/20240401120534066"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:04:00 +0900",
+                "title": "한동훈 위원장,  사랑하는 부산에서 승리할 수 있도록...도와달라 ",
+                "link": "http://www.kukinews.com/newsView/kuk202404010141"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+                "title": "[총선 D-9] 與, 낙동강벨트 공략… 산은 부산 이전·사직구장 재건축 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602290?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:56:00 +0900",
+                "title": "한동훈  부가세 간이과세 기준 2억으로 상향…자영업자 육아휴직 도입 ",
+                "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4304100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:52:00 +0900",
+                "title": "한동훈  부가세 간이과세 2억 상향·자영업자 육아휴직 도입 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462964?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602219?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "사상구 후보와 포옹하는 한동훈 총괄선거대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449817?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602217?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602215?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602216?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602220?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:45:00 +0900",
+                "title": "기호 2번 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602221?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+                "title": "한동훈 위원장 손 잡고 지지 유세하는 김대식 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449815?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+                "title": "'부산 사상구, 기호 2번'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449813?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+                "title": "'국민의힘으로 사상살리기'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449814?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:44:00 +0900",
+                "title": "김대식 후보 지원차 부산 사상구 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449816?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2368023
+            }
+        ],
+        "huboid": "100151954",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2616/Hb100151954/junkwa/20240103111947100_1.PDF"
+    }
 ]

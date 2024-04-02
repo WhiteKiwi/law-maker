@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-1.jpg",
-    "id": "2270801-1",
-    "재산": 499330,
-    "생년월일": "19651117",
-    "경력": "(전)대통령직속 국가균형발전위원회 정책조정실장\n(전)제21대 국회의원선거 달성군 선거구 후보자",
-    "학력": "경북대학교 대학원 정치학과 석사과정 수료",
-    "직업": "정치인",
-    "성별": "남",
-    "regionId": "2270801",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:44:00 +0900",
-        "title": "박형룡 “지방청년 균형소득 월 20만원 지급 추진”",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475508"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:20:00 +0900",
-        "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:28:00 +0900",
-        "title": "야권연대 '민주진보연합' 28일 출정식",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240328010004044"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:12:00 +0900",
-        "title": "[열전 4.10 총선] 박형룡 “지방청년 균형소득 월 20만원 지급” 공약",
-        "link": "http://www.kbsm.net/news/view.php?idx=427917"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:19:00 +0900",
-        "title": "대구 야권연대 '민주진보연합' 합동출정식… 파란 일으키자 ",
-        "link": "https://n.news.naver.com/mnews/article/421/0007443703?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "박형룡",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 499330
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-2.jpg",
-    "id": "2270801-2",
-    "재산": 4252392,
-    "생년월일": "19600729",
-    "경력": "(전)부총리 겸 기획재정부 장관\n(현)대구 달성군 국회의원",
-    "학력": "미국 오리건대학교 대학원 졸업(경제학 석사, 1991.9~1993.3)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "912",
-    "regionId": "2270801",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:56:00 +0900",
-        "title": "TK 격전지 출마 '조지연·김기웅' 지원사격",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005230"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:50:00 +0900",
-        "title": "추경호  대구농수산물도매시장 이전 약속 확실하게 챙길 것 ",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544267"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:01:00 +0900",
-        "title": "추경호  대구농수산물도매시장 이전 약속 확실히 챙기겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870463?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:00:00 +0900",
-        "title": "[4·10 필드 속으로] 추경호, 대구 달성군 농업환경 획기적 개선 추진",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000166"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:22:00 +0900",
-        "title": "추경호(국민의힘, 대구 달성군) 의원, 달성군 농업환경 획기적 개선 추진",
-        "link": "https://www.wikitree.co.kr/articles/939670"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "추경호",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 3206435
-      },
-      {
-        "연도": 2021,
-        "재산": 3641750
-      },
-      {
-        "연도": 2022,
-        "재산": 4094381
-      },
-      {
-        "연도": 2023,
-        "재산": 4252392
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-1.jpg",
+        "id": "2270801-1",
+        "재산": 499330,
+        "생년월일": "19651117",
+        "경력": "(전)대통령직속 국가균형발전위원회 정책조정실장\n(전)제21대 국회의원선거 달성군 선거구 후보자",
+        "학력": "경북대학교 대학원 정치학과 석사과정 수료",
+        "직업": "정치인",
+        "성별": "남",
+        "regionId": "2270801",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:52:00 +0900",
+                "title": "김부겸  대구, 몇 곳 의미있는 지지율  동성로 유세... 조금만 더, 확 디비달...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30305"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:13:00 +0900",
+                "title": "이재명, 격전지 동작을 6번째 지원…김부겸, TK서 정권심판론 강조(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467390?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:44:00 +0900",
+                "title": "[포토] 대구 합동유세, 지지호소하는 박형룡 대구달성 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200375.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "[포토] 더불어민주당 대구 후보자 합동유세",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200363.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+                "title": "김부겸  회초리 안 들면 이 나라 어디로 가겠나  보수 텃밭에서 심판론",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467311?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+                "title": "[4.10 현장르포] 대구 달성군, 재선 추경호 후보 우세 속 정권심판론도 '꿈틀...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641602"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:44:00 +0900",
+                "title": "박형룡 “지방청년 균형소득 월 20만원 지급 추진”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475508"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:20:00 +0900",
+                "title": "더불어민주당 총선 후보, 험지 대구에서 '고군분투'",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240329010004160"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:28:00 +0900",
+                "title": "야권연대 '민주진보연합' 28일 출정식",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240328010004044"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+                "title": "[열전 4.10 총선] 박형룡 “지방청년 균형소득 월 20만원 지급” 공약",
+                "link": "http://www.kbsm.net/news/view.php?idx=427917"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:19:00 +0900",
+                "title": "대구 야권연대 '민주진보연합' 합동출정식… 파란 일으키자 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443703?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:34:00 +0900",
+                "title": "대구 민주진보 단일후보 11명의 호소  40년 독점에 경제 꼴찌...윤석열·국힘...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30264"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:16:00 +0900",
+                "title": "대구 민주당·진보당·새진보연합 합동 출정식···“이번엔 선수 교체”",
+                "link": "https://www.newsmin.co.kr/news/101041/"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:14:00 +0900",
+                "title": "거리의 춤꾼·노동운동가·박근혜 변호인…대구지역 총선 후보 이력·직업 '각...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004869"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:44:00 +0900",
+                "title": "박형룡  지방청년 균형소득 월 20만원 지급 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455087"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:52:00 +0900",
+                "title": "슬로건을 보면 후보가 보인다…미리보는 TK 선거 벽보",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869634?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:58:00 +0900",
+                "title": "(4·10 총선 현장)민주당 박형룡 ‘지방청년 균형소득 월 20만 원 지급’ 공약",
+                "link": "https://www.idaegu.com/newsView/idg202403270031"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:24:00 +0900",
+                "title": "달성군 박형룡,  '지방청년 균형소득' 월 20만원 지급 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150035"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:12:00 +0900",
+                "title": "진보당 달성지역위, 박형룡 후보 지지선언",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149725"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:52:00 +0900",
+                "title": "진보당 달성지역위, 민주당 박형룡 후보 지지선언",
+                "link": "http://www.sentv.co.kr/news/view/682403"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:03:00 +0900",
+                "title": "[대구 총선] 민주당  국힘 낙하산 공천, 대구 말아먹고 바람과 함께 사라진다...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324751?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 22:14:00 +0900",
+                "title": "대구민주당 후보자들  군부대도 외곽이전… 웬 낙하산공천  비판 한 목소리",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454598"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:02:00 +0900",
+                "title": "TK 총선 후보 10명 중 4명 이상이 전과자",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240324010003302"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경북·대구지역 총선 후보자 들여다 보니…男 63명 중 8명 병역미필·전과 29...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004491"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:42:00 +0900",
+                "title": "민주당 대구시당  이번 총선 3석 확보할 것 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543439"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:10:00 +0900",
+                "title": "(4.10 총선 현장) TK 2.96:1 경쟁률…최고 자산가는 최은석, 최고령은 김일윤",
+                "link": "https://www.idaegu.com/newsView/idg202403240055"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:27:00 +0900",
+                "title": "민주당대구시당, 총선 출정 선언  여야 힘 합치면 무슨 일이든 한다 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868840?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:33:00 +0900",
+                "title": "대구 `찐명` 女청년정치인은 왜 `이재명 민주당`에 소송을 걸었나?",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698634?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 대구(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427082"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:52:00 +0900",
+                "title": "총선, 서민을 위한 국회의원은?...대구 12곳에 32명 출마, 5곳은 양자 맞대결",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30238"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:14:00 +0900",
+                "title": "'열전 현장 속으로' - 대구 달성군",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240322150104AE00708&id=185758"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:56:00 +0900",
+                "title": "대구, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004381"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:32:00 +0900",
+                "title": "[4·10 총선 후보자 등록]대구(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003124"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:00:00 +0900",
+                "title": "대구경북 총선 후보 중 전과자 31명…음주운전 7명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583359?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 대구(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583356?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:40:00 +0900",
+                "title": "[4·10총선 후보자 등록] 대구",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430852?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:10:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 대구(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583300?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:16:00 +0900",
+                "title": "대구 출마 민주당 후보들  이번만은 여·야를 섞어주십시오 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275673?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:43:00 +0900",
+                "title": "대구·경북 총선 후보 중 25명 전과자…음주운전 7명",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396055?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "대구·경북 총선 후보 중 전과자 31명 … 음주운전 적발 7명",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435681"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:13:00 +0900",
+                "title": "큰절 올린 대구 출마 민주당 후보들...  야당에도 기회 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426993?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:00:00 +0900",
+                "title": "대구경북 총선 후보 중 전과자 25명…음주운전 7명",
+                "link": "https://n.news.naver.com/mnews/article/001/0014582848?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:38:00 +0900",
+                "title": "대구 더불어민주당 큰절하며, “민주당도 일하고 싶다”",
+                "link": "https://www.newsmin.co.kr/news/100708/"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:48:00 +0900",
+                "title": "대구 민주당 후보들 '큰절'로 호소... 시민 우습게 아는 국민의힘, 제발 심판...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30236"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:08:00 +0900",
+                "title": "박형룡 민주당 달성군 후보, 제22대 국회의원선거 후보자 등록. . .21대 총선...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485839"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:26:00 +0900",
+                "title": "민주당 대구지역 총선 출마자  3석 이상 목표 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429712?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:38:00 +0900",
+                "title": "[22대 총선 후보자 등록] 대구(21일 마감)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427048"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:02:00 +0900",
+                "title": "[4·10총선 후보자 등록]대구(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429074?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:43:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 대구(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581004?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:36:00 +0900",
+                "title": "박형룡, 달성군 총선 후보자 등록... 무능한 검사정권 심판하겠다 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149241"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:14:00 +0900",
+                "title": " 무능한 검사 정권 심판할 것 …대구 야권 출마자 후보 등록 잇따라",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876479?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:40:00 +0900",
+                "title": "박형룡 민주당 달성군 후보, 제22대 국회의원선거 후보자 등록",
+                "link": "http://www.sentv.co.kr/news/view/682175"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 00:18:00 +0900",
+                "title": "국힘 이번도 TK권 전역 석권하나...'무소속 강풍'에 곳곳 난기류",
+                "link": "https://www.newspim.com/news/view/20240318001161"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:14:00 +0900",
+                "title": "허소 민주당 대구 중남구 예비후보, 필승결의대회 갖고 본격 세 확산 나서",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485589"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:44:00 +0900",
+                "title": "與, 링 위 오를 대구·경북 선수 25명 전원 확정",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453728"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 12:18:00 +0900",
+                "title": "5.18폄훼...도태우 예비후보 거듭된 사과에도 지역 정치권 파장 여전",
+                "link": "http://www.breaknews.com/1021299"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:19:00 +0900",
+                "title": "대구 민주당 총선 후보들  '막발논란' 국힘 도태우 후보 사퇴 촉구 ",
+                "link": "https://www.newspim.com/news/view/20240314001154"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 17:38:00 +0900",
+                "title": " 5·18 부정은 2·28과 4·19를 부정하는 것…도태우 후보 사퇴해야 ",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003695"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 17:36:00 +0900",
+                "title": "대구 민주당 총선 출마자들  '5·18 망언' 도태우 사퇴하라 ",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240314010001915"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 08:52:00 +0900",
+                "title": "박형룡  윤 정부에 대한 불만 높아...달성군을 영남권 최고 도시로 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3148224"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 19:20:00 +0900",
+                "title": "[총선/대구·경북 주간정치] TK 비례 후보 2명 선출…“밀실 공천” 비판, 왜...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011679504?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 09:54:00 +0900",
+                "title": "[4.10총선] 총선 '한 달 앞으로'…대구 여야 대진표 거의 완성 (대구)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=65&p_no=167606"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:06:00 +0900",
+                "title": "올해도 ‘보수텃밭’ 굳건할까… TK대진표 경산·구미을 눈길 [요동치는 전국...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005154348?sid=102"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 14:53:00 +0900",
+                "title": "국힘 대구·경북 25개 선거구 석권 가능? [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005154218?sid=102"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 12:46:00 +0900",
+                "title": "민주당 대구시당, 전진대회 열고 총선 승리 다짐",
+                "link": "http://www.kbsm.net/news/view.php?idx=425524"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 08:18:00 +0900",
+                "title": "대구 여·야 대진표 거의 마무리 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005153893?sid=102"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:54:00 +0900",
+                "title": "총선 D-30, 여야 공천 마무리 단계…TK 대진표 19곳 완성",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=452880"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:58:00 +0900",
+                "title": "국정안정 vs 정권심판…'민심'의 선택만 남았다",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003253"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:16:00 +0900",
+                "title": "민주당 대구시당, 총선 앞두고 승리 위한 전진대회 열어",
+                "link": "https://n.news.naver.com/mnews/article/047/0002425136?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 19:36:00 +0900",
+                "title": "[22대 총선 누가 뛰나] 박정희 전 북구의원, 대구 북구갑 총선 출마 선언",
+                "link": "http://www.kbsm.net/news/view.php?idx=425471"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 06:30:00 +0900",
+                "title": "[총선 D-30] 대구 여·야 대진표 윤곽…야당, '선거연합'으로 여당 견제",
+                "link": "https://n.news.naver.com/mnews/article/421/0007400613?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:16:00 +0900",
+                "title": "민주당 박정희, '북구갑' 총선 출마...대구 8곳 후보자 확정",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30151"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 06:01:00 +0900",
+                "title": "[총선 D-30] 보수 텃밭 대구…국힘 '잡음 최소' 주력 vs 野 선거연합 기대",
+                "link": "https://n.news.naver.com/mnews/article/001/0014550108?sid=100"
+            },
+            {
+                "date": "Thu, 07 Mar 2024 21:10:00 +0900",
+                "title": "대구 민주당 총선 후보명단 완성…비례대표 후보 자리 놓고는 내홍",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003053"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 23:42:00 +0900",
+                "title": "'보수텃밭' 대구서 민주·진보 3당 뭉쳤다...선거연합 합의",
+                "link": "https://www.newspim.com/news/view/20240306001112"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 20:22:00 +0900",
+                "title": "대구 민주당·진보당·새진보연합 '총선 후보 단일화'",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4002932"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 14:34:00 +0900",
+                "title": "대구 '동구을' 진보당 '황순규'로 후보단일화...민주·진보·새진보 3당, '전...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30115"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 14:02:00 +0900",
+                "title": "진보정당 '선거연합' 대구서 첫 시작…대구 11개 선거구에서 후보 나눠",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240306010000688"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 13:57:00 +0900",
+                "title": "대구에서 첫 야 3당 선거연합...  절박했고 단단해졌다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002424634?sid=165"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 12:20:00 +0900",
+                "title": "민주당·새진보연합·진보당, 총선 대구 선거연합 선언…국민의힘과 1대1 구도...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000865808?sid=100"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 11:52:00 +0900",
+                "title": "대구 더불어민주당·새진보연합·진보당, 12개 중 11개 선거구 연대 공천",
+                "link": "https://www.newsmin.co.kr/news/100116/"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 21:26:00 +0900",
+                "title": "중소기업중앙회 대구본부, 총선 앞두고 중소기업계 정책과제 전달",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=433426"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 20:52:00 +0900",
+                "title": "중소기업중앙회 대구본부, 중소기업계 정책과제 전달",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=471054"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 20:32:00 +0900",
+                "title": "민주당 TK총선후보 기근에 타지역 낙천자 영입론까지",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=987084"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 19:00:00 +0900",
+                "title": "민주당 찾은 중기중앙회 대구본부  中企 육성 도와달라 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=541608"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 15:51:00 +0900",
+                "title": "중기중앙회 대구본부, 제22대 총선 앞두고 중소기업계 정책과제 전달",
+                "link": "https://n.news.naver.com/mnews/article/088/0000865670?sid=101"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 15:11:00 +0900",
+                "title": "대구 민주당 찾은 중소기업계  중소기업 육성 도와달라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003870393?sid=102"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 14:48:00 +0900",
+                "title": "대구 중소기업계. 민주당에 총선 정책과제 전달",
+                "link": "https://n.news.naver.com/mnews/article/421/0007391432?sid=102"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 14:46:00 +0900",
+                "title": "중기중앙회 대구본부, 대구민주당에 제22대 총선 정책과제 전달",
+                "link": "http://www.kbsm.net/news/view.php?idx=424861"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 12:51:00 +0900",
+                "title": "'4.10총선' TK 주요 여야 대진표 속속 확정...대구 5곳·경북 6곳",
+                "link": "https://www.newspim.com/news/view/20240305000582"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "박형룡",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 499330
+            }
+        ],
+        "huboid": "100151936",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2708/Hb100151936/junkwa/20240320144236820_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270801-2.jpg",
+        "id": "2270801-2",
+        "재산": 4252392,
+        "생년월일": "19600729",
+        "경력": "(전)부총리 겸 기획재정부 장관\n(현)대구 달성군 국회의원",
+        "학력": "미국 오리건대학교 대학원 졸업(경제학 석사, 1991.9~1993.3)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "912",
+        "regionId": "2270801",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:59:00 +0900",
+                "title": " 원희룡·강기윤·박정하·윤희숙, 의료 민영화 추진 '최악 4인방' ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326141?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+                "title": "김준일의 팩트체크 I 51분 담화, 尹의 진심…뚝심이냐 고집불통이냐 [김혜영의...",
+                "link": "https://news.cpbc.co.kr/article/1156302?division=NAVER"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+                "title": "무상의료운동본부 선정 최악의후보 '국힘 원희룡, 박정하, 강기윤, 윤희숙'  ...",
+                "link": "http://worknworld.kctu.org/news/articleView.html?idxno=504334"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:40:00 +0900",
+                "title": "추경호, 달성 중부권 복합문화센터 건립 사업 국비 120억 확보",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544419"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+                "title": "[4.10 현장르포] 대구 달성군, 재선 추경호 후보 우세 속 정권심판론도 '꿈틀...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641602"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "선거공보물 내용 분석해보니…'국힘 TK 후보 공약=지역 발전 바로미터'",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870689?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "달성군 옥포지구에 '달성 중부권 복합문화센터' 짓는다",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870664?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:45:00 +0900",
+                "title": "민생공약 맞붙는 여야…총선 후 다가올 ‘기재부의 시간’",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816335?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:25:00 +0900",
+                "title": "[포토] 무상의료운동본부,  의료공공성 파괴  총선 낙선 대상자 발표",
+                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33560"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+                "title": "'시민건강 위협' 총선 후보 22인 발표…최악은 누구",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278174?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "추경호, 복합문화센터 건립 사업 국비 확보",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455690"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "의료계도 총선 낙선운동… 시민 생명과 건강 위협  주장",
+                "link": "https://www.econovill.com/news/articleView.html?idxno=650892"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:10:00 +0900",
+                "title": "추경호, 달성 중부권 복합문화센터 건립사업 선정으로 국비 120억원 확보",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000323"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+                "title": "[열전 4.10 총선] 추경호, 중부권(옥포) 복합문화센터 건립 국비 120억 확보",
+                "link": "http://www.kbsm.net/news/view.php?idx=428455"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+                "title": "추경호(국민의힘, 대구 달성군) 의원, “중부권(옥포) 복합문화센터 건립사업...",
+                "link": "https://www.wikitree.co.kr/articles/939992"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+                "title": "원희룡·강기윤·윤희숙, 국민 건강에 '최악의 후보'",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220816"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:57:00 +0900",
+                "title": "추경호 의원, 달성 옥포 복합문화센터 건립사업 국비 120억원 확보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825331?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:44:00 +0900",
+                "title": "(4.10 총선 현장) 추경호, “중부권 복합문화센터 건립사업 국비 120억 원 확...",
+                "link": "https://www.idaegu.com/newsView/idg202404020031"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:53:00 +0900",
+                "title": "4·10 총선 D-8…시민 생명 위협할 '위험' 국회의원 후보?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880870?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:16:00 +0900",
+                "title": "[총선레이더] 추경호, 옥포읍 복합문화센터 건립 국비 120억원 확보",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870537?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:58:00 +0900",
+                "title": "[4·10 필드 속으로] 추경호, 달성 중부권 복합문화센터 건립사업 선정으로 국...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000230"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": "TK 격전지 출마 '조지연·김기웅' 지원사격",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005230"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+                "title": "추경호  대구농수산물도매시장 이전 약속 확실하게 챙길 것 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544267"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:01:00 +0900",
+                "title": "추경호  대구농수산물도매시장 이전 약속 확실히 챙기겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870463?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:00:00 +0900",
+                "title": "[4·10 필드 속으로] 추경호, 대구 달성군 농업환경 획기적 개선 추진",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000166"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:22:00 +0900",
+                "title": "추경호(국민의힘, 대구 달성군) 의원, 달성군 농업환경 획기적 개선 추진",
+                "link": "https://www.wikitree.co.kr/articles/939670"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "추경호  달성군 농업환경 획기적 개선 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455512"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:56:00 +0900",
+                "title": "(4.10 총선 현장) 추경호, 달성군 농업환경 획기적 개선 추진 약속",
+                "link": "https://www.idaegu.com/newsView/idg202404010043"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:16:00 +0900",
+                "title": "'정권심판론' 득세에 용산 출신 후보들 '尹과 거리두기'",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321605?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "‘제1당’ 이재명 판세 굳히기",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243008"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:43:00 +0900",
+                "title": "추경호 의원, 달성군 농업환경 획기적 개선 추진 약속",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824951?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:08:00 +0900",
+                "title": "추경호 위원장과 인사 나누는 윤재옥 공동선대위원장",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958054"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:06:00 +0900",
+                "title": "'문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428299?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:12:00 +0900",
+                "title": "[4.10총선-161] 대구달성, 박형룡vs추경호. 박근혜의 정치적 고향",
+                "link": "http://www.mhj21.com/160202"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:52:00 +0900",
+                "title": "추경호 위원장과 인사 나누는 윤재옥 공동선대위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449203?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:57:00 +0900",
+                "title": "민생공약 맞붙는 여야…“부가세 한시 인하” vs “전국민에 25만원”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281157?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "[글로벌 렌즈] '1인당 25만원 지급' 공약, 미국이라면",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2024032901141951786b49b9d1da_1/article.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:45:00 +0900",
+                "title": "與  부가세 한시적 인하 … 野  전국민에 25만원 지급 ",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281044?sid=101"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:08:00 +0900",
+                "title": "[총선 D-10] 국민의힘 김선교 여주·양평 후보  다양한 공직과 현장 경험 명품...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025383"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:44:00 +0900",
+                "title": "국힘 추경호 후보, 다사읍에서 출정식···본격 선거운동 돌입",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315344"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:44:00 +0900",
+                "title": "[총선특집] '추경호·방문규·김완섭·안도걸·조인철…' 22대 총선, 경제인 ...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486164"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:24:00 +0900",
+                "title": "[데스크칼럼] 국세청 前 청장과 차장에게 있어 신의(信義)란 무엇인가",
+                "link": "https://www.ajunews.com/view/20240329151245931"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:22:00 +0900",
+                "title": "[총선 뛰는 경제통-15] 추경호  달성을 저출생 해결 모범답안으로 ",
+                "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4303897"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 06:30:00 +0900",
+                "title": "고액체납자 징수 강도 높였지만…경기 불황에 못낸 세금 2조 늘었다",
+                "link": "https://n.news.naver.com/mnews/article/003/0012458018?sid=101"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+                "title": "[열전 25시] 3월 28일 인천 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037666?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:04:00 +0900",
+                "title": "“부자 감세로 국가 파탄…4·10 총선으로 복지국가 전환 계기 마련해야”",
+                "link": "https://vop.co.kr/A00001650463.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:22:00 +0900",
+                "title": "국민의힘 대구 후보들도 선거운동 시작... 윤석열 정부 일할 수 있게 압승 ",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30265"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:14:00 +0900",
+                "title": "거리의 춤꾼·노동운동가·박근혜 변호인…대구지역 총선 후보 이력·직업 '각...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004869"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "대구 중남구, '김기웅 선거연락소 개소', '도태우 주민 건승 기원'",
+                "link": "https://www.ajunews.com/view/20240328115002949"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:20:00 +0900",
+                "title": "총선주거권연대  거대 양당 부동산 공약 모두 개발·투기 조장 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014595106?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:30:00 +0900",
+                "title": "김기웅 대구 중·남구 후보, 선거연락소 개소식 성황리 개최",
+                "link": "http://www.sentv.co.kr/news/view/682731"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:34:00 +0900",
+                "title": "김기웅 후보, 선거연락소 개소식 성황리 개최",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150174"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+                "title": "한-가락시장 vs 이-용산… 오늘 총선 출정식",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123192"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 22:06:00 +0900",
+                "title": "시민단체가 뽑은 '최악의 후보' 1위는 원희룡",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325312?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 22:00:00 +0900",
+                "title": "여야, 공식 선거운동 시작…가락시장·용산역 등 출정식 장소 '주목'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454578?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:38:00 +0900",
+                "title": "국민의힘 총선 대구선거대책위원회 출범",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474743"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:00:00 +0900",
+                "title": "물가부터 점검…한동훈號 공식선거운동 출발점은 송파 가락시장",
+                "link": "https://n.news.naver.com/mnews/article/029/0002863901?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:40:00 +0900",
+                "title": "총선 선거운동 돌입···한동훈은 '가락시장' 이재명은 '용산'서 출정식",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017953?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:52:00 +0900",
+                "title": "슬로건을 보면 후보가 보인다…미리보는 TK 선거 벽보",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869634?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:18:00 +0900",
+                "title": "“총선 前 내려라”…SKT·LGU+도 3만원대 5G 요금제 출시",
+                "link": "https://www.etoday.co.kr/news/view/2344889"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:34:00 +0900",
+                "title": "한동훈, 공식 선거운동 시작은 새벽 가락시장…물가 점검 나선다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017861?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:38:00 +0900",
+                "title": "한동훈, 이번 28일 송파 가락시장서 4·10 총선 출정식 나선다",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78614"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:24:00 +0900",
+                "title": "국민의힘 대구선거대책위원회 발대식",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849493"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:21:00 +0900",
+                "title": "국민의힘 대구시당 선거대책위원회 발대,  제22대 총선 압승하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/310/0000115467?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:16:00 +0900",
+                "title": "한동훈, 가락시장서 4·10 총선 출정식…물가동향 점검(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012453744?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:40:00 +0900",
+                "title": "국민의힘 대구선거대책위원회 발대식 개최",
+                "link": "https://www.wikitree.co.kr/articles/938341"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:30:00 +0900",
+                "title": "[오만정] '친박 유일 공천' 유영하 변호사에게 '탄핵의 강'을 물으니...",
+                "link": "https://n.news.naver.com/mnews/article/052/0002015685?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:32:00 +0900",
+                "title": "[22대 총선 누가 뛰나] 김기웅 후보, ‘충혼탑 참배’ 후 결의 다져",
+                "link": "http://www.kbsm.net/news/view.php?idx=427634"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:00:00 +0900",
+                "title": "국민의힘 대구시당, 주호영‧윤재옥 의원 공동총괄선거대책위원장 임명",
+                "link": "https://www.ajunews.com/view/20240327103320924"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:55:00 +0900",
+                "title": "[단독] 나경원 “이재명, 정말 변한게 없어…‘1인당 25만원’은 매표행위 시...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278947?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:43:00 +0900",
+                "title": "[뉴스돋보기] 여 네거티브 대신 민생 / 야 수위 높이는 정권심판론",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808373?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+                "title": "초선의원 5인의 보좌진이 말하는 의정활동 뒷이야기",
+                "link": "http://www.esquirekorea.co.kr/article/84936"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:34:00 +0900",
+                "title": " 반 국가 세력이 국회 오는 것, 대구가 막아야 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454923"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:58:00 +0900",
+                "title": "국힘 대구 선대위 출범  단합된 힘으로 시민에 제대로 보답해야 ",
+                "link": "http://www.breaknews.com/1023282"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:38:00 +0900",
+                "title": "주호영 “다른 당 대표, 판결나면 징역 갈 사람”…이재명 겨냥",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474662"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:24:00 +0900",
+                "title": "與 대구시당 선대위 발대식…  단결·단합으로 압승 이루자 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989851"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:10:00 +0900",
+                "title": "‘대파’로 분출되는 정권 심판론, 밑바닥엔 경제실정 분노",
+                "link": "https://vop.co.kr/A00001650214.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:06:00 +0900",
+                "title": " 선거 압승으로 대구를 확 바꾸겠습니다 …국민의힘 대구시당 선대위 발족",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004688"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:42:00 +0900",
+                "title": "대구 국민의힘 선대위 발족···주호영·윤재옥 투톱 “압승”",
+                "link": "https://www.newsmin.co.kr/news/100960/"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:08:00 +0900",
+                "title": "대구 총선 후보·배우자 이색재산?…19세기 회화·비상장주식 26억·순금·골...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004710"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:36:00 +0900",
+                "title": "국민의힘 대구시당, 대구선거대책위원회 발대식",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543622"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:58:00 +0900",
+                "title": "국민의힘 대구 선대위원회 발대식 개최…총선 압승 다짐",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823499?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:58:00 +0900",
+                "title": "13조원이 '손톱'이라는 이재명, 실행불가능한 포퓰리즘 내건 이유는?",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78560"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:48:00 +0900",
+                "title": "국민의힘 대구시당, “대구가 총선 압승으로 본때 보여줘야”",
+                "link": "https://www.idaegu.com/newsView/idg202403260096"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:34:00 +0900",
+                "title": "국민의힘 대구시당, 선대위 발대식… 대구를 확 바꾸겠습니다 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315060"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:08:00 +0900",
+                "title": "국민의힘 대구시당 총선 선대위 발대식",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149886"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:38:00 +0900",
+                "title": "[포토] 국민의힘 대구시당 선대위 발대 “진심으로 다가서 총선 압승하자”",
+                "link": "https://tk.newdaily.co.kr/site/data/html/2024/03/26/2024032600316.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:32:00 +0900",
+                "title": "주호영, 이재명 저격  감옥갈 사람 …국힘 대구선대위 출범",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451214?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:32:00 +0900",
+                "title": "참여연대가 선정한 나쁜법안 발의왕은?",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427485?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:22:00 +0900",
+                "title": "대구 국민의힘 선대위 공식 발족…본격적인 선거 체제 돌입",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454810"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:15:00 +0900",
+                "title": "박민식  나는 홍범도 흉상 이전 반대... 국방부가 밀어붙여 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427478?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:06:00 +0900",
+                "title": "국힘 대구, 총선 압승 다짐 “어렵다…진심 갖고 간절하게 호소하자”",
+                "link": "https://tk.newdaily.co.kr/site/data/html/2024/03/26/2024032600288.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:01:00 +0900",
+                "title": "'압승! 대구를 확 바꿀 것'…국민의힘 대구 선대위 출범",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276367?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:59:00 +0900",
+                "title": "주호영  다른 당 대표, 판결나면 징역 갈 사람 …이재명 겨냥",
+                "link": "https://n.news.naver.com/mnews/article/421/0007436968?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:35:00 +0900",
+                "title": "野, '尹 대파 875원' 발언 두고 연일 공세",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808180?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:06:00 +0900",
+                "title": "[민생경제 공약 무한대결] 선심 베풀기, 현금 퍼주기식…",
+                "link": "http://www.economytalk.kr/news/articleView.html?idxno=252639"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:23:00 +0900",
+                "title": " 이재명, 이 무식한 양반아 ...'25만 원 지원금' 때린 국민의힘 [지금이뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002015047?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "추경호",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 3206435
+            },
+            {
+                "연도": 2021,
+                "재산": 3641750
+            },
+            {
+                "연도": 2022,
+                "재산": 4094381
+            },
+            {
+                "연도": 2023,
+                "재산": 4252392
+            }
+        ],
+        "huboid": "100152750",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2708/Hb100152750/junkwa/20240320141954276_1.PDF"
+    }
 ]

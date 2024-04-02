@@ -1,100 +1,994 @@
 [
-  {
-    "id": "2470803-1",
-    "regionId": "2470803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-1.jpg",
-    "기호": 1,
-    "이름": "박규환",
-    "생년월일": "19680604",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "지역활동가(봉화지역사연구소 소장)",
-    "학력": "숭실대학교 대학원 기독교학과 졸업(기독교학박사)",
-    "경력": "(전)숭실대학교 초빙교수\n(현)봉화 지역사 연구소 소장",
-    "재산": 638430,
-    "군필여부": false,
-    "전과건수": 3,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-        "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:48:00 +0900",
-        "title": "[TK 격전의 현장] 영주-봉화-영양 선거구 '새로운 격전지'로 떠올라",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000068"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:04:00 +0900",
-        "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
-        "link": "http://www.mhj21.com/160220"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 16:24:00 +0900",
-        "title": "4·10 총선서 '해병대 故 채 상병 사건 외압 논란' 확산… 임종득 낙선시켜 달...",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870230?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 638430
-      }
-    ]
-  },
-  {
-    "id": "2470803-2",
-    "regionId": "2470803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-2.jpg",
-    "기호": 2,
-    "이름": "임종득",
-    "생년월일": "19640808",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "경남대학교 대학원 정치외교학과 국제정치전공 졸업(정치학박사)",
-    "경력": "(전) 대통령비서실 국가안보실 제2차장\n(전) 대통령비서실 외교안보수석실 국방비서관",
-    "재산": 1359647,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:07:00 +0900",
-        "title": "이탄희 의원, 2일 영주서 '故채상병 사건' 기자회견…외압 의혹 임종득 겨냥",
-        "link": "https://www.newspim.com/news/view/20240401001284"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:50:00 +0900",
-        "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:42:00 +0900",
-        "title": "해병대 예비역, 영주 모여 '임종득 낙선' 운동",
-        "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190350&mode=view"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:40:00 +0900",
-        "title": "여야 지도부 '거칠어진 입'… 네거티브 격화",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644816"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:36:00 +0900",
-        "title": "이탄희, 경북지역 후보 지원유세 나섰다",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475497"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1359647
-      }
-    ]
-  }
+    {
+        "id": "2470803-1",
+        "regionId": "2470803",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-1.jpg",
+        "기호": 1,
+        "이름": "박규환",
+        "생년월일": "19680604",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "지역활동가(봉화지역사연구소 소장)",
+        "학력": "숭실대학교 대학원 기독교학과 졸업(기독교학박사)",
+        "경력": "(전)숭실대학교 초빙교수\n(현)봉화 지역사 연구소 소장",
+        "재산": 638430,
+        "군필여부": false,
+        "전과건수": 3,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:36:00 +0900",
+                "title": "열전 현장- 영주시영양봉화군",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240328113727AE00924&id=186041"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:46:00 +0900",
+                "title": "여·야, 보수·진보가 아닌 정부와 여당 심판하는 선거다",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990724"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "[기후로운 투표생활] ⑩ 대구·경북 후보 74명 중 21명만 기후위기 공약",
+                "link": "https://www.newsmin.co.kr/news/101240/"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": "[TK 격전의 현장] 영주-봉화-영양 선거구 '새로운 격전지'로 떠올라",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000068"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:04:00 +0900",
+                "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
+                "link": "http://www.mhj21.com/160220"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:24:00 +0900",
+                "title": "4·10 총선서 '해병대 故 채 상병 사건 외압 논란' 확산… 임종득 낙선시켜 달...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870230?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:06:00 +0900",
+                "title": "공식 선거운동 첫 주말…경북 영주 與野 후보들, 전통시장 유세 열기 '후끈'",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240330010004198"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:08:00 +0900",
+                "title": "민주당 경북 후보자들 본 선거 돌입  바꿔야 한다 ",
+                "link": "http://www.breaknews.com/1024119"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:20:00 +0900",
+                "title": "박규환 후보(영주영양봉화·더불어민주당) 출정식 갖고 “윤 정권 반드시 심판...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869913?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:58:00 +0900",
+                "title": "[나는 후보자다] 영주시영양군봉화군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461308"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:13:00 +0900",
+                "title": "경북 민주당, 출정식 열고 본격 유세전 돌입…‘민주당 선택 호소”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287386?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:52:00 +0900",
+                "title": "더불어민주당 경북 후보들 잇단 출정식 '선거운동 돌입'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879325?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+                "title": "민주당 경북도당, 선거운동 첫날 출정식…'본격 선거운동' 돌입",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315230"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:22:00 +0900",
+                "title": "[단독] 민주, 병역기피자 공천…해사 간다며 연기 후 시험 안 봐 '집유'",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350558?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:24:00 +0900",
+                "title": "경북 민주당, 유세전 본격 개시…“‘입틀막’ 정권 심판”",
+                "link": "http://www.kukinews.com/newsView/kuk202403280180"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:56:00 +0900",
+                "title": "더불어민주당 경북 출마 후보들 본격 선거운동 돌입",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990090"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:00:00 +0900",
+                "title": "현역의원 없는 TK 지역구 대진표는",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326131439AE00824&id=185870"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:20:00 +0900",
+                "title": "TK 전과자 '41%'...최고 자산은 110억",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185871"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:42:00 +0900",
+                "title": "현역의원 없는 TK 지역구 대진표는",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326131439AE00824&id=185854"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:42:00 +0900",
+                "title": "TK 전과자 '41%'...최고 자산은 110억",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185855"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "영주·봉화·영양 공약..민주  농민우대  VS 국힘  기업유치 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69534"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:31:00 +0900",
+                "title": "4·10 총선, 기업인 및 경제전문가 누가 뛰나...고동진·공영운·안철수·이언...",
+                "link": "https://www.greened.kr/news/articleView.html?idxno=312543"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:06:00 +0900",
+                "title": "국회의원 후보 3명 중 1명 전과자 '충격'",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543504"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:02:00 +0900",
+                "title": "TK 총선 후보 10명 중 4명 이상이 전과자",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240324010003302"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경북·대구지역 총선 후보자 들여다 보니…男 63명 중 8명 병역미필·전과 29...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004491"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:22:00 +0900",
+                "title": "TK 총선 경쟁률 2.96대 1… 후보 10명중 4명이 전과자",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543416"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:00:00 +0900",
+                "title": "[총선을 뛴다]①삼성·현대차부터 4차산업 전문가까지…'경제통' 주자는",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698987?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:10:00 +0900",
+                "title": "(4.10 총선 현장) TK 2.96:1 경쟁률…최고 자산가는 최은석, 최고령은 김일윤",
+                "link": "https://www.idaegu.com/newsView/idg202403240055"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:50:00 +0900",
+                "title": "‘대치동 스타강사’ 박규환, TK험지에 나선 까닭은?",
+                "link": "https://n.news.naver.com/mnews/article/382/0001114889?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:10:00 +0900",
+                "title": "[총선현장] TK, 74명 등록 2.96대 1…남성 85.1%",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=113483"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427081"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:00:00 +0900",
+                "title": "대구경북 총선 후보 중 전과자 31명…음주운전 7명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583359?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:43:00 +0900",
+                "title": "대구·경북 총선 후보 중 25명 전과자…음주운전 7명",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396055?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "대구·경북 총선 후보 중 전과자 31명 … 음주운전 적발 7명",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435681"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:00:00 +0900",
+                "title": "대구경북 총선 후보 중 전과자 25명…음주운전 7명",
+                "link": "https://n.news.naver.com/mnews/article/001/0014582848?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:02:00 +0900",
+                "title": "'맞대결' 영주영양봉화 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460464"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:02:00 +0900",
+                "title": "[12시]제22대 총선 후보자 등록 시작",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69480"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:38:00 +0900",
+                "title": "[22대 총선 후보자 등록] 경북(21일 마감)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427047"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429087?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:49:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581019?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:51:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580794?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:44:00 +0900",
+                "title": "박규환 “윤석열 정권 검찰 개혁으로 독재 해체”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=473480"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:16:00 +0900",
+                "title": "(4.10 총선 현장)박규환 영주ㆍ영양ㆍ봉화 출마선언...지역발전과 농촌정책 공...",
+                "link": "https://www.idaegu.com/newsView/idg202403200121"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:52:00 +0900",
+                "title": "[4·10 출마합니다] 민주당 박규환 중앙당 지속가능특별위원장, 영주·봉화·...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240320010002702"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:45:00 +0900",
+                "title": "[22대 총선] 영주시,봉화군,영양군 민주당 박규환후보 출마선언",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324167?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:50:00 +0900",
+                "title": "박규환 “명실공히 ‘영남 일번지’ 완성 시키겠다”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=473421"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:16:00 +0900",
+                "title": "영주·봉화·영양에 역사·문화·관광벨트 조성",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988927"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:05:00 +0900",
+                "title": "박규환 영주영양봉화 예비후보 출마선언",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868112?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:02:00 +0900",
+                "title": "상주문경 김영선, 영주영양봉화 박규환 출마",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69405"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 00:18:00 +0900",
+                "title": "국힘 이번도 TK권 전역 석권하나...'무소속 강풍'에 곳곳 난기류",
+                "link": "https://www.newspim.com/news/view/20240318001161"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:44:00 +0900",
+                "title": "與, 링 위 오를 대구·경북 선수 25명 전원 확정",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453728"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "4·10 총선 경북지역 출마자 대진표 완성",
+                "link": "https://www.idaegu.com/newsView/idg202403170123"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 16:50:00 +0900",
+                "title": "박규환 후보에게 '후보 추천서' 전달하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431818?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 15:11:00 +0900",
+                "title": "민주당 제22대 총선 후보자 대회 개최",
+                "link": "https://n.news.naver.com/mnews/article/001/0014568597?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 14:47:00 +0900",
+                "title": "박규환 후보에게 후보자 추천서 전달하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007416436?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 15:30:00 +0900",
+                "title": "[軍·안보 출마자] 고석 vs 부승찬…'한기호 4선·김병주 재선' 초미 관심",
+                "link": "https://www.newspim.com/news/view/20240314000890"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 22:24:00 +0900",
+                "title": "[총선] 민주, TK 비례 후보 확정…지역구도 마무리",
+                "link": "https://n.news.naver.com/mnews/article/056/0011678881?sid=102"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 21:14:00 +0900",
+                "title": "[총선] 민주, TK 비례 후보 확정…지역구도 마무리",
+                "link": "https://n.news.naver.com/mnews/article/056/0011678750?sid=100"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 16:26:00 +0900",
+                "title": "민주당 광주 후보 4명 인준…불법 전화방 운영 의혹 정준호 보류",
+                "link": "https://n.news.naver.com/mnews/article/421/0007404007?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:03:00 +0900",
+                "title": "민주, 대구·경북 지역 2명 추가 단수공천",
+                "link": "https://n.news.naver.com/mnews/article/052/0002007675?sid=165"
+            },
+            {
+                "date": "Sun, 07 Jan 2024 17:30:00 +0900",
+                "title": "묻지도 따지지도 않는 '책값'…기이한 선거용 출판기념회",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=900808"
+            },
+            {
+                "date": "Thu, 02 Feb 2023 06:01:00 +0900",
+                "title": "‘제돌이’ ‘비봉이’도 법적 권리를 가질 수 있을까...남방큰돌고래 생태법...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000874099?sid=105"
+            },
+            {
+                "date": "Thu, 14 Apr 2022 11:31:00 +0900",
+                "title": "국내1호 생태법인 ‘제돌이’ 어떤가요?",
+                "link": "https://n.news.naver.com/mnews/article/028/0002586764?sid=103"
+            },
+            {
+                "date": "Mon, 28 Feb 2022 17:53:00 +0900",
+                "title": " 2022 대선의 김대중-노무현은 이재명이다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002344119?sid=100"
+            },
+            {
+                "date": "Mon, 28 Feb 2022 16:56:00 +0900",
+                "title": "김대중ㆍ노무현 정부 청와대 비서진 166인 “이재명 후보”지지",
+                "link": "http://www.breaknews.com/875566"
+            },
+            {
+                "date": "Mon, 28 Feb 2022 16:02:00 +0900",
+                "title": "김대중ㆍ노무현 정부 청와대 비서진 166인 이재명 대선 후보 지지",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202202281552568980758"
+            },
+            {
+                "date": "Mon, 07 Feb 2022 15:58:00 +0900",
+                "title": "제주남방큰돌고래 보호 '생태법인' 입법 토론회 개최",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=338203"
+            },
+            {
+                "date": "Tue, 11 May 2021 16:02:00 +0900",
+                "title": "[이재명 '민주평화광장' 발기인 주요 명단] 소설가 황석영 포함 1만5,000명",
+                "link": "https://n.news.naver.com/mnews/article/011/0003908745?sid=100"
+            },
+            {
+                "date": "Tue, 30 Oct 2018 00:06:00 +0900",
+                "title": " 정치·경제·사회 분야 등 지역발전 선도 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=371355"
+            },
+            {
+                "date": "Mon, 30 Apr 2018 13:34:00 +0900",
+                "title": "'수학교육, 이대로 좋은가' 한림원 토론회 개최",
+                "link": "https://n.news.naver.com/mnews/article/030/0002703728?sid=105"
+            },
+            {
+                "date": "Tue, 12 Apr 2016 14:06:00 +0900",
+                "title": "정찬용등 참여정부 인사  호남인사 홀대 거짓 ",
+                "link": "http://www.ajunews.com/view/20160412135719047"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 638430
+            }
+        ],
+        "huboid": "100153030",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4708/Hb100153030/junkwa/20240320220045939_8.PDF"
+    },
+    {
+        "id": "2470803-2",
+        "regionId": "2470803",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-2.jpg",
+        "기호": 2,
+        "이름": "임종득",
+        "생년월일": "19640808",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "경남대학교 대학원 정치외교학과 국제정치전공 졸업(정치학박사)",
+        "경력": "(전) 대통령비서실 국가안보실 제2차장\n(전) 대통령비서실 외교안보수석실 국방비서관",
+        "재산": 1359647,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:36:00 +0900",
+                "title": "열전 현장- 영주시영양봉화군",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240328113727AE00924&id=186041"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "[기후로운 투표생활] ⑩ 대구·경북 후보 74명 중 21명만 기후위기 공약",
+                "link": "https://www.newsmin.co.kr/news/101240/"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "민주당 이탄희, 1~2일 양일간 경북에서 후보 지원유세 나서",
+                "link": "http://www.breaknews.com/1024627"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "채 상병 사건 '권력형 로비 의혹'으로...  워터게이트보다 커 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428537?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:47:00 +0900",
+                "title": "[정치시그널]인터뷰 전문…김지호 “대출 자격이 없고 용도와 다르게 대출금 ...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271571?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:10:00 +0900",
+                "title": "[토마토레터 제391호] 러시아와 IS가 싸우는 이유",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225496&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:04:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(국민의힘)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307374"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:07:00 +0900",
+                "title": "이탄희 의원, 2일 영주서 '故채상병 사건' 기자회견…외압 의혹 임종득 겨냥",
+                "link": "https://www.newspim.com/news/view/20240401001284"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:50:00 +0900",
+                "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:42:00 +0900",
+                "title": "해병대 예비역, 영주 모여 '임종득 낙선' 운동",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190350&mode=view"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:40:00 +0900",
+                "title": "여야 지도부 '거칠어진 입'… 네거티브 격화",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644816"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:36:00 +0900",
+                "title": "이탄희, 경북지역 후보 지원유세 나섰다",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475497"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": " 쓰레기  vs  머슴 … 여야 지도부, 네거티브 비방전 격화",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037270"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:20:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603659?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]해병대 예비역, 영주 모여 '임종득 낙선' 운동",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69617"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "총선 임박하자... 발언 수위 높아지는 여야 대표",
+                "link": "http://www.kbsm.net/news/view.php?idx=428304"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": "[TK 격전의 현장] 영주-봉화-영양 선거구 '새로운 격전지'로 떠올라",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000068"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "민주당 “영주영양봉화 총선 TV토론에 '시장선거'급 질문…의제 선정에 문제”",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870417?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:04:00 +0900",
+                "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
+                "link": "http://www.mhj21.com/160220"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:42:00 +0900",
+                "title": "[총선 현장] 민주당 이탄희 의원, 경북 돌며 민주후보 지원유세",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990463"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:56:00 +0900",
+                "title": "[총선 D-9] 與野 '막말 경계령'에도…지도부가 앞장서 '네거티브 총공세'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025793"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:40:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601864?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:21:00 +0900",
+                "title": "이재명 “여당 참패란 말은 엄살…악어의 눈물에 속지말라”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351097?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:45:00 +0900",
+                "title": "여, '양문석 딸 대출' 맹공…또 '아빠찬스' 논란",
+                "link": "https://n.news.naver.com/mnews/article/422/0000652714?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:38:00 +0900",
+                "title": "'정권심판론'에 조급해진 국민의힘",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220769"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:30:00 +0900",
+                "title": "'닳은 구두굽' 올린 이재명, 與읍소전에  악어 눈물에 속지 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351046?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:56:00 +0900",
+                "title": "민주, '채 상병 사건' 與 후보 맹폭... 신범철 등 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017353?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:51:00 +0900",
+                "title": "여야, 논란 불씨 되살리기 안간힘",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262927?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:46:00 +0900",
+                "title": "[총선 D-10] 민주, '채상병 사건' 與후보에 맹폭… '출금차관' 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600890?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:24:00 +0900",
+                "title": "4·10 총선서 '해병대 故 채 상병 사건 외압 논란' 확산… 임종득 낙선시켜 달...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870230?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:58:00 +0900",
+                "title": "대중 정서와 동떨어진 한동훈의 ‘이·조 범죄자’ 선거 마케팅",
+                "link": "https://vop.co.kr/A00001650661.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:30:00 +0900",
+                "title": "이종섭 매듭지었지만 용산 책임론 여전, 당내서 첫 尹 공개사과 요구도",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070027?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:06:00 +0900",
+                "title": "공식 선거운동 첫 주말…경북 영주 與野 후보들, 전통시장 유세 열기 '후끈'",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240330010004198"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:58:00 +0900",
+                "title": "민주당  '출금차관' 신범철·임종득, 총선 후보직 사퇴해야 ",
+                "link": "http://www.metroseoul.co.kr/article/20240331500260"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:00:00 +0900",
+                "title": "민주당  '출금장관' 이종섭 사퇴, '출금차관' 신범철도 예외 없어야 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001339763?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:28:00 +0900",
+                "title": "국힘 영주·영양·봉화 임종득 후보 영주 오일장서 선거유세",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288120?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:54:00 +0900",
+                "title": "한동훈  정부가 맘에 안들게 하면 나한테 얘기…해결하겠다 ",
+                "link": "http://www.gobalnews.com/news/articleView.html?idxno=35477"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:18:00 +0900",
+                "title": "[4.10 총선] D-11 사진으로 보는 오늘의 한 컷!",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19421&Newsnumb=20240319421"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:41:00 +0900",
+                "title": "이탄희  장관은 대사, 차관은 공천... 국민은 진실 원한다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428117?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:06:00 +0900",
+                "title": "민주, 이종섭 주호주대사 사의에  與, 쌍특검 수용하라  [정치오늘]",
+                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=159900"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:56:00 +0900",
+                "title": "이종섭 사퇴에 野  尹대통령, '도주 대사' 임명 대국민 사과하라 ",
+                "link": "https://n.news.naver.com/mnews/article/123/0002330870?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:16:00 +0900",
+                "title": "민주  이종섭 사퇴, 울며 겨자 먹기...특검 수용해야 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016790?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:10:00 +0900",
+                "title": "민주당, ‘이종섭 사퇴’에 특검 수용 압박...“윤 대통령, 대국민 사과하라”",
+                "link": "https://vop.co.kr/A00001650530.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:08:00 +0900",
+                "title": "민주당, 윤석열 대통령 대국민사과 요구",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7244"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:00:00 +0900",
+                "title": "야권  尹, 이종섭 사표 즉각 수리하고 대국민 사과해야 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445824?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:38:00 +0900",
+                "title": "민주, 이종섭 사퇴에 “‘울며 겨자 먹기’일 뿐…‘해병대원·이종섭 특검’...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691519?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:54:00 +0900",
+                "title": "외교부  이종섭 사의 수용 … 대통령에 보고 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900147.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:36:00 +0900",
+                "title": "[총선 현장] 국힘 임종득후보, 영양 장날 윤철남 도의원 보궐 후보와 출정식",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990217"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:32:00 +0900",
+                "title": "이종섭 두 번째 사의 표명에 박주민  신범철·임종득은? ",
+                "link": "http://www.gobalnews.com/news/articleView.html?idxno=35476"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:16:00 +0900",
+                "title": "박주민 “이종섭 사퇴로 죄 안 덮여, 수사외압 특별법 처리하자” 여당 압박",
+                "link": "https://vop.co.kr/A00001650502.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:12:00 +0900",
+                "title": "이종섭 대사 19일만에 사퇴... 서둘러 소환하라  공수처에 전면전 선포",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350817?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:42:00 +0900",
+                "title": "영주·봉화·영양 임종득후보 쓰레기수거로 선거운동 시작",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990201"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:21:00 +0900",
+                "title": "야당, 이종섭 사의 표명에 “주범은 용산에 있다”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287574?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:28:00 +0900",
+                "title": "임종득 후보, 선거운동 첫날 '미화원들과 함께 청소'로 시작",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315260"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:34:00 +0900",
+                "title": "임종득  40년 공직 경험 살려 지역 발전 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455306"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:18:00 +0900",
+                "title": "임종득 영주·영양·봉화 국회의원 후보, 본격 선거운동 시작",
+                "link": "http://www.breaknews.com/1023784"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:40:00 +0900",
+                "title": "임종득 “영주 경제활동 침체ㆍ인구소멸 위기 극복”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475151"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "임종득 국민의힘 국회의원 후보 출정식 갖고 본격적 선거운동 시작",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955949"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:58:00 +0900",
+                "title": "[나는 후보자다] 영주시영양군봉화군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461308"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+                "title": "임종득 국민의힘 국회의원(영주, 봉화, 영양) 후보 출정식 갖고 본격적 선거운...",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543870"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+                "title": "임종득 영주영양봉화 후보, 출정식 열고 본격 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869809?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:06:00 +0900",
+                "title": "임종득 국민의힘 국회의원 후보, 공식 선거운동 시작",
+                "link": "https://www.ekn.kr/web/view.php?key=20240328020094647"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:00:00 +0900",
+                "title": "임종득 후보, 출정식 갖고 본격 선거운동 시작",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067736"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:43:00 +0900",
+                "title": "국힘 영주·영양·봉화 임종득 후보 출정식… 인구소멸위기 극복 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457176?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "임종석  윤석열 정권, 무능하고 타락…한마음으로 심판해야 ",
+                "link": "https://www.etoday.co.kr/news/view/2345185"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:08:00 +0900",
+                "title": "이종섭 대사 임명이 드러낸 ‘윤석열식 자유주의’",
+                "link": "https://n.news.naver.com/mnews/article/308/0000034590?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:00:00 +0900",
+                "title": "현역의원 없는 TK 지역구 대진표는",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326131439AE00824&id=185870"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:12:00 +0900",
+                "title": "김종대·박주민 “이종섭의 수상한 일주일, 국방부는 왜 갔습니까?” [김은지...",
+                "link": "https://n.news.naver.com/mnews/article/308/0000034588?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:02:00 +0900",
+                "title": "(토마토칼럼)이상한 나라 '대한민국'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224649&inflow=N"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:40:00 +0900",
+                "title": "'문진석 재산 의혹' vs '신범철 공천 저격'…여야, 격전지 '천안갑' 공중전 격...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002813745?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:42:00 +0900",
+                "title": "현역의원 없는 TK 지역구 대진표는",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326131439AE00824&id=185854"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:56:00 +0900",
+                "title": "‘채상병 수사외압 의혹’ 임종득 후보 고발",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474623"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:47:00 +0900",
+                "title": "영주안동시민단체 '채 해병 수사외압 의혹 연루' 임종득 공수처에 고발",
+                "link": "https://www.newspim.com/news/view/20240326001106"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:46:00 +0900",
+                "title": " 공수처는 '방탄공천' 후보 수사하라 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543663"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "영주안동 촛불행동  임종득 후보 공수처 고발 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69512"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "영주·봉화·영양 공약..민주  농민우대  VS 국힘  기업유치 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69534"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:59:00 +0900",
+                "title": "[총선을 뛴다]③與 용산 출신 14명, 野 문 청와대 출신 21명 공천",
+                "link": "https://n.news.naver.com/mnews/article/018/0005700601?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:25:00 +0900",
+                "title": "대통령실, 채상병 사망 사건 '조그마한 사고'에 野  통탄할 일 ",
+                "link": "https://n.news.naver.com/mnews/article/123/0002330547?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:14:00 +0900",
+                "title": " 채 상병 수사외압 의혹 혐의자 임종득을 수사하라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427497?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:12:00 +0900",
+                "title": "중부매일·충북CBS 후보자 토론회 주요내용 - 1. 청주청원",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:13:00 +0900",
+                "title": "민주당 경북도당, 국민의힘 임종득 후보 공천 취소 촉구",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325041?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:17:00 +0900",
+                "title": " 고 채 상병 수사외압 핵심자가 후보라니 …영주안동 촛불행동, 공수처에 고발",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276349?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:08:00 +0900",
+                "title": "국민의힘 경북도당, 선거대책위 발대 ‘본격 선거채비’ 돌입",
+                "link": "https://tk.newdaily.co.kr/site/data/html/2024/03/25/2024032500252.html"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:08:00 +0900",
+                "title": "출정 나선 與 경북 후보자들  경북 넘어 수도권 승리 견인  결의",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454674"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:46:00 +0900",
+                "title": "대통령실, 채상병 사망 사건?  조그마한 사고 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001338507?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:30:00 +0900",
+                "title": "경북 민주당  '채상병 사건 외압' 임종득 공천 취소돼야 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69502"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:30:00 +0900",
+                "title": "‘채 상병 사건’ 대통령실 직접 개입 의혹",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=242921"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:24:00 +0900",
+                "title": "[시선집중] 野 김동아 “대장동 변호사, 능력 인정받아 발탁. 오히려 자랑스러...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001338442?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:12:00 +0900",
+                "title": "“신범철 천안갑 공천, 채 상병에 부끄럽지도 않나…총선 승리해 진실 밝힐 것...",
+                "link": "http://www.sisanews24.co.kr/13326"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 04:08:00 +0900",
+                "title": "“정부심판론 확산시켜라”… 민주, 이종섭 때리기에 당력 집중",
+                "link": "https://n.news.naver.com/mnews/article/005/0001683373?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:01:00 +0900",
+                "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:49:00 +0900",
+                "title": "‘1심 유죄’ 황운하 “尹대통령, 정부·대통령실을 범죄단체로 만들어”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002628190?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:25:00 +0900",
+                "title": "황운하, 이종섭 호주대사 임명에 “피의자 해외도피는 이승만 정권 이후 최초...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917352?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:53:00 +0900",
+                "title": "민주당 “‘정부 심판론’ 확산에 이종섭 대사만큼 좋은 이슈 없다”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001683260?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1359647
+            }
+        ],
+        "huboid": "100151085",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4708/Hb100151085/junkwa/20240320214033528_9.PDF"
+    }
 ]

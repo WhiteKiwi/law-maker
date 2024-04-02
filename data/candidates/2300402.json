@@ -1,162 +1,1483 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-1.jpg",
-    "id": "2300402-1",
-    "재산": 1080591,
-    "생년월일": "19680221",
-    "경력": "(현)국회의원(제20,21대)\n(전)더불어민주당 전략기획위원장",
-    "학력": "충남대학교 평화안보대학원 졸업(평화안보학석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "933",
-    "regionId": "2300402",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:35:00 +0900",
-        "title": "[포토] 대전 유성갑 조승래·윤소식 지지호소",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085264?sid=111"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:05:00 +0900",
-        "title": "사전투표까지 D-3… 신경전 커지는 정가, 오리무중 민심",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085243?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-        "title": "이장우  교도소 이전, 尹 대통령 약속 ...조승래  예타면제 즉시 실행 ",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330365"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:14:00 +0900",
-        "title": "조승래   대전교도소 이전 예타 면제, 즉시 실행하라 ",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764392"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:10:00 +0900",
-        "title": "[총선 D-9] 더불어민주당 김부겸 이어 정세균도 '조승래 후보' 지원…3선 시 ...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026105"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "조승래",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1001147
-      },
-      {
-        "연도": 2021,
-        "재산": 953615
-      },
-      {
-        "연도": 2022,
-        "재산": 978699
-      },
-      {
-        "연도": 2023,
-        "재산": 1080591
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-2.jpg",
-    "id": "2300402-2",
-    "재산": 2067981,
-    "생년월일": "19650415",
-    "경력": "(전) 대전경찰청장\n(현) 국민의힘 유성구갑 조직위원장",
-    "학력": "아주대학교 대학원 졸업(공학박사)",
-    "직업": "충남대학교 국가정책대학원 특임교수",
-    "성별": "남",
-    "regionId": "2300402",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "대전 찾은 유승민, 이상민·윤소식·박경호 후보 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451500?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:21:00 +0900",
-        "title": "유승민  R&D예산 줄어 대전이 가장 큰 타격…정부·여당 반성할 것 ",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085267?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-        "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:59:00 +0900",
-        "title": "유승민  R&D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:44:00 +0900",
-        "title": "유승민, 대전 지원… R&D 예산삭감 반성…매 얼마든 맞겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603764?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "윤소식",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2067981
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-7.jpg",
-    "id": "2300402-7",
-    "재산": 311384,
-    "생년월일": "19730310",
-    "경력": "(전) 대한항공 항공기술연구원, 연구원\n(현) 개혁신당 당대표 정책특보",
-    "학력": "발틱주립공과대학교 졸업(공학박사)(2000.05.10.~2005.02.11.)",
-    "직업": "주식회사 나름 대표",
-    "성별": "남",
-    "regionId": "2300402",
-    "기호": 7,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ① 대전",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022605"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ②파란색 짙어진 대전, 세종갑은 '오리무중'",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84552"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 08:21:00 +0900",
-        "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692481?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:29:00 +0900",
-        "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692312?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:58:00 +0900",
-        "title": "국민의힘과 차별성 강조한 개혁신당 대전 후보들",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307275"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "왕현민",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 311384
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-1.jpg",
+        "id": "2300402-1",
+        "재산": 1080591,
+        "생년월일": "19680221",
+        "경력": "(현)국회의원(제20,21대)\n(전)더불어민주당 전략기획위원장",
+        "학력": "충남대학교 평화안보대학원 졸업(평화안보학석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "933",
+        "regionId": "2300402",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:22:00 +0900",
+                "title": "조승래 후보 , 유성구 동네 맞춤형 공약 발표",
+                "link": "http://www.breaknews.com/1024691"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "[4·10 총선 레이더] 조승래, 유성구 동네 맞춤형 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085410?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "여야, 사전투표 앞 충청권에 화력 집중",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022768"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "대전교도소 이전 답보 책임론 공방",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022769"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "[총선리포트] 여야 후보들의 거세지는 '공방전'… 책임론부터 진실공방까지?",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000780"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:18:00 +0900",
+                "title": "조승래, 유성구민의 삶을 바꾸는 동네 맞춤형 공약 발표",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968769"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:56:00 +0900",
+                "title": "민주 조승래, 유세 현장서 시민과 즉석 문답",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359243"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "[총선 D-8] 더불어민주당 조승래 대전 유성갑 후보, 구민 삶 바꾸는 '동네 맞...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026412"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:52:00 +0900",
+                "title": "민주 조승래, 유세 현장서 시민과 즉석 문답 나선다",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330492"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:26:00 +0900",
+                "title": "조승래, 유세 현장서 즉석 문답… 경청 행보 이어간다",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764574"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:10:00 +0900",
+                "title": "'총선 D-7' 게임 공약 살펴보니…e스포츠 육성 말곤 '全無'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107452"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:50:00 +0900",
+                "title": "[충청정가]정세균 전 총리 대전 지원 유세",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486230"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:44:00 +0900",
+                "title": "조승래 대전 유성갑 후보  동네 맞춤형 공약 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466450?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "민주 조승래, 복합문화예술회관 등 생활시설 확충 공약 발표",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359160"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:14:00 +0900",
+                "title": "[선택4·10] 조승래, 유성구민 삶을 바꾸는 동네 맞춤형 공약 발표",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069346"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:00:00 +0900",
+                "title": "조승래, 유성구 동네 맞춤형 공약 발표",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330475"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:44:00 +0900",
+                "title": "[총선열전] 조승래, 유성구민회관. 농촌체험마을 등  유성지역 생활시설 확충...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000731"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:17:00 +0900",
+                "title": "공약도 인물도 없네…게임 실종된 국회",
+                "link": "https://n.news.naver.com/mnews/article/138/0002170394?sid=105"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:58:00 +0900",
+                "title": "22대 국회와 정책 연대 강화하는 공공노동자들",
+                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33557"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:35:00 +0900",
+                "title": "[포토] 대전 유성갑 조승래·윤소식 지지호소",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085264?sid=111"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:05:00 +0900",
+                "title": "사전투표까지 D-3… 신경전 커지는 정가, 오리무중 민심",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085243?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+                "title": "이장우  교도소 이전, 尹 대통령 약속 ...조승래  예타면제 즉시 실행 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330365"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:14:00 +0900",
+                "title": "조승래   대전교도소 이전 예타 면제, 즉시 실행하라 ",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764392"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:10:00 +0900",
+                "title": "[총선 D-9] 더불어민주당 김부겸 이어 정세균도 '조승래 후보' 지원…3선 시 ...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026105"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                "title": "[기획-2] 전북은 전략적 선택에 집중해야 할 시기",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726260"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ① 대전",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022605"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ②파란색 짙어진 대전, 세종갑은 '오리무중'",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "4·10 총선 D-9 자체 '판세' 살펴보니…與 '강원 5곳' 野 대전·세종 등 '금강...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219948"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:54:00 +0900",
+                "title": "2020년 21대 총선 어게인?…금강벨트 대전서 중도층 선택은",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704537?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:19:00 +0900",
+                "title": "'중원 표심 잡자' 與 인지도 지원 유세·野 정책 공약 박차",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880434?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:42:00 +0900",
+                "title": "민주당 정세균, 대전 찾아 조승래 후보 지원 사격",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358615"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:21:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692481?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]충남 여야 치열한 접전",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035349?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692312?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-충청] 양당 모두 11개 선거구 석권 목표 막판 수싸움 치열",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003485"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-충청권] 국힘 대부분 지역구 경합 전망",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870275?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:18:00 +0900",
+                "title": "민주 정세균 전 총리 대전 지원 유세…국힘 1일 유승민 전 의원 투입",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448684?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:12:00 +0900",
+                "title": " 조승래 의원은 신뢰할 수 있는 사람  정세균 이사장 지원 유세",
+                "link": "http://www.kukinews.com/newsView/kuk202403310073"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:51:00 +0900",
+                "title": "‘초박빙’ 접전지 속출… 표심 변화 막판까지 진땀 예상 [미래 위한 선택 4·...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262924?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:47:00 +0900",
+                "title": "대전·충남 여야 후보들, TV 토론회서 지역 현안 설전",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085092?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:22:00 +0900",
+                "title": "유성갑 조승래·윤소식 'R&amp;D예산 삭감, 교도소 이전' 설전[4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461446?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:07:00 +0900",
+                "title": "조승래  대전교도소 이전, 예타 면제 추진  vs 윤소식  8년간 뭐했나 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448155?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:06:00 +0900",
+                "title": "윤소식  이재명 '셰셰' 굴종외교 …조승래  한동훈 막말 안타까워 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085060?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:23:00 +0900",
+                "title": "22대 총선에 출사표 던진 '친(親) 게임' 후보의 면면은?",
+                "link": "https://n.news.naver.com/mnews/article/076/0004128187?sid=105"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:43:00 +0900",
+                "title": "유성구갑 국회의원 후보자 토론·연설회 내일 방송",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692074?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:58:00 +0900",
+                "title": "김부겸 선대위원장, 대전 찾아 민주당 후보 지지 호소",
+                "link": "http://www.breaknews.com/1024069"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:02:00 +0900",
+                "title": "21대 국회 가결 제정안 최다 발의…與 임이자·野 서삼석",
+                "link": "https://www.etoday.co.kr/news/view/2345845"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:24:00 +0900",
+                "title": "대전 온 김부겸  尹정권 심판 위해 민주당에 힘 실어 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084933?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:11:00 +0900",
+                "title": "이재명, 재판 가면서 유튜브 유세…“1초가 여삼추”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683147?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:52:00 +0900",
+                "title": "조승래, 선거운동 이틀차 세몰이… 김부겸·허태정 지원 유세",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764026"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:38:00 +0900",
+                "title": "[선택4·10] 김부겸‧허태정, 조승래 지원유세",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068305"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:16:00 +0900",
+                "title": "대전 대덕구 박정현, 공식선거운동 첫날 '출근길 표심 잡기'",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358235"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:10:00 +0900",
+                "title": "[이슈] 국힘, 종로·용인 등 접전지 후보단일화 타진.. 개혁신당  전혀 생각 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641188"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:34:00 +0900",
+                "title": "김부겸 전 총리 대전 유성시장 방문…조승래 '지지 호소'",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430705"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:51:00 +0900",
+                "title": "김부겸, 한동훈에  구식정치 답습 말고 점잖게 정치하라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428076?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:32:00 +0900",
+                "title": "조승래 후보 지원 유세하는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445745?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:32:00 +0900",
+                "title": "김부겸, 대전 국회의원 후보 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445744?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:31:00 +0900",
+                "title": "유성시장서 지원 유세하는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445743?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:30:00 +0900",
+                "title": "김부겸 유성시장서 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445736?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:29:00 +0900",
+                "title": "조승래 후보 지원 유세하는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445734?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+                "title": "대전 지원 유세 펼치는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445731?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+                "title": "상인과 포즈 취하는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445730?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+                "title": "김부겸 대전서 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445729?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:27:00 +0900",
+                "title": "대전 찾은 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445728?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:27:00 +0900",
+                "title": "조승래 후보 지원 유세하는 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445727?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:24:00 +0900",
+                "title": "김부겸 조승래 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445717?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:23:00 +0900",
+                "title": "대전 유성시장 찾은 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445715?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:23:00 +0900",
+                "title": "유성구 지원유세 나선 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445714?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:22:00 +0900",
+                "title": "김부겸, 조승래 유성갑 후보 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445712?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:21:00 +0900",
+                "title": "대전 유성시장 찾은 김부겸",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445706?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:54:00 +0900",
+                "title": "김부겸  한동훈, 상대편에 딱지 붙이는 구식정치 해선 안돼 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459348?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:50:00 +0900",
+                "title": "김부겸, 대전 민주당 지지율 상승에  점잖던 정권심판 불붙어 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769215"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:32:00 +0900",
+                "title": "조승래, 윤소식에  국회 예산심의 과정 이해도 부족 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307215"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:25:00 +0900",
+                "title": "민주, 경기 분당부터 대전·송파까지…'격전지' 전방위 공략",
+                "link": "https://n.news.naver.com/mnews/article/001/0014597663?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:02:00 +0900",
+                "title": "더불어민주당 대전시당“4월10일은 정권심판의 날”",
+                "link": "http://www.breaknews.com/1023862"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:02:00 +0900",
+                "title": "조승래 후보, 시내버스 차고지서 선거운동 시작",
+                "link": "http://www.breaknews.com/1023864"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:58:00 +0900",
+                "title": "[2024년 3월29일 정치·사회 주요일정] 한동훈 국민의힘 비대위원장, '국민의...",
+                "link": "https://www.mediapen.com/news/view/908074"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:08:00 +0900",
+                "title": "[오늘의 정치일정] 3월 29일(금)",
+                "link": "https://www.newspim.com/news/view/20240329000024"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:02:00 +0900",
+                "title": "[오늘의 주요 일정] '마약류 투약' 전 야구 국가대표 오재원 구속 송치",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213335"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(29일,금)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444246?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:06:00 +0900",
+                "title": "(R)[총선 여론조사]황정아 55.6 이상민 34.5..유성구·천안을 판세는?",
+                "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/68122"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 여론조사-대전 유성구갑] 민주 조승래 48.1%·국힘 윤소식 39%…...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193569"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 여론조사] 대전 유성갑·유성을·충남 천안을 더불어민주당 후보...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193562"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "[20-21대 총선 결과 분석] 지난 2번 총선 민주 승리… 진보 강세 이어질까",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193571"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:12:00 +0900",
+                "title": "민주당 대전시당  4월10일은 정권심판의 날 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968020"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:18:00 +0900",
+                "title": "'막 오른 총선' 공식 선거운동 개막… 충청권 여야 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084830?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:16:00 +0900",
+                "title": "민주당 대전시당 빗속 출정식...4.10 총선 승리 다짐",
+                "link": "http://www.gocj.net/news/articleView.html?idxno=133340"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:16:00 +0900",
+                "title": " 첫 버스처럼 시민에게 필요한 정치하겠다  조승래 의원 다짐",
+                "link": "http://www.kukinews.com/newsView/kuk202403280314"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:54:00 +0900",
+                "title": "[선택4·10] 박정현, 공식선거운동 첫날 '출근길 표심 잡기'",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067856"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:52:00 +0900",
+                "title": "“거야 의회독재 심판  vs “정권 심판 …대전 여야 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443959?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "조승래",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1001147
+            },
+            {
+                "연도": 2021,
+                "재산": 953615
+            },
+            {
+                "연도": 2022,
+                "재산": 978699
+            },
+            {
+                "연도": 2023,
+                "재산": 1080591
+            }
+        ],
+        "huboid": "100152886",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3004/Hb100152886/junkwa/20240229100855287_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-2.jpg",
+        "id": "2300402-2",
+        "재산": 2067981,
+        "생년월일": "19650415",
+        "경력": "(전) 대전경찰청장\n(현) 국민의힘 유성구갑 조직위원장",
+        "학력": "아주대학교 대학원 졸업(공학박사)",
+        "직업": "충남대학교 국가정책대학원 특임교수",
+        "성별": "남",
+        "regionId": "2300402",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+                "title": "한동훈, 대전서 '이조심판론 호소' 통할까",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330524"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "한동훈, 대전 5개구 훑었다… 충청의 꿈 이룰 주인공 돼 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085434?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:35:00 +0900",
+                "title": "한동훈, 이상민·윤소식 지원 유세  자유민주주의 위해 반드시 승리 ",
+                "link": "https://www.newspim.com/news/view/20240402001029"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:24:00 +0900",
+                "title": "한동훈  윤소식, 범죄자 잡아 공익 실천...지역 발전 열정 가득 ",
+                "link": "https://www.newspim.com/news/view/20240402001027"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:15:00 +0900",
+                "title": "이상민 손잡은 한동훈  대전 '진짜배기'...빨간점퍼 입고 국회 가달라 ",
+                "link": "https://www.newspim.com/news/view/20240402001022"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:56:00 +0900",
+                "title": "[총선현장] 한동훈, 충청권 집중 유세… 국회의사당 세종 이전은 새로운 발전...",
+                "link": "https://www.newspim.com/news/view/20240402001015"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "한동훈 위원장, 대전 방문… 유성구 윤소식·이상민 후보 지원 유세",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125367"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+                "title": "한동훈 '주인공으로 나서면 우리가 이긴다' 투표 호소",
+                "link": "http://www.gocj.net/news/articleView.html?idxno=133390"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:03:00 +0900",
+                "title": "김준혁 난타한 한동훈  야당 이대출신들 뭐하고 계시냐 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428609?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "대전교도소 이전 답보 책임론 공방",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022769"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:44:00 +0900",
+                "title": "한동훈  역사 굽이굽이에서 존재감 드러낸 대전…대한민국 발전 상징 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085396?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "[총선리포트] 여야 후보들의 거세지는 '공방전'… 책임론부터 진실공방까지?",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000780"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:28:00 +0900",
+                "title": "한동훈 국힘 비대위원장, 대전지역 지원유세 나서",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764601"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+                "title": "[총선 D-8] 국민의힘 윤소식 대전 유성갑 후보  유성관광 미래위한 중장기 계...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026468"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:01:00 +0900",
+                "title": "대전 유성 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467058?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467036?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467042?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "대전 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467051?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467041?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467048?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "윤소식-이상민 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467032?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "대전 유성 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467044?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "대전 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467054?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467057?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "대전 유성 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467049?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "윤소식-이상민 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467045?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "'벚꽃 유세 '",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467040?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "이상민 후보 손 잡고 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467038?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:58:00 +0900",
+                "title": "대전 유성 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467014?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:58:00 +0900",
+                "title": "대전 유성 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467012?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:58:00 +0900",
+                "title": "대전 유성 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467015?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:56:00 +0900",
+                "title": "[선택4·10] 한동훈, 대전 유성구 윤소식·이상민 '필승' 선거유세",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069504"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:22:00 +0900",
+                "title": "대전 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453659?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:22:00 +0900",
+                "title": "'벚꽃 총선'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453658?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:08:00 +0900",
+                "title": "[포토] 대전 지역 유권자에 지지 호소하는 한동훈 비대위원장",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001460"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+                "title": "지지 호소하는 윤소식 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453550?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+                "title": "지지 호소하는 윤소식 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453549?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+                "title": "[포토] 이상민·윤소식 지지 호소하는 한동훈 비대위원장",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001448"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "윤소식·이상민 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "대전 유성구 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453501?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453500?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:49:00 +0900",
+                "title": "연설하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453496?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "윤소식·이상민 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453491?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:45:00 +0900",
+                "title": "벚꽃 총선 뛰어든 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453485?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:44:00 +0900",
+                "title": "벚꽃 총선 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453474?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:44:00 +0900",
+                "title": "'벚꽃 총선'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453476?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:44:00 +0900",
+                "title": "벚꽃 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453475?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:43:00 +0900",
+                "title": "윤소식·이상민 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453473?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "대전 유성구 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453457?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "한동훈 위원장 '윤소식 후보 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453456?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "한동훈 위원장 '대전 유성 지역 후보들 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453460?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "[포토] 지지호소하는 '윤소식-유대혁' 유성구 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200253.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "윤소식·이상민 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453449?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:39:00 +0900",
+                "title": "지지 호소하는 윤소식 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453438?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:39:00 +0900",
+                "title": "윤소식·이상민 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453440?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+                "title": "한동훈 위원장 '주먹 불끈'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453433?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[포토] 대전 유성 지원유세 나선 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200243.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:40:00 +0900",
+                "title": "'반윤본색' 유승민  왜 어려운지 다 알 것 …'중도 확장' 열쇠될까?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020102?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:03:00 +0900",
+                "title": "李, 친문 임종석 끌어안았는데… ‘중도 확장력’ 유승민과 선긋는 韓",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441323?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "대전 찾은 유승민, 이상민·윤소식·박경호 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451500?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:21:00 +0900",
+                "title": "유승민  R&amp;D예산 줄어 대전이 가장 큰 타격…정부·여당 반성할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085267?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:08:00 +0900",
+                "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:59:00 +0900",
+                "title": "유승민  R&amp;D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:44:00 +0900",
+                "title": "유승민, 대전 지원… R&amp;D 예산삭감 반성…매 얼마든 맞겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603764?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:35:00 +0900",
+                "title": "[포토] 대전 유성갑 조승래·윤소식 지지호소",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085264?sid=111"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:05:00 +0900",
+                "title": "사전투표까지 D-3… 신경전 커지는 정가, 오리무중 민심",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085243?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:17:00 +0900",
+                "title": "'포스트 4·10' 겨냥…보폭 넓히는 유승민",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321757?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ① 대전",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022605"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:13:00 +0900",
+                "title": "이재명·임종석은 포옹했는데…한동훈·유승민은 ‘선긋기’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441269?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ②파란색 짙어진 대전, 세종갑은 '오리무중'",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:54:00 +0900",
+                "title": "2020년 21대 총선 어게인?…금강벨트 대전서 중도층 선택은",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704537?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:36:00 +0900",
+                "title": "총선 국면 역할 늘리는 유승민···차기 당권 겨냥하나",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107152"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:19:00 +0900",
+                "title": "'중원 표심 잡자' 與 인지도 지원 유세·野 정책 공약 박차",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880434?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:52:00 +0900",
+                "title": "[뉴스1 PICK]'위기론' 與… 정부 경질론·尹 대국민 사과 등 거론",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450212?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:48:00 +0900",
+                "title": "'위기론' 속 혼란스런 與… 정부 경질론·尹 대국민 사과 등 거론",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085141?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:21:00 +0900",
+                "title": " 尹 정부 많이 부족   유승민 와달라 …어수선한 與",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399890?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:21:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692481?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:19:00 +0900",
+                "title": "유승민  중도층 마음 5%만 돌려도 ...내일 윤상현 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809337?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]충남 여야 치열한 접전",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035349?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:32:00 +0900",
+                "title": "총선 첫 주말 국민의힘 대전 후보들 합동 유세...지지호소",
+                "link": "http://www.gocj.net/news/articleView.html?idxno=133354"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692312?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-충청] 양당 모두 11개 선거구 석권 목표 막판 수싸움 치열",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003485"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-충청권] 국힘 대부분 지역구 경합 전망",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870275?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:18:00 +0900",
+                "title": "민주 정세균 전 총리 대전 지원 유세…국힘 1일 유승민 전 의원 투입",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448684?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:47:00 +0900",
+                "title": "대전·충남 여야 후보들, TV 토론회서 지역 현안 설전",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085092?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:04:00 +0900",
+                "title": "[4·10 총선 여론조사 민심 향방] 진보 진영 압승했던 대전… 지지세 결집해야...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193629"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:22:00 +0900",
+                "title": "유성갑 조승래·윤소식 'R&amp;D예산 삭감, 교도소 이전' 설전[4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461446?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:07:00 +0900",
+                "title": "조승래  대전교도소 이전, 예타 면제 추진  vs 윤소식  8년간 뭐했나 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448155?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:06:00 +0900",
+                "title": "윤소식  이재명 '셰셰' 굴종외교 …조승래  한동훈 막말 안타까워 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085060?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:18:00 +0900",
+                "title": "국민의힘 대전 국회의원 후보자, 으능정이에서 합동유세 실시",
+                "link": "http://www.breaknews.com/1024141"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:43:00 +0900",
+                "title": "유성구갑 국회의원 후보자 토론·연설회 내일 방송",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692074?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:04:00 +0900",
+                "title": "국민의힘 대전 후보자들  7가지 안하겠습니다  약속",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428174?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:00:00 +0900",
+                "title": "[선택 4·10] 국민의힘 대전 국회의원 후보들, 으능정이서 합동유세 실시",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068387"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:32:00 +0900",
+                "title": "국힘 후보 합동유세... 7곳 지역구 모두 석권할 것 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330194"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:02:00 +0900",
+                "title": "국민의힘 대전광역시 국회의원 후보들, 첫 합동유세 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358332"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:20:00 +0900",
+                "title": "국민의힘 대전시당 합동유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446765?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:06:00 +0900",
+                "title": "[뉴스 즉설]충청권 10석도 힘든 국힘, 한동훈 '국회의사당 카드' 먹힐까",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084944?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "윤소식",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2067981
+            }
+        ],
+        "huboid": "100151259",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3004/Hb100151259/junkwa/20231212135539276_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300402-7.jpg",
+        "id": "2300402-7",
+        "재산": 311384,
+        "생년월일": "19730310",
+        "경력": "(전) 대한항공 항공기술연구원, 연구원\n(현) 개혁신당 당대표 정책특보",
+        "학력": "발틱주립공과대학교 졸업(공학박사)(2000.05.10.~2005.02.11.)",
+        "직업": "주식회사 나름 대표",
+        "성별": "남",
+        "regionId": "2300402",
+        "기호": 7,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ① 대전",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022605"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ②파란색 짙어진 대전, 세종갑은 '오리무중'",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:21:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692481?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "[총선] 대전 유성구갑 법정토론회…사안마다 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692312?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:58:00 +0900",
+                "title": "국민의힘과 차별성 강조한 개혁신당 대전 후보들",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307275"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:43:00 +0900",
+                "title": "유성구갑 국회의원 후보자 토론·연설회 내일 방송",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692074?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:10:00 +0900",
+                "title": "[이슈] 국힘, 종로·용인 등 접전지 후보단일화 타진.. 개혁신당  전혀 생각 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641188"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:12:00 +0900",
+                "title": "손가락 바꿔들고, 숏폼 영상 올리고...대전 제3지대  우리도 달린다 ",
+                "link": "https://www.newspim.com/news/view/20240329000672"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:06:00 +0900",
+                "title": "(R)[총선 여론조사]황정아 55.6 이상민 34.5..유성구·천안을 판세는?",
+                "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/68122"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 여론조사] 대전 유성갑·유성을·충남 천안을 더불어민주당 후보...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193562"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 여론조사-대전 유성구갑] 민주 조승래 48.1%·국힘 윤소식 39%…...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193569"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:31:00 +0900",
+                "title": "[총선] 2024 총선 대전 유성구갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690334?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:54:00 +0900",
+                "title": "[총선] 2024 총선 대전 유성구갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690020?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:19:00 +0900",
+                "title": "[총선] 2024 총선 대전 유성구갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689851?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:52:00 +0900",
+                "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:57:00 +0900",
+                "title": "[4·10 총선 판세 분석] 3파전 속 '정권 심판' 대 '운동권 청산' 프레임 형성",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084553?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:42:00 +0900",
+                "title": "[4.10총선-128] 대전 유성갑, 조승래vs윤소식. 험지에서 고군분투",
+                "link": "http://www.mhj21.com/160101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 04:42:00 +0900",
+                "title": "22대 국회의원 후보자, 병역사항은? (대전·세종)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306972"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:26:00 +0900",
+                "title": "왕현민 개혁신당 대전 유성갑 국회의원 후보, LED가로등 설치와 보도육교 건립...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=356433"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:42:00 +0900",
+                "title": "총선 충청권 선거구별 판세 - 24. 대전유성갑",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1429991"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:13:00 +0900",
+                "title": "4.10 총선 충청권 후보 등록(22일)",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745122"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:06:00 +0900",
+                "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:38:00 +0900",
+                "title": "[4·10 총선특집] 거대 양당·제3지대·무소속 다자구도… 표심잡기 분주",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084228?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:28:00 +0900",
+                "title": "충청권 28개 선거구 81명 출사표… '세종을' 5명 최다",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1429874"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:00:00 +0900",
+                "title": "[4·10총선] 대전·세종·충남·충북, 대전 중구청장 재선, 도의원 재·보궐 ...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007466"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:18:00 +0900",
+                "title": "제22대 총선 최종 후보 대전·세종·충남 61명 등록",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762880"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:04:00 +0900",
+                "title": "[22대 총선] 대전 유성갑…조승래·윤소식·왕현민 후보 ‘등록’",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/24/2024032400011.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:56:00 +0900",
+                "title": "왕현민 개혁신당 대전 유성갑 후보, 후보 등록 완료...22대 총선 필승 의지 표...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355809"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:38:00 +0900",
+                "title": "대전 제22대 총선 후보자 총 22명 .. 여성 2명, 청년 3명",
+                "link": "http://www.gocj.net/news/articleView.html?idxno=133257"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:26:00 +0900",
+                "title": "제22대 총선 '대전 유성갑' 누가 뛰나...조승래·윤소식·왕현민 3파전",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355835"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:55:00 +0900",
+                "title": "대전 7개 선거구서 22명 총선 출사표...경쟁률 3.1대 1",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396110?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:45:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 대전(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583522?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:52:00 +0900",
+                "title": "후보 등록 최종, 대전·세종·충남 61명… 경쟁률 3.05대 1(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445503?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "충청권 28개 선거구 82명 등록…28일부터 선거운동",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306823"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+                "title": "[4·10총선 후보 등록] 대전(최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445449?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+                "title": "4.10 총선 충청권 후보 등록(22일)",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=744961"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:32:00 +0900",
+                "title": "4·10 총선 충청권 후보자 등록(22일 최종)",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=744962"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 대전(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583308?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:08:00 +0900",
+                "title": "[4·10총선 후보자 등록] 대전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430830?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:30:00 +0900",
+                "title": "[4·10총선 후보 등록] 대전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445402?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:06:00 +0900",
+                "title": "국힘 윤소식  R&amp;D 르네상스 시대 , 민주 조승래  과학기술 홀대 심판 ",
+                "link": "http://www.hellodd.com/news/articleView.html?idxno=103733"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+                "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:16:00 +0900",
+                "title": "충청권 28석 '수성' '탈환' 쟁탈전 막 올랐다… 후보 등록 시작, 본격 레이스",
+                "link": "https://n.news.naver.com/mnews/article/656/0000083824?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:16:00 +0900",
+                "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/IzFqY0r0zY5DT"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/kZudXs90GqvM-QCNaLI"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/XsHuHd6IGAzcVpGxOr"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:18:00 +0900",
+                "title": "대전 7개 선거구 성적표 `관심 집중'",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=790604"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:24:00 +0900",
+                "title": "충청권 여야 대진표 확정…본격 선거전",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1020317"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:54:00 +0900",
+                "title": "대전 민주·진보당 단일화…지역 총선 대진표 완성",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306537"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:04:00 +0900",
+                "title": "대전 총선 대진표 확정 '민주당 7석 싹쓸이 재현될까'",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768133"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:25:00 +0900",
+                "title": "대전 민주당-진보당 단일화... 7개 선거구 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426173?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 08:16:00 +0900",
+                "title": "[리포트] 4.10 총선 대진표(1)",
+                "link": "https://tjmbc.co.kr/article/yEqCNMwTNeFz"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 20:52:00 +0900",
+                "title": "[리포트] 4.10 총선 대진표(1)",
+                "link": "https://tjmbc.co.kr/article/a2A_TDq57JOgIz"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:27:00 +0900",
+                "title": "개혁신당, 충청권 5명 추가 공천… 총 9명으로 늘어",
+                "link": "https://n.news.naver.com/mnews/article/421/0007404304?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:48:00 +0900",
+                "title": "개혁신당, 충청권 공천자 잇달아 발표…대전·충남북·세종 9명",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1428117"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:14:00 +0900",
+                "title": "개혁신당 충청권 5곳 공천...경북은 공천신청자 없어",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306114"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:38:00 +0900",
+                "title": "개혁신당 충청지역 총선 주자 청주청원 장석남 등 4명 공천",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=789646"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:32:00 +0900",
+                "title": "개혁신당 충청권 4명 1차 공천",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2261416"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 14:03:00 +0900",
+                "title": "[총선 D-30] 대전 대진표 마무리 단계…7:0 의석수 재편될까",
+                "link": "https://n.news.naver.com/mnews/article/003/0012417303?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 18:10:00 +0900",
+                "title": "대전 유성구갑 조승래  대한민국 복합위기 극복 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306050"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 14:14:00 +0900",
+                "title": "개혁신당 1차 공천 확정…충청권 왕현민·이성진·장석남·김기영",
+                "link": "https://n.news.naver.com/mnews/article/656/0000082490?sid=100"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 13:19:00 +0900",
+                "title": "개혁신당 충청권 4명 1차 공천",
+                "link": "https://n.news.naver.com/mnews/article/421/0007400248?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:41:00 +0900",
+                "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
+                "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:36:00 +0900",
+                "title": "왕현민 개혁신당 대전 유성갑 국회의원 예비후보, 공천 신청자 면접 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=351278"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:34:00 +0900",
+                "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:32:00 +0900",
+                "title": "류호정  서운한 것 없다  이준석  뜻 맞출 수 있다 …개혁신당 35명 공천",
+                "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 15:06:00 +0900",
+                "title": "[선택 4 ·10] 왕현민 개혁신당 유성갑 예비후보, 공천 면접 참석",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060055"
+            },
+            {
+                "date": "Thu, 07 Mar 2024 21:06:00 +0900",
+                "title": "(R)[격전지를 가다] 유성갑 표심 어디로? 민주 조승래 vs 국힘 윤소식",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/67808"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 17:26:00 +0900",
+                "title": "[4·10 총선 톺아보기] 대전 유성갑 / 3선 도전 조승래, 저지 나서는 윤소식 ...",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1018493"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 17:34:00 +0900",
+                "title": "대전 총선 현역·전직 구청장 vs 당협위원장 대결",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=305654"
+            },
+            {
+                "date": "Fri, 01 Mar 2024 12:34:00 +0900",
+                "title": "대전 유성구갑 4자 구도 완성…대결 본격화 전망",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=305558"
+            },
+            {
+                "date": "Tue, 27 Feb 2024 09:29:00 +0900",
+                "title": "왕현민 개혁신당 대전 유성갑 예비후보, 당대표 정책특보 임명",
+                "link": "https://n.news.naver.com/mnews/article/421/0007376494?sid=165"
+            },
+            {
+                "date": "Tue, 27 Feb 2024 01:02:00 +0900",
+                "title": "왕현민 대전 유성구 예비후보, 개혁신당 당대표 정책특보 임명",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=347822"
+            },
+            {
+                "date": "Wed, 21 Feb 2024 08:02:00 +0900",
+                "title": "왕현민 개혁신당 유성갑 국회의원 예비후보, 딥 테크 스타트업 파크 조성 공약...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=346115"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 19:26:00 +0900",
+                "title": "대전 유성갑 출마 왕현민 예비후보, 개혁신당 입당",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=344458"
+            },
+            {
+                "date": "Tue, 13 Feb 2024 21:12:00 +0900",
+                "title": "무소속 왕현민 대전 유성갑 예비후보 '개혁신당' 입당",
+                "link": "https://n.news.naver.com/mnews/article/421/0007349094?sid=165"
+            }
+        ],
+        "정당": "개혁신당",
+        "이름": "왕현민",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 311384
+            }
+        ],
+        "huboid": "100151280",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg3004/Hb100151280/junkwa/20240213175108130_1.PDF"
+    }
 ]

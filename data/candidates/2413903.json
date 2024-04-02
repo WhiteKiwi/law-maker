@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413903-1.jpg",
-    "id": "2413903-1",
-    "재산": 2222561,
-    "생년월일": "19730320",
-    "경력": "(전) 김포와더불어 박상혁법률사무소 대표변호사\n(현) 더불어민주당 국회의원",
-    "학력": "한양대학교 법과대학 법학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1118",
-    "regionId": "2413903",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-        "title": "국힘 후보들 '윤과 거리, 한 마케팅'",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242599"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:23:00 +0900",
-        "title": "경기 김포을, 박빙 예상 속 민주당·국민의힘 서로 '우세'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277840?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:53:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037912?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:16:00 +0900",
-        "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
-        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "박상혁",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1585561
-      },
-      {
-        "연도": 2021,
-        "재산": 1895573
-      },
-      {
-        "연도": 2022,
-        "재산": 2124278
-      },
-      {
-        "연도": 2023,
-        "재산": 2222561
-      }
-    ]
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413903-2.jpg",
-    "id": "2413903-2",
-    "재산": 29144959,
-    "생년월일": "19580813",
-    "경력": "(전) 제19, 20대 국회의원\n(전) 국민의힘 전략기획부총장",
-    "학력": "예산농업전문학교(현 공주대학교) 축산과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2413903",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 15:48:00 +0900",
-        "title": "홍철호 후보 김포 무료 키즈카페·초중고 스쿨버스 도입 공약",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226685"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:23:00 +0900",
-        "title": "경기 김포을, 박빙 예상 속 민주당·국민의힘 서로 '우세'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277840?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:02:00 +0900",
-        "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:12:00 +0900",
-        "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "홍철호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 29144959
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413903-1.jpg",
+        "id": "2413903-1",
+        "재산": 2222561,
+        "생년월일": "19730320",
+        "경력": "(전) 김포와더불어 박상혁법률사무소 대표변호사\n(현) 더불어민주당 국회의원",
+        "학력": "한양대학교 법과대학 법학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1118",
+        "regionId": "2413903",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "김포을 박상혁, 홍철호 고발에  패색 짙자 정치쇼 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278226?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "홍철호  박상혁 후보 선거공보물, 허위사실 상당수…검찰 고발 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220171"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+                "title": "김포을 與 홍철호, 野 박상혁 고발… “공보물에 허위사실 담아”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920504?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:42:00 +0900",
+                "title": "홍철호, '허위사실 공표' 박상혁 검찰 고발...박상혁  악의적 고발“",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809765?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "홍철호,  박상혁 후보 대표발의한 '北 철도ㆍ항공법', 文정권 당시 관계부처도...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220145"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+                "title": "홍철호,  박상혁 후보 대표발의한 「북한 철도ㆍ항공법」, 文정권 당시 관계부...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559111"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:08:00 +0900",
+                "title": "민주 김포시을 박상혁 후보 '북한 철도·항공법' 대표 발의 소환",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71275"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+                "title": "국힘 후보들 '윤과 거리, 한 마케팅'",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242599"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:23:00 +0900",
+                "title": "경기 김포을, 박빙 예상 속 민주당·국민의힘 서로 '우세'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277840?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:53:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037912?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:16:00 +0900",
+                "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
+                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:12:00 +0900",
+                "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:14:00 +0900",
+                "title": "민주 김포을 박상혁 후보 출정식… 힘 모아달라  호소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123703"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900",
+                "title": "[410=여론조사] 김포시 을, '정권견제론'에 매몰된 '서울편입론'",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241979"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:32:00 +0900",
+                "title": "민주당 박상혁 김포시을 국회의원 후보, 선거 출정식 가져",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850426"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:26:00 +0900",
+                "title": "[열전 25시] 3월 28일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037610?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:02:00 +0900",
+                "title": "[열전 25시] 3월 28일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037604?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:38:00 +0900",
+                "title": "박상혁 민주 김포을 후보, 주민 맞춤형 읍면동 공약 발표",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690525"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:36:00 +0900",
+                "title": "경기 김포을, 민주 박상혁 48.5%·국힘 홍철호 41.3%… 오차범위 내 경쟁",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443506?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:15:00 +0900",
+                "title": "[경기 김포을] 더불어민주당 박상혁 48.5%, 국민의힘 홍철호 41.3%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427855?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:56:00 +0900",
+                "title": "김포 을 박상혁 후보의 행복한 김포만들기’주민 맞춤형 읍면동 공약",
+                "link": "https://www.viva100.com/main/view.php?key=20240328010009606"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+                "link": "https://www.naeil.com/news/read/505806?ref=naver"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:54:00 +0900",
+                "title": "총선 후보자에 '친미냐, 친북이냐' 언론의 황당 설문조사",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123139?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:02:00 +0900",
+                "title": "[410=여론조사] 김포시 을, 박상혁-홍철호 오차범위 접전…정당지지 1%p 미만...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241778"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:02:00 +0900",
+                "title": "[총선 여론조사-김포을]'서울편입' 논란 김포을, 박상혁 48.5% vs 홍철호 41....",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384313"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:52:00 +0900",
+                "title": "김부겸  '노무현 탄핵' 때도 겨우 과반, 110석도 성급 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427809?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:00:00 +0900",
+                "title": "[사설] 공동주택 현안 외면하는 국회의원 후보들",
+                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161725"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "서울시의원 재산 평균 13억…남창진 87.7억 '1위'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440769?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:01:00 +0900",
+                "title": "&lt;22대 총선 후보 검증&gt; 수상한 '양평고속도로', 원희룡 4가지 거짓말",
+                "link": "https://n.news.naver.com/mnews/article/607/0000001929?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "[영상] 김포 지원유세 나선 김부겸위원장",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=113740"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:12:00 +0900",
+                "title": "민주 수도권 서부 후보들 '서부권광역급행철도' 예타 조사 조기 통과 촉구",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71112"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:59:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037454?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:51:00 +0900",
+                "title": "민주당 수도권 서부지역 국회의원 후보들  GTX 예타 조기 통과해야 [2024 총선...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005162559?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:44:00 +0900",
+                "title": "[4·10=한다면 한다] 수도권 서부지역 후보들,  서부권광역급행철도 예타 조기...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241513"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:54:00 +0900",
+                "title": "[2024년 3월 27일 정치·사회 주요일정]한동훈 국민의힘 총괄선대위원장, 인천...",
+                "link": "https://www.mediapen.com/news/view/907367"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 경실련, 전세보증금 반환보증보험 실태분석 발표 기자회견",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213285"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:53:00 +0900",
+                "title": "[오늘의 정치일정] 3월 27일(수)",
+                "link": "https://www.newspim.com/news/view/20240326001185"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:04:00 +0900",
+                "title": "‘경영평가 E등급’ 코레일…안전·실적 난관에 한문희 사장 시험대",
+                "link": "http://www.kukinews.com/newsView/kuk202403260289"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:00:00 +0900",
+                "title": "공식선거 D-1, 야당 “격전지 승기 굳힌다”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451999?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(27일, 수)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007438002?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 04:05:00 +0900",
+                "title": "요동치는 수도권 표심… 與 15∼20·野 85~90곳 ‘우세’",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684002?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "[4·10 총선] 사라진 정책 대결…치닫는 혼탁 선거",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241428"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "김현권  새로운 미래 50년 먹거리 만들겠다 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543656"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "김포, 총선 앞두고 불법선거 논란 '시끌'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460891"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "4ㆍ10 총선, 법조인 120명 출마",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261708125500686"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:08:00 +0900",
+                "title": "[열전 25시] 3월 26일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037351?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:20:00 +0900",
+                "title": "홍철호 후보 ‘서울지하철 2호선 김포 연장안 4·10 총선 최대 이슈’로 떠오...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226013"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "민주당 경기도당, 김포시을 홍철호 국민의힘 후보 선관위 신고 예정",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276368?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:28:00 +0900",
+                "title": "[총선] 민주당 경기도당, 홍철호 후보 불법 선거운동 혐의 선관위 고발 예정",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384184"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:38:00 +0900",
+                "title": "민주당 김포시을 박상혁 후보, 국힘 홍철호 후보 공직선거법 위반 선관위 신고",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71068"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:10:00 +0900",
+                "title": "김포-서울 출퇴근 30분 시대 !  서부권광역급행철도·5호선 등 임기내 착공 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557295"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:12:00 +0900",
+                "title": "[나는후보자다]경기 김포시을, 박상혁·홍철호 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460825"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:56:00 +0900",
+                "title": "민주 경기도당, 김포을 국힘 홍철호 불법선거운동 혐의 고발 예고",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787118"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:56:00 +0900",
+                "title": "더불어민주당 경기도당  김포을 국민의힘 홍철호 후보 불법 선거운동 혐의, 선...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013643"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:01:00 +0900",
+                "title": "21대 민주당이 석권한 경기 김포시갑·을 22대 모두 '리턴 매치'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276169?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:23:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037211?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:08:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037203?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "국힘, 김포시갑‧을 후보  민주당과 이재명 대표, 서울 통합 찬반 입장 밝혀야...",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71011"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:56:00 +0900",
+                "title": "공동주택 장기수선계획, 수립단계부터 문제",
+                "link": "http://www.aptn.co.kr/news/articleView.html?idxno=105880"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:23:00 +0900",
+                "title": "[유미's 픽] 대한항공이 팍팍 밀어주는데도…'성장 정체' 한진정보통신, 미래...",
+                "link": "https://n.news.naver.com/mnews/article/092/0002325566?sid=105"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:38:00 +0900",
+                "title": "이재명,김주영 박상혁 김포지원유세  정치는 먹고 살자고 하는 건데 가장 중요...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556874"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:09:00 +0900",
+                "title": "김현권 “다가올 미래 50년의 새로운 먹거리 만들겠다”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474189"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "김현권 구미을 후보 선거사무소 개소… 다가올 미래 50년 새로운 먹거리 창출...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004478"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:28:00 +0900",
+                "title": "김포 방문한 이재명 민주당 대표 '김주영 후보 지지 호소'",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642983"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:42:00 +0900",
+                "title": "민주당 김현권 후보, 선거사무소 개소식 성황리에 마쳐",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989372"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 05:02:00 +0900",
+                "title": "'서울편입 될까?' 김포을…박상혁 vs 홍철호 전·현직 리턴매치",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877212?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 22:16:00 +0900",
+                "title": "이재명, 경기북부 표심 공략 키워드는…‘국방·안보·고물가’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786734"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:18:00 +0900",
+                "title": "김포갑을 김주영·박상혁 지원나선 이재명 대표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951454"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:18:00 +0900",
+                "title": "김포 라베니체에비뉴 찾은 이재명 대표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951456"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:00:00 +0900",
+                "title": "김현권 구미시을 후보  다가올 미래 50년의 새로운 먹거리 만들겠다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104411"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:54:00 +0900",
+                "title": "[포토] 김포 라베니체에비뉴 찾은 이재명 대표",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/23/2024032300043.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:46:00 +0900",
+                "title": "[포토] 이재명 대표 맞이하는 김포갑을 김주영·박상혁",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/23/2024032300040.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:46:00 +0900",
+                "title": "[포토] 김포갑을 김주영·박상혁 지원나선 이재명 대표",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/23/2024032300039.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:00:00 +0900",
+                "title": "이재명, 경기 북부 찾는다…'안보 리스크' 고리로 정권 심판론",
+                "link": "https://n.news.naver.com/mnews/article/421/0007431020?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 05:00:00 +0900",
+                "title": "이재명, 경기 북부 지원 유세…수도권 표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445615?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:44:00 +0900",
+                "title": "'경기 무려 9곳서 재대결'…이재정 vs 심재철·엄태준 vs 송석준 등",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429412?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:03:00 +0900",
+                "title": "리턴매치·옛 동지와 혈투·새 얼굴 254곳 본선 채비… 불붙는 격전지",
+                "link": "https://n.news.naver.com/mnews/article/081/0003438959?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:11:00 +0900",
+                "title": "22대 총선 후보 등록 첫날, 부천·김포 12명 이름 올려",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428142?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:58:00 +0900",
+                "title": "김포시의회 국힘, 보궐선거 출마 민주당 시의원 후보 사퇴 촉구",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=70947"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:25:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 21일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036881?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:18:00 +0900",
+                "title": "개혁신당 후보 사퇴… 김포 총선 본격 리턴매치 시작",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460353"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:00:00 +0900",
+                "title": "박상혁 민주당 김포을 후보, 트라이앵글 첨단산업단지 조성 공약 발표",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=689082"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 05:00:00 +0900",
+                "title": " 건설경기 악화에 전셋값 올라간다  또 '구원투수' LH 불러낸 정부",
+                "link": "https://n.news.naver.com/mnews/article/008/0005014754?sid=101"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 21:58:00 +0900",
+                "title": "“총선 투표날 일본 가서 벚꽃 보자”...항공권값 2배 급등했다는데",
+                "link": "https://n.news.naver.com/mnews/article/009/0005275611?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 07:32:00 +0900",
+                "title": "또 혈세 써서 빌라 쟁여두기?…정부, 2년 간 비아파트 10만 가구 매입",
+                "link": "https://realty.chosun.com/site/data/html_dir/2024/03/19/2024031901856.html"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:30:00 +0900",
+                "title": "박상혁 민주당 김포을 후보, 서울5호선·김포골드라인 학운 연장 환영",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=688682"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:24:00 +0900",
+                "title": "“따뜻한 차도 건네받아”…시민 화답에 예비후보들, 방긋 [SNS로 보는 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036664?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:02:00 +0900",
+                "title": "[선거레이더/경기 김포시을]박상혁  정권 심판해야  vs 홍철호  지역구 탈환 ",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459962"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "박상혁",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1585561
+            },
+            {
+                "연도": 2021,
+                "재산": 1895573
+            },
+            {
+                "연도": 2022,
+                "재산": 2124278
+            },
+            {
+                "연도": 2023,
+                "재산": 2222561
+            }
+        ],
+        "huboid": "100152035",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4139/Hb100152035/junkwa/20240108104613587_1.PDF"
+    },
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413903-2.jpg",
+        "id": "2413903-2",
+        "재산": 29144959,
+        "생년월일": "19580813",
+        "경력": "(전) 제19, 20대 국회의원\n(전) 국민의힘 전략기획부총장",
+        "학력": "예산농업전문학교(현 공주대학교) 축산과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2413903",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "김포을 박상혁, 홍철호 고발에  패색 짙자 정치쇼 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278226?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "홍철호  박상혁 후보 선거공보물, 허위사실 상당수…검찰 고발 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220171"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+                "title": "김포을 與 홍철호, 野 박상혁 고발… “공보물에 허위사실 담아”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920504?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:42:00 +0900",
+                "title": "홍철호, '허위사실 공표' 박상혁 검찰 고발...박상혁  악의적 고발“",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809765?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "홍철호,  박상혁 후보 대표발의한 '北 철도ㆍ항공법', 文정권 당시 관계부처도...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220145"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+                "title": "홍철호,  박상혁 후보 대표발의한 「북한 철도ㆍ항공법」, 文정권 당시 관계부...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559111"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:08:00 +0900",
+                "title": "민주 김포시을 박상혁 후보 '북한 철도·항공법' 대표 발의 소환",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71275"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "한동훈, 홍철호 지원 유세 펼쳐…‘김포·서울 통합’ 실행 약속",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=691293"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:48:00 +0900",
+                "title": "홍철호 후보 김포 무료 키즈카페·초중고 스쿨버스 도입 공약",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226685"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:23:00 +0900",
+                "title": "경기 김포을, 박빙 예상 속 민주당·국민의힘 서로 '우세'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277840?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:12:00 +0900",
+                "title": "공식 선거운동 첫 주말… 유세 반응 '극과 극'",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644534"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+                "title": "한동훈, 김포 구래역 광장에서 홍철호 지원 유세…'김포ㆍ서울 통합' 실행 약...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558549"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:20:00 +0900",
+                "title": "한동훈, 김포 구래역 광장에서 홍철호 지원 유세…'김포ㆍ서울 통합' 실행 약...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317285"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:24:00 +0900",
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037825?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:34:00 +0900",
+                "title": "한동훈 김포 구래역 광장서 홍철호 지원 유세… “김포·서울 통합” 재차 확...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226524"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:12:00 +0900",
+                "title": "한동훈, 김포 구래역 광장서 홍철호 후보 지원 유세",
+                "link": "http://www.lawissue.co.kr/view.php?ud=202403311410158212f4ab64559d_12"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:40:00 +0900",
+                "title": "한동훈, 김포 구래역 광장서 홍철호 지원 유세…  김포·서울 통합  약속",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850972"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 04:30:00 +0900",
+                "title": "한동훈, 김포 구래역 광장에서 홍철호 지원 유세…'김포ㆍ서울 통합' 실행 약...",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957245"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:00:00 +0900",
+                "title": "김포 지원유세 나선 한동훈  서울 편입 아이디어 추진, 정말 멋진 생각 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320944?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:14:00 +0900",
+                "title": "한동훈 “김포는 원래, 이미 서울이었다”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787730"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력…③벌금 100만원 미만",
+                "link": "https://www.kpinews.kr/newsView/1065589147970335"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:44:00 +0900",
+                "title": "김포을 홍철호, 한강로 사거리에서 출정식 개최",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123702"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900",
+                "title": "[410=여론조사] 김포시 을, '정권견제론'에 매몰된 '서울편입론'",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241979"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:21:00 +0900",
+                "title": "반도체벨트 '시선 집중'… 국힘 4곳·민주 35곳 '확실히 우세'[3대 승부처 판...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163540?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:00:00 +0900",
+                "title": "홍철호 김포을 후보, 공식 선거운동 첫날 김포 한강로 사거리서 출정식",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080701"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:44:00 +0900",
+                "title": "홍철호, 공식 선거운동 돌입…한강로 사거리에서 출정식 개최",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850312"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:38:00 +0900",
+                "title": "홍철호 국힘 김포시을 후보, 공식 선거운동 돌입",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690527"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:36:00 +0900",
+                "title": "경기 김포을, 민주 박상혁 48.5%·국힘 홍철호 41.3%… 오차범위 내 경쟁",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443506?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:08:00 +0900",
+                "title": "홍철호 국회의원 후보, 한강로사거리 본격적인 선거운동 돌입",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557978"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:15:00 +0900",
+                "title": "[경기 김포을] 더불어민주당 박상혁 48.5%, 국민의힘 홍철호 41.3%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427855?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:11:00 +0900",
+                "title": "[열전 25시] 3월 28일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037579?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:52:00 +0900",
+                "title": "김포 을 국민의 힘 홍철호 국회의원 후보 출정식 개최",
+                "link": "https://www.viva100.com/main/view.php?key=20240328010009595"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:54:00 +0900",
+                "title": "총선 후보자에 '친미냐, 친북이냐' 언론의 황당 설문조사",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123139?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:02:00 +0900",
+                "title": "[총선 여론조사-김포을]'서울편입' 논란 김포을, 박상혁 48.5% vs 홍철호 41....",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384313"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:02:00 +0900",
+                "title": "[410=여론조사] 김포시 을, 박상혁-홍철호 오차범위 접전…정당지지 1%p 미만...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241778"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:24:00 +0900",
+                "title": "[포토] 홍철호 국민의힘 김포을 국회의원 후보, 13일간 열전 시작",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849757"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:15:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037498?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "[영상] 김포 지원유세 나선 김부겸위원장",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=113740"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:22:00 +0900",
+                "title": "홍철호  '김포 운양~하성 4차로 확장' 올해 말 착공시킬 것 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219481"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:12:00 +0900",
+                "title": "국힘 김포시을 홍철호 후보 '김포 운양~하성' 4차로 확장 올해 말 신속 착공 ...",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71110"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:30:00 +0900",
+                "title": "홍철호 국힘 김포을 후보, ‘운양~하성 4차로 확장’ 착공 공약 발표",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690236"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:04:00 +0900",
+                "title": "홍철호 “김포 운양~하성 4차로 확장 올해 말 착공시키겠다 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849333"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:00:00 +0900",
+                "title": "홍철호 김포을 후보, 김포 운양~하성 4차로 확장... “김포 서울 통합되면 5호...",
+                "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91037"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:49:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037432?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:04:00 +0900",
+                "title": "홍철호  「김포 운양~하성 4차로 확장」 올해 말 착공시키겠다 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557567"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 04:05:00 +0900",
+                "title": "요동치는 수도권 표심… 與 15∼20·野 85~90곳 ‘우세’",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684002?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "[4·10 총선] 사라진 정책 대결…치닫는 혼탁 선거",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241428"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:04:00 +0900",
+                "title": "4·10 총선 앞두고 도내 여야 '고발'",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080205"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "김포, 총선 앞두고 불법선거 논란 '시끌'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460891"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "국힘 김포시을 홍철호 후보  김포 서울 통합되면 5호선 환승 없이 직결 연장 ...",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71082"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:58:00 +0900",
+                "title": "[총선] 보름 앞 둔 총선, 잇단 고발에 '혼탁' 조짐",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384211"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:00:00 +0900",
+                "title": "홍철호 후보, “김포 서울 통합되면 5호선 환승 없이 직결 연장 가능”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848894"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:54:00 +0900",
+                "title": "홍철호  김포 서울 통합되면 5호선 환승 없이 직결 연장 가능 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557429"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:20:00 +0900",
+                "title": "홍철호 후보 ‘서울지하철 2호선 김포 연장안 4·10 총선 최대 이슈’로 떠오...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226013"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "민주당 경기도당, 김포시을 홍철호 국민의힘 후보 선관위 신고 예정",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276368?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:28:00 +0900",
+                "title": "[총선] 민주당 경기도당, 홍철호 후보 불법 선거운동 혐의 선관위 고발 예정",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384184"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:56:00 +0900",
+                "title": "[열전 25시] 3월 26일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037312?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:38:00 +0900",
+                "title": "민주당 김포시을 박상혁 후보, 국힘 홍철호 후보 공직선거법 위반 선관위 신고",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71068"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:12:00 +0900",
+                "title": "[나는후보자다]경기 김포시을, 박상혁·홍철호 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460825"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:30:00 +0900",
+                "title": "고양갑 무소속 기호7번 김성남, 고양시 역사상 공직자 최고 재산 기록",
+                "link": "http://www.metroseoul.co.kr/article/20240326500064"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:28:00 +0900",
+                "title": "[4·10=한다면 한다] 국민의힘 김포갑·을 후보 서울 편입, 서울지하철 2호선...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241244"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:56:00 +0900",
+                "title": "더불어민주당 경기도당  김포을 국민의힘 홍철호 후보 불법 선거운동 혐의, 선...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013643"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:14:00 +0900",
+                "title": "홍철호 후보  서울시, '서울 2호선 김포 연장 타당성 검토 협조' 밝혀 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219309"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:01:00 +0900",
+                "title": "21대 민주당이 석권한 경기 김포시갑·을 22대 모두 '리턴 매치'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276169?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 22:46:00 +0900",
+                "title": "홍철호ㆍ박진호, 김포+서울 통합 과 서울 2호선 구래ㆍ마산 연장추진",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557182"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:18:00 +0900",
+                "title": "홍철호  서울시, '서울 2호선 김포 연장 타당성 검토 협조' 밝혀 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3122291"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:48:00 +0900",
+                "title": "홍철호‧박진호 與 김포 후보들, 김포+서울 통합 및 서울 2호선 구래‧마산 연...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219298"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:23:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037211?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:57:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037201?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:02:00 +0900",
+                "title": "굽네치킨, 홍현호 일가 순익 무관 년 40억 배당...'무노동 세 자녀' 챙기기 빈...",
+                "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588943061368"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:30:00 +0900",
+                "title": "김포시(을) 국힘 홍철호, 서울시 답변 공개... 2호선 연장 타당성 검토 협조 ",
+                "link": "https://www.cnbnews.com/news/article.html?no=650444"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "국힘, 김포시갑‧을 후보  민주당과 이재명 대표, 서울 통합 찬반 입장 밝혀야...",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71011"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:10:00 +0900",
+                "title": "홍철호  서울시, '서울 2호선 김포 연장 타당성 검토 협조' 밝혀",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557030"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:02:00 +0900",
+                "title": "홍철호 “민주당과 이재명은 김포-서울 통합 찬반 입장 밝혀라”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847901"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:22:00 +0900",
+                "title": "與 홍철호 김포시을 후보,  행안부 김포-서울 통합 주민투표 실시 내부검토 중...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219205"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:28:00 +0900",
+                "title": "홍철호  민주당과 이재명은 김포 서울 통합 찬반 입장 밝혀야 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556871"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:30:00 +0900",
+                "title": "홍철호 “행안부 김포서울 통합 주민투표 실시 내부검토 중”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847361"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "경기도 후보, 50억 이상 재력가 21명 [경기도 후보 분석_재산]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037067?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:34:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037060?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:08:00 +0900",
+                "title": "[4·10 총선] 경기지역 출마자 전과기록 다채---음주운전 다반사",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240730"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:08:00 +0900",
+                "title": "[4·10 총선] 경기지역 후보자 1인당 평균 재산 51억원...국힘 88억·민주 25...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240729"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 09:02:00 +0900",
+                "title": "홍철호  행안부 김포서울 통합 주민투표 실시 내부검토 중 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847230"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 05:02:00 +0900",
+                "title": "'서울편입 될까?' 김포을…박상혁 vs 홍철호 전·현직 리턴매치",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877212?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 00:34:00 +0900",
+                "title": "홍철호  행안부 김포서울 통합주민투표 실시 내부검토 중 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121657"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:28:00 +0900",
+                "title": "[4·10총선 후보 등록]경기 최고자산가는 부천갑 김복덕",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445723?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:00:00 +0900",
+                "title": "이재명, 경기 북부 찾는다…'안보 리스크' 고리로 정권 심판론",
+                "link": "https://n.news.naver.com/mnews/article/421/0007431020?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:36:00 +0900",
+                "title": "홍철호  행안부 김포서울 통합 주민투표 실시 내부검토 중 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556673"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:31:00 +0900",
+                "title": "'회장님 의원' 박덕흠·한무경·홍철호 후보, 이해충돌 문제는 여전",
+                "link": "https://n.news.naver.com/mnews/article/607/0000001923?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:18:00 +0900",
+                "title": "[4.10총선-100] 김포을, 박상혁vs홍철호. 교통대책이 쟁점",
+                "link": "http://www.mhj21.com/160032"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:56:00 +0900",
+                "title": "홍철호 후보  서울 지하철 2호선 김포 구래 마산까지 연장 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219091"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:44:00 +0900",
+                "title": "'경기 무려 9곳서 재대결'…이재정 vs 심재철·엄태준 vs 송석준 등",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429412?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "홍철호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 29144959
+            }
+        ],
+        "huboid": "100151385",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4139/Hb100151385/junkwa/20231212154230140_1.PDF"
+    }
 ]

@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-1.jpg",
-    "id": "2414801-1",
-    "재산": 973658,
-    "생년월일": "19651220",
-    "경력": "(현)제21대 국회의원(화성시갑선거구)\n(전)제21대 국회 환경노동위원회 위원장",
-    "학력": "연세대학교 행정대학원 졸업(행정학 석사)",
-    "직업": "국회의원",
-    "성별": "여",
-    "id_21th": "938",
-    "regionId": "2414801",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 12:39:00 +0900",
-        "title": "화성시갑 민주당 송옥주ㆍ국힘 홍형선 후보, 노인대학서 지지호소 [포토뉴스]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037903?sid=102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:24:00 +0900",
-        "title": "화성갑, 동탄 분시… 국힘  인프라 부족 반대 - 민주  불균형 해소 타당 ",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003539"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:42:00 +0900",
-        "title": "부활절 맞아 후보들 성당·교회로…차분함 속 열띤 유세(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007448588?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:05:00 +0900",
-        "title": "[D-10] 교회로, 성당으로…경기 격전지 '부활절' 표심잡기",
-        "link": "https://n.news.naver.com/mnews/article/421/0007447734?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 22:02:00 +0900",
-        "title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "송옥주",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 709865
-      },
-      {
-        "연도": 2021,
-        "재산": 886569
-      },
-      {
-        "연도": 2022,
-        "재산": 928728
-      },
-      {
-        "연도": 2023,
-        "재산": 973658
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-2.jpg",
-    "id": "2414801-2",
-    "재산": 2005842,
-    "생년월일": "19680127",
-    "경력": "(전)국회사무처 사무차장\n(전)국회예산정책처 조세분석심의관",
-    "학력": "연세대학교 대학원 졸업(행정학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2414801",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-        "title": "민주당 출신 서철모 전 시장 홍형선 국힘 후보 공개 지지",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081352"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:20:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금④",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037986?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:26:00 +0900",
-        "title": "서철모 전 화성시장, 국민의힘 홍형선 화성갑 후보 지지선언",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401029573765"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:24:00 +0900",
-        "title": "국민의힘 화성시갑 홍형선 후보 지지 선언 이어져…서철모 전 화성시장, 전·...",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1106980"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "홍형선",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2005842
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-1.jpg",
+        "id": "2414801-1",
+        "재산": 973658,
+        "생년월일": "19651220",
+        "경력": "(현)제21대 국회의원(화성시갑선거구)\n(전)제21대 국회 환경노동위원회 위원장",
+        "학력": "연세대학교 행정대학원 졸업(행정학 석사)",
+        "직업": "국회의원",
+        "성별": "여",
+        "id_21th": "938",
+        "regionId": "2414801",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 14:10:00 +0900",
+                "title": "'정권 심판론'이 삼켜버린 동탄 '독립시 승격'…후보 지지에는 영향 없어",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278105?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:39:00 +0900",
+                "title": "화성시갑 민주당 송옥주ㆍ국힘 홍형선 후보, 노인대학서 지지호소 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037903?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:24:00 +0900",
+                "title": "화성갑, 동탄 분시… 국힘  인프라 부족 반대 - 민주  불균형 해소 타당 ",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003539"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:42:00 +0900",
+                "title": "부활절 맞아 후보들 성당·교회로…차분함 속 열띤 유세(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448588?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:05:00 +0900",
+                "title": "[D-10] 교회로, 성당으로…경기 격전지 '부활절' 표심잡기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447734?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:02:00 +0900",
+                "title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:22:00 +0900",
+                "title": "이재명,  4월 10일은 국민이 승리하는 날...지인에게 투표 독려해 달라 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307262"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:04:00 +0900",
+                "title": "한동훈  쓰레기 같은 말들  vs 이재명  與 엄살 속지 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879943?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:03:00 +0900",
+                "title": "민주, 수도권 화력 집중… 與 과반 차지하면 나라 끝장 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399470?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:58:00 +0900",
+                "title": "민주  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599841?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:50:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460584?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:34:00 +0900",
+                "title": "김부겸, 수원·화성·용인 등 경기도 집중유세 나서",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787727"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:31:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460510?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:52:00 +0900",
+                "title": "이재명  여당 읍소작전 속지말라 …첫 주말 '한강벨트' 화력 집중",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240330010017747"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:54:00 +0900",
+                "title": "이재명  여당 읍소작전 속지 말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143121?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:30:00 +0900",
+                "title": "이재명  이번 총선 투표해달라 …첫 주말 '한강벨트' 집중",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809168?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:26:00 +0900",
+                "title": "민주당, ‘한강 벨트’·‘반도체 벨트’ 돌며 수도권 집중 공략",
+                "link": "https://www.etoday.co.kr/news/view/2345924"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:16:00 +0900",
+                "title": "민주당, 총선 첫 주말 ‘수도권’ 집중 공략",
+                "link": "http://www.kukinews.com/newsView/kuk202403300025"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:04:00 +0900",
+                "title": "민주  與 읍소작전 속지말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599609?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:36:00 +0900",
+                "title": "여야, 주말 '수도권 대전'…격전지 집중 유세",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990246"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:18:00 +0900",
+                "title": "이재명, 30일 서울 송파·광진·마포 등 '한강벨트' 지원 유세",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469820"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:08:00 +0900",
+                "title": "[4·10 총선]더불어민주당 김부경 상임공동선대위원장, 경기지역 집중 유세",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242158"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:49:00 +0900",
+                "title": "이재명, '공식선거운동 첫 주말' 한강 벨트 공략…민주당, 수도권 집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870078?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:25:00 +0900",
+                "title": "선거운동 첫 주말, 여야 '접전지' 서울·수도권 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070217?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:59:00 +0900",
+                "title": "한동훈·이재명, 선거운동 첫 주말 수도권 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262813?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:42:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 ‘한강벨트’ 집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288084?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:36:00 +0900",
+                "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
+                "link": "http://www.metroseoul.co.kr/article/20240330500001"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:35:00 +0900",
+                "title": "이재명, 선거운동 첫 주말···서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809125?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:15:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 강행군…'한강벨트' 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320853?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:46:00 +0900",
+                "title": "선거운동 첫 주말, 與野 모두 '접전지' 서울·수도권 집중 공략",
+                "link": "https://www.ajunews.com/view/20240330083140142"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:10:00 +0900",
+                "title": "이재명, 선거운동 첫 주말.. 서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058437?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:36:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 '접전지' 서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599360?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(30일, 토)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446446?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:46:00 +0900",
+                "title": "[열전 25시] 3월 29일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037692?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:30:00 +0900",
+                "title": "[이슈추적] '수원 군공항' 복잡한 방정식, 당내 해결법도 제각각",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240329010003453"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:28:00 +0900",
+                "title": "전용기 화성정 후보 선거사무소 개소식서 '민주당 원팀' 공식 선언",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079878"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:17:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 23일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037043?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:27:00 +0900",
+                "title": "[4·10총선 후보 등록]경기 화성 12명…현직 국회의원 5명",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445722?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:00:00 +0900",
+                "title": "[총선 격전지] '화성갑' 송옥주  진보 수성  vs 홍형선  보수 탈환 ",
+                "link": "https://www.newspim.com/news/view/20240321001008"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:05:00 +0900",
+                "title": "물 재이용 강화·전기차 융자 확대…기후·환경 법률안 무더기 폐기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428955?sid=101"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:02:00 +0900",
+                "title": "선거철 반복되는 수원 군공항 공약…같은 당도 지역마다 ‘상반’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786554"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:25:00 +0900",
+                "title": "[총선 격전지] 개발 더딘 화성갑…'송옥주 vs 홍형선' 발전방안 앞다퉈",
+                "link": "https://www.newspim.com/news/view/20240321000644"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:18:00 +0900",
+                "title": "송옥주 의원, 홍성규 후보와 22대 총선 승리 위해 연대 결의",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846546"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:42:00 +0900",
+                "title": "비례 공천 끝낸 野, 지역구 '단일화'···'정권 심판' 화력 집중",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103837"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:26:00 +0900",
+                "title": "송옥주 의원, 홍성규 후보와 22대 총선 승리 위해 연대 결의",
+                "link": "http://www.breaknews.com/1022281"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:12:00 +0900",
+                "title": "송옥주 의원, 홍성규 후보와 22대 총선 승리 위해 연대 결의",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103668"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 03:05:00 +0900",
+                "title": "비례 3석 받고 무늬만 경선… 민주당 몰아준 진보당",
+                "link": "https://n.news.naver.com/mnews/article/023/0003823482?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:54:00 +0900",
+                "title": "野 민주 중심으로 속속 단일화…커지는 진보당 존재감",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425129?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:40:00 +0900",
+                "title": "경기도내 더불어민주당·진보당 18곳 단일화…총선에서 변수될까",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240320024160194"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:17:00 +0900",
+                "title": " 수원군공항 이전 반드시 막아내겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426654?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:34:00 +0900",
+                "title": "경기 선거구 22곳 민주·진보 단일화 마무리…모두 민주",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786412"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:32:00 +0900",
+                "title": "민주당-진보당, 경기지역 18곳서 야권 단일화 ... 성남중원·화성갑 등 6곳은...",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=408606"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:58:00 +0900",
+                "title": "민주당-진보당, 경기지역 18곳서 야권 단일화",
+                "link": "https://n.news.naver.com/mnews/article/421/0007422861?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:48:00 +0900",
+                "title": "[4.10총선-80] 화성갑, 송옥주vs홍형선. 보수정당의 화성 마지막 승부처?",
+                "link": "http://www.mhj21.com/159959"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 01:02:00 +0900",
+                "title": "국민의힘, 최대 승부처 '반도체 벨트' 공략 총력",
+                "link": "https://www.ajunews.com/view/20240318150923526"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:16:00 +0900",
+                "title": "민주당, 진보당과 경기지역 '야권 연대' 藥일까 毒일까",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078641"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:16:00 +0900",
+                "title": "민주 도당 선대위는 매머드급 5선·4선·장관 출신 다 모였다",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078616"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:06:00 +0900",
+                "title": "양당 경기도당 총선 체제 전환",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239735"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:00:00 +0900",
+                "title": "송옥주 의원, 화성갑 야권 단일후보로 확정",
+                "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=194155"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:06:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 18일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036551?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:50:00 +0900",
+                "title": "경기지역 6곳 야권단일화 경선 결과…민주당 후보로 단일화 결정",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036547?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:46:00 +0900",
+                "title": "송옥주 의원, 화성갑 야권 단일후보로 확정",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1102778"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:42:00 +0900",
+                "title": "더불어민주당 경기도당 안민석·박광온 필두로 메머드급 선대위 구성",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641851"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:34:00 +0900",
+                "title": "송옥주 의원, 정권 심판 앞장설 화성갑 야권 단일후보로 확정",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1844632"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:43:00 +0900",
+                "title": "공천 탈락 안민석·박광온 '선당후사'…민주당 경기도당 상임 선대위원장 합류",
+                "link": "https://n.news.naver.com/mnews/article/629/0000274331?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:46:00 +0900",
+                "title": "총선 최대 승부처 경기도, 60석 여야 대진표 확정…수원 빅매치와 화성·용인...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15469180"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:38:00 +0900",
+                "title": "총선 최대 승부처 경기도, 60석 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012433673?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:02:00 +0900",
+                "title": "민주당·진보당 후보 '단일화'… 4·10총선, 민주세력 총단결 이뤄야 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239587"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:39:00 +0900",
+                "title": "화성갑, 민주당 송옥주 의원으로 민주진보 단일후보 확정",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426229?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:08:00 +0900",
+                "title": "송옥주 화성갑 야권단일후보 경선 승리… 양자대결로 압축",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240318022099749"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:00:00 +0900",
+                "title": "만주당 경기도당, 메머드급 선대위 구성 완료",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213275"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 12:56:00 +0900",
+                "title": "[4·10총선] 민주당 경기도당, 메머드급 선대위 구성 완료...상임공동선대위원...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239573"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 12:20:00 +0900",
+                "title": "&lt;이슈&amp;인물&gt; 부리나케 떠난 이종섭",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=242833"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:14:00 +0900",
+                "title": "민주당 경기도당, 메머드급 선대위 구성 완료",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/18/2024031800090.html"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:08:00 +0900",
+                "title": "민주당 경기도당, 안민석·박광온·정성호 등 중진 중심 선대위 구성",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240318027169707"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:08:00 +0900",
+                "title": " ONE팀을 뛰어넘는 WIN팀 … 민주당 경기도당, 메머드급 선대위 구성",
+                "link": "https://n.news.naver.com/mnews/article/002/0002323817?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:06:00 +0900",
+                "title": "민주 경기도당, ‘메머드급 선대위’ 구성 완료…“압승 목표”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=785906"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:50:00 +0900",
+                "title": "민주당 경기도당, 안민석·박광온 등 매머드급 선대위 구성",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432807?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:34:00 +0900",
+                "title": "낙천 ‘안민석·전해철·박광온’ 경기도당 선대위 합류…“도 전역 파란깃발...",
+                "link": "https://n.news.naver.com/mnews/article/421/0007417621?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:16:00 +0900",
+                "title": "더불어민주당 경기도당, 메머드급 선대위 구성 완료",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3012869"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:12:00 +0900",
+                "title": "[22 총선] 더불어민주당 경기도당, 메머드급 선대위 구성 완료",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304135"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:29:00 +0900",
+                "title": "화성갑 민주 송옥주, 야권 단일 후보로",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432400?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 06:02:00 +0900",
+                "title": "이재명, 경기 남부권 이어 오늘 '서울 경의선숲길' 거리인사",
+                "link": "https://n.news.naver.com/mnews/article/018/0005694265?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:22:00 +0900",
+                "title": "민주 송옥주 선거캠프 열고  화성시민에 진심 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078371"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:22:00 +0900",
+                "title": "여야 대표 경기도서 막판 표심 잡기에 사활",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078373"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 19:26:00 +0900",
+                "title": "[영상+] 후보등록 앞둔 마지막 주말대전… 여야, 경기도서 '바람몰이'",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240318010001871"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:19:00 +0900",
+                "title": "이재명, 수도권 ‘반도체벨트’ 찾아  151석 목표 ",
+                "link": "https://n.news.naver.com/mnews/article/014/0005157276?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:04:00 +0900",
+                "title": "이재명, 연이틀 경기 ‘道心공략’…접전지역서 ‘정권심판’ 호소",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=785844"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:03:00 +0900",
+                "title": "[영상] 이재명, 화성 동탄 찾아 지지 호소… 4·10 총선 국민 승리의 날 ",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036401?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:48:00 +0900",
+                "title": "이재명 대표 주말 내내 경기남부지역 찾아 지지호소…  '이채양명주', 尹식 공...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641645"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:44:00 +0900",
+                "title": "[총선]  과반 넘겨주면 나라 망해  이재명, 화성동탄 찾아 표심 공략",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383359"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:44:00 +0900",
+                "title": " 목 쉬도록 다닐 것  동탄 유세 이재명에 지지자들  잘생겼다  화답",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431908?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 16:29:00 +0900",
+                "title": "이재명 수도권 ‘반도체벨트’ 집중 공략..151석 포부 밝혀[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005157212?sid=100"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "송옥주",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 709865
+            },
+            {
+                "연도": 2021,
+                "재산": 886569
+            },
+            {
+                "연도": 2022,
+                "재산": 928728
+            },
+            {
+                "연도": 2023,
+                "재산": 973658
+            }
+        ],
+        "huboid": "100152297",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4148/Hb100152297/junkwa/20240119171214113_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-2.jpg",
+        "id": "2414801-2",
+        "재산": 2005842,
+        "생년월일": "19680127",
+        "경력": "(전)국회사무처 사무차장\n(전)국회예산정책처 조세분석심의관",
+        "학력": "연세대학교 대학원 졸업(행정학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2414801",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 22:08:00 +0900",
+                "title": "홍형선 후보  미래먹거리, 바이오산업 육성하겠다  다짐",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48305"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:52:00 +0900",
+                "title": "[열전 25시] 4월 2일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038091?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "홍형선 화성갑 후보, '화성시 4개 구청 설치' 특별 공약 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081482"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:22:00 +0900",
+                "title": "홍형선 국민의힘 화성갑 후보, 화성시 4개 구청 설치 특별 공약 내놔",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788235"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:22:00 +0900",
+                "title": "홍형선 화성갑 후보, ‘화성시 4개 구청 설치’ 특별공약 발표",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402023364090"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:28:00 +0900",
+                "title": "[총선 D-8] 국민의힘 홍형선 화성갑 후보 '화성시 4개 구청 설치' 공약 발표",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026359"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:10:00 +0900",
+                "title": "'정권 심판론'이 삼켜버린 동탄 '독립시 승격'…후보 지지에는 영향 없어",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278105?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "여, 수도권 위기감에 늘어난 '하얀 점퍼'… 인물·공약 봐달라 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465799?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:54:00 +0900",
+                "title": "홍형선 국민의힘 화성시갑 후보, 화성시 4개 구청 설치 추진 특별공약 발표",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644911"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+                "title": "민주당 출신 서철모 전 시장 홍형선 국힘 후보 공개 지지",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081352"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:20:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037986?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:26:00 +0900",
+                "title": "서철모 전 화성시장, 국민의힘 홍형선 화성갑 후보 지지선언",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401029573765"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:24:00 +0900",
+                "title": "국민의힘 화성시갑 홍형선 후보 지지 선언 이어져…서철모 전 화성시장, 전·...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106980"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:39:00 +0900",
+                "title": "화성시갑 민주당 송옥주ㆍ국힘 홍형선 후보, 노인대학서 지지호소 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037903?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:20:00 +0900",
+                "title": "서철모 전 화성시장, 국힘 홍형선 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462023?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:53:00 +0900",
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:24:00 +0900",
+                "title": "화성갑, 동탄 분시… 국힘  인프라 부족 반대 - 민주  불균형 해소 타당 ",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003539"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:42:00 +0900",
+                "title": "부활절 맞아 후보들 성당·교회로…차분함 속 열띤 유세(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448588?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:05:00 +0900",
+                "title": "[D-10] 교회로, 성당으로…경기 격전지 '부활절' 표심잡기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447734?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:32:00 +0900",
+                "title": "화성시갑 찾은 한동훈 비대위원장,  홍형선 28년 동안 국회 살림살이를 모두 ...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106654"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:19:00 +0900",
+                "title": "국힘 화성갑 홍형선  내 뒷배는 한동훈 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460410?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 00:00:00 +0900",
+                "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:16:00 +0900",
+                "title": "[포토] 경기 화성 지원유세 나선 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900319.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:14:00 +0900",
+                "title": "[포토] 지지호소하는 홍형선 화성갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900317.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:41:00 +0900",
+                "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:10:00 +0900",
+                "title": "화성·안산 찾은 한동훈  사익 위해 정치하는 민주·조국당 막아야 ",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037730?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:39:00 +0900",
+                "title": "한동훈, 선거운동 둘째날 조국 맹공격…화성서 '공영운 비난'(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459865?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:29:00 +0900",
+                "title": "[현장] '빗속 유세' 한동훈, 박은정 연거푸 소환… 조국 장난하나 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824518?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:46:00 +0900",
+                "title": "[열전 25시] 3월 29일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037692?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:30:00 +0900",
+                "title": "홍형선 국민의힘 화성시갑 후보, 화성소방서 앞에서 출정식 갖고 본격 총선 레...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644250"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:16:00 +0900",
+                "title": "홍형선 후보, '국회의원 선거 필승 다짐'···  화성갑 권리 찾겠다 ",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48154"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:28:00 +0900",
+                "title": "국민의힘 화성시갑 홍형선 후보, 본격 선거 레이스 돌입",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558106"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+                "title": "국힘 화성갑 홍형선  4월 총선 승리해 화성시갑의 권리를 찾겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457837?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:30:00 +0900",
+                "title": "[이슈추적] '수원 군공항' 복잡한 방정식, 당내 해결법도 제각각",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240329010003453"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:39:00 +0900",
+                "title": "[이슈] 문재인·박근혜·이명박, 전직 대통령 총선 행보 본격화",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641017"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:58:00 +0900",
+                "title": "홍형선 후보 “의료대란 해결, 무기한 상설협의체 구성해야”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849722"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "한동훈 반도체 콕 집어 민심 공략",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:46:00 +0900",
+                "title": "수원 찾은 한동훈, “반도체 특별법 발의”…민주당 때리기 병행 [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037529?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:06:00 +0900",
+                "title": "[르포] 울컥한 한동훈  민주당 비동의간음죄 공약이 실수? 분위기 안 좋으니 ...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240327010016349"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:46:00 +0900",
+                "title": "한동훈  국회 첫 법안은 '반도체 특별법'…여러분 잘사는 것에만 관심 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017966?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:37:00 +0900",
+                "title": "[현장] 한동훈, 주춤한 '수원탈환' 지원사격  시작과 마지막 이곳서 하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814181?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:10:00 +0900",
+                "title": "한동훈, 수원서 공식선거 전 마지막 유세…  서서 죽겠다는 각오 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643917"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:44:00 +0900",
+                "title": "[4·10총선] 국힘 수원, 용인, 화성, 오산 후보들  반도체 산업 특별법 국회 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241689"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:28:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037508?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:20:00 +0900",
+                "title": "[영상+] 한동훈 “경기 남부에서 승리해 ‘반도체 지원 특별법’ 발의하겠다”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327027052563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:17:00 +0900",
+                "title": "한동훈, 인천·수원서  범죄자들 아닌 우릴 선택해달라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454320?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:44:00 +0900",
+                "title": "국힘 화성갑 홍형선  의료대란 막게 의·당·정 상설협의체를 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454251?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:04:00 +0900",
+                "title": "홍형선 화성갑 후보, '의료대란 해법, 의당정 무기한 상설협의체 운영 '제안",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080405"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:36:00 +0900",
+                "title": "화성시 ‘분시·동탄독립시’ 동력, 총선 민심 따라 성사여부 결정",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327022072419"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 04:42:00 +0900",
+                "title": "한동훈, 박근혜에 '구애'…수도권위기론 속 '명분'도 논란",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878387?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:04:00 +0900",
+                "title": " 자동차 모빌리티 항만물류시대 맞이 '화성항' 조성할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427461?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:51:00 +0900",
+                "title": "[이슈] 여야, 총선용 메가시티 공약 봇물.. 경기분도·부울경·충청 이어 '반...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640412"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:38:00 +0900",
+                "title": "경기 화성시 을 한정민 후보, 지역 주민에게 뜨거운 프로포즈로 후보 개소식 ...",
+                "link": "https://www.geconomy.co.kr/news/article.html?no=283166"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:27:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037127?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:26:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037126?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:48:00 +0900",
+                "title": "화성갑 홍형선 북한이탈주민들 만나 한국 정착 애로 청취",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079622"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:02:00 +0900",
+                "title": "국민의힘 화성시갑 홍형선 후보, 화성시 정착 북한이탈주민들과 간담회 가져",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847629"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:56:00 +0900",
+                "title": "홍형선 국민의힘 화성시갑 국회의원 후보, 북한이탈주민 20여 명과 간담회 개...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642992"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:54:00 +0900",
+                "title": "국민의힘 화성시갑 홍형선 후보, 화성시 정착 북한이탈주민들과 간담회 가져",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104445"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:39:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 23일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037049?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:27:00 +0900",
+                "title": "[4·10총선 후보 등록]경기 화성 12명…현직 국회의원 5명",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445722?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:00:00 +0900",
+                "title": "[총선 격전지] '화성갑' 송옥주  진보 수성  vs 홍형선  보수 탈환 ",
+                "link": "https://www.newspim.com/news/view/20240321001008"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:02:00 +0900",
+                "title": "선거철 반복되는 수원 군공항 공약…같은 당도 지역마다 ‘상반’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786554"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:25:00 +0900",
+                "title": "[총선 격전지] 개발 더딘 화성갑…'송옥주 vs 홍형선' 발전방안 앞다퉈",
+                "link": "https://www.newspim.com/news/view/20240321000644"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:18:00 +0900",
+                "title": "국힘 화성시갑 홍형선 후보, '비봉지정폐기물 반대추진위' 참석",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846543"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:08:00 +0900",
+                "title": "홍형선 국민의힘 화성갑 후보, 비봉 지정폐기물매립장 반대 주민들과 간담회 ...",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786480"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:16:00 +0900",
+                "title": "국민의힘 화성시갑 홍형선 후보, 비봉 지정폐기물매립장 3km 거리 주거밀집지...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103673"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:08:00 +0900",
+                "title": "‘김포구’ ‘동탄시’… 행정개편 논란 확산",
+                "link": "https://www.naeil.com/news/read/504891?ref=naver"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 08:56:00 +0900",
+                "title": "화성시갑 홍형선 후보, 국민의힘 중앙선대위 발대식 및 공천자대회 참석",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103227"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:48:00 +0900",
+                "title": "[4.10총선-80] 화성갑, 송옥주vs홍형선. 보수정당의 화성 마지막 승부처?",
+                "link": "http://www.mhj21.com/159959"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:42:00 +0900",
+                "title": "국민의힘 후보 22명, 제22대 국회 제1호 법안으로 반도체 메가시티 특별법 제...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=685109"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 01:02:00 +0900",
+                "title": "국민의힘, 최대 승부처 '반도체 벨트' 공략 총력",
+                "link": "https://www.ajunews.com/view/20240318150923526"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:58:00 +0900",
+                "title": "與 경기남부 후보들  22대 국회 1호 법안... 반도체특별법 제정  약속",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47686"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:16:00 +0900",
+                "title": "최영근 선거사무소 개소… 화성 교통 등 현안 해결 약속",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078612"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:49:00 +0900",
+                "title": "경기남부 국민의힘 후보들 '반도체 메가시티 특별법' 약속",
+                "link": "https://n.news.naver.com/mnews/article/018/0005695054?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:10:00 +0900",
+                "title": "국힘 경기남부 후보, '190만 개의 일자리' 창출을 위한 특별법 제정 약속",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=578243"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:50:00 +0900",
+                "title": "'경기 반도체 메가시티' 국민의힘 1호 특별법 건의",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641865"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:47:00 +0900",
+                "title": "국힘 경기화성병 최영근  전 화성시장으로 현안 해결 보여 줄 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012434429?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:30:00 +0900",
+                "title": "'경기 남부권역에 청년 위주 일자리 190만개' 만들겠다",
+                "link": "http://www.m-economynews.com/news/article.html?no=42494"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:20:00 +0900",
+                "title": " 경기 남부권역에 청년 일자리 190만개, 한국형 실리콘밸리 만들겠다 ",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1021989"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:16:00 +0900",
+                "title": "與 경기 남부권역 후보들  경기 남부를 한국형 실리콘밸리로 만들겠다 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=218593"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:10:00 +0900",
+                "title": "與, 경기남부 판 키운다…“특별법 제정해 반도체 메가시티 조성”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=785960"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:53:00 +0900",
+                "title": "[총선] 국민의힘 경기 후보 22명  반도체 메가시티 특별법 제정할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000989632?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:30:00 +0900",
+                "title": "경기 남부권 국힘 후보 22명, “한국형 실리콘밸리 만들겠다”",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=688411"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:20:00 +0900",
+                "title": "“경기남부, 반도체 메가시티”…與 후보들, 22대 국회서 법제화",
+                "link": "http://www.kukinews.com/newsView/kuk202403180204"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:02:00 +0900",
+                "title": "최영근 예비후보  지역 현안 해결 노하우 제대로 보여드리겠다 ",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47675"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:01:00 +0900",
+                "title": "與 '반도체 벨트' 후보들 뭉쳤다… 반도체 메가시티 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000821251?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:42:00 +0900",
+                "title": "국민의힘 화성시병 최영근 예비후보, 선거사무소 개소…필승 다짐",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1102687"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:10:00 +0900",
+                "title": "“한국형 실리콘밸리 만들 것” 국민의힘 후보 22명 ‘원팀 결의’",
+                "link": "http://www.mhj21.com/159910"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:04:00 +0900",
+                "title": "최영근 국힘 화성병 후보, 병점 메인프라자빌딩에 선거사무소 개소",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641750"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:46:00 +0900",
+                "title": "총선 최대 승부처 경기도, 60석 여야 대진표 확정…수원 빅매치와 화성·용인...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15469180"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "홍형선",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2005842
+            }
+        ],
+        "huboid": "100151053",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4148/Hb100151053/junkwa/20231218111955583_1.PDF"
+    }
 ]

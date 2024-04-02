@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 3,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-1.jpg",
-    "id": "2111502-1",
-    "재산": 1104551,
-    "생년월일": "19580212",
-    "경력": "(현)더불어민주당 국회의원\n(전)대통령비서실 시민사회수석",
-    "학력": "서울대학교 토목공학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1049",
-    "regionId": "2111502",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:36:00 +0900",
-        "title": "'TK 석권' 비상 걸린 국힘'이삭줍기' 당력 집중 민주",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990589"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:14:00 +0900",
-        "title": "양천구 국회의원 선거 후보자 토론회 열려",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461601"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:48:00 +0900",
-        "title": "[여론조사꽃] 서울 서대문갑, 민주 김동아 41.4% 국힘 이용호 28.4%",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347597"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-        "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이용선",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 733235
-      },
-      {
-        "연도": 2021,
-        "재산": 1033819
-      },
-      {
-        "연도": 2022,
-        "재산": 1051990
-      },
-      {
-        "연도": 2023,
-        "재산": 1104551
-      }
-    ]
-  },
-  {
-    "전과건수": 3,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-2.jpg",
-    "id": "2111502-2",
-    "재산": 1385042,
-    "생년월일": "19640308",
-    "경력": "(전)양천구을 국회의원\n(전)LG디스플레이 상임고문",
-    "학력": "서울대학교 사회과학대학 외교학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111502",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:16:00 +0900",
-        "title": "與 후보 지원 나선 유승민  R&D 예산 삭감 반성…매 맞겠다 ",
-        "link": "http://www.goodkyung.com/news/articleView.html?idxno=233242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:59:00 +0900",
-        "title": "유승민  R&D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:44:00 +0900",
-        "title": "유승민, 대전 지원… R&D 예산삭감 반성…매 얼마든 맞겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603764?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:17:00 +0900",
-        "title": "'포스트 4·10' 겨냥…보폭 넓히는 유승민",
-        "link": "https://n.news.naver.com/mnews/article/011/0004321757?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "오경훈",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1385042
-      }
-    ]
-  }
+    {
+        "전과건수": 3,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-1.jpg",
+        "id": "2111502-1",
+        "재산": 1104551,
+        "생년월일": "19580212",
+        "경력": "(현)더불어민주당 국회의원\n(전)대통령비서실 시민사회수석",
+        "학력": "서울대학교 토목공학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1049",
+        "regionId": "2111502",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "양천을 이용선 후보  상속 지분 11분의 2로 정정 ",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461784"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "음주운전에 관대한 총선…후보자 697명중 ‘음주 전과자’가 무려",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322209?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:36:00 +0900",
+                "title": "'TK 석권' 비상 걸린 국힘'이삭줍기' 당력 집중 민주",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990589"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:14:00 +0900",
+                "title": "양천구 국회의원 선거 후보자 토론회 열려",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461601"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:48:00 +0900",
+                "title": "[여론조사꽃] 서울 서대문갑, 민주 김동아 41.4% 국힘 이용호 28.4%",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347597"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+                "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+                "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:48:00 +0900",
+                "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:32:00 +0900",
+                "title": "시민유권자운동본부, 총선 출마 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104566"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "더불어민주당 양천을 이용선 후보, 신정네거리역서 선거운동 출정식",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850465"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:44:00 +0900",
+                "title": " 승리 자신 … 포항 총선 출마자들 '빗속의 출정식'",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990179"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:44:00 +0900",
+                "title": "이상휘 59.2% 앞서… 김상헌 27.7% 추격",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990152"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:22:00 +0900",
+                "title": "포항· 울릉 총선 후보들 죽도시장 등서 일제히 출정식",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:34:00 +0900",
+                "title": "국회에서 코인 거래하더니...김남국, 가상자산 15억 신고 1위",
+                "link": "https://n.news.naver.com/mnews/article/024/0000088220?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:20:00 +0900",
+                "title": "안철수, 국회의원 최고 자산가..김남국, 코인 보유 1위",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84474"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:26:00 +0900",
+                "title": "김남국 의원 가상자산 15억원 신고…국회의원 독보적 1위",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287127?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:28:00 +0900",
+                "title": "공직자 가상자산 보유도 '다수'...김남국 '15억원 이상 보유' 신고",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318595"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:54:00 +0900",
+                "title": "총선 공식 선거 운동 첫날...포항 출마 후보들 지지호소 경쟁",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990036"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:19:00 +0900",
+                "title": "국회 코인 부자는 '15억' 김남국… 재산 1위는 안철수 1401억",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084727?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 04:07:00 +0900",
+                "title": "김남국 가상자산 15억4643만원 1위… 2000만원 이상 5명",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684325?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:58:00 +0900",
+                "title": "[총선을 뛴다]④운동권 출신 95명 출마…선거판 달구는 '운동권 대첩'",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701466?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:24:00 +0900",
+                "title": "양천을 이용선 후보, 강서양천학원운영협의회와 정책간담회 개최",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849438"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:04:00 +0900",
+                "title": "“총선 공약? 다 똑같아”…한강벨트 양천을, ‘정책보단 정당’ [주목! 이 선...",
+                "link": "http://www.kukinews.com/newsView/kuk202403260322"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:06:00 +0900",
+                "title": "서울 양천을 이용선 후보, 양천구청노조와 정책간담회",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849029"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+                "title": "[총선여론] 수도권, 국힘 20곳·민주 87곳 '우세·경합우세' 전망.. 동작을 제...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640634"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:08:00 +0900",
+                "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4·10 총선 D-15, 우세지역 與 82 vs 野 110‥중도·부동층 민심 밀집한 '서울...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219388"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:40:00 +0900",
+                "title": "여야 총선 전망, 국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021689"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:47:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+                "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:50:00 +0900",
+                "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
+                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:46:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:46:00 +0900",
+                "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:44:00 +0900",
+                "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:24:00 +0900",
+                "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:22:00 +0900",
+                "title": "총선 D-15 우세지역…국힘  82곳 ·민주  110곳 ",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436028"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:06:00 +0900",
+                "title": "[나는 후보자다] 양천을 더불어민주당 이용선 후보",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460688"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:19:00 +0900",
+                "title": "'총선 D-15' 우세지역 묻자…국힘  82곳 ·민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964472?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:51:00 +0900",
+                "title": "양당이 분석한 '우세 지역'… 국민의힘  82곳 ·민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069769?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:46:00 +0900",
+                "title": "총선 D-15, 국민의힘 82곳·민주 110곳 ‘우세’… 막판 혼전 예상",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980675?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 03:01:00 +0900",
+                "title": "음주운전 전과 총선후보, 국힘 22명-민주 21명",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555237?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:14:00 +0900",
+                "title": "음주운전·음주측정거부 전과 공천자…국민의힘 24명-민주당 21명",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555201?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:51:00 +0900",
+                "title": "“대통령님, 우리 동네엔 버스만 있고 지하철은 없어요…그래서 누구 찍을거냐...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278025?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:50:00 +0900",
+                "title": "[4.10 총선] 이용선 민주당 양천을 후보, 공공연맹과 정책협약식",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202403251740573225f83bf132e7_1/article.html"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:38:00 +0900",
+                "title": "민주당 김문수 후보, 시민 캠프 개소식 개최",
+                "link": "http://www.siminsori.com/news/articleView.html?idxno=260954"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:46:00 +0900",
+                "title": "[비대면 토론회] 양천을 이용선 vs 오경훈",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460676"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:32:00 +0900",
+                "title": "서울 양천을 이용선 후보 기자간담회, “목동선 관철시키겠다”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848077"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:44:00 +0900",
+                "title": "'후보=전과자?', 총선 후보 10명 가운데 3명이 전과",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318335"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:40:00 +0900",
+                "title": "순천 김문수 후보, 시민캠프 개소식 ‘북적 북적’…1500여명 몰려",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439382?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:06:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력 분석…② 음주운전",
+                "link": "https://www.kpinews.kr/newsView/1065602345312237"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 09:02:00 +0900",
+                "title": "양천을 이용선 후보 출정식, “양천을의 압승을 이끌어주시라”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847218"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:33:00 +0900",
+                "title": "국회의원 후보 35% '빨간줄' 재산 1위 안철수 아닌 김복덕",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276960?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:15:00 +0900",
+                "title": "위험천만한 남북관계, 국회도 책임져야 합니다",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427047?sid=104"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "“김복덕을 아시나요”...안철수 제치고 총선후보 재산 1등이라는데",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276917?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:22:00 +0900",
+                "title": "민주당, ‘이종섭 출국’ 관련 윤석열과 대통령실 관계자 공수처에 또 고발",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346602"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:34:00 +0900",
+                "title": "22대 국회의원 선거 양천구 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460539"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:58:00 +0900",
+                "title": "총선 첫날 등록 후보 33% 전과자…최다 전과 보유자는 8범",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433000"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:44:00 +0900",
+                "title": "22대 총선 첫날 등록 후보 33% '전과자'",
+                "link": "https://n.news.naver.com/mnews/article/215/0001153994?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:53:00 +0900",
+                "title": "총선 후보 등록 첫날 10명 중 3명 전과자… ‘전과 8범’도",
+                "link": "https://n.news.naver.com/mnews/article/022/0003916707?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:17:00 +0900",
+                "title": "22대 총선 첫날 등록 후보 33% 전과자…'전과 8범' 기록도(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581262?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:51:00 +0900",
+                "title": "22대 총선 첫날 등록 후보 311명… 38%는 전과 보유",
+                "link": "https://n.news.naver.com/mnews/article/366/0000979838?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:36:00 +0900",
+                "title": "22대 총선 첫날 등록 후보 중 38%가 전과자…최다는 전과 8범",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348990?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[속보] 22대 총선후보 38%가 전과 보유…전과 8범 기록도",
+                "link": "https://n.news.naver.com/mnews/article/029/0002862710?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:01:00 +0900",
+                "title": "전과 8범이 이번 총선에 출마?…22대 총선후보 38% 전과",
+                "link": "https://n.news.naver.com/mnews/article/011/0004316802?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:55:00 +0900",
+                "title": "22대 총선 첫날 등록 후보 38% 전과 보유…8범 기록도",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581035?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580729?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:22:00 +0900",
+                "title": "민주 “이종섭 귀국, 해결 아닌 시작…즉각 해임·수사해야”",
+                "link": "https://www.etoday.co.kr/news/view/2342693"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:21:00 +0900",
+                "title": "새벽 5시부터 ‘이종섭 귀국’ 사수한 민주당, 대통령실 ‘허위 공문서 작성’...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002283842?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:16:00 +0900",
+                "title": "민주당, 이종섭 귀국은 '해결' 아닌 '시작'... 즉각 해임하고 수사해야 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306735"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:20:00 +0900",
+                "title": "민주당  이종섭 대사 당장 해임하고 철저히 수사해야 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846247"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:12:00 +0900",
+                "title": "[영상] 홍익표  한동훈, 이종섭 문제 직접 해결? 해결된 것 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123024?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:45:00 +0900",
+                "title": " 이종섭은 몸통으로 가는 길  민주당, 채 상병 '쌍특검' 예고",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426761?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:24:00 +0900",
+                "title": "민주, 이종섭 귀국에  워터게이트 사건과 유사...세계적인 망신거리 ",
+                "link": "https://www.newspim.com/news/view/20240321000616"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:17:00 +0900",
+                "title": "홍익표, 이종섭 귀국에  윤 정권, 진실 숨기고 국민 속이려 해 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012441549?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:52:00 +0900",
+                "title": "민주  이종섭 귀국, 해결 아닌 시작…즉각 해임·수사하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007426698?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:40:00 +0900",
+                "title": "22대 총선 후보등록 시작…'거야심판 vs 정권심판' 총력전",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989176"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:40:00 +0900",
+                "title": "김부겸 민주당 선대위원장 , 양천 신영시장 방문",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460205"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:56:00 +0900",
+                "title": "민주당 김부겸 선대위원장,  이용선과 함께 전통시장 살리겠다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103511"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:28:00 +0900",
+                "title": "[22대총선] 양천을 이용선 VS 오경훈... 지역발전 공약 경쟁",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=578439"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:10:00 +0900",
+                "title": "이용선 “서울 서남권 관문 신영시장…관광·상업중심 육성하겠다”",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240320135501235192eef753eb_12"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:02:00 +0900",
+                "title": "국힘 후보 20%·민주 36%가 ‘전과자’…여야 최다 전과는 9범",
+                "link": "https://n.news.naver.com/mnews/article/022/0003915711?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이용선",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 733235
+            },
+            {
+                "연도": 2021,
+                "재산": 1033819
+            },
+            {
+                "연도": 2022,
+                "재산": 1051990
+            },
+            {
+                "연도": 2023,
+                "재산": 1104551
+            }
+        ],
+        "huboid": "100152304",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1115/Hb100152304/junkwa/20240321145214656_10.PDF"
+    },
+    {
+        "전과건수": 3,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-2.jpg",
+        "id": "2111502-2",
+        "재산": 1385042,
+        "생년월일": "19640308",
+        "경력": "(전)양천구을 국회의원\n(전)LG디스플레이 상임고문",
+        "학력": "서울대학교 사회과학대학 외교학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2111502",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:40:00 +0900",
+                "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:40:00 +0900",
+                "title": "'반윤본색' 유승민  왜 어려운지 다 알 것 …'중도 확장' 열쇠될까?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020102?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:16:00 +0900",
+                "title": "與 후보 지원 나선 유승민  R&amp;D 예산 삭감 반성…매 맞겠다 ",
+                "link": "http://www.goodkyung.com/news/articleView.html?idxno=233242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:59:00 +0900",
+                "title": "유승민  R&amp;D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:44:00 +0900",
+                "title": "유승민, 대전 지원… R&amp;D 예산삭감 반성…매 얼마든 맞겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603764?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:17:00 +0900",
+                "title": "'포스트 4·10' 겨냥…보폭 넓히는 유승민",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321757?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:16:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력…④재판 중인 사건",
+                "link": "https://www.kpinews.kr/newsView/1065592006602022"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:14:00 +0900",
+                "title": "양천구 국회의원 선거 후보자 토론회 열려",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461601"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:54:00 +0900",
+                "title": "여당 함운경 후보, 尹 대국민담화에  쇠귀에 경 읽기…탈당하라 ",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:21:00 +0900",
+                "title": " 尹 정부 많이 부족   유승민 와달라 …어수선한 與",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399890?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:01:00 +0900",
+                "title": "유승민·박용진·임종석…총선 열흘 앞두고 비주류도 뛴다",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321273?sid=104"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:08:00 +0900",
+                "title": "4‧10 총선 지원 유세 나선 유승민과 임종석의 공통점과 차이점은?",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78811"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:40:00 +0900",
+                "title": " 민심 순응, 의대증원 새롭게 논의를  국힘 선거사령탑 용산에 잇단 쓴소리",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864405?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:20:00 +0900",
+                "title": "[포토] 손들어 인사하는 구자룡 양천갑,오경훈 양천을 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000062.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:18:00 +0900",
+                "title": "[포토] 지지자들에 인사하는 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000061.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:16:00 +0900",
+                "title": "[포토] 구자룡·오경훈 후보 지원 나선 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000059.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:55:00 +0900",
+                "title": "유승민, 야권 출신 국민의힘 후보 지원유세… 지지층 확장",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992958?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:10:00 +0900",
+                "title": " 지지층 확장 …유승민, 야권 출신 국민의힘 후보 지원 유세 나선다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446646?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:36:00 +0900",
+                "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
+                "link": "http://www.metroseoul.co.kr/article/20240330500001"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:56:00 +0900",
+                "title": "“그러면 중도층은”…尹·與 회초리 유승민, 한동훈 안 찾아도 ‘존재감’",
+                "link": "https://www.ekn.kr/web/view.php?key=20240330029535631"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:53:00 +0900",
+                "title": "총선 입지 키우는 유승민…與 구원투수 등판할까",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703256?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:33:00 +0900",
+                "title": "국민의힘 후보들… 유승민 전 의원 '지원 유세' 요청 쇄도",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992882?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:24:00 +0900",
+                "title": " 野 200석땐 탄핵·개헌 가능 …위기의 與, 이준석에도 러브콜",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350851?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:18:00 +0900",
+                "title": "유승민 등판에 여당 수도권 후보들 'SOS'…지원유세 쇄도",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459729?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:11:00 +0900",
+                "title": "국민의힘 수도권 후보들, 유승민 전 의원에 'SOS'",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142934?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:06:00 +0900",
+                "title": "유승민 찾는 국민의힘 수도권 후보들…중도보수 표심 공략",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240329010017621"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:56:00 +0900",
+                "title": "與 수도권 후보들, 유승민에 지원 유세 요청 잇달아",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453366?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:38:00 +0900",
+                "title": "與 수도권 후보들, 유승민에 'SOS'…지원유세 요청 잇달아",
+                "link": "https://n.news.naver.com/mnews/article/001/0014598722?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:42:00 +0900",
+                "title": "체인저 벨트 '국힘 총선 후보'들도  대통령이 직접 나서달라 ",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3015975"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:31:00 +0900",
+                "title": "[단독]한동훈의 '부가세 인하' 카드… 6개월 감면 시 소비자 부담 5000억 줄어",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320278?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:24:00 +0900",
+                "title": " 지지부진한 숙원사업 확실하게 해결 … 선대위 출정식 연 與오경훈 양천을 후...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123681"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:41:00 +0900",
+                "title": "경남 진주을 선거구 후보 지지 선언 잇따라",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069856?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:12:00 +0900",
+                "title": "[오늘의 주요 정치 일정] 정치(3월28일 목요일)",
+                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=332300"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:40:00 +0900",
+                "title": "[2024년 3월 28일 정치·사회 주요일정] 한동훈 국힘 비대위원장, 망원-신촌-...",
+                "link": "https://www.mediapen.com/news/view/907687"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '이동관·검사 탄핵 철회' 권한쟁의심판 선고",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213303"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:47:00 +0900",
+                "title": "[오늘의 정치일정] 3월 28일(목)",
+                "link": "https://www.newspim.com/news/view/20240328000037"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(28일, 목)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440917?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정]정치(3월28일 목요일)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454819?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:58:00 +0900",
+                "title": "[총선을 뛴다]④운동권 출신 95명 출마…선거판 달구는 '운동권 대첩'",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701466?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:59:00 +0900",
+                "title": "한동훈 “세종으로 국회 완전 이전”···한강벨트·충청권 판세 급했나",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287143?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:22:00 +0900",
+                "title": "진주을 총선 '강민국 지지선언 vs 김병규 지지선언' 열기 후끈",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954526"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:04:00 +0900",
+                "title": "“총선 공약? 다 똑같아”…한강벨트 양천을, ‘정책보단 정당’ [주목! 이 선...",
+                "link": "http://www.kukinews.com/newsView/kuk202403260322"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:15:00 +0900",
+                "title": "진주지역 경남 도·시의원, 국힘 진주을 강민국 후보 지지선언",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452794?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:33:00 +0900",
+                "title": "“돌려받은 대출 이자로 아이 학원 한번 더”…국힘, 주택은행 부활 제안",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278601?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:22:00 +0900",
+                "title": "추억의 '주택은행' 소환한 국힘 후보들… 주담대 금리 확 낮추자 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964785?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:23:00 +0900",
+                "title": "‘탈(脫)민주’ 국민의힘 후보자 일동, ‘주택은행’ 부활 제안…“2030 영끌...",
+                "link": "https://n.news.naver.com/mnews/article/050/0000072904?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:01:00 +0900",
+                "title": "국민의힘  주택은행 부활시켜 고금리 부담 낮춰야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012450814?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:06:00 +0900",
+                "title": "[나는 후보자다] 양천을 국민의힘 오경훈 후보",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460689"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:51:00 +0900",
+                "title": "“대통령님, 우리 동네엔 버스만 있고 지하철은 없어요…그래서 누구 찍을거냐...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278025?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:46:00 +0900",
+                "title": "[비대면 토론회] 양천을 이용선 vs 오경훈",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460676"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:34:00 +0900",
+                "title": "22대 국회의원 선거 양천구 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460539"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:19:00 +0900",
+                "title": "운동권·민주 출신 與 후보들  필수생필품 부가세 10→5% 임시 인하 제안 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429697?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580729?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:28:00 +0900",
+                "title": "[22대총선] 양천을 이용선 VS 오경훈... 지역발전 공약 경쟁",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=578439"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:02:00 +0900",
+                "title": "양천을 오경훈 후보 제22대 국회의원선거 국민의힘 중앙선대위 발대식 및 공천...",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1845323"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:26:00 +0900",
+                "title": "양천을 이용선 ·오경훈 후보 3대 공약 점검",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460000"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:06:00 +0900",
+                "title": "양천을 오경훈 후보, 제22대 총선 국민의힘 중앙선대위 발대식ㆍ공천자대회 참...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103070"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:30:00 +0900",
+                "title": "국힘 지역구 후보 10명 중 2명 법조인…이번 총선도 '율사대전'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007419273?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:22:00 +0900",
+                "title": "오경훈 진주시의원  건설사 도산 4월 위기설, 대응 필요 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012434122?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 22:02:00 +0900",
+                "title": "함운경의 잇따른 내부총질에 국힘 당원들,  지역구 관리나 제대로 해라 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316246"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:12:00 +0900",
+                "title": "[단독] 나경원, 김일호 개소식 '깜짝 방문'… 선대위원장 첫 지원 방문 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002810203?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 15:54:00 +0900",
+                "title": "여권, 수도권 위기에 '이종섭 소환론' 확산…선대위서 목소리",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431742?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 15:12:00 +0900",
+                "title": "한동훈 “이종섭 즉각 귀국, 황상무 스스로 거취 결정해야”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003284966?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:18:00 +0900",
+                "title": "설욕 벼르는 국민의힘, 한강 물결 흐름 바꿔놓을까",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224787"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 09:16:00 +0900",
+                "title": "5선 국회의원 공천 무너뜨린 '풀뿌리 지역 언론'... 대통령 민생토론회 호남 ...",
+                "link": "http://www.jbsori.com/news/articleView.html?idxno=13364"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 21:44:00 +0900",
+                "title": "민주당 출신 국힘 후보들  이종섭 자진 귀국해 수사 받아야 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007415657?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 21:01:00 +0900",
+                "title": "야당 출신 與후보 9명  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042234?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 20:01:00 +0900",
+                "title": "함운경 등 야권 출신 여당 후보 8명  이종섭 자진 귀국해 수사 받으라 ",
+                "link": "https://n.news.naver.com/mnews/article/469/0000790798?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 19:24:00 +0900",
+                "title": "함운경 등 與후보 8명  이종섭 귀국하라…국격 떨어져 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005012686?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 18:46:00 +0900",
+                "title": "함운경 등 野출신 與후보 9명  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://www.ngonews.kr/news/articleView.html?idxno=148575"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 18:02:00 +0900",
+                "title": "'野출신' 국힘 총선 후보 9명  이종섭, 자진 귀국해야 ",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403161735230800160"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:52:00 +0900",
+                "title": "함운경·임재훈 여당 후보들, 이종섭 자진귀국 강력 촉구",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2945462"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:47:00 +0900",
+                "title": "운동권 출신 與후보 9명  이종섭, 자진 귀국해 수사 받아라 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003347776?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:32:00 +0900",
+                "title": "야권 출신 국힘 후보들 “이종섭 출국 ‘공정’ 어긋나…귀국해 수사 받아야”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001260497?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:28:00 +0900",
+                "title": "함운경 등 민주 출신 與후보 9명  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=533753"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:13:00 +0900",
+                "title": "함운경 등 野 출신 與 후보 9명  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000451667?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:02:00 +0900",
+                "title": "함운경 등 야권출신 '국힘 후보 9명...  이종섭 자진귀국해 수사받아야 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3148558"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 16:59:00 +0900",
+                "title": "민주당 출신 與후보들  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005392942?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 16:58:00 +0900",
+                "title": "함운경 등 與 총선 후보 8명 “이종섭, 자진귀국 하라” 촉구",
+                "link": "https://n.news.naver.com/mnews/article/011/0004314053?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 16:53:00 +0900",
+                "title": "함운경 등 野출신 與후보 9명  이종섭, 자진귀국해 수사받아야 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014567487?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 15:54:00 +0900",
+                "title": "[총선] 국민의힘 총선 후보자 9명 “이종섭, 자진 귀국해서 수사 받아야”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011682499?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 15:01:00 +0900",
+                "title": "[동앵과 뉴스터디]여야 생사 걸린 17곳! 서울 총선 대진표 완벽 분석",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270304?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 13:34:00 +0900",
+                "title": "함운경 등 與 후보 8명 “이종섭, 자진귀국 해달라”",
+                "link": "https://n.news.naver.com/mnews/article/023/0003822584?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 14:00:00 +0900",
+                "title": "[우리동네 희망공약] '양천을' 유권자의 바람은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459571"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 05:58:00 +0900",
+                "title": " PK 표심 단디 잡아라! …한동훈, 험지 '낙동강 벨트' 지원 나선다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005011534?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 12:30:00 +0900",
+                "title": "[이슈] 한동훈-이재명, 선대위 출범 후 나란히 서울 48석 집중 공략.. 여 '탈...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=638731"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 12:24:00 +0900",
+                "title": "한강 탈환 노리는 국민의힘… 개혁신당 변수 되나",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224268"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 06:45:00 +0900",
+                "title": "한동훈 “‘경부선 철도 지하화’ 與 힘으로 이뤄내겠다”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003913375?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "오경훈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1385042
+            }
+        ],
+        "huboid": "100152064",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1115/Hb100152064/junkwa/20240321133326904_10.PDF"
+    }
 ]

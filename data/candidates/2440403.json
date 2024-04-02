@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440403-1.jpg",
-    "id": "2440403-1",
-    "재산": 631281,
-    "생년월일": "19731024",
-    "경력": "(현)국회의원(제20·21대)\n(전)더불어민주당 충남도당위원장",
-    "학력": "건국대학교 경영정보학과 졸업(경영학사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1005",
-    "regionId": "2440403",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "4.10총선= 강훈식 더불어민주당 아산을 후보측 환경정화 활동",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746267"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:56:00 +0900",
-        "title": "강훈식 아산을 후보, 선거운동 대신 환경정화활동 눈길",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880471?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:48:00 +0900",
-        "title": "[총선 D-9] 천안 아산 여야 후보들, 공동공약·환경정화 등 이색 선거운동",
-        "link": "https://n.news.naver.com/mnews/article/001/0014602731?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-        "title": "아산 강훈식 후보, 이색 선거운동 눈길",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764297"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:46:00 +0900",
-        "title": "강훈식 더불어민주당 아산을 국회의원 후보 캠프, 환경정화활동 이색 선거운동...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=358617"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "강훈식",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 402939
-      },
-      {
-        "연도": 2021,
-        "재산": 430292
-      },
-      {
-        "연도": 2022,
-        "재산": 458201
-      },
-      {
-        "연도": 2023,
-        "재산": 631281
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440403-2.jpg",
-    "id": "2440403-2",
-    "재산": 2496145,
-    "생년월일": "19620215",
-    "경력": "(전)천안시 부시장\n(전)국민의힘 아산시을 당협위원장",
-    "학력": "국민대학교 일반대학원 행정학과 졸업(행정학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2440403",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "국힘 천안병 이창수 · 아산을 전만권  GTX-A 노선 천안아산역 연장 추진 ",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792436"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "총선/ 국힘 충남 천안병 이창수·아산을 전만권,  천안·아산 교통혁명 이룰 ...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746245"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "4.10총선=국민의 힘 전만권(아산을), 이창수(천안 병) 후보  아산·천안 신 교...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746272"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-        "title": "국민의힘 아산시(을) 전만권·천안시(병) 이창수 후보 KTX천안역서 신교통 혁...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958436"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "아산시 을 전만권·천안시 병 이창수 후보, 아산·천안 신교통혁명 공약",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265853"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "전만권",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2496145
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440403-1.jpg",
+        "id": "2440403-1",
+        "재산": 631281,
+        "생년월일": "19731024",
+        "경력": "(현)국회의원(제20·21대)\n(전)더불어민주당 충남도당위원장",
+        "학력": "건국대학교 경영정보학과 졸업(경영학사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1005",
+        "regionId": "2440403",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "(R)[선택2024]강훈식 vs 전만권..'아산을' 승자는?",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/68187"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:40:00 +0900",
+                "title": "충남 아산시선거방송토론위,  후보자 토론회 꼭 시청하고 투표하세요 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968598"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:36:00 +0900",
+                "title": "강훈식 민주당 아산을 국회의원 후보, 충남공동주택경비노동자협의회와 정책협...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359204"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:57:00 +0900",
+                "title": "'안철수 리즈' 영상 530만뷰…총선 후보들 '쇼츠' 전쟁  효과 있나? ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020494?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:47:00 +0900",
+                "title": "숏폼으로 '눈도장' 찍어요...'챌린지' 즐기는 여야 후보",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809720?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:52:00 +0900",
+                "title": "파묘 패러디·댄스 챌린지… ‘쇼트폼으로 공약발표’ MZ 공략",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629951?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:26:00 +0900",
+                "title": "강훈식  단순 의대 정원 확대 능사 아냐 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307402"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+                "title": " 대통령실 또 이전   남산 고도제한 푼다 …묻지마 부동산 공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351407?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "4.10총선= 강훈식 더불어민주당 아산을 후보측 환경정화 활동",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746267"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:56:00 +0900",
+                "title": "강훈식 아산을 후보, 선거운동 대신 환경정화활동 눈길",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880471?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:48:00 +0900",
+                "title": "[총선 D-9] 천안 아산 여야 후보들, 공동공약·환경정화 등 이색 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602731?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "아산 강훈식 후보, 이색 선거운동 눈길",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764297"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:46:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보 캠프, 환경정화활동 이색 선거운동...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358617"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:12:00 +0900",
+                "title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
+                "link": "https://tjmbc.co.kr/article/G-kaMh9pWOd"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:32:00 +0900",
+                "title": "[데스크 시선] 약 배송과 간호사법 그리고 여당",
+                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310330&REFERER=NP"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:02:00 +0900",
+                "title": "아산시을 강훈식 후보,미세먼지 걱정 없는 도시 조성 공약",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265595"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+                "title": "[리포트]젊은 도시 아산을.. 3선 vs&amp;q",
+                "link": "https://tjmbc.co.kr/article/J1R0lnLN3R"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:02:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, 첫 집중유세 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358368"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:40:00 +0900",
+                "title": "강훈식 후보, “미세먼지 걱정 없는 도시 조성”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850952"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:15:00 +0900",
+                "title": "원희룡·이천수 움파룸파 댄스에 김병욱 바디프로필까지…총선 달구는 후보들",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280828?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": " 공로 큰 의원들  회원사에 발송한 벤처협회…무슨 이유?",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460718?sid=101"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:22:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, '미세먼지 걱정 없는 도시 조성'...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358341"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:09:00 +0900",
+                "title": "강훈식 후보 “숨쉬기 편한 도시 만든다…도시 숲 조성”",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325680?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:10:00 +0900",
+                "title": "호송 수레 타고 호소, 킥보드·카트로 밀착 유세…표심 잡기 '안간힘'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446493?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 22:46:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, 'GTX-C 아산연장 조기 추진' 공식...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358290"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:19:00 +0900",
+                "title": "조선시대 죄수처럼 투옥되고 tws ‘첫만남 챌린지’…알고보니 유세",
+                "link": "https://n.news.naver.com/mnews/article/366/0000981951?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:05:00 +0900",
+                "title": "벤처협회, 벤처생태계 활성화 국회의원 34인 발표",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193596?sid=101"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:32:00 +0900",
+                "title": "[총선핫플] 민주당 97세대 주자 강훈식, 아산을서 3선 올라 존재감 더 높이나",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347391"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:12:00 +0900",
+                "title": "아산원예농협, 창립 60주년 기념식 성료",
+                "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=268252"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:46:00 +0900",
+                "title": "아산 강훈식 후보, 배방역 사거리에서 출정식 가져",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763901"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:30:00 +0900",
+                "title": "강훈식 후보, “이번 선거는 대한민국 바로 세우는 선거”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850445"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:24:00 +0900",
+                "title": "강훈식 후보, 아산 문화예술 아트센터 건립 공약",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745897"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 02:26:00 +0900",
+                "title": "더불어민주당 충남 후보 11명, 열전 13일간의 본격 선거운동 돌입",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357898"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:36:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보,  이번 선거는 대한민국 바로 세우...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357895"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:50:00 +0900",
+                "title": "“비 추적추적 내리는데 소복입고·눈물 훔치며 삭발식”…알고보니 선거 운동",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280085?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:46:00 +0900",
+                "title": "[B tv 중부뉴스] 공식 선거운동 돌입...유권자 주의할 점은?",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=63&p_no=168349"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "[4·10 총선 인터뷰] 강훈식 민주당 충남 아산을 후보  누구나 행복한 사회 만...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193534"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:51:00 +0900",
+                "title": "죄수 달구지 올라  살려달라 … 호위무사 뜨고, 밤양갱 챌린지",
+                "link": "https://n.news.naver.com/mnews/article/009/0005279969?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:34:00 +0900",
+                "title": "천안·아산 민주당 후보 출정식  대한민국 바로 세우자 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769114"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:56:00 +0900",
+                "title": "강훈식이 밝힌 윤석열 정부 심판해야 할 이유",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769103"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:42:00 +0900",
+                "title": "아산을 강훈식  책임지는 사람 없어…혼내줘야 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307141"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:16:00 +0900",
+                "title": "아산시을 강훈식 후보, 첫 공식 선거운동 어린이 교통안전 캠페인 시작",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265275"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:48:00 +0900",
+                "title": "'아산시 을' 강훈식, '아산 문화예술 아트센터 건립' 공약",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123222"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:56:00 +0900",
+                "title": "천안·아산후보들, 출정식·재래시장 방문 등 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879037?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:46:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, '아산 문화예술 아트센터 건립' ...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357508"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:21:00 +0900",
+                "title": "강훈식 후보 “문화예술 즐길 수 있는 아트센터 건립”",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325336?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:10:00 +0900",
+                "title": "강훈식 후보  아산 문화예술 아트센터 건립 ",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430458"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:26:00 +0900",
+                "title": "강훈식 후보 “아산 문화예술 아트센터 건립”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849697"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:08:00 +0900",
+                "title": "강훈식 후보  아산에서 쇼핑과 여가 동시에 누릴 수 있도록 할 것 ",
+                "link": "http://www.breaknews.com/1023579"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:56:00 +0900",
+                "title": " 정권교체 이끌 기둥될 것 …'아산을' 강훈식의 3선 도전[인터뷰]",
+                "link": "https://n.news.naver.com/mnews/article/008/0005018060?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 23:01:00 +0900",
+                "title": " 유권자 눈에 들어라 ... SNS 선거운동 콘텐츠 봇물 [앵커리포트]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002015953?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:11:00 +0900",
+                "title": "4.10 총선=더불어민주당 강훈식 후보(아산 을), 아산에 대규모 복합 쇼핑몰 유...",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745630"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:37:00 +0900",
+                "title": "충남 아산원예농협, ‘창립 60주년 기념식’ 개최",
+                "link": "https://n.news.naver.com/mnews/article/662/0000040197?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "[4·10 총선 톺아보기 - 아산을] 3선 도전 '대세론' vs 여당 '실리론' 구도 맞...",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021912"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:48:00 +0900",
+                "title": "[2024 총선] 강훈식 “아산의 삶이 자부심 되는 시대 열 것”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823748?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:52:00 +0900",
+                "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:10:00 +0900",
+                "title": "[‘총선 이후’ 준비하는 야권 잠룡들]이재명 직격한 ‘김동연’…교섭단체 노...",
+                "link": "https://www.naeil.com/news/read/505708?ref=naver"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:38:00 +0900",
+                "title": "아산시을 강훈식 후보, 대규모 복합 쇼핑몰 유치 공약",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264858"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:15:00 +0900",
+                "title": "강훈식 후보, 아산에 복합쇼핑몰 유치 약속",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325159?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:46:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, '대규모 복합쇼핑몰 유치' 공식 ...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=356986"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:56:00 +0900",
+                "title": "강훈식 후보  아산에 대규모 복합 쇼핑몰 유치 ",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430258"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:42:00 +0900",
+                "title": "아산 강훈식 후보,  대규모 복합 쇼핑몰 유치 ",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763421"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:42:00 +0900",
+                "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:32:00 +0900",
+                "title": "아산을 강훈식  문화·여가 넘치는 도시 만들 것 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=329743"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:33:00 +0900",
+                "title": "제22대 총선 충남 아산시을 강훈식 후보,  중부권 최초 잡월드 만들 것 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=967427"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "4.10총선=더불어민주당 강훈식 후보, '중부권 최초 잡월드'공약",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745490"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:23:00 +0900",
+                "title": "유행가 개사, 댄스챌린지, 근육공개…  튀어야 뽑힌다 ",
+                "link": "https://n.news.naver.com/mnews/article/014/0005162173?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:20:00 +0900",
+                "title": "강훈식 아산을 후보  아산에 중부권 최초 잡월드 건립 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084541?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:46:00 +0900",
+                "title": "강훈식 후보,  중부권 최초 '잡(JOB)월드' 건립  공약",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021702"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:58:00 +0900",
+                "title": " 평범함은 NO “튀어야 산다”..이색 선거전 진풍경[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005162077?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:08:00 +0900",
+                "title": "행정전문가 전만권, 험지 아산을 정책선거로 '승부수'",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768890"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:02:00 +0900",
+                "title": "바디프로필 도전부터 밤양갱 패러디…여야 이색 SNS 홍보전",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349888?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:58:00 +0900",
+                "title": "아산시을 강훈식 후보, 중부권 최초 잡월드 만들 것",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264595"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:00:00 +0900",
+                "title": "아산을 강훈식  중부권 최초 잡월드 건립 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306986"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:02:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 국회의원 후보, '중부권 최초 잡월드 건립' 공식...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=356551"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:50:00 +0900",
+                "title": "강훈식 후보, 중부권 최초 ‘잡(JOB)월드’ 건립 공약",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240326010008024"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:01:00 +0900",
+                "title": "근육공개에 움파룸파까지…여야 SNS 선거운동 열전",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042435?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:08:00 +0900",
+                "title": "'아산시 을' 국민의힘 전만권  아산을 경제산업의 중심지로 키울 것 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3122290"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:27:00 +0900",
+                "title": "제22대 총선 아산시을 강훈식 후보, '아산의 자부심, 아자캠프' 선거사무소 개...",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=967155"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:09:00 +0900",
+                "title": " 2030 부동층 잡아라 …국힘 '움파룸파'·민주 '밤양갱' 필살기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007434488?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:48:00 +0900",
+                "title": "강훈식 후보, 선거사무소 '아산의 자부심, 아자캠프' 개소",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99172"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:04:00 +0900",
+                "title": "아산시을 강훈식 후보 선거사무소 개소 인파 크게 몰려",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264249"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:13:00 +0900",
+                "title": "더불어민주당 아산을 강훈식 후보, 한국노총과 정책협약",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745018"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:13:00 +0900",
+                "title": "총선/아산을 강훈식 후보(더불어민주당)와 전만권 후보(국민의 힘) '민식이법...",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745112"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:13:00 +0900",
+                "title": "총선/ 더불어민주당 아산을 강훈식 후보 선거사무소 개소",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745118"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:06:00 +0900",
+                "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:51:00 +0900",
+                "title": "[4·10 총선특집] 충남 11개 선거구 31명 출마… 평균경쟁률 2.8대 1",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084231?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:06:00 +0900",
+                "title": "강훈식 더불어민주당 아산을 후보, 선거사무소 '아산의 자부심, 아자캠프' 개...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355965"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+                "title": "민주당 이재명 대표 아산·서산 방문",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1429843"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:26:00 +0900",
+                "title": "강훈식 의원, 제22대 총선 충남 아산시을 후보 등록…현충사 참배",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966916"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "강훈식",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 402939
+            },
+            {
+                "연도": 2021,
+                "재산": 430292
+            },
+            {
+                "연도": 2022,
+                "재산": 458201
+            },
+            {
+                "연도": 2023,
+                "재산": 631281
+            }
+        ],
+        "huboid": "100152910",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4404/Hb100152910/junkwa/20240304104551120_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440403-2.jpg",
+        "id": "2440403-2",
+        "재산": 2496145,
+        "생년월일": "19620215",
+        "경력": "(전)천안시 부시장\n(전)국민의힘 아산시을 당협위원장",
+        "학력": "국민대학교 일반대학원 행정학과 졸업(행정학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2440403",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "(R)[선택2024]강훈식 vs 전만권..'아산을' 승자는?",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/68187"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:40:00 +0900",
+                "title": "충남 아산시선거방송토론위,  후보자 토론회 꼭 시청하고 투표하세요 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968598"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:56:00 +0900",
+                "title": "[총선현장] 한동훈, 충청권 집중 유세… 국회의사당 세종 이전은 새로운 발전...",
+                "link": "https://www.newspim.com/news/view/20240402001015"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:35:00 +0900",
+                "title": "‘사전투표’가 승패 가른다… 여야, 읍소·구애·호소 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038082?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:18:00 +0900",
+                "title": "한동훈,  승리를 위해 희생하는 이명수, 국민의힘이 하는 정치의 본질 ",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968770"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:12:00 +0900",
+                "title": "한동훈, '尹과 거리두기' 전략으로 총선 판세 뒤집기 시도",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104688"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:31:00 +0900",
+                "title": "백약이 무효한 與, 결국 '읍소 전략' 꺼내들었다",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705373?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+                "title": "[현장] 한동훈, 중원 민심 공략… 대한민국 워싱턴 D.C.로 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825378?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "충청 찾은 한동훈  이번 총선은 범죄와의 전쟁 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330485"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "한동훈  부족한 건 제 책임…운명 건 승부  읍소",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307431"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:12:00 +0900",
+                "title": "韓  조국, '감옥 수기'랍시고 책 써서 팔아먹을 것 ",
+                "link": "http://www.metroseoul.co.kr/article/20240402500364"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "국민의힘 당론, '지금은 맞고 그때는 틀리다'인가...하루 만에 말 바꾼 한동훈...",
+                "link": "http://www.metroseoul.co.kr/article/20240402500307"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:04:00 +0900",
+                "title": "[포토] 아산 찾은 한동훈  국회 충청 이전 원한다면 국민의힘 선택해야 ",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243035"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "한도훈 비대위원장 방문에 인파 몰린 온양온천역 앞 광장",
+                "link": "https://www.newspim.com/news/view/20240402000515"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "자신의 후보 응원나선 선거운동원",
+                "link": "https://www.newspim.com/news/view/20240402000512"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "전만권 국민의힘 아산시을 후보, '기호 2번 입니다'",
+                "link": "https://www.newspim.com/news/view/20240402000510"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "지지 호소나선 전만권 국민의힘 아산시을 후보",
+                "link": "https://www.newspim.com/news/view/20240402000511"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "기호 2번 외치는 선거운동원",
+                "link": "https://www.newspim.com/news/view/20240402000516"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "전만권 국민의힘 아산시을 후보를 응원하며",
+                "link": "https://www.newspim.com/news/view/20240402000513"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "김영석 국민의힘 아산시갑 후보를 응원하며",
+                "link": "https://www.newspim.com/news/view/20240402000514"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:48:00 +0900",
+                "title": "선거유세 이어가는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000507"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:48:00 +0900",
+                "title": "발언나선 한동훈 비상대책위원장... 주먹 불끈 쥐고",
+                "link": "https://www.newspim.com/news/view/20240402000506"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:46:00 +0900",
+                "title": "한동훈, 조국 직격 “감옥가면 정경심이 그랬듯 영치금 엄청 받아 갈 것”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920387?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:43:00 +0900",
+                "title": "한동훈  조국 감옥 가면 운동한다? 수기랍시고 책 팔아먹을 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428532?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465965?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465956?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "아산에서 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465957?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "충남 아산 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465958?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "아산 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465959?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465961?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:33:00 +0900",
+                "title": "아산 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465960?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:00:00 +0900",
+                "title": "尹 정부 부족한 건 제탓 아니라던 韓 태도 바꿔  모든 건 제 책임 ",
+                "link": "http://www.metroseoul.co.kr/article/20240402500238"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:44:00 +0900",
+                "title": "한동훈  충청에서 바람 일으켜 대한민국 덮어 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880853?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:40:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604927?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "아산 후보들 지원 사격하는 한동훈 총괄선거대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452655?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "온양온천 찾은 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604925?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "한동훈 위원장 '아산에서 승리를'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452656?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604921?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "아산 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604924?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604923?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604920?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "아산 찾은 한동훈 '민심 잡기'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452653?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "아산 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604922?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "아산 방문해 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452647?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "아산 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452648?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "한동훈, 아산서 김영석·전만권 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452652?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "아산 찾아 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452646?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "한동훈 '아산시민들의 표심을 잡기 위해'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452651?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "한동훈, 아산서 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452645?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "환호하는 한동훈·김영석·전만권",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452642?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:37:00 +0900",
+                "title": "한동훈 '김영석·전만권 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:37:00 +0900",
+                "title": "'한동훈이 왔습니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452639?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈 '주먹 불끈'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452625?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "연설하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452623?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "연설하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452629?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈 위원장 '아산 시민들 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452613?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "아산서 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452615?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "'한동훈 입니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452616?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452620?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈 '믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452628?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452624?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "아산 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452622?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "연설하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452617?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452627?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈  총선은 범죄자와의 전쟁…조국, 감옥가면 영치금 뜯고 책 팔 것 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705124?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈 위원장 '믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452618?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:34:00 +0900",
+                "title": "[포토] 충남 아산 찾은 한동훈  이번 선거는 범죄와의전쟁...이길것 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200151.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:32:00 +0900",
+                "title": "[포토] 전만권 아산을 후보 지원유세 나선 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200147.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:31:00 +0900",
+                "title": "김영석 - 전만권 후보 손 잡은 한동훈 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000461"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "김영석 - 전만권 후보 지지 호소하는 한동훈 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000458"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "아산 유권자 앞에 선 한동훈 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000453"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "김영석 - 전만권 후보 지지 호소하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000456"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "아산 찾아 지지 호소나선 한동훈 국민의힘 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000459"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "아산 유권자 앞에 선 한동훈 국민의힘 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000454"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "아산 찾아 지지 호소나선 한동훈 비상대책위원장",
+                "link": "https://www.newspim.com/news/view/20240402000457"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "아산 찾은 한동훈... 지지 호소하며",
+                "link": "https://www.newspim.com/news/view/20240402000455"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "온양온천 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452592?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465728?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465727?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465725?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465722?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465723?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465726?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465724?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465719?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465718?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465710?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465711?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465713?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465708?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "연설하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452585?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "한동훈 위원장 '전만권 후보 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452584?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465717?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "한동훈 위원장 '주먹 불끈'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452583?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465714?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465712?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465715?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465720?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "충남 아산 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465716?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "전만권",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2496145
+            }
+        ],
+        "huboid": "100152607",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4404/Hb100152607/junkwa/20240205162201965_1.PDF"
+    }
 ]

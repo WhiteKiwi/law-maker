@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2413602-1",
-    "regionId": "2413602",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-1.jpg",
-    "기호": 1,
-    "이름": "부승찬",
-    "생년월일": "19701014",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
-    "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
-    "재산": 71130,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 11:36:00 +0900",
-        "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
-        "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 10:12:00 +0900",
-        "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:53:00 +0900",
-        "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:24:00 +0900",
-        "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:36:00 +0900",
-        "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 71130
-      }
-    ]
-  },
-  {
-    "id": "2413602-2",
-    "regionId": "2413602",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-2.jpg",
-    "기호": 2,
-    "이름": "고석",
-    "생년월일": "19600316",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
-    "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
-    "재산": 3986876,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-        "title": "[4·10총선] '선거법 위반' 고발전...경기경찰, 109건 160명수사",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:32:00 +0900",
-        "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "총선 9일 앞…정책경쟁보다는 상대후보 고소·고발전",
-        "link": "https://n.news.naver.com/mnews/article/003/0012464171?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:20:00 +0900",
-        "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:36:00 +0900",
-        "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
-        "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3986876
-      }
-    ]
-  }
+    {
+        "id": "2413602-1",
+        "regionId": "2413602",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-1.jpg",
+        "기호": 1,
+        "이름": "부승찬",
+        "생년월일": "19701014",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
+        "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
+        "재산": 71130,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "부승찬 후보  주민 피해 없도록 관련 공공기관은 대화하고 협상해야 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645069"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[4·10=한다면 한다] 더민주 용인병 부승찬 후보, 수지광교산아이파크 간담회...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242690"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": "부승찬 후보  수지광교산아이파크 주택연금 가입·주거용 난방 요금 전환 검토...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125225"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "부승찬  수지광교산아이파크, 주택연금 가입·주거용 난방료 전환해야 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326037?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:06:00 +0900",
+                "title": "부승찬  수지광교산아이파크 주택연금 가입·주거용 난방료 전환 검토해야 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278102?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:08:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(더불어민주당)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:04:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(국민의힘)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307374"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:36:00 +0900",
+                "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:12:00 +0900",
+                "title": "[4·10 총선]더민주 용인갑 이상식 후보, 시민연합회 대표단·한국노총 용인지...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242212"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:53:00 +0900",
+                "title": "[열전 25시] 용인 민주 후보들, 한국노총 용인지부 만나 “尹 노조 탄압에 함...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037770?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:24:00 +0900",
+                "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:36:00 +0900",
+                "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:56:00 +0900",
+                "title": "[4·10 총선 여론조사-용인병] 고석 앞에 부승찬… 오차범위밖 선두",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644188"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:52:00 +0900",
+                "title": "용인 총선 후보들 출정 현장…유세 열기 ‘후끈’ [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037644?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:04:00 +0900",
+                "title": "이재명 29일 용인시병 찾아 부승찬 지원…수지구청서 유권자 만나",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443994?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:54:00 +0900",
+                "title": "[열전 25시] 3월 28일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037577?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "경기 민주 후보들 '재건축 원팀' 결성",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080529"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:04:00 +0900",
+                "title": "민주당 노후신도시 후보들 '재건축 원팀' 결성",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643889"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:31:00 +0900",
+                "title": "더불어민주당 재건축 원팀 공동기자회견 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037522?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:18:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037520?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:26:00 +0900",
+                "title": "부승찬, 김동연 만나  신분당선 통행세 2200원 폐지, 3호선 연장  제안",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409131"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:58:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 재건축 원팀으로 수지구 노후지역...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241668"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "부승찬 용인시병 후보  수지구 노후지역 재정비 제대로 하겠다 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:30:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 김동연 도지사에게 5가지 정책 제...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241651"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:28:00 +0900",
+                "title": "민주당 7곳 후보, 1기 신도시 '진행은 빠르게 부담금은 적게' 원팀 재건축 비...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080416"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:26:00 +0900",
+                "title": "부승찬 용인시병 후보, 김동연 지사에 신분당선 통행세 폐지 건의",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123096"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "민주 재건축 원팀, 김동연 지사에 정책건의서 전달",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787465"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:12:00 +0900",
+                "title": "경기도 민주 후보들, ‘재건축 원팀’으로 재건축 혼란 막는다",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787398"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:01:00 +0900",
+                "title": "“신분당선 통행세 2200원 폐지” 용인병 부승찬, 김동연에 건의",
+                "link": "https://n.news.naver.com/mnews/article/421/0007439976?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:54:00 +0900",
+                "title": "부승찬 용인병 후보 김동연 경기지사에 신분당선 통행세 폐지 건의",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080318"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:09:00 +0900",
+                "title": "부승찬  민주당 재건축 원팀으로 수지 노후 지역 재정비 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276669?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:46:00 +0900",
+                "title": "부승찬, 김동연 경기도지사에게 5대 수지발전정책 도정 반영 건의",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105709"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:41:00 +0900",
+                "title": "부승찬, 김동연 지사에 신분당선 통행세 폐지·3호선 연장 등 건의",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427644?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:40:00 +0900",
+                "title": "부승찬 후보  더불어민주당 재건축 원팀으로 수지구 노후지역 재정비 제대로 ...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105703"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:20:00 +0900",
+                "title": "[포토] 더불어민주당, '재건축 원팀' 첫 기자회견",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787372"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:20:00 +0900",
+                "title": "민주 김병욱·민병덕·이학영·염태영·부승찬 ‘재건축 원팀’ 3대 공약 발표",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327028152460"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:48:00 +0900",
+                "title": "국민의힘 고발에 이언주 후보  국민의힘은 정치적 연고가 아무도 없다 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080294"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:08:00 +0900",
+                "title": "더불어민주당 재건축 원팀 결성",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643733"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:43:00 +0900",
+                "title": "[정치시그널]인터뷰 전문… 김영우 “범야권 인사들, 200석 되면 탄핵하자고 ...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271125?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:48:00 +0900",
+                "title": "[총선맞수-용인병] 승부처서 맞딱드린 사관학교 선후배",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643606"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "부승찬  시민을 닮은 정치를 하겠습니다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325113?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:20:00 +0900",
+                "title": "부승찬  수지가 봉이냐...신분당선 통행세만 2200원, 손댈 것 [인터뷰]",
+                "link": "https://n.news.naver.com/mnews/article/008/0005016808?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:56:00 +0900",
+                "title": "[4·10 총선] 민주당 용인병 부승찬, 이종섭 사태 출국금지법 개정 촉구",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241039"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:10:00 +0900",
+                "title": "부승찬 후보  이종섭 0.008% 통과…출국금지법 손봐야 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276004?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:38:00 +0900",
+                "title": "용인병 부승찬 후보  0.008% 확률 출국금지 해제 통과한 이종섭 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079761"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "민주당 현역 교체율 42.5%, 당심 업고 친명 신인 약진",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427243?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:50:00 +0900",
+                "title": "용인병 부승찬  0.008% 출국금지 해제 통과 이종섭... 출국금지법 바꿔야 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427192?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:11:00 +0900",
+                "title": "부승찬  출국금지법 개선 시급 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324741?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:31:00 +0900",
+                "title": "민주 용인병 부승찬 “출국금지법 바꿔야”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447309?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 23:02:00 +0900",
+                "title": "부승찬 용인시병 후보, 선거대책위원회 출정식 개최",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121901"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:46:00 +0900",
+                "title": "[제주 총선] 제주 출신 및 제주 연고 9명 출사표 던졌다",
+                "link": "http://www.jejunews.com/news/articleView.html?idxno=2209764"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:35:00 +0900",
+                "title": "부승찬  윤석열 정권 심판하고 4.10총선 반드시 승리 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427146?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:30:00 +0900",
+                "title": "부승찬 민주 용인병 후보 '시민과 함께 하는 선대위' 출정식 열어",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643054"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:22:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037075?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:50:00 +0900",
+                "title": "[4·10 총선] 더민주 용인병 부승찬 국회의원 후보, 선거대책위원회 출정식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240742"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:36:00 +0900",
+                "title": "이재명·조국 ‘입틀막’ 퍼포먼스…일각선 “2차 가해·국민상식 고려해야”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277172?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 20:07:00 +0900",
+                "title": "민주당 용인시병 부승찬  나라 망치는 윤석열 정권 심판, 총선 승리 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446191?sid=102"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:27:00 +0900",
+                "title": "용인병 부승찬, 선대위 출정식...  나라 망치는 윤석열 정권 심판 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427097?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:18:00 +0900",
+                "title": "부승찬 용인시병 민주당 국회의원 후보 '시민과 함께' 선거대책위원회 출정식...",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951363"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:13:00 +0900",
+                "title": " 정권 심판 …민주 용인병 부승찬 선대위 출정식",
+                "link": "https://n.news.naver.com/mnews/article/421/0007431584?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:06:00 +0900",
+                "title": "민주 용인병 부승찬 후보  윤석열 정권 심판하고 총선에서 승리하겠다 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079504"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:12:00 +0900",
+                "title": "[김혜영의 뉴스공감] 부승찬  1호 공약, 대통령실 이전 문제 파헤친다 ",
+                "link": "https://news.cpbc.co.kr/article/1155869?division=NAVER"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:08:00 +0900",
+                "title": "경기 용인병, 육사 고석 vs 공사 부승찬",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435599"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:02:00 +0900",
+                "title": "[외안 in 총선2] 육사 vs 공사 '용인 금배지' 쟁탈전…사관학교 출신 장외 매...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240321010012674"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:02:00 +0900",
+                "title": "용인병 '국방맨' 격돌…천공 저격수 vs 윤심 법조인",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876737?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:00:00 +0900",
+                "title": "[단독] 또 의원님은 재판 중?…기소된 34명 무더기 총선 출마",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349079?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:10:00 +0900",
+                "title": "부승찬 용인시병 후보, 제22대 총선 후보자 등록",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121020"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:36:00 +0900",
+                "title": "부승찬 용인시병 더불어민주당 국회의원 후보, 21일 22대 총선 후보 등록",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2950157"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:52:00 +0900",
+                "title": "격전지 용인, 총선후보들 첫날 대거 등록… 용인갑 양향자 행보 주목 [4·10 ...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036920?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:18:00 +0900",
+                "title": "부승찬 용인병 후보  고기동 노인복지주택 건설 인가 즉각 취소 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079282"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:02:00 +0900",
+                "title": "[4·10 총선] 민주당 용인병 부승찬, 21일 22대 총선 후보 등록",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240422"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:46:00 +0900",
+                "title": "[김희철의 위기관리] 4·10총선 전투에 공천된 별들의 진면목(상)",
+                "link": "https://www.news2day.co.kr/article/20240321500203"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:42:00 +0900",
+                "title": "'오대남'이 대세…숫자로 본 거대 양당 254개 지역구 공천",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469251"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:07:00 +0900",
+                "title": "'천공' 의혹 제기 부승찬  국회 입성해 대통령실 이전 과정 파헤칠 것 [총선人...",
+                "link": "https://n.news.naver.com/mnews/article/018/0005697417?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:50:00 +0900",
+                "title": "[4·10 총선] 민주당 용인병 부승찬, 고기동 노인복지주택 건설 인가 즉각 취...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240353"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:23:00 +0900",
+                "title": "부승찬  고기동 분양아파트 건설인가 즉각 취소하라 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275236?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:19:00 +0900",
+                "title": "용인병 부승찬  수지 소상공인지원센터 설립 및 지역화폐 확대 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426704?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 07:39:00 +0900",
+                "title": "[총선] 총선 D-21, 용인 광주 여주 양평 이천 누가뛰나?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685568?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 06:03:00 +0900",
+                "title": "민주 ‘45% 물갈이’ 공천…친명 110여명, 친문·86과 자리바꿈",
+                "link": "https://n.news.naver.com/mnews/article/028/0002681808?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 01:06:00 +0900",
+                "title": "부승찬 용인시병 예비후보  수지 소상공인지원센터 설립해 소상공인 지원해야...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3120574"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+                "title": "'대장동 변호사 5인방' '이재명 6특보'…野 텃밭 줄줄이 공천되며 마무리",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811583?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 21:39:00 +0900",
+                "title": "[총선] 총선 D-21, 용인 광주 여주 양평 이천 누가뛰나?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685395?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:09:00 +0900",
+                "title": "부승찬 민주 용인병 후보“수지 소상공인지원센터 설립·지역화폐 확대”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007424465?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:51:00 +0900",
+                "title": "부승찬  수지 소상공인지원센터 설립…용인 지역사랑상품권 확대 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324234?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:10:00 +0900",
+                "title": "[4·10 총선] 민주당 용인시을 손명수, 용인 전철시대 열겠다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240083"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:10:00 +0900",
+                "title": "[4·10 총선] 민주당 용인병 부승찬,수지 소상공인지원센터 설립 약속",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240082"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:44:00 +0900",
+                "title": "대장동 변호사에 경기도 라인…'이재명 친위대' 공천 라인업 완성",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423488?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:07:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 20일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036717?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:46:00 +0900",
+                "title": "부승찬 용인병 예비후보  수지 소상공인지원센터 설립·지역사랑상품권 확대 ...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078929"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:06:00 +0900",
+                "title": "손명수 민주당 용인을 후보 선거사무소 개소…지지자 몰려 ‘인산인해’",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=688578"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:28:00 +0900",
+                "title": "[4·10 총선] 더민주 손명수 용인을 후보, 선거사무소 개소",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239847"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:38:00 +0900",
+                "title": "[22 총선] 손명수 민주당 용인시을 후보 선거사무소 개소식 성료",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304163"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 71130
+            }
+        ],
+        "huboid": "100151812",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4136/Hb100151812/junkwa/20231227104122556_1.PDF"
+    },
+    {
+        "id": "2413602-2",
+        "regionId": "2413602",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-2.jpg",
+        "기호": 2,
+        "이름": "고석",
+        "생년월일": "19600316",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
+        "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
+        "재산": 3986876,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:08:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(더불어민주당)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:04:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(국민의힘)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307374"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+                "title": "[4·10총선] '선거법 위반' 고발전...경기경찰, 109건 160명수사",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:32:00 +0900",
+                "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "총선 9일 앞…정책경쟁보다는 상대후보 고소·고발전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464171?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:20:00 +0900",
+                "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:36:00 +0900",
+                "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:08:00 +0900",
+                "title": "전국청년경제인연합회, 국민의힘 용인병 고석 후보 지지",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462734?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:10:00 +0900",
+                "title": "육해공 예비역 장성·영관급들, 국힘 용인병 고석 후보 지지",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462363?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:50:00 +0900",
+                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:32:00 +0900",
+                "title": "용인 지원 나선 한동훈  4명의 후보와 용인 발전 이루겠다 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644548"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:37:00 +0900",
+                "title": "국힘 용인병 고석  수지중앙공원 등 대규모 공원 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461809?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:33:00 +0900",
+                "title": "[현장] '용인行' 한동훈  국민 지배하려 드는 '민주·조국당'…우린 '섬기는 ...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815408?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:42:00 +0900",
+                "title": "국민의힘 용인병 고석 후보 ‘수지중앙공원 조성 등 대규모 공원 조성...수지...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160281400881967"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:34:00 +0900",
+                "title": "한동훈  그 돈은 소상공인이 받을 돈…양문석 '사기대출' 맞다 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447744?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:52:00 +0900",
+                "title": "[오마이포토] 용인 후보 총집결... 어깨동무한 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:41:00 +0900",
+                "title": "한동훈  단식하며 자기 지켜달라 해  이재명  악어눈물, 무서운 사람들 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447685?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "한동훈, 용인서 이재명·조국 맹공 “범죄자들로부터 국민 지키게 해달라”",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037789?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:07:00 +0900",
+                "title": "한동훈, 이재명 겨냥  단식하고 자기 지켜달란 말 너무 싫어 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447629?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:12:00 +0900",
+                "title": "[4·10 총선]국민의힘 용인시병 고석 후보, 친환경 캠페인과 킥보드 안전 문화...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242211"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:15:00 +0900",
+                "title": "한동훈, 선거운동 첫 주말 수도권 집중공략…공약 발표도",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447196?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:06:00 +0900",
+                "title": "장성·영관급 예비역들 국힘 고석 용인병 후보 지지 선언",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080922"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:24:00 +0900",
+                "title": "[데일리리서치] 용인병, 민주 부승찬 49.8%로 국힘 고석 39.4%에 앞서",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347425"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:56:00 +0900",
+                "title": "국민의힘 용인시병(수지)고석 후보 공식선거운동 출정식 열려",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294330447332"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:36:00 +0900",
+                "title": "[경기 용인병] 더불어민주당 부승찬 49.8%, 국민의힘 고석 39.4%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428024?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:56:00 +0900",
+                "title": "[4·10 총선 여론조사-용인병] 고석 앞에 부승찬… 오차범위밖 선두",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644188"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:28:00 +0900",
+                "title": "고석 국민의힘 용인시병(수지) 국회의원 후보, 본격적인 총선 운동 시작 알리...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558108"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:52:00 +0900",
+                "title": "용인 총선 후보들 출정 현장…유세 열기 ‘후끈’ [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037644?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "[4·10 총선] 국민의힘 용인병 고석 후보, 공식선거운동 출정식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241945"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:21:00 +0900",
+                "title": "반도체벨트 '시선 집중'… 국힘 4곳·민주 35곳 '확실히 우세'[3대 승부처 판...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163540?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:58:00 +0900",
+                "title": "고석 용인병 후보, 공식 선거운동 첫 날 수지구청 사거리서 출정식",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080751"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:51:00 +0900",
+                "title": "국힘 용인병 고석  국민 속이는 정치 끝내겠다 …수지구청서 출정식",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443955?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:29:00 +0900",
+                "title": "국민의힘 용인시병 고석  국민을 속이는 정치 끝내겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457605?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "한동훈 반도체 콕 집어 민심 공략",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:41:00 +0900",
+                "title": "반도체벨트 찾은 한동훈  반드시 승리해 반도체 공약 이뤄낼 것 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440640?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:06:00 +0900",
+                "title": "[르포] 울컥한 한동훈  민주당 비동의간음죄 공약이 실수? 분위기 안 좋으니 ...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240327010016349"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:46:00 +0900",
+                "title": "한동훈  국회 첫 법안은 '반도체 특별법'…여러분 잘사는 것에만 관심 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017966?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:37:00 +0900",
+                "title": "[현장] 한동훈, 주춤한 '수원탈환' 지원사격  시작과 마지막 이곳서 하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814181?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:31:00 +0900",
+                "title": "국민의힘 한동훈 비상대책위원장 수원 찾아 지지호소 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037523?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:10:00 +0900",
+                "title": "한동훈, 수원서 공식선거 전 마지막 유세…  서서 죽겠다는 각오 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643917"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:03:00 +0900",
+                "title": "네번째 수원 찾은 한동훈  이재명·조국 감옥 안가기 위해 정치 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440559?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:44:00 +0900",
+                "title": "[4·10총선] 국힘 수원, 용인, 화성, 오산 후보들  반도체 산업 특별법 국회 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241689"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:42:00 +0900",
+                "title": "수원 찾은 한동훈, 시민들 빨간 풍선 흔들며 '환호'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454362?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:20:00 +0900",
+                "title": "[영상+] 한동훈 “경기 남부에서 승리해 ‘반도체 지원 특별법’ 발의하겠다”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327027052563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:17:00 +0900",
+                "title": "한동훈, 인천·수원서  범죄자들 아닌 우릴 선택해달라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454320?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:49:00 +0900",
+                "title": "국힘 용인병 고석 “통천유통계획시설에 국제과학벨트 거점지구 조성”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440366?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:44:00 +0900",
+                "title": "[4·10=한다면 한다] 국민의힘 용인병 고석, 수지국제과학벨트 거점지구 조성...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241659"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:11:00 +0900",
+                "title": "고석 용인병 후보 “용인 500조 투자 효과를 수지의 변화로 일궈내겠다” [열...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037496?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:00:00 +0900",
+                "title": "고석 국민의힘 용인병(수지) 국회의원 후보“대통령이 밝힌 용인 반도체 500조...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293092719646"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:48:00 +0900",
+                "title": "국힘 고석  반도체 500조 효과…수지국제과학벨트 거점 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454106?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "野 이언주, 김어준 방송서 허위사실 유포...시민단체 고발",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219496"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:58:00 +0900",
+                "title": "더불어민주당  131∼161석 우세 …국민의힘  90∼98석 우세 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764552"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:42:00 +0900",
+                "title": "국민의힘 경기도 및 용인 시·도의원, 더불어민주당 이언주 후보 '허위사실공...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686327"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:32:00 +0900",
+                "title": "[4·10 총선 인터뷰] 고석  4년 후 달라진 수지로 기대에 부응 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/27/2024032700193.html"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:48:00 +0900",
+                "title": "국민의힘 고발에 이언주 후보  국민의힘은 정치적 연고가 아무도 없다 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080294"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:43:00 +0900",
+                "title": "[정치시그널]인터뷰 전문… 김영우 “범야권 인사들, 200석 되면 탄핵하자고 ...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271125?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 03:02:00 +0900",
+                "title": "국힘 “서울 16곳 등 41곳 경합… 부산-경남 34곳 중 26곳 우세”",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555532?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:14:00 +0900",
+                "title": "국민의힘 경기도·용인시의회 의원, 더불어민주당 이언주 후보 '허위사실공표...",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48023"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:48:00 +0900",
+                "title": "[총선맞수-용인병] 승부처서 맞딱드린 사관학교 선후배",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643606"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:26:00 +0900",
+                "title": "용인 국민의힘 시도의원들  이언주, 허위사실 공표  고발",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436000"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "[4·10 총선] 사라진 정책 대결…치닫는 혼탁 선거",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241428"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:16:00 +0900",
+                "title": "용인 국민의힘 지방의원들, 이언주 민주당 용인정 후보 고발",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643536"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:04:00 +0900",
+                "title": "4·10 총선 앞두고 도내 여야 '고발'",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080205"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:22:00 +0900",
+                "title": "국힘 용인 시·도의원, 이언주 후보 고발에 이 후보도 선거 방해 의도 규정",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080156"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:00:00 +0900",
+                "title": "“(국힘 후보) 지역연고 하나도 없어요” 이언주 발언에 용인 총선 가열",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240326022522252"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:03:00 +0900",
+                "title": "국민의힘 경기도·용인 시의원, 이언주 '허위사실 공표' 고발",
+                "link": "https://n.news.naver.com/mnews/article/417/0000991789?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:56:00 +0900",
+                "title": "국힘 경기도‧용인시 의원 ‘지역 연고 없는 국힘 후보’ 발언 이언주 후보 고...",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787209"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:38:00 +0900",
+                "title": "국힘 용인병 고석 “어린이재능개발센터 유치 제2의 김연아 발굴할 것”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437462?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:36:00 +0900",
+                "title": "국민의힘 용인병 고석 후보“수지 고기동~의왕 백운호수 도로 신설” 추진",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289590355348"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:54:00 +0900",
+                "title": " 연고 없다  발언에 국힘 용인 시도의원 고발... 이언주  어불성설 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427493?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:48:00 +0900",
+                "title": "이언주  국힘 용인 후보들 지역연고 없다  vs 국힘  거짓말 고발 ",
+                "link": "http://www.viewsnnews.com/article?q=218713"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:46:00 +0900",
+                "title": "[4·10=한다면 한다] 국민의힘 용인병 고석 국회의원 후보,  수지 고기동~의왕...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241312"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:36:00 +0900",
+                "title": "“국힘후보 지역연고 없다” 이언주 고발…국힘 시·도의원 ‘허위사실 유포’",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437178?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:07:00 +0900",
+                "title": "용인 국힘 시도의원들  민주 이언주 후보, 허위사실 공표  고발",
+                "link": "https://n.news.naver.com/mnews/article/448/0000452902?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:00:00 +0900",
+                "title": "국힘 용인 지역 도·시 의원, 용인병 민주 이언주 후보 '허위사실공표죄' 고발",
+                "link": "https://n.news.naver.com/mnews/article/119/0002813561?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:59:00 +0900",
+                "title": "용인 국힘 시도의원들  민주 이언주 후보, 허위사실 공표  고발",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589414?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:59:00 +0900",
+                "title": "용인 국힘 지방의원들, 민주당 후보 고발…소송전 시작되나",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451055?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:52:00 +0900",
+                "title": "고석 용인병 후보  어린이 재능개발센터 유치 사교육비 줄이겠다 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080057"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:51:00 +0900",
+                "title": "이언주  용인 국힘 후보들 지역연고 없어 …국힘측  허위사실 유포 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005397429?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:33:00 +0900",
+                "title": "국힘 용인지역 시·도의원, 민주당 이언주 후보 '허위사실공표죄' 고발",
+                "link": "https://www.newspim.com/news/view/20240326000701"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:14:00 +0900",
+                "title": "국힘 용인 시·도의원, 이언주 후보 고발…“허위사실 유포·시민선동”",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037316?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:54:00 +0900",
+                "title": "이언주, 허위사실 유포 혐의로 檢 피고발",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225991"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 용인병 고석, 어린이재능개발센터 건립 추진",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241258"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:18:00 +0900",
+                "title": "[4·10 총선] 국민의힘 용인병 고석 국회의원 후보, 용인 e스포츠팀 창단으로...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241216"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:18:00 +0900",
+                "title": "[4·10 총선] 국민의힘 용인병 고석 국회의원 후보 공동주택 통과하는 대로변...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241214"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:01:00 +0900",
+                "title": "이언주, 국민의힘 용인 후보들에  지역 연고 없다  허위 사실 유포",
+                "link": "https://n.news.naver.com/mnews/article/011/0004318301?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:36:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금⑦",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037256?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:22:00 +0900",
+                "title": "[단독] 민주당 이언주, 김어준 유튜브서 허위사실 유포",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964299?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:08:00 +0900",
+                "title": "고석  용인 e-스포츠팀 창단해 미래 산업 육성해야 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643286"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:19:00 +0900",
+                "title": "국힘 용인병 고석 “수지중앙공원에 e스포츠 경기장 건립”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007435002?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:51:00 +0900",
+                "title": "[이슈] 여야, 총선용 메가시티 공약 봇물.. 경기분도·부울경·충청 이어 '반...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640412"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:11:00 +0900",
+                "title": "국힘 고석  용인 e스포츠팀 창단, 미래산업 육성해야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448710?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:00:00 +0900",
+                "title": "고석 용인병 후보  공동주택 통과 대로변에 '방음터널' 설치 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079765"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:05:00 +0900",
+                "title": "용인병 고석  공동주택 통과하는 대로변 '방음터널' 설치 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427223?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:05:00 +0900",
+                "title": "국힘 용인병 고석 “공동주택 밀집 대로에 방음터널 설치”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447856?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:46:00 +0900",
+                "title": "[제주 총선] 제주 출신 및 제주 연고 9명 출사표 던졌다",
+                "link": "http://www.jejunews.com/news/articleView.html?idxno=2209764"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:08:00 +0900",
+                "title": "[4·10 총선] 총선 후보 직업 '정치인' '법조인' '교육자' 순...21대 보다 다...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240728"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3986876
+            }
+        ],
+        "huboid": "100151212",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4136/Hb100151212/junkwa/20240321114529661_7.PDF"
+    }
 ]

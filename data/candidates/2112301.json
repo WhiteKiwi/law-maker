@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2112301-1",
-    "regionId": "2112301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-1.jpg",
-    "기호": 1,
-    "이름": "김태형",
-    "생년월일": "19701201",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
-    "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
-    "재산": 40327222,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:19:00 +0900",
-        "title": "양문석 '편법대출' 새마을금고중앙회 현장검사 시작…허위 증빙자료 의혹도",
-        "link": "https://n.news.naver.com/mnews/article/057/0001809542?sid=101"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:10:00 +0900",
-        "title": "[총선] 한 명이라도 더…'구미 을' 초반 표심 잡기 전력",
-        "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024040100004&story_seq=0&soCode=114&socttSn=NS2024040100004&socttSeq=0"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 10:18:00 +0900",
-        "title": "출마자 보유 주식 들여다보니...최고부자 후보 원픽은",
-        "link": "https://www.etoday.co.kr/news/view/2345419"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:30:00 +0900",
-        "title": "[총선] 리턴 매치 구미 갑…첫 일정은 '경제' 챙기기",
-        "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032800038&story_seq=0&soCode=114&socttSn=NS2024032800038&socttSeq=0"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 40327222
-      }
-    ]
-  },
-  {
-    "id": "2112301-2",
-    "regionId": "2112301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-2.jpg",
-    "기호": 2,
-    "이름": "서명옥",
-    "생년월일": "19601126",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "의사",
-    "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
-    "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
-    "재산": 29319703,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:16:00 +0900",
-        "title": "與 강남갑 서명옥  압구정 신속 통합기획 포함한 재건축·재개발, 제1과제로 ...",
-        "link": "https://www.newspim.com/news/view/20240401001266"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:57:00 +0900",
-        "title": "분노하거나 침묵하거나...尹대담에 의사 출신 후보들 반응은",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704691?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:22:00 +0900",
-        "title": "與강남갑 서명옥  압구정 신속통합기획 등 강남 재건축·재개발 신속 추진 ",
-        "link": "https://n.news.naver.com/mnews/article/011/0004321758?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 29319703
-      }
-    ]
-  }
+    {
+        "id": "2112301-1",
+        "regionId": "2112301",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-1.jpg",
+        "기호": 1,
+        "이름": "김태형",
+        "생년월일": "19701201",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
+        "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
+        "재산": 40327222,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "“뉘신지?”…‘후보’ 사라지고 ‘정당’만 남았다 [배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2346970"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:19:00 +0900",
+                "title": "양문석 '편법대출' 새마을금고중앙회 현장검사 시작…허위 증빙자료 의혹도",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809542?sid=101"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:10:00 +0900",
+                "title": "[총선] 한 명이라도 더…'구미 을' 초반 표심 잡기 전력",
+                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024040100004&story_seq=0&soCode=114&socttSn=NS2024040100004&socttSeq=0"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:18:00 +0900",
+                "title": "출마자 보유 주식 들여다보니...최고부자 후보 원픽은",
+                "link": "https://www.etoday.co.kr/news/view/2345419"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:30:00 +0900",
+                "title": "[총선] 리턴 매치 구미 갑…첫 일정은 '경제' 챙기기",
+                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032800038&story_seq=0&soCode=114&socttSn=NS2024032800038&socttSeq=0"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:36:00 +0900",
+                "title": "4 ·10 총선 후보자 평균 재산 24억원",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557879"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:22:00 +0900",
+                "title": "총선 출마자 3명 중 1명 ‘전과자’…재산 최대 1446억",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403281157298560476"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:31:00 +0900",
+                "title": "총선 후보자 10명 중 3명 전과자...재산 1위는 '1446억' 국힘 김복덕",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427841?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:08:00 +0900",
+                "title": "빨간 페라리 탄 국회의원?… 총선 후보자들의 다양한 차종 눈길",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918374?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:21:00 +0900",
+                "title": "[총선] 총선 출마자 ‘재산 100억 이상’ 24명…1위는 1446억 원",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688822?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:16:00 +0900",
+                "title": "[총선 브리핑] 후보 등록 마감…대구·경북 관심 포인트는?",
+                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032500055&story_seq=0&soCode=114&socttSn=NS2024032500055&socttSeq=0"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:34:00 +0900",
+                "title": "선거 사무소 개소식 문화가 바뀌고 있다.",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=579267"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:05:00 +0900",
+                "title": "비례대표 ‘최고 갑부’는…3년 만에 재산 400억 증가한 허경영",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277655?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:52:00 +0900",
+                "title": "허경영, 3년새 재산 400억 증가…비례대표 후보 재산 1위",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396766?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "민주당 현역 교체율 42.5%, 당심 업고 친명 신인 약진",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427243?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:35:00 +0900",
+                "title": "허경영 재산 3년 만에 400억 늘었다…비례대표 후보 중 1위",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964011?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:22:00 +0900",
+                "title": "총선 후보자 평균 재산은?...27억9000만원",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318340"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:23:00 +0900",
+                "title": "총선 후보자 재산 1위, 안철수 아니다…최고자산가 누구?[SS이슈]",
+                "link": "https://n.news.naver.com/mnews/article/468/0001042958?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:38:00 +0900",
+                "title": "총선 후보 952명 중 재산 1위는 '1446억' 與 김복덕…‘1401억’ 안철수 제쳤...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002284936?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:38:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대 1…39년만에 최저",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548804"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:16:00 +0900",
+                "title": "강남구 출마 후보자들과 인사 나선 이재명 대표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951769"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:14:00 +0900",
+                "title": "광주·전남 1인당 평균 재산 11억3천만원",
+                "link": "http://www.kjdaily.com/article.php?aid=1711277187625623245"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:55:00 +0900",
+                "title": "이재명은 서울로 김부겸은 PK로…민주, 격전지 집중유세",
+                "link": "https://n.news.naver.com/mnews/article/028/0002682290?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:58:00 +0900",
+                "title": "총선 지역구 후보 평균재산 27.7억·비례 14.8억",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917362?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:30:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…전체 경쟁률 2.75대 1",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641593"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:59:00 +0900",
+                "title": "양당 쏠림 심화에 3지대 후보 '3분의 1' 토막 났다",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698970?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:20:00 +0900",
+                "title": "[포토] 강남구 후보들과 인사하는 이재명",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013706"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:20:00 +0900",
+                "title": "[포토] 발언하는 이재명",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240324010013707"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+                "title": "수서역 인근 방문한 이재명 대표",
+                "link": "https://www.newspim.com/news/view/20240324000104"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+                "title": "이재명 '양손 번쩍'",
+                "link": "https://www.newspim.com/news/view/20240324000102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+                "title": "수서역 인근 현장 기자회견나선 이재명",
+                "link": "https://www.newspim.com/news/view/20240324000103"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:09:00 +0900",
+                "title": "인사 나누는 이재명-강청희",
+                "link": "https://www.newspim.com/news/view/20240324000101"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:51:00 +0900",
+                "title": "강남구 출마 후보들과 인사 나누는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446808?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+                "title": "강남구 출마 후보자들과 인사 나선 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446799?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+                "title": "발언하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446803?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+                "title": "강남구 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446802?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+                "title": "강남구 출마 후보자들과 인사 나선 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446800?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:43:00 +0900",
+                "title": "지지 호소하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877319?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:43:00 +0900",
+                "title": "민주당 강남 지역 후보들과 단상에 선 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877320?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:34:00 +0900",
+                "title": "강남 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/001/0014584831?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:34:00 +0900",
+                "title": "강남 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/001/0014584833?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:34:00 +0900",
+                "title": "지지 호소하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/001/0014584832?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:18:00 +0900",
+                "title": "수서역 인근 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432275?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:17:00 +0900",
+                "title": "강남 지역 후보들 만난 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432274?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:56:00 +0900",
+                "title": "수서역 인근 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432246?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:56:00 +0900",
+                "title": "수서역 찾은 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432245?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:56:00 +0900",
+                "title": "이재명 대표 '강남지역 후보들과 함께'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432242?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:56:00 +0900",
+                "title": "발언하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432243?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:00:00 +0900",
+                "title": "이재명·원희룡 등 男후보 16.5% 군 미필… 9명 세금 체납",
+                "link": "https://n.news.naver.com/mnews/article/029/0002862951?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 09:02:00 +0900",
+                "title": "이재명, 서울 내 험지 송파·강남·서초·동작 등 '강남 4구' 지원",
+                "link": "https://www.newspim.com/news/view/20240324000020"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:43:00 +0900",
+                "title": "총선 후보 신고재산 1위는 누구?…1446억 신고",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822728?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:58:00 +0900",
+                "title": "22대 총선 후보 신고재산 1위는 누구?…1,446억 원 신고",
+                "link": "https://n.news.naver.com/mnews/article/057/0001807692?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:26:00 +0900",
+                "title": "[데일리안 오늘뉴스 종합] '국민 일꾼' 총선 후보들의 평균 재산은?, 원희룡 ...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812613?sid=101"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:51:00 +0900",
+                "title": "총선 신고 재산 1위는 1446억…‘이 후보’ 누구?",
+                "link": "https://n.news.naver.com/mnews/article/005/0001683132?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:37:00 +0900",
+                "title": "4·10 총선 지역구 후보 10명 중 8명, 50·60 남성",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917141?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:32:00 +0900",
+                "title": "22대 총선 서울 강남구 총 7명 후보자 등록",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427090?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:50:00 +0900",
+                "title": " 안철수 아니었어? …총선 신고재산 1위는 1446억 이 후보",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349278?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:28:00 +0900",
+                "title": "'국민 일꾼' 총선 후보들의 평균 재산은?",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812592?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:06:00 +0900",
+                "title": "4·10총선 지역구 경쟁률 ‘2.8대 1’ 비례대표 ‘5.5대 1’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439246?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…평균 경쟁률 2.8대 1",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445830?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:00:00 +0900",
+                "title": "지역구 후보 평균 재산 28억… 1위는 국힘 김복덕 1446억",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917120?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:51:00 +0900",
+                "title": "[4·10 총선 후보] 평균재산 28억·최다 1447억…50억 이상 9%",
+                "link": "https://n.news.naver.com/mnews/article/374/0000375912?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:45:00 +0900",
+                "title": "총선 후보 1인당 평균 재산 27.7억…'50억 이상'은 62명",
+                "link": "https://n.news.naver.com/mnews/article/011/0004317354?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:22:00 +0900",
+                "title": "총선 후보 평균 재산 27.7억원…국민의힘 김복덕·안철수 1400억원대, 박덕흠...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15471457"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:17:00 +0900",
+                "title": "총선 후보들 평균 재산 27.7억 원…62명은 50억 넘어",
+                "link": "https://n.news.naver.com/mnews/article/055/0001141074?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 07:22:00 +0900",
+                "title": "22대 총선 후보 3명 중 1명은 전과자…횡령·음주운전 11범까지",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877131?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:32:00 +0900",
+                "title": "총선 후보 1인당 평균 재산 27.7억원…'50억 이상'도 62명",
+                "link": "https://n.news.naver.com/mnews/article/215/0001154175?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 01:45:00 +0900",
+                "title": "후보 등록 마감날…끝까지 파행 공천",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047571?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:44:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…전체 후보 경쟁률 2.75대 1(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445589?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:31:00 +0900",
+                "title": "22대 총선 후보 699명 등록...전국 경쟁률 2.75대 1(종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698531?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:20:00 +0900",
+                "title": "4·10 총선 후보 등록 마감…최연소 28세·최고령 85세",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812526?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:04:00 +0900",
+                "title": "총선 후보 1인당 평균 재산 27.7억원…'50억 이상' 62명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583552?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:33:00 +0900",
+                "title": "[이슈] 4·10총선 총 686명 후보등록 마감, 평균 2.7대1.. 비례정당 38곳 등록...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640217"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:33:00 +0900",
+                "title": "국회의원 후보 35% '빨간줄' 재산 1위 안철수 아닌 김복덕",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276960?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:31:00 +0900",
+                "title": "총선 후보 평균 재산 27억…1위는 국힘 김복덕 1446억원",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917044?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:13:00 +0900",
+                "title": "‘소나무당’ 최대집 재산신고 ‘마이너스 2억 7천’...1위 김복덕",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698522?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:57:00 +0900",
+                "title": "22대 총선 후보 1인당 평균 재산 27.9억원…'마이너스 재산' 신고 후보는 23명",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868773?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:16:00 +0900",
+                "title": "안철수 아니었어?…총선후보 재산 1위는 고졸 출신 '이 후보'…1446억 보유",
+                "link": "https://n.news.naver.com/mnews/article/011/0004317279?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:07:00 +0900",
+                "title": "총선 후보 1인당 평균 재산 27.9억원…'50억 이상' 61명",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583508?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:46:00 +0900",
+                "title": "[후보분석] 지역구 출마자 평균재산 약 28억…1위 '1446억'은 누구",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430950?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:05:00 +0900",
+                "title": "서울 총선 후보 20억 이상 자산가 40명…1위 국민의힘 이상규 후보 얼마기에?",
+                "link": "https://n.news.naver.com/mnews/article/011/0004317272?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:05:00 +0900",
+                "title": "서울 총선 후보 '20억 이상' 자산가 40명…1위는?",
+                "link": "https://n.news.naver.com/mnews/article/215/0001154155?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:57:00 +0900",
+                "title": "서울 총선 후보 20억 이상 자산가 39명…1위 국민의힘 이상규",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583412?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:17:00 +0900",
+                "title": "총선 후보자 평균재산 28억…국힘 김복덕 1446억 1위(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445485?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:09:00 +0900",
+                "title": "여야 모두  개혁공천  외쳤지만…여성∙2030 후보 다 줄었다",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349220?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "“김복덕을 아시나요”...안철수 제치고 총선후보 재산 1등이라는데",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276917?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:53:00 +0900",
+                "title": "쇄신한다더니…청년 후보 5.6%, 여성 14.4%",
+                "link": "https://n.news.naver.com/mnews/article/015/0004963527?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:21:00 +0900",
+                "title": "총선 후보자 평균재산 약 30억…국힘 김복덕 1446억 1위",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445396?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:04:00 +0900",
+                "title": "총선 후보등록 첫날, 평균재산 29억원… 최고액은 1446억원",
+                "link": "https://n.news.naver.com/mnews/article/022/0003916726?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:46:00 +0900",
+                "title": "총선 후보등록 첫날, 평균재산 29억원…'50억 이상' 52명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581198?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:59:00 +0900",
+                "title": "총선 후보자등록 첫날…지역구 607명·14개 정당 비례명부 등록",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443311?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:30:00 +0900",
+                "title": "[총선] 후보 등록 시작...본선 막 오른 22대 총선",
+                "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032100064&story_seq=0&soCode=114&socttSn=NS2024032100064&socttSeq=0"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 40327222
+            }
+        ],
+        "huboid": "100151594",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100151594/junkwa/20240322105425749_10.PDF"
+    },
+    {
+        "id": "2112301-2",
+        "regionId": "2112301",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-2.jpg",
+        "기호": 2,
+        "이름": "서명옥",
+        "생년월일": "19601126",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "의사",
+        "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
+        "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
+        "재산": 29319703,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:34:00 +0900",
+                "title": "서명옥 국민의힘 강남갑 후보 “토지거래허가제 반드시 해제되야”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402002305242"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:33:00 +0900",
+                "title": "'강남갑' 與 서명옥  토지거래허가제 반드시 해제할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816422?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "“뉘신지?”…‘후보’ 사라지고 ‘정당’만 남았다 [배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2346970"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:02:00 +0900",
+                "title": "강남갑 서명옥 “압구정·청담동 토지거래허가제 해제 추진”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289441?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:07:00 +0900",
+                "title": "보건소장 출신 '강남갑' 서명옥  의료개혁 위해 정부와 의료계 소통창구 되겠...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920390?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:50:00 +0900",
+                "title": "'내부순환 급행철도' 총선 공약 급부상 … '기동카'도 변수 [혼돈의 서울 표심...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200137.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:04:00 +0900",
+                "title": "與 강남갑 서명옥  재건축·재개발, 제1과제로 추진할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864883?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:01:00 +0900",
+                "title": "수도권 與후보들 “尹, 민심 동떨어진 담화… 미안하다 할순 없나”",
+                "link": "https://n.news.naver.com/mnews/article/020/0003556632?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:50:00 +0900",
+                "title": "서명옥 강남갑 후보 “재건축‧재개발 제1과제로 추진할 것”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402000044435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:16:00 +0900",
+                "title": "與 강남갑 서명옥  압구정 신속 통합기획 포함한 재건축·재개발, 제1과제로 ...",
+                "link": "https://www.newspim.com/news/view/20240401001266"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:57:00 +0900",
+                "title": "분노하거나 침묵하거나...尹대담에 의사 출신 후보들 반응은",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704691?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:22:00 +0900",
+                "title": "與강남갑 서명옥  압구정 신속통합기획 등 강남 재건축·재개발 신속 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321758?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
+                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:55:00 +0900",
+                "title": "한동훈 ‘사발면’ 강행군…지원유세서 “나 만만하지 않다”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441126?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:54:00 +0900",
+                "title": "편의점 컵라면·제로콜라 '한 끼'…한동훈 효과 어디로 튈까",
+                "link": "https://www.mediapen.com/news/view/908646"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:32:00 +0900",
+                "title": "한동훈, 유세 뒤 찾은 곳은?...'컵라면 끼니' 화제",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809364?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:00:00 +0900",
+                "title": "“한동훈 봤다” 지원 유세 끝나고 그가 향한 곳은",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825631?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:48:00 +0900",
+                "title": "22대총선 국민의힘 한동훈 서울특별시 강남구 합동 유세 수서역 현장",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580227"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:46:00 +0900",
+                "title": "'강남갑' 與 서명옥  징벌적 상속세 조정할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815486?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:50:00 +0900",
+                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:00:00 +0900",
+                "title": "與 강남갑 서명옥 “징벌적 상속세 조정하겠다”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919727?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:33:00 +0900",
+                "title": "[총선을 뛴다]⑥의료계 출신은 20명…의사 10명·간호사 4명",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703814?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:15:00 +0900",
+                "title": "한동훈, 선거운동 첫 주말 수도권 집중공략…공약 발표도",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447196?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:16:00 +0900",
+                "title": "서명옥 강남갑 후보 “강남 재도약 절실…강남에 모든 것 바쳐 일할 각오”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240330000810508"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+                "title": "박수민 강남을 후보 “강남 재도약 위해 ‘도시문제 해결사’…강남에서 압승...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240330000752316"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:09:00 +0900",
+                "title": "“압구정 재건축 신속히 추진, 상속·증여세 반드시 손보겠다”…국힘 서명옥...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280635?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:14:00 +0900",
+                "title": "국힘 서명옥 강남갑 국회의원 후보,  강남 재개발·재건축 추진 등 주요 공약...",
+                "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91075"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:47:00 +0900",
+                "title": "국민의힘 강남갑 서명옥 후보  강남에 모든 것을 바칠 것 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864262?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:26:00 +0900",
+                "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:10:00 +0900",
+                "title": "22대 총선 후보자 3명 중 1명 전과자…평균 재산 20억원대 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702039?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "'국민 눈높이' 공천?...전과있는 후보 305명·후보 1인당 재산 24.4억원",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318614"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:34:00 +0900",
+                "title": "22대 총선 출마자 중 전과자 32%…민주당 100명·국민의힘 59명",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701855?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 03:01:00 +0900",
+                "title": "與 “의료혼란 장기화에 의사들 싸늘, 강남-해운대도 안심 못해”",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555748?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:17:00 +0900",
+                "title": "“의사들, 與 안찍겠다며 명함 거부”…강남-해운대 등 텃밭 흔들",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555701?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:16:00 +0900",
+                "title": "강남구의사회, 강남 총선 출마 여야 후보와 '의료현안 간담회' 개최",
+                "link": "http://www.doctorstimes.com/news/articleView.html?idxno=226568"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:23:00 +0900",
+                "title": "서울시, 한동훈 국회 세종시 이전 공약  상당히 고무적  환영",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452820?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:46:00 +0900",
+                "title": "‘국민추천’ 與 강남갑 서명옥, 오세훈 시장 만나 “주민 재산권 침해받지 않...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19407&Newsnumb=20240319407"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:31:00 +0900",
+                "title": "與강남갑 서명옥, 오세훈 시장과 ‘강남 재개발·재건축’ 논의",
+                "link": "https://n.news.naver.com/mnews/article/011/0004319111?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:18:00 +0900",
+                "title": "4·10 총선에 의약인들도 대거 출사표!",
+                "link": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=57303"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:03:00 +0900",
+                "title": "수도권 우세, 與 19vs 野 83… 20곳은 초접전",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439985?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 23:38:00 +0900",
+                "title": "서명옥 국민의힘 강남갑 후보, 오세훈 서울시장과 ‘강남 재도약’ 논의",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240326002326172"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 23:25:00 +0900",
+                "title": "與 강남갑 서명옥, 오세훈 서울시장과 지역 현안 논의… 재개발은 서울시 협조...",
+                "link": "https://www.newspim.com/news/view/20240326001160"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:32:00 +0900",
+                "title": "'강남을' 박수민, 선거사무소 개소… 압승 이뤄 안정적 국정운영 뒷받침해야 ",
+                "link": "https://www.newspim.com/news/view/20240326001117"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "한동훈 “의제 제한 말아야”…증원규모 협상 시사",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271093?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:17:00 +0900",
+                "title": "與 강남갑 서명옥, 오세훈 시장과 ‘강남 재도약’ 논의",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918236?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+                "title": "[총선여론] 수도권, 국힘 20곳·민주 87곳 '우세·경합우세' 전망.. 동작을 제...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640634"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:08:00 +0900",
+                "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4·10 총선 D-15, 우세지역 與 82 vs 野 110‥중도·부동층 민심 밀집한 '서울...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219388"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:40:00 +0900",
+                "title": "여야 총선 전망, 국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021689"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:38:00 +0900",
+                "title": "국힘  최대 10곳  민주  최소 21곳 …승부처 '서울' 판세",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224685&inflow=N"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:52:00 +0900",
+                "title": "22대 총선 의사출신 후보자 총 15명···여권 8명, 야권 6명, 무소속 1명",
+                "link": "http://www.doctorstimes.com/news/articleView.html?idxno=226547"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:48:00 +0900",
+                "title": "서명옥 국민의힘 강남갑 후보, 개소식 성황리 개최",
+                "link": "https://www.naeil.com/news/read/505577?ref=naver"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:47:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+                "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:50:00 +0900",
+                "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
+                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:46:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:12:00 +0900",
+                "title": "이틀 연속 마이크 잡는 오세훈…서울 '도시 개발' 집중 발표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012450190?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:46:00 +0900",
+                "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:44:00 +0900",
+                "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:24:00 +0900",
+                "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:22:00 +0900",
+                "title": "총선 D-15 우세지역…국힘  82곳 ·민주  110곳 ",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436028"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:19:00 +0900",
+                "title": "'총선 D-15' 우세지역 묻자…국힘  82곳 ·민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964472?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:51:00 +0900",
+                "title": "양당이 분석한 '우세 지역'… 국민의힘  82곳 ·민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069769?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:46:00 +0900",
+                "title": "총선 D-15, 국민의힘 82곳·민주 110곳 ‘우세’… 막판 혼전 예상",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980675?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 00:12:00 +0900",
+                "title": "서명옥 강남갑 후보 “강남 재도약 위해 앞장서겠다”…1천여명 참석 '대성황...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325002349546"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:48:00 +0900",
+                "title": "고동진 강남병 후보 “강남 발전 위해 헌신”…한동훈 위원장, 고동진 후보 지...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325002035002"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:17:00 +0900",
+                "title": "‘수도권 위기론’에 한동훈 초긴장…강동 암사 시장서 “민생 정책 반드시 실...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278033?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:30:00 +0900",
+                "title": "총선 D-16, 국회의원 출마 나선 의사 출신은?",
+                "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154017"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:24:00 +0900",
+                "title": "고동진 후보  지금까지 일한 경험과 역량 사회에 환원할 것 ",
+                "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=29152"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:34:00 +0900",
+                "title": "선거 사무소 개소식 문화가 바뀌고 있다.",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=579267"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:53:00 +0900",
+                "title": "오세훈, 나경원 공약 ‘서울 내부순환 급행 철도’에 “흥미로운 제안”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980516?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:16:00 +0900",
+                "title": "여 내부순환 급행 철도망 공약에 오세훈  검토 가치 충분 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448117?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:52:00 +0900",
+                "title": "국민의힘, 서울 강남구 3후보 한 자리에",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427151?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 22:12:00 +0900",
+                "title": "[포토] 최재형 의원, 경로당서 '큰절' 등 종로 구석구석 민심 탐방",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355849"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:00:00 +0900",
+                "title": "박진, 서울 내부순환 급행전용 공약 ‘가재울뉴타운역 환승 연결’ 전격 합의",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19393&Newsnumb=20240319393"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:32:00 +0900",
+                "title": "22대 총선 서울 강남구 총 7명 후보자 등록",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427090?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 07:40:00 +0900",
+                "title": "4·10 총선 출마 의사 15명…강남 등서 선거 레이스",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3015750"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:05:00 +0900",
+                "title": "서울 총선 후보 '20억 이상' 자산가 40명…1위는?",
+                "link": "https://n.news.naver.com/mnews/article/215/0001154155?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 29319703
+            }
+        ],
+        "huboid": "100153096",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100153096/junkwa/20240322105747918_10.PDF"
+    }
 ]

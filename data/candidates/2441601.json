@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441601-1.jpg",
-    "id": "2441601-1",
-    "재산": 658946,
-    "생년월일": "19630110",
-    "경력": "(전)더불어민주당 원내대표단 선임부대표\n(현)국회의원(제20대.제21대)",
-    "학력": "오스트리아 빈 경제대학교 졸업(사회경제학박사, 2000.05.~2002.02.)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1004",
-    "regionId": "2441601",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:18:00 +0900",
-        "title": "국회의원 · 충남도의원 선거 출마자 톺아보기",
-        "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103922"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "충남지역 환경단체  SMR 건설 입장 밝혀야 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307357"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:00:00 +0900",
-        "title": "4·10 총선 D-9 자체 '판세' 살펴보니…與 '강원 5곳' 野 대전·세종 등 '금강...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219948"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:58:00 +0900",
-        "title": "[헬로 이슈토크] 당진시 어기구 더불어민주당 후보",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461643"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "어기구",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 455568
-      },
-      {
-        "연도": 2021,
-        "재산": 633352
-      },
-      {
-        "연도": 2022,
-        "재산": 706570
-      },
-      {
-        "연도": 2023,
-        "재산": 658946
-      }
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441601-2.jpg",
-    "id": "2441601-2",
-    "재산": 1815763,
-    "생년월일": "19641113",
-    "경력": "(전) 대통령비서실 행정관\n(전) 경기지방경찰청장",
-    "학력": "한성대학교 대학원 졸업(행정학 박사)",
-    "직업": "세한대학교 초빙교수",
-    "성별": "남",
-    "regionId": "2441601",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:22:00 +0900",
-        "title": "정용선 후보, 전·현직 학부모 회장과 간담회…“정용선 후보 응원합니다”",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240402000017107"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:18:00 +0900",
-        "title": "국회의원 · 충남도의원 선거 출마자 톺아보기",
-        "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103922"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "충남지역 환경단체  SMR 건설 입장 밝혀야 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307357"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:32:00 +0900",
-        "title": " 총선 후보들은 SMR 건설 관련 입장 밝혀라 ",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022552"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "정용선",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1815763
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441601-1.jpg",
+        "id": "2441601-1",
+        "재산": 658946,
+        "생년월일": "19630110",
+        "경력": "(전)더불어민주당 원내대표단 선임부대표\n(현)국회의원(제20대.제21대)",
+        "학력": "오스트리아 빈 경제대학교 졸업(사회경제학박사, 2000.05.~2002.02.)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1004",
+        "regionId": "2441601",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:20:00 +0900",
+                "title": "당진지역 총선 후보자토론회, 패널의 진부한 질문에 어 ‘체제 유지’, 정 '바...",
+                "link": "http://www.kukinews.com/newsView/kuk202404020330"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:22:00 +0900",
+                "title": "어기구 민주당 당진시 국회의원 후보, 공기업정책연대와 정책협약식 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359199"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "당진 어기구 후보, 공기업정책연대 정책협약식 개최",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330490"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "한동훈, 당진서 '국회이전·범죄심판' 호소... 이조 심판은 넘어야 할 산 ",
+                "link": "https://www.ajunews.com/view/20240402104336946"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:28:00 +0900",
+                "title": "충남 당진 국힘 정용선 50.8% 민주당 어기구 39.4%",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78908"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:58:00 +0900",
+                "title": "22대 국회와 정책 연대 강화하는 공공노동자들",
+                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33557"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:18:00 +0900",
+                "title": "국회의원 · 충남도의원 선거 출마자 톺아보기",
+                "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103922"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "충남지역 환경단체  SMR 건설 입장 밝혀야 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307357"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "4·10 총선 D-9 자체 '판세' 살펴보니…與 '강원 5곳' 野 대전·세종 등 '금강...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219948"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:58:00 +0900",
+                "title": "[헬로 이슈토크] 당진시 어기구 더불어민주당 후보",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461643"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": " 총선 후보들은 SMR 건설 관련 입장 밝혀라 ",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:28:00 +0900",
+                "title": "어기구 “실력 검증된 3선 힘으로…당진발전 위해 헌신할 터”",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240401132433719292eef753eb_12"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:09:00 +0900",
+                "title": " 스마트축산단지 반대  당진시민은 물론 여야 지역 정치권까지 가세",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085150?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:06:00 +0900",
+                "title": "'문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428299?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:00:00 +0900",
+                "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
+                "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+                "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:30:00 +0900",
+                "title": " 국회의원 후보들의 농업 · 농촌 발전을 위한 복안은? ",
+                "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103912"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:26:00 +0900",
+                "title": "더불어민주당 어기구 후보, 1호 법안으로 농민기본법 제정 밝혀",
+                "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103911"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "'스윙보터' 충청권 판세, 리턴매치에 달렸다",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022409"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:28:00 +0900",
+                "title": "어기구  사법 체계 완전 부정  vs 정용선  사건 조작 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307274"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:56:00 +0900",
+                "title": "민주 어기구 후보, 출정식 후 선거전 돌입",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968284"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:36:00 +0900",
+                "title": "(R)'치열한 공방전'..당진 후보자 토론회",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/68147"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:02:00 +0900",
+                "title": "[2024 총선-지상토론] 후보가 후보에게 묻는다2..어기구 ▶ 정용선",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203430"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:02:00 +0900",
+                "title": "[2024 총선-지상토론] 후보가 후보에게 묻는다1..정용선 ▶ 어기구",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203429"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "충청권 12곳 중 민주당 6곳 우세",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034179?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+                "title": " 내가 뽑으면 되는겨  예측 불가 충청 표심…여야 모두 목표는 같다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019212?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:40:00 +0900",
+                "title": "소형핵발전소(SMR) 설치 반대 공약    어기구 '추진 강력 저지' vs 정용선 '우...",
+                "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103876"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:28:00 +0900",
+                "title": "[총선 D-9] 민주당 어기구 vs 국민의힘 정용선 선거운동 막 올랐다",
+                "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=103866"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:24:00 +0900",
+                "title": "여야 모두  절반이 목표 …충청도 양반들, 이번에도 '황금 밸런스'?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019074?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:22:00 +0900",
+                "title": "13일간의 열전 시작..어기구·정용선 출정",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203428"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:30:00 +0900",
+                "title": "당진 어기구 후보, 선거첫날 출정식 갖고 본격 선거전 돌입",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330178"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:30:00 +0900",
+                "title": "[DTV] 2024 더불어민주당 당진시 국회의원 후보 어기구 출정식",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203426"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+                "title": "[총선현장] '당진' 어기구  힘 있는 3선으로 더 큰 당진 만들겠다 ",
+                "link": "https://www.newspim.com/news/view/20240329000525"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:42:00 +0900",
+                "title": "어기구 더불어민주당 당진시 국회의원 후보, 공식선거운동 첫날 출정식 통해 ...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358140"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:02:00 +0900",
+                "title": "국회의원 후보 어기구·정용선, 농업정책 관련 국정운영에 팽팽한 신경전",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203411"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 02:26:00 +0900",
+                "title": "더불어민주당 충남 후보 11명, 열전 13일간의 본격 선거운동 돌입",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357898"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+                "title": "당진 후보들이 말하는 '환경 개선·제2서해대교 건설' 방안은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461288"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:58:00 +0900",
+                "title": "민주 어기구, 아스팔트에 엎드려 지지호소",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769124"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:08:00 +0900",
+                "title": "한국노총  박수현·조한기·장철민·어기구 등 지지 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307140"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+                "link": "https://www.naeil.com/news/read/505806?ref=naver"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:34:00 +0900",
+                "title": " 당진 석탄발전소에 소형핵발소 건설? 민주-국힘, 두 후보 모두 반대 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427788?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:36:00 +0900",
+                "title": "어기구 후보, 생활편의 맞춤공약 발표 눈길",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357371"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:22:00 +0900",
+                "title": "[4·10 총선 인터뷰] 어기구 민주당 당진 후보  당진 발전 위해 강력한 3선 필...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193486"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:07:00 +0900",
+                "title": "어기구 후보, '모두가 편안한 시민행복도시'  생활편의 공약 발표",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791811"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "당진 어기구  정용선, 댓글공작 펼쳤다 징역형 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307087"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:58:00 +0900",
+                "title": "[선택4·10] 어기구, 생활편의 맞춤 공약 발표 눈길",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067115"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:52:00 +0900",
+                "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:18:00 +0900",
+                "title": "'시민행복도시 당진'... 어기구 후보, 생활편의 맞춤공약 발표 '눈길'",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954448"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:07:00 +0900",
+                "title": "[총선여론] 대전, 국힘  2곳 경합우위  민주  3곳 우세 .. 여야, 충청권 과반...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640688"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:42:00 +0900",
+                "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:01:00 +0900",
+                "title": "어기구 후보, 당진시 농민단체 후보자 초청 대담",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791622"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:00:00 +0900",
+                "title": "충청권 우세지역 물었더니 … 국힘 `4곳' 민주 `4곳'",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791743"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:33:00 +0900",
+                "title": "충남 당진 어기구후보, 의료복지공약 발표",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=967425"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:58:00 +0900",
+                "title": "[4.10총선-137] 충남 당진, 어기구vs정용선",
+                "link": "http://www.mhj21.com/160111"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:50:00 +0900",
+                "title": "어기구 후보  농민기본법, 제1호 법안으로 추진하겠다 ",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203380"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:47:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:30:00 +0900",
+                "title": "[선택 4·10] 어기구,  농민 3법 제·개정 찬성, 석문 대규모 축산단지 절대 ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066770"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:26:00 +0900",
+                "title": "어기구 더불어민주당 당진시 국회의원 후보, 당진시 농민단체 후보자 초청 대...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=356756"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+                "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:18:00 +0900",
+                "title": "[DTV숏츠] 이재명 대표, 파 한단 달라는 시민에  안돼~ 감옥 가 감옥!? ",
+                "link": "http://www.idjnews.kr/news/articleView.html?idxno=203375"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:48:00 +0900",
+                "title": "[4·10 총선 레이더] 농업정책토론회에 정용선 후보 '노쇼' 논란",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084474?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:18:00 +0900",
+                "title": "어기구 당진시 민주당 총선 후보 “산재종합병원 유치” 공약 발표",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240326140630790992eef753eb_12"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:50:00 +0900",
+                "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
+                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "어기구, 농민3법 재개정···석문축산단지 절대반대",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768862"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:46:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:20:00 +0900",
+                "title": "[총선돋보기] 충청 판세분석 與  과반 가능할것  野  4년전 대승재현 ",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240326010008156"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:46:00 +0900",
+                "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:44:00 +0900",
+                "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:24:00 +0900",
+                "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:24:00 +0900",
+                "title": "총선 후보 등록 후 첫 판세 자체 분석…더불어민주당  110곳  국민의힘  82곳...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764320"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 23:56:00 +0900",
+                "title": "[4·10 지지율] 與 ‘尹+이준석’ 新 텃밭도 ‘흔들’…이재명의 野 ‘약진’",
+                "link": "https://www.ekn.kr/web/view.php?key=20240325021371908"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:55:00 +0900",
+                "title": "어기구 후보  석문 대규모 축산단지 조성 강력 저지 ",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791411"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:54:00 +0900",
+                "title": "당진덤프지회ㆍ굴삭기지회, 어기구 후보 지지선언",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791436"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:27:00 +0900",
+                "title": "충남 당진덤프지회·굴삭기지회, 어기구 후보 지지선언",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=967157"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:26:00 +0900",
+                "title": "김동완 전 국회의원,  정용선 후보를 당진의 미래를 책임질 지도자로 꼭 뽑아...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=356427"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:52:00 +0900",
+                "title": "[4·10 총선 레이더] 어기구  당진시에 소아병동 갖춘 산재종합병원 유치하겠...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084362?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:40:00 +0900",
+                "title": "[4·10 총선 레이더] 정용선 후보, 김동완 전 의원에게 머리 숙여 사과",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084354?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:06:00 +0900",
+                "title": "어기구 후보, 노동자·시민 함께 누리는 의료복지 약속",
+                "link": "http://www.kukinews.com/newsView/kuk202403250288"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:00:00 +0900",
+                "title": "어기구 후보  소외없이 복지혜택누릴 수 있도록 최선 다할 것 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325010014625"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:51:00 +0900",
+                "title": "[단독]‘2050 탄소 중립’ 실천 첫 발...현대제철 LNG자가발전설비에 8000억 ...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277981?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:08:00 +0900",
+                "title": "[선택 4·10] 김동완 전 국회의원, 정용선 후보 지지 선언",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066272"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:56:00 +0900",
+                "title": "어기구, 의료복지 공약···산재종합병원 유치",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768779"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "어기구",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 455568
+            },
+            {
+                "연도": 2021,
+                "재산": 633352
+            },
+            {
+                "연도": 2022,
+                "재산": 706570
+            },
+            {
+                "연도": 2023,
+                "재산": 658946
+            }
+        ],
+        "huboid": "100152484",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4416/Hb100152484/junkwa/20240205093342030_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441601-2.jpg",
+        "id": "2441601-2",
+        "재산": 1815763,
+        "생년월일": "19641113",
+        "경력": "(전) 대통령비서실 행정관\n(전) 경기지방경찰청장",
+        "학력": "한성대학교 대학원 졸업(행정학 박사)",
+        "직업": "세한대학교 초빙교수",
+        "성별": "남",
+        "regionId": "2441601",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:20:00 +0900",
+                "title": "당진지역 총선 후보자토론회, 패널의 진부한 질문에 어 ‘체제 유지’, 정 '바...",
+                "link": "http://www.kukinews.com/newsView/kuk202404020330"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:22:00 +0900",
+                "title": "충청 찾은 한동훈 “범죄와의 전쟁” 선포",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475815"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+                "title": "한동훈, 文 '정부 무능론'에  지난 5년 정치 최악…돌아가고 싶나 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467291?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+                "title": "[총선 D-8] 한동훈 충청권 지원유세 ... 이재명은 재판 출석",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=437017"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+                "title": "한동훈  양문석, 집 팔면 사기대출 사라지나…후보 사퇴하라 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001488"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:56:00 +0900",
+                "title": "[총선현장] 한동훈, 충청권 집중 유세… 국회의사당 세종 이전은 새로운 발전...",
+                "link": "https://www.newspim.com/news/view/20240402001015"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:50:00 +0900",
+                "title": "한동훈  조국, 감옥서 영치금 뜯고 책 팔 것...파렴치 잡범 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+                "title": "한동훈 “文 정부 때 나라 망해가…흩어지면 대한민국이 죽어”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441571?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:53:00 +0900",
+                "title": "양문석 “집 팔겠다” 한동훈 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/024/0000088320?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+                "title": "[현장] 한동훈, 중원 민심 공략… 대한민국 워싱턴 D.C.로 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825378?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "총선판 덮친 '정부 심판론'에 충청권 '휘청'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107436"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:01:00 +0900",
+                "title": "한동훈, 조국 감옥 발언에  영치금 엄청 챙길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042607?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[총선 D-8] '민심 바로미터' 사전투표 임박… 與野, 접전지·험지 총출동",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026420"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:15:00 +0900",
+                "title": "[총선현장] '당진' 정용선  인물 교체론 강해...당진 발전 위해 이기겠다 ",
+                "link": "https://www.newspim.com/news/view/20240402000704"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:44:00 +0900",
+                "title": "“집 팔겠다”는 양문석에…한동훈 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282063?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:40:00 +0900",
+                "title": "당진 총선 이슈로 부상한 '돼지 축사'...  모든 정당이 반대 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428550?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "한동훈, 조국 직격탄  감옥가서도 억대 영치금 엄청 받아 챙길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331108?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:15:00 +0900",
+                "title": "[뉴스1 PICK]한동훈  지금은 뭉치면 살고 흩어지면 죽을 때 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "한동훈, 文직격  부동산 폭등 기억 안나나…野권력 잡으면 中굴종 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705241?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:46:00 +0900",
+                "title": "한동훈, 조국 직격 “감옥가면 정경심이 그랬듯 영치금 엄청 받아 갈 것”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920387?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:24:00 +0900",
+                "title": "한동훈이 “정의로운 사람” 소개한 정용선, 알고 보니 ‘댓글공작’ 징역형",
+                "link": "https://vop.co.kr/A00001650802.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:12:00 +0900",
+                "title": "한동훈  자유시민 뭉치면 살고, 흩어지면 대한민국 죽는다…모든 책임 제게 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864983?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:09:00 +0900",
+                "title": "한동훈  조국이 감옥서 스쾃?…영치금 엄청 받아갈 것 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020350?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "충청 찾은 한동훈  범죄와의 전쟁 …'이·조 심판' 몰이(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452696?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:40:00 +0900",
+                "title": "한동훈  양문석, 집 팔면 사기대출 사라지나…후보 사퇴하라 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001160"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:40:00 +0900",
+                "title": "한동훈  조국·정경심, 감옥에서 영치금 엄청 받을 것···자기들 잇속만 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78914"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "한동훈 위원장 당진 유세… 충청을 대한민국 중심으로 ",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461770"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:32:00 +0900",
+                "title": "한동훈, '편법 대출' 민주당 양문석에 후보직 사퇴 요구",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143757?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:29:00 +0900",
+                "title": "한동훈, 집 판다는 양문석에 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441449?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:28:00 +0900",
+                "title": "[총선현장]한동훈 “집 파는 게, 사기 대출하고 무슨 상관?”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271579?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:28:00 +0900",
+                "title": "한동훈  지금은 뭉치면 살고 흩어지면 죽을 때 ",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809700?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:28:00 +0900",
+                "title": "한동훈  뭉치면 살고 흩어지면 죽어…서로 손가락질 말라 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001133"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "한동훈, ‘아파트 처분’ 양문석에 “음주 운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982636?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "한동훈, 양문석 겨냥 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://www.etoday.co.kr/news/view/2346811"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:20:00 +0900",
+                "title": "한동훈  조국, 감옥 가면 정경심 그랬듯 영치금 엄청 챙길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070518?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:19:00 +0900",
+                "title": "“집 팔겠다” 양문석에 한동훈 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629878?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:07:00 +0900",
+                "title": "한동훈, '집 팔겠다' 양문석에  음주운전하고 차 팔면 용서되나 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143744?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:04:00 +0900",
+                "title": "[총선] 한동훈, ‘집 팔겠다’ 양문석에 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693486?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:01:00 +0900",
+                "title": "한동훈, 당진서 양문석 겨냥  음주운전 하고 차팔면 되나… 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085311?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:01:00 +0900",
+                "title": "한동훈 '당진 민심을 잡아라'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452433?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:00:00 +0900",
+                "title": "한동훈 '2번 뽑아주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452426?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "한동훈 '정용선 후보에게 지지를 부탁드립니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452408?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452402?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "당진 표심 잡기 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452401?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "한동훈, 野양문석 ‘아파트 처분’에 “음주운전하고 차 팔면 용서되냐”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705078?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "한동훈 총괄선대위원장 '정용선 후보 지지 호소'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452412?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "당진시민 앞에 선 한동훈 총괄선대위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452403?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:54:00 +0900",
+                "title": "한동훈  정경심 억대 영치금… 조국도 감옥 가면 그럴것 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322018?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:53:00 +0900",
+                "title": "한동훈, '집 팔겠다' 양문석에  음주운전하고 차팔면 용서되나 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604667?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "충남 당진 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604665?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "한동훈, 당진서 '국회이전·범죄심판' 호소... 이조 심판은 넘어야 할 산 ",
+                "link": "https://www.ajunews.com/view/20240402104336946"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "정용선 후보 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604662?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "당진전통시장 찾은 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604657?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "충남 당진 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604659?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "한동훈  조국, 감옥가면 영치금 엄청 받아갈 것…정경심 그랬듯 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452368?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604658?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604660?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:49:00 +0900",
+                "title": "세종, 대전 대덕 방문해 지지 호소한 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351446?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:48:00 +0900",
+                "title": "[총선 D-8] 한동훈, '스윙보터' 충청 민심 공략",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026217"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "지지호소 하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465478?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "당진 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465480?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "당진 시민들에 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465482?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465483?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "당진 시민들에 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465479?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "정용선 후보와 지지호소 하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465484?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465443?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465454?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "충남 당진 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465453?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "손 흔드는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465445?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465447?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "정용선 후보와 인사하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465444?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "이색 선거운동중",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465449?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "한동훈 위원장 '정용선 입니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452314?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465452?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "당진 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465441?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "배우자와 함께 지지 호소하는 정용선 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452315?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:41:00 +0900",
+                "title": "공룡 풍선옷 입고 이색 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465456?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "당진 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465434?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "'기호 2번'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604589?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "'2번 입니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452301?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604584?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465437?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "바빠진 선거운동원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465427?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "충남 당진 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465435?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "정용선 후보 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604586?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "당진 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465436?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "정용선 후보 지원유세 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604583?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465432?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "발언하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604588?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 정용선 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452300?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "당진 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452305?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "더욱 바빠진 선거운동원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465428?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "손가락으로 기호 표시하는 선거운동원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465426?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465442?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465440?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "정용선 후보 지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604587?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465450?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "정용선 후보 손 잡은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465439?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465433?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:40:00 +0900",
+                "title": "한동훈 비대위원장, 정용선 후보 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604585?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "정용선",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1815763
+            }
+        ],
+        "huboid": "100151004",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4416/Hb100151004/junkwa/20231211194130576_1.PDF"
+    }
 ]

@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-1.jpg",
-    "id": "2411001-1",
-    "재산": 618340,
-    "생년월일": "19701220",
-    "경력": "(현)국회의원\n(현)더불어민주당 전국소상공인위원회 공동위원장",
-    "학력": "서울대학교 정치학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1100",
-    "regionId": "2411001",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-        "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:42:00 +0900",
-        "title": "[4·10 총선] 민주당 안양동안갑  국민의힘 엉터리 선거공보물 사과해야 ",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242453"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:28:00 +0900",
-        "title": "안양동안갑 민병덕 VS 임재훈, '주요 공약은' (B tv abc뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168389"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:34:00 +0900",
-        "title": "[칼럼] 총선 후 2단계 가상자산법 입법 방향과 쟁점(?)",
-        "link": "https://www.nbnews.kr/news/articleView.html?idxno=90072"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:58:00 +0900",
-        "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "민병덕",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 684547
-      },
-      {
-        "연도": 2021,
-        "재산": 673489
-      },
-      {
-        "연도": 2022,
-        "재산": 622056
-      },
-      {
-        "연도": 2023,
-        "재산": 618340
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-2.jpg",
-    "id": "2411001-2",
-    "재산": 2762473,
-    "생년월일": "19660101",
-    "경력": "(전)제20대 국회의원\n(전)대통령직속 국민통합위원회 위원",
-    "학력": "연세대학교 행정대학원 졸업(정치학석사)",
-    "직업": "국민대학교 전임연구교수",
-    "성별": "남",
-    "regionId": "2411001",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-        "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:05:00 +0900",
-        "title": "국힘 안양 동안갑 임재훈 후보 “강남 10분 시대를 열겠다” [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037918?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 12:54:00 +0900",
-        "title": "여당 함운경 후보, 尹 대국민담화에  쇠귀에 경 읽기…탈당하라 ",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:04:00 +0900",
-        "title": "부활절 맞아 교회 예배 참석한 여·야 후보…주말 조기축구회 찾은 후보도 [S...",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037853?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 23:40:00 +0900",
-        "title": " 민심 순응, 의대증원 새롭게 논의를  국힘 선거사령탑 용산에 잇단 쓴소리",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864405?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "임재훈",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2762473
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-1.jpg",
+        "id": "2411001-1",
+        "재산": 618340,
+        "생년월일": "19701220",
+        "경력": "(현)국회의원\n(현)더불어민주당 전국소상공인위원회 공동위원장",
+        "학력": "서울대학교 정치학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1100",
+        "regionId": "2411001",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "[총선특집 2 안양시동안구갑]더불어민주당 수성이냐? 국민의힘 탈환이냐?",
+                "link": "http://www.breaknews.com/1024650"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+                "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:42:00 +0900",
+                "title": "[4·10 총선] 민주당 안양동안갑  국민의힘 엉터리 선거공보물 사과해야 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242453"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+                "title": "안양동안갑 민병덕 VS 임재훈, '주요 공약은' (B tv abc뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168389"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:34:00 +0900",
+                "title": "[칼럼] 총선 후 2단계 가상자산법 입법 방향과 쟁점(?)",
+                "link": "https://www.nbnews.kr/news/articleView.html?idxno=90072"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:58:00 +0900",
+                "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:16:00 +0900",
+                "title": " 금융사고 예방…감시체계 시행 더해 '소비자보호' 인식 강화해야 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850786"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:42:00 +0900",
+                "title": "4.10 총선 후보자들  1기 신도시 재건축 서두르겠다 ",
+                "link": "http://www.housingherald.co.kr/news/articleView.html?idxno=47753"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 01:40:00 +0900",
+                "title": "[과수원 사람들] 국민의힘 안양지역·김현준 국민의힘 수원갑·민병덕 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814714?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:54:00 +0900",
+                "title": "민병덕 민주당 안양 동안을 후보, 10대 대표 공약 발표",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644138"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:02:00 +0900",
+                "title": "민병덕 안양동안갑후보 기자간담회서 '시민 위한 10대 대표 공약' 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080704"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:42:00 +0900",
+                "title": "민병덕, 10대 공약 발표  인천지하철 2호선에 '비산사거리역' 설치 추진  [열...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037595?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:18:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 안양동안갑 민병덕, 1기 신도시 재건축 등 10대 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241791"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:22:00 +0900",
+                "title": "민병덕 후보 10대 공약 발표  안양을 한국의 실리콘밸리로 ",
+                "link": "http://www.newsian.co.kr/news/articleView.html?idxno=68330"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:22:00 +0900",
+                "title": "안양 동안갑 민주 민병덕 10대 공약 발표…정책대결 선언",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455933?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:28:00 +0900",
+                "title": "임재훈 국힘 후보 ‘돈 봉투 의혹’ 진실규명 촉구 기자회견 개최",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226224"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "1기 신도시 재건축 정책 고민 담아 민병덕 후보 김동연 지사에 제안",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080523"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "경기 민주 후보들 '재건축 원팀' 결성",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080529"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:04:00 +0900",
+                "title": "민주당 노후신도시 후보들 '재건축 원팀' 결성",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643889"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:31:00 +0900",
+                "title": "더불어민주당 재건축 원팀 공동기자회견 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037522?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:30:00 +0900",
+                "title": "안양시약  약사들은 이런 것 원합니다 ...총선 후보들에 건의",
+                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310210&REFERER=NP"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:18:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037520?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:38:00 +0900",
+                "title": "[이슈플러스] [단독] '고금리 논란' 보험약관대출 금리 떨어진다",
+                "link": "http://www.sentv.co.kr/news/view/682675"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:18:00 +0900",
+                "title": "[선택4·10] '안양동안갑' 임재훈, 민병덕 저격  시민 우롱말고 돈봉투 의혹 ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067238"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:58:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 재건축 원팀으로 수지구 노후지역...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241668"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "부승찬 용인시병 후보  수지구 노후지역 재정비 제대로 하겠다 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:28:00 +0900",
+                "title": "민주당 7곳 후보, 1기 신도시 '진행은 빠르게 부담금은 적게' 원팀 재건축 비...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080416"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:26:00 +0900",
+                "title": "부승찬 용인시병 후보, 김동연 지사에 신분당선 통행세 폐지 건의",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123096"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:14:00 +0900",
+                "title": "與임재훈  민병덕 '전당대회 돈 봉투 수수' 진실 밝혀야 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643845"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:04:00 +0900",
+                "title": "안양동안갑 임재훈  민병덕, 돈 봉투 수수 의혹 밝혀라 ",
+                "link": "http://www.mhj21.com/160132"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:56:00 +0900",
+                "title": "임재훈  민주당 민병덕 후보, '돈 봉투 수수 의혹' 진실 밝혀야 ",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99592"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "민주 재건축 원팀, 김동연 지사에 정책건의서 전달",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787465"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:48:00 +0900",
+                "title": "안양, 지역 국회의원 후보 만나 정책제안",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249599&category=A"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:40:00 +0900",
+                "title": "與 안양동안갑 임재훈  野 민병덕은 '돈 봉투 의혹' 진실 밝혀야… 사실이라면...",
+                "link": "http://www.metroseoul.co.kr/article/20240327500575"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "임재훈, '돈봉투 수수 의혹' 민병덕 직격… 배우자도 징역 4개월에 집행유예 ...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219493"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:12:00 +0900",
+                "title": "경기도 민주 후보들, ‘재건축 원팀’으로 재건축 혼란 막는다",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787398"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:02:00 +0900",
+                "title": "[4·10 총선] 안양 동안갑 민병덕 후보 비산·관양·평촌 권역별 교통공약 발...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241588"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:28:00 +0900",
+                "title": "[4·10 총선] 안양 동안갑 민병덕, 김동연 도지사에 신도시 정책 건의",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241542"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:06:00 +0900",
+                "title": "임재훈 국힘 안양동안갑 후보  민주당 민병덕 후보는 '돈봉투 수수 의혹' 진실...",
+                "link": "https://www.econovill.com/news/articleView.html?idxno=650298"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:54:00 +0900",
+                "title": "부승찬 용인병 후보 김동연 경기지사에 신분당선 통행세 폐지 건의",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080318"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:09:00 +0900",
+                "title": "부승찬  민주당 재건축 원팀으로 수지 노후 지역 재정비 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276669?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:07:00 +0900",
+                "title": "임재훈  민병덕 전당대회 '돈봉투 수수 의혹' 사실이면 사퇴해야  [열전 25시...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037444?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:05:00 +0900",
+                "title": "[과수원 사람들] 민주당 수원 김준혁·염태영 후보·국민의힘 수원 후보들·국...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814024?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:47:00 +0900",
+                "title": "[총선] 임재훈  민병덕 후보는 '돈 봉투 수수 의혹' 진실 밝혀라 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992042?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:46:00 +0900",
+                "title": "부승찬, 김동연 경기도지사에게 5대 수지발전정책 도정 반영 건의",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105709"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:44:00 +0900",
+                "title": "임재훈, 민병덕 전당대회 ‘돈봉투 수수 의혹’...“사실이라면 후보직 사퇴해...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327024542470"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:41:00 +0900",
+                "title": "부승찬, 김동연 지사에 신분당선 통행세 폐지·3호선 연장 등 건의",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427644?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:40:00 +0900",
+                "title": "부승찬 후보  더불어민주당 재건축 원팀으로 수지구 노후지역 재정비 제대로 ...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105703"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:20:00 +0900",
+                "title": "민주 김병욱·민병덕·이학영·염태영·부승찬 ‘재건축 원팀’ 3대 공약 발표",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327028152460"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:20:00 +0900",
+                "title": "[포토] 더불어민주당, '재건축 원팀' 첫 기자회견",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787372"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:30:00 +0900",
+                "title": "임재훈, 민병덕에 직격탄… '돈 봉투 수수 의혹' 밝혀라 ",
+                "link": "https://www.mediapen.com/news/view/907447"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:38:00 +0900",
+                "title": "임재훈  민주당 민병덕 후보 사퇴하라 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954225"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:24:00 +0900",
+                "title": "[일요서울TV] 민주당 민병덕 후보, '돈 봉투' 수수 의혹",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486002"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:10:00 +0900",
+                "title": "[뉴스레터K] 박민규 “행정은 현재, 정치는 미래! 관악의 도시 브랜드 만들 것...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688880?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+                "title": "민병덕 VS 임재훈, 안양동안갑 '민심은 어디로' (B tv abc뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168219"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:20:00 +0900",
+                "title": "민병덕·박민규 후보, ‘서울대-안양 직통선’ 공동 추진 결의",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240326026131992"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:08:00 +0900",
+                "title": " 텃밭 사수  vs  탈환 …경기 안양동안갑 공약 경쟁",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435834"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:28:00 +0900",
+                "title": "안양동안갑 민병덕 후보·관악갑 박민규 후보 '서울대∼안양 직통선' 추진 기...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079876"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:18:00 +0900",
+                "title": "[포토] 민병덕·박민규 서울대·안양 직통선 정책 협약 기자회견",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/25/2024032500277.html"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:30:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037181?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:02:00 +0900",
+                "title": "정부「분산에너지 활성화 특별법」, 데이터센터 수도권집중 완화 유도",
+                "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=213580"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:00:00 +0900",
+                "title": "공식선거운동 28일 '총성'…총선 여야 대진표는 [정국 기상대]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812832?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 이정섭 검사 탄핵 심판 3회 변론준비기일",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213217"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:00:00 +0900",
+                "title": "[오늘의 국회일정] 강기윤 의원실, 생명존중의날 기념행사·정책토론회(3.25)",
+                "link": "https://www.newspim.com/news/view/20240324000085"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:18:00 +0900",
+                "title": "[4·10=한다면 한다] 민병덕 후보  안양을 교통의 중심지로 만들겠다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240758"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:38:00 +0900",
+                "title": "안양시, 만안·동안갑·동안을 선거 열기 후끈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445899?sid=102"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:08:00 +0900",
+                "title": "민병덕 안양동안갑 후보-레미콘운송노조 지부, 정책협약식·지지선언 행사",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079474"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:02:00 +0900",
+                "title": "[벼랑 끝으로 내몰다]  있으나 마나? ... 피의사실공표죄, 국회 움직임은",
+                "link": "https://www.ltn.kr/news/articleView.html?idxno=42354"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:10:00 +0900",
+                "title": "[4.10총선-94] 안양 동안구갑, 민병덕vs임재훈. 시청 이전 논란 쟁점",
+                "link": "http://www.mhj21.com/160020"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:36:00 +0900",
+                "title": "제5회 안양 소상공인 희망대상…최대호 시장 등 수상",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240536"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10 총선] 레미콘운송노조 안양지부, 민병덕 후보 지지선언",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240523"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '입시비리' 조민 1심 선고",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213181"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:00:00 +0900",
+                "title": "[안양동안갑]임재훈  새로운 변화 필요  vs 민병덕  주거·교통 더 개선 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443630?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:00:00 +0900",
+                "title": "[오늘의 국회일정] 우상호·강득구·강민정 등 기자회견(3.22)",
+                "link": "https://www.newspim.com/news/view/20240321001158"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:17:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 21일 경기도 현장은 지금⑦",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036933?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:40:00 +0900",
+                "title": "민병덕 안양 동안갑 후보, 레미콘운송노동조합 안양지부와 정책 협약 체결",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642720"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:26:00 +0900",
+                "title": "민병덕 국회의원, 선거사무소 개소식 성황 “4년의 성과, 4년의 약속으로 잇겠...",
+                "link": "http://www.breaknews.com/1022380"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:26:00 +0900",
+                "title": "“국가와 지역의 비전, 국민들에게 희망 만드는 정치 하고 싶다”",
+                "link": "http://www.breaknews.com/1022379"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:26:00 +0900",
+                "title": "“안양 시민이 만들어준 힘, 오롯이 안양을 위해 쓰겠다”",
+                "link": "http://www.breaknews.com/1022378"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:16:00 +0900",
+                "title": "안양시소상공인연합회 '제5회 안양시 소상공인 희망대상' 시상식 개최",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642536"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 06:01:00 +0900",
+                "title": "‘1기 신도시 재건축’…후보들 “선도지구 많게, 분담금은 적게”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003285818?sid=101"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:04:00 +0900",
+                "title": "민병덕 안양동안갑 예비후보는  '경기도 철도기본계획' 서부선 경기남부 연장...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079046"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:32:00 +0900",
+                "title": "'험지' 안양 간 한동훈  신도시 재정비 추진…민주당 되면 불가능 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348664?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:33:00 +0900",
+                "title": "한동훈  황상무·이종섭 오늘 다 해결…절실하게 민심에 반응 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007424255?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:47:00 +0900",
+                "title": "“강남 뛰어넘는 분당으로”…여야 불문 ‘1기 신도시 재건축’ 선심성 남발",
+                "link": "https://n.news.naver.com/mnews/article/032/0003285659?sid=101"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:44:00 +0900",
+                "title": "두번째 도전 나선 민병덕, 안양동안갑에서 ‘재개발 파란’ 일으킬까",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240320020300482"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:55:00 +0900",
+                "title": "1기 신도시 9곳중 8곳이 야권 현역… 여당 ‘재건축 표심’ 잡기",
+                "link": "https://n.news.naver.com/mnews/article/021/0002627517?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 07:46:00 +0900",
+                "title": "한동훈, 경기선대위 첫 회의 '보수험지' 안양서, 경기남부 집중공략",
+                "link": "https://n.news.naver.com/mnews/article/018/0005696018?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 06:12:00 +0900",
+                "title": "한동훈, 오늘 경기 안양 간다…'수도권 위기론' 진화 행보",
+                "link": "https://n.news.naver.com/mnews/article/008/0005014146?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:54:00 +0900",
+                "title": "안태준 광주을 예비후보, 선거사무소 개소  가슴 설레는 도시를 만들것 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078379"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:22:00 +0900",
+                "title": "故 서강훈 기호일보 회장 별세 애도해 주신 분들",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078230"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 19:30:00 +0900",
+                "title": "민병덕 안양동안갑 예비후보, '안양 원팀'지지속 선거사무소 개소",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078335"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "민병덕",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 684547
+            },
+            {
+                "연도": 2021,
+                "재산": 673489
+            },
+            {
+                "연도": 2022,
+                "재산": 622056
+            },
+            {
+                "연도": 2023,
+                "재산": 618340
+            }
+        ],
+        "huboid": "100152982",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4110/Hb100152982/junkwa/20240321105055061_10.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411001-2.jpg",
+        "id": "2411001-2",
+        "재산": 2762473,
+        "생년월일": "19660101",
+        "경력": "(전)제20대 국회의원\n(전)대통령직속 국민통합위원회 위원",
+        "학력": "연세대학교 행정대학원 졸업(정치학석사)",
+        "직업": "국민대학교 전임연구교수",
+        "성별": "남",
+        "regionId": "2411001",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:14:00 +0900",
+                "title": "임재훈 국민의힘 동안갑 후보, 민병덕 캠프 공약 표절 문제 제기 반박...'날선...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644991"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "[총선특집 2 안양시동안구갑]더불어민주당 수성이냐? 국민의힘 탈환이냐?",
+                "link": "http://www.breaknews.com/1024650"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+                "title": "[4·10 총선] 안양 동안갑 임재훈 후보  민주당 허위 비방 말아야 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242688"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "임재훈 “자신이 했던 공약 다른 후보 하지 말라는 건 ‘오만’의 극치 ”",
+                "link": "https://n.news.naver.com/mnews/article/468/0001046288?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+                "title": "[총선 동서남북] 민병덕 민주 안양 동안갑, 국힘 임재훈 후보 공약 문제 제기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644735"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:05:00 +0900",
+                "title": "국힘 안양 동안갑 임재훈 후보 “강남 10분 시대를 열겠다” [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037918?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:54:00 +0900",
+                "title": "여당 함운경 후보, 尹 대국민담화에  쇠귀에 경 읽기…탈당하라 ",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:04:00 +0900",
+                "title": "부활절 맞아 교회 예배 참석한 여·야 후보…주말 조기축구회 찾은 후보도 [S...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037853?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:40:00 +0900",
+                "title": " 민심 순응, 의대증원 새롭게 논의를  국힘 선거사령탑 용산에 잇단 쓴소리",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864405?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:16:00 +0900",
+                "title": "한동훈, 안양·군포·의왕·안산 지원 유세… 자신 만만하다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460479?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:02:00 +0900",
+                "title": "한동훈 ‘이재명의 쓰레기 같은 말’ 발언에…민주 “그 입이 쓰레기통”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919523?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:56:00 +0900",
+                "title": "한동훈  이름 앞세운 조국당 골 때려…웅동학원 헌납해야 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703419?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:48:00 +0900",
+                "title": "“이재명의 쓰레기 같은 말”…한동훈, 발언 수위 더 세졌다",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919504?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 00:00:00 +0900",
+                "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:09:00 +0900",
+                "title": "[과수원 사람들] 박재순 수원무·이소영 의왕과천·최돈익 안양만안 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815139?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:41:00 +0900",
+                "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:08:00 +0900",
+                "title": "[포토] '밴드'투혼 한동훈  국민 눈치만 보겠다 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900312.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:58:00 +0900",
+                "title": "[포토] 지지호소하는 임재훈 안양동안갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900310.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:18:00 +0900",
+                "title": "한동훈  안양, 임재훈·심재철·최돈익에 맡겨 달라 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956762"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:15:00 +0900",
+                "title": "[현장]  싸우는 상대방은 범죄자들  한동훈, 이틀째 민주당 텃밭서 '직격'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815105?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:58:00 +0900",
+                "title": "삼덕공원 뜨거웠다...한동훈 “최돈익과 국회서 범죄자를 몰아내겠다”",
+                "link": "https://n.news.naver.com/mnews/article/468/0001045190?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:39:00 +0900",
+                "title": "한동훈, 선거운동 둘째날 조국 맹공격…화성서 '공영운 비난'(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459865?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+                "title": "안양동안갑 민병덕 VS 임재훈, '주요 공약은' (B tv abc뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168389"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:26:00 +0900",
+                "title": "[포토] 안양 최돈익·임재훈·심재철 지원유세하는 한동훈",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315327"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:52:00 +0900",
+                "title": "[4·10 총선] 한동훈  안양시민들의 삶 바꾸겠다  지지 호소",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242115"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:25:00 +0900",
+                "title": "[열전 25시] 3월 29일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037725?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:58:00 +0900",
+                "title": "네거티브 수위 끌어올린 한동훈  민주당 찍으면, 범죄 면허증 주는 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428088?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:30:00 +0900",
+                "title": "한동훈, 野200석 언급에 “개헌해 자유민주주의서 ‘자유’ 빼겠다는 것”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702986?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:27:00 +0900",
+                "title": "안양 후보들 지원유세 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445498?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:27:00 +0900",
+                "title": "국민의힘 안양 후보들 만난 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445500?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:27:00 +0900",
+                "title": "국민의힘 안양 후보들 지원유세 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445501?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:27:00 +0900",
+                "title": "국민의힘 안양 후보들 만난 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445502?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "안양 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445495?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "안양 찾아 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445494?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "안양 방문한 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445493?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "안양 방문한 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445490?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "국민의힘 안양 후보들 지원유세 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445496?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:26:00 +0900",
+                "title": "양팔 번쩍 든 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445492?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:23:00 +0900",
+                "title": "안양 후보들 지원유세 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445475?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "발언하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459213?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "지지 호소하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459211?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "후보들 지지 호소하는 한동훈 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459215?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "발언하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459218?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "지지 호소하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459216?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "지지 호소하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459212?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+                "title": "발언하는 한동훈 국민의힘 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459214?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459058?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "발언하는 한동훈 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459052?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459057?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459059?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459054?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "삼덕공원 인근에서 유세 펼치는 한동훈 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459053?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459060?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459056?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459055?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459064?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459061?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:51:00 +0900",
+                "title": "주먹 불끈 쥔 한동훈 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459062?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:42:00 +0900",
+                "title": "최돈익-임재훈-심재철 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459033?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:42:00 +0900",
+                "title": "지지 호소하는 한동훈 비상대책위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459036?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:42:00 +0900",
+                "title": "체인저 벨트 '국힘 총선 후보'들도  대통령이 직접 나서달라 ",
+                "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3015975"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:43:00 +0900",
+                "title": "안양에서 지지호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350785?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:42:00 +0900",
+                "title": "4.10 총선 후보자들  1기 신도시 재건축 서두르겠다 ",
+                "link": "http://www.housingherald.co.kr/news/articleView.html?idxno=47753"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:31:00 +0900",
+                "title": "[단독]한동훈의 '부가세 인하' 카드… 6개월 감면 시 소비자 부담 5000억 줄어",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320278?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 01:40:00 +0900",
+                "title": "[과수원 사람들] 국민의힘 안양지역·김현준 국민의힘 수원갑·민병덕 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814714?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:04:00 +0900",
+                "title": "전북 국회의석 절대 부족…수도권 전북연고 후보·비례대표 국회 진입 주목",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463632"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:54:00 +0900",
+                "title": "국민의힘 안양 3개 당협, 민주당 후보 규탄 및 사퇴 촉구 기자회견 개최",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644150"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "국민의힘 안양 3개 선거구 후보  멈춰버린 안양 발전 되돌리겠다  지지 호소",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787658"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:26:00 +0900",
+                "title": "[열전 25시] 3월 28일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037610?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:30:00 +0900",
+                "title": "[4·10 총선] 국민의힘 안양 3개 선거구 후보  민주당 독식 끝내야 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241830"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:05:00 +0900",
+                "title": "국힘 안양 후보들  야당 후보, 불법 의혹 진실 밝혀라 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456977?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:46:00 +0900",
+                "title": "임재훈 국민의힘 안양동안갑 후보, 선거사무소 개소식 개최",
+                "link": "http://www.breaknews.com/1023682"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:46:00 +0900",
+                "title": "심재철 국민의힘 안양동안갑 후보, 선거사무소 개소식 개최",
+                "link": "http://www.breaknews.com/1023681"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:56:00 +0900",
+                "title": "안양시 국힘 3개 당협,민주당 부도덕성 ‘한목소리’비판",
+                "link": "https://n.news.naver.com/mnews/article/468/0001044616?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:28:00 +0900",
+                "title": "임재훈 국힘 후보 ‘돈 봉투 의혹’ 진실규명 촉구 기자회견 개최",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226224"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:08:00 +0900",
+                "title": "與 임재훈  민주 민병덕, '돈봉투 수수 의혹' 진실 밝힐 것 ",
+                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=159828"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:32:00 +0900",
+                "title": "임재훈 후보  민병덕, 돈봉투 의혹 사실이면 사퇴해야 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643898"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:18:00 +0900",
+                "title": "[선택4·10] '안양동안갑' 임재훈, 민병덕 저격  시민 우롱말고 돈봉투 의혹 ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067238"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:14:00 +0900",
+                "title": "與임재훈  민병덕 '전당대회 돈 봉투 수수' 진실 밝혀야 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643845"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:04:00 +0900",
+                "title": "안양동안갑 임재훈  민병덕, 돈 봉투 수수 의혹 밝혀라 ",
+                "link": "http://www.mhj21.com/160132"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:56:00 +0900",
+                "title": "與 임재훈, 돈봉투 사건 연루 민병덕에 해명·후보 사퇴 요구",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222198"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:56:00 +0900",
+                "title": "임재훈  민주당 민병덕 후보, '돈 봉투 수수 의혹' 진실 밝혀야 ",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99592"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:54:00 +0900",
+                "title": "임재훈, '돈봉투 수수 의혹' 민병덕 직격  21대 총선서 배우자 징역 확정에도...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241606"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:40:00 +0900",
+                "title": "與 안양동안갑 임재훈  野 민병덕은 '돈 봉투 의혹' 진실 밝혀야… 사실이라면...",
+                "link": "http://www.metroseoul.co.kr/article/20240327500575"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "임재훈, '돈봉투 수수 의혹' 민병덕 직격… 배우자도 징역 4개월에 집행유예 ...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219493"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:06:00 +0900",
+                "title": "임재훈 국힘 안양동안갑 후보  민주당 민병덕 후보는 '돈봉투 수수 의혹' 진실...",
+                "link": "https://www.econovill.com/news/articleView.html?idxno=650298"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:07:00 +0900",
+                "title": "임재훈  민병덕 전당대회 '돈봉투 수수 의혹' 사실이면 사퇴해야  [열전 25시...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037444?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:05:00 +0900",
+                "title": "[과수원 사람들] 민주당 수원 김준혁·염태영 후보·국민의힘 수원 후보들·국...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814024?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:47:00 +0900",
+                "title": "[총선] 임재훈  민병덕 후보는 '돈 봉투 수수 의혹' 진실 밝혀라 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992042?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:44:00 +0900",
+                "title": "임재훈, 민병덕 전당대회 ‘돈봉투 수수 의혹’...“사실이라면 후보직 사퇴해...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327024542470"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:30:00 +0900",
+                "title": "임재훈, 민병덕에 직격탄… '돈 봉투 수수 의혹' 밝혀라 ",
+                "link": "https://www.mediapen.com/news/view/907447"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:38:00 +0900",
+                "title": "임재훈  민주당 민병덕 후보 사퇴하라 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954225"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:24:00 +0900",
+                "title": "[일요서울TV] 민주당 민병덕 후보, '돈 봉투' 수수 의혹",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486002"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:24:00 +0900",
+                "title": "기자회견하는 임재훈",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954212"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:22:00 +0900",
+                "title": "임재훈 불법 경선으로 국회의원 된 사람을 다시 단수공천 하는 민주당 납득 못...",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954208"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:20:00 +0900",
+                "title": "임재훈  민주당 민병덕 후보는 '돈 봉투 수수 의혹' 진실 밝혀라 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954203"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:10:00 +0900",
+                "title": "임재훈 “민병덕 ‘전당대회 돈 봉투 수수’ 사실이면 후보직 사퇴하라”",
+                "link": "https://n.news.naver.com/mnews/article/468/0001044015?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+                "title": "민병덕 VS 임재훈, 안양동안갑 '민심은 어디로' (B tv abc뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=60&p_no=168219"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:33:00 +0900",
+                "title": "“돌려받은 대출 이자로 아이 학원 한번 더”…국힘, 주택은행 부활 제안",
+                "link": "https://n.news.naver.com/mnews/article/009/0005278601?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:22:00 +0900",
+                "title": "추억의 '주택은행' 소환한 국힘 후보들… 주담대 금리 확 낮추자 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964785?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "임재훈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2762473
+            }
+        ],
+        "huboid": "100152177",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4110/Hb100152177/junkwa/20240321111459848_9.PDF"
+    }
 ]

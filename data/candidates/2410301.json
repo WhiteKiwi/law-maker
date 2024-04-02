@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-1.jpg",
-    "id": "2410301-1",
-    "재산": 1096525,
-    "생년월일": "19670910",
-    "경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
-    "학력": "중앙대학교 경영학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "982",
-    "regionId": "2410301",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:09:00 +0900",
-        "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:04:00 +0900",
-        "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
-        "link": "http://www.mhj21.com/160240"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:49:00 +0900",
-        "title": "'윤석열·이재명 대리전' 수원병 여론은? 김영진 51.1% 對 방문규 41.5%",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075686?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-        "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김영진",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 995203
-      },
-      {
-        "연도": 2021,
-        "재산": 1054584
-      },
-      {
-        "연도": 2022,
-        "재산": 1103283
-      },
-      {
-        "연도": 2023,
-        "재산": 1096525
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-2.jpg",
-    "id": "2410301-2",
-    "재산": 7747562,
-    "생년월일": "19620226",
-    "경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
-    "학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2410301",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:00:00 +0900",
-        "title": "수원병 방문규·김영진, TV 토론서 ‘철도지하화’ 두고 신경전",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=788077"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-        "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:49:00 +0900",
-        "title": "'윤석열·이재명 대리전' 수원병 여론은? 김영진 51.1% 對 방문규 41.5%",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075686?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "수원병, 재선 관록 vs 장관 경험… 창과 방패 ‘진검승부’ [격전지를 가다]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037938?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "방문규",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 7747562
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-1.jpg",
+        "id": "2410301-1",
+        "재산": 1096525,
+        "생년월일": "19670910",
+        "경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
+        "학력": "중앙대학교 경영학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "982",
+        "regionId": "2410301",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:39:00 +0900",
+                "title": "[격전지 속으로][4·10 총선] '수도권 최대 승부처' 경기 수원병…재선 현역 ...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809801?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:26:00 +0900",
+                "title": "수원 경부선 지하화 공약 충돌... 수원역까지  vs  세류역까지  (B tv 수원뉴...",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168495"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:17:00 +0900",
+                "title": "수원병, 김영진·방문규… ‘철도지하화·트램’ 공방",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038069?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "'한강·반도체 벨트' 열세···與 역대급 참패 재현 우려",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107591"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "'윤석열·이재명 대리전' 수원병, 1만2000명 늘어난 '매교동' 표심이 관건[격...",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793846?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:11:00 +0900",
+                "title": "'김영진 대 방문규, 경기 수원병 선거구 승자는 누구?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816206?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:09:00 +0900",
+                "title": "시민들에게 지지 호소하는 김영진 더불어민주당 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816202?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:08:00 +0900",
+                "title": "화서역에서 지지 호소하는 김영진 더불어민주당 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816201?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:07:00 +0900",
+                "title": "지지 호소하는 김영진 더불어민주당 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816200?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:07:00 +0900",
+                "title": "'김영진 대 방문규, 경기 수원병 표심은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816199?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:09:00 +0900",
+                "title": "[원포인트 공약] 녹색정의당 중·영도구 김영진 후보,  무상대중교통 실현 ",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070133?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+                "title": "[4.10총선-192] 부산 중·영도, 박영미vs조승환vs김영진. 낙후된 원도심",
+                "link": "http://www.mhj21.com/160240"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:49:00 +0900",
+                "title": "'윤석열·이재명 대리전' 수원병 여론은? 김영진 51.1% 對 방문규 41.5%",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075686?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+                "title": "[원포인트 공약] 더불어민주당 중·영도구 박영미 후보,  태종대선 신설, 중구...",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070126?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "수원병, 재선 관록 vs 장관 경험… 창과 방패 ‘진검승부’ [격전지를 가다]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037938?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:08:00 +0900",
+                "title": "[총선 여론조사-경기 수원병] '민주 김영진 44% vs 국힘 방문규 30%'",
+                "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246987"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "[경기 수원병 여론조사] 민주 김영진 44%·국힘 방문규 30%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958230"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:53:00 +0900",
+                "title": "'반도체 벨트' 수원병, 김영진 44%·방문규 30%…오차밖 앞서",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450550?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:31:00 +0900",
+                "title": "[경기 수원병] 더불어민주당 김영진 44%, 국민의힘 방문규 30%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428336?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:19:00 +0900",
+                "title": "수원병, 김영진 44%… 방문규 30%",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629747?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:01:00 +0900",
+                "title": "여당 수원탈환 ‘고전’ … 비례도 야권이 압도",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629716?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:01:00 +0900",
+                "title": "3선에 도전하는 ‘지역일꾼’ vs 수원토박이 출신 ‘예산통’",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629717?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "‘일잘러’ 정진석vs‘인간미’ 박수현… ‘안정’ 송기헌vs‘변화’ 김완섭[...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441050?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:52:00 +0900",
+                "title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:36:00 +0900",
+                "title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+                "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": "선관위 주최 중영도구 후보자 토론회 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262684"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": "[4·10 총선 여론조사-수원병] 국민의힘 37.3% &gt; 더불어민주당 31.9%",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644540"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:56:00 +0900",
+                "title": "공식 선거운동기간 첫 휴일, 유세전 가열",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262673"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:32:00 +0900",
+                "title": "‘성과’ 정진석 vs ‘관리’ 박수현…‘안정’ 송기헌 vs ‘변화’ 김완섭 [...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441019?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "수원시 국민의힘 후보들, 민주당 김준혁 후보 사퇴 촉구",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018243"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:10:00 +0900",
+                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "경기도 표심, '정권심판' 태풍에 21대 총선 재연하나?",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277518?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:48:00 +0900",
+                "title": "부산 공식선거운동 첫 주말 열기 후끈",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262665"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:39:00 +0900",
+                "title": "지원 유세 '하루 쉰' 이재명 위원장, 서울 격전지 10곳 지원 사격",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809189?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "′해운대 선거구′ 토론회 생방송 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "부산 공식선거운동 첫 주말 열기 후끈",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262652"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:02:00 +0900",
+                "title": "[이기자의 메디컬나우] 복지부 경력 방문규·안도걸·남평오, 총선 출마",
+                "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=401680"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:07:00 +0900",
+                "title": "파란색 짙어진 격전지…전문가  총선은 막판까지 흔들려  [총선 D-11 수도권 ...",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047628?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:49:00 +0900",
+                "title": "[핫플민심] 3선 '경제통' vs 현역 '민주당의 입'…한강벨트 '스윙보터' 중·성...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386300?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+                "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:30:00 +0900",
+                "title": "[4·10총선] 제주시갑 후보들 출정식 개최",
+                "link": "http://www.jejumaeil.net/news/articleView.html?idxno=335576"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:04:00 +0900",
+                "title": " 무능한 尹 정권 ,심판해 달라 ...수원특례시 민주당 다섯 후보 합동으로 출정...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686899"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:03:00 +0900",
+                "title": "용산 권영세, 분당 안철수·김병욱, 계양 원희룡 추격전에 총선 승패 갈린다",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075489?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:56:00 +0900",
+                "title": "더불어민주당 수원 후보 원팀  국회의원 선거 승리로 정권 심판  다짐",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48155"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:56:00 +0900",
+                "title": "경기 최대 5석 수원 후보들, 유권자 손 잡으며 표심잡기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644189"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:50:00 +0900",
+                "title": "3당 격전지 중구-영도구",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262606"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:54:00 +0900",
+                "title": "'미래 먹거리' 표심 직결… 시민 곁에 간 여야 주자들",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080865"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:15:00 +0900",
+                "title": "선거운동 첫날, 경기도 금배지 쟁탈전 ‘후끈’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037664?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900",
+                "title": "[4·10총선 선거운동 첫날] 지하철 첫 차 '표심 호소'…합동 출정식 '승리 결...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241983"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:18:00 +0900",
+                "title": "수원 민주당 합동 출정식  4월 10일 투표로 심판해달라  (B tv 수원뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168335"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "경기도 정치 1번지 수원 민주당 후보들 합동 출정식 가져",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080768"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "수원시 민주당 다섯후보 합동 출정식…4·10 총선 필승 결의",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690667"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:09:00 +0900",
+                "title": "거대 양당 맞서는 부산 진보당·녹색정의당",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457702?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:08:00 +0900",
+                "title": "민주당 수원 후보들 ‘원팀’으로 뭉쳤다… “총선 승리로 정권 심판”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240328021012789"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:28:00 +0900",
+                "title": "[22대 총선] D-13, 부산 총선 후보자 공식 선거운동 레이스 돌입",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503296"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "'10여년 民 독주'vs'무능한 尹 정부' 쌍방 심판론 꺼낸 수원 총선판",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702356?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:19:00 +0900",
+                "title": "[총선여론] 경남도 파란 물결.. 충청·서울·수원 격전지 민주 우세 지속",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640978"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+                "title": "4·10 총선 ‘같으면서 다른’ 표심 공략…‘단일대오’ VS ‘각개전투’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787622"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+                "title": "총선 공식선거운동 시작…경기 여야 표심 공략 나섰다",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457355?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:12:00 +0900",
+                "title": "민주당 수원 후보들 팔달문서 총선 필승 결의",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/28/2024032800330.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:50:00 +0900",
+                "title": "[포토] 더불어민주당  원팀 출정식  수원지역 사수",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241841"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:28:00 +0900",
+                "title": "'정권심판'vs'거대야당 심판'…부산지역 주요 정당 선거전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443467?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:06:00 +0900",
+                "title": "[22 총선] 염태영,  위대한 수원시민과 함께 승리하고 민생 되살리겠다 ",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304291"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:05:00 +0900",
+                "title": "민주당 염태영 후보, 공식 선거운동 돌입…“위대한 수원시민과 함께 승리하고...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440492?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:02:00 +0900",
+                "title": "민주당 수원 원팀 팔달문에서 합동 출정…“윤 정부 심판, 무너진 대한민국 바...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037587?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:43:00 +0900",
+                "title": "더불어민주당 다섯 후보, 팔달문서 합동 출정식 가져",
+                "link": "https://www.newspim.com/news/view/20240328000757"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:10:00 +0900",
+                "title": "[현장]  수원 5명 다 당선돼야 尹 확실히 심판 …민주당 수원 합동 출정식",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814489?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:03:00 +0900",
+                "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "막 올린 4·10총선 선거운동… '민주 vs 국힘' 곳곳서 표심 잡기(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442858?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:14:00 +0900",
+                "title": " 22대 총선 후보자 10명 중 3명 전과기록 보유···부실 공천 '도마 위' ",
+                "link": "https://www.ngonews.kr/news/articleView.html?idxno=149058"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+                "link": "https://www.naeil.com/news/read/505806?ref=naver"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:45:00 +0900",
+                "title": " 삶의 질도 후퇴 …수원 민주후보 5명 '정권심판·지역수성' 다짐",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442531?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:10:00 +0900",
+                "title": "수원병 ‘尹·李 대리전’… 방문규·김영진 막상막하",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226152"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:26:00 +0900",
+                "title": "'정치를 잘못 배웠다' vs '녹취록 비열한 정치' 팽팽한 신경전",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425242"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:02:00 +0900",
+                "title": "막 오른 공식 선거운동… ‘경기대전’ 화력 집중 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037545?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+                "title": "대중교통 무료, 24시간 보육시설…제3지대 정당 ‘이색공약’",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069788?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:12:00 +0900",
+                "title": "[4·10 총선 경기도 판세 분석] 총성 울린 총선, 민주 27곳·국힘 7곳 우세 전...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241718"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:23:00 +0900",
+                "title": "[격전지 속으로][4·10 총선] 대통령실 있는 정치 1번지 용산…4년 전엔 890표...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808559?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:06:00 +0900",
+                "title": "‘스타 인사’ 보냈지만... 수원에서 고전하는 與",
+                "link": "https://n.news.naver.com/mnews/article/366/0000981231?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "[선택4·10] 여야, 공약 놓고 '공방'… 국민 기만 행위  vs.  억울한 사람 양...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067278"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "28일 0시 ‘총선 공식 선거운동’ 개시…여야 표밭갈이 총력",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787454"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:18:00 +0900",
+                "title": "[총선 격전지 여론조사-반도체벨트] 화성을 용인갑 수원병·정 모두 민주 우세",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237713"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:06:00 +0900",
+                "title": "'20년 패배' 국민의힘 제주도당  '원팀'으로 정치교체 이루겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007439993?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:44:00 +0900",
+                "title": "[선거레이더]중구영도구 박영미·조승환·김영진 3파전",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461063"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:02:00 +0900",
+                "title": "단일후보 내고 선거 연대, '힘 합치는 야권' (B tv 부산뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168244"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:26:00 +0900",
+                "title": "순천지역 국회의원과 시의원 ‘명예훼손’ 고소전 내막은?",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440142?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:25:00 +0900",
+                "title": "[경기 수원병] 더불어민주당 김영진 50%, 국민의힘 방문규 34%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427612?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:06:00 +0900",
+                "title": "국민의힘 수원 지역구 후보들 “수원 군공항 시민 품에 돌려줄 것”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327029192372"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김영진",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 995203
+            },
+            {
+                "연도": 2021,
+                "재산": 1054584
+            },
+            {
+                "연도": 2022,
+                "재산": 1103283
+            },
+            {
+                "연도": 2023,
+                "재산": 1096525
+            }
+        ],
+        "huboid": "100152714",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4103/Hb100152714/junkwa/20240214113817453_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-2.jpg",
+        "id": "2410301-2",
+        "재산": 7747562,
+        "생년월일": "19620226",
+        "경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
+        "학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2410301",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:44:00 +0900",
+                "title": "방문규 후보, 지역 청년기업가들과 '원도심 상권 부활' 방안 논의",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:39:00 +0900",
+                "title": "[격전지 속으로][4·10 총선] '수도권 최대 승부처' 경기 수원병…재선 현역 ...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809801?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:01:00 +0900",
+                "title": "한동훈 뜨고 尹 사라졌다… 與 선거공보 들여다보니",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793941?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+                "title": "무상의료운동본부 선정 최악의후보 '국힘 원희룡, 박정하, 강기윤, 윤희숙'  ...",
+                "link": "http://worknworld.kctu.org/news/articleView.html?idxno=504334"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:26:00 +0900",
+                "title": "수원 경부선 지하화 공약 충돌... 수원역까지  vs  세류역까지  (B tv 수원뉴...",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168495"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:17:00 +0900",
+                "title": "수원병, 김영진·방문규… ‘철도지하화·트램’ 공방",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038069?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:25:00 +0900",
+                "title": "[포토] 무상의료운동본부,  의료공공성 파괴  총선 낙선 대상자 발표",
+                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33560"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+                "title": "'시민건강 위협' 총선 후보 22인 발표…최악은 누구",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278174?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "의료계도 총선 낙선운동… 시민 생명과 건강 위협  주장",
+                "link": "https://www.econovill.com/news/articleView.html?idxno=650892"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "'한강·반도체 벨트' 열세···與 역대급 참패 재현 우려",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107591"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+                "title": "원희룡·강기윤·윤희숙, 국민 건강에 '최악의 후보'",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220816"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "'윤석열·이재명 대리전' 수원병, 1만2000명 늘어난 '매교동' 표심이 관건[격...",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793846?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:36:00 +0900",
+                "title": " 국민의힘 원희룡·박정하·강기윤·윤희숙 국회 입성 저지돼야 ",
+                "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3029414"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:11:00 +0900",
+                "title": "'김영진 대 방문규, 경기 수원병 선거구 승자는 누구?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816206?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:10:00 +0900",
+                "title": "시민들에게 지지 호소하는 방문규 국민의힘 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816205?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:10:00 +0900",
+                "title": "화서역에서 지지 호소하는 방문규 국민의힘 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816204?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:09:00 +0900",
+                "title": "지지 호소하는 방문규 국민의힘 경기 수원병 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816203?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:07:00 +0900",
+                "title": "'김영진 대 방문규, 경기 수원병 표심은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816199?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:53:00 +0900",
+                "title": "4·10 총선 D-8…시민 생명 위협할 '위험' 국회의원 후보?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880870?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:00:00 +0900",
+                "title": "[4·10총선 TV토론회] 수원병 방문규·김영진, TV 토론서 ‘철도지하화’ 두고...",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788077"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:49:00 +0900",
+                "title": "'윤석열·이재명 대리전' 수원병 여론은? 김영진 51.1% 對 방문규 41.5%",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075686?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "수원병, 재선 관록 vs 장관 경험… 창과 방패 ‘진검승부’ [격전지를 가다]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037938?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:08:00 +0900",
+                "title": "[총선 여론조사-경기 수원병] '민주 김영진 44% vs 국힘 방문규 30%'",
+                "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246987"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+                "title": "[4·10 총선 인터뷰] 방문규  원도심 잃어버린 8년… 영광 부활시킬 것 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100243.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "[경기 수원병 여론조사] 민주 김영진 44%·국힘 방문규 30%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958230"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:53:00 +0900",
+                "title": "'반도체 벨트' 수원병, 김영진 44%·방문규 30%…오차밖 앞서",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450550?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:31:00 +0900",
+                "title": "[경기 수원병] 더불어민주당 김영진 44%, 국민의힘 방문규 30%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428336?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:19:00 +0900",
+                "title": "수원병, 김영진 44%… 방문규 30%",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629747?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:01:00 +0900",
+                "title": "3선에 도전하는 ‘지역일꾼’ vs 수원토박이 출신 ‘예산통’",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629717?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:01:00 +0900",
+                "title": "여당 수원탈환 ‘고전’ … 비례도 야권이 압도",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629716?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:38:00 +0900",
+                "title": "[총선 격파남 5회] '막바지 여론조사 수원병의 선택은?'… '찐명' 김영진 VS ...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644629"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:46:00 +0900",
+                "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:16:00 +0900",
+                "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:56:00 +0900",
+                "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:52:00 +0900",
+                "title": "[4·10 총선 여론조사-수원병] 김영진 51.1% vs 방문규 41.5%",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644532"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:36:00 +0900",
+                "title": "경기도 다수 지역구 민주당 우세속… 국민의힘  반전 여력 있다 ",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003622"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+                "title": "[경기 수원병] 더불어민주당 김영진 51.1%, 국민의힘 방문규 41.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428258?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:24:00 +0900",
+                "title": "박재순 “수원, 세계가 놀랄만한 반도체 메카로 재탄생시킬 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787883"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:44:00 +0900",
+                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+                "title": "국힘 수원 후보, 민주 김준혁에 사퇴 촉구…“왜곡된 성관념 가져”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787878"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "수원시 국민의힘 후보들, 민주당 김준혁 후보 사퇴 촉구",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018243"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:34:00 +0900",
+                "title": "국민의힘 수원시무 박재순 후보,  수원을 세계적 반도체 산업 메카로 육성 ",
+                "link": "http://www.metroseoul.co.kr/article/20240331500304"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "국힘 수원 후보들  '젖가슴 비유, 박정희 성관계' 막말 김준혁 사퇴하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448471?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:02:00 +0900",
+                "title": "[총선 D-10] 국힘 방문규 수원병 후보, 출정식 … 총선 승리 의지 다져 ",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025652"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": " 여성 性 대상화·박정희 비하 김준혁 사퇴하라 …수원 국힘 후보들 규탄대회",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815415?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "국민의힘 수원 후보들 “논란 발언 김준혁, 후보 사퇴해야”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240331020093458"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:10:00 +0900",
+                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "경기도 표심, '정권심판' 태풍에 21대 총선 재연하나?",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277518?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:02:00 +0900",
+                "title": "[이기자의 메디컬나우] 복지부 경력 방문규·안도걸·남평오, 총선 출마",
+                "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=401680"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:07:00 +0900",
+                "title": "파란색 짙어진 격전지…전문가  총선은 막판까지 흔들려  [총선 D-11 수도권 ...",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047628?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:28:00 +0900",
+                "title": "[포토] 양팔 흔드는 방문규 수원병 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900324.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:12:00 +0900",
+                "title": "한동훈 “민주당은 국민 입장 무시해…우리는 국민의 눈치만 볼 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787717"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:58:00 +0900",
+                "title": "한동훈  '네까짓게 어쩔건데' 국민무시, 민주당과 차이 봐달라 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703273?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:36:00 +0900",
+                "title": "[4·10 총선]수원 유세 지원한 국힘 한동훈 비상대책위원장  정치 개혁 실천한...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242130"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:56:00 +0900",
+                "title": "총선 핵심 의제된 '반도체'…여야 앞다퉈 공약 내놔",
+                "link": "https://www.asiatime.co.kr/article/20240329500051"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:16:00 +0900",
+                "title": "&lt;22대 총선 후보 검증&gt; 행정부가 할 수 있는 일 없다... 4개월 장관 방문규",
+                "link": "https://n.news.naver.com/mnews/article/607/0000001935?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+                "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:44:00 +0900",
+                "title": "[총선특집] '추경호·방문규·김완섭·안도걸·조인철…' 22대 총선, 경제인 ...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486164"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:20:00 +0900",
+                "title": "수원벨트 공략하는 국민의힘 수원갑 '김현준 후보'",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7245"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:45:00 +0900",
+                "title": "지역구는 민주 46.7% 국힘 39.1% ‘오차범위 밖’ [4·10 총선 여론조사]",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287811?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:03:00 +0900",
+                "title": "용산 권영세, 분당 안철수·김병욱, 계양 원희룡 추격전에 총선 승패 갈린다",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075489?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:02:00 +0900",
+                "title": "경기 지역구 민주 46.7%·국힘 39.1%…새미래 3.6%·개혁신당 3.3%[조원씨앤아...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287631?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:54:00 +0900",
+                "title": "방문규 수원병 후보 출정식… 팔달‧세류 새롭게 변화 시키겠다 ",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240329004234908892eef753eb_12"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:56:00 +0900",
+                "title": "경기 최대 5석 수원 후보들, 유권자 손 잡으며 표심잡기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644189"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:54:00 +0900",
+                "title": "'미래 먹거리' 표심 직결… 시민 곁에 간 여야 주자들",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080865"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:15:00 +0900",
+                "title": "선거운동 첫날, 경기도 금배지 쟁탈전 ‘후끈’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037664?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:01:00 +0900",
+                "title": "[현장]  10여년의 민주당 독주가 수원·팔달 거덜 냈다 …방문규 출정식 '일성...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814696?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900",
+                "title": "[4·10총선 선거운동 첫날] 지하철 첫 차 '표심 호소'…합동 출정식 '승리 결...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241983"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:18:00 +0900",
+                "title": "반도체 벨트 여당 후보 총출동... 반도체 특별법 공동 발의  (B tv 수원뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168336"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:04:00 +0900",
+                "title": "방문규 후보 출정식  팔달, 세류의 놀라운 변화 시작하겠다 ",
+                "link": "http://www.m-economynews.com/news/article.html?no=42647"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "방문규 국힘 수원병 후보 출정식, “놀라운 변화를 시작하겠다”",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690668"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:21:00 +0900",
+                "title": "반도체벨트 '시선 집중'… 국힘 4곳·민주 35곳 '확실히 우세'[3대 승부처 판...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163540?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:10:00 +0900",
+                "title": "국민의힘, 최다 의석 경기도 열세 뒤집는다… “범죄세력 심판하자”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240328025462863"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:52:00 +0900",
+                "title": "[4·10 총선] 국민의힘 수원병 방문규 출정식  팔달을 위해 모든 것 바치겠다...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241929"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:52:00 +0900",
+                "title": "국민의힘 방문규 수원병 후보 출정식",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644140"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:32:00 +0900",
+                "title": "[22 총선] 방문규  수원 팔달, 세류1동의 놀라운 변화를 시작하겠다 ",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304297"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:24:00 +0900",
+                "title": "방문규 후보  팔달 ·세류 놀라운 변화 시작하겠다 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017058"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "'10여년 民 독주'vs'무능한 尹 정부' 쌍방 심판론 꺼낸 수원 총선판",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702356?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:19:00 +0900",
+                "title": "[총선여론] 경남도 파란 물결.. 충청·서울·수원 격전지 민주 우세 지속",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640978"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+                "title": "4·10 총선 ‘같으면서 다른’ 표심 공략…‘단일대오’ VS ‘각개전투’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787622"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-②경기]'시선집중' 반도체 벨트, 초접전지 누...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163487?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:38:00 +0900",
+                "title": "방문규  민주당 독주 막고 팔달, 세류1동의 놀라운 변화를 시작하겠다 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317081"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+                "title": " 팔달·세류의 아들 방문규, 모든 것 바치겠다 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/28/2024032800342.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:10:00 +0900",
+                "title": "[화보] 선거유세 시작 알리는 방문규 국민의힘 수원병 후보",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240328000003388"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:07:00 +0900",
+                "title": "[총선] 여야 '최다 선거구' 경기 표심잡기 불붙었다",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992410?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "막 올린 4·10총선 선거운동… '민주 vs 국힘' 곳곳서 표심 잡기(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442858?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "국힘 수원 주자들  수원시장·경기도지사·국회의원 5석에도 군공항 이전 못해...",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748138"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:14:00 +0900",
+                "title": "[총선] 국힘 수원후보들  군공항 이전 해결, 그 자리에 융복합산업단지 조성 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384277"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:12:00 +0900",
+                "title": "'격전지 수원' 선거 운동 첫날…국힘  민주당 독주, 꼭 막겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441817?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "방문규",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 7747562
+            }
+        ],
+        "huboid": "100152070",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4103/Hb100152070/junkwa/20240109172734667_1.PDF"
+    }
 ]

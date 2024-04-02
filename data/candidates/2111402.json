@@ -1,175 +1,1606 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-1.jpg",
-    "id": "2111402-1",
-    "재산": 1514432,
-    "생년월일": "19650418",
-    "경력": "(전) 제17·19대 국회의원(마포구을선거구)\n(현) 제21대 국회의원(마포구을선거구)",
-    "학력": "서강대학교 공공정책대학원 북한통일정책학과 졸업(정치학석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "453",
-    "regionId": "2111402",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:52:00 +0900",
-        "title": "홍준표, “감히 대통령 탈당 요구? 탄핵 때 난파선 쥐새끼들 생각나”",
-        "link": "https://n.news.naver.com/mnews/article/021/0002629799?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:16:00 +0900",
-        "title": "'야당 텃밭' 서울 마포을…'자객 공천' 통할까",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436730"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-        "title": "‘尹 사과·탈당’ 요구…총선 막바지 국힘 내부갈등 기류",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=788067"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:05:00 +0900",
-        "title": "尹 의료 개혁 대국민담화 했지만… ‘대통령 탈당’까지 나온 與",
-        "link": "https://n.news.naver.com/mnews/article/366/0000982460?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "'尹 탈당하라' 함운경에...홍준표  근본없이 흘러 들어와서 주인행세 ",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=537919"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "정청래",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 903839
-      },
-      {
-        "연도": 2021,
-        "재산": 1087405
-      },
-      {
-        "연도": 2022,
-        "재산": 1338798
-      },
-      {
-        "연도": 2023,
-        "재산": 1514432
-      }
-    ]
-  },
-  {
-    "전과건수": 5,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-2.jpg",
-    "id": "2111402-2",
-    "재산": 10000,
-    "생년월일": "19640318",
-    "경력": "(현)주식회사 네모선장 대표\n(현)국민의힘 제22대 총선 영입인재",
-    "학력": "서울대학교 자연과학대학 물리학과 졸업",
-    "직업": "도소매업(생선장수)",
-    "성별": "남",
-    "regionId": "2111402",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:10:00 +0900",
-        "title": " 충분히 설득력  vs  일방통행 전형  윤 대통령 '대국민담화' 놓고 엇갈린 평...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815953?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:06:00 +0900",
-        "title": "국힘 함운경 “尹, 거추장스러운 당원직 이탈해달라”…탈당 요구",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920236?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:04:00 +0900",
-        "title": "의대정원 고수? 협상?...애매한 대통령 담화",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558929"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:02:00 +0900",
-        "title": "Sticking to 2,000 is not the answer (KOR)",
-        "link": "https://n.news.naver.com/mnews/article/640/0000052021?sid=110"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 23:51:00 +0900",
-        "title": "홍준표, 尹 대통령 의료개혁 담화에  충분히 설득력 ",
-        "link": "https://n.news.naver.com/mnews/article/011/0004321795?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "함운경",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 10000
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-5.jpg",
-    "id": "2111402-5",
-    "재산": 550086,
-    "생년월일": "19870408",
-    "경력": "(현)녹색정의당 원내수석부대표\n(현)제21대 국회의원",
-    "학력": "연세대학교 신문방송학과 중퇴(2006.03.~2011.11.)",
-    "직업": "녹색정의당 비례대표 국회의원",
-    "성별": "여",
-    "id_21th": "1186",
-    "regionId": "2111402",
-    "기호": 5,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:13:00 +0900",
-        "title": "유치원비 월평균 17만원 별도로 부담…학부모 80% “나은 교육 위해 더 낼 것...",
-        "link": "https://n.news.naver.com/mnews/article/032/0003288081?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:39:00 +0900",
-        "title": "녹색정의당 승부수 ‘성평등 정치’ 전면에",
-        "link": "https://n.news.naver.com/mnews/article/028/0002683480?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:16:00 +0900",
-        "title": "'야당 텃밭' 서울 마포을…'자객 공천' 통할까",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436730"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-        "title": "유치원생 학부모 80%  아이 교육에 지갑 더 열겠다 ",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124877"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:27:00 +0900",
-        "title": "사립 유치원 교사 14.1%  출산휴가 불가능 ... 참담 현실",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428430?sid=102"
-      }
-    ],
-    "정당": "녹색정의당",
-    "이름": "장혜영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 105102
-      },
-      {
-        "연도": 2021,
-        "재산": 463130
-      },
-      {
-        "연도": 2022,
-        "재산": 538039
-      },
-      {
-        "연도": 2023,
-        "재산": 550086
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-1.jpg",
+        "id": "2111402-1",
+        "재산": 1514432,
+        "생년월일": "19650418",
+        "경력": "(전) 제17·19대 국회의원(마포구을선거구)\n(현) 제21대 국회의원(마포구을선거구)",
+        "학력": "서강대학교 공공정책대학원 북한통일정책학과 졸업(정치학석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "453",
+        "regionId": "2111402",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "박지원 “머리가 나빠도 이렇게 나쁜 대통령 처음 봐”",
+                "link": "https://www.etoday.co.kr/news/view/2346986"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "코미디보다 웃긴 22대 총선 [김지현의 정치언락]",
+                "link": "https://n.news.naver.com/mnews/article/020/0003556788?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "내 편만 챙기면 된다는 오만[뉴스와 시각]",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629896?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "홍준표 “셀카 쇼만이 정치의 전부가 아냐”···한동훈 저격?",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288167?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:47:00 +0900",
+                "title": "[정치시그널]인터뷰 전문…김지호 “대출 자격이 없고 용도와 다르게 대출금 ...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271571?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:03:00 +0900",
+                "title": "박성민  尹 담화? 국힘은 소방수 원했겠지만 결과는 방화  [한판승부]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:40:00 +0900",
+                "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:52:00 +0900",
+                "title": "홍준표, “감히 대통령 탈당 요구? 탄핵 때 난파선 쥐새끼들 생각나”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629799?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:16:00 +0900",
+                "title": "'야당 텃밭' 서울 마포을…'자객 공천' 통할까",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436730"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "‘尹 사과·탈당’ 요구…총선 막바지 국힘 내부갈등 기류",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788067"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:05:00 +0900",
+                "title": "尹 의료 개혁 대국민담화 했지만… ‘대통령 탈당’까지 나온 與",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982460?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "'尹 탈당하라' 함운경에...홍준표  근본없이 흘러 들어와서 주인행세 ",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=537919"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:06:00 +0900",
+                "title": "속속 주저앉는 컷오프 비명계…기동민도 당 잔류, 홍영표 선택은",
+                "link": "https://www.kpinews.kr/newsView/1065580191319657"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:44:00 +0900",
+                "title": "[인터뷰] 함운경 후보  범죄자들이 권력 탐하는 일 벌어져 ",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99770"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "[르포] '한강벨트' 마용성은 백중세, '정치1번지' 종로도 치열",
+                "link": "http://www.metroseoul.co.kr/article/20240401500518"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:18:00 +0900",
+                "title": "'尹대통령 탈당' 요구 처음 나왔다…함운경  더 기대할 바 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075671?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:56:00 +0900",
+                "title": "한동훈 영입 함운경  윤 대통령 탈당해달라 ..여권 내홍 격화",
+                "link": "http://www.4th.kr/news/articleView.html?idxno=2060006"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:30:00 +0900",
+                "title": "‘위기 일발’ 한동훈 생존 돌파구",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243021"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+                "title": "한동훈이 뽑은 함운경 “尹, 기대할 바 없다…탈당해 주길”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441197?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:02:00 +0900",
+                "title": "[르포] 마포을 '정청래 vs 함운경'… 운동권이 뭣이 중헌디 ",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086652"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:00:00 +0900",
+                "title": "홍준표, '대통령 탈당' 요구한 함운경에 '버럭'… 尹 담화 설득력 충분 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019824?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "[선택4·10] 여권 내부서  尹, 당적 이탈해달라 …담화 직후 '출당' 요구 나와",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068749"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:27:00 +0900",
+                "title": "민주, ‘양문석 논란’ 당 차원 해명 자제…“개별 후보가 대응”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271498?sid=115"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:37:00 +0900",
+                "title": "함운경, 尹 담화에 “당원직 이탈 요청” 탈당 요구",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982356?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:35:00 +0900",
+                "title": "심상정  尹 담화, 총선용 퍼포먼스…정권심판론 계속될 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880199?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "[기자의 눈] 총선 시대정신 돼버린 'OO비 지원'",
+                "link": "https://www.ajunews.com/view/20240331133750474"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:42:00 +0900",
+                "title": "뜨거웠던 인천 유세 현장… ‘심판론’ 맞불 거대양당, 3지대는 ‘민생’ 초점",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240331025183389"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:01:00 +0900",
+                "title": "‘심판론’만 띄우는 여야… 인천지역 현안은 ‘뒷전’",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037834?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:28:00 +0900",
+                "title": "[인천 서구을] 한동훈  개같이  이어 박종진  민주당은 들쥐  파문",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244218"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:34:00 +0900",
+                "title": "'김혜경 법카' 10만원짜리 억지 기소?… 핵심은 액수 아닌 수혜자 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/02/28/2024022800299.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:20:00 +0900",
+                "title": "인천 출격 정청래 “이용우 후보, 정권심판 도구로 활용해달라”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240330026303343"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:33:00 +0900",
+                "title": "한동훈  이재명 쓰레기 발언  이재명  대통령 비하해도 돼 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460618?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:22:00 +0900",
+                "title": "[인천 서구을] 민주 정청래, 이용우 후보 지지 방문",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244216"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:26:00 +0900",
+                "title": "생활·산업 빠르게 파고드는 AI로봇…부작용 차단책은 아직도",
+                "link": "http://www.goodkyung.com/news/articleView.html?idxno=233077"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+                "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:35:00 +0900",
+                "title": "'한강벨트'에 묶인 국민의힘, 수도권 확장 차질",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428096?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:29:00 +0900",
+                "title": "[총선현장] '마포갑' 이지은  전 현장 전문가…국민 안전과 생명이 최우선 ",
+                "link": "https://www.newspim.com/news/view/20240329000173"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:46:00 +0900",
+                "title": "정청래, '정치 개같이' 한동훈에  개와 반려인에게 사과하라 ",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=537214"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:33:00 +0900",
+                "title": "한동훈 달라졌다...국민에 고개숙이고 야권엔 독한 비난",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287802?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:36:00 +0900",
+                "title": "정청래 '개같이 정치' 한동훈에  개에게 직접 사과하라 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042508?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:36:00 +0900",
+                "title": "이젠 법조인 아닌 ‘여의도 문법’…한동훈이 달라졌다[이런정치]",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287601?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:02:00 +0900",
+                "title": "서울 격전지 14곳 중 민주당 8곳 우세… 국민의힘 3곳 앞서",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034172?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:45:00 +0900",
+                "title": "[아침신문 솎아보기] 동아일보 칼럼  윤 대통령 정치 너무 쉽게 봤다 ",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123151?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:29:00 +0900",
+                "title": "[이슈] 한동훈, 이재명‧조국 겨냥  정치 개같이  파장…민주당  돼지 눈엔 다...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641029"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:59:00 +0900",
+                "title": "한동훈 발언 반박한 정청래 “개에게 사과하라”",
+                "link": "https://n.news.naver.com/mnews/article/123/0002330786?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:54:00 +0900",
+                "title": "선거운동 첫날 막말논란 휩싸인 여야대표",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864227?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:48:00 +0900",
+                "title": "고양갑, 정치 유튜버 vs 행정 달인 vs 4선 거물 '3파전'",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240329010003341"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:33:00 +0900",
+                "title": "한동훈  정치 개같이 하는 사람 문제  정청래  개한테 사과하라 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350608?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:30:00 +0900",
+                "title": "[우리동네 정치인] '마포을에 진보 무지개 띄울 꿈' 녹색정의당 장혜영의 포효",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104533"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:26:00 +0900",
+                "title": "최대 승부처 '한강벨트'…국힘, 오차범위 밖 우세 '1곳'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225003&inflow=N"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:03:00 +0900",
+                "title": "한동훈, 선거운동 첫날 '더 거칠게'?  정치 개같이 하는 사람이 문제 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325453?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:02:00 +0900",
+                "title": "여야, 4·10 총선 총력전 돌입…'거대야당 심판' vs '정권심판'",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99647"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:56:00 +0900",
+                "title": "정청래, ‘정치를 개 같이’ 한동훈 막말에 “개를 모욕하지 말라”",
+                "link": "https://vop.co.kr/A00001650446.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:38:00 +0900",
+                "title": "'공식 선거운동' 돌입···여야 대표, '수도권' 동시 출격",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106264"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:21:00 +0900",
+                "title": "[선거운동 스타트] 이재명  딱 151석만 달라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824186?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:18:00 +0900",
+                "title": "마포에서 지지 호소하는 한동훈 위원장",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955742"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:00:00 +0900",
+                "title": "이재명, 선거운동 첫날 용산서 출정식...임종석과 ‘원팀’ 강조도",
+                "link": "https://www.etoday.co.kr/news/view/2345303"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:58:00 +0900",
+                "title": "대통령실 있는 '용산'서 출정식…이재명  나라 망친 윤석열정권 심판할 때 (종...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814580?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:56:00 +0900",
+                "title": "“개를 모욕하지 말라!”…한동훈에 호통 친 정청래, ‘개같이 정치’ 발언 맹...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864150?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:10:00 +0900",
+                "title": "국민의힘, 강북 공략  고인 물은 썩어…국민 찍으면 바뀐다 ",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808767?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:52:00 +0900",
+                "title": "[포토] 22대 국회의원 선거운동 공식 출발…서울 마포을 현장",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315209"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:16:00 +0900",
+                "title": "정권 심판론에 출렁이는 '한강·낙동강 벨트'…민심은 어디로",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106118"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:10:00 +0900",
+                "title": "[강펀치] 엄경영  與, 총선서 과반 가능…총선 결과물은 '조국 대관식' ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453171?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:08:00 +0900",
+                "title": "“尹정권 심판 열차 출발”…민주당 공식 선거운동 시작",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016840"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:03:00 +0900",
+                "title": "더불어민주당 정권심판·국민승리 선대위 출정식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456632?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "민주, 선거운동 첫날 용산서 출정식… 151석 확보하게 해달라 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016794"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:34:00 +0900",
+                "title": "[현장]  개딸대장 이재명 수호대 의원 '소각시키자' …정청래 사무소 맞은편서...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814473?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:32:00 +0900",
+                "title": " 민주 파괴 심판하고 민주주의 되살리자”...민주당, 용산역에서 첫 출정식",
+                "link": "http://www.m-economynews.com/news/article.html?no=42642"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:02:00 +0900",
+                "title": "한동훈 '한강벨트' 지원유세… 정치 개같이 하는 사람이 문제 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702079?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:54:00 +0900",
+                "title": "[르포] 민주당, '尹 겨냥' 용산서 출범식…시민 무관심·당원들 열광",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276980?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:46:00 +0900",
+                "title": "국힘, 야권 텃밭 강북 공략  고인 물은 썩어…'국민' 찍으면 바뀐다 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142503?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:21:00 +0900",
+                "title": "공식 선거운동 첫날, 與 한동훈 '마포·신촌·용산' 서울 집중유세… 이·조심...",
+                "link": "https://www.newspim.com/news/view/20240328000645"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:18:00 +0900",
+                "title": "[이슈] 여야, 13일간 총선 공식 선거운동 돌입… 국힘 '민생선거' vs 민주 '정...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640914"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "못살겠다 심판하자 피켓 들고 있는 이재명, 정청래",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193116?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "[포토] 민주당 선대위 출정식...용산역 '들썩'",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686702"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:01:00 +0900",
+                "title": "용산 달려간 이재명 “尹정권 폭주 제동”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629065?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:52:00 +0900",
+                "title": "이재명  윤 정권 심판열차 '국민 승리' 향해 출발…나라 정상화·민생 재건 ",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748142"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:50:00 +0900",
+                "title": "與, 野텃밭 강북 공략  고인 물은 썩어…'국민' 찍으면 바뀐다 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014594978?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:44:00 +0900",
+                "title": " 정권심판 열차, 지금 출발합니다 ...공식 선거운동 돌입!",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307130"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:41:00 +0900",
+                "title": "출정식에서 미소 짓는 민주당 지도부 [포토]",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276957?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:26:00 +0900",
+                "title": "이재명, 용산 출정식...“尹심판‧나라정상화 출발점 총선, 151석 확보해야”",
+                "link": "https://www.etoday.co.kr/news/view/2345165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:25:00 +0900",
+                "title": "유세차 오른 한동훈  이재명·조국 심판이 민생 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276939?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:20:00 +0900",
+                "title": "용산에서 선거운동 막 올린 민주당 “정권 심판이 대한민국 정상화 출발점”",
+                "link": "https://vop.co.kr/A00001650359.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:18:00 +0900",
+                "title": "민주, 대통령실 있는 용산서 출정식… 尹정권 심판 열차 국민 승리 향해 출발...",
+                "link": "https://www.newspim.com/news/view/20240328000524"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:17:00 +0900",
+                "title": "민주, 용산서 출정식… 윤 정권 지지자도 과감히 회초리 들어야 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455918?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:05:00 +0900",
+                "title": "발언하는 정청래",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455860?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:05:00 +0900",
+                "title": "발언하는 정청래",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455859?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:59:00 +0900",
+                "title": "민주, 尹 코앞서 총선 출정식… 용산 이겨야 국민이 이긴다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442162?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:59:00 +0900",
+                "title": "민주당 '용산'서 선대위 출정…이재명  尹정권 심판열차 출발 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701912?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:44:00 +0900",
+                "title": "[이궁 칼럼] 정치는 '말의 예술'이다",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318585"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:36:00 +0900",
+                "title": "배우자와 함께 선거 출정식 하는 정청래",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441244?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:31:00 +0900",
+                "title": "시민들에게 인사하는 정청래 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441210?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:28:00 +0900",
+                "title": "비 내리는 날씨 속에 출정식 하는 정청래 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441185?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:28:00 +0900",
+                "title": "시민들에게 인사하는 정청래 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441187?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "정청래",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 903839
+            },
+            {
+                "연도": 2021,
+                "재산": 1087405
+            },
+            {
+                "연도": 2022,
+                "재산": 1338798
+            },
+            {
+                "연도": 2023,
+                "재산": 1514432
+            }
+        ],
+        "huboid": "100152897",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1114/Hb100152897/junkwa/20240229163616730_1.PDF"
+    },
+    {
+        "전과건수": 5,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-2.jpg",
+        "id": "2111402-2",
+        "재산": 10000,
+        "생년월일": "19640318",
+        "경력": "(현)주식회사 네모선장 대표\n(현)국민의힘 제22대 총선 영입인재",
+        "학력": "서울대학교 자연과학대학 물리학과 졸업",
+        "직업": "도소매업(생선장수)",
+        "성별": "남",
+        "regionId": "2111402",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:49:00 +0900",
+                "title": " 결전 앞 뭉쳐야 …논란 후보 사퇴 촉구",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143984?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:37:00 +0900",
+                "title": "한동훈, '스윙보터' 충청 민심 공략… 범죄와의 전쟁 ",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653093?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:26:00 +0900",
+                "title": "與  尹 소통 의지 재확인 ...野  면피용 여부 주시 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018210?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "[YTN24] 대통령 대국민담화 후폭풍  尹, 전공의 직접 만나고 싶다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018211?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:49:00 +0900",
+                "title": "[뉴스하이킥] 빨간 점퍼 대신 하얀 점퍼 유행? 與, 尹과의 거리두기 본격화",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340300?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:44:00 +0900",
+                "title": "요동치는 ‘낙동강벨트’ 표심 잡아라!",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429214"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:42:00 +0900",
+                "title": "윤대통령 담화 재해석 나오자… 국힘 '의대 증원' 재조정 방침",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645101"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "한동훈  뭉치면 살고 흩어지면 죽어 …함운경, '尹 탈당 요구' 철회",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453832?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:05:00 +0900",
+                "title": " 총선 패배하면 탄핵 국면인데 무슨 탈당 타령이냐  [정치 인사이드]",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967976?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:50:00 +0900",
+                "title": "국힘 PKㆍ수도권 지지율 ‘요지부동’",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475828"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+                "title": "한동훈, '스윙보터' 충청 민심 공략… 범죄와의 전쟁 ",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653070?sid=161"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:46:00 +0900",
+                "title": "한동훈  책임 제게 있나 → 모두 제 책임 …말 바꾼 까닭은? [뉴스와이드]",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809829?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+                "title": "한동훈 충청 집중 유세… 국회 이전 지키겠다 ",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436908"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "'부산 야구'가 촉발한 한동훈 vs 조국 설전…총선 영향은? [뉴스와이드]",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809823?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "도태우  尹 탈당 거론 함운경 후보, 집 싫으면 객이 떠나야 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455716"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+                "title": "한동훈  탈당 거친 말‥지금은 뭉쳐야 ‥ 문 정부가 최악 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340281?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:07:00 +0900",
+                "title": "한동훈  중요한 결전 앞 뭉쳐야 …논란 후보 사퇴 촉구",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143936?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:59:00 +0900",
+                "title": "[정면승부] 송영훈 전직 대통령 등장? 부작용 클 것  이은영 의대 증원, 정부...",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018178?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:41:00 +0900",
+                "title": "[총선톡톡]  성급했다  탄핵 요구 철회 /  안귀령 자료 경찰에 넘겨  / 화성을...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+                "title": "박근혜, 12년 만에 지원 유세 검토",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271635?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:32:00 +0900",
+                "title": "[정면승부] 송영훈 전직 대통령 등장? 부작용 클 것” 이은영 의대 증원, 정부...",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95046&s_mcd=0263&s_hcd=01"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:20:00 +0900",
+                "title": "[뉴스분석] TK 국민의힘 후보, '비만 고양이' 될 것인가",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000348"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+                "title": "與, 의정 갈등 리스크… 지금은 단합해야  내부 결속 강조",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000372"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[총선] 한동훈, 충청권 공략…“문재인 정부 때 나라 망해 갔다”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693727?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "‘의정 갈등’·‘부동산’ 논란, 총선 최대 변수…여야 ‘진화 모드’",
+                "link": "http://www.kukinews.com/newsView/kuk202404020303"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:48:00 +0900",
+                "title": "국힘, 의대 증원 대통령 담화 결론 ‘같이 재조정하자’",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038090?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:42:00 +0900",
+                "title": "'대통령 탈당' 터진 마포을 가보니...  탈당해도 안 뽑아  -  진보에서 온 사...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428622?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:39:00 +0900",
+                "title": "與  뭉칠 때  내부 단속...野  용산, 재해석 강요 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018156?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:37:00 +0900",
+                "title": "“윤 대통령 담화… 증원 조정 입장”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263383?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "尹대통령, 의정갈등 해법 입장전환...전공의에 대화 제안",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069569"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:32:00 +0900",
+                "title": "총선 참패론 들끓는 국힘…원흉은 '대통령'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225670&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "박지원 “머리가 나빠도 이렇게 나쁜 대통령 처음 봐”",
+                "link": "https://www.etoday.co.kr/news/view/2346986"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:16:00 +0900",
+                "title": "[사설] 홍준표, 여당 일부 총선 후보에 직격 왜?",
+                "link": "http://www.kbsm.net/news/view.php?idx=428472"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "'전열 정비' 한동훈  뭉쳐야 산다 …문재인, 울산 지원사격[박지환의 뉴스톡]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "한동훈  文정부 시대로 돌아가고 싶나...결전 앞 뭉쳐야 할 때 ",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503418"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "[총선] 한동훈, 충청권 공략…“문재인 정부 때 나라 망해 갔다”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693698?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:57:00 +0900",
+                "title": "권성동,  尹대통령 탈당? 내각 사퇴? 강력히 경고한다. 자중하라 ",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035836?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:53:00 +0900",
+                "title": "막판 변수로 떠오른 與 ‘의정 갈등’ vs 野 ‘부동산·막말’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441561?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:52:00 +0900",
+                "title": " 내 책임 없다  흔들리는 한동훈…국민의힘 총선 현장 '한숨'",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907939"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:51:00 +0900",
+                "title": "오락가락 대통령 담화에 논평도 안 낸 국힘 “알았으면 말렸다”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683638?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:48:00 +0900",
+                "title": "신평  한동훈, 이재명 상대로 선전했으나 조국까진 감당 어렵다 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085398?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:29:00 +0900",
+                "title": "총선 코앞인데 중구난방 여당…'윤 담화' 혼선에 내부총질도",
+                "link": "https://www.kpinews.kr/newsView/1065595166267064"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:26:00 +0900",
+                "title": "'문 때리고, 윤 띄우고'…한동훈 표심 잡기 총력전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467109?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:22:00 +0900",
+                "title": "尹, 의대 2000명 증원 고수... 여권 내에서도 반발 속출",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=238071"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:22:00 +0900",
+                "title": "함운경, 尹 탈당 요구 '철회'…  성급하게 내질렀다 ",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266173"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:07:00 +0900",
+                "title": "국힘서 분출하는 ‘尹 책임론’…친윤 “내부총질로 지지율 안 오른다”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685650?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "도태우 후보, 함운경 국민의힘 후보 관련 규탄 성명",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051221"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "대구중남 도태우 후보, 尹 탈당요구한 함운경에  집이 싫으면 객이 떠나야 ",
+                "link": "http://www.breaknews.com/1024615"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "국민의힘 함운경  윤 대통령 국민 인식 신경 안 쓰더라 ",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123215?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:01:00 +0900",
+                "title": "[총선] 한동훈, 충청권 공략…“문재인 정부 때 나라 망해 갔다”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693659?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:01:00 +0900",
+                "title": "충청서  뭉치자  결집 나선 한동훈... 막말 김준혁 향해  쓰레기  비난",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793907?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "권성동  당내 대통령 탈당 등 극언 자중하라…분열해 이긴 선거 없다 ",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386734?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:57:00 +0900",
+                "title": "[정치사색] 도덕성 논란 막판 변수 부상…진흙탕 네거티브 격화",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653017?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:55:00 +0900",
+                "title": "권성동  분열해 이긴 선거 없다  함운경 尹탈당 요구에 경고",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967783?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:42:00 +0900",
+                "title": "[2일 오!정말] 한동훈 “문재인은 부동산 폭등 잊었나” 조국 “꼴짭한 한동훈...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347824"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "본 투표 D-8, 여야 유세 '절정'··· 뭉치자  vs  정부 확실히 심판 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107589"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:36:00 +0900",
+                "title": "함운경 국힘 후보 尹탈당 요구 철회 ... 권성동  강력히 경고한다. 자중하라 ",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409478"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:35:00 +0900",
+                "title": "대통령 탈당 요구에 한동훈  부족한 게 있으면 내 책임, 뭉쳐야 할 때 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020537?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:32:00 +0900",
+                "title": "尹 담화에 '할많하않'하는 與수도권 후보들",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705377?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:31:00 +0900",
+                "title": "하루 만에 “내 책임이다”…어제의 한동훈은 “내 책임 아니다”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683616?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:21:00 +0900",
+                "title": "한동훈에  지지해달라 던 자유통일당, 이튿날  사퇴하라 공세",
+                "link": "https://n.news.naver.com/mnews/article/029/0002865070?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+                "title": "“분열해서 이긴 선거 없다”… 권성동 “선거 평가는 이후에”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685633?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:13:00 +0900",
+                "title": "한동훈 “지금은 뭉쳐야 할 때…文정부 시대로 돌아가고 싶나”",
+                "link": "https://n.news.naver.com/mnews/article/020/0003556814?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "한동훈, 천안서 文 저격… 문재인 정부 때 나라 망해 ",
+                "link": "https://www.ajunews.com/view/20240402135201130"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:05:00 +0900",
+                "title": " 뭉치면 살고 흩어지면 죽어 …국힘, 함운경 尹탈당 요구 비판 봇물",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453568?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+                "title": "선거 막판 등장한 변수… 의정갈등·부동산리스크",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125247"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+                "title": "권성동  대통령 탈당? 내각 사퇴? 최대수혜자는 바로 민주당 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220106"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:49:00 +0900",
+                "title": "한동훈, 중원 표심 공략...이재명, 대장동 재판 출석",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018058?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:33:00 +0900",
+                "title": "與 일각 '탈당·내각 총사퇴' 요구…尹 '리더십 타격' 불가피",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278141?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:33:00 +0900",
+                "title": "권성동, 尹탈당 요구에  분열해선 이긴 선거 없어…강력 경고 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453417?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "“제가 성급” 함운경, 尹 탈당 요구 철회… ‘담화 후폭풍’ 수습 나선 與",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920447?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:26:00 +0900",
+                "title": "의대증원 ‘통일된 안’ 달라는 尹…꼬인 의·정 해결 기미 안 보인다",
+                "link": "https://n.news.naver.com/mnews/article/092/0002326680?sid=105"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+                "title": "與서 나온 '尹 탈당' 요구에…권성동  강력하게 경고, 자중하라 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351521?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+                "title": "[영상] '당내 대통령 비판' 묻자, 나경원  특별한 말씀 드리기가... ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428567?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:19:00 +0900",
+                "title": "신평  한동훈이 4명 상대해야…국힘이 이길 수 없는 선거 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870620?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "[YTN24] '대국민 담화' 여진... 사막의 비  vs  국민 무서움 보여줘야 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018040?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+                "title": "권성동  '대통령 탈당', '내각 사퇴' 같은 극언 강력 경고 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340211?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:04:00 +0900",
+                "title": "여 권성동, '대통령 탈당' 요구에  자중하라…분열해 이긴 선거 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466538?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:01:00 +0900",
+                "title": "한동훈 태세전환? 하루만에  정부 부족, 저한테 책임 있나?  →  다 제 책임 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326053?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:52:00 +0900",
+                "title": "함운경 “성급하게 내질렀다”…尹 탈당 요구 ‘철회’",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685589?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:51:00 +0900",
+                "title": "홍준표  셀카쇼가 정치 전부 아냐..그 시간에 메시지나 던져라 ",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058615?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:50:00 +0900",
+                "title": "[영상] 함운경  대통령 사과 없어 화났다... 한동훈, 민생 챙겨달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428556?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:42:00 +0900",
+                "title": "한동훈, 문재인 전 대통령에 반격…“文정부때 나라 망해가던 것 기억 안나나...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282060?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:40:00 +0900",
+                "title": "[이슈] 정부여당에 등돌리는 60대.. 의정갈등 장기화로 여권에 악재",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641551"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:32:00 +0900",
+                "title": "'尹 탈당 요구' 함운경,  성급하게 내질렀다 ...발언 철회 外",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95032&s_mcd=0452&s_hcd=01"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "한동훈, 충청 방문해 ‘이·조 심판’ 강조...“범죄와의 전쟁”",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021356398740124"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:14:00 +0900",
+                "title": "'대통령 사과하라'에 누리꾼들  왜 이제서야 ",
+                "link": "https://www.bigtanews.co.kr/article/view/big202404020010"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:14:00 +0900",
+                "title": "[총선] 대구 중·남구 '표심' 향방에 관심···여야 지원 유세 치열",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315503"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "한동훈, 文직격  부동산 폭등 기억 안나나…野권력 잡으면 中굴종 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705241?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": "[강펀치] 배종찬  한동훈 전대 출마 선언, 與 1당 마지막 승부수 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453749?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:06:00 +0900",
+                "title": "'尹 탈당 요구' 함운경,  성급하게 내질렀다 ...발언 철회 外",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018085?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:04:00 +0900",
+                "title": "[기자수첩] 그래서 윤 대통령은 ‘2천명’을 어떻게 하겠다는 건가",
+                "link": "https://vop.co.kr/A00001650804.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "[총선] 한동훈, 충청권 공략…양문석에 “음주운전하고 차 팔면 용서되나”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693586?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "도태우  尹 탈당 거론 함운경 후보 사퇴하라 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042602?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "함운경  내가 성급했다 ...'대통령 탈당 요구' 하루만에 철회",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042603?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:00:00 +0900",
+                "title": "尹 담화에도…與 후보들, 의대 2000명 양보해도 안 해도 걱정",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453001?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:57:00 +0900",
+                "title": "尹 '의대 2천 명'…한동훈  조속 결론 요청 ·이재명  심판 생각 강해져  [프...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809725?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:57:00 +0900",
+                "title": "한동훈  뭉쳐야 산다…文정부 시대로 돌아가고 싶나 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165591?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:56:00 +0900",
+                "title": "한동훈, 중원 표심 공략...이재명, 대장동 재판 출석",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017988?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "함운경",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 10000
+            }
+        ],
+        "huboid": "100153115",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1114/Hb100153115/junkwa/20240320194258217_7.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-5.jpg",
+        "id": "2111402-5",
+        "재산": 550086,
+        "생년월일": "19870408",
+        "경력": "(현)녹색정의당 원내수석부대표\n(현)제21대 국회의원",
+        "학력": "연세대학교 신문방송학과 중퇴(2006.03.~2011.11.)",
+        "직업": "녹색정의당 비례대표 국회의원",
+        "성별": "여",
+        "id_21th": "1186",
+        "regionId": "2111402",
+        "기호": 5,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+                "title": "유치원 학부모 매달 17만 원 부담… 추가 지출 의향도 ",
+                "link": "http://news.ebs.co.kr/ebsnews/allView/60460784/N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:21:00 +0900",
+                "title": "국힘  내년 유아무상교육  공약?... 2년째 국고지원금 동결 논란",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428618?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:28:00 +0900",
+                "title": "학부모들, 유치원에 월평균 17만 원 지출… 최대 85만 원",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764603"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:48:00 +0900",
+                "title": "유치원학부모, 정부지원에도 月17만원 더 써…돌봄부담은 母에게",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705284?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:52:00 +0900",
+                "title": "유치원 학부모 부담 평균 17만 원…공립·사립 격차 커",
+                "link": "http://news.ebs.co.kr/ebsnews/allView/60460782/N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:10:00 +0900",
+                "title": "[토마토레터 제391호] 러시아와 IS가 싸우는 이유",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225496&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:36:00 +0900",
+                "title": "계몽의 언어를 잃어버린 좌파, 나만 억울한 사회",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220799"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:07:00 +0900",
+                "title": "찍고 싶은데 안 보인다…차별금지법 공약",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288128?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:30:00 +0900",
+                "title": "유치원비 정부지원금 있어도 월 최대 85만원까지 쓴다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020093?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:03:00 +0900",
+                "title": "유치원 학부모 ‘월 17만원’ 추가 부담…영어·체육 교육 선호",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441328?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:13:00 +0900",
+                "title": "유치원비 월평균 17만원 별도로 부담…학부모 80% “나은 교육 위해 더 낼 것...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288081?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:39:00 +0900",
+                "title": "녹색정의당 승부수 ‘성평등 정치’ 전면에",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683480?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:16:00 +0900",
+                "title": "'야당 텃밭' 서울 마포을…'자객 공천' 통할까",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436730"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+                "title": "유치원생 학부모 80%  아이 교육에 지갑 더 열겠다 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124877"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:27:00 +0900",
+                "title": "사립 유치원 교사 14.1%  출산휴가 불가능 ... 참담 현실",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428430?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:21:00 +0900",
+                "title": "유치원 학부모, 월 17만원 추가로 낸다…자녀 돌봄은 어머니 몫",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441271?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "저출산 시대, 유치원 운영 고충 1위는 '유아 모집'",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793690?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "정치권도 인권위도 외면한 차별금지법…‘다양성 의제’ 자취 감춘 총선",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288020?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:35:00 +0900",
+                "title": "유치원 학부모, 많게는 매달 85만원 낸다···“교육 위해선 더 낼 수 있어”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288009?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "'영유아 자녀 교육 위해 추가 지출 의사 있다' 80%",
+                "link": "https://kizmom.hankyung.com/news/view.html?aid=202404011737o"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "[르포] '한강벨트' 마용성은 백중세, '정치1번지' 종로도 치열",
+                "link": "http://www.metroseoul.co.kr/article/20240401500518"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:22:00 +0900",
+                "title": "사립 유치원비 월 '85만원' 더 썼다고?..평균 '17만원' 추가 지출",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019878?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:56:00 +0900",
+                "title": "한동훈 영입 함운경  윤 대통령 탈당해달라 ..여권 내홍 격화",
+                "link": "http://www.4th.kr/news/articleView.html?idxno=2060006"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:35:00 +0900",
+                "title": "유치원 학부모 부담 평균 17만원… 양질의 교육엔 추가지출 의향 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453597?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:02:00 +0900",
+                "title": "[르포] 마포을 '정청래 vs 함운경'… 운동권이 뭣이 중헌디 ",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086652"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:48:00 +0900",
+                "title": "유치원 월 학비 평균 17만원…학부모들 “양질교육 위해 추가 지출 의향도”",
+                "link": "https://www.etoday.co.kr/news/view/2346404"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:21:00 +0900",
+                "title": "유치원비, 정부지원금 외에도 공립 5만원·사립 22만원 더 쓴다",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351212?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:21:00 +0900",
+                "title": "장혜영  미얀마 군부, 한국 거주 노동자에게 불법적 소득세 징수 ",
+                "link": "https://n.news.naver.com/mnews/article/123/0002330979?sid=101"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:06:00 +0900",
+                "title": "유치원 학부모 “교육비보다 '교육 질’ 개선”",
+                "link": "https://www.naeil.com/news/read/506081?ref=naver"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:46:00 +0900",
+                "title": "사립유치원 교사 10명 중 8명  육아휴직 불가능 ",
+                "link": "https://www.ibabynews.com/news/articleView.html?idxno=116235"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:05:00 +0900",
+                "title": "유치원 학비 평균 17만원…사립이 공립의 4배",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683378?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:23:00 +0900",
+                "title": "유치원비 월평균 17만2000원…학부모  질 높아진다면 돈 더 낼 수 있어 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815618?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:51:00 +0900",
+                "title": "자녀 유치원 보내는 부모, 매달 17만원 부담… 추가지출 의향도 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462288?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:45:00 +0900",
+                "title": "유치원 학부모부담 평균 17만원…교사 근무시간 하루 9시간18분",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880219?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:36:00 +0900",
+                "title": "유치원 학부모부담 평균 17만원… 양질의 교육엔 추가지출 의향 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150568"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:35:00 +0900",
+                "title": "심상정  尹 담화, 총선용 퍼포먼스…정권심판론 계속될 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880199?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:54:00 +0900",
+                "title": "유치원비, 정부 지원금 외에도 '17만 원' 더 낸다",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809354?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:38:00 +0900",
+                "title": "'우리 아이에게 더 써도 좋다'…유치원 월평균 17만원, 최대 85만원 별도지출",
+                "link": "https://n.news.naver.com/mnews/article/374/0000377132?sid=101"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:36:00 +0900",
+                "title": "유치원 학부모부담 평균 17만원…첫 유아교육 실태조사",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=6&idx_800=3518915&seq_800=20511696"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:11:00 +0900",
+                "title": "유치원 학부모부담 평균 17만원… 양질의 교육엔 추가지출 의향 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601364?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:09:00 +0900",
+                "title": "돈 내야 여권 연장…미얀마 군부, 한국 거주 자국민에 ‘세금 착취’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287879?sid=104"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:47:00 +0900",
+                "title": "‘허위 환경평가’ 전력 업체에 마포소각장 용역 맡긴 서울시",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683267?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:35:00 +0900",
+                "title": "미얀마 군부, 한국내 이주노동자에 소득세 징수···“이중과세방지협정 위반...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287776?sid=101"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:02:00 +0900",
+                "title": "기후 위기 대응 첫걸음… 정당 현수막이 선거 재킷으로 ‘이유 있는 변신’ [...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919547?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+                "title": "[방송.종편 여론조사] 한강‧낙동강‧반도체 3대 벨트 여야 '희비교차'(喜悲交...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486178"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 04:03:00 +0900",
+                "title": "거대 양당 심판론...제3지대, 수도권 판세 가를 변수로",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825161?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:14:00 +0900",
+                "title": "군소정당  제3지대에도 눈길 달라 ",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792101"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:30:00 +0900",
+                "title": "[우리동네 정치인] '마포을에 진보 무지개 띄울 꿈' 녹색정의당 장혜영의 포효",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104533"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:26:00 +0900",
+                "title": "최대 승부처 '한강벨트'…국힘, 오차범위 밖 우세 '1곳'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225003&inflow=N"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:24:00 +0900",
+                "title": "'각자도생' 군소정당도 선거운동 개시… 제3지대에 눈길 달라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:52:00 +0900",
+                "title": "[포토] 22대 국회의원 선거운동 공식 출발…서울 마포을 현장",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315209"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:36:00 +0900",
+                "title": "녹색정의당, 윤 대통령 ‘선거법 위반’ 고발 “불법 선거운동, 심판받아야”",
+                "link": "https://vop.co.kr/A00001650411.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:45:00 +0900",
+                "title": "군소정당도 선거운동 총력… 제3지대에 눈길 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142502?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:12:00 +0900",
+                "title": "[오늘의 주요 정치 일정] 정치(3월28일 목요일)",
+                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=332300"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:49:00 +0900",
+                "title": "녹색정의당, 이태원 참사 추모로 선거운동 시작···대통령 고발",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287336?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:40:00 +0900",
+                "title": "[2024년 3월 28일 정치·사회 주요일정] 한동훈 국힘 비대위원장, 망원-신촌-...",
+                "link": "https://www.mediapen.com/news/view/907687"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '이동관·검사 탄핵 철회' 권한쟁의심판 선고",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213303"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:47:00 +0900",
+                "title": "[오늘의 정치일정] 3월 28일(목)",
+                "link": "https://www.newspim.com/news/view/20240328000037"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(28일, 목)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440917?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정]정치(3월28일 목요일)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454819?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+                "title": "녹색정의, 이태원 참사 현장서 첫 공식 선거운동…화정역 출정식",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690159?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+                "title": "한-가락시장 vs 이-용산… 오늘 총선 출정식",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123192"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 22:00:00 +0900",
+                "title": "여야, 공식 선거운동 시작…가락시장·용산역 등 출정식 장소 '주목'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454578?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:10:00 +0900",
+                "title": "1석이 이렇게 어려웠나…제3지대 주요 후보 지역구 판세는 지금",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469606"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:10:00 +0900",
+                "title": "“지역구 공보 아예 못 받아…2장짜리 공보물조차 날림”",
+                "link": "https://www.naeil.com/news/read/505709?ref=naver"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:40:00 +0900",
+                "title": "총선 격전지 3곳, '국힘 VS 민주' 접전...이재명 46%, 원희룡 42%",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318496"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:00:00 +0900",
+                "title": "계양을·광진을 '접전'…수원병·마포을·부산북갑 야당 우세(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007438105?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:00:00 +0900",
+                "title": "與 악재에도 원희룡 오신환 '선전'…방문규 서병수 함운경 '고전' (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007438106?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:42:00 +0900",
+                "title": "[격전지 민심] 마포을, 정청래vs함운경 ‘빅매치’… 쓰레기 소각장 핫이슈",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403250528036940774"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:09:00 +0900",
+                "title": "이준석·이낙연, 맥 못 추는 제3지대···양강 구도 균열 낼 ‘얼굴’이 없다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003286987?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+                "title": "초선의원 5인의 보좌진이 말하는 의정활동 뒷이야기",
+                "link": "http://www.esquirekorea.co.kr/article/84936"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:30:00 +0900",
+                "title": "[총선 판세] 한강·낙동강벨트 9곳 여론조사… 민주당 우세 5곳, 국민의힘 우...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472791"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:01:00 +0900",
+                "title": "보름 버티면 당선인데 토론을 왜?... '깜깜이 투표' 조장하는 얌체 후보들",
+                "link": "https://n.news.naver.com/mnews/article/469/0000792547?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:10:00 +0900",
+                "title": "거대 양당에 맞선 제3지대·무소속 출마자, 숫자도 경쟁력도 급감···이유는...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003286876?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:09:00 +0900",
+                "title": "서울 마포을 지지율, 정청래 47%·함운경 30%… 격차 17%p",
+                "link": "https://n.news.naver.com/mnews/article/417/0000991687?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:47:00 +0900",
+                "title": "마포을·광진을·부산북갑 여당 '열세'…2주간 격차 못 좁혀(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007436258?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:36:00 +0900",
+                "title": "한강·낙동강벨트 9곳 보니… 민주 우세 5곳, 與 우세 1곳 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002863443?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:30:00 +0900",
+                "title": "[한국갤럽] 서울 마포을, 민주 정청래 47%로 국힘 함운경 30%에 앞서",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346891"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:23:00 +0900",
+                "title": "한강·낙동강벨트 9곳 여론조사… 민주 우세 5곳, 與 우세 1곳 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014588720?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:20:00 +0900",
+                "title": "양당에 치이고, 신당에 묻히고…고전하는 녹색정의당",
+                "link": "https://n.news.naver.com/mnews/article/277/0005397292?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:11:00 +0900",
+                "title": "[격전지 여론조사-마포을] 정청래-함운경 격차 17%p…2주간 굳어진 '대세론'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007436104?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:13:00 +0900",
+                "title": "[서울 마포을] 민주당 정청래 47%, 국민의힘 함운경 30%, 녹색정의당 장혜영 ...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427413?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:34:00 +0900",
+                "title": "'서울 마포을' 정청래 47% vs 함운경 30%…오차범위 밖",
+                "link": "https://n.news.naver.com/mnews/article/008/0005016852?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:14:00 +0900",
+                "title": "'한강벨트'서 정청래·고민정 우세…尹 부정평가 70% 육박 [한국갤럽]",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349838?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:00:00 +0900",
+                "title": "'한강벨트' 윤 부정평가 65~68%…정청래·고민정 우세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007435418?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "[격전지 여론조사-마포을] 정청래 47% vs 함운경 30%…조국신당 27% 1위",
+                "link": "https://n.news.naver.com/mnews/article/421/0007435388?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "[격전지 여론조사-마포을] 정청래 47% 탄탄…함운경 30% '인지도 한계'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007435366?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:22:00 +0900",
+                "title": "'1인당 25만원 지원' '셋째 대학 등록금 면제' 쏟아지는 민생공약",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989674"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:09:00 +0900",
+                "title": "녹색정의당, 사회적경제 활성화 위한 정책협약",
+                "link": "https://n.news.naver.com/mnews/article/028/0002682423?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:48:00 +0900",
+                "title": "녹색정의당-사회적경제연대회의 정책협약",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220641"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:10:00 +0900",
+                "title": "녹색정의당 비례2번 안동청년 허승규 “경북 정치 흔들어 달라”",
+                "link": "https://www.newsmin.co.kr/news/100839/"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:54:00 +0900",
+                "title": "추경호가 발의한 금투세 폐지하자는 한동훈…장혜영, 이게 국힘의 공정?",
+                "link": "https://www.tfmedia.co.kr/news/article.html?no=160449"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:54:00 +0900",
+                "title": "녹색정의당- 한국사회적경제연대회의 정책협약… 더 나은 세상을 만드는 사회...",
+                "link": "https://www.eroun.net/news/articleView.html?idxno=41550"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:38:00 +0900",
+                "title": "[4·10총선특집]사회적경제 활성화-후보에게 묻는다…장혜영  대한민국의 여러...",
+                "link": "https://www.eroun.net/news/articleView.html?idxno=41549"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:00:00 +0900",
+                "title": "녹색정의당-연대회의, 사회적경제 활성화 위한 정책 협약식 가져",
+                "link": "http://www.lifein.news/news/articleView.html?idxno=16899"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "녹색정의당·개혁신당·새로운미래 지역구에 누가 나오나",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427245?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:56:00 +0900",
+                "title": "장혜영 후보  주식 상위 1% 세금 내지 말라고? 금투세 폐지는 한동훈식 공정 ",
+                "link": "http://www.breaknews.com/1022850"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:46:00 +0900",
+                "title": "장혜영 의원  금투세 폐지가 한동훈식 공정? ",
+                "link": "http://www.intn.co.kr/news/articleView.html?idxno=2034641"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:04:00 +0900",
+                "title": "장혜영 의원,  금투세 발의자 추경호였다…폐지가 한동훈식 공정? ",
+                "link": "https://www.sejungilbo.com/news/articleView.html?idxno=47420"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 06:04:00 +0900",
+                "title": "또 다른 가족, 생활동반자…법은 어디까지 따라왔나",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046965?sid=102"
+            }
+        ],
+        "정당": "녹색정의당",
+        "이름": "장혜영",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 105102
+            },
+            {
+                "연도": 2021,
+                "재산": 463130
+            },
+            {
+                "연도": 2022,
+                "재산": 538039
+            },
+            {
+                "연도": 2023,
+                "재산": 550086
+            }
+        ],
+        "huboid": "100152581",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1114/Hb100152581/junkwa/20240202173859446_1.PDF"
+    }
 ]

@@ -1,162 +1,1593 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-1.jpg",
-    "id": "2441801-1",
-    "재산": 7790170,
-    "생년월일": "19620212",
-    "경력": "(현) 제21대 국회의원\n(전) 더불어민주당 전략기획위원장",
-    "학력": "서울과학기술대학교 융합과학대학원 에너지환경공학과 박사과정 수료",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1127",
-    "regionId": "2441801",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:22:00 +0900",
-        "title": "천안갑 신범철 후보, 문진석 후보 고소",
-        "link": "https://tjmbc.co.kr/article/FkAbkM-sY-fr"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:50:00 +0900",
-        "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:46:00 +0900",
-        "title": "'천안시 갑' 민주당 문진석, 신범철 후보 고발에 입장문 발표",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124925"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:40:00 +0900",
-        "title": "여야 지도부 '거칠어진 입'… 네거티브 격화",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644816"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:02:00 +0900",
-        "title": "문진석 민주당 천안갑 국회의원 후보, '신범철 후보의 허위사실 유포 고발에 ...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=358872"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "문진석",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 6517331
-      },
-      {
-        "연도": 2021,
-        "재산": 2453650
-      },
-      {
-        "연도": 2022,
-        "재산": 2364735
-      },
-      {
-        "연도": 2023,
-        "재산": 7790170
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-2.jpg",
-    "id": "2441801-2",
-    "재산": 2404595,
-    "생년월일": "19701007",
-    "경력": "(전) 국방부차관\n(전) 국립외교원 교수",
-    "학력": "미국 조지타운대학교 법학전문대학원 졸업 [법학박사 2005.9-2007.5]",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2441801",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:22:00 +0900",
-        "title": "천안갑 신범철 후보, 문진석 후보 고소",
-        "link": "https://tjmbc.co.kr/article/FkAbkM-sY-fr"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:04:00 +0900",
-        "title": "‘응징’이란 이름으로…조국 ‘전국 투어’",
-        "link": "https://n.news.naver.com/mnews/article/032/0003288076?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:50:00 +0900",
-        "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:46:00 +0900",
-        "title": "'천안시 갑' 민주당 문진석, 신범철 후보 고발에 입장문 발표",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124925"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:42:00 +0900",
-        "title": "해병대 예비역, 영주 모여 '임종득 낙선' 운동",
-        "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190350&mode=view"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "신범철",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2404595
-      }
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-7.jpg",
-    "id": "2441801-7",
-    "재산": 311731,
-    "생년월일": "19520701",
-    "경력": "(전) 제8대 후반기 천안시의회 운영위원장\n(현) (주)소라주택 대표",
-    "학력": "단국대학교 대학원 행정학과 행정학 박사",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2441801",
-    "기호": 7,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:18:00 +0900",
-        "title": "문진석 “물가 손 놓은 尹, 더 못 기다려”…신범철 “법치주의 저버린 민주당...",
-        "link": "https://n.news.naver.com/mnews/article/023/0003825738?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:53:00 +0900",
-        "title": "[총선현장] '천안갑' 문진석  채상병 사건, 신범철도 책임져야...국정기조 바...",
-        "link": "https://www.newspim.com/news/view/20240401000570"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-        "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 08:56:00 +0900",
-        "title": "[충남 천안갑] 더불어민주당 문진석 49.4%, 국민의힘 신범철 39.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427971?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:40:00 +0900",
-        "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "허욱",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 311731
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-1.jpg",
+        "id": "2441801-1",
+        "재산": 7790170,
+        "생년월일": "19620212",
+        "경력": "(현) 제21대 국회의원\n(전) 더불어민주당 전략기획위원장",
+        "학력": "서울과학기술대학교 융합과학대학원 에너지환경공학과 박사과정 수료",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1127",
+        "regionId": "2441801",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:44:00 +0900",
+                "title": "[현장] '천안갑' 신범철  이재명 '중국에 셰셰'? 국제질서 그렇게 안 돌아가 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816334?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "[총선 레이더] 허위사실 유포 고소까지… 천안갑 후보들 신경전 '과열'",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193745"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "혼탁해지는 4년 만의 재대결…'천안갑' 고발·비방 현수막",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453339?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+                "title": "문진석 더불어민주당 천안갑 국회의원 후보, '정체불명의 비방 현수막' 강력 ...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359161"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "[천안갑] “저급한 정치” vs “내로남불” 문진석-신범철 더 다급한 후보는 ...",
+                "link": "http://www.sisanews24.co.kr/13386"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "더불어민주당 천안갑 문진석 '정체불명 비방 현수막 강력 규탄, 고발 방침'",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266093"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:16:00 +0900",
+                "title": "한국노총, 노동전략후보 지지활동 본격화",
+                "link": "http://news.inochong.org/detail.php?number=5281&thread=22r03"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:06:00 +0900",
+                "title": "문진석  저급정치  vs 신범철  내로남불 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307410"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:20:00 +0900",
+                "title": "문진석 더불어민주당 후보, 농지법·식품위생법 위반, 갭투기 의혹...'윤리적...",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764409"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:30:00 +0900",
+                "title": "[4·10 지지율] 與, 이준석계 없어도 ‘新 표밭’ 단 1곳도…野 ‘압승’ 구도...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021287283"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:06:00 +0900",
+                "title": "천안갑 신범철 후보, 문진석 후보 고소",
+                "link": "https://tjmbc.co.kr/article/kMaXH25OErQcL"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:40:00 +0900",
+                "title": " 채상병 유가족 아픔 달래드리겠다 던 문진석, 유가족에 사과",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815973?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:35:00 +0900",
+                "title": "신범철 측, 문진석 허위사실유포로 고소…문진석 측  착오 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815961?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:22:00 +0900",
+                "title": "천안갑 신범철 후보, 문진석 후보 고소",
+                "link": "https://tjmbc.co.kr/article/FkAbkM-sY-fr"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:50:00 +0900",
+                "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:46:00 +0900",
+                "title": "'천안시 갑' 민주당 문진석, 신범철 후보 고발에 입장문 발표",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124925"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:40:00 +0900",
+                "title": "여야 지도부 '거칠어진 입'… 네거티브 격화",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644816"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:02:00 +0900",
+                "title": "문진석 민주당 천안갑 국회의원 후보, '신범철 후보의 허위사실 유포 고발에 ...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358872"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:40:00 +0900",
+                "title": "'천안시 갑' 국민의힘 신범철, 민주당 문진석 허위사실공표 위반 혐의 고소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124876"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:20:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603659?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:18:00 +0900",
+                "title": "[4·10 총선 레이더] 문진석-신범철 후보, 허위사실 유포 공방",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085225?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+                "title": "충청권 총선 진흙탕 싸움",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265961"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "민주당 문진석 천안갑 후보, 신범철 후보의 허위사실 유포 주장에 대한 입장문...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558863"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+                "title": "천안갑 신범철·문진석, 고발·유감 치열한 신경전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464348?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[충청총선] 허위사실 유포 고발에 대한 문진석 후보 캠프 입장발표",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000434"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:18:00 +0900",
+                "title": "문진석 “물가 손 놓은 尹, 더 못 기다려”…신범철 “법치주의 저버린 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825738?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "더불어민주당 천안갑 문진석 후보  토론회 질문을 답변하는 과정에서 발생한 ...",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265925"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "신범철 측, 허위사실공표 위반 혐의로 문진석 후보 고소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000353"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "[총선판세] 충청권 28곳 중 10곳 초접전중…여야 승자는",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450414?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+                "title": "국민의힘 천안갑 신범철 후보 '더불어민주당 문진석 후보 허위사실유포  고소",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265854"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:53:00 +0900",
+                "title": "[총선현장] '천안갑' 문진석  채상병 사건, 신범철도 책임져야...국정기조 바...",
+                "link": "https://www.newspim.com/news/view/20240401000570"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:52:00 +0900",
+                "title": "[총선현장] 野, 정권심판 바람 vs 與, 국회이전 공약…'초박빙' 충남 민심은",
+                "link": "https://www.newspim.com/news/view/20240401000698"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:10:00 +0900",
+                "title": "천안갑 신범철 후보, 허위사실 유포로 문진석 후보 고발",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307329"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:38:00 +0900",
+                "title": "“정부 독선 막고 시민 삶 지켜야...효능감 느끼는 천안갑 발전 지속”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288747?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:22:00 +0900",
+                "title": "[천안갑 난타전] 문진석 ‘해병대 외압’ 맹공 VS 신범철 ‘허위사실공표’ 고...",
+                "link": "http://www.sisanews24.co.kr/13379"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:18:00 +0900",
+                "title": "문진석 후보, 명백한 허위사실유포로 피소",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764234"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:04:00 +0900",
+                "title": "[충청총선] 국힘 천안갑 신범철 후보 측, 민주당 문진석 후보 허위사실유포로...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000188"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:56:00 +0900",
+                "title": "[총선 D-9] 與野 '막말 경계령'에도…지도부가 앞장서 '네거티브 총공세'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025793"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:48:00 +0900",
+                "title": "더불어민주당 문진석 후보, 허위사실유포로 피소",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957807"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:40:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601864?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:52:00 +0900",
+                "title": "[충청총선] 천안갑 유권자, TV토론 마무리 발언 '주목'",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000090"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "문진석 후보, 농지법 위반 혐의 이어 '갭 투기 의혹' 제기",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764139"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:20:00 +0900",
+                "title": "[현장] 해병대 군가 부르며 전의 다진 전재수, '채상병 특검법' 관철 약속",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815491?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:45:00 +0900",
+                "title": "[사설] 편법대출·갭투자·아빠찬스 후보들, 낯 들고 유세할 수 있겠나",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864551?sid=110"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "'스윙보터' 충청권 판세, 리턴매치에 달렸다",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022409"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+                "title": "[총선] 여야, 상대 후보 향해 ‘편법 대출’·‘전세사기 변호’ 난타전",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692199?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:38:00 +0900",
+                "title": " 채상병을 기억해 주세요 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447893?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:41:00 +0900",
+                "title": " 뒷구멍 이익 챙겨' 양문석 파상공세…한동훈  절 고소하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447749?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:40:00 +0900",
+                "title": "문진석 “정부 독선 막고 시민 삶 지켜낼 것…효능감 느끼는 천안갑 발전 지속...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288277?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:30:00 +0900",
+                "title": "22대 총선 천안갑·을·병 선거구 후보 10명 본격 유세전 돌입",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265582"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:06:00 +0900",
+                "title": "與  양문석 속인게 없다?…업계 관행 핑계로 '편법 꼼수 대출' ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010017963"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:40:00 +0900",
+                "title": "문진석  선거 도우러 온 것 아니 라지만…해병대 예비역  문진석 뽑아달라 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815333?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:32:00 +0900",
+                "title": "더불어민주당 천안갑 문진석 후보·정원철 해병대 예비역 연대 회장 신부동 거...",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265566"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:10:00 +0900",
+                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:46:00 +0900",
+                "title": "문진석 더불어민주당 천안갑 국회의원 후보, 정원철 해병대 예비역 연대 회장...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358348"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:06:00 +0900",
+                "title": "“해병대 외압 조사·재판 허송세월 신범철 뽑으면 안 돼” 해병대 예비역의 ...",
+                "link": "http://www.sisanews24.co.kr/13371"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:42:00 +0900",
+                "title": "[리포트]'정치 1번지' 천안갑 토론회서 공방",
+                "link": "https://tjmbc.co.kr/article/a-7kS4Y42T"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:06:00 +0900",
+                "title": "문진석 '네거티브 폭풍공세' 속…신범철, 공약 검증에 집중 [천안갑 TV토론]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815212?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:26:00 +0900",
+                "title": " 채상병 사건  vs  지역 발전 소외  천안갑 후보 열띤 '책임 공방'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446766?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:10:00 +0900",
+                "title": "웃음 띈 얼굴 속 발톱 드러낸 천안갑 후보토론회",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307251"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:42:00 +0900",
+                "title": "한동훈 '수도권'-이재명 '한강벨트'…선거운동 첫 주말 유세 '각축'",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748398"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "공식 선거운동 첫 주말… '수도권' 노리는 한동훈·이재명",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124138"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+                "title": " 내가 뽑으면 되는겨  예측 불가 충청 표심…여야 모두 목표는 같다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019212?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:24:00 +0900",
+                "title": "한동훈, 공식 선거운동 첫 주말에도 '수도권' 돌며 유세",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124130"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:00:00 +0900",
+                "title": "선거전 돌입하자 여론 민감 '부동산 변수' 급부상…총선판 흔든다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446480?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:00:00 +0900",
+                "title": "공식 선거운동 첫 주말…한동훈 '수도권' 이재명 '한강벨트' 공략",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446484?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:20:00 +0900",
+                "title": "[동행취재] '발품' 신범철 vs '지원군' 문진석…'천안갑' 각양각색 유세",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815157?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:00:00 +0900",
+                "title": "한동훈, 사흘 연속 수도권 공략…'명룡대전' 계양 집중유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446456?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 05:01:00 +0900",
+                "title": "민변 민낯 or 좌파 두얼굴 Vs. 中 환호 이재명…의사 본색? [석민의News픽]",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870041?sid=110"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:16:00 +0900",
+                "title": "문진석 더불어민주당 천안갑 국회의원 후보, 이탄희 의원 지원유세 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358304"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:00:00 +0900",
+                "title": "정진석  당선되면 국회의장  박수현  두 번 졌다, 기회달라  [4·10 총선 격전...",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047626?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:18:00 +0900",
+                "title": "라방 켠 이재명 “이제부턴 백병전”…한동훈 “딱 한번만 믿어달라”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280681?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:04:00 +0900",
+                "title": "국힘 37% vs 민주 29%…與, 바닥찍고 ‘반등세’ [갤럽 자체 여론조사]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919453?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:50:00 +0900",
+                "title": "더불어민주당 천안갑 문진석 후보 신부동 거리 유세 나서",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265485"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:00:00 +0900",
+                "title": "한동훈, 수임료 22억·부동산 편법 정조준…낙관론 경계한 이재명(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446330?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:20:00 +0900",
+                "title": "이탄희 가세한 문진석 유세  좋은 정치, 천안 발전 챙길 것 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769254"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:41:00 +0900",
+                "title": "이탄희  장관은 대사, 차관은 공천... 국민은 진실 원한다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428117?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:38:00 +0900",
+                "title": "[기획] 양문석 '대출'·공영운 '증여'·박은정 '변호', 야권 '총선 악재' 만발",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315341"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:27:00 +0900",
+                "title": "韓, 수임료 22억·부동산 편법 증여·11억 대출 직격…도덕성 정조준",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446242?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:11:00 +0900",
+                "title": "[총선현장] 한동훈, 연일 '이조심판' 강조...'양문석·박은정·공영운' 野후보...",
+                "link": "https://www.newspim.com/news/view/20240329000932"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:43:00 +0900",
+                "title": "韓, 공영운·양문석 정조준…민주 李 재판 속 이해찬·김부겸 전국구 유세(종...",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446181?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:36:00 +0900",
+                "title": "민주 양문석, 대부업체 ‘영끌’도… 부동산 이슈에 표심 ‘출렁’",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919407?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:21:00 +0900",
+                "title": "‘이종섭 악재’ 털고, ‘야권 의혹’에 화력 집중… 반전 노리는 與",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919399?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "문진석",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 6517331
+            },
+            {
+                "연도": 2021,
+                "재산": 2453650
+            },
+            {
+                "연도": 2022,
+                "재산": 2364735
+            },
+            {
+                "연도": 2023,
+                "재산": 7790170
+            }
+        ],
+        "huboid": "100152849",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152849/junkwa/20240226094632616_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-2.jpg",
+        "id": "2441801-2",
+        "재산": 2404595,
+        "생년월일": "19701007",
+        "경력": "(전) 국방부차관\n(전) 국립외교원 교수",
+        "학력": "미국 조지타운대학교 법학전문대학원 졸업 [법학박사 2005.9-2007.5]",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2441801",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:56:00 +0900",
+                "title": "[총선현장] 한동훈, 충청권 집중 유세… 국회의사당 세종 이전은 새로운 발전...",
+                "link": "https://www.newspim.com/news/view/20240402001015"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:29:00 +0900",
+                "title": "文 정면 반박 한동훈  전 정부 때 나라 망해가지 않았냐 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042608?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:39:00 +0900",
+                "title": "지지 호소하는 신범철 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453860?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:39:00 +0900",
+                "title": "신범철 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453861?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:44:00 +0900",
+                "title": "[현장] '천안갑' 신범철  이재명 '중국에 셰셰'? 국제질서 그렇게 안 돌아가 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816334?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "[총선 레이더] 허위사실 유포 고소까지… 천안갑 후보들 신경전 '과열'",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193745"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:36:00 +0900",
+                "title": "‘출국금지’ 신범철 “지금 대한민국 올바르게 가고 있습니까”…지지자들 “...",
+                "link": "https://vop.co.kr/A00001650818.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+                "title": "[현장] 한동훈, 중원 민심 공략… 대한민국 워싱턴 D.C.로 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825378?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "충청 찾은 한동훈  이번 총선은 범죄와의 전쟁 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330485"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "혼탁해지는 4년 만의 재대결…'천안갑' 고발·비방 현수막",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453339?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+                "title": "[총선현장] '천안갑' 신범철  새로운 정치 시작할 때…'신바람' 만들어달라 ",
+                "link": "https://www.newspim.com/news/view/20240402000731"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:56:00 +0900",
+                "title": "“병천은 아니라며”...“청주공항이라고 했잖아”",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326047?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "한동훈  부족한 건 제 책임…운명 건 승부  읍소",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307431"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:33:00 +0900",
+                "title": "[현장] 한동훈, 조국 겨냥  '죄는 맞지만 복수하겠다'가 정치 명분 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816249?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "[천안갑] “저급한 정치” vs “내로남불” 문진석-신범철 더 다급한 후보는 ...",
+                "link": "http://www.sisanews24.co.kr/13386"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "한동훈, 文 '윤 정부 무능론'에  나라 망해가던 것 기억 안나나 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466367?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "한동훈, 文직격  부동산 폭등 기억 안나나…野권력 잡으면 中굴종 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705241?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": "[포토] 포효하는 신범철 천안갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200203.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "채 상병 사건 '권력형 로비 의혹'으로...  워터게이트보다 커 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428537?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:59:00 +0900",
+                "title": "한동훈 '당선 축하 꽃다발 들고 다시 찾겠다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452995?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:35:00 +0900",
+                "title": "천안에서 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452902?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452899?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "'선거는 국민의힘으로'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452900?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "한동훈 '천안은 국민의힘'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452901?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:32:00 +0900",
+                "title": "한동훈 '천안에서 승리다짐'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452880?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:32:00 +0900",
+                "title": "한동훈 충청권 순회 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452881?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "꽃다발 받은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452877?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "천안 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452872?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "한동훈 '승리의 꽃다발 들고 다시오겠다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452873?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "천안에서 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452875?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "한동훈 천안 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452874?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:28:00 +0900",
+                "title": "한동훈, 천안에서 지지호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452863?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:28:00 +0900",
+                "title": "천안 지원유세 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452864?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:28:00 +0900",
+                "title": "천안 지원 유세 펼치는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452860?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:28:00 +0900",
+                "title": "한동훈 천안에서 주먹 불끈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452862?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:02:00 +0900",
+                "title": "[포토] 천안 청당신도시 찾은 한동훈  뭉치면 살고, 흩어지면 죽는다 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200177.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:06:00 +0900",
+                "title": "문진석  저급정치  vs 신범철  내로남불 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307410"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:54:00 +0900",
+                "title": "국민의힘 천안 갑·을·병 후보, 공동 전선 꾸리고 '원팀 가동'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558966"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:47:00 +0900",
+                "title": "[정치시그널]인터뷰 전문…김지호 “대출 자격이 없고 용도와 다르게 대출금 ...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271571?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:30:00 +0900",
+                "title": "[4·10 지지율] 與, 이준석계 없어도 ‘新 표밭’ 단 1곳도…野 ‘압승’ 구도...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021287283"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:10:00 +0900",
+                "title": "[토마토레터 제391호] 러시아와 IS가 싸우는 이유",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225496&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:06:00 +0900",
+                "title": "천안갑 신범철 후보, 문진석 후보 고소",
+                "link": "https://tjmbc.co.kr/article/kMaXH25OErQcL"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:40:00 +0900",
+                "title": " 채상병 유가족 아픔 달래드리겠다 던 문진석, 유가족에 사과",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815973?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:35:00 +0900",
+                "title": "신범철 측, 문진석 허위사실유포로 고소…문진석 측  착오 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815961?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:22:00 +0900",
+                "title": "천안갑 신범철 후보, 문진석 후보 고소",
+                "link": "https://tjmbc.co.kr/article/FkAbkM-sY-fr"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:04:00 +0900",
+                "title": "‘응징’이란 이름으로…조국 ‘전국 투어’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288076?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:50:00 +0900",
+                "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:46:00 +0900",
+                "title": "'천안시 갑' 민주당 문진석, 신범철 후보 고발에 입장문 발표",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124925"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:42:00 +0900",
+                "title": "해병대 예비역, 영주 모여 '임종득 낙선' 운동",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190350&mode=view"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:40:00 +0900",
+                "title": "여야 지도부 '거칠어진 입'… 네거티브 격화",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644816"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": " 쓰레기  vs  머슴 … 여야 지도부, 네거티브 비방전 격화",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037270"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "총선/ 국힘 충남 천안 갑을병 후보들 원팀 선언  야당 폭거 막아야 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746347"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:54:00 +0900",
+                "title": "국힘 천안선거 '총력전'…정황근·신진영 '원팀 선언'",
+                "link": "https://www.kpinews.kr/newsView/1065606288435824"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:40:00 +0900",
+                "title": "'천안시 갑' 국민의힘 신범철, 민주당 문진석 허위사실공표 위반 혐의 고소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124876"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:20:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603659?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:18:00 +0900",
+                "title": "[4·10 총선 레이더] 문진석-신범철 후보, 허위사실 유포 공방",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085225?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:04:00 +0900",
+                "title": "충청권 총선 진흙탕 싸움",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265961"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]해병대 예비역, 영주 모여 '임종득 낙선' 운동",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69617"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "정황근 전 농림축산식품부장관·신진영 전 대통령실 행정관, 이정만 천안을 후...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358808"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:45:00 +0900",
+                "title": "국민의힘 천안 갑·을·병 “우리는 하나, 원팀 출정”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441276?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "민주당 문진석 천안갑 후보, 신범철 후보의 허위사실 유포 주장에 대한 입장문...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558863"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+                "title": "천안갑 신범철·문진석, 고발·유감 치열한 신경전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464348?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "천안지역 갑·을·병 경선 후보  국힘은 하나다 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958421"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+                "title": "[4·10 총선 레이더] 국민의힘 천안 원팀 출정 선언",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085208?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:18:00 +0900",
+                "title": "문진석 “물가 손 놓은 尹, 더 못 기다려”…신범철 “법치주의 저버린 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825738?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "총선 임박하자... 발언 수위 높아지는 여야 대표",
+                "link": "http://www.kbsm.net/news/view.php?idx=428304"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "MBC3노조  뉴스데스크, 양문석 '편법대출' 의혹 축소·왜곡...이래놓고 '세상...",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78877"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:35:00 +0900",
+                "title": "[현장]  민주당 횡포 4년, 또 겪으실 건가 …정황근, 신범철·이정만·이창수...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815852?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:17:00 +0900",
+                "title": "국민의힘 천안 후보, ‘원팀’ 선언... 반드시 승리할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400159?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:05:00 +0900",
+                "title": "국힘 천안 후보들 원팀출정식… 권력집중은 패거리정치 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464125?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:54:00 +0900",
+                "title": " 우리는 하나 …국민의힘 천안시 갑·을·병 후보 원팀 선언",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430985"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": "국민의힘 천안 신범철·이정만·이창수  반드시 승리 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307343"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": "조국의 “응징 투어”가 간다…안철수·김은혜·신범철·이정만 등 공통점은?",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287984?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:26:00 +0900",
+                "title": "천안지역 갑·을·병 후보, '전 장관 전 대통령실 행정관 원팀'...구심점 역할...",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764337"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "‘출국금지’ 천안갑 신범철, 기자회견 참석했다 ‘줄행랑’",
+                "link": "http://www.sisanews24.co.kr/13382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "국민의힘 천안 갑·을·병 신범철·이정만·이창수 후보 및 정황근 전 장관·...",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265868"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:58:00 +0900",
+                "title": "국민의힘 천안 '원팀' 선언  야당 폭거, 패거리 정치 막아야 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769336"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+                "title": "[충청총선] 천안시 국힘 국회의원 후보들, '원팀' 결성으로 총선 필승 다짐",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000308"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:48:00 +0900",
+                "title": "[총선 D-9] 천안 아산 여야 후보들, 공동공약·환경정화 등 이색 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602731?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:46:00 +0900",
+                "title": " 우리는 하나  국민의힘 천안 경선 참여자와 후보들 원팀 선언",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880463?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "신범철 측, 허위사실공표 위반 혐의로 문진석 후보 고소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000353"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "[총선판세] 충청권 28곳 중 10곳 초접전중…여야 승자는",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450414?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:54:00 +0900",
+                "title": "국민의힘 천안갑 신범철 후보 '더불어민주당 문진석 후보 허위사실유포  고소",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265854"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:53:00 +0900",
+                "title": "[총선현장] '천안갑' 문진석  채상병 사건, 신범철도 책임져야...국정기조 바...",
+                "link": "https://www.newspim.com/news/view/20240401000570"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:52:00 +0900",
+                "title": "[총선현장] 野, 정권심판 바람 vs 與, 국회이전 공약…'초박빙' 충남 민심은",
+                "link": "https://www.newspim.com/news/view/20240401000698"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:10:00 +0900",
+                "title": "천안갑 신범철 후보, 허위사실 유포로 문진석 후보 고발",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307329"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:38:00 +0900",
+                "title": "“정부 독선 막고 시민 삶 지켜야...효능감 느끼는 천안갑 발전 지속”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288747?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:22:00 +0900",
+                "title": "[천안갑 난타전] 문진석 ‘해병대 외압’ 맹공 VS 신범철 ‘허위사실공표’ 고...",
+                "link": "http://www.sisanews24.co.kr/13379"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:18:00 +0900",
+                "title": "문진석 후보, 명백한 허위사실유포로 피소",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764234"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:56:00 +0900",
+                "title": "[총선 D-9] 與野 '막말 경계령'에도…지도부가 앞장서 '네거티브 총공세'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025793"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:48:00 +0900",
+                "title": "더불어민주당 문진석 후보, 허위사실유포로 피소",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957807"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:40:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601864?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:52:00 +0900",
+                "title": "[충청총선] 천안갑 유권자, TV토론 마무리 발언 '주목'",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000090"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "신범철",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2404595
+            }
+        ],
+        "huboid": "100151533",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100151533/junkwa/20231214145153912_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441801-7.jpg",
+        "id": "2441801-7",
+        "재산": 311731,
+        "생년월일": "19520701",
+        "경력": "(전) 제8대 후반기 천안시의회 운영위원장\n(현) (주)소라주택 대표",
+        "학력": "단국대학교 대학원 행정학과 행정학 박사",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2441801",
+        "기호": 7,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:30:00 +0900",
+                "title": "[4·10 지지율] 與, 이준석계 없어도 ‘新 표밭’ 단 1곳도…野 ‘압승’ 구도...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021287283"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:18:00 +0900",
+                "title": "문진석 “물가 손 놓은 尹, 더 못 기다려”…신범철 “법치주의 저버린 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825738?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:53:00 +0900",
+                "title": "[총선현장] '천안갑' 문진석  채상병 사건, 신범철도 책임져야...국정기조 바...",
+                "link": "https://www.newspim.com/news/view/20240401000570"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+                "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:56:00 +0900",
+                "title": "[충남 천안갑] 더불어민주당 문진석 49.4%, 국민의힘 신범철 39.6%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427971?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 02:40:00 +0900",
+                "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 01:50:00 +0900",
+                "title": "[현장]  윤정부, 국민 개돼지 취급 …'캄캄'했던 민주당 천안 합동출정식",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814715?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:31:00 +0900",
+                "title": "천안갑 지역구 3파전 선거운동 격전지 천안종합터미널 '후끈'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457908?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:48:00 +0900",
+                "title": "[B tv 중부뉴스] [후보자를 만나다] 천안시갑 개혁신당 허욱 후보",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=63&p_no=168342"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:26:00 +0900",
+                "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:20:00 +0900",
+                "title": "총선주거권연대  거대 양당 부동산 공약 모두 개발·투기 조장 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014595106?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:52:00 +0900",
+                "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:58:00 +0900",
+                "title": "[총선 격전지, 이곳] 충남 정치 1번지 '천안갑' 표심 향배는",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768926"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:42:00 +0900",
+                "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:30:00 +0900",
+                "title": "'지리멸렬' 충남의 제3지대...양당정치 탓 '그만'",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768911"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:10:00 +0900",
+                "title": "[4.10총선-132] 천안갑, 문진석vs신범철. 치열한 접전",
+                "link": "http://www.mhj21.com/160105"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:32:00 +0900",
+                "title": "총선후보 10명 중 1명꼴 '음주운전'…사기·폭행·마약 등 전과자도",
+                "link": "https://www.etoday.co.kr/news/view/2343719"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:10:00 +0900",
+                "title": "충청권 총선 후보 재산 1위는?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306938"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "녹색정의당·개혁신당·새로운미래 지역구에 누가 나오나",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427245?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:06:00 +0900",
+                "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:18:00 +0900",
+                "title": "충청권 후보 82명 중 28명 전과 보유…최다는 11범",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306882"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:24:00 +0900",
+                "title": "천안병 이성진  정치 문턱 너무 좁아 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306876"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:00:00 +0900",
+                "title": "[4·10총선] 대전·세종·충남·충북, 대전 중구청장 재선, 도의원 재·보궐 ...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007466"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:18:00 +0900",
+                "title": "제22대 총선 최종 후보 대전·세종·충남 61명 등록",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762880"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:56:00 +0900",
+                "title": "제22대 총선 '천안갑' 누가 뛰나?...문진석·신범철·허욱 '3파전'",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355819"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:11:00 +0900",
+                "title": "[뉴스 즉설]국힘 금강벨트도 위기, 충청권 그럼 4년 전 악몽 데자뷔?",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084098?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 01:27:00 +0900",
+                "title": "5년 내 세금 체납 후보 83명… 9명은 여전히 세금 체납",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917052?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:58:00 +0900",
+                "title": "충남 11개 선거구서 31명 총선 출사표...2.8대 1",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396108?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:54:00 +0900",
+                "title": "[22대 총선] 충남 22대 총선 후보등록 2.63대 1 ‘경쟁률’",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200343.html"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:07:00 +0900",
+                "title": "5년내 세금 체납 후보 82명…체납액 1위 민주 주철현 1억1662만원(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445538?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:52:00 +0900",
+                "title": "후보 등록 최종, 대전·세종·충남 61명… 경쟁률 3.05대 1(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445503?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "충청권 28개 선거구 82명 등록…28일부터 선거운동",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306823"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:38:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 충남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583338?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:32:00 +0900",
+                "title": "4·10 총선 충청권 후보자 등록(22일 최종)",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=744962"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:25:00 +0900",
+                "title": "[4·10총선 후보 등록] 충남",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445445?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:53:00 +0900",
+                "title": "쇄신한다더니…청년 후보 5.6%, 여성 14.4%",
+                "link": "https://n.news.naver.com/mnews/article/015/0004963527?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:45:00 +0900",
+                "title": "5년내 세금 체납 후보 69명…체납액 1위 민주 주철현 1억1662만원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445424?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "[4·10총선 후보자 등록] 충남",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430748?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:46:00 +0900",
+                "title": "개혁신당, 중앙선대위 출범···천하람 총괄선대위원장 선임",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/715902"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:32:00 +0900",
+                "title": "제22대 총선 후보 등록 첫날 대전·세종·충남 55명 등록",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762761"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:00:00 +0900",
+                "title": "충청권 4·10 총선 후보자 등록(21일 마감 기준)",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084040?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:34:00 +0900",
+                "title": "[종합] 충청권 28개 선거구 74명 등록…평균 2.64대",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306766"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:16:00 +0900",
+                "title": "총선 후보 69명, 5년내 세금 체납…5명은 후보 등록때까지 안내(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581135?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 충남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581017?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:10:00 +0900",
+                "title": "후보 등록 첫날 대전·세종·충남 55명… 경쟁률 2.75대 1(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443198?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:59:00 +0900",
+                "title": "4·10 총선 후보자 등록 첫날, 충남 11개 선거구 29명 등록",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443071?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:16:00 +0900",
+                "title": "'정치 1번지' 천안갑..일자리·교통문제 등 관심",
+                "link": "https://tjmbc.co.kr/article/7bJMcfitLUk"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 08:52:00 +0900",
+                "title": "'정치 1번지' 천안갑..일자리·교통문제 등 관심/투데이",
+                "link": "https://tjmbc.co.kr/article/KEnvGlM62uh"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+                "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:52:00 +0900",
+                "title": "[리포트]'정치 1번지' 천안갑..일자리·교",
+                "link": "https://tjmbc.co.kr/article/Gt69ca8eEp_"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:16:00 +0900",
+                "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:22:00 +0900",
+                "title": "충남 표심 초접전",
+                "link": "https://tjmbc.co.kr/article/oumjtBVXIP72bb1CG"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:47:00 +0900",
+                "title": "문진석 43%·신범철 39%…'충남 정치 1번지' 초접전 [D-21 천안갑]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811331?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:32:00 +0900",
+                "title": "신범철·문진석, 이정만·이재관 '접전'…이정문 '천안병'서 우세 [D-21 천안...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811271?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:01:00 +0900",
+                "title": "[충남 천안갑] 더불어민주당 문진석 43%, 국민의힘 신범철 39%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426554?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:51:00 +0900",
+                "title": "[르포]천안갑 유권자들  지역발전 적임자 선택 …정치 불신도 심각",
+                "link": "https://n.news.naver.com/mnews/article/079/0003875762?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:08:00 +0900",
+                "title": "충남 표심 초접전/투데이",
+                "link": "https://tjmbc.co.kr/article/KpyfVrtDtvbyr"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:06:00 +0900",
+                "title": "충남 표심 초접전/데스크",
+                "link": "https://tjmbc.co.kr/article/4r1KsDnot3H"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/XsHuHd6IGAzcVpGxOr"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/IzFqY0r0zY5DT"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:26:00 +0900",
+                "title": "4.10 총선 대진표",
+                "link": "https://tjmbc.co.kr/article/kZudXs90GqvM-QCNaLI"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:24:00 +0900",
+                "title": "충청권 여야 대진표 확정…본격 선거전",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1020317"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:06:00 +0900",
+                "title": "(R)[선택 2024]'4년만의 리턴매치'..천안갑 표심 어디로?",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/67915"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 16:28:00 +0900",
+                "title": "총선 충청권 선거구별 판세 - 9. 천안갑",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1428563"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 19:53:00 +0900",
+                "title": "총선/ 충남 최대 격전지 천안…3석, 민주 수성VS국힘 탈환",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=743575"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 08:20:00 +0900",
+                "title": "[총선] 2024 총선 천안시갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011680001?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 21:47:00 +0900",
+                "title": "[총선] 2024 총선 천안시갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011679659?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 19:19:00 +0900",
+                "title": "[총선] 2024 총선 천안시갑 후보를 만나다",
+                "link": "https://n.news.naver.com/mnews/article/056/0011679512?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 08:16:00 +0900",
+                "title": "[리포트] 4.10 총선 대진표(1)",
+                "link": "https://tjmbc.co.kr/article/yEqCNMwTNeFz"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 20:52:00 +0900",
+                "title": "[리포트] 4.10 총선 대진표(1)",
+                "link": "https://tjmbc.co.kr/article/a2A_TDq57JOgIz"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:27:00 +0900",
+                "title": "개혁신당, 충청권 5명 추가 공천… 총 9명으로 늘어",
+                "link": "https://n.news.naver.com/mnews/article/421/0007404304?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 16:10:00 +0900",
+                "title": "개혁신당, 화성을에 이준석 공천… 종로엔 금태섭",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240311010005450"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:48:00 +0900",
+                "title": "개혁신당, 충청권 공천자 잇달아 발표…대전·충남북·세종 9명",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1428117"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:28:00 +0900",
+                "title": "판 커진 '반도체 벨트'···개혁신당, 이준석·이원욱·유시진 등 공천",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=221789"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 12:48:00 +0900",
+                "title": "개혁신당, 경북 공천 신청자 '0'... 대구 북구을에 황영헌 공천",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=434026"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:43:00 +0900",
+                "title": "개혁신당, 이준석·이원욱·금태섭·천하람 등 18명 2차 공천",
+                "link": "https://n.news.naver.com/mnews/article/119/0002808012?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:40:00 +0900",
+                "title": "개혁신당, 18개 선거구 공천자 발표",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=6932"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:26:00 +0900",
+                "title": "개혁신당, 금태섭 종로·이원욱 화성정 공천 등 18명 추가 공천",
+                "link": "https://n.news.naver.com/mnews/article/057/0001804778?sid=100"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:14:00 +0900",
+                "title": "개혁신당 충청권 5곳 공천...경북은 공천신청자 없어",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306114"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:10:00 +0900",
+                "title": "개혁신당, 대전 동구에 정구국·서구을에 조동운 공천",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240311010002993"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 10:50:00 +0900",
+                "title": "개혁신당, 이준석 대표 포함 18개 선거구 공천자 발표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2940567"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 10:45:00 +0900",
+                "title": "개혁신당, 화성을 이준석·순천 천하람 공천… 경북은 지원자 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007402402?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 10:44:00 +0900",
+                "title": "개혁신당, 경북 제외 전 지역구 후보자 배출… 4일간 추가 공모 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003346493?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:38:00 +0900",
+                "title": "총선 D-30...충남 `박빙승부' 예고",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=789547"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:04:00 +0900",
+                "title": "[총선 D-30] 대전·세종, '전석 석권' 민주- “수성”·국힘- “탈환”",
+                "link": "https://www.wikitree.co.kr/articles/933592"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 16:36:00 +0900",
+                "title": "[4·10 총선 톺아보기] 천안(갑) / 민주 문진석 vs 국힘 신범철 리턴매치",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1018951"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 08:01:00 +0900",
+                "title": "[4·10 격전지 르포] 천안갑 '국방차관' vs '친명계' 재대결",
+                "link": "https://n.news.naver.com/mnews/article/001/0014552906?sid=100"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 13:26:00 +0900",
+                "title": "[B tv 중부뉴스]천안 3곳 대진표...사실상 내일 '확정' (3/8 限)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=63&p_no=167531"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 06:01:00 +0900",
+                "title": "[총선 D-30] '스윙보터' 충남, 천안·아산 승부처…선거구 조정 변수 촉각",
+                "link": "https://n.news.naver.com/mnews/article/001/0014550114?sid=165"
+            },
+            {
+                "date": "Thu, 29 Feb 2024 15:40:00 +0900",
+                "title": "여야 공천 막바지…충남 11개 선거구 대진표",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=305539"
+            },
+            {
+                "date": "Mon, 26 Feb 2024 11:40:00 +0900",
+                "title": "'천안갑' 문진석  확실한 변화 가져다드릴 것  재선 도전",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=326552"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 10:50:00 +0900",
+                "title": "[국제포토] 개혁신당 허욱 예비후보 천안(갑) 출마 기자회견",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2925399"
+            },
+            {
+                "date": "Tue, 20 Feb 2024 16:04:00 +0900",
+                "title": "정치인 무기 SNS, 천안 주자 중 누가 제일 잘 쓰나?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=304969"
+            },
+            {
+                "date": "Tue, 20 Feb 2024 15:49:00 +0900",
+                "title": "[출마합니다] 허욱 전 천안시의원, 개혁신당 천안갑 출마 선언",
+                "link": "https://n.news.naver.com/mnews/article/656/0000080337?sid=100"
+            },
+            {
+                "date": "Tue, 20 Feb 2024 14:56:00 +0900",
+                "title": "허욱 천안갑 출마  대한민국 정치사 새 이정표 될 것 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=766017"
+            },
+            {
+                "date": "Tue, 20 Feb 2024 13:46:00 +0900",
+                "title": "이재명 “해병대원 순직 수사 외압 당사자 신범철 천안 ‘입틀막’ 공천”",
+                "link": "http://www.sisanews24.co.kr/13034"
+            },
+            {
+                "date": "Tue, 20 Feb 2024 13:14:00 +0900",
+                "title": "[충청총선] 허욱 예비후보, “새로운 변화의 신선한 물줄기가 될 것”",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240220010005403"
+            }
+        ],
+        "정당": "개혁신당",
+        "이름": "허욱",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 311731
+            }
+        ],
+        "huboid": "100152068",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152068/junkwa/20240207150814265_1.PDF"
+    }
 ]

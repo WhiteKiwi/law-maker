@@ -1,113 +1,802 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2471903-2.jpg",
-    "id": "2471903-2",
-    "재산": 2151582,
-    "생년월일": "19651020",
-    "경력": "(현)제21대 국회의원\n(전)국민의힘 원내대변인",
-    "학력": "서울대학교 법과대학 사법학과 졸업",
-    "직업": "정당인(국회의원)",
-    "성별": "남",
-    "id_21th": "1142",
-    "regionId": "2471903",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:18:00 +0900",
-        "title": "의성청송영덕울진 후보자 합동방송연설회 개최",
-        "link": "https://www.tbc.co.kr/news/view?pno=20240401153727AE01063&id=186014"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:36:00 +0900",
-        "title": "박형수  의성 항공물류단지 건설 성공적 추진 ",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990611"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:48:00 +0900",
-        "title": "거세지는 TK신공항 복수 화물터미널 건립 목소리",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870454?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "[4.10총선-175] 의성·청송·영덕·울진. (무공천)vs박형수vs심태성",
-        "link": "http://www.mhj21.com/160222"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 10:44:00 +0900",
-        "title": "[총선 현장] 국힘 박형수 후보 영해만세시장서 영덕지역 첫 공식 선거운동",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990244"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박형수",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1730306
-      },
-      {
-        "연도": 2021,
-        "재산": 1908506
-      },
-      {
-        "연도": 2022,
-        "재산": 2291470
-      },
-      {
-        "연도": 2023,
-        "재산": 2151582
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2471903-7.jpg",
-    "id": "2471903-7",
-    "재산": 43729,
-    "생년월일": "19850627",
-    "경력": "(현)영덕대게랑 대표\n(현)상상수산 대표",
-    "학력": "영산대학교 인도비즈니스학과 졸업",
-    "직업": "상상수산 대표",
-    "성별": "남",
-    "regionId": "2471903",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:18:00 +0900",
-        "title": "의성청송영덕울진 후보자 합동방송연설회 개최",
-        "link": "https://www.tbc.co.kr/news/view?pno=20240401153727AE01063&id=186014"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:36:00 +0900",
-        "title": "박형수  의성 항공물류단지 건설 성공적 추진 ",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990611"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "[4.10총선-175] 의성·청송·영덕·울진. (무공천)vs박형수vs심태성",
-        "link": "http://www.mhj21.com/160222"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 20:42:00 +0900",
-        "title": "'의성·청송·영덕·울진' 재선 도전 VS 30대",
-        "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190317&mode=view"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:48:00 +0900",
-        "title": "대구경북 국회의원 후보 74명 중 6명 가상자산 보유",
-        "link": "https://www.newsmin.co.kr/news/101124/"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "심태성",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 43729
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2471903-2.jpg",
+        "id": "2471903-2",
+        "재산": 2151582,
+        "생년월일": "19651020",
+        "경력": "(현)제21대 국회의원\n(전)국민의힘 원내대변인",
+        "학력": "서울대학교 법과대학 사법학과 졸업",
+        "직업": "정당인(국회의원)",
+        "성별": "남",
+        "id_21th": "1142",
+        "regionId": "2471903",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "선거공보물 내용 분석해보니…'국힘 TK 후보 공약=지역 발전 바로미터'",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870689?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:46:00 +0900",
+                "title": "[선택4·10] 국힘 박형수 후보,  울진을 경북 에너지 중심도시로 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069494"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:31:00 +0900",
+                "title": "[총선] 박형수  울진 원자력 수소 국가산단 사업 등 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993625?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:18:00 +0900",
+                "title": "의성청송영덕울진 후보자 합동방송연설회 개최",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240401153727AE01063&id=186014"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:36:00 +0900",
+                "title": "박형수  의성 항공물류단지 건설 성공적 추진 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990611"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:48:00 +0900",
+                "title": "거세지는 TK신공항 복수 화물터미널 건립 목소리",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870454?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "[4.10총선-175] 의성·청송·영덕·울진. (무공천)vs박형수vs심태성",
+                "link": "http://www.mhj21.com/160222"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:44:00 +0900",
+                "title": "[총선 현장] 국힘 박형수 후보 영해만세시장서 영덕지역 첫 공식 선거운동",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990244"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:42:00 +0900",
+                "title": "'의성·청송·영덕·울진' 재선 도전 VS 30대",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190317&mode=view"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:27:00 +0900",
+                "title": "한동훈, 야당 후보 겨냥 “뽑으면 범죄 면허 주는 것···조국 지배받고 싶나...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287631?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:10:00 +0900",
+                "title": "선거구 변경 울진·영덕…'깜깜이 선거?'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879757?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:23:00 +0900",
+                "title": "박형수 국민의힘 의성·청송·영덕·울진 후보 출정식",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325613?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:12:00 +0900",
+                "title": "[포토] 박형수 의성청송영덕울진 후보 총선 출정식",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240329010017500"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:34:00 +0900",
+                "title": "박형수  4개郡 인구소멸위기 극복 노력 ",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455300"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:32:00 +0900",
+                "title": "의성청송영덕울진 박형수 후보 선거사무소 개소식 및 출정식 성황리에 개최",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436531"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:36:00 +0900",
+                "title": "박형수 국민의힘 의성·청송·영덕·울진 후보 출정식 성료",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004935"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:37:00 +0900",
+                "title": "[22대 총선] 박형수 의성·청송·영덕·울진 국민의힘 후보, 선거사무소 개소...",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503303"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:02:00 +0900",
+                "title": "'의성·청송·영덕·울진 선거구' 재선 도전 VS 30대 신인..고령 유권자 표심...",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69579"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:26:00 +0900",
+                "title": "[선택4·10] 박형수 국힘 의성·청송·영덕·울진 후보 출정식",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067833"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:04:00 +0900",
+                "title": "박형수 후보, 선거사무소 개소식 및 출정식 개최",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315235"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:52:00 +0900",
+                "title": "[4·10 필드 속으로] 박형수 국민의힘 후보 선거사무소 개소 및 출정식",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240328010003990"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:45:00 +0900",
+                "title": "'의성·청송·영덕·울진' 박형수  인구소멸 위기 극복·실질적 지역발전 매진...",
+                "link": "https://www.newspim.com/news/view/20240328001156"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:27:00 +0900",
+                "title": "박형수 의성청송영덕울진 후보 28일 선거사무소 개소",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869811?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:50:00 +0900",
+                "title": "[열전 4·10 총선] 박형수,  지역의 실질적인 발전 위해 최선 다할 터 ",
+                "link": "http://www.kbsm.net/news/view.php?idx=427844"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:18:00 +0900",
+                "title": "국힘 의성·청송·영덕·울진 박형수 후보 출정식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457094?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:55:00 +0900",
+                "title": "[총선] 박형수  관광 활성화 등 통해 인구소멸위기 극복하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992400?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:34:00 +0900",
+                "title": "경북 의성·청송·영덕·울진 박형수 국민의힘 후보 선거사무소 개소",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276998?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:43:00 +0900",
+                "title": "선거구 재조정…의성·청송·영덕·울진 민심은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690069?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:14:00 +0900",
+                "title": "선거구 재조정…의성·청송·영덕·울진 민심은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689863?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "박형수 의성·청송·영덕·울진 후보 선거사무소 개소·출정식…본격 활동 돌...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004682"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:08:00 +0900",
+                "title": "출정 나선 與 경북 후보자들  경북 넘어 수도권 승리 견인  결의",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454674"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:25:00 +0900",
+                "title": "경북 유일 야당 후보 없는 의성청송영덕울진 득표율은?",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869046?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427081"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:42:00 +0900",
+                "title": "제22대 국회의원선거 후보자 등록 마감",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190208&mode=view"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:27:00 +0900",
+                "title": "[총선] 박형수  총선 승리로 윤석열 정부 성공 뒷받침 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000990976?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:02:00 +0900",
+                "title": "[12시]제22대 총선 후보자 등록 시작",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69480"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:38:00 +0900",
+                "title": "[22대 총선 후보자 등록] 경북(21일 마감)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427047"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:25:00 +0900",
+                "title": "의성·청송·영덕·울진 박형수 후보, 재선 승리 향한 시동걸어",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868660?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429087?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:49:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581019?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:51:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580794?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:40:00 +0900",
+                "title": "박형수 의원, 의성·청송·영덕·울진 제22대총선 후보자등록",
+                "link": "https://n.news.naver.com/mnews/article/016/0002284006?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:06:00 +0900",
+                "title": "박형수 의원, 의성·청송·영덕·울진 선거구 후보 등록",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004290"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:14:00 +0900",
+                "title": "[총선 기상도] '무소속 주의보' 국힘, TK 안방사수 작전 通할까",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84259"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:07:00 +0900",
+                "title": "국힘 TK 공천자 '영남대 출신' 7명으로 가장 많아",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868389?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:46:00 +0900",
+                "title": " 버스는 떠났다 …총선 앞 '낙선후보' 지지한 지방의원들 ‘희비 교차’",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868377?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:28:00 +0900",
+                "title": "[22대총선] 영주,봉화,영양선거구 임종득 국민의힘 후보 선거대책위 발족",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324194?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:33:00 +0900",
+                "title": "여, 장예찬·도태우·정우택 공천 취소 확정…무소속 출마엔  복당 없다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432978?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:44:00 +0900",
+                "title": "與, 링 위 오를 대구·경북 선수 25명 전원 확정",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453728"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:03:00 +0900",
+                "title": "폴리뉴스 모닝브리핑 3월 16일 토요일",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639279"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "4·10 총선 경북지역 출마자 대진표 완성",
+                "link": "https://www.idaegu.com/newsView/idg202403170123"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 06:26:00 +0900",
+                "title": "국힘 6차 경선결과 발표...박형수'승', 김영식-강명구'결선'",
+                "link": "http://www.kbsm.net/news/view.php?idx=426173"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 20:42:00 +0900",
+                "title": "5.18 왜곡 도태우 공천 취소",
+                "link": "https://www.mpmbc.co.kr/article/ghsCQZAyRxnt1IsMWB"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 20:20:00 +0900",
+                "title": "도태우 공천 취소, 김재원 경선 탈락, 황상무 수석 왜곡발언",
+                "link": "https://kjmbc.co.kr/article/6QrlELb64V1XggFoNdZno"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 18:16:00 +0900",
+                "title": "국민의힘 공천관리위원회, 6차 경선 결과 발표",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2049596"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 17:34:00 +0900",
+                "title": "‘검사 독재’종식하겠단 야당의 역설…결과는 與野 모두 과반 공천",
+                "link": "https://n.news.naver.com/mnews/article/025/0003347669?sid=102"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 15:36:00 +0900",
+                "title": "다선 불사? 이웃집과 비교되네…한동훈 총선 공천 성적표",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468925"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 09:42:00 +0900",
+                "title": "[시도때도없는뉴스 03.15] 정부-대구시, 알파시티 '국가 디지털 연구개발 허브...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240315000940335"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 08:08:00 +0900",
+                "title": "[총선] 국힘, TK 22곳 후보 확정…현역 생존율 64%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681736?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 08:00:00 +0900",
+                "title": "[전국 주요 신문 톱뉴스](15일 조간)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014564974?sid=102"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 07:40:00 +0900",
+                "title": "'낙동강 벨트' 찾은 한동훈… 부산 책임진다  표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/055/0001138860?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 07:26:00 +0900",
+                "title": "박형수 의원, 국회의원 선거 후보자 최종 선정",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3012685"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 05:03:00 +0900",
+                "title": "‘용산 출신’ 박성훈·‘오세훈계’ 이창근",
+                "link": "https://n.news.naver.com/mnews/article/081/0003437282?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 03:28:00 +0900",
+                "title": "與 의성·울진 박형수, 부산 북을 박성훈, 하남을 이창근 본선행",
+                "link": "https://n.news.naver.com/mnews/article/023/0003822309?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 03:01:00 +0900",
+                "title": "與, ‘돈봉투 의혹’ 정우택 공천취소… 김현아-박일호 이어 세번째",
+                "link": "https://n.news.naver.com/mnews/article/020/0003553309?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 01:45:00 +0900",
+                "title": "與 박성훈·박형수 등 본선행...국민추천 후보 오늘 발표",
+                "link": "https://n.news.naver.com/mnews/article/052/0002010348?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 00:02:00 +0900",
+                "title": "[선택4·10] 국민의힘 의성·청송·영덕·울진에 '박형수 공천'",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1062333"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 23:27:00 +0900",
+                "title": "도태우 공천유지 ‘국민 눈높이 맞다’더니…국힘, 왜 급선회?",
+                "link": "https://n.news.naver.com/mnews/article/028/0002681003?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 23:01:00 +0900",
+                "title": "[투나잇이슈] 여, 정우택 공천 취소…민주당, 정봉주 거취 고심",
+                "link": "https://n.news.naver.com/mnews/article/422/0000649818?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 22:56:00 +0900",
+                "title": "[나이트포커스] 여, 공천 논란 수습 안간힘",
+                "link": "https://n.news.naver.com/mnews/article/052/0002010291?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:54:00 +0900",
+                "title": "현역 박형수, 김재원 꺾고 본선행",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453597"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:45:00 +0900",
+                "title": "與 박성훈·박형수 등 본선행...국민추천 후보 내일 발표",
+                "link": "https://n.news.naver.com/mnews/article/052/0002010266?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:43:00 +0900",
+                "title": "[총선] 국힘, TK 22곳 후보 확정…현역 생존율 64%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681444?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:40:00 +0900",
+                "title": "박형수 본선 막차 탑승ㆍ김영식 - 강명구 결선 맞대결",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=472694"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:34:00 +0900",
+                "title": "지역구 이동 박형수, 조직력 약세 우려 '훌훌'",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453564"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:10:00 +0900",
+                "title": "국민의힘 현역 박형수 공천...구미을은 결선",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240314162436AE00402&id=185554"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:56:00 +0900",
+                "title": "'돈봉투 수수 의혹' 정우택 공천 취소…구미을 김영식·강명구 결선",
+                "link": "https://n.news.naver.com/mnews/article/422/0000649800?sid=161"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:42:00 +0900",
+                "title": "의성청송영덕울진, 국민의힘 박형수 공천 확정",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190087&mode=view"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:42:00 +0900",
+                "title": "與 박성훈·박형수 등 본선행...국민추천 후보 내일 발표",
+                "link": "https://n.news.naver.com/mnews/article/052/0002010255?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:36:00 +0900",
+                "title": "의성·울진 박형수, 김재원 꺾고 본선행…구미을 김영식은 '친윤' 강명구와 '...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003749"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:14:00 +0900",
+                "title": "대전 중구 與 후보, 강영환 VS 이은권 결선 진행키로",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2262487"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:08:00 +0900",
+                "title": "국민의힘, '낙동강 벨트' 탈환 시도…정우택 공천 취소",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1434659"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:07:00 +0900",
+                "title": "'낙동강 벨트'로…한동훈  부산서 새로운 정치 출발할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001138769?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:06:00 +0900",
+                "title": "김재원 꺾고… 박형수 의원 '공천 티켓'",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988346"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박형수",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1730306
+            },
+            {
+                "연도": 2021,
+                "재산": 1908506
+            },
+            {
+                "연도": 2022,
+                "재산": 2291470
+            },
+            {
+                "연도": 2023,
+                "재산": 2151582
+            }
+        ],
+        "huboid": "100152784",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4719/Hb100152784/junkwa/20240310105602027_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2471903-7.jpg",
+        "id": "2471903-7",
+        "재산": 43729,
+        "생년월일": "19850627",
+        "경력": "(현)영덕대게랑 대표\n(현)상상수산 대표",
+        "학력": "영산대학교 인도비즈니스학과 졸업",
+        "직업": "상상수산 대표",
+        "성별": "남",
+        "regionId": "2471903",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 21:18:00 +0900",
+                "title": "의성청송영덕울진 후보자 합동방송연설회 개최",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240401153727AE01063&id=186014"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:36:00 +0900",
+                "title": "박형수  의성 항공물류단지 건설 성공적 추진 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990611"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "[4.10총선-175] 의성·청송·영덕·울진. (무공천)vs박형수vs심태성",
+                "link": "http://www.mhj21.com/160222"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:42:00 +0900",
+                "title": "'의성·청송·영덕·울진' 재선 도전 VS 30대",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190317&mode=view"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:48:00 +0900",
+                "title": "대구경북 국회의원 후보 74명 중 6명 가상자산 보유",
+                "link": "https://www.newsmin.co.kr/news/101124/"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:10:00 +0900",
+                "title": "선거구 변경 울진·영덕…'깜깜이 선거?'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879757?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:02:00 +0900",
+                "title": "'의성·청송·영덕·울진 선거구' 재선 도전 VS 30대 신인..고령 유권자 표심...",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69579"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:43:00 +0900",
+                "title": "선거구 재조정…의성·청송·영덕·울진 민심은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690069?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:14:00 +0900",
+                "title": "선거구 재조정…의성·청송·영덕·울진 민심은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689863?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427081"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:42:00 +0900",
+                "title": "제22대 국회의원선거 후보자 등록 마감",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190208&mode=view"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:27:00 +0900",
+                "title": "[총선] 박형수  총선 승리로 윤석열 정부 성공 뒷받침 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000990976?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:02:00 +0900",
+                "title": "[12시]제22대 총선 후보자 등록 시작",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69480"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:38:00 +0900",
+                "title": "[22대 총선 후보자 등록] 경북(21일 마감)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427047"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429087?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:49:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581019?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:51:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580794?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:44:00 +0900",
+                "title": "與, 링 위 오를 대구·경북 선수 25명 전원 확정",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453728"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "4·10 총선 경북지역 출마자 대진표 완성",
+                "link": "https://www.idaegu.com/newsView/idg202403170123"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 20:06:00 +0900",
+                "title": "與 안전운행에 TK 역대급 조용한 선거",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988335"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 16:38:00 +0900",
+                "title": "국힘, 의성·청송·영덕·울진 선거구 '박형수' 공천",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314414"
+            },
+            {
+                "date": "Wed, 28 Feb 2024 20:38:00 +0900",
+                "title": "의성군선관위, 29일 총선 후보자 입후보 안내설명회 개최",
+                "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4002433"
+            },
+            {
+                "date": "Mon, 26 Feb 2024 17:20:00 +0900",
+                "title": "의성군 출신 경북도의원, 각각 다른 후보 지지선언···'경선 결과' 관심 고...",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=313427"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 18:38:00 +0900",
+                "title": "심태성  국회의원의 특별한 책임감 보여줄 것 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=540194"
+            },
+            {
+                "date": "Mon, 12 Feb 2024 21:36:00 +0900",
+                "title": "설 밥상머리 화두는 '총선'이나, 후보는 ? '깜깜이 선거' 우려",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=430498"
+            },
+            {
+                "date": "Mon, 12 Feb 2024 20:22:00 +0900",
+                "title": "선거구 획정 언제 결론 내리나 경북북부 예비후보 우왕좌왕",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=984315"
+            },
+            {
+                "date": "Thu, 08 Feb 2024 18:02:00 +0900",
+                "title": "[R]'무주공산' 의성·청송·영덕.. 선거구 여전히 '안갯속'",
+                "link": "http://andongmbc.co.kr/adboard/NewsView68789"
+            },
+            {
+                "date": "Wed, 07 Feb 2024 17:36:00 +0900",
+                "title": "군위·의성·청송·영덕 선거구 예비후보 5명 출사표",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=455154"
+            },
+            {
+                "date": "Fri, 02 Feb 2024 08:30:00 +0900",
+                "title": "서울 면적 5∼6배 거대 선거구 의성청송영덕…선거구 조정 변수",
+                "link": "https://n.news.naver.com/mnews/article/001/0014484201?sid=165"
+            },
+            {
+                "date": "Wed, 31 Jan 2024 06:02:00 +0900",
+                "title": "경북 군위·의성·청송·영덕군…국힘 예비후보 4명 각축전",
+                "link": "https://n.news.naver.com/mnews/article/079/0003858688?sid=165"
+            },
+            {
+                "date": "Mon, 22 Jan 2024 19:36:00 +0900",
+                "title": "강성주 예비후보 “지역 섬기는 정치로 지속가능한 성장 만들 것”",
+                "link": "http://www.kukinews.com/newsView/kuk202401220304"
+            },
+            {
+                "date": "Mon, 15 Jan 2024 17:22:00 +0900",
+                "title": "군위·의성·청송·영덕 선거구…예비 후보 5명",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=451899"
+            },
+            {
+                "date": "Sat, 30 Dec 2023 09:23:00 +0900",
+                "title": "[22대 총선 프로젝트][대구 경북](2)4.10총선 뛰는 사람들...대구 경북 현역 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=629451"
+            },
+            {
+                "date": "Mon, 18 Dec 2023 20:32:00 +0900",
+                "title": "TK 지역구 후보군 양극화 뚜렷",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=978320"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "심태성",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 43729
+            }
+        ],
+        "huboid": "100151483",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4719/Hb100151483/junkwa/20240316105134467_1.PDF"
+    }
 ]

@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2480901-1",
-    "regionId": "2480901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-1.jpg",
-    "기호": 1,
-    "이름": "우서영",
-    "생년월일": "19960101",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
-    "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
-    "재산": 55585,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:21:00 +0900",
-        "title": "민주당 사무원, 길에 쓰러진 할머니 생명 구해",
-        "link": "https://n.news.naver.com/mnews/article/022/0003919886?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 07:40:00 +0900",
-        "title": "[4.10총선 경남] 우서영 선거캠프,  부활절 아침, 쓰러진 생명을 구했다 ",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:40:00 +0900",
-        "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
-        "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 55585
-      }
-    ]
-  },
-  {
-    "id": "2480901-2",
-    "regionId": "2480901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-2.jpg",
-    "기호": 2,
-    "이름": "박상웅",
-    "생년월일": "19600816",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 사범대학 사회교육학과 졸업",
-    "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
-    "재산": 541328,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-        "title": "'밀양·의령·함안·창녕' 박상웅 후보  함안 신성장도시화 만들겠다 ",
-        "link": "https://www.newspim.com/news/view/20240401001209"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:45:00 +0900",
-        "title": "박상웅 국민의힘 국회의원 후보 유세 지지호소",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=388266"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:43:00 +0900",
-        "title": "박상웅 밀양의령함안창녕 후보  부곡온천 특구 활성화 및 공공기관 유치 ",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870428?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 541328
-      }
-    ]
-  }
+    {
+        "id": "2480901-1",
+        "regionId": "2480901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-1.jpg",
+        "기호": 1,
+        "이름": "우서영",
+        "생년월일": "19960101",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
+        "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
+        "재산": 55585,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:48:00 +0900",
+                "title": "與김용태·野전용기…최초 '90년대생 지역구 국회의원' 탄생할까",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075771?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:52:00 +0900",
+                "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:21:00 +0900",
+                "title": "민주당 사무원, 길에 쓰러진 할머니 생명 구해",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919886?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:40:00 +0900",
+                "title": "[4.10총선 경남] 우서영 선거캠프,  부활절 아침, 쓰러진 생명을 구했다 ",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:40:00 +0900",
+                "title": "“하늘이 도왔다”...길거리 쓰러진 할머니 심폐소생술로 살린 선거운동원",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281132?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:14:00 +0900",
+                "title": "민주당 29세 후보 선거 운동 중 사무원이 할머니 구했다 (+사진)",
+                "link": "https://www.wikitree.co.kr/articles/939424"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:39:00 +0900",
+                "title": "장터에 쓰러진 할머니 살린 선거운동원  오늘 부활절이라 더 의미 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880104?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:26:00 +0900",
+                "title": "우서영 밀양의령함안창녕 후보 운동원, 환자중 심폐소생술",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907727"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:06:00 +0900",
+                "title": "심폐소생술로 70대 여성 구한 선거운동원",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428240?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:36:00 +0900",
+                "title": "함안 장터 쓰러진 할머니, 선거운동원이 심폐소생술로 살렸다",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461339?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:53:00 +0900",
+                "title": "[포토] 與 선거 운동원들과 인사하는 우서영 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824642?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:19:00 +0900",
+                "title": "전국 최연소 우서영 국회의원 후보, 합동 출정식",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325629?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:04:00 +0900",
+                "title": "전국 최연소 우서영 국회의원 후보 합동출정식 가져",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558237"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "경남 16개 지역구 총선 후보 37명 선거운동 돌입",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387900"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:38:00 +0900",
+                "title": "우서영 국회의원 후보, 민주당 국회의원·보궐선거 출마자와 합동 출정식",
+                "link": "http://www.kukinews.com/newsView/kuk202403280354"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:00:00 +0900",
+                "title": "빗속 출근길 유세·출정식…'유권자 속으로'",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549385"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:51:00 +0900",
+                "title": "전국 최연소 우서영 민주당 후보  1번을 꼭 찍어주세요 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824234?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:08:00 +0900",
+                "title": "민주당 우서영·이주옥·하원호 후보, 밀양서 합동 출정식 가져",
+                "link": "https://www.cnbnews.com/news/article.html?no=651398"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:38:00 +0900",
+                "title": "우서영 후보  국민 목소리 담은 바른 노력 할 것 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017127"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:33:00 +0900",
+                "title": "더불어민주당 우서영 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596475?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:12:00 +0900",
+                "title": " 집권당 이겨야 발전  vs  무능 정권 심판해야 …경남 빗속 유세(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596122?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:02:00 +0900",
+                "title": "28세 최연소부터 MZ 맞대결까지…2030 후보 38명 총선 도전장",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686747"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:41:00 +0900",
+                "title": "[포토] 총선 출정식, 승리 다짐하는 우서영·이주옥·하원호",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824157?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:36:00 +0900",
+                "title": "전국 최연소 우서영 국회의원후보 합동 출정식 가져",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524876"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:33:00 +0900",
+                "title": "[포토] 총선 출정식 하는 우서영 민주당 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824143?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:46:00 +0900",
+                "title": "밀양의령함안창녕 민주당 우서영 후보 합동 출정식",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907536"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:32:00 +0900",
+                "title": "민주당 국회의원·보궐선거 밀양 출마자 합동 출정식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456489?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:25:00 +0900",
+                "title": "경남 16개 지역구 총선 후보 37명, 13일간 선거운동 돌입",
+                "link": "https://n.news.naver.com/mnews/article/001/0014594418?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:07:00 +0900",
+                "title": "민주당 밀양·의령·함안·창녕 우서영 후보 운동원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455085?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:07:00 +0900",
+                "title": "밀양 공식 선거운동 첫날 '적과의 동침' 눈길",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455088?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:10:00 +0900",
+                "title": "밀양·의령·함안·창녕 우서영 후보, “신재생 에너지 시대 열겠다”",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325305?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "[나는 후보자다] 밀양의령함안창녕 선거구 나서는 후보는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461114"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:28:00 +0900",
+                "title": "더불어민주당 경남도당 총선 선대위 구성",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549133"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:24:00 +0900",
+                "title": "밀양의령함안창녕 우서영 후보  신재생 시대 열겠다 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549155"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:31:00 +0900",
+                "title": "대파·사과 심지어 디올까지... 인터넷 달구는 정치 밈",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427546?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:51:00 +0900",
+                "title": "민주당 경남도당, 총선 선대위 발표 … 김두관 위원장, 상임선대위원장으로",
+                "link": "https://n.news.naver.com/mnews/article/277/0005397575?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "민주당 경남도당, 선거대책위 구성…상임선대위원장 김두관",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409696"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "민주당 경남도당, 선거대책위 구성…상임선대위원장 김두관",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387543"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "민주당 우서영 후보  신재생 에너지 제방발전소 구축 ",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387538"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "우서영 민주당 밀양·의령·함안·창녕 후보 '하천제방 발전소' 공약",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907245"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:05:00 +0900",
+                "title": " 저요 저! ..개그맨·가수·스타강사 이색 후보 '눈길'[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005162033?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:08:00 +0900",
+                "title": "김두관  창원성산, 온전한 야권단일화 노력 끝까지 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427476?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:50:00 +0900",
+                "title": "우서영 후보, 제2차 핵심 공약 발표 기자회견",
+                "link": "http://www.kukinews.com/newsView/kuk202403260208"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:13:00 +0900",
+                "title": "민주당 경남도당, 선거대책위 구성…상임선대위원장 김두관",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589236?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:34:00 +0900",
+                "title": "우서영 펀드 3억 모금 조기마감 성료",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524593"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:00:00 +0900",
+                "title": "민주당 우서영 후보, 후원금 펀드 3억 조기 마감",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823152?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:44:00 +0900",
+                "title": "민주당 '부울경 메가시티'로 경남 민심 공략 나서",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387360"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "민주당 현역 교체율 42.5%, 당심 업고 친명 신인 약진",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427243?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "후보자도 60세 이상이 39.1% 역대 최고",
+                "link": "https://n.news.naver.com/mnews/article/011/0004317963?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:49:00 +0900",
+                "title": "'낙동강벨트' 찾은 민주…'부울경 메가시티' 경남 민심 공략",
+                "link": "https://n.news.naver.com/mnews/article/055/0001141453?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:33:00 +0900",
+                "title": "공약 제안서 전달식",
+                "link": "https://n.news.naver.com/mnews/article/001/0014586002?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:56:00 +0900",
+                "title": "경남 총선 후보 평균 58.9살…20대 1명",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687637?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:42:00 +0900",
+                "title": "경남 총선 후보 최고 재력가는 국힘 강기윤·정점식·김종양 순",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548918"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:38:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대 1…39년만에 최저",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548804"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:32:00 +0900",
+                "title": "경남 총선 37명 등록…본선 대진표 확정",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548915"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:06:00 +0900",
+                "title": "[4·10 총선 후보] 전남 여수시을",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641616"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 22:14:00 +0900",
+                "title": "경남 총선 후보 37명 등록... '1대 1' 11곳",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=537711"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:50:00 +0900",
+                "title": "경남 16개 선거구 37명 출마… 평균경쟁률 2.3대 1",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428494"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:37:00 +0900",
+                "title": "경남 총선 후보 평균 58.9살…20대 1명",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687484?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:53:00 +0900",
+                "title": "지역구 254곳 중 123곳 ‘양자 대결’…후보 간 경쟁률 39년 만에 ‘최저치’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003286458?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:12:00 +0900",
+                "title": "오늘의주장/거야 심판vs정권 심판, 본격 총선＂레이스 돌입",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745054"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:58:00 +0900",
+                "title": "총선 지역구 후보 평균재산 27.7억·비례 14.8억",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917362?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:42:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대 1, 비례대표는 5.5대 1",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036757"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:15:00 +0900",
+                "title": "경남 총선 후보 최고 재력가는 국힘 강기윤",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387182"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:15:00 +0900",
+                "title": "경남 16곳에 37명 후보등록 11곳서 국민의힘·민주당 1대 1 대결",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387174"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:30:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…전체 경쟁률 2.75대 1",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641593"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "'재산 신고 최고액 120억 원' 경남 총선 후보자는",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907033"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "경남 16개 선거구 37명 출마…11곳 민주-국힘 양자 대결",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907049"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "22대 국회도 '오부남'? 경남 후보 평균 '59세 남성 정치인'",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907059"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:59:00 +0900",
+                "title": "양당 쏠림 심화에 3지대 후보 '3분의 1' 토막 났다",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698970?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:03:00 +0900",
+                "title": "[전남일보]전국 후보 경쟁률 2.8대 1…최고 경쟁지 '종로'",
+                "link": "http://www.jnilbo.com/73101079840"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:37:00 +0900",
+                "title": "총선 지역구 경쟁률, 민주화 이후 최저치···원인은?",
+                "link": "https://n.news.naver.com/mnews/article/032/0003286394?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 22:09:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대1...최다 후보 격전지 '종로'",
+                "link": "https://n.news.naver.com/mnews/article/052/0002014189?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:53:00 +0900",
+                "title": "[4·10 총선] 투표용지 51.7cm 역대 최장…지역구 경쟁률 39년 만에 최저",
+                "link": "https://n.news.naver.com/mnews/article/057/0001807702?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:52:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대1...최다 후보 격전지 '종로'",
+                "link": "https://n.news.naver.com/mnews/article/052/0002014147?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:54:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.75대1...최다 후보 격전지 '종로'",
+                "link": "https://n.news.naver.com/mnews/article/052/0002014125?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:41:00 +0900",
+                "title": "4·10 총선, 후보 등록 마감... 비례 투표용지 51.7cm ‘역대 최장’ “몇 명...",
+                "link": "https://n.news.naver.com/mnews/article/661/0000038386?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:37:00 +0900",
+                "title": "4·10 총선 지역구 후보 10명 중 8명, 50·60 남성",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917141?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:06:00 +0900",
+                "title": "4·10총선 지역구 경쟁률 ‘2.8대 1’ 비례대표 ‘5.5대 1’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439246?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 13:47:00 +0900",
+                "title": "4월 총선 평균 경쟁률 '2.8대 1'…비례 투표용지 길이 51.7cm",
+                "link": "https://n.news.naver.com/mnews/article/008/0005015937?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 13:01:00 +0900",
+                "title": "오대남·육대남만 있는 게 아니다… 2030 여성들 '총선' 행진",
+                "link": "https://n.news.naver.com/mnews/article/469/0000792010?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:54:00 +0900",
+                "title": "22대 총선 지역구 경쟁률 2.8대 1…비례 투표용지 51.7cm",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224386&inflow=N"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:30:00 +0900",
+                "title": "[4·10 총선] 전국 지역구 평균 경쟁률 ‘2.75대 1’…39년만에 최저",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240323122752795167191f6c6e_12"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…평균 경쟁률 2.8대 1",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445830?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:01:00 +0900",
+                "title": "[총선] 지역구 경쟁률 2.75대 1…비례 투표용지 51.7cm",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687209?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:35:00 +0900",
+                "title": "총선 후보 10명 중 8명 ‘남성’… 70세 이상 26명",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917119?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:19:00 +0900",
+                "title": "[4·10 총선 후보] 평균 나이 56.8세…여성 비중 14%",
+                "link": "https://n.news.naver.com/mnews/article/374/0000375909?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:04:00 +0900",
+                "title": "[4·10 총선 후보] 지역구 경쟁률 2.75대 1…39년만 최저",
+                "link": "https://n.news.naver.com/mnews/article/374/0000375908?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:00:00 +0900",
+                "title": "이재명, “후원금 팍팍”…험지·신인 후보 후원회장 맡아 ‘깨알’ 지원",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277023?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:49:00 +0900",
+                "title": "22대 총선 평균경쟁률 2.75 대 1…비례정당 38개",
+                "link": "https://n.news.naver.com/mnews/article/028/0002682178?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 55585
+            }
+        ],
+        "huboid": "100152707",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4809/Hb100152707/junkwa/20240213174209744_1.PDF"
+    },
+    {
+        "id": "2480901-2",
+        "regionId": "2480901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-2.jpg",
+        "기호": 2,
+        "이름": "박상웅",
+        "생년월일": "19600816",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 사범대학 사회교육학과 졸업",
+        "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
+        "재산": 541328,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:50:00 +0900",
+                "title": "국힘 박상웅 후보  윤석열 정부 국정 성공 위한 확실한 뒷받침 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825447?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:01:00 +0900",
+                "title": "현역 자리 비운 밀의함창, 국힘·민주 '양자 대결'",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388473"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+                "title": "박상웅 밀양의령함안창녕 후보  신성장 중심도시화 함안  공약",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870657?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:16:00 +0900",
+                "title": "안병구 후보, 밀양장날 맞아 내이시장서 지지 호소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001249"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "박상웅 후보, 신성장 중심도시화 함안 공약 지지호소",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317442"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "박상웅 후보 선거운동원들, 금쪽같은 시간 쪼개 거리 청소운동 벌여",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317441"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:52:00 +0900",
+                "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:11:00 +0900",
+                "title": "[총선 D-8] 현역 떠난 '보수 텃밭' 경남 중북부, 국힘·민주 '양자 대결'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604042?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+                "title": "'밀양·의령·함안·창녕' 박상웅 후보  함안 신성장도시화 만들겠다 ",
+                "link": "https://www.newspim.com/news/view/20240401001209"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:45:00 +0900",
+                "title": "박상웅 국민의힘 국회의원 후보 유세 지지호소",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388266"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:43:00 +0900",
+                "title": "박상웅 밀양의령함안창녕 후보  부곡온천 특구 활성화 및 공공기관 유치 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870428?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:34:00 +0900",
+                "title": "국민의힘 박상웅 후보, 31일 함안 가야장∙창녕 영산장서 '지지호소'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558633"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:54:00 +0900",
+                "title": "박상웅 후보, 부곡온천 특구 활성화 및 공공기관 유치 공약 지지호소",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317316"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:26:00 +0900",
+                "title": "국힘 박상웅 후보  부곡온천 관광특구 활성화 추진할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824694?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:53:00 +0900",
+                "title": "[포토] 與 선거 운동원들과 인사하는 우서영 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824642?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+                "title": "박상웅 밀양의령함안창녕 후보, 28일 선거출정식 가져",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870023?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:19:00 +0900",
+                "title": "국민의힘 박상웅 후보, 총선 출정식",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325628?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:40:00 +0900",
+                "title": "안병구 밀양시장 후보 삼랑진 송지장서 선거유세",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240329010017549"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:52:00 +0900",
+                "title": "국민의힘 박상웅 밀양·의령·함안·창녕 후보 출정식, '빨간색 물결' 속 필승...",
+                "link": "https://www.news2day.co.kr/article/20240329500059"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:14:00 +0900",
+                "title": "박상웅 국민의힘 밀양·의령·함안·창녕 국회의원 후보 출정식",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956355"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:56:00 +0900",
+                "title": " 작지만, 잘 사는 내 고장으로  밀양·의령·함안·창녕 국민의힘 박상웅 후보...",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907647"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:38:00 +0900",
+                "title": "밀양창녕함안의령 국회의원 선거 박상웅 후보 출정식",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317136"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:26:00 +0900",
+                "title": "총선 국민의 힘 밀양 출정식  박상웅,안병구,조인종,김종화  지지호소",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956087"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:04:00 +0900",
+                "title": "박상웅 국민의힘 국회의원 후보 출정식",
+                "link": "http://www.kukinews.com/newsView/kuk202403280358"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:48:00 +0900",
+                "title": "[포토] 지지자에게 인사하는 박상웅 후보 내외",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824209?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:32:00 +0900",
+                "title": "국민의힘 박상웅 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596474?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:38:00 +0900",
+                "title": "[포토]창녕전통시장에서 출정식 하는 박상웅 국민의힘 후보",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017074"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:37:00 +0900",
+                "title": "[포토] 총선 출정식 하는 박상웅 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824153?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:04:00 +0900",
+                "title": "우서영,  창녕이 낳고 의령이 키우고 밀양이 밀고, 함안이 믿는 다 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317046"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:47:00 +0900",
+                "title": "[포토] 박상웅 국민의힘 밀양·의령·함안·창녕 후보, 총선 출정식",
+                "link": "https://n.news.naver.com/mnews/article/277/0005398618?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:22:00 +0900",
+                "title": "빗속에도 출정식·출근 인사·지지 호소… 표심잡기 ‘분주’",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428869"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:47:00 +0900",
+                "title": "[포토] 총선 출정식 당선 다짐하는 박상웅·안병구·조인종·김종화",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824042?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:45:00 +0900",
+                "title": "[포토] 총선 출정식, 두팔 번쩍 든 박상웅·안병구 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824041?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:07:00 +0900",
+                "title": "지지 호소하는 밀양·의령·함안·창녕 박상웅 후보 운동원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455086?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:07:00 +0900",
+                "title": "밀양 공식 선거운동 첫날 '적과의 동침' 눈길",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455088?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "[나는 후보자다] 밀양의령함안창녕 선거구 나서는 후보는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461114"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:14:00 +0900",
+                "title": "[4·10 총선 인터뷰 : 경남③] 국민의힘 경남 밀양·의령·함안·창녕 박상웅...",
+                "link": "https://www.news2day.co.kr/article/20240327500134"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:50:00 +0900",
+                "title": "국민의힘 경남도당, 22대 총선 선대위 구성",
+                "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/26/2024032600298.html"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:18:00 +0900",
+                "title": "여야 지도부 연일 경남행… 격전지 지원 사격",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428591"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:58:00 +0900",
+                "title": "국힘 박상웅 후보  대통합과 새로운 미래 만들 것 ...선대위 출범식 '성황'",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823137?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:42:00 +0900",
+                "title": "국힘 밀양·의령·함안·창녕 박상웅 선대위 출범식",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387364"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:08:00 +0900",
+                "title": "국민의힘 경남도당, 제22대 국회의원선거 '경남선거대책위원회' 출범",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557050"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:46:00 +0900",
+                "title": "국민의힘 경남도당, 총선 경남선대위 새롭게 구성",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448634?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:08:00 +0900",
+                "title": "국민의힘 총선 후보 박상웅, 선대위 출범식 성료",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324794?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:04:00 +0900",
+                "title": "국힘 박상웅 후보, 선대위 출범식 성황리에 마쳐",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2952247"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:37:00 +0900",
+                "title": "[22대 총선] 박상웅 밀양·의령·함안·창녕 국민의힘 후보, 통합선대위 출범...",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503198"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:22:00 +0900",
+                "title": "밀양·의령·함안·창녕 국힘 박상웅 국회의원 후보, 선대위 출범식",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2952162"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:18:00 +0900",
+                "title": "[포토] '제22대 총선', 국민의힘 박상웅 후보 '통합선대위출범식' 성황",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556956"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:16:00 +0900",
+                "title": "박상웅 후보  새 역사를 만들겠다  선대위 출범",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325010014005"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:14:00 +0900",
+                "title": "밀양·의령·함안·창녕 박상웅 후보 통합선대위 출범… 새로운 미래 만들겠다...",
+                "link": "https://www.newspim.com/news/view/20240325000008"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:42:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548919"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 22:19:00 +0900",
+                "title": "‘한국-캄보디아 축제’ 밀양서 성황리 개최",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324732?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:53:00 +0900",
+                "title": "[포토] 선대위 발대식에서 나란히 앉아 있는 박상웅·이주영·안병구",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822833?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:51:00 +0900",
+                "title": "[포토] 선대위 발대식 하는 박상웅 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822832?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:50:00 +0900",
+                "title": "[도내 국회의원 후보자 분석] 37명 중 15명 ‘전과’ 기록… 평균 재산 19억1...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428501"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:50:00 +0900",
+                "title": "[포토] 축사하는 안병구 밀양시장 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822831?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:49:00 +0900",
+                "title": "[포토] 축사하는 이주영 전 해수부장관",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822830?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387177"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:42:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑩] 후쿠시마 오염수 방류 대책",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907028"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "경남 총선 후보 37명 중 40% 전과…시위 댓글조작 사건도",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907038"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "'재산 신고 최고액 120억 원' 경남 총선 후보자는",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907033"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:49:00 +0900",
+                "title": "박상웅 밀양의령함안창녕 후보, 제22대 총선 후보자 등록 마쳐",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868953?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:50:00 +0900",
+                "title": "경남도 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "https://www.tfmedia.co.kr/news/article.html?no=160370"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:26:00 +0900",
+                "title": "4·10 총선 후보 등록 마감, 경남 16개 선거구에 37명 등록",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548795"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 경남 지역구 37명 등록…11곳 ‘양자 대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687011?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:49:00 +0900",
+                "title": "밀양∙의령∙함안∙창녕 국민의힘 박상웅 후보, 제22대 총선 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324654?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:36:00 +0900",
+                "title": "경남 총선 후보 재산 1위는 국힘 강기윤 '120억'…납세액도 최다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430848?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583309?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:46:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력 분석…①정치자금법 위반 등",
+                "link": "https://www.kpinews.kr/newsView/1065602786069308"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:30:00 +0900",
+                "title": "경남 총선 후보 40% 전과…37명 중 15명, 최다 전과 8건",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430809?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:28:00 +0900",
+                "title": "[4·10총선 후보 등록] 경남 16개 선거구 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445398?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:06:00 +0900",
+                "title": "막말·돈봉투에 도덕성 논란까지…'삼일천하' 끝난 여야 후보들",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698441?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "경남 총선 출마자 37명 후보 등록자 명단",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430747?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "박상웅 후보 “민생을 제대로 챙길 것”",
+                "link": "http://www.kukinews.com/newsView/kuk202403220197"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:52:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583037?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:48:00 +0900",
+                "title": "박상융 밀양·의령·함안·창녕 후보 제22대 총선 후보등록...깨끗하고 준비된...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240322010013210"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:27:00 +0900",
+                "title": "국힘 밀양·의령·함안·창녕 박상웅  민생 제대로 챙기겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012444987?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:40:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑨] 쌀값 대책·양곡관리법 개정",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906940"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:24:00 +0900",
+                "title": "도내 총선 도전자 36명 첫 날 후보 등록 완료",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548791"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:00:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자 (3월 21일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460467"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581034?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:18:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580929?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:54:00 +0900",
+                "title": "박용호 전 마산지청장 밀의함창 '불출마' 선언",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386986"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:30:00 +0900",
+                "title": "박용호 전 창원지검 마산지청장, 국회의원 선거 '불출마'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460293"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:02:00 +0900",
+                "title": "밀양·의령·함안·창녕 '우서영-박상웅' 2파전",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906874"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:39:00 +0900",
+                "title": "박용호 전 마산지청장, 4.10총선 불출마 선언... 선당후사 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822227?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:30:00 +0900",
+                "title": "국힘 박상웅, 선거구 지방의원들에게 '후원금' 안내문 보내 의원들 '불쾌, 고...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316512"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:42:00 +0900",
+                "title": "박용호 전 마산지청장, 무소속 불출마",
+                "link": "https://www.kpinews.kr/newsView/1065576128212435"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:37:00 +0900",
+                "title": "[단독] 국힘 박상웅 후보, 지방 의원들에게 '후원금' 홍보물 돌려...의원들 '...",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822121?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:22:00 +0900",
+                "title": "박용호 전 마산지청장 '불출마' 선언…  일보후퇴가 이보전진 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316507"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:27:00 +0900",
+                "title": "밀양의령함안창녕 박용호 전 마산지청장, 불출마 선언",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876307?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 541328
+            }
+        ],
+        "huboid": "100151374",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4809/Hb100151374/junkwa/20231212150829242_1.PDF"
+    }
 ]

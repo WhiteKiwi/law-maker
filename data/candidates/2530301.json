@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530301-1.jpg",
-    "id": "2530301-1",
-    "재산": 685995,
-    "생년월일": "19680115",
-    "경력": "(현)제21대 국회의원\n(현)더불어민주당 원내부대표",
-    "학력": "전북대학교 대학원 경영학과 박사과정 수료",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1129",
-    "regionId": "2530301",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-        "title": "[한신협 공동 전국 판세분석]전북 민주당 독주 조국혁신당 돌풍",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035348?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:36:00 +0900",
-        "title": "[한신협 민심 분석-전북] 정권심판론 압도적 강세… 경선 대비 본선 파장 분위...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401010003477"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:16:00 +0900",
-        "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:26:00 +0900",
-        "title": "민주당 독주 현상 독이 될까? 득이 될까?",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463757"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:48:00 +0900",
-        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "신영대",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 275453
-      },
-      {
-        "연도": 2021,
-        "재산": 375012
-      },
-      {
-        "연도": 2022,
-        "재산": 437100
-      },
-      {
-        "연도": 2023,
-        "재산": 685995
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530301-2.jpg",
-    "id": "2530301-2",
-    "재산": 379362,
-    "생년월일": "19620528",
-    "경력": "(현)군산시민주평화통일자문회의 자문위원\n(현)국민의힘 전북특별자치도당 전국위원",
-    "학력": "대한신학대학원대학교 목회학석사 졸업",
-    "직업": "성직자",
-    "성별": "남",
-    "regionId": "2530301",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 31 Mar 2024 21:32:00 +0900",
-        "title": "군산김제부안갑, 휴일 열띤 경쟁",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:48:00 +0900",
-        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:02:00 +0900",
-        "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691353?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:41:00 +0900",
-        "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011690938?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:26:00 +0900",
-        "title": "'유지냐 교체냐'..'군산·김제·부안 갑' 선거운동 개시",
-        "link": "https://n.news.naver.com/mnews/article/659/0000020123?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "오지성",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 379362
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530301-1.jpg",
+        "id": "2530301-1",
+        "재산": 685995,
+        "생년월일": "19680115",
+        "경력": "(현)제21대 국회의원\n(현)더불어민주당 원내부대표",
+        "학력": "전북대학교 대학원 경영학과 박사과정 수료",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1129",
+        "regionId": "2530301",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:36:00 +0900",
+                "title": "“군산김제부안 대도약 시대 열겠다”",
+                "link": "http://sjbnews.com/news/news.php?number=811658"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:29:00 +0900",
+                "title": "제22대 총선 후보자 토론회_‘군산김제부안 갑’ 선거구",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020248?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "[기획-3]전북 여야 최강 후보군, 전북도민은..민주당 독식? 전략적 선택?",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726450"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]전북 민주당 독주 조국혁신당 돌풍",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035348?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-전북] 정권심판론 압도적 강세… 경선 대비 본선 파장 분위...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003477"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:26:00 +0900",
+                "title": "민주당 독주 현상 독이 될까? 득이 될까?",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463757"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:36:00 +0900",
+                "title": "[한신협 공동기획] 4.10 총선 전국은 혈전, 전북은 꽃바람 선거",
+                "link": "https://www.jjan.kr/article/20240331580262"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:02:00 +0900",
+                "title": "[르포] 실리콘 음극재 생산 메카로…'SKC 투자' 넥세온 군산공장 착공",
+                "link": "https://www.ajunews.com/view/20240330165832235"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:02:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691353?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:41:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690938?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:39:00 +0900",
+                "title": "신영대, “못살겠다, 4월 10일은 윤석열 정부 심판의 날”",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325502?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "'유지냐 교체냐'..'군산·김제·부안 갑' 선거운동 개시",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020123?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:04:00 +0900",
+                "title": "민주당 전북독주 총선…전국 최고득표율·조국혁신당 돌풍 주목",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463641"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:56:00 +0900",
+                "title": "후보마다 한 목소리 “최다 득표 당선”",
+                "link": "http://sjbnews.com/news/news.php?number=811184"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:21:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690752?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:50:00 +0900",
+                "title": "[제22대 총선 1호 공약 1호 법안] (3) 군산시김제시부안군 갑·을, 정읍시고창...",
+                "link": "https://www.jjan.kr/article/20240328580416"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:34:00 +0900",
+                "title": "국회에서 코인 거래하더니...김남국, 가상자산 15억 신고 1위",
+                "link": "https://n.news.naver.com/mnews/article/024/0000088220?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:20:00 +0900",
+                "title": "안철수, 국회의원 최고 자산가..김남국, 코인 보유 1위",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84474"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:26:00 +0900",
+                "title": "김남국 의원 가상자산 15억원 신고…국회의원 독보적 1위",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287127?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:01:00 +0900",
+                "title": "가상자산 1위, '15억 신고' 김남국… 뭘 샀길래?",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042482?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:28:00 +0900",
+                "title": "공직자 가상자산 보유도 '다수'...김남국 '15억원 이상 보유' 신고",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318595"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:19:00 +0900",
+                "title": "국회 코인 부자는 '15억' 김남국… 재산 1위는 안철수 1401억",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084727?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:57:00 +0900",
+                "title": "[재산공개]`코인 논란` 김남국 가상재산 15억원 신고…국회의원 중 1위",
+                "link": "https://n.news.naver.com/mnews/article/029/0002863958?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:26:00 +0900",
+                "title": "가상자산 매매 국회의원 20명…김남국 78종 15억 원 보유",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142405?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:25:00 +0900",
+                "title": "국회의원 가상자산 1위는 김남국…약 15억 원 신고",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808629?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:04:00 +0900",
+                "title": "역시 김남국, 코인 75종 15억원대 보유",
+                "link": "http://www.viewsnnews.com/article?q=218756"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 04:07:00 +0900",
+                "title": "김남국 가상자산 15억4643만원 1위… 2000만원 이상 5명",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684325?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:03:00 +0900",
+                "title": "[재산공개] 국회의원 가상자산 1위 김남국…78종 코인 15억 보유",
+                "link": "https://n.news.naver.com/mnews/article/366/0000981269?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "국회의원 중 13명 가상자산 보유…김남국 15억 가장 많아[재산공개]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454626?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "[재산공개] 가상자산 매매 국회의원 20명…김남국 78종 15억원 보유",
+                "link": "https://n.news.naver.com/mnews/article/001/0014593476?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:02:00 +0900",
+                "title": "전북 여론조사서 나타난 '정권심판론'..민심 폭발",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725782"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:54:00 +0900",
+                "title": " 20년 만에 전북 의석 석권 힘 모아달라 ",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967023"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:26:00 +0900",
+                "title": "더불어민주당 10명의 지역구 후보자 총선 승리 다짐",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463444"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:36:00 +0900",
+                "title": "민주당 전북 후보들  정권 심판 과제 10석 석권 호소 ",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461162"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:09:00 +0900",
+                "title": "전북 민주당 10명 후보들  이번 총선은 윤 정권 심판의 날 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007439423?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:15:00 +0900",
+                "title": "민주당 전북 후보자 한자리… “민생회생, 민주회복, 전북승리”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012453154?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:41:00 +0900",
+                "title": "민주당 전북 후보들  정권 심판하도록 전북 10석 석권 도와달라 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014591644?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:23:00 +0900",
+                "title": "'4.10 전북 총선' 민주당 독식하나?…전국 최다 득표율 배출도 관심",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325120?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "&lt;D-14&gt; 선거 때마다 입증되는 단체장 파워, 총선결과가 9대 지선 가늠자",
+                "link": "http://sjbnews.com/news/news.php?number=810819"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "총선 후보 직업중 '현역의원'이 최다",
+                "link": "http://sjbnews.com/news/news.php?number=810816"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:48:00 +0900",
+                "title": "전북 후보 85% 대졸 이상 … 최연소는 29세",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/26/2024032600078.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:34:00 +0900",
+                "title": "[전북 군산김제부안갑] 더불어민주당 신영대 79%, 국민의힘 오지성 11%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427396?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:26:00 +0900",
+                "title": "[오늘의 전북 뉴스 브리핑]  민주당 전북 총선 공약 재탕삼탕, 무기력 ...4년...",
+                "link": "http://www.jbsori.com/news/articleView.html?idxno=13419"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:08:00 +0900",
+                "title": "[단독] CJ 만두·스프링롤 리콜 해외 확산…공정위 “국내 판매 차단”",
+                "link": "http://www.kukinews.com/newsView/kuk202403250328"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "(군산김제부안갑) 신영대 79%, 오지성 11%",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181920"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:26:00 +0900",
+                "title": "[여론조사] '군산·김제·부안(갑)' 정권심판론 신영대 후보 압도",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463113"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:26:00 +0900",
+                "title": "[여론조사] 전북 더불어민주당 후보 초강세...비례는 조국혁신당 돌풍",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463107"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:21:00 +0900",
+                "title": "군산·김제·부안 갑·을.. 신영대 79%, 이원택 80% ",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020023?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "제22대 총선 군산시김제시부안군(갑)… 민주 신영대 후보 앞서",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725469"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "전북 민심 뿔난 '정권심판론', 민주당 압도적 지지율로 나타나",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725451"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:30:00 +0900",
+                "title": "민주당,  전북성공시대 열겠다 ",
+                "link": "http://sjbnews.com/news/news.php?number=810712"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:24:00 +0900",
+                "title": "[4.10총선]민주당 도당, 총선 공약 재탕 지적에 '계승'과 '혁신' (전주)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=64&p_no=168153"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:04:00 +0900",
+                "title": "민주당 전북자치도당, 총선 승리 위한 전북성공시대 9대 정책공약 발표",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:02:00 +0900",
+                "title": "민주도당 '9대 정책' 공약 적극 약속",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966797"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:10:00 +0900",
+                "title": "민주당 전북도당, 9대 총선 공약 발표",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725493"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:08:00 +0900",
+                "title": "민주당 전북도당 금융도시 등 9대 총선 공약 발표",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460779"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:40:00 +0900",
+                "title": "민주당 전북도당, 금융도시·탄소제로 등 9대 총선 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/001/0014586348?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:25:00 +0900",
+                "title": "[총선돋보기-전북] 민주당 특별자치시대 전북 성공시대 9대 공약 발표",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2105830"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:22:00 +0900",
+                "title": "더불어민주당 전북특별자치도당의 9대 약속!",
+                "link": "https://n.news.naver.com/mnews/article/421/0007433461?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:22:00 +0900",
+                "title": "제22대 총선 정책공약 발표하는 더불어민주당 전북특별자치도당",
+                "link": "https://n.news.naver.com/mnews/article/421/0007433459?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:14:00 +0900",
+                "title": "민주 전북도당, 총선 9대 공약 “자산운용 특화 금융도시 등”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447896?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:55:00 +0900",
+                "title": "전북특별자치도의회 찾아 기자회견 연 더불어민주당 전북지역 후보들",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447803?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:55:00 +0900",
+                "title": "전북발전 9대 약속 기자회견 연 더불어민주당 전북 후보들",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447801?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:55:00 +0900",
+                "title": "전북 9대 약속 공약 발표한 더불어민주당 전북특별자치도당 후보들",
+                "link": "https://n.news.naver.com/mnews/article/003/0012447802?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "전북, 총선 33명 등록 '3.3대1' 경쟁률…21대 44명보다 11명 감소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325010013937"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:54:00 +0900",
+                "title": "민주당 총선후보와 단체장 관계 주목… 막후 역할 영향",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462899"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:02:00 +0900",
+                "title": "제22대 전북총선 후보등록 마무리...3.30:1 레이스 불 붙었다",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725263"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:24:00 +0900",
+                "title": "전북 22대 총선 대진표 완성…30~40대 후보 실종",
+                "link": "https://www.jjan.kr/article/20240324580224"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:20:00 +0900",
+                "title": "군산김제부안갑 선거구 총선 여야 '맞대결'",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966633"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:16:00 +0900",
+                "title": "제22대 총선 군산·김제·부안 갑 후보들 공약 점검",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725338"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:16:00 +0900",
+                "title": "[총선 D-17] 더불어민주당 나소열 후보, 후원회사무실 개소",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1023396"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:10:00 +0900",
+                "title": "4.10 총선 전북서 33명 후보 등록…경쟁률 3.3대 1",
+                "link": "https://www.ajunews.com/view/20240324085409302"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:54:00 +0900",
+                "title": "제22대 총선 전북 10개 선거구에 33명 후보 등록…전주을 5대 1 경쟁률",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/23/2024032300015.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:38:00 +0900",
+                "title": "전북 22대 총선 후보 33명 등록 '3.3대 1' 경쟁률, 21대 44명보다 11명이나 줄...",
+                "link": "http://www.jbsori.com/news/articleView.html?idxno=13405"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:32:00 +0900",
+                "title": "총선 후보 33명 등록...대진표 확정",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181881"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:17:00 +0900",
+                "title": "[4·10 총선]전북 후보자 등록현황(최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445484?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:27:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583325?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:20:00 +0900",
+                "title": "제22대 총선 후보 등록 마감⋯전북 33명 출사표",
+                "link": "https://www.jjan.kr/article/20240322580043"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:16:00 +0900",
+                "title": "[4.10 총선 후보자 등록] 전북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430774?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:36:00 +0900",
+                "title": "[영상] '몰빵론' 연일 강조 이재명, 군산서 '먹빵 거리 유세' 벌였다",
+                "link": "https://n.news.naver.com/mnews/article/659/0000019939?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:14:00 +0900",
+                "title": "4.10 총선 후보 등록 첫날, 전북서 26명 후보 등록",
+                "link": "https://www.ajunews.com/view/20240322083008607"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:04:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581066?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:36:00 +0900",
+                "title": "[여랑야랑]조국, 민주당과 1분 거리 / 양향자, 기자회견 해프닝?",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270728?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:32:00 +0900",
+                "title": "22대 총선 후보등록 시작, 이재명 대표 “국민이 윤정부 심판” 호소",
+                "link": "http://sjbnews.com/news/news.php?number=810482"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:52:00 +0900",
+                "title": "전북 4·10 총선 후보 등록 첫 날, 26명 등록",
+                "link": "https://www.jjan.kr/article/20240321580347"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:46:00 +0900",
+                "title": "이재명  총선은 현 정권의 폭정에 확실히 책임을 물어야 할 때 ",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462679"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:29:00 +0900",
+                "title": "[4.10 총선 후보등록 1일차–표] 전북 10개 선거구 등록자",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428171?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:22:00 +0900",
+                "title": "22대 총선 전북 후보군, 역대 최고 라인업되나",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725120"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:28:00 +0900",
+                "title": "이재명, 군산서  윤석열 정권 심판 ",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=98975"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:25:00 +0900",
+                "title": "이재명  주인 배반한 권력자들 어떤 말로를 보게 되는지 증명하자 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324469?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:23:00 +0900",
+                "title": "이재명 민주당 대표, 군산 찾아  윤석열 정권 심판  호소",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275351?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 06:31:00 +0900",
+                "title": "여야 모두 '텃밭' 찾아 지지층 결집…한동훈은 대구·이재명은 광주행",
+                "link": "https://n.news.naver.com/mnews/article/018/0005696919?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:34:00 +0900",
+                "title": "변방에서 중심으로…전북 정치권 기대감",
+                "link": "http://sjbnews.com/news/news.php?number=810340"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:50:00 +0900",
+                "title": "민주당 전북 후보 “尹정부 전북홀대 심판하자”",
+                "link": "https://www.jjan.kr/article/20240320580369"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:49:00 +0900",
+                "title": "김부겸  민주당이 대안될 수 있도록 멋지게 싸우라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014577192?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:23:00 +0900",
+                "title": "김부겸  국민 '민주당이 대안' 확신하도록 멋지게 싸워달라 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014576806?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:23:00 +0900",
+                "title": "인사말 하는 신영대 선대위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012439455?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:56:00 +0900",
+                "title": "민주당 전북 후보들  尹 정권 홀대 맞서 전북 10석 석권해야 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876066?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "신영대",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 275453
+            },
+            {
+                "연도": 2021,
+                "재산": 375012
+            },
+            {
+                "연도": 2022,
+                "재산": 437100
+            },
+            {
+                "연도": 2023,
+                "재산": 685995
+            }
+        ],
+        "huboid": "100152083",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5303/Hb100152083/junkwa/20240311163312675_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530301-2.jpg",
+        "id": "2530301-2",
+        "재산": 379362,
+        "생년월일": "19620528",
+        "경력": "(현)군산시민주평화통일자문회의 자문위원\n(현)국민의힘 전북특별자치도당 전국위원",
+        "학력": "대한신학대학원대학교 목회학석사 졸업",
+        "직업": "성직자",
+        "성별": "남",
+        "regionId": "2530301",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:36:00 +0900",
+                "title": "“군산김제부안 대도약 시대 열겠다”",
+                "link": "http://sjbnews.com/news/news.php?number=811658"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:29:00 +0900",
+                "title": "제22대 총선 후보자 토론회_‘군산김제부안 갑’ 선거구",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020248?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "공공의대 왜 발목잡히나 했더니…전북 총선 후보들 의료정책 ‘무관심’",
+                "link": "https://www.jjan.kr/article/20240402580318"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:32:00 +0900",
+                "title": "군산김제부안갑, 휴일 열띤 경쟁",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:02:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691353?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:41:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690938?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+                "title": "'유지냐 교체냐'..'군산·김제·부안 갑' 선거운동 개시",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020123?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:21:00 +0900",
+                "title": "[총선] 군산김제부안갑…여야 2파전 맞대결, 후보 공약은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690752?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:50:00 +0900",
+                "title": "[제22대 총선 1호 공약 1호 법안] (3) 군산시김제시부안군 갑·을, 정읍시고창...",
+                "link": "https://www.jjan.kr/article/20240328580416"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:32:00 +0900",
+                "title": "국민의힘 전북도당 선대위  전북에서 일하고 싶습니다 ",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463623"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:15:00 +0900",
+                "title": "국힘 전북도당 “국민의힘은 전북에서 일하고 싶습니다”",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455912?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:32:00 +0900",
+                "title": "'국민의힘.진보당' 반전 가능할까?",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182011"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:24:00 +0900",
+                "title": "총선 후보 직업중 '현역의원'이 최다",
+                "link": "http://sjbnews.com/news/news.php?number=810816"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:34:00 +0900",
+                "title": "[전북 군산김제부안갑] 더불어민주당 신영대 79%, 국민의힘 오지성 11%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427396?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "(군산김제부안갑) 신영대 79%, 오지성 11%",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181920"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "전북 5개 선거구별 1·2위는?",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181919"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "5개 선거구 민주당 절대 우세",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181921"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:26:00 +0900",
+                "title": "[여론조사] '군산·김제·부안(갑)' 정권심판론 신영대 후보 압도",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463113"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:26:00 +0900",
+                "title": "[여론조사] 전북 더불어민주당 후보 초강세...비례는 조국혁신당 돌풍",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463107"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:21:00 +0900",
+                "title": "군산·김제·부안 갑·을.. 신영대 79%, 이원택 80% ",
+                "link": "https://n.news.naver.com/mnews/article/659/0000020023?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "전북 민심 뿔난 '정권심판론', 민주당 압도적 지지율로 나타나",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725451"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "제22대 총선 군산시김제시부안군(갑)… 민주 신영대 후보 앞서",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725469"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "전북, 총선 33명 등록 '3.3대1' 경쟁률…21대 44명보다 11명 감소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325010013937"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:02:00 +0900",
+                "title": "제22대 전북총선 후보등록 마무리...3.30:1 레이스 불 붙었다",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725263"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:20:00 +0900",
+                "title": "군산김제부안갑 선거구 총선 여야 '맞대결'",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966633"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:16:00 +0900",
+                "title": "제22대 총선 군산·김제·부안 갑 후보들 공약 점검",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725338"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:54:00 +0900",
+                "title": "제22대 총선 전북 10개 선거구에 33명 후보 등록…전주을 5대 1 경쟁률",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/23/2024032300015.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:38:00 +0900",
+                "title": "전북 22대 총선 후보 33명 등록 '3.3대 1' 경쟁률, 21대 44명보다 11명이나 줄...",
+                "link": "http://www.jbsori.com/news/articleView.html?idxno=13405"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:34:00 +0900",
+                "title": "[총선] 총선 후보 등록 마감…전북 대진표는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686984?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:32:00 +0900",
+                "title": "총선 후보 33명 등록...대진표 확정",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181881"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:21:00 +0900",
+                "title": "제22대 국회의원 선거, 전북에서 누가 나서나?",
+                "link": "https://n.news.naver.com/mnews/article/659/0000019959?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:17:00 +0900",
+                "title": "[4·10 총선]전북 후보자 등록현황(최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445484?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:27:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583325?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:20:00 +0900",
+                "title": "제22대 총선 후보 등록 마감⋯전북 33명 출사표",
+                "link": "https://www.jjan.kr/article/20240322580043"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:16:00 +0900",
+                "title": "[4.10 총선 후보자 등록] 전북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430774?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:32:00 +0900",
+                "title": "국민의힘 전북특별자치도당, 총선 선대위 출범",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/22/2024032200275.html"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:01:00 +0900",
+                "title": "'尹 40년 지기' 석동현, 국민의힘 떠나 '전광훈 당'으로…",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324610?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:04:00 +0900",
+                "title": "국민의힘 전북자치도당, 22대 총선 전북 선거대책위원회 공식 출범",
+                "link": "http://www.kukinews.com/newsView/kuk202403220154"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:39:00 +0900",
+                "title": "국민의힘 전북도당, '선거대책위' 출범…위원장은 정운천",
+                "link": "https://n.news.naver.com/mnews/article/003/0012444730?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:12:00 +0900",
+                "title": "정운천, 19일 내놓은 입장문에 무슨 일이?.. '비례대표 직인'으로 사퇴 결기 ...",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=724946"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:54:00 +0900",
+                "title": "[22대 총선 대진표] ⑦호남…민주당 아성 현역 대폭 물갈이",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468931"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:44:00 +0900",
+                "title": "국힘 전북도당위원장 조배숙  비례 당선권 안 호남출신 5명 넣어야 ",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/715645"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:54:00 +0900",
+                "title": "국민의힘 비례대표 '0명' 전북, 전원 사퇴 등 '후폭풍 예고'",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240320010011106"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 00:04:00 +0900",
+                "title": "여 전북 후보들  비례, 호남 배려 없어…시정 않으면 총사퇴 ",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641400"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 22:23:00 +0900",
+                "title": "[이슈] 국민의미래 '호남홀대론' 확전… '친윤' 이철규‧권성동 연이어 비판…...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639660"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 21:06:00 +0900",
+                "title": "국힘 비례 선정 호남 홀대에 지역 출신 후보들  집단사퇴 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078899"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:52:00 +0900",
+                "title": "[기획] 비례대표 공천 논란 휩싸인 與, 내부 갈등 분출되나",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314653"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:16:00 +0900",
+                "title": "'국민의미래'엔 호남이 없다",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988898"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:30:00 +0900",
+                "title": "‘한동훈표 비례 공천’에 친윤계·호남후보들 반발",
+                "link": "https://vop.co.kr/A00001649801.html"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:25:00 +0900",
+                "title": " 전북은 왜 없어  與 비례 '발칵'‥'골프접대'에 공천 취소까지..",
+                "link": "https://n.news.naver.com/mnews/article/214/0001337391?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:21:00 +0900",
+                "title": "여, 비례대표 '호남 홀대' 반발 확산… 배려 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012437092?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:10:00 +0900",
+                "title": "與, 커지는 '호남 홀대론' 리스크 … 호남 출마자  시정 없다면 전원 사퇴 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/19/2024031900275.html"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:42:00 +0900",
+                "title": "與 호남후보들 ‘비례대표 홀대’ 조정 요구...“전원 사퇴 불사”",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403191626317830176"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:28:00 +0900",
+                "title": "국힘 전북 10명 후보들,  비례 재조정 안되면 사퇴 ..배수진 통첩",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=724788"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:28:00 +0900",
+                "title": "'집단 사퇴' '선거운동 보이콧'…국민의미래 비례 명단 발표 '호남 홀대' 후폭...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763354"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:58:00 +0900",
+                "title": "국민의미래 비례 명단 발표 '호남 홀대' 후폭풍… 국민과 한 약속 지켜야 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763334"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:51:00 +0900",
+                "title": "여 전북 출마자  비례 명단, 호남 배려 없어…시정 않으면 사퇴 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012436780?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:38:00 +0900",
+                "title": "與 커지는 '비례' 갈등…호남 후보들  홀대 시정 안하면 전원사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003875517?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:36:00 +0900",
+                "title": "與 전북 공천자  비례대표 재조정 없으면 전원 사퇴 ",
+                "link": "https://www.ajunews.com/view/20240319140504280"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:32:00 +0900",
+                "title": "전북지역 총선 여·야 공천 마무리…28일부터 본격 선거운동",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/18/2024031800347.html"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:32:00 +0900",
+                "title": "與 호남 후보들  비례대표 홀대 시정 안하면 전원 후보사퇴 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014573820?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:28:00 +0900",
+                "title": "與 전북 후보들 “비례대표 호남 홀대 시정 안하면 전원 후보사퇴”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002282632?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:10:00 +0900",
+                "title": "與 비례대표 순번 '호남홀대론' 후폭풍…이시우는 추천 취소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240319010010610"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:04:00 +0900",
+                "title": "與 호남 후보들, 비례 공천 반발… 호남 홀대 시정 안하면 전원 사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000074819?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:48:00 +0900",
+                "title": "'호남 홀대론' 두고 윤-한갈등 확산…호남 후보들  재조정없으면 사퇴 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1063819"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:47:00 +0900",
+                "title": "국민의힘 전북 후보들  국민의미래, 비례대표 전북 배려 없어‥시정 안 하면 ...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001337352?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:36:00 +0900",
+                "title": "여 호남 후보들  비례 명단, 호남 홀대… 시정 안하면 사퇴 ",
+                "link": "https://www.viva100.com/main/view.php?key=20240319010005968"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:30:00 +0900",
+                "title": " 비례 순번에 '번외'조차 없다니 … 국민의힘 안중에 전북은 없다",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324044?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:29:00 +0900",
+                "title": "與 호남 후보들  비례대표 홀대 시정 없으면 후보 전원 사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000451991?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:24:00 +0900",
+                "title": "與 비례공천 반발 이어져...전북 후보들  호남 배려 없다...사퇴 고려 [2024 ...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005158393?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:17:00 +0900",
+                "title": "[총선] 국민의힘 호남 후보들 “비례대표 재조정 안 하면 전원 후보 사퇴”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011684139?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 14:10:00 +0900",
+                "title": "국민의힘, 전북 후보들  비례대표 호남홀대론 재조정 없다면 사퇴할 것 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240319010010590"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:48:00 +0900",
+                "title": "국힘 전북후보 10명  비례대표 홀대 시정 안되면 전원 사퇴 ",
+                "link": "http://www.viewsnnews.com/article?q=218518"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:42:00 +0900",
+                "title": "한동훈  이종섭·황상무 입장 변함없다  정면돌파",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435118"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:22:00 +0900",
+                "title": "국민의힘 전북 총선 후보자들  비례대표 순번 재조정 없으면 사퇴할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/659/0000019834?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:18:00 +0900",
+                "title": "여 전북 후보자  비례 명단, 호남 배려 없어…시정 않으면 사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012436036?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:10:00 +0900",
+                "title": "'비례 0명' 호남 홀대론에  시정 안하면 후보 전원 사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/057/0001806684?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 12:56:00 +0900",
+                "title": "與 호남 후보들  비례대표 홀대 시정 안하면 전원 후보사퇴 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014573205?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 12:40:00 +0900",
+                "title": "與호남 후보 '집단 반발'  비례 공천에 실망…전원 사퇴 고려 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005695549?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:59:00 +0900",
+                "title": "[총선/무등의 아침] “국힘, 잇단 설화…5·18 정신 헌법 전문 수록, 말 따로...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011684064?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 05:34:00 +0900",
+                "title": "군산시, 선거 캠페인 현수막에 숫자 '1' 표기 논란...국민의힘, 선관위에 고발...",
+                "link": "http://www.jbsori.com/news/articleView.html?idxno=13375"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 22:38:00 +0900",
+                "title": "군산시 투표 독려 현수막에 숫자 '1'?… 용역업체 실수 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348161?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:32:00 +0900",
+                "title": "군산시 투표 독려 현수막에 '숫자 1' 표기 논란",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181690"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:13:00 +0900",
+                "title": "지자체 투표 독려 현수막에 ‘숫자 1’ 표기 ‘소중한 1표’ 강조?",
+                "link": "https://n.news.naver.com/mnews/article/021/0002627121?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:12:00 +0900",
+                "title": "전북 총선 본격 본선 채비..재정비 시간",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=724617"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:59:00 +0900",
+                "title": "국민의힘 후보, 선거 캠페인 현수막 숫자 '1'에 선관위 고발",
+                "link": "https://n.news.naver.com/mnews/article/079/0003875085?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:38:00 +0900",
+                "title": "투표 독려 현수막에 숫자 '1'?.. 소중한 한 표 쓰려다가 ",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057674?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:10:00 +0900",
+                "title": "투표 독려 현수막에 '특정 정당 숫자'…회수 처리",
+                "link": "https://n.news.naver.com/mnews/article/052/0002011663?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:39:00 +0900",
+                "title": "총선 독려 현수막에 특정 정당 연상 '숫자 삽입' 논란",
+                "link": "https://n.news.naver.com/mnews/article/011/0004314668?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:24:00 +0900",
+                "title": "총선 투표 독려 현수막에 특정 정당 연상 '숫자 삽입' 논란",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570693?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 12:12:00 +0900",
+                "title": "군산시 총선 현수막에 숫자 '1' 표기 ··· 국힘 오지성 후보, 군산시장 고발",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=408419"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 12:05:00 +0900",
+                "title": "군산 총선 투표 독려 현수막 자세히 보니…숫자 '1' 표기 논란",
+                "link": "https://n.news.naver.com/mnews/article/079/0003874854?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:04:00 +0900",
+                "title": "군산시, 총선 투표 독려 현수막에 숫자 '1' 표기···선거법 위반 논란",
+                "link": "https://n.news.naver.com/mnews/article/421/0007417792?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:30:00 +0900",
+                "title": "[편집자시선]민주당 경선 끝나자 열기 식은 ‘전북 총선판’",
+                "link": "http://www.kukinews.com/newsView/kuk202403180056"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:58:00 +0900",
+                "title": "지자체 총선 투표 독려 현수막에 숫자'1' 표기···군산시 선거법 위반 논란",
+                "link": "https://www.jjan.kr/article/20240318580004"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:24:00 +0900",
+                "title": "국민의힘 오지성 후보  전라도는 김대중과 5·18 두 가지 프레임에 꼼짝달싹 ...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763040"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:44:00 +0900",
+                "title": "여야, 검색만 해도 나오는 막말 못 걸러…고장난 ‘시스템 공천’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003285029?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:27:00 +0900",
+                "title": "‘시스템 공천’ 무색케 하는 릴레이 공천 취소",
+                "link": "https://n.news.naver.com/mnews/article/032/0003285000?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:26:00 +0900",
+                "title": "한동훈, 호남 성적표 올리기 직접 나서",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965958"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "오지성",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 379362
+            }
+        ],
+        "huboid": "100152847",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5303/Hb100152847/junkwa/20240308180916296_1.PDF"
+    }
 ]

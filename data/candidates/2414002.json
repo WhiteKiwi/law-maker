@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-1.jpg",
-    "id": "2414002-1",
-    "재산": 2464744,
-    "생년월일": "19540603",
-    "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
-    "학력": "성균관대학교 철학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "997",
-    "regionId": "2414002",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:38:00 +0900",
-        "title": "소병훈 민주 광주갑 후보  경강선 증차하고 배차간격 줄이겠다  공약 발표",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:46:00 +0900",
-        "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:53:00 +0900",
-        "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:27:00 +0900",
-        "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
-        "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:02:00 +0900",
-        "title": "[4·10 총선] 국힘 한동훈,  대한민국에서 범죄자를 치우겠다 ",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242380"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "소병훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2903756
-      },
-      {
-        "연도": 2021,
-        "재산": 3553330
-      },
-      {
-        "연도": 2022,
-        "재산": 3706520
-      },
-      {
-        "연도": 2023,
-        "재산": 2464744
-      }
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
-    "id": "2414002-2",
-    "재산": 1505844,
-    "생년월일": "19740819",
-    "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
-    "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2414002",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:14:00 +0900",
-        "title": "함경우 국힘 광주갑 후보  복지 관련 종사자 처우 개선할 것 ",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-        "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:33:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:48:00 +0900",
-        "title": "공천 탈락 전직 시장·군수들, 상대 정당 후보 지지 행보",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277856?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "함경우",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1505844
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-1.jpg",
+        "id": "2414002-1",
+        "재산": 2464744,
+        "생년월일": "19540603",
+        "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
+        "학력": "성균관대학교 철학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "997",
+        "regionId": "2414002",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:40:00 +0900",
+                "title": "선거 유세에 '벚꽃' 적극 활용…여야 후보들 사전투표 참여 독려 [SNS로 보는...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038087?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:12:00 +0900",
+                "title": "‘임종성 구속’발 경기 광주 민심 향방은?",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243033"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:38:00 +0900",
+                "title": "소병훈 민주 광주갑 후보  경강선 증차하고 배차간격 줄이겠다  공약 발표",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:53:00 +0900",
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:27:00 +0900",
+                "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:02:00 +0900",
+                "title": "[4·10 총선] 국힘 한동훈,  대한민국에서 범죄자를 치우겠다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242380"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:04:00 +0900",
+                "title": "[4·10 총선] 민주 김부겸,  광주 교통문제 해결할 후보들에게 한 표 행사해달...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242236"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 03:58:00 +0900",
+                "title": "소병훈‧안태준 ‘경기 광주’ 후보, 출정식…“광주의 발전‧미래 위해 총선...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331000348266"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:02:00 +0900",
+                "title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:22:00 +0900",
+                "title": "이재명,  4월 10일은 국민이 승리하는 날...지인에게 투표 독려해 달라 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307262"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:04:00 +0900",
+                "title": "한동훈  쓰레기 같은 말들  vs 이재명  與 엄살 속지 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879943?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:03:00 +0900",
+                "title": "민주, 수도권 화력 집중… 與 과반 차지하면 나라 끝장 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399470?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:58:00 +0900",
+                "title": "민주  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599841?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:50:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460584?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:34:00 +0900",
+                "title": "김부겸, 수원·화성·용인 등 경기도 집중유세 나서",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787727"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:31:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460510?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:52:00 +0900",
+                "title": "이재명  여당 읍소작전 속지말라 …첫 주말 '한강벨트' 화력 집중",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240330010017747"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:54:00 +0900",
+                "title": "이재명  여당 읍소작전 속지 말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143121?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:30:00 +0900",
+                "title": "이재명  이번 총선 투표해달라 …첫 주말 '한강벨트' 집중",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809168?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:26:00 +0900",
+                "title": "민주당, ‘한강 벨트’·‘반도체 벨트’ 돌며 수도권 집중 공략",
+                "link": "https://www.etoday.co.kr/news/view/2345924"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:16:00 +0900",
+                "title": "민주당, 총선 첫 주말 ‘수도권’ 집중 공략",
+                "link": "http://www.kukinews.com/newsView/kuk202403300025"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:04:00 +0900",
+                "title": "민주  與 읍소작전 속지말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599609?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:18:00 +0900",
+                "title": "이재명, 30일 서울 송파·광진·마포 등 '한강벨트' 지원 유세",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469820"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:49:00 +0900",
+                "title": "이재명, '공식선거운동 첫 주말' 한강 벨트 공략…민주당, 수도권 집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870078?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:25:00 +0900",
+                "title": "선거운동 첫 주말, 여야 '접전지' 서울·수도권 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070217?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:59:00 +0900",
+                "title": "한동훈·이재명, 선거운동 첫 주말 수도권 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262813?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:42:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 ‘한강벨트’ 집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288084?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:36:00 +0900",
+                "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
+                "link": "http://www.metroseoul.co.kr/article/20240330500001"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:35:00 +0900",
+                "title": "이재명, 선거운동 첫 주말···서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809125?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:15:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 강행군…'한강벨트' 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320853?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:46:00 +0900",
+                "title": "선거운동 첫 주말, 與野 모두 '접전지' 서울·수도권 집중 공략",
+                "link": "https://www.ajunews.com/view/20240330083140142"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:10:00 +0900",
+                "title": "이재명, 선거운동 첫 주말.. 서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058437?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:36:00 +0900",
+                "title": "이재명, 선거운동 첫 주말 '접전지' 서울 한강벨트 집중 공략",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599360?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(30일, 토)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446446?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:02:00 +0900",
+                "title": "민주당 광주갑 소병훈·광주을 안태준 후보 경안시장서 합동 출정식",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080870"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:38:00 +0900",
+                "title": "'경기 광주' 소병훈‧안태준, 출정식…  초짜 아닌 실력 있고 검증된 일꾼 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325497?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:28:00 +0900",
+                "title": "경기 국회의원 6명 가상자산 보유 신고",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240329010003451"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:50:00 +0900",
+                "title": "민주당 광주갑을 합동 출정식...  윤석열 정권 폭주 막을 힘 모아달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427909?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:34:00 +0900",
+                "title": "국회에서 코인 거래하더니...김남국, 가상자산 15억 신고 1위",
+                "link": "https://n.news.naver.com/mnews/article/024/0000088220?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:32:00 +0900",
+                "title": "총선 후보 가상자산 전수조사…'상폐' 루나 10만 개 보유 누구?",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469659"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:36:00 +0900",
+                "title": "하남갑 추미애, 임태희 교육감과 교육지원청 분리·과밀학급 해소 적극 추진",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427844?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:20:00 +0900",
+                "title": "안철수, 국회의원 최고 자산가..김남국, 코인 보유 1위",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84474"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:26:00 +0900",
+                "title": "김남국 의원 가상자산 15억원 신고…국회의원 독보적 1위",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287127?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:01:00 +0900",
+                "title": "가상자산 1위, '15억 신고' 김남국… 뭘 샀길래?",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042482?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:28:00 +0900",
+                "title": "공직자 가상자산 보유도 '다수'...김남국 '15억원 이상 보유' 신고",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318595"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:19:00 +0900",
+                "title": "국회 코인 부자는 '15억' 김남국… 재산 1위는 안철수 1401억",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084727?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:16:00 +0900",
+                "title": "하남갑 추미애 후보, 임태희 교육감과 교육지원청 분리·과밀학급 해소 추진",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105912"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:04:00 +0900",
+                "title": "역시 김남국, 코인 75종 15억원대 보유",
+                "link": "http://www.viewsnnews.com/article?q=218756"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 04:07:00 +0900",
+                "title": "김남국 가상자산 15억4643만원 1위… 2000만원 이상 5명",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684325?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:02:00 +0900",
+                "title": "김동연 33억3천만원… 임태희 46억9천만원 [공직자 재산 공개]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037533?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "[재산공개] 국회의원 재산 감소 1위는 박정…전년 대비 165억↓",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440792?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "국회의원 중 13명 가상자산 보유…김남국 15억 가장 많아[재산공개]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454626?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+                "title": "재산 201억 늘린 이주환…국회의원 중 증가액 1위[재산공개]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454629?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:14:00 +0900",
+                "title": "“전북 선거는 사실상 끝”…수도권 선거 결과 주목하는 민심",
+                "link": "http://sjbnews.com/news/news.php?number=811058"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:12:00 +0900",
+                "title": "소병훈 광주갑 후보  경강선 열차 증편 운영 환영 밝혀",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080460"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:16:00 +0900",
+                "title": "더불어민주당 경기 광주시 갑 소병훈 예비후보, 경강선 열차증편 환영",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446185"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:46:00 +0900",
+                "title": "소병훈 의원, 경강선 열차증편 환영",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325133"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:28:00 +0900",
+                "title": "[4·10 총선] 민주 소병훈,  경강선 열차 증편 환영한다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241541"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:32:00 +0900",
+                "title": "소병훈  경강선 열차증편 환영... 증차해 배차간격 단축시킬 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427639?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:52:00 +0900",
+                "title": "국힘 함경우, 민주 소병훈 겨냥  삼선 슬리퍼 신은 할아버지  표현 논란",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325142?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:52:00 +0900",
+                "title": "더불어민주당 광주시 갑 소병훈 후보, 송정지구대 신설·태전파출소 지구대 승...",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=445951"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:48:00 +0900",
+                "title": "소병훈 광주갑 후보, 송정지구대 신설·태전파출소 지구대 승격 안전·치안 공...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080112"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:26:00 +0900",
+                "title": "[4.10총선-109] 경기 광주갑, 소병훈vs함경우. 경륜과 패기의 대결장",
+                "link": "http://www.mhj21.com/160075"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 03:01:00 +0900",
+                "title": "음주운전 전과 총선후보, 국힘 22명-민주 21명",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555237?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:14:00 +0900",
+                "title": "음주운전·음주측정거부 전과 공천자…국민의힘 24명-민주당 21명",
+                "link": "https://n.news.naver.com/mnews/article/020/0003555201?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:52:00 +0900",
+                "title": "3선 도전 소병훈  광주의 도약 결정짓는 선거... 지켜봐 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427330?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:33:00 +0900",
+                "title": "소병훈 의원, 송정지구대 신설·태전파출소 지구대 승격 공약",
+                "link": "https://n.news.naver.com/mnews/article/421/0007435028?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:12:00 +0900",
+                "title": "소병훈 의원, 송정지구대 신설·태전파출소 지구대 승격 공약",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324748"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:08:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037203?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:32:00 +0900",
+                "title": "총선후보 10명 중 1명꼴 '음주운전'…사기·폭행·마약 등 전과자도",
+                "link": "https://www.etoday.co.kr/news/view/2343719"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:54:00 +0900",
+                "title": "소병훈 후보  송정지구대 신설하고 태전파출소 지구대 승격시킬 것  치안 공약...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643176"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:44:00 +0900",
+                "title": "경기 광주갑 소병훈, 송정지구대 신설·태전파출소 지구대 승격 공약",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427236?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:04:00 +0900",
+                "title": "수도권 전북연고자 지역구출마 33명…비례후보 포함하면 43명",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462898"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:56:00 +0900",
+                "title": "전북 출신 총선 후보, 전국서 뛴다",
+                "link": "http://sjbnews.com/news/news.php?number=810614"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:10:00 +0900",
+                "title": "4.10 총선서 출향 전북인 39명 금배지 도전",
+                "link": "https://www.jjan.kr/article/20240324580239"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:06:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력 분석…② 음주운전",
+                "link": "https://www.kpinews.kr/newsView/1065602345312237"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:10:00 +0900",
+                "title": "[르포]  속 시커먼 정치인 사절!  임종성이 할퀸 '경기 광주' 민심 들어보니…",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812525?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:20:00 +0900",
+                "title": "‘격전지’ 충남·경기 찾아간 한동훈, 이재명 겨냥 “법원 생까고 있어”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439202?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:07:00 +0900",
+                "title": "폭우 속 안성·광주 공략 나선 한동훈…“폭풍우와도 전국 다닐 것”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698494?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:30:00 +0900",
+                "title": "[2024총선] 소병훈 후보 선거대책위원들과 함께 현충탑 합동 참배",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2050251"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:34:00 +0900",
+                "title": "민주당 소병훈  철지난 종북몰이 중단하고 민생경제 챙기시라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426906?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:33:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 21일 경기도 현장은 지금⑧",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036934?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:42:00 +0900",
+                "title": "함경우 후보  형식·시간 제약없이 토론하자  vs 소병훈 후보  공직 토론회서...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642611"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:49:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 21일 경기도 현장은 지금⑥",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036918?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:14:00 +0900",
+                "title": "[4·10총선] 민주 소병훈,  철지난 종북몰이 중단하고 민생 우선하라 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240412"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:12:00 +0900",
+                "title": "소병훈 광주갑 후보, 후보 등록 후 현충탑 참배",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786570"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:34:00 +0900",
+                "title": "함경우 국민의힘 광주시갑 후보, 소병훈 후보에 정책토론 제안",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240321021580973"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:32:00 +0900",
+                "title": "소병훈 후보, 선거대책위원들과 함께 현충탑 합동 참배",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324314"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:25:00 +0900",
+                "title": "광주갑 함경우, 민주당 소병훈 후보에 정책토론회 제안",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426782?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:50:00 +0900",
+                "title": "[4·10총선] 국힘 광주갑 함경우, 민주당 소병훈 후보에게 정책토론회 제안",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240350"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:50:00 +0900",
+                "title": "[총선 D-20] 국민의힘 함경우 광주갑 후보, 더불어민주당 소병훈 후보에게 정...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1022981"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "소병훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2903756
+            },
+            {
+                "연도": 2021,
+                "재산": 3553330
+            },
+            {
+                "연도": 2022,
+                "재산": 3706520
+            },
+            {
+                "연도": 2023,
+                "재산": 2464744
+            }
+        ],
+        "huboid": "100152135",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4140/Hb100152135/junkwa/20240115154022576_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
+        "id": "2414002-2",
+        "재산": 1505844,
+        "생년월일": "19740819",
+        "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
+        "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2414002",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 12:12:00 +0900",
+                "title": "‘임종성 구속’발 경기 광주 민심 향방은?",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243033"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:14:00 +0900",
+                "title": "함경우 국힘 광주갑 후보  복지 관련 종사자 처우 개선할 것 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:33:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:48:00 +0900",
+                "title": "공천 탈락 전직 시장·군수들, 상대 정당 후보 지지 행보",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277856?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 함경우,  복지 관련 종사자 처우 개선할 것 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242436"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:32:00 +0900",
+                "title": "한동훈 비대위원장, 광주 찾아 황명주·함경우 후보 지원사격",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023453529"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:02:00 +0900",
+                "title": "[4·10 총선] 국힘 한동훈,  대한민국에서 범죄자를 치우겠다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242380"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:47:00 +0900",
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037843?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:27:00 +0900",
+                "title": "한동훈  국민의힘, 국민 대신해 양문석 '사기대출' 고발하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815421?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:47:00 +0900",
+                "title": "[포토] 한동훈 국민의힘 총괄선대위원장 경기도 광주 태재고개 사거리 지원유...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919670?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:31:00 +0900",
+                "title": "한동훈  추미애, 하남을 서울로 만들 수 있냐…우리 선택해 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448260?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:15:00 +0900",
+                "title": "한동훈, 선거운동 첫 주말 수도권 집중공략…공약 발표도",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447196?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:01:00 +0900",
+                "title": "팽팽한 '반집 싸움'…한동훈 서울·경기 집중, 이재명은 계양 다지기",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703491?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:43:00 +0900",
+                "title": "함경우  광주, 경기도 노른자로 탈바꿈 시킬 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428074?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:02:00 +0900",
+                "title": "국민의힘 광주갑 함경우·광주을 황명주 후보 이마트 앞 출정식",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080869"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:12:00 +0900",
+                "title": "경기광주 함경우·황명주 출정식...  총선 필승 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427977?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:04:00 +0900",
+                "title": "전북 국회의석 절대 부족…수도권 전북연고 후보·비례대표 국회 진입 주목",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463632"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:17:00 +0900",
+                "title": "'경기 광주' 함경우‧황명주, 출정식  민주당 8년 변화 있었나…회초리 드셔야...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325470?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:30:00 +0900",
+                "title": "“여당에 힘 실어달라” 경기광주 국힘 함경우·황명주 합동 출정식",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444054?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:02:00 +0900",
+                "title": "국민의힘 함경우 광주갑 후보 메가공약 6호 발표  IB교육시스템 도입 교육혁신...",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446445"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:20:00 +0900",
+                "title": "함경우 국힘 광주갑 후보  국제바칼로레아 시범학교 도입 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643844"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:18:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037520?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:28:00 +0900",
+                "title": "함경우 광주갑 후보, '국제바칼로레아 시범학교 도입' 6번째 공약 채택",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080418"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:37:00 +0900",
+                "title": "“교육혁신 도시 도약” 함경우 광주갑 국힘 후보 ‘IB교육시스템’ 공약",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440181?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:22:00 +0900",
+                "title": "국민의힘 함경우 광주 갑 예비후보 메가공약 5호  쌍령동 경충대로 지하화 및...",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446189"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:14:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 함경우,  IB시스템 도입…교육혁신 도시 도약 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241544"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:51:00 +0900",
+                "title": "광주갑 함경우  국제바칼로레아 도입, 교육혁신 도시 도약 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427658?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:04:00 +0900",
+                "title": "[총선 D-14] 국민의힘 함경우 광주갑 후보  IB교육시스템 도입, 교육혁신 도시...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024614"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:56:00 +0900",
+                "title": "함경우 광주갑 후보, 메가공약 5호  쌍령동 경충대로 지하화 및 주민친화공간...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105714"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:52:00 +0900",
+                "title": "국힘 함경우, 민주 소병훈 겨냥  삼선 슬리퍼 신은 할아버지  표현 논란",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325142?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:39:00 +0900",
+                "title": "국힘 경기 광주갑 함경우  쌍령동 경충대로 지하화… 정체 해소 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437738?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:32:00 +0900",
+                "title": "[열전 25시] 3월 26일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037362?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:46:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 함경우,  경충대로 지하화 주민친화공간 조성 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241300"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:32:00 +0900",
+                "title": "광주갑 함경우  쌍령동 경충대로 지하화 및 주민친화공간 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427486?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:18:00 +0900",
+                "title": "함경우 광주갑 후보, 23호선 쌍령동 구간 지하화 메가공약 5호 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080068"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:14:00 +0900",
+                "title": "함경우 광주갑 후보, 메가공약 5호 “쌍령동 경충대로 지하화 및 주민친화공간...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240326024052142"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:03:00 +0900",
+                "title": "국힘 경기 광주갑 함경우  쌍령동 구간 지하화 하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451072?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:38:00 +0900",
+                "title": "[총선 D-15] 국민의힘 함경우 광주갑 후보  쌍령동 경충대로 지하화 및 주민친...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024225"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:26:00 +0900",
+                "title": "[4.10총선-109] 경기 광주갑, 소병훈vs함경우. 경륜과 패기의 대결장",
+                "link": "http://www.mhj21.com/160075"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:52:00 +0900",
+                "title": "조억동 전 광주시장, 함경우 광주갑 후보 지지선언·캠프 합류",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079830"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:23:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037211?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:22:00 +0900",
+                "title": "조억동 전 광주시장, 국민의힘 광주갑 함경우 후보 지지선언 및 캠프 합류",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=445642"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:30:00 +0900",
+                "title": "조억동 전 광주시장, 국힘 함경우 후보 지지선언 및 캠프 합류",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427271?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "[4·10 총선] 조억동 전 광주시장, 국힘 함경우 후보 지지선언",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241008"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:45:00 +0900",
+                "title": "조억동 前경기 광주시장, 함경우 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324804?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:04:00 +0900",
+                "title": "수도권 전북연고자 지역구출마 33명…비례후보 포함하면 43명",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462898"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:56:00 +0900",
+                "title": "전북 출신 총선 후보, 전국서 뛴다",
+                "link": "http://sjbnews.com/news/news.php?number=810614"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:10:00 +0900",
+                "title": "4.10 총선서 출향 전북인 39명 금배지 도전",
+                "link": "https://www.jjan.kr/article/20240324580239"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:26:00 +0900",
+                "title": "국민의힘 한동훈 비대위원장,  '광주의 사위' 한동훈이 왔어요 ",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=445513"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:50:00 +0900",
+                "title": "한동훈 위원장, 광주에서 '함경우 후보 등 지원 유세'",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786742"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:46:00 +0900",
+                "title": "광폭 행보 한동훈, 광주 찾아 함경우·황명주 후보지지 빗속 호소",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079567"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:20:00 +0900",
+                "title": "광폭 행보 한동훈, 수도권 승리 위해 경기 광주시 찾아",
+                "link": "https://www.viva100.com/main/view.php?key=20240324010007696"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:08:00 +0900",
+                "title": "[4·10 총선] 경기지역 출마자 전과기록 다채---음주운전 다반사",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240730"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 17:36:00 +0900",
+                "title": "한동훈  민심 무겁게 받아들이고 나라 지키는 선거할 것 ... 광주 찾아 지지 ...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642926"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:51:00 +0900",
+                "title": "'광폭 행보' 한동훈, 경기 광주서 비 맞으며 큰 목소리  수도권 승리 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000991103?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:46:00 +0900",
+                "title": "[4·10총선] 국힘 한동훈,  나라를 지키고, 사회를 지키고, 동료시민을 지키는...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240683"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:10:00 +0900",
+                "title": "[르포]  속 시커먼 정치인 사절!  임종성이 할퀸 '경기 광주' 민심 들어보니…",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812525?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:32:00 +0900",
+                "title": "한동훈, 안성·광주광폭지원…“우리 못이기면 나라 망하고 후회”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240322028131324"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:58:00 +0900",
+                "title": "한동훈, 광주서 비 맞으며 “맨 몸으로 뛰겠다…선택해달라” 지지 호소",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240322026231318"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:32:00 +0900",
+                "title": "우비 벗어던진 한동훈  우린 여러분의 공복 …당정 갈등 봉합(종합)",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240322010013285"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:29:00 +0900",
+                "title": "한동훈, 충남·경기 남부서 대야 공세… 이종섭 수사 정치공작 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430901?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:20:00 +0900",
+                "title": "‘격전지’ 충남·경기 찾아간 한동훈, 이재명 겨냥 “법원 생까고 있어”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439202?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:20:00 +0900",
+                "title": "[현장] 野 강세 '경기광주' 찾은 한동훈… 시민의 종, 함경우·황명주 선택을...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812512?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:12:00 +0900",
+                "title": "한동훈, 경기 광주서 비 맞으며  맨 몸으로 뛰겠다…선택해달라  호소",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445479?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:07:00 +0900",
+                "title": "폭우 속 안성·광주 공략 나선 한동훈…“폭풍우와도 전국 다닐 것”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698494?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "한동훈, 종일 광폭지원… 우리 못이기면 나라 망하고 후회 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583357?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:10:00 +0900",
+                "title": "한동훈  민감한 시기…尹과 민심 순응하자는 입장 서로 같다 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877079?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:02:00 +0900",
+                "title": "한동훈, 충남 찾아  민주, 탄핵으로 민생 챙겨지나  [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160476?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:06:00 +0900",
+                "title": "한동훈, 충남 찾아  조국·통진당 못 막으면 민주주의 무너져 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014582142?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:50:00 +0900",
+                "title": "서해수호 55용사 추모한 與  민주, 천안함 막말 면죄부 공천 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002862741?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:14:00 +0900",
+                "title": "한동훈, '서해수호의 날' 참석... 충남·경기남부 총선 지원",
+                "link": "http://www.lawissue.co.kr/view.php?ud=202403221012181611b3279dfb36_12"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:13:00 +0900",
+                "title": "한동훈, 충남·경기남부 지원하며 중도층 사로잡기 총력전[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160238?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:48:00 +0900",
+                "title": "한동훈, 충남·경기남부 '중부지방' 표심 공략",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435511"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:47:00 +0900",
+                "title": "한동훈, 오늘 충남·경기 남부 방문…'서해수호의 날' 기념식도 참석",
+                "link": "https://n.news.naver.com/mnews/article/008/0005015498?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:42:00 +0900",
+                "title": "한동훈, 충남·경기 잇따라 방문… '서해수호의날' 기념식 참석",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846803"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:41:00 +0900",
+                "title": "한동훈, 충남 이어 경기남부 방문…'서해수호의 날' 참석",
+                "link": "https://n.news.naver.com/mnews/article/448/0000452426?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:07:00 +0900",
+                "title": "한동훈, 충남·경기남부서 국힘 지지 호소…‘서해수호의 날’ 참석",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276421?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:50:00 +0900",
+                "title": "한동훈, '격전지' 충남·경기 찾아 지지 호소…표심 잡기 총력",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224208&inflow=N"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:48:00 +0900",
+                "title": "한동훈, 보령·안성 등 중원 공략...'서해수호의 날' 참석",
+                "link": "https://n.news.naver.com/mnews/article/057/0001807391?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:23:00 +0900",
+                "title": "한동훈, 충남 · 경기남부 후보 지원…'서해수호의 날' 참석도",
+                "link": "https://n.news.naver.com/mnews/article/055/0001140770?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:29:00 +0900",
+                "title": "[미리보는오늘] 한동훈, 충남·경기 방문...이재명, 충남 표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/052/0002013516?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:05:00 +0900",
+                "title": "한동훈, 충남·경기 찾아 지지 호소…서해수호의 날 기념식 참석도",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428867?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:01:00 +0900",
+                "title": "한동훈, 충남 이어 경기남부 지원…'서해수호의 날' 참석",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581334?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:00:00 +0900",
+                "title": "한동훈, '격전지' 충남·경기 방문…지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443552?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 01:58:00 +0900",
+                "title": "한동훈, 충남·경기 방문...중원·수도권 표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/052/0002013486?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:42:00 +0900",
+                "title": "함경우 후보  형식·시간 제약없이 토론하자  vs 소병훈 후보  공직 토론회서...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642611"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:49:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 21일 경기도 현장은 지금⑥",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036918?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:06:00 +0900",
+                "title": "함경우 후보, 소병훈 후보에게 '정책토론' 요청",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=786562"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:34:00 +0900",
+                "title": "함경우 국민의힘 광주시갑 후보, 소병훈 후보에 정책토론 제안",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240321021580973"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "함경우",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1505844
+            }
+        ],
+        "huboid": "100151367",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4140/Hb100151367/junkwa/20231212153508144_1.PDF"
+    }
 ]

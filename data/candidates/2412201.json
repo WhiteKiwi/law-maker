@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2412201-1",
-    "regionId": "2412201",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-1.jpg",
-    "기호": 1,
-    "이름": "김영환",
-    "생년월일": "19710707",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 사회학과 졸업",
-    "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
-    "재산": 1688057,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:34:00 +0900",
-        "title": "[유세장 직격인터뷰] 정동영·김윤식·김영환·김현준·윤호중",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644753"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:26:00 +0900",
-        "title": "[현장] 고양정 김용태 선대위, '민주당 김영환 선거법 위반' 신고",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-        "title": "고양정 김용태 선대위,  민주당 김영환 선거법 위반  신고",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317398"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "고양정 김용태, 민주당 김영환 선거법 위반 신고... 김용태 낙선목적, 중대 범...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219968"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1688057
-      }
-    ]
-  },
-  {
-    "id": "2412201-2",
-    "regionId": "2412201",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-2.jpg",
-    "기호": 2,
-    "이름": "김용태",
-    "생년월일": "19680326",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "(사)한국보험대리점협회 회장",
-    "학력": "서울대학교 정치학과 졸업",
-    "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
-    "재산": 1844381,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:08:00 +0900",
-        "title": "[미리보는 이데일리 신문]2000명 강조한 尹  통일안 내면 재논의 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704743?sid=101"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:34:00 +0900",
-        "title": "포천  연이은 언행 구설수  22대 총선 보수 텃밭이 흔들린다",
-        "link": "http://www.joongang.tv/news/articleView.html?idxno=71266"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:58:00 +0900",
-        "title": "김용태 국힘 포천가평 후보  출산과 육아, 불평등과 격차 해소에 적극 나서겠...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644726"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1844381
-      }
-    ]
-  }
+    {
+        "id": "2412201-1",
+        "regionId": "2412201",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-1.jpg",
+        "기호": 1,
+        "이름": "김영환",
+        "생년월일": "19710707",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 사회학과 졸업",
+        "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
+        "재산": 1688057,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:33:00 +0900",
+                "title": "고양시공공노조연대-고양시 민주당 국회의원 후보, 정책 협약식 가져",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515530"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:00:00 +0900",
+                "title": "이동환 고양시장  민주당 김영환 고양정 국회의원 후보 발언에 깊은 유감 ",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469960"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:36:00 +0900",
+                "title": "열전 현장- 영주시영양봉화군",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240328113727AE00924&id=186041"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:14:00 +0900",
+                "title": "이동환 고양시장, 총선 후보 가짜뉴스 유포 ‘유감’",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021218038"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:56:00 +0900",
+                "title": "'권력 교체 vs 최다선 도전' 남구을 현안 해법은?",
+                "link": "http://web.ubc.co.kr/wp/archives/113145"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "이동환 고양시장, 민주당 총선 후보 허위사실 유포··· 재발되지 않길 바래...",
+                "link": "http://www.ikld.kr/news/articleView.html?idxno=291856"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+                "title": "고양시공공노조연대-고양시 민주당 국회의원 후보들, '노총회관 건립' 등 정책...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645087"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:34:00 +0900",
+                "title": "김경욱·이종배, 발로 뛰며 눈도장… 지역발전 적임자  호소",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431197"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:11:00 +0900",
+                "title": "[2024총선] 김영환  덕이동-가좌동 교통문제 합리적 해결 약속 ",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051149"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "이동환 고양시장  김영환 후보 허위사실 유포 깊은 유감 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993662?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+                "title": "이동환 고양시장  김영환 후보 허위사실 유포에 유감 ",
+                "link": "https://www.onews.tv/news/articleView.html?idxno=202357"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:36:00 +0900",
+                "title": "김영환  예타면제 법안 통과돼야 vs  경제자유구역으로 수요 높여야 ",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78666"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:28:00 +0900",
+                "title": "김용태 후보 선대위, 김영환 후보 공직선거법 위반 중앙선관위 신고",
+                "link": "https://www.geconomy.co.kr/news/article.html?no=283384"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:53:00 +0900",
+                "title": "고양정 국힘 김용태, ‘허위사실 유포’ 민주 김영환 선관위 신고",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452694?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:34:00 +0900",
+                "title": "[4·10 총선] 국힘 김용태, 민주당 김영환 후보 허위사실 유포 선관위 신고",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242629"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:58:00 +0900",
+                "title": "시민단체 파랑새 시민연대 대표, 더불어 민주당 김영환 고양정 후보 허위사실...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107252"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:56:00 +0900",
+                "title": "더불어민주당 김영환 고양정 후보  사실을 바로잡습니다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107250"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '대장동 배임·성남FC 뇌물' 이재명 공판",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213395"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:34:00 +0900",
+                "title": "[유세장 직격인터뷰] 정동영·김윤식·김영환·김현준·윤호중",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644753"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:26:00 +0900",
+                "title": "[현장] 고양정 김용태 선대위, '민주당 김영환 선거법 위반' 신고",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "고양정 김용태 선대위,  민주당 김영환 선거법 위반  신고",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317398"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "고양정 김용태, 민주당 김영환 선거법 위반 신고... 김용태 낙선목적, 중대 범...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219968"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "'총선 열기로 신경전 고조'...고양시 축사 허가 두고 후보 간 공방",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958260"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:44:00 +0900",
+                "title": "김영환 후보  가좌동 축사 관련 사실관계 착오  사과",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78633"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:50:00 +0900",
+                "title": "의정부교구 정평위, 관내 총선 후보 정책질의 결과 공개",
+                "link": "http://www.catholicnews.co.kr/news/articleView.html?idxno=33737"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "김영환 후보, “덕이동, 가좌동 교통문제 합리적 해결” 약속",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851541"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:36:00 +0900",
+                "title": "'덕이·가좌동 교통 문제 해결'...고양시정 민주당 김영환 후보 공약",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957800"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '더불어민주당 전당대회 돈 봉투 의혹' 송영길 공판",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213362"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:00:00 +0900",
+                "title": " 내 집값이나 되돌려놔라  심판론도 필요 없다는 이곳 [총선 핫플레이스-고양...",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351123?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:54:00 +0900",
+                "title": " 예수, 부활하셨네 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746151"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:16:00 +0900",
+                "title": "고양시정 민주당 김영환 후보, 수도권 서북부 교통망 강화에 '온 힘'",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957421"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:50:00 +0900",
+                "title": "민주당 충북 총선 예비후보들  윤 정권 심판, 원팀 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307272"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:04:00 +0900",
+                "title": "&lt;고양정 후보 토론회&gt; 김영환·김용태 이슈별 정책 비교",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78613"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:22:00 +0900",
+                "title": "[아주경제 오늘의 뉴스 종합] 의대 교수들, 근무시간 재조정 시사… 물리적·...",
+                "link": "https://www.ajunews.com/view/20240330215408256"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:45:00 +0900",
+                "title": "[단독] 윤호중이 두 장? 나태근 벽보 사라져…선관위  단순 실수, 바로 수정 ",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386211?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:42:00 +0900",
+                "title": "4.10 총선 후보자들  1기 신도시 재건축 서두르겠다 ",
+                "link": "http://www.housingherald.co.kr/news/articleView.html?idxno=47753"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:52:00 +0900",
+                "title": "[4.10총선-146] 청주 흥덕, 이연희vs김동원. 김동원 힘든 추격 중",
+                "link": "http://www.mhj21.com/160173"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:32:00 +0900",
+                "title": "[총선본색] 고양정 김영환 후보  경의선은 나쁜 철도망, 신도시와 구도심 간 ...",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384556"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:04:00 +0900",
+                "title": "'고양 서울편입' 여야 입장차, '교통·재건축' 한목소리",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78557"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:02:00 +0900",
+                "title": "[오늘의 주요 일정] '마약류 투약' 전 야구 국가대표 오재원 구속 송치",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213335"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:08:00 +0900",
+                "title": "[총선현장] 고양정 김영환  20년과 14일, 고민의 깊이 다르다 ",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78568"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:21:00 +0900",
+                "title": "김남국 말고 가상자산 10억 이상 공직자도 있다… 최지영 기재부 차관보 ‘재...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440577?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:10:00 +0900",
+                "title": "[총선현장] 고양병 이기헌  이렇게 무도한 대통령을 심판해야 한다 ",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78564"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:14:00 +0900",
+                "title": "22대 총선판에 충청 다선 의원들이 사라졌다",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486097"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:10:00 +0900",
+                "title": "[총선특집] 3번의 고양총선 민주당 연속 승리... '전국 1석 소수정당' 심상정...",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78551"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:02:00 +0900",
+                "title": "“일산 재건축은요?” ‘김현미 보좌관’ 김영환 vs ‘3선’ 김용태",
+                "link": "https://n.news.naver.com/mnews/article/262/0000017320?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:58:00 +0900",
+                "title": "[충청브리핑] “충청을 잡아라”…‘국회 세종’ 이전 급물살 ‘판세 영향은?...",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/28/2024032800026.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '이동관·검사 탄핵 철회' 권한쟁의심판 선고",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213303"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:01:00 +0900",
+                "title": "총선 최대 승부처 경기 60석 '수성이냐 탈환이냐'…13일간 공식 선거운동 돌입",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276810?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:05:00 +0900",
+                "title": "충북서 7명 가상자산 신고…비트코인에 '루나'까지[재산공개]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454721?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 경실련, 전세보증금 반환보증보험 실태분석 발표 기자회견",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213285"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:54:00 +0900",
+                "title": "윤 대통령  충북을 첨단 바이오산업 중심으로 ..민생토론 열고 집중 투자 약속",
+                "link": "https://n.news.naver.com/mnews/article/655/0000017432?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "총선/ 의대정원 확대 휘발성 변수될까...캐스팅보트 충청권 주목",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745546"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:12:00 +0900",
+                "title": "[충청브리핑] 민주 ‘세종갑 이영선’ 갭투기 의혹 확산…또 누구?",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/26/2024032600013.html"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:10:00 +0900",
+                "title": "민주 김영환, 문화·산업 도시로 성장 vs 국힘 김용태, 경제자유구역 지정",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78505"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:18:00 +0900",
+                "title": "김영환 후보 '선거사무소 개소의 날' 개최",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104739"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:58:00 +0900",
+                "title": "고양시정 민주당 김영환 후보 '선거사무소 개소'",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2952126"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 이정섭 검사 탄핵 심판 3회 변론준비기일",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213217"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:04:00 +0900",
+                "title": "수도권 전북연고자 지역구출마 33명…비례후보 포함하면 43명",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462898"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:58:00 +0900",
+                "title": "고양시정,  문화·산업 도시  vs  경제자유구역 ",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435710"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:56:00 +0900",
+                "title": "전북 출신 총선 후보, 전국서 뛴다",
+                "link": "http://sjbnews.com/news/news.php?number=810614"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:48:00 +0900",
+                "title": "민주 이기헌, 정부 실정 부각 vs 국힘 김종혁, 상대 캠프 잡음 공세",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78483"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 11:12:00 +0900",
+                "title": "[고양 총선후보_고양정 김영환] 저돌성과 열정… 일산서구서 성장한 대표 정치...",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78481"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:12:00 +0900",
+                "title": "[4·10 총선] 김영환 고양정 후보, 탄현·덕이 데이터센터 민주당이 끝까지 싸...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240670"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:18:00 +0900",
+                "title": "막오른 '총선 레이스'…경기지역 여야 총선 후보 148명 출사표",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275688?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": " 데이터 센터 절대 안 돼 ...고양시정 민주당 김영환 후보 허가 취소 촉구",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2951060"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:52:00 +0900",
+                "title": "고양 총선 여야 후보들, '덕이동 데이터센터' 반대 한목소리",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383900"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:42:00 +0900",
+                "title": "박진희 충북도의원 “5·18 유공자 관심·지원 필요”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822556?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:03:00 +0900",
+                "title": "박진희 도의원  김영환 지사 5·18 정신 부정하나, 부상자회 지원해야 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426943?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:38:00 +0900",
+                "title": "1년째 표류 'CJ 아레나'  경기도 적극행정  한목소리",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78446"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:04:00 +0900",
+                "title": "&lt;고양총선 후보 토론회&gt; 고양병·고양정 23일 '정책대결'",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78444"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '입시비리' 조민 1심 선고",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213181"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 06:19:00 +0900",
+                "title": "‘재판 거래’ 의혹 풀릴까…수사 과제는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686388?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:52:00 +0900",
+                "title": "막오른 '총선 전쟁'…경기지역 총선 후보 첫날 124명 등록",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275408?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:03:00 +0900",
+                "title": "‘재판 거래’ 의혹 풀릴까…수사 과제는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686172?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:02:00 +0900",
+                "title": "민경우  6월항쟁 주역, 전대협 아닌 YS  [6월항쟁 되짚기⑱]",
+                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=159592"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:42:00 +0900",
+                "title": "'오대남'이 대세…숫자로 본 거대 양당 254개 지역구 공천",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469251"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:28:00 +0900",
+                "title": "[고양 총선후보_고양갑 김성회] 민주당 '톱3 유튜버'… 뿌리 깊은 민주당맨",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78441"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:31:00 +0900",
+                "title": "지역 터줏대감 김영환 vs. 연륜 3선 김용태.. 치열한 접전",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426712?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 경실련, 제21대 국회의원 해외 출장 심사 발표 기자회견",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213145"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:42:00 +0900",
+                "title": "[포토]  데이터센터 허가 취소하라 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1845542"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:02:00 +0900",
+                "title": " 데이터센터 직권취소  덕이동 주민 집회",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78415"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:55:00 +0900",
+                "title": "1기 신도시 9곳중 8곳이 야권 현역… 여당 ‘재건축 표심’ 잡기",
+                "link": "https://n.news.naver.com/mnews/article/021/0002627517?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 교육부 의료 개혁 관련 대국민담화 발표 및 의대 정원 발...",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213119"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:16:00 +0900",
+                "title": "[포토] 더불어민주당 고양시 갑·을·병·정 후보자 합동 기자회견",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314655"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:08:00 +0900",
+                "title": "민주당 고양특례시 갑을정병 후보자 '원팀 고양시' 선언",
+                "link": "https://www.onews.tv/news/articleView.html?idxno=200875"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:56:00 +0900",
+                "title": "[충북 청주시 여론조사] 상당구·흥덕구 민주당 우세, 청원구·서원구 접전",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306616"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:42:00 +0900",
+                "title": "[총선] 고양 민주당 후보 4명 '경의선 도심구간 지하화' 등 공동 공약 발표",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383580"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:52:00 +0900",
+                "title": "민주 고양시 후보들  고양시민을 위해 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2947736"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:50:00 +0900",
+                "title": "민주 김성회·한준호·이기헌·김영환 후보, '고양시민을 위해'",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2947701"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:33:00 +0900",
+                "title": "민주 김성회·한준호·이기헌·김영환 후보, '고양시민을 위해'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007421619?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1688057
+            }
+        ],
+        "huboid": "100153135",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4122/Hb100153135/junkwa/20240321131840825_9.PDF"
+    },
+    {
+        "id": "2412201-2",
+        "regionId": "2412201",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412201-2.jpg",
+        "기호": 2,
+        "이름": "김용태",
+        "생년월일": "19680326",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "(사)한국보험대리점협회 회장",
+        "학력": "서울대학교 정치학과 졸업",
+        "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
+        "재산": 1844381,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 22:18:00 +0900",
+                "title": "[총선] 이원석 전 포천시의원  박 후보는 부인 있으면 있다 밝혀 달라! ",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014259"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:33:00 +0900",
+                "title": "한동훈, 오는 3일 '경기북부' 지원사격 나선다",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825464?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "[뉴스인사이트] 부패·투기꾼·몰염치 판치는데…거대 양당은 공천 '자화자찬...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "[4·10 총선] 이재명도 왔다 간 포천, 한동훈까지 온다",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242827"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:50:00 +0900",
+                "title": "[총선] 포천경찰서, 김용태 포천·가평후보 캠프 '제3자 기부행위 금지위반' ...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014243"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:26:00 +0900",
+                "title": "‘연륜’ 박윤국 VS ‘열정’ 김용태, 포천·가평 격돌",
+                "link": "https://www.etoday.co.kr/news/view/2346975"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+                "title": "국민의힘 고양시정 김용태 후보  아저씨가 좋은 학교, 좋은 시설 많이 만들어...",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447190"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:48:00 +0900",
+                "title": "與김용태·野전용기…최초 '90년대생 지역구 국회의원' 탄생할까",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075771?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:28:00 +0900",
+                "title": "[기자수첩] 기후위기 시대, 두 거대 정당의 기후 정책은 '낙제점'?",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014237"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+                "title": "[총선] 포천·가평, 기후위기 시대 '기후총선' 맞아…두 거대정당 후보 기후정...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014236"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:20:00 +0900",
+                "title": "4·10 총선 포천·가평, 고소·고발 과열 양상",
+                "link": "https://www.viva100.com/main/view.php?key=20240402010000832"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+                "title": "[4·10 총선] 포천가평, 후보 간 '고발전' 가열",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242750"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:01:00 +0900",
+                "title": "[열전 25시] 4월 2일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038046?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "음주운전에 관대한 총선…후보자 697명중 ‘음주 전과자’가 무려",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322209?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[총선동서남북] 국민의힘 중앙당, 공직선거법 위반혐의로 포천가평 민주당 후...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644978"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "국민의힘, 박윤국 포천·가평 민주당 후보 경찰에 고발",
+                "link": "http://www.kukinews.com/newsView/kuk202404020189"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "[4·10 총선] 국힘 김용태, 한수중 학생 환호받고 좋은 학교·좋은 시설 약속",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242672"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:36:00 +0900",
+                "title": "김영환  예타면제 법안 통과돼야 vs  경제자유구역으로 수요 높여야 ",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78666"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:28:00 +0900",
+                "title": "김용태 후보 선대위, 김영환 후보 공직선거법 위반 중앙선관위 신고",
+                "link": "https://www.geconomy.co.kr/news/article.html?no=283384"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:53:00 +0900",
+                "title": "고양정 국힘 김용태, ‘허위사실 유포’ 민주 김영환 선관위 신고",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452694?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:52:00 +0900",
+                "title": "김용태 고양시정 후보  아저씨가 좋은 학교, 좋은 시설 많이 만들어 줄게 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220078"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:50:00 +0900",
+                "title": "'내부순환 급행철도' 총선 공약 급부상 … '기동카'도 변수 [혼돈의 서울 표심...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200137.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:28:00 +0900",
+                "title": "[총선 D-8] 국민의힘 김용태 고양시정 후보, 한수중학교 학생들과 소통",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026265"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:04:00 +0900",
+                "title": "경기도 포천·가평 국힘 김용태 49.8% 민주당 박윤국 42.5%",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78903"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:36:00 +0900",
+                "title": "&lt;고양정 후보 토론회&gt; 김영환·김용태 주도권 토론",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78662"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:34:00 +0900",
+                "title": "[4·10 총선] 국힘 김용태, 민주당 김영환 후보 허위사실 유포 선관위 신고",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242629"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:58:00 +0900",
+                "title": "시민단체 파랑새 시민연대 대표, 더불어 민주당 김영환 고양정 후보 허위사실...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107252"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:56:00 +0900",
+                "title": "더불어민주당 김영환 고양정 후보  사실을 바로잡습니다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107250"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:02:00 +0900",
+                "title": "21곳 ‘혼전’... 경기도 쟁탈전 뜨겁다 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037998?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:08:00 +0900",
+                "title": "[미리보는 이데일리 신문]2000명 강조한 尹  통일안 내면 재논의 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704743?sid=101"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:34:00 +0900",
+                "title": "포천  연이은 언행 구설수  22대 총선 보수 텃밭이 흔들린다",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71266"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:58:00 +0900",
+                "title": "김용태 국힘 포천가평 후보  출산과 육아, 불평등과 격차 해소에 적극 나서겠...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644726"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "고양정 김용태, '허위사실유포' 민주당 김영환 선관위 신고",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99789"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:26:00 +0900",
+                "title": "[현장] 고양정 김용태 선대위, '민주당 김영환 선거법 위반' 신고",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "고양정 김용태 선대위,  민주당 김영환 선거법 위반  신고",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317398"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "고양정 김용태, 민주당 김영환 선거법 위반 신고... 김용태 낙선목적, 중대 범...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219968"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "포천·가평 김용태 후보  소상공인 출산휴가 지원 방안 마련할것 ",
+                "link": "http://www.kukinews.com/newsView/kuk202404010230"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:42:00 +0900",
+                "title": "'성남의 강남' 분당 접전에...민주당 '고무' 국민의힘 '비상'[권역별 판세 분...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288011?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:32:00 +0900",
+                "title": "[4·10 총선] 혼탁해진 포천가평 선거판…후보 발언 도마 위",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242480"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "국민의힘 경기·인천 후보들, 수도권 교통 무제한 ‘원패스 벨트’ 구축 시동",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401027333806"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "'총선 열기로 신경전 고조'...고양시 축사 허가 두고 후보 간 공방",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958260"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:08:00 +0900",
+                "title": "국민의힘 경기·인천 총선 후보들 '수도권 무제한교통권' 공동 공약",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242467"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:56:00 +0900",
+                "title": "국힘 김용태 후보, 포천 여성·청년들 만나···“아이와 부모가 행복한 세상...",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000337"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:44:00 +0900",
+                "title": "김영환 후보  가좌동 축사 관련 사실관계 착오  사과",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78633"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+                "title": "[총선] 개혁신당 포천·가평 최영록 후보, 김용태 후보를 '허위사실 공표' 혐...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014148"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:34:00 +0900",
+                "title": "패기의 與 청년vs관록의 野 지역일꾼…포천·가평 대격돌[르포]",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704389?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:24:00 +0900",
+                "title": "진실과 책임, 안전한 사회를 향한 대전시민들의 외침",
+                "link": "http://www.tongilnews.com/news/articleView.html?idxno=210368"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:01:00 +0900",
+                "title": "與 인천·경기 후보들 ‘수도권 무제한교통권’ 공동 공약",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629755?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:00:00 +0900",
+                "title": " 세월호 참사 10년, 진상규명 위해 다시 10년 시작할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428348?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:53:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037912?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:25:00 +0900",
+                "title": "[총선] 국민의힘 경기·인천 후보들 ‘수도권 무제한교통권’ 공동 공약",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692640?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:03:00 +0900",
+                "title": "[총선 D-9] 與 경기·인천 후보들 '수도권 무제한교통권' 공동 공약",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601949?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:58:00 +0900",
+                "title": "김용태 후보 포천·가평 총선 출정식 개최",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106926"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:56:00 +0900",
+                "title": "김용태 국민의힘 국회의원 후보 여성·청년 간담회",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851628"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "김영환 후보, “덕이동, 가좌동 교통문제 합리적 해결” 약속",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851541"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "김용태 후보, 출정식 갖고 “일산 도약, 분당 역전, 시민 인생 반전” 약속",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851547"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:36:00 +0900",
+                "title": "'덕이·가좌동 교통 문제 해결'...고양시정 민주당 김영환 후보 공약",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957800"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:30:00 +0900",
+                "title": "[총선] 김용태 후보, 박윤국 후보에 '허위사실 유포' 공개사과 요구",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:04:00 +0900",
+                "title": "[총선] 개혁신당 최영록 후보, 김용태 후보 허위사실 유포로 고발 예정",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014099"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "[총선] 국민의힘 포천·가평 김용태 후보, 꼬여버린 일정으로 '구설수'",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014094"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:00:00 +0900",
+                "title": " 내 집값이나 되돌려놔라  심판론도 필요 없다는 이곳 [총선 핫플레이스-고양...",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351123?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 02:54:00 +0900",
+                "title": "다가온 4·10총선… 보험업계 관심 끄는 후보자는",
+                "link": "http://www.insnews.co.kr/design_php/news_view.php?num=78319&firstsec=1&secondsec=11"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+                "title": "[총선] 국민의힘 김용태 후보 측, 안재웅 공동 선거대책위원장 인터뷰",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014074"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": "[기자수첩] 김용태 포천·가평 후보의 합장인사, 한국 정치의 '낯선 풍경'",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014073"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:28:00 +0900",
+                "title": "박윤국  김용태 뭘 믿고 지역 맡기나 검증된 내가 적임자 ",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081118"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:26:00 +0900",
+                "title": "포천·가평 김용태·박윤국 후보, 출정식 갖고 본격 레이스",
+                "link": "http://www.kukinews.com/newsView/kuk202403290245"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:04:00 +0900",
+                "title": "[이색 선거운동] 김용태 후보국민의힘 고양정(일산서구), 일산 호위무사로 발...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240331010009945"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:16:00 +0900",
+                "title": "[총선 동서남북] 포천·가평 국회의원 후보들 각각 출정식 갖고 '필승 다짐'",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644463"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:00:00 +0900",
+                "title": "인요한 국민의미래 선대위원장, 포천 5일장서 김용태 후보 지지 호소",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080971"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:46:00 +0900",
+                "title": "김용태 포천가평 국힘 후보, 박윤국 후보에 '허위사실 공표' 공개사과 요구",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037793?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:31:00 +0900",
+                "title": "인요한, 양주·포천 찾아 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037792?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:48:00 +0900",
+                "title": "[포토] 포천 가평 국민의힘 김용태 후보와 인요한 위원장 5일장 방문",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957351"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:22:00 +0900",
+                "title": "[총선 D-10] 국민의힘 김용태 고양정 후보, 호위무사들과 선거운동 '눈길'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025393"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:22:00 +0900",
+                "title": "김종혁·김용태 후보 “분담금 걱정 없는 재건축 추진·경제자유구역 확정”",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851007"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:28:00 +0900",
+                "title": "[4·10=STORY] '인요한 노쇼' 김용태 후보 캠프, 포천시민과 언론에 사과",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242207"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:04:00 +0900",
+                "title": "&lt;고양정 후보 토론회&gt; 김영환·김용태 이슈별 정책 비교",
+                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78613"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:56:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 승리 장담 못 하는 대혼전",
+                "link": "http://www.kbsm.net/news/view.php?idx=428047"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:42:00 +0900",
+                "title": "[총선 판세] 여론조사 격차 5%p 이내 '초박빙' 전국 30여곳 등 60여곳 대혼전...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474603"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:30:00 +0900",
+                "title": "더불어민주당 박윤국 후보 출정식 개최",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106636"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599984?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:51:00 +0900",
+                "title": "공식 선거운동 첫 주말…경기북부 표심 공략 '분주' [4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460590?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:22:00 +0900",
+                "title": "[22대총선] 고양시정 김용태 후보, 경제자유구역으로 일산 재도약 약속",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580223"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:18:00 +0900",
+                "title": "[4·10 총선] 포천시민도 언론도 속은 집중유세...국힘  미안하다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242199"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:26:00 +0900",
+                "title": "김용태 국민의힘 고양정 후보  일산 경제자유구역 확정 시 인구변동·산업유발...",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748424"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:40:00 +0900",
+                "title": "고양시정 김용태 후보, 28일 출정식  일산 도약, 분당 역전, 시민 인생 반전 ...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317253"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:22:00 +0900",
+                "title": "국민의힘 고양시정 김용태 후보, 출정식서  일산 도약․분당 역전․시민 인생...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219809"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:00:00 +0900",
+                "title": "김종혁·김용태 국민의힘 일산 후보,  분담금 걱정 없는 재건축 추진하고 경제...",
+                "link": "http://www.tournews21.com/news/articleView.html?idxno=68347"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:02:00 +0900",
+                "title": "민주당도 국민의힘도 싫은 '부동층' 잡을 정당은?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879904?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:30:00 +0900",
+                "title": "김용태 후보 포천·가평 총선 출정식…당선땐 '경기북부특별자치도'첫 법안 발...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080912"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:06:00 +0900",
+                "title": "김용태 후보,  당선되면 먼저 '경기북부특별자치도' 법안 발의 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850918"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:52:00 +0900",
+                "title": "[총선] 신현배 가평군 전 의원, 국민의힘 김용태 가평·포천후보 지지철회 선...",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014052"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1844381
+            }
+        ],
+        "huboid": "100153136",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4122/Hb100153136/junkwa/20240321132548543_9.PDF"
+    }
 ]

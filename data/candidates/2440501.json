@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-1.jpg",
-    "id": "2440501-1",
-    "재산": 1555462,
-    "생년월일": "19660925",
-    "경력": "(전) 문재인정부 청와대 의전비서관\n(전) 문재인정부 청와대 제1부속비서관",
-    "학력": "연세대학교 문과대학 영어영문학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2440501",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:22:00 +0900",
-        "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
-        "link": "https://tjmbc.co.kr/article/a3fpzQTBilR5"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:01:00 +0900",
-        "title": " 조국이 온다  들뜬 민주당 지역구 후보들…개딸은 '부글부글'",
-        "link": "https://n.news.naver.com/mnews/article/469/0000793736?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:04:00 +0900",
-        "title": " 재판 중 사안인데 한쪽 주장만 소개  … 선방위, MBC '김종배의 시선집중'에...",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100304.html"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "충남지역 환경단체  SMR 건설 입장 밝혀야 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307357"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "조한기",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1555462
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-2.jpg",
-    "id": "2440501-2",
-    "재산": 6659602,
-    "생년월일": "19630319",
-    "경력": "(전) 국민의힘 정책위의장\n(전) 독도사랑운동본부 총재",
-    "학력": "광운대학교 대학원 환경공학과 졸업(공학박사)",
-    "직업": "서산·태안 국회의원",
-    "성별": "남",
-    "id_21th": "1006",
-    "regionId": "2440501",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:22:00 +0900",
-        "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
-        "link": "https://tjmbc.co.kr/article/a3fpzQTBilR5"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:04:00 +0900",
-        "title": "‘응징’이란 이름으로…조국 ‘전국 투어’",
-        "link": "https://n.news.naver.com/mnews/article/032/0003288076?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:36:00 +0900",
-        "title": "플랜트건설노조  성일종 지지 사실 아니다 ",
-        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220786"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:20:00 +0900",
-        "title": "플랜트건설노조 “충남지부가 국민의힘 후보 지지? 분노 넘어 모욕” 공식 반...",
-        "link": "https://vop.co.kr/A00001650719.html"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:50:00 +0900",
-        "title": "성일종 국회의원 후보 '명품 한우특화마을 조성' 공약선물 배달",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265895"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "성일종",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 20954999
-      },
-      {
-        "연도": 2021,
-        "재산": 7679557
-      },
-      {
-        "연도": 2022,
-        "재산": 6668370
-      },
-      {
-        "연도": 2023,
-        "재산": 6659602
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-1.jpg",
+        "id": "2440501-1",
+        "재산": 1555462,
+        "생년월일": "19660925",
+        "경력": "(전) 문재인정부 청와대 의전비서관\n(전) 문재인정부 청와대 제1부속비서관",
+        "학력": "연세대학교 문과대학 영어영문학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2440501",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:13:00 +0900",
+                "title": "野 친문 후보들, 조국과 잇단 유세…강성지지층  우군 아닌 적군 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453837?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "조한기  이토 히로부미  vs 성일종  천안함은? ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307460"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "조한기 후보, 화물연대 충남 서부지부 정책협약 체결",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330506"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:46:00 +0900",
+                "title": "서산시, 화물연대 충남 서부지부 조한기 후보와 정책협약 체결",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852572"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:41:00 +0900",
+                "title": "서산태안 조한기, 민주노총 화물연대본부 충남 서부지부와 정책협약",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428551?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:27:00 +0900",
+                "title": "[4·10 총선 레이더] 조한기 서·태안 후보, 화물노동자 복지에 앞장서겠다",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085346?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": "[충청 총선]조한기 국회의원 후보-화물연대 충남 서부지부 정책협약 체결",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000744"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "[총선 D-8] 보령·서천서도 '공약 완료율' 공방…선관위에 서로 이의 제기",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604663?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:06:00 +0900",
+                "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
+                "link": "https://tjmbc.co.kr/article/2RuGKo3ruBE-_Yc"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:22:00 +0900",
+                "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
+                "link": "https://tjmbc.co.kr/article/a3fpzQTBilR5"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:01:00 +0900",
+                "title": " 조국이 온다  들뜬 민주당 지역구 후보들…개딸은 '부글부글'",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793736?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+                "title": " 재판 중 사안인데 한쪽 주장만 소개  … 선방위, MBC '김종배의 시선집중'에...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100304.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "충남지역 환경단체  SMR 건설 입장 밝혀야 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307357"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "조국 만나 사진 찍는 민주당 후보들 … 이재명 지지층  해당 행위  발끈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100203.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": " 총선 후보들은 SMR 건설 관련 입장 밝혀라 ",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:02:00 +0900",
+                "title": "마이크 사라지니 지지자들 축제…조국혁신당 선거운동 새 패러다임[동행취재③...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288785?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:39:00 +0900",
+                "title": "“그래도 성일종” “정부심판 조한기”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288749?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:40:00 +0900",
+                "title": "‘3번째 맞대결’ 서산·태안 민심은…“그래도 성일종” vs “정부심판, 조한...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288560?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:39:00 +0900",
+                "title": "[단독] “이미 잔도를 불살랐다”…오른손 불끈 거머쥔 ‘정치인 조국’이 깨...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288414?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+                "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:12:00 +0900",
+                "title": "'중원대첩' 28곳 막판 대혼전… 여야 돌발변수 촉각",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085102?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:38:00 +0900",
+                "title": "서산시 방문한 조국혁신당 '이토 히로부미' 언급",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851364"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "'스윙보터' 충청권 판세, 리턴매치에 달렸다",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022409"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:48:00 +0900",
+                "title": "서산태안 조한기  윤 정부 폭주 막을 적임자 ",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430812"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:34:00 +0900",
+                "title": "조용한 현장·발언보다 긴 포토타임…조국혁신당의 ‘이색’ 선거운동[현장르...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288313?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:22:00 +0900",
+                "title": "MBC'시선집중'·'뉴스데스크', 법정제재 '관계자 징계'...법정제재 8건 중 MB...",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78800"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:56:00 +0900",
+                "title": "민주 조한기후보 주말 맞아 서산·태안·안면 집중유세",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968286"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:00:00 +0900",
+                "title": "與  민주당의 막말·비하 DNA, 심판해달라 ",
+                "link": "http://www.metroseoul.co.kr/article/20240331500229"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:46:00 +0900",
+                "title": "성일종 국회의원 후보 측 ‘서산간척지 태양광 관련 허위사실 유포’ 조한기 ...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226468"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:54:00 +0900",
+                "title": "[총선리포트] 22대 총선 다가오면서 선거전 과열양상에 난타전?",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240331010009870"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:20:00 +0900",
+                "title": "[충청 총선] 허위사실 유포 … 서산·태안서 여야 간 고소 등 난타전",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009698"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:58:00 +0900",
+                "title": "[충청 총선]조한기 국회의원 후보, 주말 맞아 서산·태안·안면 집중유세",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009695"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:40:00 +0900",
+                "title": "불 뿜은 조한기  친일 본색 싹 자르겠다 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307255"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:11:00 +0900",
+                "title": " 조국은 하나? 조국 도와주냐  이재명 강성 지지자들 분노",
+                "link": "https://n.news.naver.com/mnews/article/015/0004966638?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:04:00 +0900",
+                "title": "조국  동지적 관계 …조한기  마음의 빚 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307248"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "충청권 12곳 중 민주당 6곳 우세",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034179?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:48:00 +0900",
+                "title": "조국, 서산 찾아 유권자에 지지 호소",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193608"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:36:00 +0900",
+                "title": "이재명 지지자 격분  복기왕 해당행위…조국혁신당 홍보물에 버젓이 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446554?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:02:00 +0900",
+                "title": "[4·10 총선 기획] 중원의 승부처 '충남'의 민심은?",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149984"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:00:00 +0900",
+                "title": "정진석  당선되면 국회의장  박수현  두 번 졌다, 기회달라  [4·10 총선 격전...",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047626?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:32:00 +0900",
+                "title": "민주당 후보 얼싸안은 조국  내가 서산을 방문한 이유는... ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428122?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력…③벌금 100만원 미만",
+                "link": "https://www.kpinews.kr/newsView/1065589147970335"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:18:00 +0900",
+                "title": "[나는 후보자다]서산·태안 조한기 vs 성일종…각오와 주요 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461443"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:38:00 +0900",
+                "title": " 허위사실 유포 …서산·태안서 여야 간 고소 등 난타전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014597432?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:46:00 +0900",
+                "title": "성일종 후보 측, '서산간척지 태양광 관련 허위사실 유포' 조한기 후보 경찰에...",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763896"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:24:00 +0900",
+                "title": "&lt;선거운동 첫날 이모저모&gt; 민주 조한기, '픽업트럭' 골목길 유세 눈길",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745907"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:03:00 +0900",
+                "title": "39곳 숙적 매치, 표심은 ‘갈대’… 정진석vs박수현 ‘세 번째 승부’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440622?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 02:26:00 +0900",
+                "title": "더불어민주당 충남 후보 11명, 열전 13일간의 본격 선거운동 돌입",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357898"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:56:00 +0900",
+                "title": "성일종 국민의힘 서산·태안 국회의원 후보 측, '서산간척지 태양광 관련 허위...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357894"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:38:00 +0900",
+                "title": "與  민주당 후보에 '천안함 망언 5적·갭투기·대장동변호사' ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644220"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:58:00 +0900",
+                "title": "[4·10 총선] 서산·태안 여야 고발전 가열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084828?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:58:00 +0900",
+                "title": "국민의힘, 민주당 후보들을 '자격 미달'...'천안함 망언 5적·갭투기·대장동...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317087"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:32:00 +0900",
+                "title": "'집값 폭등 주범' 민주당 … 후보들 줄줄이 '부동산 부패 추문' [N-포커스]",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/28/2024032800332.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:54:00 +0900",
+                "title": "공식 선거운동 첫날…3번째 맞대결 조한기·성일종 유세전 '치열'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461260"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:52:00 +0900",
+                "title": "성일종, 민주당 조한기 고발... 서산간척지 태양광 관련 허위사실 유포 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78686"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:42:00 +0900",
+                "title": "[충청 총선]성일종 국회의원 후보 측, '서산간척지 태양광 관련 허위사실 유포...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010009322"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:16:00 +0900",
+                "title": "국민의힘, 도덕성 논란 일으킨 민주당 공천 비판",
+                "link": "http://jmagazine.joins.com/monthly/view/339513"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:54:00 +0900",
+                "title": "국민의힘, 국민 우습게 하는 이재명표 안하무인 공천",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955588"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:42:00 +0900",
+                "title": "與  민주당, 천안함 망언 5적 공천 취소하라 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016888"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:26:00 +0900",
+                "title": "[4·10 총선] 성일종, 조한기 공식 선거 운동 돌입",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193505"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:08:00 +0900",
+                "title": "한국노총  박수현·조한기·장철민·어기구 등 지지 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307140"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:26:00 +0900",
+                "title": "홍석준, 선거 운동 시작일에 '민주당 공천' 직격",
+                "link": "https://www.sisaweek.com/news/articleView.html?idxno=213167"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+                "link": "https://www.naeil.com/news/read/505806?ref=naver"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:56:00 +0900",
+                "title": "민주 조한기, 서산·태안 골목선거운동 돌입",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769083"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:54:00 +0900",
+                "title": "국민의힘, 민주당 후보에  '천안함 망언 5적'‥'대장동 변호사' ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001339260?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:52:00 +0900",
+                "title": "[총선] 국민의힘 “민주당 후보에 ‘천안함 망언 5적·갭투기·대장동변호사’...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690488?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:44:00 +0900",
+                "title": "국민의힘, '천안함 망언·갭투기' 논란 등 민주당 후보 심판 호소... “자격 ...",
+                "link": "http://www.lawissue.co.kr/view.php?ud=202403281141021154b3279dfb36_12"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:41:00 +0900",
+                "title": "국민의힘  민주당 후보, '천안함 망언 5적·갭투기·대장동 변호사' ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142469?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:32:00 +0900",
+                "title": "與  민주당 후보에 '천안함 망언 5적·갭투기·대장동변호사' ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014594892?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:27:00 +0900",
+                "title": "서산태안 조한기  반드시 승리  - 성일종  3선 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427818?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:26:00 +0900",
+                "title": "[4·10 총선 레이더] 조한기 후보, 출근길 인사 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084754?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:20:00 +0900",
+                "title": "민주당 후보들 '막말', '갭투기', '대장동 변호' 비판한 국민의힘",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219598"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:08:00 +0900",
+                "title": "[선택4·10] 與, 민주 후보들 의혹 조목조목 비판  지금이라도 공천 취소해야...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067527"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:07:00 +0900",
+                "title": "국힘, 민주당 후보 하나하나 거론하며  국민대표 자격 없다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442274?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:58:00 +0900",
+                "title": "서산시, 선거 첫 날 충령각 참배하는 조한기 후보",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849812"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:58:00 +0900",
+                "title": "與, '늑장신고' 이용우·'갭투기' 김기표에  민주당 후보 자질미달 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701911?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:36:00 +0900",
+                "title": "서산·태안 조한기  새로운 역사 써 달라 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307113"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:40:00 +0900",
+                "title": "선거운동 시작한 조한기 후보",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105943"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:30:00 +0900",
+                "title": "[충청 총선]조한기 국회의원 후보, 공식 선거운동 시작",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010008962"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:20:00 +0900",
+                "title": "요동치는 총선 표심…의대정원 사태, 여당에 악영향",
+                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910133"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:03:00 +0900",
+                "title": "여야 ‘세종국회’ 손짓, R&amp;D 예산삭감 흉흉…승부처 충청 표심은?",
+                "link": "https://n.news.naver.com/mnews/article/028/0002682812?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:06:00 +0900",
+                "title": "(R)[선택 2024]'4전 5기 vs 3선 도전'..서산·태안 표심 어디로?",
+                "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/68111"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:08:00 +0900",
+                "title": "[충청 총선]조한기 총선 후보 유권자 표심 얻기에 최선",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240327010008867"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:50:00 +0900",
+                "title": "[단독] '불법건축물'이 이태원참사 키웠는데 … '진상규명' 조한기, 마포 건물...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/27/2024032700231.html"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:53:00 +0900",
+                "title": "윤재옥  천안함 '망언 5적' 사죄하라…인천에만 2명 출마 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007439674?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:52:00 +0900",
+                "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:38:00 +0900",
+                "title": "한동훈·윤재옥, 민주당 '망언' 맹폭… 이재명, 하루 하나씩 망언 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315108"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:07:00 +0900",
+                "title": "[총선여론] 대전, 국힘  2곳 경합우위  민주  3곳 우세 .. 여야, 충청권 과반...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640688"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:44:00 +0900",
+                "title": "서산·태안 조한기 후보 청년선대본부 발대식",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768956"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:36:00 +0900",
+                "title": "서산·태안 조한기 지지자 200명 공명선거감시단 활동",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=768954"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:20:00 +0900",
+                "title": "[북 소행 부인 '망언5적' 규탄] 천안함 유족들 '피끓는 호소'",
+                "link": "http://www.economytalk.kr/news/articleView.html?idxno=252721"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:42:00 +0900",
+                "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "조한기",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1555462
+            }
+        ],
+        "huboid": "100151030",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4405/Hb100151030/junkwa/20231212094547439_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-2.jpg",
+        "id": "2440501-2",
+        "재산": 6659602,
+        "생년월일": "19630319",
+        "경력": "(전) 국민의힘 정책위의장\n(전) 독도사랑운동본부 총재",
+        "학력": "광운대학교 대학원 환경공학과 졸업(공학박사)",
+        "직업": "서산·태안 국회의원",
+        "성별": "남",
+        "id_21th": "1006",
+        "regionId": "2440501",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:26:00 +0900",
+                "title": "성일종 국민의힘 국회의원 후보, 서산·태안 전통시장과 중심가 집중유세 진행",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359302"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "서산태안 국힘 성일종  명품 스포츠센터 건립 ",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792567"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:51:00 +0900",
+                "title": "성일종  태안군민들과 함께 영광의 시대 열 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428625?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:39:00 +0900",
+                "title": "국민의힘 당사 난입한 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/020/0003556852?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "조한기  이토 히로부미  vs 성일종  천안함은? ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307460"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:19:00 +0900",
+                "title": "'국민의힘 당사 난입' 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018116?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:12:00 +0900",
+                "title": "성일종 '이토 히로부미' 발언에 與 당사 난입…대학생 2명 '구속기소'",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075775?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "성일종  한우특화마을 조성으로 전국서 관광객 불러 모을 것 ",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220159"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:09:00 +0900",
+                "title": "'국민의힘 당사 난입' 대진연 회원 2명 구속 기소",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020578?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "한국공인중개사협회 서산시지회, 국민의힘 성일종 국회의원 후보 지지 선언",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359200"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:25:00 +0900",
+                "title": "'국민의힘 당사 난입' 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143878?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:19:00 +0900",
+                "title": "‘국힘 당사 난입’ 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322245?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:15:00 +0900",
+                "title": "국민의힘 당사 무단 난입한 대진연 회원 2명 재판행",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288244?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:07:00 +0900",
+                "title": "“성일종 사퇴” 국힘 당사 무단 진입한 대학생 구속 기소",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683612?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+                "title": "“성일종 사퇴”… ‘與 당사 난입’ 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685622?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+                "title": " 성일종 사퇴하라 ...국힘 당사 난입 대진연 회원 2명, 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165721?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:54:00 +0900",
+                "title": "'국민의힘 당사 진입' 대진연 회원 2명 구속 기소",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466784?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:54:00 +0900",
+                "title": "'이토히로부미 발언 규탄' 국민의힘 당사 난입 대학생 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340237?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:52:00 +0900",
+                "title": "성일종 후보, '국제 규격 수영장 포함 명품 스포츠센터 건립' 공약선물 배달",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330493"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:48:00 +0900",
+                "title": " 성일종 사퇴하라  국힘 당사 무단 난입한 대진연 회원 재판행",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400704?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:44:00 +0900",
+                "title": "'국민의힘 당사 난입' 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880955?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "성일종 국회의원 후보  국제 규격 수영장 포함 명품 스포츠센터 건립  공약선...",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266147"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:39:00 +0900",
+                "title": " 성일종 사퇴하라 … '국힘 당사 난입' 대진연 2명 재판行",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993636?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:36:00 +0900",
+                "title": "성일종 국민의힘 서산·태안 국회의원 후보, 열한 번째 공약선물 배달",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359154"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": " 성일종 사퇴하라 …'국힘 당사 난입' 대진연 2명 재판행",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967723?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:25:00 +0900",
+                "title": "‘국힘 당사 난입’ 구속된 대진연 회원 2명 재판行",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825949?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:25:00 +0900",
+                "title": "검찰, ‘국힘 당사 난입’ 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705309?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:22:00 +0900",
+                "title": "국민의힘 당사 난입한 대진연 소속 대학생 2명 구속 기소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453351?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "한국공인중개사협회 서산시 지회,  국민의힘 성일종 후보 지지 선언 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317510"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+                "title": "'국민의힘 당사 난입' 대진연 회원 2명 구속기소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605532?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:11:00 +0900",
+                "title": "[4·10 총선 레이더] 서산공인중개사협, 국힘 성일종 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085359?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "한국공인중개사협회 서산시 지회,국민의힘 성일종 후보 지지 선언",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764547"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:46:00 +0900",
+                "title": "한국공인중개사협회 서산시 지회, 성일종 후보 지지",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852590"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "[4·10 총선] 성일종 후보   국제 규격 수영장 포함 명품 스포츠센터 건립   ...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085332?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:22:00 +0900",
+                "title": "국민의힘 성일종 후보, 국제 규격 수영장 스포츠센터 건립 공약",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021119161270058"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:30:00 +0900",
+                "title": "[충청 총선]성일종 국회의원 후보,  국제 규격 수영장 포함 명품 스포츠센터 ...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000707"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:22:00 +0900",
+                "title": "[선택4·10]성일종 후보,  태안 남부권에 국제 규격 수영장 등 명품 스포츠센...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069238"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:10:00 +0900",
+                "title": "[제22대 총선] 성일종 후보, 10번째 공약 “명품 한우특화마을 조성할 것”",
+                "link": "https://hobbyen-news.com/news/view/1065578687330747"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:51:00 +0900",
+                "title": "[총선 D-8] 보령·서천서도 '공약 완료율' 공방…선관위에 서로 이의 제기",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604663?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:42:00 +0900",
+                "title": "국힘 성일종 후보,  국제 규격 수영장 포함 명품 스포츠센터 건립  공약 발표",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764441"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:58:00 +0900",
+                "title": " 쓰레기   후진 놈 …거칠어지는 한동훈의 입, 왜?",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400476?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:06:00 +0900",
+                "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
+                "link": "https://tjmbc.co.kr/article/2RuGKo3ruBE-_Yc"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:22:00 +0900",
+                "title": "[리포트]서산·태안..'세 번째 맞대결' 후",
+                "link": "https://tjmbc.co.kr/article/a3fpzQTBilR5"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:04:00 +0900",
+                "title": "‘응징’이란 이름으로…조국 ‘전국 투어’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288076?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:36:00 +0900",
+                "title": "플랜트건설노조  성일종 지지 사실 아니다 ",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220786"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:20:00 +0900",
+                "title": "플랜트건설노조 “충남지부가 국민의힘 후보 지지? 분노 넘어 모욕” 공식 반...",
+                "link": "https://vop.co.kr/A00001650719.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:50:00 +0900",
+                "title": "성일종 국회의원 후보 '명품 한우특화마을 조성' 공약선물 배달",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "4·10 총선 D-9 자체 '판세' 살펴보니…與 '강원 5곳' 野 대전·세종 등 '금강...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219948"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:38:00 +0900",
+                "title": "성일종 후보 10호 공약 '명품 한우특화마을 조성'",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851929"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": "조국의 “응징 투어”가 간다…안철수·김은혜·신범철·이정만 등 공통점은?",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287984?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": " 총선 후보들은 SMR 건설 관련 입장 밝혀라 ",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022552"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+                "title": "서산시, 플랜트노조 충남지부 성일종 후보 지지 공식 '반박'",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851556"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:16:00 +0900",
+                "title": "성일종 국민의힘 서산·태안국회의원 후보, 열 번째 공약선물 배달",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358665"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:46:00 +0900",
+                "title": "[충청 총선]성일종 국회의원 후보,  명품 한우특화마을 조성  공약선물 배달",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000231"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:39:00 +0900",
+                "title": "“그래도 성일종” “정부심판 조한기”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288749?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:59:00 +0900",
+                "title": "[4·10 총선 레이더] 성일종이 그리면 현실이 된다! '명품 한우 특화 마을 조...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085145?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:48:00 +0900",
+                "title": "성일종 후보,  명품 한우특화마을 조성  공약",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764204"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:34:00 +0900",
+                "title": "[4·10 총선] 성일종이 그리면 현실이 된다! 이원-대산 도로 연결 공약",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085130?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "성일종 후보, '이원-대산 도로연결' 공약 발표",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764141"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "성일종 후보,  서산 동부권 문화탐방 테마파크 조성  공약 발표",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764140"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:40:00 +0900",
+                "title": "‘3번째 맞대결’ 서산·태안 민심은…“그래도 성일종” vs “정부심판, 조한...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288560?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:50:00 +0900",
+                "title": "의정 갈등, 과거엔 어땠나? | 의대 증원 놓고 의협 '반대', 여야 필요성 공감...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19432&Newsnumb=20240419432"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "후원 회장부터 출마 선언까지… 총선판 누비는 폴리테이너들",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441049?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:30:00 +0900",
+                "title": "[충청 총선]성일종 국회의원 후보,  이원-대산 도로연결  공약선물 배달",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240331010010020"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:23:00 +0900",
+                "title": "화력발전 폐지 지역 총선 공약은 ‘산업전환·인구감소 막기’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683305?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:12:00 +0900",
+                "title": "'중원대첩' 28곳 막판 대혼전… 여야 돌발변수 촉각",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085102?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "서산태안 국힘 성일종  문화탐방 테마파크 조성 ",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792197"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:19:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감…야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441012?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:09:00 +0900",
+                "title": "총선 무대 오르는 ‘폴리테이너’…현장 유세부터 출마까지",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441010?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "'스윙보터' 충청권 판세, 리턴매치에 달렸다",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022409"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:12:00 +0900",
+                "title": "성일종  이원~대산 도로연결, 해저터널도 검토 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307277"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:48:00 +0900",
+                "title": "성일종 후보  서산 동부권 문화탐방 테마파크 조성  공약",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430811"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:22:00 +0900",
+                "title": "MBC'시선집중'·'뉴스데스크', 법정제재 '관계자 징계'...법정제재 8건 중 MB...",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78800"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:56:00 +0900",
+                "title": "국힘 성일종 후보  서산 동부권 문화탐방 테마파크 조성  공약",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968285"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:26:00 +0900",
+                "title": "성일종 국민의힘 서산·태안 국회의원 후보, 아홉 번째 공약선물 배달",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358367"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:46:00 +0900",
+                "title": "성일종 국회의원 후보 측 ‘서산간척지 태양광 관련 허위사실 유포’ 조한기 ...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226468"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:16:00 +0900",
+                "title": "[4·10 총선] 성일종 국회의원 후보   서산 동부권 문화탐방 테마파크 조성  ...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085039?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:02:00 +0900",
+                "title": "[4·10 총선] 성일종 후보, '가로림만 국가해양정원 조성' 공약",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085034?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:54:00 +0900",
+                "title": "[총선리포트] 22대 총선 다가오면서 선거전 과열양상에 난타전?",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240331010009870"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:32:00 +0900",
+                "title": "성일종, 서산 동부권 문화탐방 테마파크 조성",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769267"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:20:00 +0900",
+                "title": "[충청 총선] 허위사실 유포 … 서산·태안서 여야 간 고소 등 난타전",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009698"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:08:00 +0900",
+                "title": "[충청 총선]성일종 국회의원 후보,  서산 동부권 문화탐방 테마파크 조성  공...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009697"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 23:04:00 +0900",
+                "title": "[충청 총선]민주노총 플랜트건설노조 충남지부 임원 및 회원 , 국민의힘 성일...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240330010009696"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:42:00 +0900",
+                "title": "성일종  서산 동부권에 전 세계 관광객 불러 모을 것 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307259"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:22:00 +0900",
+                "title": "전국플랜트건설노동조합 충남지부, 성일종 서산·태안 국회의원 후보 보도자료...",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358334"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:36:00 +0900",
+                "title": "성일종 국민의힘 서산·태안 국회의원 후보, 여덟 번째 공약선물 배달",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358333"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:40:00 +0900",
+                "title": "불 뿜은 조한기  친일 본색 싹 자르겠다 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307255"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:04:00 +0900",
+                "title": "조국  동지적 관계 …조한기  마음의 빚 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307248"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:06:00 +0900",
+                "title": "[사진] 조국  윤 정권에 책임 있는 사람들이 나온 지역 골라 다닐 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428138?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "성일종",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 20954999
+            },
+            {
+                "연도": 2021,
+                "재산": 7679557
+            },
+            {
+                "연도": 2022,
+                "재산": 6668370
+            },
+            {
+                "연도": 2023,
+                "재산": 6659602
+            }
+        ],
+        "huboid": "100152908",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4405/Hb100152908/junkwa/20240320215130312_1.PDF"
+    }
 ]

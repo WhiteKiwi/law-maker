@@ -1,126 +1,1080 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481403-1.jpg",
-    "id": "2481403-1",
-    "재산": 307769,
-    "생년월일": "19590410",
-    "경력": "(현)국회의원(제20대, 제21대)\n(전)제34대 경상남도지사",
-    "학력": "동아대학교 정치외교학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "995",
-    "regionId": "2481403",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[KBS창원, 지난달 28~30일 여론조사] 창원성산 허성무 38% - 강기윤 27% - 여...",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429103"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:35:00 +0900",
-        "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693019?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:00:00 +0900",
-        "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692875?sid=100"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김두관",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 542700
-      },
-      {
-        "연도": 2021,
-        "재산": 563256
-      },
-      {
-        "연도": 2022,
-        "재산": 444745
-      },
-      {
-        "연도": 2023,
-        "재산": 307769
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481403-2.jpg",
-    "id": "2481403-2",
-    "재산": 1476752,
-    "생년월일": "19620821",
-    "경력": "(현)제21대 국회의원\n(전)제32대·제33대 경상남도도지사",
-    "학력": "서울대학교 대학원 졸업(교육학박사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "297",
-    "regionId": "2481403",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[KBS창원, 지난달 28~30일 여론조사] 창원성산 허성무 38% - 강기윤 27% - 여...",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429103"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:35:00 +0900",
-        "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693019?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:00:00 +0900",
-        "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692875?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김태호",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 754122
-      },
-      {
-        "연도": 2021,
-        "재산": 1128777
-      },
-      {
-        "연도": 2022,
-        "재산": 1281463
-      },
-      {
-        "연도": 2023,
-        "재산": 1476752
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481403-1.jpg",
+        "id": "2481403-1",
+        "재산": 307769,
+        "생년월일": "19590410",
+        "경력": "(현)국회의원(제20대, 제21대)\n(전)제34대 경상남도지사",
+        "학력": "동아대학교 정치외교학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "995",
+        "regionId": "2481403",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+                "title": "양산을 여야 후보 '노동자 친화' 유세 행보",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549696"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:52:00 +0900",
+                "title": "김두관 민주당 양산을 국회의원 후보, 화물연대 부산지역본부와 정책협약 체결...",
+                "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91141"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:16:00 +0900",
+                "title": "이재명 민주당 대표, 3일 경남 창원 찾아 허성무 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467501?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:44:00 +0900",
+                "title": "“도지사 선거 개입” - “선거 무관 도정 현안 점검”",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429211"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "[뉴스인사이트] 부패·투기꾼·몰염치 판치는데…거대 양당은 공천 '자화자찬...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "[4·10 총선 현장] 동구미추홀구 갑 양당 후보, 네거티브 공방 격화",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242832"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "총선 앞두고 유통 '파격 공약' 봇물… 여야 정당들 '물가안정'에 주력",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125340"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:04:00 +0900",
+                "title": "박완수 경남도지사 양산 방문 놓고, ‘왜곡 깊은 유감(경남도)’ vs ‘노골적...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263349?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:01:00 +0900",
+                "title": "野 김두관, 경남지사 양산방문  선거개입  주장에...경남도  선거법 저촉 안돼...",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825410?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "양산을 김두관 후보, 화물연대 부산지역본부와 정책협약",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388472"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "박완수 경남도지사 양산 방문에 김두관 '선거개입' 비판",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907904"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:13:00 +0900",
+                "title": "민주당, 경남지역 총력 지원 유세전…이재명·김부겸·임종석 줄이어",
+                "link": "https://www.kpinews.kr/newsView/1065598534647423"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:12:00 +0900",
+                "title": " 천공 본명 이천공·의대 2000명·이천수…  황당 음모론 확산",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765377"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:08:00 +0900",
+                "title": "김두관, 민주노총 화물연대와 정책협약 체결",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907910"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "보수 텃밭 '부울경' 40곳 중 14곳 '박빙' ... 낙동강벨트 외 지역구도 '위기'",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409479"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+                "title": "조국·문재인 참전한 '낙동강 전선'...국민의힘 '100석 마지노선 지켜라' 안간...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288261?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "[총선판세]더 이상 보수 텃밭 아니다…부울경 40곳 중 14곳 '박빙'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453668?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:18:00 +0900",
+                "title": "'경남 양산을' 민주당 김두관 40% vs 與 김태호 38%…오차범위 내",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020520?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:08:00 +0900",
+                "title": "도지사 양산 방문 논란…김두관  일정 취소해야  vs 경남도  직무상 행위 ",
+                "link": "https://www.kpinews.kr/newsView/1065595115904956"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:00:00 +0900",
+                "title": "양산을 김두관 후보, 화물연대 부산지역본부와 정책협약",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959335"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+                "title": "[경남 양산을] 더불어민주당 김두관 40%, 국민의힘 김태호 38%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428581?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:53:00 +0900",
+                "title": "박완수 도지사 '격전지 양산' 방문에 민주 '예민', 경남도 '발끈'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880963?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "부산·경남 최대 격전지 양산을, '김두관 40% vs 김태호 38%' … 오차 내 접전",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409467"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:45:00 +0900",
+                "title": "금속노조 경남지부는 여영국, 한국노총 서부지부는 민주당 지지",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428576?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "[4.10총선-208] 경남 양산을, 김두관vs김태호",
+                "link": "http://www.mhj21.com/160265"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:11:00 +0900",
+                "title": "'낙동강벨트' 양산을, 김두관 40%·김태호 38%…오차 내 접전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453312?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:08:00 +0900",
+                "title": "부산MBC 초청 ′양산을′ 토론회 오늘 생방송",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262731"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:04:00 +0900",
+                "title": "[엠브레인퍼블릭] 경남 양산을, 민주 김두관 40% 국힘 김태호 38% 초접전",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347791"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:59:00 +0900",
+                "title": " 천공 본명 이천공·의대 2000명·이천수…  황당 음모론 확산",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967715?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:57:00 +0900",
+                "title": "박완수 양산 방문 '선거개입' 주장에 경남도  선거법 저촉 안돼 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428558?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:42:00 +0900",
+                "title": "두자릿수 차이도 빈번… 들쑥날쑥 여론조사에 ‘혼란’",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982682?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "박완수 경남도지사 양산방문···김두관 후보측 '선거개입' 반발",
+                "link": "https://www.busaneconomy.com/news/articleView.html?idxno=310795"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "[엠브레인] '양산을' 김두관 40% vs 김태호 38%",
+                "link": "http://www.viewsnnews.com/article?q=218870"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "경남 양산을 국민의힘 김태호 [달려라Y]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017978?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:10:00 +0900",
+                "title": "'비주류 잠룡' 임종석·유승민, 총선 지원사격 온힘",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84594"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "도지사 출신 ‘관호대전’… 김두관 40%·김태호 38% 초접전",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629969?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:49:00 +0900",
+                "title": "경남지사 출신 ‘관호대전’… 양산을 1~2%P차 승부",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629931?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:46:00 +0900",
+                "title": "김두관 “윤정부 민생 망쳐” vs 김태호 “예산 많이 따올것”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629916?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:42:00 +0900",
+                "title": "비명도 뭉친 민주당...임종석·박용진에 文도 전면 등판",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289398?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:24:00 +0900",
+                "title": "[경남 양산을 여론조사] 민주 김두관 47%·국힘 김태호 33%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959024"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:19:00 +0900",
+                "title": "부산 기장군 여야 후보들 ‘정관선 예타’ 두고 논란",
+                "link": "https://n.news.naver.com/mnews/article/382/0001117173?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:13:00 +0900",
+                "title": "비명도 뭉친 민주당…임종석-박용진에 文도 전면 등판[이런정치]",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289312?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:42:00 +0900",
+                "title": "경남 양산을 민주당 김두관 [달려라Y]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017909?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:35:00 +0900",
+                "title": "경남 양산을, 김두관 47% 對 김태호 33%…조국당 영향?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075718?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:32:00 +0900",
+                "title": "[동부 경남 격전지 여론조사 ③] 창원 성산, 양산을 민주당 우세...경남도 디...",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307407"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:30:00 +0900",
+                "title": "[4·10 지지율] 與, 이준석계 없어도 ‘新 표밭’ 단 1곳도…野 ‘압승’ 구도...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021287283"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:38:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693325?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:06:00 +0900",
+                "title": "문 전 대통령 “평생 이렇게 못하는 정부 처음…무지·무능·무도”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288127?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:49:00 +0900",
+                "title": "'총선 D-8' 유통 관련 공약은…규제 완화 빠지고  서민·물가 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451641?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:45:00 +0900",
+                "title": "문재인  70 평생 이렇게 못하는 정부는 처음, 무지·무능·무도  [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165274?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 04:09:00 +0900",
+                "title": "文 “이렇게 못하는 정부는 처음”… 사실상 선거 뛰어든 前 대통령",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685466?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "경남여성단체 정책 질의서에 출마자 12명만 응답",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429094"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[KBS창원, 지난달 28~30일 여론조사] 창원성산 허성무 38% - 강기윤 27% - 여...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429103"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:35:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693019?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:00:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692875?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+                "title": "[배종찬 칼럼]  바보야, 총선 운명 승부처는 세대별 투표율이야 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864840?sid=110"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:36:00 +0900",
+                "title": "[경남 양산을] 더불어민주당 김두관 47%, 국민의힘 김태호 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428434?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:23:00 +0900",
+                "title": "문재인 “70 평생 이렇게 못하는 정부는 처음, 무지·무능·무도”···총선...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:08:00 +0900",
+                "title": "문재인, 낙동강 벨트 민주당 후보 지지 행보 넓힌다",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907797"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "[①격전지를 가본다 : 낙동강 벨트 - 김두관 VS 김태호]",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7262"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "기장군 정관선 예타 논란, 정동만  문턱 닳도록 설득 … 최택용  '때'가 돼서...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000667"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "[총선 격전지 여론조사-낙동강벨트] 부산·경남...최대 접전 양상 '팽팽'",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237903"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "국민의힘 경남도당, 민주당 이장 비하 발언 강력 비판",
+                "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=620606"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:00:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692791?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:59:00 +0900",
+                "title": "4년 전 총선 이후 ‘부정선거’ 소송 126건…법원 인정 1건도 없어",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683446?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "파란 옷의 문재인, '옛 지역구' 부산 사상서 배재정과 벚꽃 나들이",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019944?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:23:00 +0900",
+                "title": "김두관 “선거운동 기간 대통령의 불통 모습…이렇게 감사할 때가”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288931?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+                "title": "[총선, 이사람] ‘양산을 수성’ 김두관 “KTX사업부터 마무리… 부울경 메가...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982415?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:21:00 +0900",
+                "title": "[더뉴스] 尹  의료 2천 명 증원은 최소 규모 ...대국민담화 영향은?",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017640?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:20:00 +0900",
+                "title": "김두관  윤 대통령, 노골적 선거개입 하겠다는 것이냐 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428368?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "[배종찬 칼럼] 세대별 투표율에 총선 운명달린 한동훈·이재명·조국",
+                "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=96057"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:08:00 +0900",
+                "title": "기장군 정관선 예타 논란-정동만 “문턱 닳도록 설득”... 최택용 “‘때’가...",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851731"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:13:00 +0900",
+                "title": "부산 기장군 후보들 '정관선 예타' 선거공보 두고 논란",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515272"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:00:00 +0900",
+                "title": "김태호  8년간 뭘했나 …김두관  25년 숙원 성사 직전 ",
+                "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=107310"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:58:00 +0900",
+                "title": "여야 후보, 토론회서 문화예술의전당 두고 '설전'",
+                "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=107308"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:24:00 +0900",
+                "title": "[4‧10총선] '1당 지위' 어느 당이 차지할까",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086734"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:06:00 +0900",
+                "title": "'문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428299?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:02:00 +0900",
+                "title": "[총선 D-9] 무소속 김성남 고양갑 후보, 시민유권자운동본부 선정 '좋은 후보...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025726"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:20:00 +0900",
+                "title": "'PK 비상령' 국힘 VS '총력 동진' 민주...부‧울‧경, 총선 최대 승부처 부상",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486169"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:24:00 +0900",
+                "title": "[논평]  출판기념회 자금거래 제한하고 내역 공개해야 ",
+                "link": "http://www.nongaek.com/news/articleView.html?idxno=87425"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:01:00 +0900",
+                "title": "[단독]'편법대출 논란' 양문석, 또 노무현 비판 칼럼…참여정부 인사도 싸잡아...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164567?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:01:00 +0900",
+                "title": "유승민·박용진·임종석…총선 열흘 앞두고 비주류도 뛴다",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321273?sid=104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:36:00 +0900",
+                "title": "양산 을…‘전직 도지사’ 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692446?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:03:00 +0900",
+                "title": "서울 용산·부산 남구 초접전…총선 승부 가를 ‘3대강 벨트’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683319?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "[총선 격전지 인터뷰] 경남 양산을,  영남 총선 핵심 사수  vs  나라를 위한 ...",
+                "link": "https://www.ajunews.com/view/20240331145406536"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:01:00 +0900",
+                "title": "[총선 격전지] ‘전직 경남지사’ 대결 양산을… “추진력 甲 김태호” vs “...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982195?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+                "title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+                "title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "양산 을…‘전직 도지사’ 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692291?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:38:00 +0900",
+                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "與 지도부 PK 잇단 방문…집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070044?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:11:00 +0900",
+                "title": "'낙동강벨트' 부산 북갑 野 우세…양산을 '관호대전'은 초박빙",
+                "link": "https://n.news.naver.com/mnews/article/015/0004966878?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:46:00 +0900",
+                "title": "[4·10 총선 D-9] 막판 치닫자 혼탁… 역대급 `황사 선거`",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864567?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:06:00 +0900",
+                "title": "254곳 중 20곳, 늘어난 초접전지역… 50곳이 승패 좌우 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919690?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:58:00 +0900",
+                "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:56:00 +0900",
+                "title": "민주당 200석 막아낼 마지노선...흔들리는 '낙동강 벨트' 판세 분석",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78809"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:50:00 +0900",
+                "title": "[이슈분석] 낙동강벨트에 부는 '파란 바람'… 흔들리는 PK 민심",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193819?sid=100"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김두관",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 542700
+            },
+            {
+                "연도": 2021,
+                "재산": 563256
+            },
+            {
+                "연도": 2022,
+                "재산": 444745
+            },
+            {
+                "연도": 2023,
+                "재산": 307769
+            }
+        ],
+        "huboid": "100152427",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4814/Hb100152427/junkwa/20240126134350720_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481403-2.jpg",
+        "id": "2481403-2",
+        "재산": 1476752,
+        "생년월일": "19620821",
+        "경력": "(현)제21대 국회의원\n(전)제32대·제33대 경상남도도지사",
+        "학력": "서울대학교 대학원 졸업(교육학박사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "297",
+        "regionId": "2481403",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+                "title": "양산을 여야 후보 '노동자 친화' 유세 행보",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549696"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+                "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:16:00 +0900",
+                "title": "이재명 민주당 대표, 3일 경남 창원 찾아 허성무 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467501?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:10:00 +0900",
+                "title": " 김태호 후보, 외식업 규제 풀 역량 갖춰 ",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538382"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:42:00 +0900",
+                "title": "대한미용사회 양산시지부,양산을  김태호 지지선언  잇따라",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959578"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+                "title": "전국 곳곳 초접전…민주 “50~70곳 백중세”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271640?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:09:00 +0900",
+                "title": "[총선 브리핑] “양산 산단을 행복하고 안전한 일터로 바꾸겠습니다”...김태...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263384?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+                "title": "'수성이냐 탈환이냐'…PK 10곳 대혼전",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225680&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:04:00 +0900",
+                "title": "박완수 경남도지사 양산 방문 놓고, ‘왜곡 깊은 유감(경남도)’ vs ‘노골적...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263349?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:01:00 +0900",
+                "title": "野 김두관, 경남지사 양산방문  선거개입  주장에...경남도  선거법 저촉 안돼...",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825410?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "양산을 김태호 후보, 8호 공약 '행복안전 산단 만들기 10대 공약' 발표",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388466"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+                "title": "김태호 후보, '행복안전 산단 만들기 10대 공약' 발표",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326113?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "박완수 경남도지사 양산 방문에 김두관 '선거개입' 비판",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907904"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:30:00 +0900",
+                "title": "김태호  문재인, 정치 개입 말라...내로남불의 극치  [Y녹취록]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018126?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:08:00 +0900",
+                "title": "김태호, 행복안전 양산 산단 만들기 10대 공약 발표",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907907"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:08:00 +0900",
+                "title": "외식업중앙회 양산시지부, 김태호 지지 선언",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907909"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "보수 텃밭 '부울경' 40곳 중 14곳 '박빙' ... 낙동강벨트 외 지역구도 '위기'",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409479"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+                "title": "조국·문재인 참전한 '낙동강 전선'...국민의힘 '100석 마지노선 지켜라' 안간...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288261?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+                "title": "'흔들리는' PK 민심 누구에게 쏠릴까?",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99833"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:56:00 +0900",
+                "title": "더 세진 정권심판론, '초박빙' 접전 지역 사라진다",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852818"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "[총선판세]더 이상 보수 텃밭 아니다…부울경 40곳 중 14곳 '박빙'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453668?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:18:00 +0900",
+                "title": "'경남 양산을' 민주당 김두관 40% vs 與 김태호 38%…오차범위 내",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020520?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "흔들리는 'PK'···'낙동강 벨트' 따라 접전지 확산",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107585"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:08:00 +0900",
+                "title": "도지사 양산 방문 논란…김두관  일정 취소해야  vs 경남도  직무상 행위 ",
+                "link": "https://www.kpinews.kr/newsView/1065595115904956"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+                "title": "[경남 양산을] 더불어민주당 김두관 40%, 국민의힘 김태호 38%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428581?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "[포털뉴스 3월 넷째주] 빨리 떴다 빨리 사라진 '국회 세종 이전'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428578?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "부산·경남 최대 격전지 양산을, '김두관 40% vs 김태호 38%' … 오차 내 접전",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409467"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:42:00 +0900",
+                "title": "[4.10총선-208] 경남 양산을, 김두관vs김태호",
+                "link": "http://www.mhj21.com/160265"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:11:00 +0900",
+                "title": "'낙동강벨트' 양산을, 김두관 40%·김태호 38%…오차 내 접전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453312?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:08:00 +0900",
+                "title": "부산MBC 초청 ′양산을′ 토론회 오늘 생방송",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262731"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:04:00 +0900",
+                "title": "[엠브레인퍼블릭] 경남 양산을, 민주 김두관 40% 국힘 김태호 38% 초접전",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347791"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:57:00 +0900",
+                "title": "박완수 양산 방문 '선거개입' 주장에 경남도  선거법 저촉 안돼 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428558?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:42:00 +0900",
+                "title": "두자릿수 차이도 빈번… 들쑥날쑥 여론조사에 ‘혼란’",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982682?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:28:00 +0900",
+                "title": "양산을 김태호 후보, 8호 공약 '행복안전 산단 만들기 10대 공약' 발표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959202"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "이창근 후보, 하남 '택시 총량제 재산정' 시급",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788135"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:34:00 +0900",
+                "title": "[엠브레인] '양산을' 김두관 40% vs 김태호 38%",
+                "link": "http://www.viewsnnews.com/article?q=218870"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:30:00 +0900",
+                "title": "경남 양산을 국민의힘 김태호 [달려라Y]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017978?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "도지사 출신 ‘관호대전’… 김두관 40%·김태호 38% 초접전",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629969?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:49:00 +0900",
+                "title": "경남지사 출신 ‘관호대전’… 양산을 1~2%P차 승부",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629931?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:46:00 +0900",
+                "title": "김두관 “윤정부 민생 망쳐” vs 김태호 “예산 많이 따올것”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629916?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:24:00 +0900",
+                "title": "[경남 양산을 여론조사] 민주 김두관 47%·국힘 김태호 33%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959024"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:42:00 +0900",
+                "title": "경남 양산을 민주당 김두관 [달려라Y]",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017909?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:35:00 +0900",
+                "title": "경남 양산을, 김두관 47% 對 김태호 33%…조국당 영향?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075718?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:32:00 +0900",
+                "title": "[동부 경남 격전지 여론조사 ③] 창원 성산, 양산을 민주당 우세...경남도 디...",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307407"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:30:00 +0900",
+                "title": "[4·10 지지율] 與, 이준석계 없어도 ‘新 표밭’ 단 1곳도…野 ‘압승’ 구도...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402021287283"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:47:00 +0900",
+                "title": " 한 표라도 더 모으기  ... 후보마다 정책 발표에 지지선언 등",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428465?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:38:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693325?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:11:00 +0900",
+                "title": "[총선 D-8] 현역 떠난 '보수 텃밭' 경남 중북부, 국힘·민주 '양자 대결'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604042?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:03:00 +0900",
+                "title": "박성민  尹 담화? 국힘은 소방수 원했겠지만 결과는 방화  [한판승부]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880689?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:30:00 +0900",
+                "title": "한동훈, 흔들리는 '낙동강 벨트' 맞춤형 공약 쏟아냈다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451690?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 01:14:00 +0900",
+                "title": "김태호 후보, 양산시 장기요양기관연합회와 간담회",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549591"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[KBS창원, 지난달 28~30일 여론조사] 창원성산 허성무 38% - 강기윤 27% - 여...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429103"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "‘5개 선거구’ 창원, 경남 총선판도 흔드나",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429093"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:35:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693019?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:00:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692875?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+                "title": "[배종찬 칼럼]  바보야, 총선 운명 승부처는 세대별 투표율이야 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864840?sid=110"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:36:00 +0900",
+                "title": "[경남 양산을] 더불어민주당 김두관 47%, 국민의힘 김태호 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428434?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+                "title": "[나는 후보자다] 양산시을 나서는 예비후보는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461722"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "PK행 한동훈  부산 지킬것 … ‘낙동강벨트’ 전석탈환 노린다",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165216?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "[①격전지를 가본다 : 낙동강 벨트 - 김두관 VS 김태호]",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7262"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "[총선 격전지 여론조사-낙동강벨트] 부산·경남...최대 접전 양상 '팽팽'",
+                "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237903"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "공식 선거운동 후 첫 PK 방문한 한동훈, '낙동강벨트' 전석 탈환 노린다[2024...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165093?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:00:00 +0900",
+                "title": "[총선/여론조사] 창원 성산·양산 을…경남 격전지 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692791?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+                "title": "[총선, 이사람] ‘양산을 탈환’ 김태호 “웅상중앙병원 폐업 해결부터… 공공...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982417?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+                "title": "[총선, 이사람] ‘양산을 수성’ 김두관 “KTX사업부터 마무리… 부울경 메가...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982415?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:24:00 +0900",
+                "title": "양산을 김태호 후보, 양산시 장기요양기관연합회와 간담회 가져",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958204"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "[배종찬 칼럼] 세대별 투표율에 총선 운명달린 한동훈·이재명·조국",
+                "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=96057"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:10:00 +0900",
+                "title": "‘낙동강’ 대혼전에 “대통령 무릎꿇으라”",
+                "link": "https://www.naeil.com/news/read/506113?ref=naver"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:00:00 +0900",
+                "title": "김태호  8년간 뭘했나 …김두관  25년 숙원 성사 직전 ",
+                "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=107310"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:00:00 +0900",
+                "title": "새양산청년연합, 김태호 후보 지지 선언",
+                "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=107296"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:24:00 +0900",
+                "title": "[4‧10총선] '1당 지위' 어느 당이 차지할까",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086734"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:20:00 +0900",
+                "title": "'PK 비상령' 국힘 VS '총력 동진' 민주...부‧울‧경, 총선 최대 승부처 부상",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486169"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:36:00 +0900",
+                "title": "양산 을…‘전직 도지사’ 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692446?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:03:00 +0900",
+                "title": "서울 용산·부산 남구 초접전…총선 승부 가를 ‘3대강 벨트’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683319?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "D-9 한동훈, 흔들리는 PK 민심잡기…이재명, 인천 표밭 다지기",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703879?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "[총선 격전지 인터뷰] 경남 양산을,  영남 총선 핵심 사수  vs  나라를 위한 ...",
+                "link": "https://www.ajunews.com/view/20240331145406536"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:01:00 +0900",
+                "title": "[총선 격전지] ‘전직 경남지사’ 대결 양산을… “추진력 甲 김태호” vs “...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982195?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:08:00 +0900",
+                "title": "[황종택 칼럼] 총선서 유권자의 매운맛 보여 줘야 한다",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226480"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+                "title": "낙동강 벨트 4곳 수성 vs 탈환 접전",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538170"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:58:00 +0900",
+                "title": " 김태호 후보, 청년 희망 실현 적임자 ",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538183"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+                "title": "[도내 격전지 첫 주말 유세현장] “한 표라도 더…” 관광지·축제장 돌며 지...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429007"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "양산 을…‘전직 도지사’ 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692291?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": " 청년 위한 비전·정책 가진 적임자 김태호 지지 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549451"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": " 윤 정권에 회초리 필요 · 민주당 200석 막아달라 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549484"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:38:00 +0900",
+                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "與 지도부 PK 잇단 방문…집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070044?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:11:00 +0900",
+                "title": "'낙동강벨트' 부산 북갑 野 우세…양산을 '관호대전'은 초박빙",
+                "link": "https://n.news.naver.com/mnews/article/015/0004966878?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:46:00 +0900",
+                "title": "[4·10 총선 D-9] 막판 치닫자 혼탁… 역대급 `황사 선거`",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864567?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:06:00 +0900",
+                "title": "254곳 중 20곳, 늘어난 초접전지역… 50곳이 승패 좌우 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919690?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:58:00 +0900",
+                "title": "[총선 D-10]'낙동강벨트' 격전지 부울경 중심 양산 '배지전쟁'…文 영향줄까",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410422"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:56:00 +0900",
+                "title": "민주당 200석 막아낼 마지노선...흔들리는 '낙동강 벨트' 판세 분석",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78809"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:50:00 +0900",
+                "title": "[이슈분석] 낙동강벨트에 부는 '파란 바람'… 흔들리는 PK 민심",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193819?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+                "title": "'낙동강벨트' 격전지 부울경 중심 양산 치열한 격돌",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388083"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+                "title": "국힘 양산 갑·을 윤영석-김태호 후보 합동 출정식",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388073"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:38:00 +0900",
+                "title": "김두관-김태호, 양산 웅상지역 현안해결 성과 두고 공방",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907674"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:36:00 +0900",
+                "title": "양산을 김두관-김태호, 청년 지지 업고 총선 앞으로",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907675"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:48:00 +0900",
+                "title": "이창근 후보 발달장애인 주간서비스 연령제한 모순",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787676"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김태호",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 754122
+            },
+            {
+                "연도": 2021,
+                "재산": 1128777
+            },
+            {
+                "연도": 2022,
+                "재산": 1281463
+            },
+            {
+                "연도": 2023,
+                "재산": 1476752
+            }
+        ],
+        "huboid": "100152733",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4814/Hb100152733/junkwa/20240215111820502_1.PDF"
+    }
 ]

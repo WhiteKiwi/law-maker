@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2410401-1",
-    "regionId": "2410401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-1.jpg",
-    "기호": 1,
-    "이름": "김준혁",
-    "생년월일": "19690307",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "대학교수",
-    "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
-    "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
-    "재산": 1386423,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 23:44:00 +0900",
-        "title": "“박정희, 위안부와 성관계” 발언 김준혁, 朴 외종손에 고소당해",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920230?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 23:37:00 +0900",
-        "title": "[사설] “尹·바이든 국지전 일으킬 수도” 김준혁, 국민 대표 자격 있나",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920227?sid=110"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:50:00 +0900",
-        "title": "[나이트포커스] 윤 대통령 대국민담화",
-        "link": "https://n.news.naver.com/mnews/article/052/0002017785?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:29:00 +0900",
-        "title": "野 김준혁 “이대생 미군 성상납” 논란…與  즉각 사과하고 물러나야 ",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870494?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:26:00 +0900",
-        "title": "[4·10 총선] 국민의힘  민주당 김준혁(수원정) '이대생 미군장교 성상납'·'...",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667884"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1386423
-      }
-    ]
-  },
-  {
-    "id": "2410401-2",
-    "regionId": "2410401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-2.jpg",
-    "기호": 2,
-    "이름": "이수정",
-    "생년월일": "19640219",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "대학 교수",
-    "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
-    "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
-    "재산": 8551450,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:53:00 +0900",
-        "title": "[앵커칼럼 오늘] 염장 지르기",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453680?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:50:00 +0900",
-        "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:56:00 +0900",
-        "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-        "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 8551450
-      }
-    ]
-  }
+    {
+        "id": "2410401-1",
+        "regionId": "2410401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-1.jpg",
+        "기호": 1,
+        "이름": "김준혁",
+        "생년월일": "19690307",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "대학교수",
+        "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
+        "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
+        "재산": 1386423,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:48:00 +0900",
+                "title": "김준혁, 수년전 '이대생 성상납·위안부' 유튜브 발언 사과",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125480"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:35:00 +0900",
+                "title": "[천자칼럼] 차원이 다른 김준혁의 막말",
+                "link": "https://n.news.naver.com/mnews/article/015/0004968008?sid=110"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:26:00 +0900",
+                "title": "민주 김준혁, '이대생 성상납 발언·위안부' 발언에  반성한다 ",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386803?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:20:00 +0900",
+                "title": " 악의적인 방해  국민의힘이 김준혁 막말 보도에 '국힘 로고' 노출한 MBC에 강...",
+                "link": "https://www.huffingtonpost.kr/news/articleView.html?idxno=218395"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:16:00 +0900",
+                "title": "배현진 폭발 “왜 MBC는 김준혁의 ‘더러운 막말’에 국민의힘 로고를…”",
+                "link": "https://n.news.naver.com/mnews/article/029/0002865156?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:13:00 +0900",
+                "title": "김준혁 ‘김활란 막말’ 파장…이대 “학교 명예훼손, 사퇴하라”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351661?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[사설] 정치인들의 ‘총선 막말’ 더 이상 두고 볼 순 없다",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226817"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:05:00 +0900",
+                "title": "[현장]  걱정 마, 우리가 이겨 …'청주시민' 달랜 한동훈, '충북 발전' 맹세",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816427?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+                "title": "한동훈, 대전서 '이조심판론 호소' 통할까",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330524"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:00:00 +0900",
+                "title": "[현장] 국회 이전 약속한 한동훈, 세종·대전 찾아  충청이 대한민국 중심될 ...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816424?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:55:00 +0900",
+                "title": "배현진  왜 MBC는 민주당 후보의 더러운 막말에 국민의힘 로고 달았나 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816423?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:52:00 +0900",
+                "title": "민주 김준혁, '이대생 성 상납 · 위안부' 발언 사과… 진심 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143975?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:45:00 +0900",
+                "title": "與  MBC, 김준혁 막말 보도하며 국힘 로고 노출…법적 조치 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351612?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:42:00 +0900",
+                "title": "[4·10 총선] 민주 김준혁, '이대생 성상납·박정희 전 대통령 및 군 위안부 ...",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668107"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:42:00 +0900",
+                "title": "[단독] '성상납 막말' 김준혁에 국힘 로고…與, MBC 고발",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967992?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:41:00 +0900",
+                "title": "與  MBC, 김준혁 막말 보도에 국민의힘 로고 노출… 법적 조치 ",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982787?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:29:00 +0900",
+                "title": "국힘  MBC, 김준혁 막말 보도하면서 국힘 로고 노출…법적 조치 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454364?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:28:00 +0900",
+                "title": "[4·10 총선] 국민의힘  MBC, 김준혁 막말 보도하며 국힘 로고 노출... 악의적...",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668106"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:26:00 +0900",
+                "title": "與 “MBC, 김준혁 막말 보도에 국힘 로고 노출…악의적 보도 법적 조치”",
+                "link": "https://n.news.naver.com/mnews/article/023/0003826015?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:26:00 +0900",
+                "title": "與, MBC에  김준혁 막말 보도에 국힘 로고 노출..법적 조치 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165931?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:22:00 +0900",
+                "title": "與 “MBC, 김준혁 ‘성상납 막말’ 보도에 국민의힘 로고 노출…악의적”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002630048?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:20:00 +0900",
+                "title": "與  MBC, 김준혁 '막말' 보도하며 국힘 로고 노출…법적 조치 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322415?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:18:00 +0900",
+                "title": "與, MBC 김준혁 ‘국민의힘 로고’ 보도 법적 조치…배현진 “이 분, 우리당 ...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289643?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:17:00 +0900",
+                "title": "민주, '이대생 성상납' 김준혁에  사과 권고 ...김준혁  진심 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018228?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:16:00 +0900",
+                "title": "민주, '이대생 성상납' 김준혁에  사과 권고 ...김준혁  진심 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018227?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:14:00 +0900",
+                "title": "민주당, '이대생 성 상납 발언' 김준혁에  부적절…사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143972?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:12:00 +0900",
+                "title": "與, 양문석 이어 박은정 조준...野, '수해 막말' 맞불",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018225?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:11:00 +0900",
+                "title": "민주 김준혁, '이대생 성 상납 · 위안부' 발언 사과… 진심 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143971?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:08:00 +0900",
+                "title": "배현진  민주당 후보 '성상납' 막말에 국힘 로고  MBC 직격",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967988?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:08:00 +0900",
+                "title": "與  MBC, 김준혁 막말 보도하며 국힘 로고 노출…법적 조치 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606511?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:05:00 +0900",
+                "title": "‘이화여대생 미군 장교 성 상납’ 발언 논란…“김준혁 후보에 법적대응할 것...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920615?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:01:00 +0900",
+                "title": "김준혁 '이대생 성상납·위안부' 발언 사과… 상처 입혀 죄송 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351608?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:01:00 +0900",
+                "title": "[투나잇이슈] 윤 대통령, 전공의와 대화 타진…의정 갈등 돌파구 주목",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653090?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:53:00 +0900",
+                "title": "'이대생 성상납 동원 발언'민주당 김준혁,  언어 표현 신중치 못해  사과",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705524?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:49:00 +0900",
+                "title": "민주 김준혁, ‘이대생 성상납’ 막말 뒷북 사과…“경솔한 발언 반성”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002630044?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:43:00 +0900",
+                "title": "여  MBC, 민주 김준혁 막말 보도하며 국민의힘 로고 노출…강력 대응 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467472?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:40:00 +0900",
+                "title": "김준혁 “과거 ‘성상납’ 발언 경솔했다…진심으로 반성”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685722?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:36:00 +0900",
+                "title": "'이대생 성상납·위안부' 발언 논란 김준혁  정제되지 못한 표현 진심 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322407?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:36:00 +0900",
+                "title": "'이화여대생 미군 장교 성 상납' 망언 한 민주당 후보, 학교는 열받았다",
+                "link": "https://www.wikitree.co.kr/articles/940139"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:35:00 +0900",
+                "title": "수원정 이수정  김준혁, 지하철 3호선 연장 진정성 있나  역공",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816417?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:34:00 +0900",
+                "title": "‘이대생 성상납’ 발언 김준혁, 당 권고에…“고개 숙여 사과”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441598?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:30:00 +0900",
+                "title": "김준혁, ‘성상납’ 발언 사과 “과거 발언 경솔…진심으로 반성”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402029314266"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:30:00 +0900",
+                "title": "김준혁, “죄송하다…국민 눈높이에 맞는 정치인 될 것”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402023024265"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:28:00 +0900",
+                "title": "민주 김준혁, '이대생 성상납·위안부' 발언 사과… 진심 반성 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606466?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:28:00 +0900",
+                "title": "“자극적 편집”→“이대 자긍심에 상처”…결국 고개 숙인 김준혁",
+                "link": "http://www.kukinews.com/newsView/kuk202404020327"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:28:00 +0900",
+                "title": "野 김준혁, '이대생 성상납 발언' 결국 사과…  정제되지 못한 표현 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852891"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:26:00 +0900",
+                "title": "'성상납 발언' 논란 김준혁, 당 사과 권고에  진심으로 반성 ",
+                "link": "https://www.etoday.co.kr/news/view/2347001"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:25:00 +0900",
+                "title": "[총선] 김준혁, ‘이대생 성상납’ 등 발언 사과…“국민들께도 거듭 죄송”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011694009?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:25:00 +0900",
+                "title": "'성상납 발언' 김준혁, 당 사과 권고하자  진심으로 반성 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020638?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:25:00 +0900",
+                "title": "김준혁, '김활란 이화여대 성상납' 발언 사과‥ 과거의 발언 너무나 경솔 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340304?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:23:00 +0900",
+                "title": "민주당 김준혁,“미군에 이대생 성상납” 발언 논란에 뒤늦게 “반성”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288355?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:23:00 +0900",
+                "title": "민주 김준혁 '이화여대-박정희' 발언 끝내 사과… 의도치 않은 불편 드려 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816415?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:20:00 +0900",
+                "title": "김준혁, 당에서 사과 권고하자 “과거 발언 경솔…진심으로 반성”",
+                "link": "https://n.news.naver.com/mnews/article/023/0003826010?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:19:00 +0900",
+                "title": "민주, ‘이대생 성상납 발언’ 김준혁에 사과 권고…김 후보 “고개 숙여 사과...",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271660?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:18:00 +0900",
+                "title": "민주당 당황  김준혁 사과하라 , 김준혁  죄송 ",
+                "link": "http://www.viewsnnews.com/article?q=218886"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:18:00 +0900",
+                "title": "'이화여대 성상납' 망언 김준혁에 민주당  부적절, 사과해야 ",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058659?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:17:00 +0900",
+                "title": "‘이대생 성상납’ 발언 논란 김준혁 “언어 표현에 신중하지 못했다”",
+                "link": "https://n.news.naver.com/mnews/article/020/0003556865?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:09:00 +0900",
+                "title": "‘성상납 발언’ 논란 김준혁 “정제되지 못한 표현 깊은 사과”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683670?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "민주당, '이대생 성상납' 발언 김준혁에  부적절 …사과 권고",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881116?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "[YTN24] 대통령 대국민담화 후폭풍  尹, 전공의 직접 만나고 싶다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018211?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "'김활란 발언' 논란 커지자… 김준혁  이대 자긍심에 상처  등 떠밀려 사과",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793959?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "민주, '이화여대생 성상납 발언' 김준혁 후보에  사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386800?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:01:00 +0900",
+                "title": " 과거 발언 경솔 …김준혁, '박정희 위안부' '이대 성상납' 발언 사과",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454272?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+                "title": "김준혁 이화여대 발언 논란에 김부겸  진솔하게 사과해야 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428648?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:59:00 +0900",
+                "title": "민주, '이대생 성상납' 발언 김준혁에 사과 권고..金  죄송, 경솔했다 [2024 ...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165926?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:58:00 +0900",
+                "title": "민주당 선대위  김준혁 '성상납' 발언 부적절…이화여대에 사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467426?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:58:00 +0900",
+                "title": "김준혁, '김활란 성상납' 발언 사과… 부끄럽고 죄송 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467424?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:58:00 +0900",
+                "title": "한동훈, 충청 찾아 이·조심판 호소… 깡패도 그따위 명분 안 내세워 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467425?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:57:00 +0900",
+                "title": "김준혁, '이화여대생 미군 성상납 발언'에 사과",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428647?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:55:00 +0900",
+                "title": "민주, '이대생 성상납 발언' 김준혁에 '사과 권고'",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263396?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:55:00 +0900",
+                "title": "'이대생 성상납 발언' 김준혁… 민주당, 뒤늦게 '사과 권고'",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400821?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:54:00 +0900",
+                "title": "민주, '이대생 성상납 발언' 김준혁에 사과 권고",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085440?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:53:00 +0900",
+                "title": "민주당 “김준혁 ‘이대생 성상납’ 발언 부적절…사과 권고”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685717?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:52:00 +0900",
+                "title": "민주당, ‘이대생 성상납 발언’ 김준혁에 사과 권고…여성계도 법정 대응 시...",
+                "link": "https://www.etoday.co.kr/news/view/2347000"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:51:00 +0900",
+                "title": "'이대생 성상납 발언' 김준혁에 민주당,  부적절하다 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289629?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:49:00 +0900",
+                "title": "민주, 김준혁 '이대생 성상납' 발언에  부적절…사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:48:00 +0900",
+                "title": "“이대생 성상납 발언, 부적절”…진화 나선 민주당",
+                "link": "http://www.kukinews.com/newsView/kuk202404020322"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:46:00 +0900",
+                "title": "이화여대, '여대생 미군장교 성상납 발언' 김준혁 사퇴 촉구",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645107"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:40:00 +0900",
+                "title": "민주, ‘이대생 性상납’ 막말 김준혁에 “사과 권고”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982781?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:39:00 +0900",
+                "title": "민주, '이대생 성상납 발언' 김준혁에  부적절…사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606370?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:38:00 +0900",
+                "title": "민주당, 김준혁 '김활란 이화여대생 성상납' 발언에 사과 권고",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340299?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:37:00 +0900",
+                "title": "[총선] 여야 지도부 충북 방문…표심 공략",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693896?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:35:00 +0900",
+                "title": "민주당, '이화여대생 성상납 발언' 김준혁에  부적절한 발언  사과 권고",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705512?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:32:00 +0900",
+                "title": "한동훈 “범죄자들과 맞설 땐 힘 모아야”…‘이조심판’ 승부수",
+                "link": "https://www.mediapen.com/news/view/909333"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:31:00 +0900",
+                "title": "[총선] 이대, “이대생 성 상납”에 “법적 대응하겠다”…이용수 할머니도 비...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693889?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:25:00 +0900",
+                "title": "[총선] 민주 “김준혁 후보 ‘이대생 성상납’ 발언 부적절…사과 권고”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693878?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:25:00 +0900",
+                "title": "민주, '이화여대 미군 장교 성상납' 발언 논란 김준혁에  사과 권고 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454213?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "[영상뉴스] 김부겸 대구 민주당 합동 유세  정치가 고여 있으니 대구가 경쟁력...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402002103086"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "[뉴스인사이트] 부패·투기꾼·몰염치 판치는데…거대 양당은 공천 '자화자찬...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:57:00 +0900",
+                "title": "한동훈, 성상납 발언 논란 김준혁 향해 “쓰레기 같은 극단주의자”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683667?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+                "title": "[데일리안 오늘뉴스 종합] 대통령실  尹, 전공의들 직접 만나 이야기 듣고 싶...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816396?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:47:00 +0900",
+                "title": "한동훈, '스윙보터' 충청 민심 공략… 범죄와의 전쟁 ",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653070?sid=161"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+                "title": "민주 양문석·김준혁 리스크 '확대일로'",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240403010000304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:29:00 +0900",
+                "title": "'이대생 미군장교 성상납' 발언 김준혁  아픈 역사 제대로 알자는 것 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278227?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "한동훈, 대전 5개구 훑었다… 충청의 꿈 이룰 주인공 돼 달라 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085434?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "대구 찾은 김부겸 “정권 심판론 뜨거워 해볼 만하다”",
+                "link": "https://www.idaegu.com/newsView/idg202404020143"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:23:00 +0900",
+                "title": " 이화여대 초대 총장, 학생 성 상납  김준혁 막말 논란에 민주당 '침묵'",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340283?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:23:00 +0900",
+                "title": "막말·추태, 질타에 침묵…바닥 떨어진 거야 품격",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870722?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:10:00 +0900",
+                "title": "김준혁 '김활란 발언'·양문석 '편법 대출', 경합지 흔드나",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428637?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:10:00 +0900",
+                "title": "한동훈 위원장 청주·음성 표심 공략  국민 섬기는 정치할 것 ",
+                "link": "https://www.inews365.com/news/article.html?no=808461"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1386423
+            }
+        ],
+        "huboid": "100151690",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4104/Hb100151690/junkwa/20231220164001434_1.PDF"
+    },
+    {
+        "id": "2410401-2",
+        "regionId": "2410401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-2.jpg",
+        "기호": 2,
+        "이름": "이수정",
+        "생년월일": "19640219",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "대학 교수",
+        "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
+        "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
+        "재산": 8551450,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[사설] 정치인들의 ‘총선 막말’ 더 이상 두고 볼 순 없다",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226817"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:35:00 +0900",
+                "title": "수원정 이수정  김준혁, 지하철 3호선 연장 진정성 있나  역공",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816417?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:35:00 +0900",
+                "title": "민주당, '이화여대생 성상납 발언' 김준혁에  부적절한 발언  사과 권고",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705512?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "“게임 인력 양성” “e스포츠 박물관 건립”… 약속 지킬까",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685703?sid=105"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:54:00 +0900",
+                "title": " 女 모욕감 준 김준혁 사퇴 vs 3호선 차량기지 無 검토  수원정 혼란 격화",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816383?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:24:00 +0900",
+                "title": "[이슈]  김활란, 이대생 미군 성상납  김준혁 발언 일파만파.. 이대측  후보사...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641605"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:16:00 +0900",
+                "title": "당과 거리두기? '흰옷' 입은 후보들…공보물엔 '한동훈 마케팅'",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386765?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+                "title": "김준혁 ‘막말논란’에 들끓는 여야…金 “민주 후보 죽이기”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788228"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:59:00 +0900",
+                "title": "한동훈 ‘수원’, 이재명 ‘동작’…여야 대표 동선보니 “여기가 배수의진”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441565?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:24:00 +0900",
+                "title": "수원정 민주 김준혁  국힘 이수정, 지하철 3호선 관련 허위정보 의혹 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453819?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "김준혁 '이대생 성상납' 발언 거센 파장",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84616"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "이화여대까지 사퇴 촉구, 파장 커지는 김준혁의 '김활란' 발언",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428579?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "[포털뉴스 3월 넷째주] 빨리 떴다 빨리 사라진 '국회 세종 이전'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428578?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "영통 시민들에게 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453199?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "영통구 일대에서 선거운동 하는 김준혁·이수정",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453200?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "총선 D-8, 서로 다른 행보 보이는 선거판…與 빨간 점퍼 벗고 흰색 옷으로 野...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220077"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:32:00 +0900",
+                "title": "[총선] 김준혁 “친일 행적·여성 인권 유린 역사 알자는 것…앞뒤 잘라 매도...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693597?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "지지 호소하는 김준혁-이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466307?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "시민들에게 지지 호소하는 김준혁-이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466303?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "시민들에게 지지 호소하는 이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466300?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "지지 호소하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466304?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "시민들에게 지지 호소하는 이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466305?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "시민들에게 지지 호소하는 이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466301?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "지지 호소하는 김준혁-이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466308?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "시민들에게 지지 호소하는 김준혁-이수정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466309?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "지지 호소하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466302?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "지지 호소하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466313?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:57:00 +0900",
+                "title": "시민들에게 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452970?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:57:00 +0900",
+                "title": "영통구 시민들과 인사하는 김준혁·이수정",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452969?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:57:00 +0900",
+                "title": "아파트 장터 찾은 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452972?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:56:00 +0900",
+                "title": "시민들에게 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452961?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:56:00 +0900",
+                "title": "거리유세 나선 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452963?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:55:00 +0900",
+                "title": "거리유세 나선 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452960?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:55:00 +0900",
+                "title": "아파트 장터 찾은 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452958?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:54:00 +0900",
+                "title": "시민들과 인사하는 총선 수원정 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605185?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:53:00 +0900",
+                "title": "시민들과 인사하는 총선 수원정 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605180?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:53:00 +0900",
+                "title": "시민들과 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605174?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:52:00 +0900",
+                "title": "시민들과 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605173?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:52:00 +0900",
+                "title": "시민들과 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605172?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:51:00 +0900",
+                "title": "시민들과 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605171?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:51:00 +0900",
+                "title": "시민들과 인사하는 이수정 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605170?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:54:00 +0900",
+                "title": "김준혁 “김활란, 미 장교에 이화여대생 성상납”···이화여대, 후보 사퇴 ...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288189?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:39:00 +0900",
+                "title": "여, 수도권 위기감에 늘어난 '하얀 점퍼'… 인물·공약 봐달라 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465799?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "유권자 얕보는 ‘부동산·전관’ 비리[포럼]",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629895?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:32:00 +0900",
+                "title": "[단독]방심위 ‘윤 대통령 875원 대파’ MBC보도 민원, 또 국민의힘 작품",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288182?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:02:00 +0900",
+                "title": "최재성  임종석 총선 후 당 대표 도전? 꿈결같은 얘기 ",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95028&s_mcd=0214&s_hcd=01"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "“윤 대통령, 국민의힘이 총선에서 패배하면 험한 꼴 당할 것”",
+                "link": "https://www.wikitree.co.kr/articles/939795"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:44:00 +0900",
+                "title": "최재성  임종석 총선 후 당 대표 도전? 꿈결같은 얘기 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017951?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:02:00 +0900",
+                "title": "(인터뷰)박지원  윤석열정부 붕괴 봇물 터졌다 ",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225479&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:52:00 +0900",
+                "title": "하얀 점퍼 입는 與, 파랑 컴백하는 野...당 색깔 엇갈린 풍경",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825836?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 01:17:00 +0900",
+                "title": "[사설] 불량 후보 공천 미리 막을 시스템 절실하다",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351396?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:53:00 +0900",
+                "title": "[앵커칼럼 오늘] 염장 지르기",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453680?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:50:00 +0900",
+                "title": "연일 막말 난타전…선거 막바지 더 거칠어지는 여야 입",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475514"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": " 쓰레기   머슴·계모 …'거친 입'에 달아오르는 네거티브戰",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:39:00 +0900",
+                "title": "“지지율 조금 변해도 뒤집혀”… 인천 표심몰이 나선 이재명",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441291?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "[총선 D-8]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410613"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:20:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603659?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "'김준혁 대 이수정, 경기 수원정 표심은 누구에게?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815897?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:51:00 +0900",
+                "title": "시민들에게 지지 호소하는 이수정 국민의힘 수원정 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815890?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:50:00 +0900",
+                "title": "수원정 지역 직장인들에게 지지 호소하는 이수정 국민의힘 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815888?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+                "title": "지지 호소하는 이수정 국민의힘 수원정 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815886?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+                "title": "수원정 직장인들 향해 지지 호소하는 이수정 국민의힘 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815887?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:48:00 +0900",
+                "title": "'김준혁 대 이수정, 경기 수원정 표심은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815885?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+                "title": "0401 월리를 찾아서 1,2부 임시 2",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95012&s_mcd=0452&s_hcd=01"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:31:00 +0900",
+                "title": "성적 막말 논란 김준혁... 국민의힘  배설 수준  사퇴 촉구",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793700?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:25:00 +0900",
+                "title": "[전문] 박지원  민주당·국힘 독자 과반 못 하면 조국 대표가 대통령 노릇할 ...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386543?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:25:00 +0900",
+                "title": "[총선 D-9]  대파값 · 위안부 …'후보들 발언' 변수된 수원정 표심은",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603151?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:58:00 +0900",
+                "title": "최병천  與 여론조사서 믿기지 않을 정도로 밀려...민주 150석vs국힘 최대 12...",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017711?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:34:00 +0900",
+                "title": "교수로 인터뷰한 김준혁 “젊을 때 상상 많이”…이수정 “여러분 미래가 빛나...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920004?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "최병천  與 여론조사서 믿기지 않을 정도로 밀려...민주 150석vs국힘 최대 12...",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95010&s_mcd=0452&s_hcd=01"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+                "title": "[4.10 총선] 여야 게임 공약 'e스포츠'에 편중, 게임산업 진흥책 부재",
+                "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=72583"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:20:00 +0900",
+                "title": "[국회라이브1/정치한수] 김태일 “대통령-의료계 극적타결한다면 여권 총선에...",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507880"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:37:00 +0900",
+                "title": "[ET톡]'대파'와 공감 능력",
+                "link": "https://n.news.naver.com/mnews/article/030/0003194076?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:52:00 +0900",
+                "title": "수원정 이수정 후보,  수원에 남은 인생 바칠 것 ",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687132"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:44:00 +0900",
+                "title": "박용진  이제 새로운 시작  김경율  조국 돌풍, 우리가 잘했더라면  [앵커리포...",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017576?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:36:00 +0900",
+                "title": "[4·10 지지율] 尹·與 ‘新 표밭’도 전멸 위기…野 이준석계 호재까지 ①서...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240401027506565"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:31:00 +0900",
+                "title": "[뉴스포커스] 윤대통령, 오늘 의료개혁 대국민담화…총선 막판 변수는?",
+                "link": "https://n.news.naver.com/mnews/article/422/0000652773?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:24:00 +0900",
+                "title": "[4‧10총선] '1당 지위' 어느 당이 차지할까",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086734"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:56:00 +0900",
+                "title": "[총선 D-9] 與野 '막말 경계령'에도…지도부가 앞장서 '네거티브 총공세'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025793"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:40:00 +0900",
+                "title": "[총선 D-9]  쓰레기   머슴·계모 …'거친 입'에 네거티브도 격화",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601864?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:49:00 +0900",
+                "title": "[전종철의 전격시사] - 김근식 서울 송파병 후보(국민의힘) - “진짜 심판론 ...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692496?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:46:00 +0900",
+                "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:32:00 +0900",
+                "title": "[22대 총선 공약/게임]  e스포츠 육성 앞장선다 ...여야 한 목소리",
+                "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=511821"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:00:00 +0900",
+                "title": "[이완배 협동의 경제학] 왜 대파 논란이 총선을 뒤흔드나?",
+                "link": "https://vop.co.kr/A00001650663.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:10:00 +0900",
+                "title": "“그거(875원)는 (대파) 한 뿌리 얘기.” [말말말]",
+                "link": "https://n.news.naver.com/mnews/article/308/0000034618?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "(전문가진단) 거센 정권심판…민주당 '단독 과반' 유력 ",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225236&inflow=N"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:08:00 +0900",
+                "title": "[격전지] '수원 벨트 격전지' 김준혁 vs 이수정...경기 수원정",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017456?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "“악어의 눈물 속으면 안 돼”…지지층 결집 나선 이재명",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441044?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 03:06:00 +0900",
+                "title": "“전관예우면 160억” “마피아도 부인 안건드려”...국민감정 자극 발언들",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825616?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:10:00 +0900",
+                "title": "김준혁 파동 2라운드… 박정희 증언 바탕  vs 이수정  변명하며 발 빼 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815489?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 8551450
+            }
+        ],
+        "huboid": "100151496",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4104/Hb100151496/junkwa/20231213154930938_1.PDF"
+    }
 ]

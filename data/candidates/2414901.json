@@ -1,149 +1,1580 @@
 [
-  {
-    "id": "2414901-1",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-1.jpg",
-    "기호": 1,
-    "이름": "공영운",
-    "생년월일": "19640820",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 경영학과 졸업",
-    "경력": "(전) 현대자동차 사장\n(현) 더불어민주당 경제대변인",
-    "재산": 12964861,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:26:00 +0900",
-        "title": "[사설] 이런 사람들이 국민의 대표가 되겠다고 나섰으니…",
-        "link": "https://n.news.naver.com/mnews/article/015/0004967464?sid=110"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:04:00 +0900",
-        "title": "[사설] 공영운·양문석 민주당 후보는 국회의원 자격 없다",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226654"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:00:00 +0900",
-        "title": "'이채양명주' 지고 '양박공식' 뜬다… 심판하자 양박공식  대체 무엇? [정국 ...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815951?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:30:00 +0900",
-        "title": "野 공영운 ‘아빠 찬스’, 양문석 ‘딸 찬스’ 이중고…與·개혁신당 등 ‘난...",
-        "link": "https://www.ekn.kr/web/view.php?key=20240401023377085"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:28:00 +0900",
-        "title": "민주, 양문석 '편법대출 의혹' 무대응 속 고심",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525141"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 12964861
-      }
-    ]
-  },
-  {
-    "id": "2414901-2",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-2.jpg",
-    "기호": 2,
-    "이름": "한정민",
-    "생년월일": "19840929",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "삼성전자 DS부문 연구원",
-    "학력": "고려대학교 대학원 신소재공학과 졸업(공학석사)",
-    "경력": "(전) 한국과학기술연구원 스핀융합연구센터 연구원\n(전) 삼성전자 노사협의회 지역구위원",
-    "재산": 229266,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:26:00 +0900",
-        "title": "민주 경기 판세 '우위'… 보수 '단일화' 저울질",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402010000104"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:55:00 +0900",
-        "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-        "title": "“동탄 유권자 마음 잡아라”… 세 후보 총력전 [심층기획-4·10 총선 격전지...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920137?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 229266
-      }
-    ]
-  },
-  {
-    "id": "2414901-7",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-7.jpg",
-    "기호": 7,
-    "이름": "이준석",
-    "생년월일": "19850331",
-    "정당": "개혁신당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "하버드대학교 Computer Science / Economics AB 졸업 (2003.09.~2007.06.)",
-    "경력": "(전) 국민의힘 당대표\n(현) 개혁신당 당대표",
-    "재산": 1927353,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:21:00 +0900",
-        "title": "조국 “한동훈, 총선 후 버려질 것”…이준석 “윤 대통령, 통치능력 없어”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003351371?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:02:00 +0900",
-        "title": "윤 대통령 '의대 정원 고수' 대국민담화 후폭풍",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=641941"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:30:00 +0900",
-        "title": "野 공영운 ‘아빠 찬스’, 양문석 ‘딸 찬스’ 이중고…與·개혁신당 등 ‘난...",
-        "link": "https://www.ekn.kr/web/view.php?key=20240401023377085"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:22:00 +0900",
-        "title": "이준석  尹, 현실 인식 개탄…아무리봐도 통치능력 없어 ",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085269?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:26:00 +0900",
-        "title": "이준석 “尹 현실인식에 개탄… 통치 능력 없다”",
-        "link": "https://n.news.naver.com/mnews/article/366/0000982483?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1927353
-      }
-    ]
-  }
+    {
+        "id": "2414901-1",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-1.jpg",
+        "기호": 1,
+        "이름": "공영운",
+        "생년월일": "19640820",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 경영학과 졸업",
+        "경력": "(전) 현대자동차 사장\n(현) 더불어민주당 경제대변인",
+        "재산": 12964861,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:05:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 부동산” vs 孔 “규정 문제없는 것 가지고 문제...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920641?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:11:00 +0900",
+                "title": "이준석  공영운, 딸도 성수동에 22억 집 갭투자 의혹 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042612?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:01:00 +0900",
+                "title": "[투나잇이슈] 윤 대통령, 전공의와 대화 타진…의정 갈등 돌파구 주목",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653090?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:19:00 +0900",
+                "title": "인요한, 文 '민주당 후보 지원'에  상식 한참 벗어난 행동 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606446?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:17:00 +0900",
+                "title": "元  재건축 단지명 알고있나  李  기억 안나 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967984?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "[YTN24] 대통령 대국민담화 후폭풍  尹, 전공의 직접 만나고 싶다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018211?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 정권 견제 47% VS 국정 안정 25.9%로 기운 무게 추",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081621"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:22:00 +0900",
+                "title": "또 불거진 ‘부모 찬스’…MZ 표심 어디로",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475722"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "[뉴스인사이트] 부패·투기꾼·몰염치 판치는데…거대 양당은 공천 '자화자찬...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+                "title": "유권자 신뢰 잃어가는 거대양당 '대안정치'의 현실",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240403010000307"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:52:00 +0900",
+                "title": "[기획] 민주당·조국혁신당 일부 후보 논란, 총선 막판 변수 되나",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315542"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:48:00 +0900",
+                "title": "[인터뷰] 이원모  野 이상식 배우자 '탈세' 의혹…삼척동자도 의심 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816382?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:41:00 +0900",
+                "title": "[총선톡톡]  성급했다  탄핵 요구 철회 /  안귀령 자료 경찰에 넘겨  / 화성을...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+                "title": "민주 공영운 딸, 재개발구역 아파트 갭투자 논란",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271638?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:20:00 +0900",
+                "title": "국힘 '의대증원' 민주 '부동산·막말'…총선 막판 변수?",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765406"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:13:00 +0900",
+                "title": "[뉴스하이킥] 이준석  낙선하면 정치 생명 끝? 故 노무현처럼 어려운 도전 할...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340267?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:02:00 +0900",
+                "title": " 표심 흔들릴라 … 민주당, 후보들 재산 논란에 '좌불안석'",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993695?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "투표율·의정갈등·후보리스크… 3대변수가 총선 승패 가른다",
+                "link": "https://n.news.naver.com/mnews/article/029/0002865129?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": " 중도층 표심 뺏길라 … 민주당, 부동산 리스크에 '전전긍긍'",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000360"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:59:00 +0900",
+                "title": "‘이대생 성상납 발언’ 김준혁 “정제되지 못한 표현… 깊은 사과”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920539?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:31:00 +0900",
+                "title": "4일부터 여론조사 공표 금지... 여야, 중도층 끌어안기에 사활",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165889?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 원 매입”",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469938"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 '딸 갭투자' 공격에…공영운  난도질 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967906?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "은평갑 홍인정 후보, 박주민 부동산 정책 '내로남불' 비판…선거 영향은?",
+                "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=228677"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "'전열 정비' 한동훈  뭉쳐야 산다 …문재인, 울산 지원사격[박지환의 뉴스톡]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+                "title": "[천지만평] 2024년 4월 3일자",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125351"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "선거날 MZ 놀러갈 때, 노인은 투표장으로···막판 변수 '연령별 투표율'",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222321"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:58:00 +0900",
+                "title": "이준석  딸 영끌  지적에 공영운  요즘 젊은층이 많이 하는 방식 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993689?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:44:00 +0900",
+                "title": "尹, 의료계 재정 지원 약속하며 연이틀 대화 손짓… 민주당은 尹 담화에 “다...",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685665?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:41:00 +0900",
+                "title": "국힘  김준혁 패륜적 막말에 치 떨려…후보직에서 사퇴하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453866?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:30:00 +0900",
+                "title": "4일부터 투표 마감때까지 '깜깜이 선거'…여론조사 공표 금지",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748798"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:18:00 +0900",
+                "title": "이준석 “딸도 성수동 22억 주택” vs 공영운 “젊은이들 영끌 많이 해”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402023464188"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:14:00 +0900",
+                "title": "국민의힘, '영끌·갭투자' 옹호 공영운 후보… 국회의원 될 자격 없다 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315524"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "아들 이어 딸까지?...이준석  딸도 성수동에 집 있나  VS 공영운  일부 증여 ...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220158"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "이준석  딸도 22억 부동산 ...공영운  증여세 다 냈다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018115?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:56:00 +0900",
+                "title": "때아닌 민주당발 '아빠찬스' 논란... 2030 선거표심 영향받나",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99831"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+                "title": "이준석  딸도 성수동 22억 주택  공영운  1도 문제 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453742?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:45:00 +0900",
+                "title": "4일부터 '깜깜이 선거'..與野 중도층 잡기 사활건다[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165756?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "이준석·이낙연은 살아남을까…'3파전' 주요 지역 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075765?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "공영운, 딸 ‘성수동 22억 집’ 매입 지원… “영끌 갭투자, 젊은이들 많이 해...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982722?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "'한강·반도체 벨트' 열세···與 역대급 참패 재현 우려",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107591"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "양문석.공영운.양부남  민주당 후보들 부동산 논란...점입가경 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317520"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+                "title": "선거 막판 등장한 변수… 의정갈등·부동산리스크",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125247"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                "title": "[포털뉴스 3월 넷째주] 빨리 떴다 빨리 사라진 '국회 세종 이전'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428578?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+                "title": "[인터뷰 전문] 김민석  양문석 의혹, 당이 점검할 수 있던 영역 아냐…법리적...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386720?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:35:00 +0900",
+                "title": "'화성을 후보 3자 토론' 이준석·한정민, 공영운 향해 '아빠찬스' 협공",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331118?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+                "title": "[사설] ‘결격’청년에서 불법‧편법후보까지…유권자가 회초리 들어야",
+                "link": "https://www.asiatime.co.kr/article/20240402500301"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": "[22대총선] 양문석, 양부남, 공영운 발 '아빠찬스', '불공정' 논란...민주당 ...",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580556"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:29:00 +0900",
+                "title": "공영운, 병장 아들 증여 성수동 땅 400m 거리에 딸 아파트도 매입 지원",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825950?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 집 ...공  갭투자 젊은이들 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020448?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:13:00 +0900",
+                "title": "이낙연 “민주당 양문석·공영운·양부남 참 뻔뻔…그러니까 국민들이 질리는...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289490?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:13:00 +0900",
+                "title": "[뉴스외전 정치 맞수다]  장예찬의 단일화 요구는 모순 ‥ 양문석 후보는 이쯤...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340212?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:10:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동에 집 있나”…孔 “고지 거부 권리 있어”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788171"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+                "title": "이낙연 “文, 尹정부 강하게 비판…범야권 선전 응원도”",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021451432050164"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+                "title": " K-반도체 구하라 ...총선 핫 키워드 된 '반도체 지원'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107548"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "이준석  딸도 성수동에 22억 집 갭투자 ‥공영운  합법적 증여 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340201?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "이준석 빼곤 다 지지율 한 자릿수…고전하는 개혁신당 지역구 후보들",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282064?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "[톺아보기]양문석‧양부남‧공영운 등...심상치 않은 민주당발 '아빠찬스'꼬리...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220076"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "22억 딸 주택 ‘영끌’ 얘기에 “젊은이들 갭투자 많이 한다”는 민주 공영운",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920418?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:33:00 +0900",
+                "title": "[총선] 이준석 “공영운 딸도 성수동 22억 주택”…공영운 “젊은이들 영끌 많...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693598?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:10:00 +0900",
+                "title": "'정권 심판론'이 삼켜버린 동탄 '독립시 승격'…후보 지지에는 영향 없어",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278105?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": "[강펀치] 배종찬  한동훈 전대 출마 선언, 與 1당 마지막 승부수 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453749?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "한정민·이준석, 민주 공영운에  폰영운  딸 갭투자  협공",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453747?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": " 공영운 딸도 성수동 부동산  VS  이준석 선거 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400639?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "이준석  공영운 딸도 재개발 지역 갭투자 …孔  선거 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322099?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:55:00 +0900",
+                "title": "공영운에 “폰영운” “딸 갭투자” 협공한 이준석·한정민",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282026?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:51:00 +0900",
+                "title": "화성을 토론회 공방…이준석  굉장히 매너 없어  공영운  선거 분탕질? ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351487?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "이준석 “국민들이 이재명 ‘옳은 선택지’가 아니라고 여겨서 尹 대통령 뽑아...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920403?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 부동산 …孔  젊은이들, 영끌·갭투자 많이해 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289437?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 주택 갭투자”…공영운 “선거분탕질 말라...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289436?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:39:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453735?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:38:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 주택 …공영운  젊은이들 영끌 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322089?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:27:00 +0900",
+                "title": "이준석 “딸 성수동 갭투자”…공영운 “합법적 증여”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705195?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+                "title": "이준석 “딸도 성수동에 22억 집”...공영운 “일부 증여 있었다”",
+                "link": "https://www.etoday.co.kr/news/view/2346833"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:21:00 +0900",
+                "title": "이준석, 공영운에 '딸도 아빠 찬스?' 물었더니...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809716?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:06:00 +0900",
+                "title": "D-8, 여야 막판 골칫거리는…의대정원·부동산리스크",
+                "link": "https://www.naeil.com/news/read/506245?ref=naver"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:03:00 +0900",
+                "title": "이준석  딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌 많이 해...",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075738?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:02:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 부동산 …공영운  문제없어 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143792?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "[총선 D-8] 이준석  공영운 딸도 성수동 부동산 , 孔  문제 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605054?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:26:00 +0900",
+                "title": "경기 화성을, 이준석-공영운 '아빠찬스·코인투자' 네거티브 공방 치열",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=260095"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:19:00 +0900",
+                "title": "총선 D-8, 국민의미래 35.1%-조국혁신당 24.7%-민주연합 22.2%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428529?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:10:00 +0900",
+                "title": "이준석  자녀 중 성수동에 또 부동산 있나  묻자..공영운  지금 저는 민간인 ",
+                "link": "http://www.breaknews.com/1024521"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:05:00 +0900",
+                "title": "공영운 “사생활보호” vs 이준석 “국회의원 자격없어”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920381?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "이준석  딸도 성수동 22억 주택 …공영운  분탕질 하냐 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825242?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "격차 좁혀진 김영주vs채현일, 김경진vs장경태 …민주 악재 영향?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452720?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "이준석 “딸, 성수동 갭투자” 공영운 “난도질 말라”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629972?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:46:00 +0900",
+                "title": "이준석 “공영운 딸 ‘갭투자’”…孔 “규정 문제 없어, 증여는 일부”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001191"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:42:00 +0900",
+                "title": "부동산 전문가들조차  민주당 집추문, 말이 편법이지 사기와 다를 바 없다  [...",
+                "link": "https://biz.newdaily.co.kr/site/data/html/2024/04/02/2024040200124.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "유권자 얕보는 ‘부동산·전관’ 비리[포럼]",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629895?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:34:00 +0900",
+                "title": "이준석  딸도 성수동 부동산 증여 시인 …공영운  고지 거부 권리 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465765?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "孔 “우리 아들 건물 아니고 다가구, 이준석처럼”…딸 건물엔 “답변 거부”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402022417513"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:25:00 +0900",
+                "title": "이준석  딸도 성수동에 집 있나 …공영운  일부 증여 있었다 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:22:00 +0900",
+                "title": "'아프간 1호 종군기자' 홍윤오, 험지 수원을 급파 …  새 인물, 새 바람으로 ...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200093.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:22:00 +0900",
+                "title": "이준석  딸도 성수동 22억 부동산  vs. 공영운  젊은이들 '갭투자' 하잖나 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78911"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "지우지 못한 文정권의 망령 ‘민주당=부동산 어벤저스’",
+                "link": "http://www.mhj21.com/160252"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:05:00 +0900",
+                "title": "공영운, 딸까지 '아빠 찬스' 했나… 갭투자 젊은이들이 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816155?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:04:00 +0900",
+                "title": "“이젠 윤석열의 시간”…총선 성적표 바꿀 변수 3가지",
+                "link": "http://www.kukinews.com/newsView/kuk202404010242"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 12964861
+            }
+        ],
+        "huboid": "100152943",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4149/Hb100152943/junkwa/20240305105228496_1.PDF"
+    },
+    {
+        "id": "2414901-2",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-2.jpg",
+        "기호": 2,
+        "이름": "한정민",
+        "생년월일": "19840929",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "삼성전자 DS부문 연구원",
+        "학력": "고려대학교 대학원 신소재공학과 졸업(공학석사)",
+        "경력": "(전) 한국과학기술연구원 스핀융합연구센터 연구원\n(전) 삼성전자 노사협의회 지역구위원",
+        "재산": 229266,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:11:00 +0900",
+                "title": "이준석  공영운, 딸도 성수동에 22억 집 갭투자 의혹 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042612?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:19:00 +0900",
+                "title": "인요한, 文 '민주당 후보 지원'에  상식 한참 벗어난 행동 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606446?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 정권 견제 47% VS 국정 안정 25.9%로 기운 무게 추",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081621"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:30:00 +0900",
+                "title": "공영운·이준석, 토론회서 '부동산' 설전… 아들 이어 딸도 아빠 찬스 ↔ 문제...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453844?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+                "title": "김준일의 팩트체크 I 51분 담화, 尹의 진심…뚝심이냐 고집불통이냐 [김혜영의...",
+                "link": "https://news.cpbc.co.kr/article/1156302?division=NAVER"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:11:00 +0900",
+                "title": "경기 화성을 후보 3자 공개 토론…'자녀 부동산·코인' 설전",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143938?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:41:00 +0900",
+                "title": "[총선톡톡]  성급했다  탄핵 요구 철회 /  안귀령 자료 경찰에 넘겨  / 화성을...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:13:00 +0900",
+                "title": "[뉴스하이킥] 이준석  낙선하면 정치 생명 끝? 故 노무현처럼 어려운 도전 할...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340267?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 원 매입”",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469938"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "'전열 정비' 한동훈  뭉쳐야 산다 …문재인, 울산 지원사격[박지환의 뉴스톡]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:14:00 +0900",
+                "title": "국민의힘, '영끌·갭투자' 옹호 공영운 후보… 국회의원 될 자격 없다 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315524"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "아들 이어 딸까지?...이준석  딸도 성수동에 집 있나  VS 공영운  일부 증여 ...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220158"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "이준석·이낙연은 살아남을까…'3파전' 주요 지역 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075765?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:35:00 +0900",
+                "title": "'화성을 후보 3자 토론' 이준석·한정민, 공영운 향해 '아빠찬스' 협공",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331118?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:29:00 +0900",
+                "title": "공영운, 병장 아들 증여 성수동 땅 400m 거리에 딸 아파트도 매입 지원",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825950?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 집 ...공  갭투자 젊은이들 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020448?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:16:00 +0900",
+                "title": "[자막뉴스] 딸 갭투자 의혹에… 요즘 젋은이들 많이 해  불붙은 화성을",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143839?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "이준석  딸도 성수동에 22억 집 갭투자 ‥공영운  합법적 증여 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340201?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "22억 딸 주택 ‘영끌’ 얘기에 “젊은이들 갭투자 많이 한다”는 민주 공영운",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920418?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:10:00 +0900",
+                "title": "'정권 심판론'이 삼켜버린 동탄 '독립시 승격'…후보 지지에는 영향 없어",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278105?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "한정민·이준석, 민주 공영운에  폰영운  딸 갭투자  협공",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453747?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "이준석  공영운 딸도 재개발 지역 갭투자 …孔  선거 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322099?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:55:00 +0900",
+                "title": "공영운에 “폰영운” “딸 갭투자” 협공한 이준석·한정민",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282026?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:52:00 +0900",
+                "title": "경쟁국, 조 단위 혜택 주는데...국힘-민주당 '반도체 지원책' 엇갈린 행보",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748528"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:51:00 +0900",
+                "title": "화성을 토론회 공방…이준석  굉장히 매너 없어  공영운  선거 분탕질? ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351487?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "이준석 “국민들이 이재명 ‘옳은 선택지’가 아니라고 여겨서 尹 대통령 뽑아...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920403?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 주택 갭투자”…공영운 “선거분탕질 말라...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289436?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 부동산 …孔  젊은이들, 영끌·갭투자 많이해 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289437?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:39:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453735?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:38:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 주택 …공영운  젊은이들 영끌 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322089?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+                "title": "이준석 “딸도 성수동에 22억 집”...공영운 “일부 증여 있었다”",
+                "link": "https://www.etoday.co.kr/news/view/2346833"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:21:00 +0900",
+                "title": "이준석, 공영운에 '딸도 아빠 찬스?' 물었더니...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809716?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:03:00 +0900",
+                "title": "이준석  딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌 많이 해...",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075738?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:26:00 +0900",
+                "title": "경기 화성을, 이준석-공영운 '아빠찬스·코인투자' 네거티브 공방 치열",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=260095"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "이준석  딸도 성수동 22억 주택 …공영운  분탕질 하냐 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825242?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:46:00 +0900",
+                "title": "이준석 “공영운 딸 ‘갭투자’”…孔 “규정 문제 없어, 증여는 일부”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001191"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:34:00 +0900",
+                "title": "이준석  딸도 성수동 부동산 증여 시인 …공영운  고지 거부 권리 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465765?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:25:00 +0900",
+                "title": "이준석  딸도 성수동에 집 있나 …공영운  일부 증여 있었다 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:05:00 +0900",
+                "title": "공영운, 딸까지 '아빠 찬스' 했나… 갭투자 젊은이들이 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816155?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:02:00 +0900",
+                "title": "【4·10 총선】 제3지대, 군소정당 전락...지역구 의석확보 어려울 듯",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307409"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "글로벌 반도체 허브, 용인 처인구 발전 적임자는?",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428498?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:48:00 +0900",
+                "title": "공영운, '아빠 찬스 지적' 이준석 향해 항의··· 선거 네거티브 말아야 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315477"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:45:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 재개발 구역 부동산”…공영운 “법적 문제 없어...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165472?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:32:00 +0900",
+                "title": "공영운  이준석 왜 동탄서 개고기 파냐 → 李  공후보 딸은 성수동 부동산 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452258?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:59:00 +0900",
+                "title": "[화성 을] 공영운·한정민·이준석 3자토론  아빠찬스 vs 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880748?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:26:00 +0900",
+                "title": "민주 경기 판세 '우위'… 보수 '단일화' 저울질",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402010000104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:55:00 +0900",
+                "title": "[총선여론] 부산·울산·여주양평에서도 이변 나오나.. 동작을 오차범위 내 팽...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641445"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+                "title": "“동탄 유권자 마음 잡아라”… 세 후보 총력전 [심층기획-4·10 총선 격전지...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920137?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:34:00 +0900",
+                "title": "국힘 경기·인천 후보들 ‘수도권 원패스’ 공약 내걸어",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037971?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:15:00 +0900",
+                "title": "이낙연·이준석도 어렵다… 제3지대 바람에도 '생환 불투명' [총선 D-8]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165188?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:49:00 +0900",
+                "title": "선두 공영운, 가는 곳마다  심판  한정민·이준석  아빠찬스  협공",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281664?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:58:00 +0900",
+                "title": "[4·10 총선 동행르포] ‘1강’ 공영운에 뭉치는 韓·李 ‘반공연대’",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281568?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "제3지대 '찻잔속 미풍될라'..이낙연·이준석 등 간판급 인사들 고전중[2024 총...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165087?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+                "title": "[강펀치] 이종근  총선 판세, 서울·인천·충청에서 결정될 것 ",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453610?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:38:00 +0900",
+                "title": "이준석 여론조사 결과가 나왔는데…",
+                "link": "https://www.wikitree.co.kr/articles/939555"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:39:00 +0900",
+                "title": "'이준석 참전' 화성을 민심은? 孔 46.1%, 李 27.1%, 韓 22.9%",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075637?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:19:00 +0900",
+                "title": "'이준석' 향한 엇갈린 시선...  윤석열에 일조 ,  밉상은 아냐 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428333?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:00:00 +0900",
+                "title": "[경기 화성을 여론조사] 공영운 46.1%·이준석 27.1%·한정민 22.9%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957912"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:24:00 +0900",
+                "title": "[4‧10총선] '1당 지위' 어느 당이 차지할까",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7086734"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:12:00 +0900",
+                "title": "[4.10총선] 화성을 한정민, 22대 국회의원선거 좋은 후보 선정",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202404011057479243f83bf132e7_1/article.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:13:00 +0900",
+                "title": "[월간중앙] 특별취재 | 주목 받는 재계 출신 총선 출마자들",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351177?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:00:00 +0900",
+                "title": "[경기 화성을] 민주당 공영운 46.1%, 개혁신당 이준석 27.1%, 국민의힘 한정운...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428268?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:00:00 +0900",
+                "title": "화성을 한정민 후보 , 22 대 국회의원선거 좋은 후보 선정 !",
+                "link": "https://www.geconomy.co.kr/news/article.html?no=283332"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:45:00 +0900",
+                "title": "공영운·한정민·이준석에 쏠린 관심…화성을 토론회 최다 조회,18만8565회",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448847?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "공영운 46.1% 이준석 27.1% 한정민 22.9%…독주 속 '반전'은?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880151?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:05:00 +0900",
+                "title": "지역선 거대 양당·비례는 조국당에 … ‘맥 못추는’ 제3지대",
+                "link": "https://n.news.naver.com/mnews/article/005/0001685057?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:40:00 +0900",
+                "title": "[AI 빅데이터로 본 총선] 벚꽃 총선 임박… 野, 아파트 증여·편법대출·막말...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864546?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:25:00 +0900",
+                "title": "[이슈분석] 경기남부에 켜진 '파란불'… 고전하는 국민의힘·개혁신당",
+                "link": "https://n.news.naver.com/mnews/article/030/0003193813?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:09:00 +0900",
+                "title": "'총선 D-10'...여론조사로 보는 민심은?",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017337?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433247"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:18:00 +0900",
+                "title": "이준석 “공영운 딸, 현대글로비스 취업 사실인가”…‘아빠찬스’ 의혹 제기",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684988?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": "[총선 D-10] 공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600785?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:32:00 +0900",
+                "title": "[총선 D-10] 공식 선거운동 개시 후 첫 공휴일…경기 격전지 열띤 유세전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600594?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:16:00 +0900",
+                "title": "용인갑 국회의원 이원모 후보, ‘반도체 산업정책 성공 위해 안철수, 강철호,...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287722795985"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:32:00 +0900",
+                "title": "화성시갑 찾은 한동훈 비대위원장,  홍형선 28년 동안 국회 살림살이를 모두 ...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106654"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "경기도 표심, '정권심판' 태풍에 21대 총선 재연하나?",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277518?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:06:00 +0900",
+                "title": " 현대차 은폐 주도  주장에...공영운  尹 동업자의 네거티브 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019275?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:44:00 +0900",
+                "title": "민주 공영운  저급한 네거티브 대응 가치 없어...허위사실 법적대응 ",
+                "link": "https://www.ajunews.com/view/20240330161145220"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:19:00 +0900",
+                "title": "국힘 화성갑 홍형선  내 뒷배는 한동훈 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460410?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:42:00 +0900",
+                "title": "[4·10총선] 공익제보자 김광호  현대차 출신 공영운 권언유착 기술자 ",
+                "link": "http://www.4th.kr/news/articleView.html?idxno=2059926"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:32:00 +0900",
+                "title": "국민의힘, 野후보 부동산 의혹 맹공 퍼부어",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870095?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:48:00 +0900",
+                "title": "전 현대차 부장  공영운, 엔진 결함 은폐 주도…의원 자격 없어 ",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225322&inflow=N"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:34:00 +0900",
+                "title": "'중·성동갑' 전현희 37% 윤희숙 30%…'화성을' 공영운 36% 이준석 21%",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320876?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:07:00 +0900",
+                "title": "중·성동갑, 전현희 37% 윤희숙 30%…화성을, 공영운 36% 이준석 21%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446641?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:31:00 +0900",
+                "title": "홍준표  이준석, '비례로 창당해야' 내 조언 무시 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042541?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "[영상] “정치도 돈 버는 일 충실한 기업처럼 결과 내놓아야”",
+                "link": "https://n.news.naver.com/mnews/article/262/0000017330?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:45:00 +0900",
+                "title": "[총선D-12여론조사]② 인천·경기 결과는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691916?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:00:00 +0900",
+                "title": "민주당 공영운 후보가 당선되면…현대차에 '득'일까 '실'일까",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992920?sid=101"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 05:20:00 +0900",
+                "title": "여야, 앞다퉈 지원 공약... 반도체 벨트를 잡아라 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016977?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 03:20:00 +0900",
+                "title": "與 “반도체에 직접 보조금” 野 “세액공제 늘리겠다”",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825363?sid=105"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 03:04:00 +0900",
+                "title": "홍준표  이준석이 무시한 비례 조언, 조국은 실행해 파이 키웠다 ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350894?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 00:00:00 +0900",
+                "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:03:00 +0900",
+                "title": "[총선D-12여론조사]② 인천·경기 결과는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691819?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:03:00 +0900",
+                "title": "[경기 화성을] 민주당 공영운 48%, 개혁신당 이준석 24%, 국민의힘 한정민 19...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428130?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:24:00 +0900",
+                "title": "[포토] 선거유세하는 한정민 화성을 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900323.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:20:00 +0900",
+                "title": "[총선D-12여론조사]② 인천·경기 결과는?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691702?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:41:00 +0900",
+                "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 229266
+            }
+        ],
+        "huboid": "100152642",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4149/Hb100152642/junkwa/20240207105034554_1.PDF"
+    },
+    {
+        "id": "2414901-7",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-7.jpg",
+        "기호": 7,
+        "이름": "이준석",
+        "생년월일": "19850331",
+        "정당": "개혁신당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "하버드대학교 Computer Science / Economics AB 졸업 (2003.09.~2007.06.)",
+        "경력": "(전) 국민의힘 당대표\n(현) 개혁신당 당대표",
+        "재산": 1927353,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:05:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 부동산” vs 孔 “규정 문제없는 것 가지고 문제...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920641?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+                "title": "정부와 원팀 강조한 한동훈…“중요한 결전 앞 뭉쳐야 할때”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351660?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4.10 총선, 강원의 선택] '골목유세·푸바오·소형차' 3인 3색 표심잡기 눈길",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070576?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:18:00 +0900",
+                "title": "군소정당, 격전지 총력전... 우리가 대안  지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018230?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:11:00 +0900",
+                "title": "이준석  공영운, 딸도 성수동에 22억 집 갭투자 의혹 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042612?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:10:00 +0900",
+                "title": "거제 선거 유인물 민생 공약이 없다",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538372"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:01:00 +0900",
+                "title": "[투나잇이슈] 윤 대통령, 전공의와 대화 타진…의정 갈등 돌파구 주목",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653090?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:19:00 +0900",
+                "title": "인요한, 文 '민주당 후보 지원'에  상식 한참 벗어난 행동 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014606446?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:17:00 +0900",
+                "title": "元  재건축 단지명 알고있나  李  기억 안나 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967984?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:07:00 +0900",
+                "title": "[YTN24] 대통령 대국민담화 후폭풍  尹, 전공의 직접 만나고 싶다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018211?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:02:00 +0900",
+                "title": "화성을 정권 견제 47% VS 국정 안정 25.9%로 기운 무게 추",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081621"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:36:00 +0900",
+                "title": "'100분 토론' 4·10 총선 예상 의석수·선거 판세 전망",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959655"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:30:00 +0900",
+                "title": "공영운·이준석, 토론회서 '부동산' 설전… 아들 이어 딸도 아빠 찬스 ↔ 문제...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453844?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:03:00 +0900",
+                "title": "[빅데이터로 본 4·10 총선] 조국혁신당 돌풍 강원에서도?",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035869?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:00:00 +0900",
+                "title": "[뉴스인사이트] 부패·투기꾼·몰염치 판치는데…거대 양당은 공천 '자화자찬...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005373"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:51:00 +0900",
+                "title": "조국  공직선거법 헌법소원 …이준석 - 공영운 설전",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653072?sid=161"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:50:00 +0900",
+                "title": "20대 청년층 검색량 최다 ‘조국혁신당’",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288307?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:44:00 +0900",
+                "title": "'100분토론' 유시민·김진이 본 4·10 총선 예상 의석수",
+                "link": "https://www.cbci.co.kr/news/articleView.html?idxno=463661"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:22:00 +0900",
+                "title": " 조국혁신당 바람 맵네  TK서도 '약진'",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990779"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+                "title": "김준일의 팩트체크 I 51분 담화, 尹의 진심…뚝심이냐 고집불통이냐 [김혜영의...",
+                "link": "https://news.cpbc.co.kr/article/1156302?division=NAVER"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+                "title": "유권자 신뢰 잃어가는 거대양당 '대안정치'의 현실",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240403010000307"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:11:00 +0900",
+                "title": "경기 화성을 후보 3자 공개 토론…'자녀 부동산·코인' 설전",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143938?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+                "title": "[4·10 총선] 맥 못추는 제3지대…이준석·심상정 선전",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242857"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+                "title": "[기획] 총선 앞둔 제3지대, 각종 민생공약 내걸며 '민심잡기' 전력투구",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315543"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:52:00 +0900",
+                "title": "[기획] 민주당·조국혁신당 일부 후보 논란, 총선 막판 변수 되나",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315542"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:41:00 +0900",
+                "title": "[총선톡톡]  성급했다  탄핵 요구 철회 /  안귀령 자료 경찰에 넘겨  / 화성을...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:37:00 +0900",
+                "title": "민주 공영운 딸, 재개발구역 아파트 갭투자 논란",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271638?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:13:00 +0900",
+                "title": "[뉴스하이킥] 이준석  낙선하면 정치 생명 끝? 故 노무현처럼 어려운 도전 할...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340267?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:59:00 +0900",
+                "title": "‘이대생 성상납 발언’ 김준혁 “정제되지 못한 표현… 깊은 사과”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920539?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "군소정당, 격전지 총력전... 우리가 대안  지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018151?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 '딸 갭투자' 공격에…공영운  난도질 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967906?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 원 매입”",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469938"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:15:00 +0900",
+                "title": "'전열 정비' 한동훈  뭉쳐야 산다 …문재인, 울산 지원사격[박지환의 뉴스톡]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:11:00 +0900",
+                "title": " 정부 잘못 내 책임 아니다 던 한동훈, 정권심판론 정면돌파 왜",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351576?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:58:00 +0900",
+                "title": "이준석  딸 영끌  지적에 공영운  요즘 젊은층이 많이 하는 방식 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993689?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:32:00 +0900",
+                "title": "새미래·개혁신당, 수도권 표심 구애…'용기 있는 한 표' 강조[종합]",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825395?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:30:00 +0900",
+                "title": "한 편의 웹툰처럼, 자필편지 담아… 총선 후보 이색 공보물 전략",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402025083944"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:26:00 +0900",
+                "title": "‘연륜’ 박윤국 VS ‘열정’ 김용태, 포천·가평 격돌",
+                "link": "https://www.etoday.co.kr/news/view/2346975"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:18:00 +0900",
+                "title": "이준석 “딸도 성수동 22억 주택” vs 공영운 “젊은이들 영끌 많이 해”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402023464188"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:14:00 +0900",
+                "title": "국민의힘, '영끌·갭투자' 옹호 공영운 후보… 국회의원 될 자격 없다 ",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315524"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                "title": "아들 이어 딸까지?...이준석  딸도 성수동에 집 있나  VS 공영운  일부 증여 ...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220158"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "이준석  딸도 22억 부동산 ...공영운  증여세 다 냈다 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018115?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "[BBS 뉴스와사람들] 박명호 동국대 교수  생계형·샐러리맨형 정치인 모두 청...",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150870"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+                "title": "경북대 있는 '대구 북구갑'...후보·정책·비례, 청년들이 본 총선",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30300"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+                "title": "이준석  딸도 성수동 22억 주택  공영운  1도 문제 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453742?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:30:00 +0900",
+                "title": "尹 '대국민담화' 여야 충돌만···與  다 해결됐다  vs 野  심판 여론 더 세...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107600"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+                "title": "이준석·이낙연은 살아남을까…'3파전' 주요 지역 판세는?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075765?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:20:00 +0900",
+                "title": "경장연, 이준석 선거사무소 앞 '혐오·갈라치기 정치인 투표 반대 시위' 진행",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384889"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:20:00 +0900",
+                "title": "4·10 총선 포천·가평, 고소·고발 과열 양상",
+                "link": "https://www.viva100.com/main/view.php?key=20240402010000832"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+                "title": "유시민·김진, 오늘(2일) 총선 전 마지막 '100분 토론'",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=538187"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "공영운, 딸 ‘성수동 22억 집’ 매입 지원… “영끌 갭투자, 젊은이들 많이 해...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982722?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:07:00 +0900",
+                "title": "유시민·김진, '100분 토론' 출연…선거 판세 전망한다",
+                "link": "https://n.news.naver.com/mnews/article/408/0000219389?sid=106"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "개혁신당 “국민연금 신·구 분리… 정당 국고보조금 폐지”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001425"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:35:00 +0900",
+                "title": "'화성을 후보 3자 토론' 이준석·한정민, 공영운 향해 '아빠찬스' 협공",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331118?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:29:00 +0900",
+                "title": "공영운, 병장 아들 증여 성수동 땅 400m 거리에 딸 아파트도 매입 지원",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825950?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:22:00 +0900",
+                "title": "개혁신당 “정당 국고보조금 폐지, ‘백종원 사관학교’ 설립”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288225?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:19:00 +0900",
+                "title": "개혁신당 이주영 “‘예쁘게 말하는 법’ 모르는 이준석···내가 돕겠다”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282094?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:18:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 집 ...공  갭투자 젊은이들 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020448?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:16:00 +0900",
+                "title": "[자막뉴스] 딸 갭투자 의혹에… 요즘 젋은이들 많이 해  불붙은 화성을",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143839?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:13:00 +0900",
+                "title": "[뉴스외전 정치 맞수다]  장예찬의 단일화 요구는 모순 ‥ 양문석 후보는 이쯤...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340212?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:10:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동에 집 있나”…孔 “고지 거부 권리 있어”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788171"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:08:00 +0900",
+                "title": "[리서치뷰 여론조사] 與·野 지지율 격차 확대, 尹 지지율 급락",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307435"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": " 당에 있으니까 찍어줬지  맥 못추는 탈당 현역 의원들",
+                "link": "http://www.metroseoul.co.kr/article/20240402500464"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "'아빠찬스' 공영운에 이준석  딸도 성수동에 22억 주택 …공영운  분탕질 말라...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386716?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "이준석 빼곤 다 지지율 한 자릿수…고전하는 개혁신당 지역구 후보들",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282064?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:45:00 +0900",
+                "title": "이준석  딸도 성수동에 22억 집 갭투자 ‥공영운  합법적 증여 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340201?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "[톺아보기]양문석‧양부남‧공영운 등...심상치 않은 민주당발 '아빠찬스'꼬리...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220076"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "[총선핫플] 남양주갑서 민주 최민희 '두 번의 아픔' 떨쳐낼까, 유낙준·조응천...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347782"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "22억 딸 주택 ‘영끌’ 얘기에 “젊은이들 갭투자 많이 한다”는 민주 공영운",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920418?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:33:00 +0900",
+                "title": "[총선] 이준석 “공영운 딸도 성수동 22억 주택”…공영운 “젊은이들 영끌 많...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693598?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:10:00 +0900",
+                "title": "'정권 심판론'이 삼켜버린 동탄 '독립시 승격'…후보 지지에는 영향 없어",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278105?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "한정민·이준석, 민주 공영운에  폰영운  딸 갭투자  협공",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453747?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": " 공영운 딸도 성수동 부동산  VS  이준석 선거 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400639?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:01:00 +0900",
+                "title": "이준석  공영운 딸도 재개발 지역 갭투자 …孔  선거 분탕질 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322099?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:55:00 +0900",
+                "title": "공영운에 “폰영운” “딸 갭투자” 협공한 이준석·한정민",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282026?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:51:00 +0900",
+                "title": "화성을 토론회 공방…이준석  굉장히 매너 없어  공영운  선거 분탕질? ",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351487?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "이준석 “국민들이 이재명 ‘옳은 선택지’가 아니라고 여겨서 尹 대통령 뽑아...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920403?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석 “공영운 딸도 성수동 22억 주택 갭투자”…공영운 “선거분탕질 말라...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289436?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:49:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 부동산 …孔  젊은이들, 영끌·갭투자 많이해 ",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289437?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:39:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453735?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:38:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 주택 …공영운  젊은이들 영끌 많이 해 ",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322089?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:27:00 +0900",
+                "title": "이준석 “딸 성수동 갭투자”…공영운 “합법적 증여”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705195?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+                "title": "이준석 “딸도 성수동에 22억 집”...공영운 “일부 증여 있었다”",
+                "link": "https://www.etoday.co.kr/news/view/2346833"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:21:00 +0900",
+                "title": "이준석, 공영운에 '딸도 아빠 찬스?' 물었더니...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809716?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:03:00 +0900",
+                "title": "이준석  딸도 성수동 재개발 구역에 22억 집 …공영운  젊은이들 영끌 많이 해...",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075738?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:02:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 부동산 …공영운  문제없어 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143792?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": "[총선 D-8] 이준석  공영운 딸도 성수동 부동산 , 孔  문제 없어 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605054?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:26:00 +0900",
+                "title": "경기 화성을, 이준석-공영운 '아빠찬스·코인투자' 네거티브 공방 치열",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=260095"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:10:00 +0900",
+                "title": "이준석  자녀 중 성수동에 또 부동산 있나  묻자..공영운  지금 저는 민간인 ",
+                "link": "http://www.breaknews.com/1024521"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:05:00 +0900",
+                "title": "공영운 “사생활보호” vs 이준석 “국회의원 자격없어”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920381?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "이준석  딸도 성수동 22억 주택 …공영운  분탕질 하냐 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825242?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "조국혁신당, 20대서 검색량 폭증…‘지지율 1%’였던 청년 표심 대이동하나",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288190?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "이준석 “딸, 성수동 갭투자” 공영운 “난도질 말라”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629972?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:48:00 +0900",
+                "title": "이준석  공영운 딸도 성수동 22억 부동산  공영운  증여세 냈다 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143760?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:46:00 +0900",
+                "title": "이준석 “공영운 딸 ‘갭투자’”…孔 “규정 문제 없어, 증여는 일부”",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001191"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:36:00 +0900",
+                "title": "[4·10 총선 인터뷰] 이원욱  혐오와 갈등정치 종식… 동탄을 새롭게 바꾸겠다...",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/02/2024040200126.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:34:00 +0900",
+                "title": "이준석  딸도 성수동 부동산 증여 시인 …공영운  고지 거부 권리 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465765?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:26:00 +0900",
+                "title": "孔 “우리 아들 건물 아니고 다가구, 이준석처럼”…딸 건물엔 “답변 거부”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402022417513"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:25:00 +0900",
+                "title": "이준석  딸도 성수동에 집 있나 …공영운  일부 증여 있었다 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967634?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1927353
+            }
+        ],
+        "huboid": "100152972",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4149/Hb100152972/junkwa/20240306170202102_1.PDF"
+    }
 ]

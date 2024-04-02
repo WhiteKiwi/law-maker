@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2461501-1",
-    "regionId": "2461501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461501-1.jpg",
-    "기호": 1,
-    "이름": "문금주",
-    "생년월일": "19670603",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "미시간주립대 도시 및 지역계획학과 국제도시계획학석사(MIPS) 졸업(07.8. ~ 08.12)",
-    "경력": "(전)전라남도 행정부지사\n(전)행정안전부 공공서비스정책관",
-    "재산": 1545227,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:42:00 +0900",
-        "title": "고흥보성장흥강진 국회의원 후보자 토론회 내일(2) 개최",
-        "link": "https://www.mpmbc.co.kr/article/j6vR65bZTlI51g"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:44:00 +0900",
-        "title": "문금주 후보, 한농연 고흥·보성·장흥·강진 연합회와 협약 체결",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325945?sid=102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:48:00 +0900",
-        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:36:00 +0900",
-        "title": "일주이슈 121-1>주말휴일 행사장·시장·거리서 ‘한표라도 더…’",
-        "link": "http://www.jnilbo.com/73183669753"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:33:00 +0900",
-        "title": "일주이슈 121-3>“관광자원 개발·SOC 확충·지방소멸 극복”",
-        "link": "http://www.jnilbo.com/73183496312"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1545227
-      }
-    ]
-  },
-  {
-    "id": "2461501-2",
-    "regionId": "2461501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461501-2.jpg",
-    "기호": 2,
-    "이름": "김형주",
-    "생년월일": "19600703",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "문화기획자",
-    "학력": "전남대학교 대학원 국어국문학과(문학석사)",
-    "경력": "(전)광주광역시립민속박물관 학예연구실장\n(현)고흥분청문화박물관 수증유물 평가위원",
-    "재산": 262000,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:42:00 +0900",
-        "title": "고흥보성장흥강진 국회의원 후보자 토론회 내일(2) 개최",
-        "link": "https://www.mpmbc.co.kr/article/j6vR65bZTlI51g"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:42:00 +0900",
-        "title": "[뉴스1번지] 윤 대통령, 의료개혁 대국민담화…총선 후보 도덕성 공방",
-        "link": "https://n.news.naver.com/mnews/article/422/0000652819?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:48:00 +0900",
-        "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:33:00 +0900",
-        "title": "일주이슈 121-3>“관광자원 개발·SOC 확충·지방소멸 극복”",
-        "link": "http://www.jnilbo.com/73183496312"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 07:46:00 +0900",
-        "title": "[정치라떼] 4·10 총선 레이스 본격 돌입…전직 여야 “후보 개인 도덕성·불...",
-        "link": "https://www.viva100.com/main/view.php?key=20240330010010205"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 262000
-      }
-    ]
-  }
+    {
+        "id": "2461501-1",
+        "regionId": "2461501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461501-1.jpg",
+        "기호": 1,
+        "이름": "문금주",
+        "생년월일": "19670603",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "미시간주립대 도시 및 지역계획학과 국제도시계획학석사(MIPS) 졸업(07.8. ~ 08.12)",
+        "경력": "(전)전라남도 행정부지사\n(전)행정안전부 공공서비스정책관",
+        "재산": 1545227,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:16:00 +0900",
+                "title": "고흥·보성·장흥·강진 선거구 토론회..지역소멸 대책은",
+                "link": "https://www.mpmbc.co.kr/article/gJrbLx-jRVIeO_N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "지지부진한 광주 군공항 이전 해법 후보들  나에게 맡겨달라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881056?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:42:00 +0900",
+                "title": "고흥보성장흥강진 국회의원 후보자 토론회 내일(2) 개최",
+                "link": "https://www.mpmbc.co.kr/article/j6vR65bZTlI51g"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:44:00 +0900",
+                "title": "문금주 후보, 한농연 고흥·보성·장흥·강진 연합회와 협약 체결",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325945?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:36:00 +0900",
+                "title": "일주이슈 121-1&gt;주말휴일 행사장·시장·거리서 ‘한표라도 더…’",
+                "link": "http://www.jnilbo.com/73183669753"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:33:00 +0900",
+                "title": "일주이슈 121-3&gt;“관광자원 개발·SOC 확충·지방소멸 극복”",
+                "link": "http://www.jnilbo.com/73183496312"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:17:00 +0900",
+                "title": "총선 선거운동 첫 주말…광주·전남 후보들 아침부터 총력전(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446960?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:46:00 +0900",
+                "title": "'지역경제 활성화' '검찰개혁' 1호 법안 발의 공약도 시대 과제 담겨",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879739?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:58:00 +0900",
+                "title": "운동화도 타이어도 금세 닳는다…후보들 하루 500㎞ 강행군 이곳은?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444610?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:46:00 +0900",
+                "title": "문금주 희망캠프, 보성·강진·장흥·고흥 순차적 출정식 개최",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325446"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:16:00 +0900",
+                "title": "문금주 후보, 출범식 개최···선거운동 '본격'",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/716516"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:32:00 +0900",
+                "title": "문금주 후보, 고흥·보성·장흥·강진 '총선 출정식'",
+                "link": "http://www.sentv.co.kr/news/view/682779"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:00:00 +0900",
+                "title": "민주당 문금주 후보  검찰 독재 정권 심판과 지역의 새로운 도약 이룰 것 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123600"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "전남 총선 후보, 선거운동 첫날 출정식 열고 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879370?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:40:00 +0900",
+                "title": "[총선 돋보기] 문금주 후보 출정식···경쟁자 김승남 의원 지원유세",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2107978"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "전남도 행정부지사 출신 문금주 후보, 보성서 선거 유세 [포토]",
+                "link": "https://n.news.naver.com/mnews/article/382/0001116164?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:54:00 +0900",
+                "title": "[포토] 문금주 후보, 보성역서 선거 유세",
+                "link": "https://www.ekn.kr/web/view.php?key=20240328026464044"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:41:00 +0900",
+                "title": "고흥·보성 문금주 후보 빗속 출정식 김승남 의원 가세",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879135?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:24:00 +0900",
+                "title": "[포토] 문금주 국회의원 후보, 보성역 앞 출근길 유세 활동",
+                "link": "https://www.smartfn.co.kr/article/view/sfn202403280019"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:00:00 +0900",
+                "title": "[포토] 문금주 후보, 비오는 아침 보성역서 유세 진행",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=514833"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:52:00 +0900",
+                "title": "[포토]문금주 국회의원 후보, 보성역서 선거 유세 활동",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010009019"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:40:00 +0900",
+                "title": " 지방이 무너진다  광주전남 총선 후보들 꼽은 지역 현안은 '지방소멸'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878648?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:35:00 +0900",
+                "title": "[총선 돋보기] 문금주 후보, 안중근 의사 순국 114주기 추모식 참석",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2106629"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:40:00 +0900",
+                "title": "문금주 후보, 안중근 의사 추모식 참석...'굴욕외교 바로 세울 것'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557494"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:48:00 +0900",
+                "title": "민주당 전남도당, 22대 총선 선거체제 돌입을 위한 선대위 출범",
+                "link": "https://www.nbnews.kr/news/articleView.html?idxno=89860"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:36:00 +0900",
+                "title": "'정권심판·국민승리' 더불어민주당 전남도당 선거대책위원회 출범",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764527"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:56:00 +0900",
+                "title": "문금주 후보, 공무원노조 간담회 개최",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/716268"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:20:00 +0900",
+                "title": "민주당 전남도당, 22대 총선 선거대책위원회 출범",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878370?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:58:00 +0900",
+                "title": "문금주, 안중근 의사 순국 추모식 참석",
+                "link": "http://www.kjdaily.com/article.php?aid=1711452289625829246"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:56:00 +0900",
+                "title": "민주 전남도당 선대위 출범",
+                "link": "http://www.kjdaily.com/article.php?aid=1711452284625834246"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:02:00 +0900",
+                "title": "[공약·정책·한판승부_고흥·보성·장흥·강진]④ '행정과 문화' 전문가 대결",
+                "link": "https://kjmbc.co.kr/article/1lsJSnvwgP_oJYJ9sMoe"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:40:00 +0900",
+                "title": "“정권심판·국민 승리” 민주 전남도당 선대위 출범",
+                "link": "http://www.jndn.com/article.php?aid=1711445848382657003"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:57:00 +0900",
+                "title": "민주당 전남도당, 선거대책위원회 출범식 개최",
+                "link": "http://www.jnilbo.com/73133340573"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:09:00 +0900",
+                "title": "민주당 전남도당, '정권심판·국민승리 선거대책위' 출범식 개최",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325056?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:02:00 +0900",
+                "title": "민주당 전남도당, 22대 총선 매머드급 선거대책위원회 출범식",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324984"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:54:00 +0900",
+                "title": "민주당 전남도당, 정권심판·국민승리 선대위 구성",
+                "link": "http://www.siminsori.com/news/articleView.html?idxno=261064"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:48:00 +0900",
+                "title": "민주당 전남도당, 22대 총선 선거대책위원회 출범",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437214?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:46:00 +0900",
+                "title": "민주당 전남도당, 22대 국회의원선거 매머드급 선거대책위원회 출범식 개최",
+                "link": "https://www.wikitree.co.kr/articles/938089"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:43:00 +0900",
+                "title": "더불어민주당 전남도당, 매머드급 선거대책위원회 출범[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005162016?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:42:00 +0900",
+                "title": " 정권 심판, 국민 승리  민주당 전남도당 선대위 출범",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451269?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:41:00 +0900",
+                "title": "민주당 전남도당, 22대 국회의원선거 선대위 출범",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878201?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:40:00 +0900",
+                "title": "[총선 돋보기] 더불어민주당 전남도당, 원팀 선거체제로 승리 결의",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2106816"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+                "title": "민주당 전남도당, 매머드급 선거대책위원회 출범식 개최",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/716210"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:50:00 +0900",
+                "title": "문금주 후보, 공무원노조 간담회 통해 공무원 권익보호 앞장 '다짐'",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324954?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:04:00 +0900",
+                "title": "민주당 문금주 후보, 공무원노조 간담회... 공무원 권익 보호 최선 ",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/26/2024032600014.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 02:28:00 +0900",
+                "title": "문금주 후보, 공무원노조 간담회 통해 공무원 권익 보호에 앞장설 것",
+                "link": "https://www.wikitree.co.kr/articles/937731"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:06:00 +0900",
+                "title": "고흥·보성·장흥·강진, '행정과 문화' 전문가 대결",
+                "link": "https://www.mpmbc.co.kr/article/KXNJ7vAh0Ys1klIGeoHz"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:00:00 +0900",
+                "title": "[총선 돋보기] 문금주 후보, 4개군 공무원노조 간담회 개최",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2106246"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:36:00 +0900",
+                "title": "[2024 총선]문금주 후보, 5.18광주묘역 찾아 참배 '새 도약' 다짐",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764215"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "광주전남 총선 후보들 현 시대 과제는 단연 '민생' 한목소리",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877649?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:38:00 +0900",
+                "title": "고흥·보성·장흥·강진 문금주 후보, 국립5·18묘역 참배",
+                "link": "http://www.sentv.co.kr/news/view/682361"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:15:00 +0900",
+                "title": "[총선 돋보기] 문금주 후보, 지방의원들과 5.18광주묘역 참배",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2105739"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 03:16:00 +0900",
+                "title": "문금주 후보, 5·18광주묘역 찾아 민주주의 회복과 고흥·보성·장흥·강진의...",
+                "link": "https://www.wikitree.co.kr/articles/937437"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:08:00 +0900",
+                "title": "[4·10 총선 후보] 전남 고흥군·보성군·장흥군·강진군",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641604"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:24:00 +0900",
+                "title": "문금주 후보, 지역주민과 함께 5·18 민주묘지 참배",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324730?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:16:00 +0900",
+                "title": "문금주, 민생 경제 현장 목소리 청취",
+                "link": "http://www.kjdaily.com/article.php?aid=1711277217625636246"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:21:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;서구을 양부남 83억8500만원 ‘재산 1위’",
+                "link": "http://www.jnilbo.com/73105085332"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "광주·전남 4·10 총선 후보자",
+                "link": "http://www.jndn.com/article.php?aid=1711271460382466003"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:36:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;광주·전남 후보별 재산·병역·체납액·전과 현황",
+                "link": "http://www.jnilbo.com/73103720156"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 01:40:00 +0900",
+                "title": "22대 총선 전남 10개 선거구 36명 입후보",
+                "link": "http://www.kukinews.com/newsView/kuk202403240001"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:12:00 +0900",
+                "title": "[2024 총선]문금주 후보, 첫 공식일정 민생경제현장 의견 청취",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763972"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:18:00 +0900",
+                "title": "[2024총선]더불어민주당 문금주 후보, 민생경제 현장 목소리 쳥취에 나서",
+                "link": "https://www.wikitree.co.kr/articles/937213"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:07:00 +0900",
+                "title": "'81세' 박지원·'32억' 주철현… 전남 평균 경쟁률 3.6대 1(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007431197?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:01:00 +0900",
+                "title": "광주·전남 등록 후보 중 재산 1위는 검사 출신 양부남...83억여원 신고[2024...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160543?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:04:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 '검사 출신' 후보 재산 1위…양부남 83억·주철...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763935"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:40:00 +0900",
+                "title": "[4·10총선 후보등록]광주·전남 '검사 출신' 후보 재산 1위",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445495?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583371?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:07:00 +0900",
+                "title": "4·10총선 전남 출마자 중 최고 재력가는 여수갑 주철현",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430885?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "[4·10총선 후보자 등록] 전남",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430843?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:25:00 +0900",
+                "title": "[4·10총선 후보 등록] 전남(22일·최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445444?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:48:00 +0900",
+                "title": "문금주 후보, 녹차골보성향토시장 방문",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/715903"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:40:00 +0900",
+                "title": "문금주 고흥·보성·장흥·강진 후보  지역 주민들의 보다 나은 삶…지역발전...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240322010012983"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:40:00 +0900",
+                "title": "[총선 돋보기] 문금주 후보, 녹차골보성향토시장서 민심 탐방",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2105390"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:04:00 +0900",
+                "title": "이개호 후보, 22대 총선 공식 출정식 '대성황'",
+                "link": "https://www.nbnews.kr/news/articleView.html?idxno=89615"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:40:00 +0900",
+                "title": "고흥 보성 장흥 강진 문금주 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876831?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:14:00 +0900",
+                "title": "민주당 문금주, 고흥·보성·장흥·강진 선거구 후보 등록",
+                "link": "http://www.breaknews.com/1022536"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:48:00 +0900",
+                "title": "이개호 담양·함평·영광·장성 후보  더 좋은 국회의원이 되겠다 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240322010012839"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:42:00 +0900",
+                "title": "[단독]이재명 대표가 후원회장 맡은 8명 중 7명 공천",
+                "link": "https://n.news.naver.com/mnews/article/277/0005395645?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:26:00 +0900",
+                "title": "총선 후보 등록 첫날 광주·전남 18개 선거구에 61명 등록",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711030872766011358"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[4·10총선 전남 지역구 후보 등록 현황] (21일 오후 10시 현재)",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763842"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:10:00 +0900",
+                "title": "이개호 “지역발전, 정권심판”…선거사무소 개소식",
+                "link": "http://www.jndn.com/article.php?aid=1711026416382389114"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580992?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:20:00 +0900",
+                "title": "이개호, 선거사무소 개소식 성황",
+                "link": "http://www.kjdaily.com/article.php?aid=1711020993625496246"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:46:00 +0900",
+                "title": "[4·10총선 후보 등록] 전남(21일 오후 8시 40분 현재)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443141?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:37:00 +0900",
+                "title": "22대 총선 후보 등록 첫 날…전남 10개 선거구 34명 접수",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428405?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:30:00 +0900",
+                "title": "문금주, 고흥·보성·장흥·강진 후보 등록…본격 총선 행보",
+                "link": "http://www.sentv.co.kr/news/view/682228"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:14:00 +0900",
+                "title": "민주당 문금주 후보  남해안 지역 발전 위해 다양한 과제들 추진해 나갈 것 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3120977"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:54:00 +0900",
+                "title": "'정권심판, 지역발전!' 이개호 후보 선거사무소 개소",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641526"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:35:00 +0900",
+                "title": "'고흥·보성·장흥·강진' 문금주 민주당 후보 예비등록",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324483?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:02:00 +0900",
+                "title": "담양·함평·영광·장성 이개호, 민주 공천 갈등 딛고 통합 출정식",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428123?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:58:00 +0900",
+                "title": "더불어민주당 문금주 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580407?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:58:00 +0900",
+                "title": "더불어민주당 문금주 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580405?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:44:00 +0900",
+                "title": "[2024 총선]문금주, 후보자 등록  검찰 독재정권 심판하는 선거 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763818"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:28:00 +0900",
+                "title": "문금주 전 전남도 행정부지사, 본선거 후보 등록",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/715847"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:20:00 +0900",
+                "title": "[총선 돋보기] 문금주, 22대 총선 후보 등록 완료",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2104948"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:04:00 +0900",
+                "title": "이개호 국회의원 후보  정권심판·지역발전 위해 낮은 자세로 뛸 것 …선거사...",
+                "link": "https://www.smartfn.co.kr/article/view/sfn202403210055"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:45:00 +0900",
+                "title": "이개호 국회의원 후보, 선거사무소 개소…본격 출정",
+                "link": "https://n.news.naver.com/mnews/article/382/0001114497?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:44:00 +0900",
+                "title": "[선택4·10] 이개호 후보, 선거사무소 개소식 '대성황'",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065016"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1545227
+            }
+        ],
+        "huboid": "100151564",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4615/Hb100151564/junkwa/20240321164612448_9.PDF"
+    },
+    {
+        "id": "2461501-2",
+        "regionId": "2461501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461501-2.jpg",
+        "기호": 2,
+        "이름": "김형주",
+        "생년월일": "19600703",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "문화기획자",
+        "학력": "전남대학교 대학원 국어국문학과(문학석사)",
+        "경력": "(전)광주광역시립민속박물관 학예연구실장\n(현)고흥분청문화박물관 수증유물 평가위원",
+        "재산": 262000,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:16:00 +0900",
+                "title": "고흥·보성·장흥·강진 선거구 토론회..지역소멸 대책은",
+                "link": "https://www.mpmbc.co.kr/article/gJrbLx-jRVIeO_N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:44:00 +0900",
+                "title": "최저임금법 모르는 최다 전과자…업무상 배임에 세금 체납 후보까지",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386772?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+                "title": "정권 심판에 힘 보탠 文  누가 만든 정권인데 위험한 발언   분열과 갈등만 더...",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058611?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:42:00 +0900",
+                "title": "고흥보성장흥강진 국회의원 후보자 토론회 내일(2) 개최",
+                "link": "https://www.mpmbc.co.kr/article/j6vR65bZTlI51g"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:42:00 +0900",
+                "title": "[뉴스1번지] 윤 대통령, 의료개혁 대국민담화…총선 후보 도덕성 공방",
+                "link": "https://n.news.naver.com/mnews/article/422/0000652819?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:33:00 +0900",
+                "title": "일주이슈 121-3&gt;“관광자원 개발·SOC 확충·지방소멸 극복”",
+                "link": "http://www.jnilbo.com/73183496312"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:46:00 +0900",
+                "title": "[정치라떼] 4·10 총선 레이스 본격 돌입…전직 여야 “후보 개인 도덕성·불...",
+                "link": "https://www.viva100.com/main/view.php?key=20240330010010205"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 22:52:00 +0900",
+                "title": "[나이트포커스] 이종섭 대사 사퇴",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016914?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:46:00 +0900",
+                "title": "'지역경제 활성화' '검찰개혁' 1호 법안 발의 공약도 시대 과제 담겨",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879739?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:58:00 +0900",
+                "title": "운동화도 타이어도 금세 닳는다…후보들 하루 500㎞ 강행군 이곳은?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444610?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:29:00 +0900",
+                "title": "[뉴스포커스] '총선 D-13' 여야 공식 선거운동 돌입…정책 경쟁 주목",
+                "link": "https://n.news.naver.com/mnews/article/422/0000652167?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:40:00 +0900",
+                "title": " 지방이 무너진다  광주전남 총선 후보들 꼽은 지역 현안은 '지방소멸'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878648?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:02:00 +0900",
+                "title": "[공약·정책·한판승부_고흥·보성·장흥·강진]④ '행정과 문화' 전문가 대결",
+                "link": "https://kjmbc.co.kr/article/1lsJSnvwgP_oJYJ9sMoe"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:12:00 +0900",
+                "title": "20240326 목포MBC 뉴스투데이",
+                "link": "https://www.mpmbc.co.kr/article/36P7_Jrpn4LUxXkJZAah6"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:06:00 +0900",
+                "title": "고흥·보성·장흥·강진, '행정과 문화' 전문가 대결",
+                "link": "https://www.mpmbc.co.kr/article/KXNJ7vAh0Ys1klIGeoHz"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "광주전남 총선 후보들 현 시대 과제는 단연 '민생' 한목소리",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877649?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:08:00 +0900",
+                "title": "[4·10 총선 후보] 전남 고흥군·보성군·장흥군·강진군",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641604"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:14:00 +0900",
+                "title": "광주 30%·전남 44% ‘전과’…음주운전·사기·방화도",
+                "link": "http://www.kjdaily.com/article.php?aid=1711277187625621246"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "광주·전남 4·10 총선 후보자",
+                "link": "http://www.jndn.com/article.php?aid=1711271460382466003"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:36:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;광주·전남 후보별 재산·병역·체납액·전과 현황",
+                "link": "http://www.jnilbo.com/73103720156"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:40:00 +0900",
+                "title": "'검사 출신' 양부남 83억 '최고 재력'···10명 중 4명은 '전과자'",
+                "link": "http://www.mdilbo.com/detail/ilgftp/715996"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:24:00 +0900",
+                "title": "10명 중 4명 '전과자'···최고는 '5범'",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/715995"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:44:00 +0900",
+                "title": "[일요와이드] '민생' 앞세운 국민의힘…민주, 리스크 관리 총력",
+                "link": "https://n.news.naver.com/mnews/article/422/0000651468?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 01:40:00 +0900",
+                "title": "22대 총선 전남 10개 선거구 36명 입후보",
+                "link": "http://www.kukinews.com/newsView/kuk202403240001"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 08:32:00 +0900",
+                "title": "[정치라떼] 이종섭 귀국, 총선 민심 뇌관으로…전직 여야  국민의힘에 영향 ",
+                "link": "https://www.viva100.com/main/view.php?key=20240322010007426"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:04:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 후보 중 37.5% 전과…뇌물·음주·방화·사기·...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763948"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:50:00 +0900",
+                "title": "[나이트포커스] 조수진, 강북을 후보 사퇴... 민주당, 한민수 전략 공천",
+                "link": "https://n.news.naver.com/mnews/article/052/0002013942?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:02:00 +0900",
+                "title": "[선택 4·10 총선]전남 후보 44％ 전과자…뇌물·음주·방화 등",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763942"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:44:00 +0900",
+                "title": "뇌물·음주·방화…전남 총선 후보 44％ 전과자",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583501?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:42:00 +0900",
+                "title": "전남 동부권 15명 등록...평균 경쟁률 3:1",
+                "link": "https://ysmbc.co.kr/article/57Y5wDo1VBdSYQ0NbKYqgW"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583371?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "[4·10총선 후보자 등록] 전남",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430843?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:25:00 +0900",
+                "title": "[4·10총선 후보 등록] 전남(22일·최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445444?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:18:00 +0900",
+                "title": "전남 총선 10개 선거구에 36명 후보등록…평균경쟁률 3.6대1",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430836?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:32:00 +0900",
+                "title": "22대 총선 본후보 등록 마감…본선 대진표는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460580"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:40:00 +0900",
+                "title": "고흥 보성 장흥 강진 문금주 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876831?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:08:00 +0900",
+                "title": "[뉴스포커스] '수사외압 의혹' 이종섭 자진 귀국…거취 논란 뇌관",
+                "link": "https://n.news.naver.com/mnews/article/422/0000650966?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 06:44:00 +0900",
+                "title": "이재명과 경쟁했던 박용진은 '구증구포' 피하지 못해...진짜 바보 되나?",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78240"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:14:00 +0900",
+                "title": "여야 대진표 확정…후보 등록 시작",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1710933000765937004"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:54:00 +0900",
+                "title": "[22대 총선 대진표] ⑦호남…민주당 아성 현역 대폭 물갈이",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468931"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:41:00 +0900",
+                "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:50:00 +0900",
+                "title": "전남지역 22대 총선 윤곽...현역 절반 교체",
+                "link": "http://www.cmbkj.co.kr/ab-991-31129"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:34:00 +0900",
+                "title": "“야당이 발목, 2번엔 오신환” vs “정부에 실망, 1해본 고민정”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002282457?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 09:45:00 +0900",
+                "title": "“해본 고민정이 낫지” vs “이번엔 오신환으로”…이 지역, MZ표심에 달렸다...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002282305?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 03:18:00 +0900",
+                "title": "총선 3주 앞으로…전남 지역 선거구 여야 본선 대진표 확정",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763230"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:28:00 +0900",
+                "title": "장예찬 무소속 출마…'尹 1호 참모' 강조-韓 사진 '삭제' 의미는? [뉴스와이드...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001806543?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:26:00 +0900",
+                "title": "與 내 이종섭·황상무 우려…제2의 당정갈등으로 번질 가능성은? [뉴스와이드...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001806542?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:52:00 +0900",
+                "title": "[4·10 총선 누가 뛰나] 민주 ‘행정’ vs 국힘 ‘문화’ 전문가 대결",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1710759000765833359"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:42:00 +0900",
+                "title": "22대 총선 전남 대진표 윤곽…3.4대 1",
+                "link": "http://www.kukinews.com/newsView/kuk202403180247"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:26:00 +0900",
+                "title": "22대 국회의원 선거 '성큼'…전남 대진표 완성",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459881"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:38:00 +0900",
+                "title": "총선 3주 앞…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/081/0003437876?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:02:00 +0900",
+                "title": "전남 민주당 현역 50% 물갈이...여야 본격 레이스",
+                "link": "https://www.ajunews.com/view/20240318123844313"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:31:00 +0900",
+                "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:15:00 +0900",
+                "title": "전남 10개 선거구 22대 총선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/079/0003874673?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:32:00 +0900",
+                "title": "[사설]전남 동부권 대진표 완성, 더불어민주당 공천 잡음 변수",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=762935"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:23:00 +0900",
+                "title": "[일요와이드] 한동훈, 첫 선대위원장 회의…이재명, 수도권 표심 집중",
+                "link": "https://n.news.naver.com/mnews/article/422/0000650209?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 09:10:00 +0900",
+                "title": "[정치라떼] 조국혁신당, 커지는 존재감…여  진영 양극화  vs 야  민주당 실망...",
+                "link": "https://www.viva100.com/main/view.php?key=20240316010004871"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 11:29:00 +0900",
+                "title": "[뉴스포커스] 전해철 탈락 - 박지원·정동영 공천…여야  막말 경계령 ",
+                "link": "https://n.news.naver.com/mnews/article/422/0000649699?sid=100"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 23:40:00 +0900",
+                "title": "문금주 예비후보 본선행,  전국 최다 득표로 반드시 국회 입성 하겠다 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=554239"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 21:02:00 +0900",
+                "title": "문금주  최다 득표 목표 ‥손훈모  본선 승리할 것 ",
+                "link": "https://ysmbc.co.kr/article/EE0CCqDAr54eed"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 18:42:00 +0900",
+                "title": "큰절 올리고 도청 떠났던 문금주, 여의도 ‘성큼’",
+                "link": "http://www.jndn.com/article.php?aid=1710322681381737003"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 18:40:00 +0900",
+                "title": "광주전남 18곳 출사표...국민의힘, 당선 깃발 꽂나",
+                "link": "http://www.jndn.com/article.php?aid=1710322639381730001"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 17:57:00 +0900",
+                "title": "민주당 문금주 후보  정권교체 요구한 명확한 메시지 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003873525?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 16:30:00 +0900",
+                "title": "조인철·문금주 '승리'·김광진 '패배'…광역 부단체장 출신들 경선서 엇갈린...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002323295?sid=102"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 16:01:00 +0900",
+                "title": "한동훈 15일 민주당 텃밭 호남 방문…국힘, 전 지역구 후보 출격(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007408954?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 15:29:00 +0900",
+                "title": "[총선]'도청서 큰절 효과?' 문금주도 여의도 입성 초읽기",
+                "link": "https://n.news.naver.com/mnews/article/417/0000988498?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 11:31:00 +0900",
+                "title": "고흥·보성·장흥·강진 민주당 문금주 후보 확정",
+                "link": "https://n.news.naver.com/mnews/article/079/0003873278?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 09:48:00 +0900",
+                "title": "[선택4·10] 전남 민주당 경선결과 발표, 손훈모·김원이·문금주 확정",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1061504"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 09:08:00 +0900",
+                "title": "'큰 절' 올리고 떠났던 문금주 전 전남 부지사…여의도 입성 '성큼'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007407383?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 08:57:00 +0900",
+                "title": "고흥·보성·장흥·강진 '변화' 택했다…진정성 통한 '정치신인' 문금주 본선...",
+                "link": "https://n.news.naver.com/mnews/article/011/0004312324?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 08:01:00 +0900",
+                "title": "민주당 '고·보·장·강 경선' 신인 문금주, 재선 김승남 꺽고 본선 진출",
+                "link": "https://n.news.naver.com/mnews/article/417/0000988319?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 23:46:00 +0900",
+                "title": "광주·전남 더불어민주당 경선 결과 나와… 조인철·김원이·문금주·손훈모 ...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3117665"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 23:02:00 +0900",
+                "title": "'비명' 공천 탈락 이어져… 송갑석·도종환·이용우 낙천",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3117637"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 21:14:00 +0900",
+                "title": "민주, '비명' 송갑석·'친문' 도종환 낙천…'비명횡사'(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014559048?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 21:01:00 +0900",
+                "title": "민주 '고보장강' 문금주 전 전남부지사, 현역 김승남 누르고 본선",
+                "link": "https://n.news.naver.com/mnews/article/421/0007406954?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 18:47:00 +0900",
+                "title": "‘보수 험지’ 호남서 새 역사 나올까… 與 전략은 민심 보듬기 [요동치는 전...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005155121?sid=102"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 17:26:00 +0900",
+                "title": "[전남일보]국민의힘  경쟁력 있는 후보로 '험지' 광주 돌파 ",
+                "link": "http://www.jnilbo.com/72996243858"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 17:02:00 +0900",
+                "title": "국힘, 전남 전 선거구 공천 마무리",
+                "link": "http://www.kukinews.com/newsView/kuk202403120258"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:13:00 +0900",
+                "title": "박용진 탈락·김동아 승리  찐명당 완성?..아무도 납득할 수 없는 일 [박영환...",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057290?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 11:35:00 +0900",
+                "title": "'험지' 광주·전남서 국힘 일낼까..한동훈 선두 선다[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005154735?sid=102"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 07:07:00 +0900",
+                "title": "인물 중량감 높이고 전남 10개 전 선거구 공천…국민의힘 성적표는?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007404535?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 20:39:00 +0900",
+                "title": "출금 해제 이틀 만에 출국…이종섭 호주행 논란, 왜? [뉴스와이드]",
+                "link": "https://n.news.naver.com/mnews/article/057/0001804944?sid=102"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 20:32:00 +0900",
+                "title": "'고양' 한동훈, '천안' 이재명…방문지를 보면 총선 전략이 보인다? [뉴스와이...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001804940?sid=102"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:46:00 +0900",
+                "title": "국민의힘, 광주·전남 공천 완료",
+                "link": "http://www.kjdaily.com/article.php?aid=1710069572624363002"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 18:32:00 +0900",
+                "title": "[사설]국민의힘, 불모지 광주·전남 전체 공천 '대전환'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=761945"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 18:02:00 +0900",
+                "title": "[총선 D-30] 광주·전남 본선 대진표 '윤곽'···'민주 대 비민주'",
+                "link": "http://www.mdilbo.com/detail/RHfGUG/714793"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 17:58:00 +0900",
+                "title": "국민의힘, 광주·전남 18개 선거구에 모두 출마한다(종합)",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=761956"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 14:32:00 +0900",
+                "title": "국민의힘, 8년만에 전남 전지역 후보 공천",
+                "link": "http://www.mdilbo.com/detail/Z0UE6f/714744"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 14:18:00 +0900",
+                "title": " '변방' 이재명, 민주당 DNA 주류 교체  vs  尹 심판론 영원할 거라 착각, 자...",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057159?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 13:54:00 +0900",
+                "title": "'MB 장관' 진수희  이재명-조국, 尹 심판?..범죄 피의자 연대, 정치 퇴행 씁쓸...",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057158?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 13:31:00 +0900",
+                "title": "[일요와이드] 여야, 공천 작업 막바지…선대위원장 인선 주목",
+                "link": "https://n.news.naver.com/mnews/article/422/0000649000?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 08:11:00 +0900",
+                "title": "[총선 D-30] 민주당, 전남 후보 경선 중…국힘, 전 선거구 출격",
+                "link": "https://n.news.naver.com/mnews/article/421/0007400675?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 20:48:00 +0900",
+                "title": "국민의힘, 8년 만에 전남 전 지역 공천",
+                "link": "https://n.news.naver.com/mnews/article/079/0003871978?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 17:06:00 +0900",
+                "title": "국민의힘, 전남 10개 전체 선거구 출마…20대 총선 이후 8년 만에 후보 모두 ...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=761848"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 16:10:00 +0900",
+                "title": "[정치라떼] 제3지대 신당, 총선에 미풍 될까 태풍 될까…전직 여야 “제3지대...",
+                "link": "https://www.viva100.com/main/view.php?key=20240309010002400"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 15:48:00 +0900",
+                "title": "국민의힘  8년 만에 전남 10개 선거구에 모두 출마 ",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057114?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 15:05:00 +0900",
+                "title": "국민의힘, 전남 10개 선거구 모두 출마…20대 총선 이후",
+                "link": "https://n.news.naver.com/mnews/article/003/0012416643?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 14:51:00 +0900",
+                "title": "국민의힘, 전남 10개 선거구에 모두 출마한다",
+                "link": "https://n.news.naver.com/mnews/article/417/0000987557?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 262000
+            }
+        ],
+        "huboid": "100152987",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4615/Hb100152987/junkwa/20240307174248725_1.PDF"
+    }
 ]

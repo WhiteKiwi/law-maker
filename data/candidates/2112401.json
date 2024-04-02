@@ -1,149 +1,1235 @@
 [
-  {
-    "id": "2112401-1",
-    "regionId": "2112401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-1.jpg",
-    "기호": 1,
-    "이름": "조재희",
-    "생년월일": "19590217",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
-    "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
-    "재산": 402525,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "'강남 지원 유세' 박용진  내가 한민수 안 도와? 그건 음해 ",
-        "link": "https://n.news.naver.com/mnews/article/015/0004967287?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:20:00 +0900",
-        "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:14:00 +0900",
-        "title": "고3·송파맘에 달렸다…‘새인물’ 박정훈 vs ‘4수’ 조재희 [배틀필드410]",
-        "link": "https://www.etoday.co.kr/news/view/2346492"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:07:00 +0900",
-        "title": "침묵 깨고 나온 박용진…강북구을 대신 강남권 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704548?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 402525
-      }
-    ]
-  },
-  {
-    "id": "2112401-2",
-    "regionId": "2112401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-2.jpg",
-    "기호": 2,
-    "이름": "박정훈",
-    "생년월일": "19710208",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
-    "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
-    "재산": 3230376,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:17:00 +0900",
-        "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
-        "link": "https://www.newspim.com/news/view/20240401001269"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-        "title": "與 송파갑 박정훈, 요리사 복장으로 공약 홍보 눈길",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920142?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:29:00 +0900",
-        "title": "상대 ‘약점 공략’ 표심 흔들기… 사라진 ‘정책선거’ [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037941?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:20:00 +0900",
-        "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3230376
-      }
-    ]
-  },
-  {
-    "id": "2112401-7",
-    "regionId": "2112401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-7.jpg",
-    "기호": 7,
-    "이름": "송재열",
-    "생년월일": "19800715",
-    "정당": "개혁신당",
-    "성별": "남",
-    "직업": "송재열교육개혁연구소 소장",
-    "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
-    "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
-    "재산": -78984,
-    "군필여부": true,
-    "전과건수": 5,
-    "news": [
-      {
-        "date": "Thu, 28 Mar 2024 19:26:00 +0900",
-        "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:16:00 +0900",
-        "title": "[출마합니다] 더불어민주당 조재희 송파갑 후보  세 분의 대통령 보필한 경험...",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486104"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "4.10 총선 출마자의 32% 전과 기록 보유··· 단순비교는 어려워 ",
-        "link": "http://www.redian.org/archive/179309"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:36:00 +0900",
-        "title": "4 ·10 총선 후보자 평균 재산 24억원",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557879"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:14:00 +0900",
-        "title": " 22대 총선 후보자 10명 중 3명 전과기록 보유···부실 공천 '도마 위' ",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=149058"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -78984
-      }
-    ]
-  }
+    {
+        "id": "2112401-1",
+        "regionId": "2112401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-1.jpg",
+        "기호": 1,
+        "이름": "조재희",
+        "생년월일": "19590217",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
+        "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
+        "재산": 402525,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:11:00 +0900",
+                "title": "[2024총선] 박용진 의원 송파(갑.병)서초(을) 주말 유세 지원하며 '민주당' 지...",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051158"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:49:00 +0900",
+                "title": "임종석·박용진, 굳이 험지로 간 까닭은…비명횡사를 영웅서사로",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452686?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:23:00 +0900",
+                "title": "서울, 민주당 21대 총선 결과 넘을지 초미의 관심사",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428489?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:46:00 +0900",
+                "title": "임종석·박용진, '비명횡사' 털어내고 민주 단일대오 동참...격전지 종횡무진",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=260084"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+                "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:00:00 +0900",
+                "title": "김부겸·임종석·박용진, 험지·격전지에서 심판론 '선봉장'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464895?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:01:00 +0900",
+                "title": "유승민·임종석·박광온·박용진···‘백의종군’ 여야 비주류들, 왜?[여의...",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288120?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "'강남 지원 유세' 박용진  내가 한민수 안 도와? 그건 음해 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967287?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "고3·송파맘에 달렸다…‘새인물’ 박정훈 vs ‘4수’ 조재희 [배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2346492"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:07:00 +0900",
+                "title": "침묵 깨고 나온 박용진…강북구을 대신 강남권 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704548?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:01:00 +0900",
+                "title": "유승민·박용진·임종석…총선 열흘 앞두고 비주류도 뛴다",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321273?sid=104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:04:00 +0900",
+                "title": "野박용진 “與후보 공보물에 사진 도용”…“인간적인 감사의 마음 담았다” ...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919830?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:40:00 +0900",
+                "title": "[총선★나도뛴다] 조재희  송파 전문가, 한성백제 역사문화 신도시 건설 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018315"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:52:00 +0900",
+                "title": "계양서 표밭 다진 이재명  與 악어의 눈물 속지말라 ",
+                "link": "https://n.news.naver.com/mnews/article/009/0005281071?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:25:00 +0900",
+                "title": "후보보다 눈에 띄네…총선 유세 신스틸러, 박용진·임종석·유승민",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683277?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:44:00 +0900",
+                "title": "이재명 “국힘 흘리는 악어의 눈물에 속지마라…그들은 지금 읍소작전”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280960?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:06:00 +0900",
+                "title": "침묵 깨고 지원유세 나선 박용진... 험지만 골라",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428239?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:00:00 +0900",
+                "title": "박용진  박진웅 서울 강북을 국민의힘 후보, 공보물에 사진 도용 ",
+                "link": "https://www.ajunews.com/view/20240331144742530"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:56:00 +0900",
+                "title": "여야, 총선 앞 '네거티브' 공세···유권자 피로도 '절정'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106762"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:45:00 +0900",
+                "title": "[뉴스1 PICK]'비명횡사' 박용진, 강남3구·TK 격전지 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447911?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:09:00 +0900",
+                "title": "민주당 선거운동 동참한 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600400?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600394?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600395?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "민주당 선거운동 동참한 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600398?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "민주당 선거운동 동참한 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600397?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600393?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "민주당 선거운동 동참한 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600399?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600396?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:07:00 +0900",
+                "title": "민주당 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600391?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:07:00 +0900",
+                "title": "민주당 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600392?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 지원유세 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461081?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 손 잡은 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461078?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461076?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461079?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "박용진 의원, 조재희 후보 지원 유세 나서",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461080?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 지원 유세 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461083?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 손 잡은 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461077?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "박용진 의원, 조재희 후보와 함께",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461085?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461084?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:56:00 +0900",
+                "title": "박용진 의원, 조재희 후보 지원 유세 나서",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461082?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:53:00 +0900",
+                "title": "조재희 후보 지원 유세 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461072?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:53:00 +0900",
+                "title": "조재희 후보 지원 유세 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461073?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:53:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461070?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:53:00 +0900",
+                "title": "조재희 후보 지지 호소하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461071?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:44:00 +0900",
+                "title": "민주 '우세 굳히기'…정권심판론 부각 양문석 거리두기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447695?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:41:00 +0900",
+                "title": "박용진 의원 '기호 1번'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447691?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:41:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지지 호소'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447689?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:41:00 +0900",
+                "title": "시민들 만나는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447690?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:41:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지지 호소'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447692?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:40:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447680?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "조재희 후보 지원 유세 하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447672?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447674?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 조재희 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447664?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447678?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "조재희 후보 지원 유세 하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447675?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 송파갑 조재희 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447671?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447666?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 송파갑 조재희 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447670?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원 '조재희 후보 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447669?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 조재희 송파갑 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447665?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 조재희 송파갑 후보 지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447668?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "조재희 후보 지원 유세 하는 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447673?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:36:00 +0900",
+                "title": "박용진 의원, 조재희 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447677?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:35:00 +0900",
+                "title": "조재희 후보 지원 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447662?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:35:00 +0900",
+                "title": "조재희 후보 지원 나선 박용진 의원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447663?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:19:00 +0900",
+                "title": "한동훈 “뒷구멍으로 늘 이런 식”…이재명 “국민들 염장을 지른다” [총선 ...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919584?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:05:00 +0900",
+                "title": "민주, 한동훈 향해 “쓰레기란 말 그렇게 입에서 함부로 꺼내는 것 아니다”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919572?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 03:05:00 +0900",
+                "title": "이재명 “尹정권 대체 무엇 했는가. 차라리 놀았으면 나은데 나라 망쳤지 않았...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919568?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 01:03:00 +0900",
+                "title": "이재명 “국민의힘 살려달라고 절하기 시작, 읍소작전 속지 말라”…초접전지...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919562?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:43:00 +0900",
+                "title": "운동화 신은 이재명",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447130?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:02:00 +0900",
+                "title": "이재명  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력 집중",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068420"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:33:00 +0900",
+                "title": "한동훈  이재명 쓰레기 발언  이재명  대통령 비하해도 돼 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460618?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:22:00 +0900",
+                "title": "이재명,  4월 10일은 국민이 승리하는 날...지인에게 투표 독려해 달라 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307262"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:06:00 +0900",
+                "title": "박용진 민주당 의원, 31일 격전지 송파·서초 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320936?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:04:00 +0900",
+                "title": "한동훈  쓰레기 같은 말들  vs 이재명  與 엄살 속지 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879943?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:03:00 +0900",
+                "title": "민주, 수도권 화력 집중… 與 과반 차지하면 나라 끝장 ",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399470?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:43:00 +0900",
+                "title": "‘경선 두 번 고배’ 박용진, 총선 지원 나선다…31일 송파·서초 유세",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288197?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:15:00 +0900",
+                "title": "‘경선 탈락’ 박용진, 31일 서울 송파·서초 선거 지원 나선다",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683207?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:58:00 +0900",
+                "title": "민주  與 읍소 쇼해도 속지말라 …첫 주말 '한강벨트' 화력집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599841?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:54:00 +0900",
+                "title": "공식 선거운동 첫 주말, 이재명 서울 한바퀴 돌며  단독 1당  당부(종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703474?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:50:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460584?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:37:00 +0900",
+                "title": "송파 찾은 이재명 “尹 차라리 놀았으면 나은데, 나라 망쳐… 좀 비하해도 돼...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002629454?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:46:00 +0900",
+                "title": "이재명  대통령·정치인 좀 비하해도 된다  … 정작 본인은 '소송 맞대응'",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000050.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:36:00 +0900",
+                "title": "한동훈  형수욕설, 웅동학원  이재명  윤석열, 국민능멸 ···주말 유세전 치...",
+                "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=401707"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:31:00 +0900",
+                "title": "이재명  권력읍소에 속으면 안돼 …선거운동 첫주말 한강벨트 집중",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460510?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:05:00 +0900",
+                "title": "이재명, 공식 선거운동 첫 주말 '서울' 공략… 尹 비하해도 돼 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446871?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:54:00 +0900",
+                "title": "이재명  여당 읍소작전 속지 말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143121?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:30:00 +0900",
+                "title": "이재명  이번 총선 투표해달라 …첫 주말 '한강벨트' 집중",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809168?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:16:00 +0900",
+                "title": "민주당, 총선 첫 주말 ‘수도권’ 집중 공략",
+                "link": "http://www.kukinews.com/newsView/kuk202403300025"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:10:00 +0900",
+                "title": "이재명  尹이 사람 꽂은 지역은 국힘이 열세더라 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870102?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:04:00 +0900",
+                "title": "민주  與 읍소작전 속지말라 …첫 주말 '한강벨트' 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599609?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:01:00 +0900",
+                "title": "공식 선거운동 첫 주말 험지 송파 찾은 이재명  尹, 차라리 놀았으면 나은데 ...",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320896?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:46:00 +0900",
+                "title": "이재명  與, 특별한 기술 있나…짧은 시간 나라 망쳐 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824575?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:39:00 +0900",
+                "title": "송파 찾은 이재명 “반드시 민주 단독 과반해야…국힘에 속으면 안 된다”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440912?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:37:00 +0900",
+                "title": "생쥐나라 지도자가 고양이?…이재명 “쥐는 쥐를 뽑아야 한다”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703432?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:34:00 +0900",
+                "title": "이재명  尹 정권 심판해 민주당 과반 의석 도와달라 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017071?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 402525
+            }
+        ],
+        "huboid": "100151711",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100151711/junkwa/20231219180616202_1.PDF"
+    },
+    {
+        "id": "2112401-2",
+        "regionId": "2112401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-2.jpg",
+        "기호": 2,
+        "이름": "박정훈",
+        "생년월일": "19710208",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
+        "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
+        "재산": 3230376,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:52:00 +0900",
+                "title": "[뉴스하이킥] 김종대  녹색정의당 위기는 정치의 위기.. 살려만 주시길 ",
+                "link": "https://n.news.naver.com/mnews/article/214/0001340301?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:37:00 +0900",
+                "title": "[4.10총선 이슈]  튀어야 산다 .. '고3, 천원 아침밥' '반려동물 건강보험 도...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641564"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+                "title": "박정훈  범야권 200석시 이재명 공화국 …與 내부, 총선 '위기감'",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453769?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:40:00 +0900",
+                "title": "당진 총선 이슈로 부상한 '돼지 축사'...  모든 정당이 반대 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428550?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "[천안갑] “저급한 정치” vs “내로남불” 문진석-신범철 더 다급한 후보는 ...",
+                "link": "http://www.sisanews24.co.kr/13386"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:26:00 +0900",
+                "title": "경기 화성을, 이준석-공영운 '아빠찬스·코인투자' 네거티브 공방 치열",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=260095"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:38:00 +0900",
+                "title": "[오늘의 주요 정치 일정] 국회(4월2일 화요일)",
+                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=333027"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:47:00 +0900",
+                "title": "[정치쇼] 박성민  尹 대국민 담화, 기름을 붓고 갔다 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001143738?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:02:00 +0900",
+                "title": "박정훈  야권 200석 되면 이재명 공화국 될 것…총선서 심판해야 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001004"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:42:00 +0900",
+                "title": "[오늘의 국회] 2024년 4월2일",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404020936035380924"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:17:00 +0900",
+                "title": "[전종철의 전격시사] - 박정훈 서울 송파갑 후보 (국민의힘) - “야당 200석 ...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693380?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+                "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:16:00 +0900",
+                "title": "與  이재명, 악어의 눈물  vs 野  이종섭, 중간고리 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150705"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:07:00 +0900",
+                "title": "[오늘의 정치일정] 4월 2일(화)",
+                "link": "https://www.newspim.com/news/view/20240402000001"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] '대장동 배임·성남FC 뇌물' 이재명 공판",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213395"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:00:00 +0900",
+                "title": "[오늘의 국회일정](2일·화)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604026?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:18:00 +0900",
+                "title": "【오늘의 국회일정】 2024년 4월 1일",
+                "link": "https://www.lawtimes.co.kr/news/197255"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:40:00 +0900",
+                "title": " 채상병 유가족 아픔 달래드리겠다 던 문진석, 유가족에 사과",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815973?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정]국회(4월2일 화요일)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464803?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+                "title": "[오늘의 국회일정] (2일, 화)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451608?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(2일, 화)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451615?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:17:00 +0900",
+                "title": "[오늘의 국회일정] 조은희·강민정·황보승희 의원 등 소통관서 기자회견(4.2...",
+                "link": "https://www.newspim.com/news/view/20240401001269"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+                "title": "與 송파갑 박정훈, 요리사 복장으로 공약 홍보 눈길",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920142?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:29:00 +0900",
+                "title": "상대 ‘약점 공략’ 표심 흔들기… 사라진 ‘정책선거’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037941?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "고3·송파맘에 달렸다…‘새인물’ 박정훈 vs ‘4수’ 조재희 [배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2346492"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:06:00 +0900",
+                "title": "[4.10 총선] 송파갑 국힘 박정훈, 등굣길 요리사로 변신…이색유세 '화제'",
+                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202404011554271477f83bf132e7_1/article.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:04:00 +0900",
+                "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
+                "link": "http://www.mhj21.com/160220"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해병대 예비역, '나경원 유세' 김흥국 직격  표 뚝뚝, 계속해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428379?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+                "title": "송파갑 與 박정훈, 등굣길 '요리사'로 변신…이색 유세 눈길",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967193?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:27:00 +0900",
+                "title": "'송파갑' 與 박정훈, '요리사'로 변신… 고3도 아침밥 먹고 가세요 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815758?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:10:00 +0900",
+                "title": "박정훈 송파갑 국회의원 후보, 등굣길 요리사로 변신…이색유세 눈길",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107073"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "송파에 아이언맨ㆍ범블비 출현…이색 유세 눈길",
+                "link": "https://www.etoday.co.kr/news/view/2346393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:22:00 +0900",
+                "title": "김부겸 “尹대통령, 총선 후 국정쇄신책 마련해 이재명 만나라”",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404011051425590515"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:22:00 +0900",
+                "title": "[천안갑 난타전] 문진석 ‘해병대 외압’ 맹공 VS 신범철 ‘허위사실공표’ 고...",
+                "link": "http://www.sisanews24.co.kr/13379"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:58:00 +0900",
+                "title": "이해찬  여당 막말, 들어줄 수 없는 수준…일부러 싸움 거나 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704207?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:36:00 +0900",
+                "title": "이해찬  이종섭 사의해도 이제 시작…맨 윗선까지 올라가게 돼 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449377?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:50:00 +0900",
+                "title": "윤일병 10주기 앞둔 애끓는 모정… 강산도 변하는데 현재진행형 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601452?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:30:00 +0900",
+                "title": "[현장]  한동훈 떴다 …국민의힘, 수천명 지지자와 송파서 '세과시'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815510?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:02:00 +0900",
+                "title": "[칼럼]이종섭의 사퇴, '제궤의혈'의 일단락이 아니다",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880154?sid=110"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:20:00 +0900",
+                "title": "[현장] 해병대 군가 부르며 전의 다진 전재수, '채상병 특검법' 관철 약속",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815491?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:31:00 +0900",
+                "title": "한동훈 비대위원장 '박정훈 송파갑-배현진 송파을-김근식 송파병 지원 유세'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815475?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:30:00 +0900",
+                "title": "'국민의힘 송파 합동 유세'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815474?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:29:00 +0900",
+                "title": "지지 호소하는 박정훈 국민의힘 송파갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815472?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:28:00 +0900",
+                "title": "지지 호소하는 박정훈 국민의힘 송파갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815470?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:28:00 +0900",
+                "title": "박정훈 국민의힘 송파갑 후보 '지지호소'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815471?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:27:00 +0900",
+                "title": "주먹 불끈 쥔 박정훈 국민의힘 송파갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815468?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:25:00 +0900",
+                "title": "시민들 바라보는 박정훈 국민의힘 송파감 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815466?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:50:00 +0900",
+                "title": "한동훈  양문석 어디서 약 파냐 · 악어의 눈물 이재명 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448691?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:46:00 +0900",
+                "title": "이종섭 리스크 왜 빨리 차단 못했나",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475422"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:22:00 +0900",
+                "title": "[포토] 포옹하는 한동훈-박정훈 송파갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100077.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:46:00 +0900",
+                "title": "[포토] 국민의미래 비례후보들과 석촌호 찾은 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100073.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:40:00 +0900",
+                "title": "[포토] 국민의힘 석촌호 유세장에 등장한 '범블비-아이언맨'",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/31/2024033100072.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:06:00 +0900",
+                "title": "침묵 깨고 지원유세 나선 박용진... 험지만 골라",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428239?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:58:00 +0900",
+                "title": "대중 정서와 동떨어진 한동훈의 ‘이·조 범죄자’ 선거 마케팅",
+                "link": "https://vop.co.kr/A00001650661.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:42:00 +0900",
+                "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:03:00 +0900",
+                "title": "'정치적 중립'이 생명이라는 공수처, 반복되는 '정치적 편향성' 논란으로 몸살",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075592?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:40:00 +0900",
+                "title": "문진석  선거 도우러 온 것 아니 라지만…해병대 예비역  문진석 뽑아달라 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815333?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 06:15:00 +0900",
+                "title": "한동훈, 선거운동 첫 주말 수도권 집중공략…공약 발표도",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447196?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:06:00 +0900",
+                "title": "“해병대 외압 조사·재판 허송세월 신범철 뽑으면 안 돼” 해병대 예비역의 ...",
+                "link": "http://www.sisanews24.co.kr/13371"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:58:00 +0900",
+                "title": "[조맹기의 언론 톺아보기] 국방장관이 국군 해병대 수사단장 지휘하는 게 불법...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226440"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:24:00 +0900",
+                "title": "조선일보  탄핵 구호, 尹대통령에게도 책임 있다 ",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123173?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:20:00 +0900",
+                "title": "여야, 주말 수도권 총력전...후보 '재산 리스크' 변수로",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017051?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:48:00 +0900",
+                "title": "尹대통령, 이종섭 호주대사 면직안 재가…임명 25일만",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667567"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:48:00 +0900",
+                "title": " 송파에 뼈를 뭍겠다  박정훈 국민의힘 송파(갑)후보 출정식 가져",
+                "link": "http://www.tournews21.com/news/articleView.html?idxno=68330"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:37:00 +0900",
+                "title": "호주 국영방송  이종섭 사임, 논란 있고 유해한 인사임이 판명 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428143?sid=104"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:02:00 +0900",
+                "title": "[노컷한컷]의사와 벚꽃의 '공통점'은?…힌트는 돌아온 서울 버스",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879846?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 04:31:00 +0900",
+                "title": "[사설] 늦었지만 민심 수용한 이종섭 사퇴··· 절차대로 수사를",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793322?sid=110"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 01:18:00 +0900",
+                "title": "이종섭 25일 만에 사의…장윤미  수사 적극 임해야  강전애  용산과 사전 조율...",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507878"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 22:52:00 +0900",
+                "title": "[나이트포커스] 이종섭 대사 사퇴",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016914?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:41:00 +0900",
+                "title": "이탄희  장관은 대사, 차관은 공천... 국민은 진실 원한다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428117?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:04:00 +0900",
+                "title": "[단독] 사의표명 날에 온 '증인신청서'…박정훈 재판도 출석할까",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386282?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:03:00 +0900",
+                "title": "이종섭, 호주에 고작 '열흘' 있었다…'외교 결례' 지적도",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386281?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:01:00 +0900",
+                "title": "임명 25일 만에 물러난 이종섭…국민의힘 '사퇴 건의' 통했나",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386279?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:01:00 +0900",
+                "title": "[영상] 이재명 반갑게 껴안은 임종석  4월 10일 채수근 상병을 기억하는 한 표...",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123165?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:47:00 +0900",
+                "title": "한동훈, '수도권 위기론'에 서울·경기 집중 공략…경합지역 우위 점할까",
+                "link": "https://www.newspim.com/news/view/20240329000760"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:18:00 +0900",
+                "title": "이종섭  수사하라 며 사표…응답 없는 공수처 부담 가중",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459728?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:43:00 +0900",
+                "title": "함경우  광주, 경기도 노른자로 탈바꿈 시킬 것 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428074?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:22:00 +0900",
+                "title": "[이슈] 이종섭, 총선 12일 앞두고 임명 25일 만에 사의.. 與  공수처, 조속히...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641124"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:59:00 +0900",
+                "title": "이종섭 사퇴…與  민심 따랐다 vs野  대통령 사과해야 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879683?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:16:00 +0900",
+                "title": "박주민 “이종섭 사퇴로 죄 안 덮여, 수사외압 특별법 처리하자” 여당 압박",
+                "link": "https://vop.co.kr/A00001650502.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:34:00 +0900",
+                "title": "野, '이종섭 대사직 사퇴'에 일제히  尹 사과해야 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850640"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:13:00 +0900",
+                "title": "야권, 이종섭 사퇴에  주범은 용산에 있다…尹 사과하라 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075515?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:27:00 +0900",
+                "title": "이종섭 자진사퇴에 野 “윤석열 대통령 대국민 사과해야” 공세",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287790?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:23:00 +0900",
+                "title": "개혁신당·새미래, 이종섭 사의표명 놓고  주범은 용산에...尹도 사과하라 [2...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005163871?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:21:00 +0900",
+                "title": "야당, 이종섭 사의 표명에 “주범은 용산에 있다”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287574?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:15:00 +0900",
+                "title": "[2024 총선 기획] 언론계 국회의원 배출 공식? 18~21대 KBS·MBC 17명",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123154?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3230376
+            }
+        ],
+        "huboid": "100152140",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100152140/junkwa/20240112161959252_1.PDF"
+    },
+    {
+        "id": "2112401-7",
+        "regionId": "2112401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-7.jpg",
+        "기호": 7,
+        "이름": "송재열",
+        "생년월일": "19800715",
+        "정당": "개혁신당",
+        "성별": "남",
+        "직업": "송재열교육개혁연구소 소장",
+        "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
+        "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
+        "재산": -78984,
+        "군필여부": true,
+        "전과건수": 5,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+                "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:26:00 +0900",
+                "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:16:00 +0900",
+                "title": "[출마합니다] 더불어민주당 조재희 송파갑 후보  세 분의 대통령 보필한 경험...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486104"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:48:00 +0900",
+                "title": "4.10 총선 출마자의 32% 전과 기록 보유··· 단순비교는 어려워 ",
+                "link": "http://www.redian.org/archive/179309"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:36:00 +0900",
+                "title": "4 ·10 총선 후보자 평균 재산 24억원",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557879"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:14:00 +0900",
+                "title": " 22대 총선 후보자 10명 중 3명 전과기록 보유···부실 공천 '도마 위' ",
+                "link": "https://www.ngonews.kr/news/articleView.html?idxno=149058"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:10:00 +0900",
+                "title": "22대 총선 후보자 3명 중 1명 전과자…평균 재산 20억원대 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702039?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "'국민 눈높이' 공천?...전과있는 후보 305명·후보 1인당 재산 24.4억원",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318614"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:34:00 +0900",
+                "title": "22대 총선 출마자 중 전과자 32%…민주당 100명·국민의힘 59명",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701855?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:34:00 +0900",
+                "title": "與박정훈  보수에도 새 얼굴 필요…소명의식 갖고 출마 [총선人]",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698807?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:17:00 +0900",
+                "title": "총선 후보자 평균재산 28억…국힘 김복덕 1446억 1위(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445485?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:42:00 +0900",
+                "title": "[홍준철의 여의도안테나] 벌써 두 번째 윤석열-한동훈 충돌, 총선 공멸로 가는...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485828"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+                "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:16:00 +0900",
+                "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:34:00 +0900",
+                "title": "총선 맞아 송파구 장애인들, 지역구 후보에 '탈시설권리 요구'",
+                "link": "https://www.beminor.com/news/articleView.html?idxno=26100"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 17:40:00 +0900",
+                "title": "서울 민심 ‘바로미터’ 송파갑…22대 총선 기류 변화?",
+                "link": "https://www.etoday.co.kr/news/view/2339972"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:41:00 +0900",
+                "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
+                "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:40:00 +0900",
+                "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 공천",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84020"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 18:34:00 +0900",
+                "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:54:00 +0900",
+                "title": "[선택4·10] 개혁신당, 양향자 용인갑·조응천 남양주갑·류호정 분당갑 등 경...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060212"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:38:00 +0900",
+                "title": "개혁신당, 양향자·조응천·류호정 등 공천…수도권 다수 포진",
+                "link": "https://n.news.naver.com/mnews/article/031/0000818877?sid=100"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:32:00 +0900",
+                "title": "류호정  서운한 것 없다  이준석  뜻 맞출 수 있다 …개혁신당 35명 공천",
+                "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:24:00 +0900",
+                "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
+                "link": "https://www.newspim.com/news/view/20240308000944"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 17:10:00 +0900",
+                "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -78984
+            }
+        ],
+        "huboid": "100152906",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100152906/junkwa/20240229181920510_1.PDF"
+    }
 ]

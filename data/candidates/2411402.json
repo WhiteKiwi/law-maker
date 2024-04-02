@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2411402-1",
-    "regionId": "2411402",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411402-1.jpg",
-    "기호": 1,
-    "이름": "김남희",
-    "생년월일": "19780222",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "변호사",
-    "학력": "서울대학교 대학원 법학과 박사과정 수료",
-    "경력": "(전)참여연대 복지조세팀장\n(전)서울대학교 법학전문대학원  임상부교수",
-    "재산": 2135943,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:54:00 +0900",
-        "title": "광명시을 김남희VS전동석 주요 공약은? (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168454"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:30:00 +0900",
-        "title": "광명시기독교연합회, '2024 부활절 연합예배'",
-        "link": "https://www.goodnews1.com/news/articleView.html?idxno=433270"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 23:40:00 +0900",
-        "title": "제22대 국회의원선거 광명갑ㆍ을 후보자토론회 개최",
-        "link": "http://www.joygm.com/news/articleView.html?idxno=213299"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:43:00 +0900",
-        "title": " 정정당당 클린 선거 운동 ...광명시 부활절 연합예배 참석한 여야 후보들",
-        "link": "https://www.newspim.com/news/view/20240331000193"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:34:00 +0900",
-        "title": "국민의힘  이용우, 500여 건의 수임 신고 누락한 혐의…선거법위반 고발 ",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242310"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2135943
-      }
-    ]
-  },
-  {
-    "id": "2411402-2",
-    "regionId": "2411402",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411402-2.jpg",
-    "기호": 2,
-    "이름": "전동석",
-    "생년월일": "19620301",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 행정대학원 졸업(정책학 석사)",
-    "경력": "(전)제7대 경기도의원\n(현)국민의힘 광명시을 조직위원장",
-    "재산": 380100,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:54:00 +0900",
-        "title": "광명시을 김남희VS전동석 주요 공약은? (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168454"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 23:40:00 +0900",
-        "title": "제22대 국회의원선거 광명갑ㆍ을 후보자토론회 개최",
-        "link": "http://www.joygm.com/news/articleView.html?idxno=213299"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:43:00 +0900",
-        "title": " 정정당당 클린 선거 운동 ...광명시 부활절 연합예배 참석한 여야 후보들",
-        "link": "https://www.newspim.com/news/view/20240331000193"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 10:14:00 +0900",
-        "title": "[4·10 총선] 국민의힘 광명갑 김기남,  문제아 정치 끝내고 모범생 정치하겠...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242219"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:59:00 +0900",
-        "title": "경기도의회 국힘 김정호 대표의원, 광명시의원들과 함께 출근길 지원 유세",
-        "link": "https://www.newspim.com/news/view/20240329000226"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 380100
-      }
-    ]
-  }
+    {
+        "id": "2411402-1",
+        "regionId": "2411402",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411402-1.jpg",
+        "기호": 1,
+        "이름": "김남희",
+        "생년월일": "19780222",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "변호사",
+        "학력": "서울대학교 대학원 법학과 박사과정 수료",
+        "경력": "(전)참여연대 복지조세팀장\n(전)서울대학교 법학전문대학원  임상부교수",
+        "재산": 2135943,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "경기 광명시을 토론회, '서울 편입' 공방",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436875"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:36:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 광명 을 김남희,  소하문화공원 조성하겠다 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242637"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:54:00 +0900",
+                "title": "광명시을 김남희VS전동석 주요 공약은? (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168454"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+                "title": "광명시기독교연합회, '2024 부활절 연합예배'",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433270"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:40:00 +0900",
+                "title": "제22대 국회의원선거 광명갑ㆍ을 후보자토론회 개최",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213299"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:43:00 +0900",
+                "title": " 정정당당 클린 선거 운동 ...광명시 부활절 연합예배 참석한 여야 후보들",
+                "link": "https://www.newspim.com/news/view/20240331000193"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:34:00 +0900",
+                "title": "국민의힘  이용우, 500여 건의 수임 신고 누락한 혐의…선거법위반 고발 ",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242310"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:22:00 +0900",
+                "title": "김남희 더불어민주당 광명을 후보, 하안동 주공아파트 재건축 공약 발표",
+                "link": "http://www.startuptoday.co.kr/news/articleView.html?idxno=187948"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:14:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 광명을 김남희, 하안동 재건축 공약 발표",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242216"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:46:00 +0900",
+                "title": "김남희 후보  주거, 교육경쟁, 성차별 해결해야 아이 낳는 사회될 것 ",
+                "link": "https://www.ibabynews.com/news/articleView.html?idxno=116214"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:34:00 +0900",
+                "title": "민주 광명을 김남희  총선 시대정신은 정권 심판 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012458116?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:12:00 +0900",
+                "title": "'심판론' 맞붙은 광명, 여야 출정식 갖고 총선레이스 돌입",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213294"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "광명시을 '김남희VS전동석' 선거 운동 돌입 (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168346"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:04:00 +0900",
+                "title": "[총선] 광명을 김남희, 아파트 단지 환경 개선·안전 보장·경비원 처우 개선...",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384488"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:34:00 +0900",
+                "title": "[4·10 총선] 민주 이용우, '탈세 의혹' 반박… 국민의힘 허위 주장에 엄중 대...",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667159"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:58:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 재건축 원팀으로 수지구 노후지역...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241668"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "부승찬 용인시병 후보  수지구 노후지역 재정비 제대로 하겠다 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "민주 재건축 원팀, 김동연 지사에 정책건의서 전달",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787465"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:09:00 +0900",
+                "title": "부승찬  민주당 재건축 원팀으로 수지 노후 지역 재정비 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276669?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:40:00 +0900",
+                "title": "부승찬 후보  더불어민주당 재건축 원팀으로 수지구 노후지역 재정비 제대로 ...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105703"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:54:00 +0900",
+                "title": "[4·10 총선] 민주당 임오경, 김남희, 광명 시·도의원 원팀으로 뛴다",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241453"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:01:00 +0900",
+                "title": "경기 광명시갑·을 역대 득표력 살펴보니…민주·진보 '우세'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276497?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:52:00 +0900",
+                "title": "김남희 후보, 광명동 '읽을마음' 찾아 도서구매 '독려'",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643666"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:34:00 +0900",
+                "title": "민주 광명갑·을 임오경·김남희 후보 '필승원팀' 결의",
+                "link": "http://www.lawissue.co.kr/view.php?ud=20240326183204786f4ab64559d_12"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:20:00 +0900",
+                "title": "광명 갑·을 대진표 확정...민주당VS국민의힘 양자 대결 (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168215"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:09:00 +0900",
+                "title": " 우리는 필승 원팀  민주 광명갑·을 임오경·김남희 결의",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451573?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:06:00 +0900",
+                "title": "임오경ㆍ김남희 광명(갑ㆍ을) 후보, '필승 원팀' 연대",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=259907"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:54:00 +0900",
+                "title": "[총선] 광명갑·을 임오경·김남희, 지역 시도의원과 원팀 필승결의 다져",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384210"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:52:00 +0900",
+                "title": "[총선] 광명을 김남희  광명 돌봄서비스 질 향상 기여할 것 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384200"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:28:00 +0900",
+                "title": "[4·10 총선] 민주당 광명 을 김남희, 전국요양보호사협회와 정책 협약",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241242"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 00:10:00 +0900",
+                "title": "초소형 상가부터 364억 부동산까지…12종 306억어치 비상장 주식 보유도",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349678?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:05:00 +0900",
+                "title": "상가 5채 있는데 '1.2평' 초소형…특이한 재산 가진 정치신인들",
+                "link": "https://n.news.naver.com/mnews/article/025/0003349634?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:21:00 +0900",
+                "title": "민주 광명을 김남희 '감동캠프' 선대委 발대식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012449175?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "[4·10 총선] 민주당 광명 을 김남희, 감동 캠프 본격 가동",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241012"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "경기도 여성 후보 전체 14.9% 22명 불과 [경기도 후보 분석_여성]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037066?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:10:00 +0900",
+                "title": "[4·10=보궐선거] 광명시의회 라 선거구 정영식 후보, 선거사무소 개소식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240745"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:56:00 +0900",
+                "title": "[4·10총선 후보 등록]경기 광명 2개 선거구…양자구도",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446176?sid=102"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:00:00 +0900",
+                "title": "이재명, “후원금 팍팍”…험지·신인 후보 후원회장 맡아 ‘깨알’ 지원",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277023?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:56:00 +0900",
+                "title": "광명 총선, 정권심판이냐 야당심판이냐...임오경vs김기남, 김남희vs전동석",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213282"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:44:00 +0900",
+                "title": "[4·10 총선] 광명 을 김남희 후보, 선관위 등록",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240684"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:16:00 +0900",
+                "title": "전동석 국민의힘 광명을 후보, “반드시 승리해 명품 광명 만들겠다”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240322023081270"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:58:00 +0900",
+                "title": "이재명 후원금 1시간만 마감… 후원회장 맡은 후보들 후원해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429665?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:51:00 +0900",
+                "title": "이재명, 국회의원 후보자 후원회도 1시간 만에 마감…대부분 소액후원",
+                "link": "https://n.news.naver.com/mnews/article/018/0005698124?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:01:00 +0900",
+                "title": "“이 엄마, 보통 아니네”…로펌·교수·시민단체 모두 ‘일잘러’ 광명떴다 ...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276432?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 04:36:00 +0900",
+                "title": "총선 후보등록 21~22일...무소속 출마 불발 '해프닝'도",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213281"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:16:00 +0900",
+                "title": "78년 ‘황금 말띠’ 女 3인방···금배지 향해 달린다",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276339?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:35:00 +0900",
+                "title": "'광명시 을' 민주당 김남희 후보 등록... 시민들 삶의 질 높일 것 ",
+                "link": "https://www.newspim.com/news/view/20240321001106"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:58:00 +0900",
+                "title": "[4·10 총선] 민주당 광명을 강신성 전 위원장, 무소속 출마 결심",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240316"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 06:03:00 +0900",
+                "title": "민주 ‘45% 물갈이’ 공천…친명 110여명, 친문·86과 자리바꿈",
+                "link": "https://n.news.naver.com/mnews/article/028/0002681808?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 22:26:00 +0900",
+                "title": "4·10 총선 법조인 예비후보자 11%… 본격 선거체제 가동 코앞에",
+                "link": "https://news.koreanbar.or.kr/news/articleView.html?idxno=30444"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:56:00 +0900",
+                "title": "[22대 총선 D-20] 여야 영입인재 경기인천 대거 배치… 총선 승부 관심집중",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642419"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:12:00 +0900",
+                "title": " 어디서든 빛을 발한다 …전주고 58회 졸업생 '두각'",
+                "link": "https://www.ajunews.com/view/20240320130248141"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:08:00 +0900",
+                "title": "이재명 영입인재 90%가 본선행… 민주당서도  李 홍위병 공천  우려 [정치野담...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/18/2024031800246.html"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:50:00 +0900",
+                "title": "더불어민주당 광명을 김남희 후보 제22대 총선 후보자 대회 경기도 대표로 공...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1102541"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:19:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 17일 경기도 현장은 지금⑥",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036425?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:52:00 +0900",
+                "title": "국민의힘 ‘60대 남성’ vs 민주당 ‘50대 남성’···여성·청년 안 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003284994?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 16:50:00 +0900",
+                "title": "김남희 후보에게 '후보 추천서' 전달하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431812?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 15:10:00 +0900",
+                "title": "민주당 제22대 총선 후보자 대회 개최",
+                "link": "https://n.news.naver.com/mnews/article/001/0014568591?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 14:47:00 +0900",
+                "title": "김남희 후보에게 후보자 추천서 전달하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007416434?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:33:00 +0900",
+                "title": "경기 광명을 민주 김남희  깨끗한 정치로 새로운 광명 만들 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431200?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:22:00 +0900",
+                "title": "민주당, 광명갑 '인산인해'-광명을 '썰렁'...국힘, '이재명 개딸전체주의' 공...",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213270"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:02:00 +0900",
+                "title": "[4·10 총선] 민주당 광명 을 김남희, 선거사무소 열고 선거운동 돌입",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239346"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 09:26:00 +0900",
+                "title": "[4·10 총선] 민주당 광명 갑 임오경 후보, 선거사무소 개소식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239325"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 20:34:00 +0900",
+                "title": "임오경 민주당 광명갑 국회의원 후보 'OK 민생 캠프' 선거사무소 개소식",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3118992"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 17:20:00 +0900",
+                "title": "[4·10 총선] 광명 임오경, 김남희, 전동석 선거사무소 16일 개소식 예정",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239246"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 16:54:00 +0900",
+                "title": "[유창선 칼럼] 민주당 '친명횡재'가 낳은 야권의 강경 질주",
+                "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7085837"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 13:36:00 +0900",
+                "title": "더불어민주당 '비이재명계 죽이기' 프로젝트 가동했나?",
+                "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66049"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 12:01:00 +0900",
+                "title": "'비명횡사' 따져보니 '친낙횡사'… 친명 신주류로 채웠다",
+                "link": "https://n.news.naver.com/mnews/article/469/0000790622?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 06:56:00 +0900",
+                "title": "총선 후보들, “힘 모아서 안양천 국가정원화 추진하겠다” 공동 선언",
+                "link": "http://www.lak.co.kr/news/boardview.php?id=17147"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 15:28:00 +0900",
+                "title": "민주당 안양천 인근 14명 후보들, 안양천 국가정원화 추진",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=554463"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 15:16:00 +0900",
+                "title": "[총선] 광명을 김남희, 16일 선거사무실 개소",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383149"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 07:42:00 +0900",
+                "title": "[총선] 22대 국회의원 선거, 광명·의왕과천·군포·안양 대진표",
+                "link": "https://n.news.naver.com/mnews/article/056/0011680768?sid=102"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 21:39:00 +0900",
+                "title": "[총선] 22대 국회의원 선거, 광명·의왕과천·군포·안양 대진표",
+                "link": "https://n.news.naver.com/mnews/article/056/0011680559?sid=102"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 06:05:00 +0900",
+                "title": "억대 연봉 포기 '공익 변호사' 김남희  尹 맞설 혁신정치 보여드릴 것 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007407117?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 19:02:00 +0900",
+                "title": "[사설] 비명 죽이기 '덫' 이중삼중...광명을 경선 누구를 위한 것인가?",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213262"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:42:00 +0900",
+                "title": "비명횡사 아니고 경선혁명  민심은 성난 황소 같았다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002425467?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 23:38:00 +0900",
+                "title": "더불어민주당 광명을 경선, 과연 공정한 경선이었나?",
+                "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66021"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 19:28:00 +0900",
+                "title": "여야 충청권 영입 인재, 엇갈린 '희비'",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306164"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:30:00 +0900",
+                "title": "민주당 광명을 김남희 후보 경선 승리 (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=167579"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:16:00 +0900",
+                "title": "민주, 전략경선서 현역 의원 줄줄이 탈락… 광명을 김남희·용인갑 이상식 공...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363640523"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 16:28:00 +0900",
+                "title": "민주당, 경기 광명을에 김남희 공천…권인숙 경선 탈락",
+                "link": "https://n.news.naver.com/mnews/article/310/0000115093?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:58:00 +0900",
+                "title": "[뉴공 아카이브]이언주 경기용인정 더불어민주당 후보, 박지혜 경기의정부갑 ...",
+                "link": "http://www.ddanzi.com/800759711"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 15:30:00 +0900",
+                "title": "민주당 '친문계' 청주에서 잇달아 탈락…'친명' 후보에 연패",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2261600"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 13:56:00 +0900",
+                "title": "‘명룡대전’ 오차범위 내 접전...국힘, 민주 텃밭 바짝 추격",
+                "link": "https://www.etoday.co.kr/news/view/2338943"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 12:47:00 +0900",
+                "title": "이재명, 민주당 공천 '혁신' 강조…여전사 3인방 배치 완료",
+                "link": "https://n.news.naver.com/mnews/article/629/0000272644?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 12:38:00 +0900",
+                "title": "민주당 9차경선 6곳 발표…'친명' 박선원‧김남희 승리‧…더불어민주연합 비...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=638389"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 11:52:00 +0900",
+                "title": "민주, 홍영표 '탈당'한 인천 부평을 '박선원' 공천‥양기대·이장섭·이동주·...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=217889"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:43:00 +0900",
+                "title": "[총선] 민주당, 현역 4명 경선 탈락…이낙연 광산을 출마",
+                "link": "https://n.news.naver.com/mnews/article/056/0011678277?sid=100"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:42:00 +0900",
+                "title": "수도권 대진표 추가…부평을·광명을·용인갑",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1434090"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:40:00 +0900",
+                "title": "[4·10 총선] 민주당 광명시 갑·을 선거구 여성 2인, 본선 진출",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1238242"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:32:00 +0900",
+                "title": "민주당, 전략 지역 4곳 경선 결과 발표… 현역 의원 전원 '고배'",
+                "link": "https://www.sisaweek.com/news/articleView.html?idxno=212608"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 08:42:00 +0900",
+                "title": "10일 발표 민주당 전략선거구 4곳서 현역의원 전원 경선 탈락",
+                "link": "https://vop.co.kr/A00001649221.html"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 08:28:00 +0900",
+                "title": "여야, 공천 마무리 수순…경기도 대진표 73% 완료",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=784829"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 07:54:00 +0900",
+                "title": "일사천리 '이종섭 출국'…수사 차질 '불가피'[뉴스쏙:속]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003872147?sid=104"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2135943
+            }
+        ],
+        "huboid": "100152909",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4114/Hb100152909/junkwa/20240304141615154_1.PDF"
+    },
+    {
+        "id": "2411402-2",
+        "regionId": "2411402",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411402-2.jpg",
+        "기호": 2,
+        "이름": "전동석",
+        "생년월일": "19620301",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 행정대학원 졸업(정책학 석사)",
+        "경력": "(전)제7대 경기도의원\n(현)국민의힘 광명시을 조직위원장",
+        "재산": 380100,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "경기 광명시을 토론회, '서울 편입' 공방",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1436875"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:54:00 +0900",
+                "title": "광명시을 김남희VS전동석 주요 공약은? (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168454"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:40:00 +0900",
+                "title": "제22대 국회의원선거 광명갑ㆍ을 후보자토론회 개최",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213299"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:43:00 +0900",
+                "title": " 정정당당 클린 선거 운동 ...광명시 부활절 연합예배 참석한 여야 후보들",
+                "link": "https://www.newspim.com/news/view/20240331000193"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:14:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명갑 김기남,  문제아 정치 끝내고 모범생 정치하겠...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242219"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:59:00 +0900",
+                "title": "경기도의회 국힘 김정호 대표의원, 광명시의원들과 함께 출근길 지원 유세",
+                "link": "https://www.newspim.com/news/view/20240329000226"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:40:00 +0900",
+                "title": "광명을 국힘 전동석 후보  광명시민, 서울특별시민돼야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012458122?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:12:00 +0900",
+                "title": "'심판론' 맞붙은 광명, 여야 출정식 갖고 총선레이스 돌입",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213294"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "광명시을 '김남희VS전동석' 선거 운동 돌입 (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168346"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:40:00 +0900",
+                "title": "전동석(국힘·광명을) 후보, “정체된 광명에 새바람이 불게 할 사람”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240328028552972"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:32:00 +0900",
+                "title": "국민의힘 김기남 광명갑 후보  국회가 멈추면 정부·대한민국 모두 멈춘다 ",
+                "link": "https://www.newspim.com/news/view/20240328000832"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:18:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명갑 김기남, 광명을 전동석 후보 출정식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241793"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:44:00 +0900",
+                "title": "광명시기자협회 총선특집 인터뷰 ③ 전동석ㆍ국민의힘 광명을 후보",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213290"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:01:00 +0900",
+                "title": "경기 광명시갑·을 역대 득표력 살펴보니…민주·진보 '우세'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276497?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:20:00 +0900",
+                "title": "광명 갑·을 대진표 확정...민주당VS국민의힘 양자 대결 (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168215"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:56:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명갑 경선에 나섰던 권태진, 김기남 후보 지지 선언",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240961"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 03:52:00 +0900",
+                "title": "국힘 광명갑 권태진, 김기남 후보 지지...총괄선대위원장 합류",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213284"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 18:56:00 +0900",
+                "title": "[4·10총선 후보 등록]경기 광명 2개 선거구…양자구도",
+                "link": "https://n.news.naver.com/mnews/article/003/0012446176?sid=102"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:08:00 +0900",
+                "title": "전동석 국힘 광명을 후보, 제22대 국회의원 선거 후보 등록 마쳐",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079479"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:56:00 +0900",
+                "title": "광명 총선, 정권심판이냐 야당심판이냐...임오경vs김기남, 김남희vs전동석",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213282"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:12:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명 을 전동석 후보, 제22대 국회의원 후보 등록",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240676"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:42:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:43:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경기",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:26:00 +0900",
+                "title": "[4.10총선-108] 광명을 김남희vs전동석. 심판론 격론",
+                "link": "http://www.mhj21.com/160040"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:16:00 +0900",
+                "title": "전동석 국민의힘 광명을 후보, “반드시 승리해 명품 광명 만들겠다”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240322023081270"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:22:00 +0900",
+                "title": "[총선] 광명을 전동석, 후보 등록... 명품 광명 만들겠다 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383883"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:36:00 +0900",
+                "title": "'광명시 을' 국민의힘 전동석 후보 등록... 명품 광명을 만들 것 ",
+                "link": "https://www.newspim.com/news/view/20240322000491"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:01:00 +0900",
+                "title": "“이 엄마, 보통 아니네”…로펌·교수·시민단체 모두 ‘일잘러’ 광명떴다 ...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276432?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 04:36:00 +0900",
+                "title": "총선 후보등록 21~22일...무소속 출마 불발 '해프닝'도",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213281"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:12:00 +0900",
+                "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:56:00 +0900",
+                "title": "[22대 총선 D-20] 여야 영입인재 경기인천 대거 배치… 총선 승부 관심집중",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642419"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:02:00 +0900",
+                "title": "인지도에 밀린 지역 장악력… 경기도의회 출신 대다수 '고배'",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240319010002067"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 16:16:00 +0900",
+                "title": "경기 광명을 국힘 전동석  정체된 광명에 새 바람 불게할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431762?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 14:52:00 +0900",
+                "title": "전동석 국민의힘 광명시을 후보 '선거대책본부' 개소",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641561"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 14:16:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명 을 전동석 후보, 선거사무소 개소식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239369"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:33:00 +0900",
+                "title": "경기 광명을 민주 김남희  깨끗한 정치로 새로운 광명 만들 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012431200?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:22:00 +0900",
+                "title": "민주당, 광명갑 '인산인해'-광명을 '썰렁'...국힘, '이재명 개딸전체주의' 공...",
+                "link": "http://www.joygm.com/news/articleView.html?idxno=213270"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 17:20:00 +0900",
+                "title": "[4·10 총선] 광명 임오경, 김남희, 전동석 선거사무소 16일 개소식 예정",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239246"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 14:22:00 +0900",
+                "title": "국힘 광명갑·을 김기남·전동석 후보, 당 소속 시·도의원과 총선필승 다짐",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363641166"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 14:00:00 +0900",
+                "title": "[4·10 총선] 국민의힘 광명 갑·을 후보, 합동 선거 대책 회의",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1238989"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 13:42:00 +0900",
+                "title": "[총선] 국힘 김기남(광명갑)·전동석(광명을), 소속 시·도의원과 선거대책회...",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=383132"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 07:42:00 +0900",
+                "title": "[총선] 22대 국회의원 선거, 광명·의왕과천·군포·안양 대진표",
+                "link": "https://n.news.naver.com/mnews/article/056/0011680768?sid=102"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 21:39:00 +0900",
+                "title": "[총선] 22대 국회의원 선거, 광명·의왕과천·군포·안양 대진표",
+                "link": "https://n.news.naver.com/mnews/article/056/0011680559?sid=102"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 16:40:00 +0900",
+                "title": "전동석 국힘 광명을 예비후보, 경기-서울 리노베이션TF 고양 시민 간담회 '참...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363640959"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 13:54:00 +0900",
+                "title": "[4·10=보궐선거] 광명시의회 라 선거구 조상희 후보, 선거사무소 개소식",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1238771"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 06:05:00 +0900",
+                "title": "억대 연봉 포기 '공익 변호사' 김남희  尹 맞설 혁신정치 보여드릴 것 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007407117?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:42:00 +0900",
+                "title": "비명횡사 아니고 경선혁명  민심은 성난 황소 같았다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002425467?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:28:00 +0900",
+                "title": "한동훈, 고양 찾아  서울편입·경기분도 '원샷법' 발의할 것 ",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=785131"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 19:50:00 +0900",
+                "title": "한동훈, '0석' 고양서 '서울편입·경기분도 원샷법' 약속… 답은 한꺼번에 (종...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240311010005629"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:56:00 +0900",
+                "title": "[이슈] 0석 험지 고양 찾은 한동훈  서울 편입·경기 분도 원샷 .. 이재명, 충...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=638458"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:16:00 +0900",
+                "title": "민주, 전략경선서 현역 의원 줄줄이 탈락… 광명을 김남희·용인갑 이상식 공...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363640523"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 18:05:00 +0900",
+                "title": "'0석' 험지 또 간 한동훈…고양서  서울편입·경기분도 원샷에 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014556453?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:42:00 +0900",
+                "title": "수도권 대진표 추가…부평을·광명을·용인갑",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1434090"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 09:32:00 +0900",
+                "title": "민주당, 전략 지역 4곳 경선 결과 발표… 현역 의원 전원 '고배'",
+                "link": "https://www.sisaweek.com/news/articleView.html?idxno=212608"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 06:42:00 +0900",
+                "title": "민주, 현역 양기대·이장섭·권인숙·이동주 탈락 … 경기 용인갑 이상식, 이...",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=407909"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 05:03:00 +0900",
+                "title": "홍영표 나간 부평을에 박선원… 野 전략선거구서도 ‘현역 잔혹사’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003436046?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 23:16:00 +0900",
+                "title": "민주, 박선원·김남희 공천…이동주·양기대·권인숙 경선 탈락",
+                "link": "https://www.slist.kr/news/articleView.html?idxno=532016"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 23:02:00 +0900",
+                "title": "민주, 부평을 박선원 공천… 현역 이동주·양기대 등 탈락",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3116625"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:58:00 +0900",
+                "title": "민주, 부평을 박선원 공천…이동주·양기대 등 현역 4명 탈락(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012417793?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:42:00 +0900",
+                "title": "[4·10 총선] 민주, 부평을 박선원 공천…이동주·양기대·권인숙 본선행 좌절",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=664572"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:12:00 +0900",
+                "title": "민주, 부평을 박선원 공천…이동주·양기대·권인숙 경선 탈락(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014554050?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 21:05:00 +0900",
+                "title": "민주, 현역 권인숙·양기대·이동주·이장섭 탈락…TK 비례 임미애·조원희(종...",
+                "link": "https://n.news.naver.com/mnews/article/421/0007401683?sid=165"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 10:32:00 +0900",
+                "title": "‘이준석 대항마’ 나선 84년생 한정민… 與 승부수 통할까",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=223636"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 15:24:00 +0900",
+                "title": "전동석 후보, 오세훈 서울시장과 면담…  서울 편입 논의 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363639277"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 14:14:00 +0900",
+                "title": "[4·10 총선] 국민의힘 전동석 후보, 오세훈 서울시장과 서울 편입 논의",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1237196"
+            },
+            {
+                "date": "Sun, 25 Feb 2024 16:34:00 +0900",
+                "title": "[리셋코리아 2024] 민주당 수도권 '황금표밭', 국힘 '극한험지', 경기 서남부",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=76979"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 17:46:00 +0900",
+                "title": "국민의힘, '경기북부특별자치도' 법안 22대 국회서 발의 예정",
+                "link": "http://www.sisaweek.com/news/articleView.html?idxno=212214"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 15:16:00 +0900",
+                "title": "與  경기북도 분리 본격화…수도권 규제 푼다 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240222010011410"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 14:54:00 +0900",
+                "title": "與 '김현아 단수공천' 보류·재논의…金  적극 소명하겠다 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/079/0003866472?sid=165"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 14:46:00 +0900",
+                "title": "국힘  경기북도 22대 국회 직후 추진해 수도권 규제 없앨 것…김동연 분도 진...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1235495"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 14:36:00 +0900",
+                "title": "국민의힘  경기북부특별자치도 설치 특별법  논의",
+                "link": "https://n.news.naver.com/mnews/article/417/0000983670?sid=165"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 13:54:00 +0900",
+                "title": "與 “경기 분도법, 22대 국회 개원 동시 발의…수도권 규제 철폐”",
+                "link": "https://www.etoday.co.kr/news/view/2333498"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 13:46:00 +0900",
+                "title": "與  경기북부특별자치도 특별법 논의…22대 국회서 발의 예정 ",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/02/22/2024022200172.html"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 12:45:00 +0900",
+                "title": "여, 경기북부특별자치도 추진… 수도권 규제서 벗어날 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012386943?sid=100"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 12:29:00 +0900",
+                "title": "국힘  경기북도 수도권 규제 없앨 것…김동연 분도 진정성 의문 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007367528?sid=165"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 11:32:00 +0900",
+                "title": "與 비대위, '김현아 단수공천' 공관위에 재논의 요구",
+                "link": "https://n.news.naver.com/mnews/article/079/0003866383?sid=165"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 11:28:00 +0900",
+                "title": "與, 고양정 김현아 공천 보류… 사법적 판단 종결되지 않아 ",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=98079"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 10:54:00 +0900",
+                "title": "여, 고양정 김현아 공천 보류…한동훈  우리 스스로 자신 있어야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012386531?sid=165"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 10:43:00 +0900",
+                "title": "국힘, 김현아 고양정 단수공천 보류… 검찰수사 안 끝나 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007367111?sid=165"
+            },
+            {
+                "date": "Wed, 21 Feb 2024 21:02:00 +0900",
+                "title": "[4·10 총선人사이드] 광명을, 민주 공천 경쟁 vs 국힘 전략 공천 무게",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=781879"
+            },
+            {
+                "date": "Wed, 21 Feb 2024 17:44:00 +0900",
+                "title": "[이슈] 국민의힘, 현역의원 단수·우선공천 중 '친윤계·용핵관' 대거 확정.....",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=636023"
+            },
+            {
+                "date": "Mon, 19 Feb 2024 20:26:00 +0900",
+                "title": "[22대 총선 나요나-광명을] 단수공천 전동석 발 빠르게 '채비'… 野 친명-비명...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240220010001856"
+            },
+            {
+                "date": "Mon, 19 Feb 2024 14:56:00 +0900",
+                "title": "광명시 을선거구, 민주 '공천 경쟁, 국힘 '단수 공천' (B tv 한빛뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=166799"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 20:08:00 +0900",
+                "title": "국민의힘, 경기·인천 남은 지역 '고차방정식 어떻게 풀까' 고심",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240219010001724"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 18:40:00 +0900",
+                "title": "[4·10총선 D-51] 송석준 vs 엄태준…이천시 대진표 완성",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1234804"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 17:47:00 +0900",
+                "title": "반환점 돈 국민의힘 공천 요약 ①윤심 논란 차단 ②현역 경선 보장",
+                "link": "https://n.news.naver.com/mnews/article/032/0003279563?sid=100"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 15:58:00 +0900",
+                "title": "국민의힘 '시스템 공천' 작동… 대통령실 출신 단수공천 도내 1명",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363636417"
+            },
+            {
+                "date": "Sat, 17 Feb 2024 16:54:00 +0900",
+                "title": "국민의힘 경기지역 공천 앞두고 ‘초조한 주말’… 공관위 18일 경선 추가지역...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240217023431935"
+            },
+            {
+                "date": "Fri, 16 Feb 2024 07:34:00 +0900",
+                "title": "'이재명 저격수들' 조기등판....국민의힘 단수공천 면면 보니 | 인천 계양을 ...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19176&Newsnumb=20240219176"
+            },
+            {
+                "date": "Fri, 16 Feb 2024 06:03:00 +0900",
+                "title": "'원희룡 vs 이재명' 잠룡 맞대결 성사…전희경, 용산 참모 첫 공천",
+                "link": "https://n.news.naver.com/mnews/article/008/0004999468?sid=100"
+            },
+            {
+                "date": "Fri, 16 Feb 2024 05:02:00 +0900",
+                "title": "경기·인천 공천 ‘속도’… 대진표 속속 ‘윤곽’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000033791?sid=165"
+            },
+            {
+                "date": "Fri, 16 Feb 2024 04:08:00 +0900",
+                "title": "계양을 원희룡-이재명 빅매치 가능성… 與, 25명 단수 공천",
+                "link": "https://n.news.naver.com/mnews/article/005/0001674445?sid=100"
+            },
+            {
+                "date": "Thu, 15 Feb 2024 23:22:00 +0900",
+                "title": "[이슈] 여야, 4월총선 공천 작업 속도…15일 여야 공천발표 현황과 특징은?",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=635302"
+            },
+            {
+                "date": "Thu, 15 Feb 2024 22:53:00 +0900",
+                "title": "이재명-원희룡 빅매치 성사될듯…與, 인천 계양을에 元 단수공천(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014508494?sid=165"
+            },
+            {
+                "date": "Thu, 15 Feb 2024 22:00:00 +0900",
+                "title": "[지금 공천판] 與 한동훈 ‘당당’ 野 이재명 ‘곤란’ 新 이낙연·이준석 ‘...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240215024198733"
+            },
+            {
+                "date": "Thu, 15 Feb 2024 20:46:00 +0900",
+                "title": "원희룡-이재명 빅매치 성사될 듯…국힘, 인천계양을 元 단수공천",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4001239"
+            },
+            {
+                "date": "Thu, 15 Feb 2024 20:30:00 +0900",
+                "title": "'수원 벨트 잡아라' 경기도 총선 윤곽",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240216010001603"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 380100
+            }
+        ],
+        "huboid": "100151653",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4114/Hb100151653/junkwa/20231218142900645_1.PDF"
+    }
 ]

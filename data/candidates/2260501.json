@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2260501-1",
-    "regionId": "2260501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
-    "기호": 1,
-    "이름": "서은숙",
-    "생년월일": "19670925",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
-    "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
-    "재산": 106303,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-        "title": "與 “진정성 알지만 도움 되겠나”…野 “불통 정부” 총공세",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070148?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:01:00 +0900",
-        "title": "구청장 출신 최고위원 vs 한동훈 영입인재 1호, 부산진구갑 접전",
-        "link": "https://n.news.naver.com/mnews/article/003/0012464268?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:56:00 +0900",
-        "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
-        "link": "http://www.mhj21.com/160226"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 106303
-      }
-    ]
-  },
-  {
-    "id": "2260501-2",
-    "regionId": "2260501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
-    "기호": 2,
-    "이름": "정성국",
-    "생년월일": "19710403",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
-    "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
-    "재산": 305797,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-        "link": "https://www.newspim.com/news/view/20240401001242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-        "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-        "title": "한동훈, 정성국 후보 지원 유세  이번 4.10총선에서 더불어민주당을 꼭 심판해...",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:44:00 +0900",
-        "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
-        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 305797
-      }
-    ]
-  }
+    {
+        "id": "2260501-1",
+        "regionId": "2260501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
+        "기호": 1,
+        "이름": "서은숙",
+        "생년월일": "19670925",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
+        "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
+        "재산": 106303,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 22:28:00 +0900",
+                "title": "민주당 부산 총선 후보자  엑스포 유치 실패 진상규명 국정조사 추진 ",
+                "link": "http://www.breaknews.com/1024743"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:55:00 +0900",
+                "title": "[총선/공약 맞수K] 부산진갑 ‘도시철도 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693943?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:54:00 +0900",
+                "title": "부산진구 갑 ′도시철도′ 공약 격돌",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262754"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:52:00 +0900",
+                "title": "&lt;선택 2024&gt;-부산진갑, '지역 전문가' vs '교육 전문가'",
+                "link": "https://news.knn.co.kr/news/article/155208"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "무료점심부터 치매센터까지…같은 듯 다른 실버공약 봇물",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070261?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:22:00 +0900",
+                "title": "[총선/공약 맞수K] 부산진갑 ‘도시철도 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693781?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+                "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "민주당 부산 후보자들  부산엑스포 유치 참패, 철저히 진상 규명해야 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125330"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:51:00 +0900",
+                "title": "부산 민주당 후보 “22대 국회 엑스포 유치 실패 국정조사 추진”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825404?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:48:00 +0900",
+                "title": "민주 부산 국회의원 후보들  부산엑스포 참패 진상 규명 국정조사 추진 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307457"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:42:00 +0900",
+                "title": "민주당 부산 후보들, ‘엑스포 참패’ 국정조사 추진 예고 “29표 비밀 풀어야...",
+                "link": "https://vop.co.kr/A00001650826.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:44:00 +0900",
+                "title": "부산 민주당, 엑스포 실패 국정조사 VS 국민의힘, 양문석발 부동산 이슈 제기",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150859"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+                "title": "민주당 부산 후보들 “119대 29 엑스포 참패, 국정조사 할 것”",
+                "link": "https://www.cnbnews.com/news/article.html?no=652101"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:29:00 +0900",
+                "title": "민주당 부산 후보들  엑스포 29표, 국회 국정조사 하자 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816246?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+                "title": "부산 민주당 후보들  119대 29 엑스포 참패, 국정조사 할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880898?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:44:00 +0900",
+                "title": "“엑스포 유치 참패 왜” 민주당 부산, 차기 국정조사 예고 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165580?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:18:00 +0900",
+                "title": "[22대 총선] 부산 민주당 총선 후보,  제22대 국회서 부산엑스포 국정조사 하...",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503391"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:56:00 +0900",
+                "title": "민주당 부산지역 후보들  엑스포 유치 실패, 진상규명 국정조사 추진 ",
+                "link": "https://www.newspim.com/news/view/20240402000449"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "민주당 부산 총선 후보들,  2030부산엑스포 29표 비밀 풀어야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465836?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:42:00 +0900",
+                "title": "부산의 더불어민주당 총선 후보들,  엑스포 참패 국정조사 추진할 것 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78916"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:27:00 +0900",
+                "title": "부산 민주당 후보들  22대 국회서 엑스포 참패 국정조사 추진하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452591?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+                "title": "與 “진정성 알지만 도움 되겠나”…野 “불통 정부” 총공세",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070148?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "구청장 출신 최고위원 vs 한동훈 영입인재 1호, 부산진구갑 접전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464268?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
+                "link": "http://www.mhj21.com/160226"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:03:00 +0900",
+                "title": "서울 용산·부산 남구 초접전…총선 승부 가를 ‘3대강 벨트’",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683319?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "민주 서은숙 “투표혁명 부산 디비질 것”",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070040?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "동물 인형탈부터 LED 조끼까지…이색 선거운동 눈길",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070046?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:43:00 +0900",
+                "title": "범야권 공세에 부산 여권 '단일대오' 맞서나",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262915?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+                "title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:47:00 +0900",
+                "title": "부산 여야 첫 주말 유세…국정안정론 vs 정권심판론",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069996?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:07:00 +0900",
+                "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 04:31:00 +0900",
+                "title": "선거 10번 치른 김부겸, 부산 민심에  이런 적은 처음...동부산도 맹추격 ",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793314?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:52:00 +0900",
+                "title": "'부산진갑' 민주, 국힘 당대표 대리전",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461411"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:36:00 +0900",
+                "title": "민주당 부산 총선 키워드는?...대파·투표혁명·인물·입틀막·부울경메가시티",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325640?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:36:00 +0900",
+                "title": "국민의힘 부산 총선 키워드는?...방탄·민생·탄핵·안정·개혁",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325641?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:09:00 +0900",
+                "title": "정근 온종합병원장, 정성국 부산진갑 국민의힘 후보 후원회장 사임",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445666?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:41:00 +0900",
+                "title": "'친명' 서은숙 vs '친한' 정성국…'민심 바로미터' 부산진갑 표심은",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879670?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:06:00 +0900",
+                "title": "[부산정치S토커] '바보 노무현' 부산 강서, 민주당 변성완  반드시 이기겠다 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150335"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 막 오른 선거전…여야 필승 다짐",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690880?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:00:00 +0900",
+                "title": "총선 레이스 돌입..공식 선거운동 기간 시작",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262619"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:52:00 +0900",
+                "title": "선거운동 돌입...PK가 전국 총선 판세 좌우",
+                "link": "https://news.knn.co.kr/news/article/155009"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:05:00 +0900",
+                "title": "정권심판 vs 거야심판…불붙은 표밭갈이",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069882?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:04:00 +0900",
+                "title": "[총선] 막 오른 선거전…여야 필승 다짐",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690704?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:12:00 +0900",
+                "title": "부산도 총선 레이스 시작…'정권심판'vs'정권지지'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461348"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "공직 선거운동 시작, 치열한 경쟁 예고",
+                "link": "https://news.knn.co.kr/news/article/154973"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:23:00 +0900",
+                "title": "부산진갑 정성국 국민의힘 후보 후원회장 정근 병원장 '사임'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277093?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:56:00 +0900",
+                "title": "'안보 강조' 민주당-'민주화' 강조 국민의힘, 공식 선거운동 첫날 출정식 '의...",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=633771"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:27:00 +0900",
+                "title": " 못 살겠다 심판하자  부산 민주당, 유엔공원서 출정식",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879250?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:21:00 +0900",
+                "title": "‘혼돈·박빙’의 선거, 부산 후보들은 고개를 숙였다…여야 출정식으로 선거...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262577?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:00:00 +0900",
+                "title": "큰절 올린 민주당  부산에서 민주당이라는 이유로 버림받지 않도록 해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325408?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:53:00 +0900",
+                "title": "부산진구갑 서은숙 후보  부산진구 미래 100년을 그리겠다 ",
+                "link": "https://www.newspim.com/news/view/20240328000877"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:44:00 +0900",
+                "title": "서은숙 후보 출정식, 공식선거운동 돌입  버스 노선 조정 피해 민원 청취 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955553"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:03:00 +0900",
+                "title": "공식 선거운동 첫날 부산, 각 당  총선 승리  다짐",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456623?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:23:00 +0900",
+                "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:02:00 +0900",
+                "title": "중기중앙회, 더불어민주당 부산시당에 中企 총선 정책과제 전달",
+                "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=98047"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:30:00 +0900",
+                "title": "영입인재 vs 지명직 최고위원…부산 부산진갑 대결구도와 공약은",
+                "link": "https://n.news.naver.com/mnews/article/001/0014593677?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+                "title": "대학병원 유치, 부산형 급행철·도시철…여야 한목소리 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069789?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:12:00 +0900",
+                "title": "[나는 후보자다] 부산진구갑 출마 후보는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461163"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:53:00 +0900",
+                "title": "무겁지 않게…유권자도 후보도 “‘숏폼’이 좋아”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262396?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:41:00 +0900",
+                "title": "정성국  민생 교육전문가...왜 부산진구민 선택받았는지 증명하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325257?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:33:00 +0900",
+                "title": "'이재명계' 서은숙 對 '한동훈계' 정성국…부산 중심 진구갑 '서면 매치' [총...",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075383?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 09:34:00 +0900",
+                "title": " 부산 민심 만만하게 보지 마래이 …총선 '태풍의 눈' 떠오른 PK",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075328?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:13:00 +0900",
+                "title": "[사설] 선거철 도시철도 공약, 희망고문 끝낼 대책 내놔야",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262239?sid=110"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:58:00 +0900",
+                "title": "與 “용산발 악재 걷히면 상승” 野 “끝까지 방심 없다” 신중론",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069671?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:40:00 +0900",
+                "title": "쏟아지는 도시철도 공약… 계속되는 ‘희망 고문’",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262216?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:32:00 +0900",
+                "title": "선거전 위한 선대위 '속속' 출범… 정권 심판 vs 국정 운영 힘 보태야",
+                "link": "https://www.busaneconomy.com/news/articleView.html?idxno=310645"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:52:00 +0900",
+                "title": "여야 선대위 잇단 출범..총선 전략은?",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262482"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:22:00 +0900",
+                "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:50:00 +0900",
+                "title": "“투표 마렵다”던 원조 좌파 배우 명계남, 근황 봤더니…활발한 정치 행보",
+                "link": "https://n.news.naver.com/mnews/article/029/0002863247?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:00:00 +0900",
+                "title": "확성기 금지·신체 부착 피켓… 헷갈리는 법에 후보자 조심",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261909?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:33:00 +0900",
+                "title": "민주당 이재명 김부겸 PK ‘동시 출격’…“여당, 메가시티 서울만 강조”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261899?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:34:00 +0900",
+                "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:00:00 +0900",
+                "title": "공식선거운동 28일 '총성'…총선 여야 대진표는 [정국 기상대]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812832?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:34:00 +0900",
+                "title": "민주 “임기 내 산은·수은 본점 부산 이전” 국힘 “싱가포르 넘어선 글로벌...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261771?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:18:00 +0900",
+                "title": "22대 총선 부산 여성 후보 9명..전체의 21%",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262449"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:18:00 +0900",
+                "title": "부산 총선 후보 10명 전과, 7명은 병역 미필",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262447"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:58:00 +0900",
+                "title": "정성국 국민의힘 부산진구갑 국회의원 후보, '한동훈 영입인재1호'로서  부산...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316730"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:02:00 +0900",
+                "title": "[인터뷰] 민주당 서은숙 후보 “부산진구에서 20년…미래도 책임질 것”",
+                "link": "https://www.smartfn.co.kr/article/view/sfn202403230004"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 13:32:00 +0900",
+                "title": "[총선GO!] '부산진갑' 민주당 서은숙  지역 무시 윤 정권, 부산시민 평가할 것...",
+                "link": "https://www.newspim.com/news/view/20240323000035"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:48:00 +0900",
+                "title": "[인터뷰] 서은숙 부산진갑 후보  주민 위한 후보 vs 낙하산 인사 대결 ",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=514287"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:50:00 +0900",
+                "title": "[헬로 이슈토크] 부산진구갑 후보 '격돌'…구청장 출신 vs. 영입인재 1호",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460635"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 08:08:00 +0900",
+                "title": "부산 총선 후보 10명 범죄 경력, 7명 병역 미필",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069389?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:13:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "부산 총선 후보 등록자 명단[22일 마감]",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+                "title": "부산 총선 후보 10명 전과 기록…7명은 병역 미필(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583335?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:17:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:43:00 +0900",
+                "title": "부산 총선 후보 전과자 10명…군 복무 7명 안 해",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396070?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:59:00 +0900",
+                "title": "與, 평택 2함대서 ‘서해수호의 날’ 추모…野 향해 ‘천안함 막말’ 비판",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439190?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:27:00 +0900",
+                "title": "[영상] “부산진구가 키운 일꾼, 주민 위해 제대로 일할 터”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822647?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "부산 총선 후보 10명 전과…7명은 병역 미필",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583125?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:02:00 +0900",
+                "title": "총선 코 앞… 높아지는 시민 목소리",
+                "link": "https://www.busaneconomy.com/news/articleView.html?idxno=310572"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:20:00 +0900",
+                "title": "중기중앙회 부산울산본부, 민주당 부산시당 中企 총선 정책과제 전달",
+                "link": "http://www.metroseoul.co.kr/article/20240322500207"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:36:00 +0900",
+                "title": "총선 앞둔 野부산시당에 중기중앙회, 노동개혁 등 정책과제 전달",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445019?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:20:00 +0900",
+                "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:16:00 +0900",
+                "title": "與  민주당 후보들 천안함 막말 잊지 말아야  재조명",
+                "link": "https://n.news.naver.com/mnews/article/015/0004963243?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 106303
+            }
+        ],
+        "huboid": "100151103",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2605/Hb100151103/junkwa/20231212150633083_1.PDF"
+    },
+    {
+        "id": "2260501-2",
+        "regionId": "2260501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
+        "기호": 2,
+        "이름": "정성국",
+        "생년월일": "19710403",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
+        "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
+        "재산": 305797,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:55:00 +0900",
+                "title": "[총선/공약 맞수K] 부산진갑 ‘도시철도 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693943?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:54:00 +0900",
+                "title": "부산진구 갑 ′도시철도′ 공약 격돌",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262754"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:52:00 +0900",
+                "title": "&lt;선택 2024&gt;-부산진갑, '지역 전문가' vs '교육 전문가'",
+                "link": "https://news.knn.co.kr/news/article/155208"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:22:00 +0900",
+                "title": "[총선/공약 맞수K] 부산진갑 ‘도시철도 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693781?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+                "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:21:00 +0900",
+                "title": "민주당 서은숙 후보 선거사무소에 놓인 화분 “선거법 위반” vs “유권해석 ...",
+                "link": "https://n.news.naver.com/mnews/article/382/0001117242?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+                "title": "민주당 서은숙 후보, 선거사무소서 받은 화분 '선거법 위반' 논란",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515456"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": "국힘 정성국  부산진구, 교육특구로…지역문제 해결 힘 있는 후보 [인터뷰]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466260?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:23:00 +0900",
+                "title": "한동훈 위원장, 부산진갑 정성국 후보 지원 유세 나서",
+                "link": "https://n.news.naver.com/mnews/article/382/0001117175?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:48:00 +0900",
+                "title": "한동훈,  나라 운명 좌우 .. 鄭-초등부터 교총 수장 입지적, 李-초선처럼 일하...",
+                "link": "http://www.breaknews.com/1024439"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:00:00 +0900",
+                "title": "[총선 D-8] '가족사진·대기업 총수·3행시' 부산 후보 이색공보물",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604025?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+                "link": "https://www.newspim.com/news/view/20240401001242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+                "title": "【4.10 총선】 민주당 110곳, 국힘 80곳 우세...경합 50~60곳",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307382"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+                "title": "한동훈, 정성국 후보 지원 유세  이번 4.10총선에서 더불어민주당을 꼭 심판해...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+                "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+                "title": "[포토] 한동훈, 정성국 지원유세 “부산이 변하려면 심장인 부산진구가 변해야...",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000438"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:01:00 +0900",
+                "title": "[총선, 현장] PK 유세 한동훈… “1992년 롯데 우승 이끈 염종석처럼 소진하겠...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982458?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "구청장 출신 최고위원 vs 한동훈 영입인재 1호, 부산진구갑 접전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464268?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:57:00 +0900",
+                "title": "[총선현장] 정성국 지원 유세 나선 한동훈  부산진구 변화에 함께하겠다 ",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515344"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:57:00 +0900",
+                "title": "[총선포토] 한동훈, 1호 영입인재 정성국 지원유세  제가 함께 하겠다 ",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515339"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
+                "link": "http://www.mhj21.com/160226"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:36:00 +0900",
+                "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "한동훈 위원장, 부산진구 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602704?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "한동훈 위원장, 부산진구 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602700?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "국민의힘, 부전시장 앞 유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602701?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "한동훈 위원장, 부산 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602702?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "국민의힘, 부전시장 앞 유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602697?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:44:00 +0900",
+                "title": "한동훈 위원장, 부산 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602699?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:41:00 +0900",
+                "title": "인사하는 국민의힘 부산진 갑을 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602669?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:41:00 +0900",
+                "title": "지지호소하는 정성국 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602668?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:41:00 +0900",
+                "title": "지지호소하는 정성국 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602666?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:06:00 +0900",
+                "title": "한동훈  의사 증원 해야 하지만 숫자에 매몰될 문제 아냐 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450260?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:47:00 +0900",
+                "title": "부산 지원사격 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450194?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:47:00 +0900",
+                "title": "한동훈, 부전역 동해선 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450197?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:46:00 +0900",
+                "title": "한동훈 부전역 동해선 지원유세에 몰린 지지자들",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450191?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450170?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "'국민의힘으로 부산진살리기' 부전역 동해선 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450177?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "한동훈 등장에 지지자들 몰린 부전역 동해선 지원유세 현장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450172?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "부산진갑·을 지원유세 하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450173?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "부산진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463332?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463330?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463331?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "정성국 후보와 포옹하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450169?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+                "title": "부산 부산진구 지원사격 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450176?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463309?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "부산진구 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463311?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "시계 보는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463308?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "정성국-이헌승 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463323?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "정성국 후보 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463333?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부전역 앞 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463324?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부전역 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463302?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부전역 앞 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463307?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463304?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463322?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부산진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463320?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부산진구 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463318?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부전역 앞 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463303?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부전역 앞 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463326?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:43:00 +0900",
+                "title": "부산진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463305?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:37:00 +0900",
+                "title": "부산진갑·을 후보 지원사격 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450135?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:37:00 +0900",
+                "title": "정성국·이헌승 후보 지지 호소하는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450134?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:37:00 +0900",
+                "title": "부산진구 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450136?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:38:00 +0900",
+                "title": "한동훈 “의대 증원 숫자에 매몰될 문제 아냐…조속한 해결 요청”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704311?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:30:00 +0900",
+                "title": "'총선 D-9' 한동훈, PK 찾아 국민의힘 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019534?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "與 지도부 PK 잇단 방문…집중 유세",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070044?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+                "title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:47:00 +0900",
+                "title": "‘낙동강 벨트’ 찾은 與 윤재옥 원내대표 “민주당 200석 막아달라”",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069999?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 12:16:00 +0900",
+                "title": "윤재옥 원내대표, 한동훈 영입 1호 부산진갑 정성국 후보 지원 유세",
+                "link": "https://www.viva100.com/main/view.php?key=20240330010010254"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:15:00 +0900",
+                "title": "[낙동강전선을 가다]부산 국힘 총선 후보 합동충혼탑ㆍ민주공원 참배",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641202"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:58:00 +0900",
+                "title": "윤재옥 국민의힘 선대위원장 부산 방문",
+                "link": "https://news.knn.co.kr/news/article/155057"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+                "title": "국민의힘 윤재옥 원내대표, 부산진갑 정성국 후보 지지유세",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515133"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:28:00 +0900",
+                "title": "[총선포토] 정성국 후보-윤재옥 원내대표, 부전시장 상인들과 '찰칵'",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515130"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:52:00 +0900",
+                "title": "'부산진갑' 민주, 국힘 당대표 대리전",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461411"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:18:00 +0900",
+                "title": "국민의힘 부산 진구갑, 정성국 후보에게 듣는다",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78745"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:14:00 +0900",
+                "title": "[부산 총선 공약털기①] 지역발전의 '핵심'인 '교통 정책' 공약 분석",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461420"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:09:00 +0900",
+                "title": "정근 온종합병원장, 정성국 부산진갑 국민의힘 후보 후원회장 사임",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445666?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:41:00 +0900",
+                "title": "'친명' 서은숙 vs '친한' 정성국…'민심 바로미터' 부산진갑 표심은",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879670?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:36:00 +0900",
+                "title": "[오늘의 주요 정치 일정] 정치(3월29일 금요일)",
+                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=332477"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:58:00 +0900",
+                "title": "[2024년 3월29일 정치·사회 주요일정] 한동훈 국민의힘 비대위원장, '국민의...",
+                "link": "https://www.mediapen.com/news/view/908074"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:08:00 +0900",
+                "title": "[오늘의 정치일정] 3월 29일(금)",
+                "link": "https://www.newspim.com/news/view/20240329000024"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:02:00 +0900",
+                "title": "[오늘의 주요 일정] '마약류 투약' 전 야구 국가대표 오재원 구속 송치",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213335"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정]정치(3월29일 금요일)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457938?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(29일,금)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444246?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:00:00 +0900",
+                "title": "총선 레이스 돌입..공식 선거운동 기간 시작",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262619"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:52:00 +0900",
+                "title": "선거운동 돌입...PK가 전국 총선 판세 좌우",
+                "link": "https://news.knn.co.kr/news/article/155009"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "공직 선거운동 시작, 치열한 경쟁 예고",
+                "link": "https://news.knn.co.kr/news/article/154973"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "부산 사하갑 '박힌 돌 vs 굴러온 돌' 오차 밖…최인호 50%, 이성권 39%",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=633709"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:00:00 +0900",
+                "title": "정성국 후보 출정식  거대 야당 밀어붙인 각종 악법 바로잡겠다 ",
+                "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/28/2024032800372.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:23:00 +0900",
+                "title": "부산진갑 정성국 국민의힘 후보 후원회장 정근 병원장 '사임'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277093?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:59:00 +0900",
+                "title": " 尹정부 일할 수 있게 지지해달라  국민의힘 부산 총선 본선거 시작",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325404?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:58:00 +0900",
+                "title": "[펜앤포토] 참배하는 정성국 후보",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78674"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:34:00 +0900",
+                "title": "정성국 부산진구갑 후보 출정식  총선 압승은 시대적 소명 ",
+                "link": "https://www.viva100.com/main/view.php?key=20240328010009526"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:23:00 +0900",
+                "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:37:00 +0900",
+                "title": "[총선 브리핑] 반드시 승리 쟁취  부산진갑 국힘 정성국 출정식 개최",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262503?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:11:00 +0900",
+                "title": "'부산의 중심' 부산진갑 정성국 후보, 거리유세전 본격 돌입",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=514807"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:30:00 +0900",
+                "title": "영입인재 vs 지명직 최고위원…부산 부산진갑 대결구도와 공약은",
+                "link": "https://n.news.naver.com/mnews/article/001/0014593677?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 305797
+            }
+        ],
+        "huboid": "100152623",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2605/Hb100152623/junkwa/20240206135829744_1.PDF"
+    }
 ]

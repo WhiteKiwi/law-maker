@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111101-1.jpg",
-    "id": "2111101-1",
-    "재산": 2551815,
-    "생년월일": "19570918",
-    "경력": "(전) 더불어민주당 원내대표\n(현) 홍범도장군기념사업회 이사장",
-    "학력": "연세대학교 공학대학원 환경공학전공 졸업(공학석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "478",
-    "regionId": "2111101",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:24:00 +0900",
-        "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[총선 격전지] '친명' 우원식 vs '오세훈계' 현경병…스윙보터 '노원갑' 표심...",
-        "link": "https://www.newspim.com/news/view/20240401000701"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:30:00 +0900",
-        "title": "김부겸 민주당 서울 성북을 지원 유세, 자영업단체와 정책협약도 맺어",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347664"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:34:00 +0900",
-        "title": "서준오 서울시의원, 친환경미래경제도시로 도약할 노원구 변화 이끌어",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441228?sid=102"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "우원식",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2048362
-      },
-      {
-        "연도": 2021,
-        "재산": 2136113
-      },
-      {
-        "연도": 2022,
-        "재산": 2273776
-      },
-      {
-        "연도": 2023,
-        "재산": 2551815
-      }
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111101-2.jpg",
-    "id": "2111101-2",
-    "재산": 1201677,
-    "생년월일": "19621105",
-    "경력": "(전) 18대 국회의원\n(전) 서울특별시장 비서실장",
-    "학력": "서울대학교 행정대학원 행정학과 졸업(행정학석사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111101",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사",
-        "link": "https://n.news.naver.com/mnews/article/607/0000001938?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[총선 격전지] '친명' 우원식 vs '오세훈계' 현경병…스윙보터 '노원갑' 표심...",
-        "link": "https://www.newspim.com/news/view/20240401000701"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 07:26:00 +0900",
-        "title": "진중권, ‘돌발 하차 선언’ 사과…“한판승부, 가장 공정한 방송”",
-        "link": "https://n.news.naver.com/mnews/article/022/0003919478?sid=102"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "현경병",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1201677
-      }
-    ]
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111101-1.jpg",
+        "id": "2111101-1",
+        "재산": 2551815,
+        "생년월일": "19570918",
+        "경력": "(전) 더불어민주당 원내대표\n(현) 홍범도장군기념사업회 이사장",
+        "학력": "연세대학교 공학대학원 환경공학전공 졸업(공학석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "478",
+        "regionId": "2111101",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "노원 총선 토론회…'갑 현경병 불참' '을 불꽃 경쟁' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168487"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:50:00 +0900",
+                "title": "'내부순환 급행철도' 총선 공약 급부상 … '기동카'도 변수 [혼돈의 서울 표심...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200137.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:24:00 +0900",
+                "title": "김부겸, 윤 대국민담화에  이런 소갈머리로 국정운영 어떻게 하나 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464487?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[총선 격전지] '친명' 우원식 vs '오세훈계' 현경병…스윙보터 '노원갑' 표심...",
+                "link": "https://www.newspim.com/news/view/20240401000701"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:30:00 +0900",
+                "title": "김부겸 민주당 서울 성북을 지원 유세, 자영업단체와 정책협약도 맺어",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347664"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+                "title": "서준오 서울시의원, 친환경미래경제도시로 도약할 노원구 변화 이끌어",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441228?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:04:00 +0900",
+                "title": "임종석 전 대통령실 비서실장, 제윤경 후보 지원 유세",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558764"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:21:00 +0900",
+                "title": " 건강권 지키는 4월  민주노총·4·16연대, 생명안전기본법 제정 촉구",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704291?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:40:00 +0900",
+                "title": "서준오 시의원,  동부간선도로 녹천교 진입로 상습정체 해결 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317212"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:10:00 +0900",
+                "title": "[뉴스레터K] 우원식 “나라를 나라답게, 노원을 살기좋게…녹색공간 살려나갈...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691607?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+                "title": "[더불어민주연합 노동공약은?] 주 4일제·11시간 최소휴식제 도입",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220760"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:48:00 +0900",
+                "title": "상습정체 겪던 동부간선도로 녹천교 진출로 확장 공사 완료 후 개통",
+                "link": "https://www.onews.tv/news/articleView.html?idxno=202028"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:52:00 +0900",
+                "title": "서준오 서울시의원, '공릉동 태릉어울림도서관'...투자심사 통과 이끌어내",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025288"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:52:00 +0900",
+                "title": "[총선 D-12] 우원식 의원 추진 '노원 경제 3대축' 본궤도",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025282"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:19:00 +0900",
+                "title": "서준오 서울시의원, 동부간선도로 녹천교 진입로 상습정체 해결",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440794?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:16:00 +0900",
+                "title": "노원갑 '우원식 VS 현경병'…지역 개발 공약은? (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168326"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:34:00 +0900",
+                "title": "서준오 서울시의원, 공릉동 태릉어울림도서관 투자심사 통과 이끌어내",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440406?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:02:00 +0900",
+                "title": "민주당  지역 1번·비례 3번 찍어주세요 … '더 몰빵13' 떴다",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643888"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:04:00 +0900",
+                "title": "태릉골프장 활용안, 노원갑 ‘선거 쟁점’ 부상",
+                "link": "http://www.kukinews.com/newsView/kuk202403270269"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:01:00 +0900",
+                "title": "세월호 10주기 “사회적 재난 참사 계속 되고 있다”",
+                "link": "https://n.news.naver.com/mnews/article/310/0000115475?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:10:00 +0900",
+                "title": "尹  대파 875원  발언에 때아닌 '대파 전쟁'",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686479"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "김현권  새로운 미래 50년 먹거리 만들겠다 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543656"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:08:00 +0900",
+                "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "총선 위해 '대파 장사하는 사람들' [뉴스속인물]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002813686?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "'3명 중 1명은 친명' 민주당 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469532"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:27:00 +0900",
+                "title": "'계란말이 장인' 尹 대통령은 정말 '대파' 시세 잊었나 [이슈+]",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964527?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:46:00 +0900",
+                "title": "[긴급진단] 동부간선 '지하화' 사활 거는 총선… 착공은 언제?",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485901"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:00:00 +0900",
+                "title": "[단독]  노조 없애라 …허영인 회장, 탈퇴자 수까지 보고 받았나",
+                "link": "https://n.news.naver.com/mnews/article/437/0000385541?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:00:00 +0900",
+                "title": "민주당 우서영 후보, 후원금 펀드 3억 조기 마감",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823152?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:12:00 +0900",
+                "title": " 문재인 때는 한 단에 7000원 …野 '대파챌린지'에 與 되치기",
+                "link": "https://n.news.naver.com/mnews/article/119/0002813205?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:52:00 +0900",
+                "title": "박지혜 의정부갑 후보  지속가능한 미래 그려나갈 것  총선승리 다짐",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079833"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:49:00 +0900",
+                "title": "'경제 폭망' 대파 챌린지?…與  文 때는 한 단에 7000원 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004964218?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:03:00 +0900",
+                "title": "서준오 서울시의원, 백사마을 재개발 완성단계에 올려",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439590?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:30:00 +0900",
+                "title": "[열전 25시] 3월 25일 경기도 현장은 지금②",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037181?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:08:00 +0900",
+                "title": "이재강 민주당 의정부을 후보, 선거사무소 개소식 성황리 개최",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643185"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:02:00 +0900",
+                "title": "더불어민주당 이재강 후보, 선거사무소 개소식 개최",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847963"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:42:00 +0900",
+                "title": "민주당 '영입인재 1호' 박지혜, 지속가능한 캠프 개소식 개최",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121925"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:38:00 +0900",
+                "title": "현경병 노원갑 후보, 선거사무소 개소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3122041"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:00:00 +0900",
+                "title": "더불어민주당 이재강 후보, 선거사무소 개소식",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240325010007701"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:47:00 +0900",
+                "title": "[총선] 이재강  권력 앞에 당당하고 국민들께 겸손해야 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000991307?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:09:00 +0900",
+                "title": "김현권 “다가올 미래 50년의 새로운 먹거리 만들겠다”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474189"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:26:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037126?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "김현권 구미을 후보 선거사무소 개소… 다가올 미래 50년 새로운 먹거리 창출...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004478"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:42:00 +0900",
+                "title": "이재강  일본 앞 작아지는 윤 정권, 영토주권 포기하나 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427155?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:42:00 +0900",
+                "title": "민주당 김현권 후보, 선거사무소 개소식 성황리에 마쳐",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989372"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:00:00 +0900",
+                "title": "김현권 구미시을 후보  다가올 미래 50년의 새로운 먹거리 만들겠다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104411"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:52:00 +0900",
+                "title": "이재강 의정부을 후보 선거사무소 개소… 윤석열 정권 퇴행 종지부, 레드카드...",
+                "link": "https://www.ajunews.com/view/20240323144236215"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:00:00 +0900",
+                "title": "[포토] 축사하는 민주당 우원식 서울 노원갑 후보",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121540"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:38:00 +0900",
+                "title": "커지는 ‘대파 게이트’...야당, 대파 들고 정권 심판 ‘대공세’",
+                "link": "https://vop.co.kr/A00001650036.html"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:01:00 +0900",
+                "title": "민주당, '875원 짜리 대파 찾기' 삼매경",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822704?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:01:00 +0900",
+                "title": "[2024 총선]'오세훈의 후보들' 오신환·이창근·현경병...총선 성적표 어떨까",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160524?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:42:00 +0900",
+                "title": "[단독]이재명 대표가 후원회장 맡은 8명 중 7명 공천",
+                "link": "https://n.news.naver.com/mnews/article/277/0005395645?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:42:00 +0900",
+                "title": "'오대남'이 대세…숫자로 본 거대 양당 254개 지역구 공천",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469251"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:00:00 +0900",
+                "title": "[포토] 우서영 더불어민주당 밀양·의령·함안·창녕 선거구 후보 등록",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240321010012257"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:32:00 +0900",
+                "title": "밀양·의령·함안·창녕에 민주당 우서영, 정식 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/003/0012440954?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 08:57:00 +0900",
+                "title": "마낙길 노원구유소년야구단 감독  자신감이 곧 실력…오늘보다 나은 내일 위해...",
+                "link": "https://sports.news.naver.com/news.nhn?oid=117&aid=0003815001"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:04:00 +0900",
+                "title": "우원식 후보와 인사 나누는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423517?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:17:00 +0900",
+                "title": "우원식 후보와 인사 나누는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423460?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 23:00:00 +0900",
+                "title": "현경병 노원갑 후보  민생 챙기는 후보 선택해야 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240319010010897"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:16:00 +0900",
+                "title": "[총선 D-22] 민주당 우원식 서울 노원갑 예비후보, 진보당 권민경 후보 '단일...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1022378"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:02:00 +0900",
+                "title": "국힘 후보 20%·민주 36%가 ‘전과자’…여야 최다 전과는 9범",
+                "link": "https://n.news.naver.com/mnews/article/022/0003915711?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:36:00 +0900",
+                "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:52:00 +0900",
+                "title": "[일요서울TV] '윤석열 심판'이 목표! 손잡는 야권 후보들",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485624"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 09:20:00 +0900",
+                "title": "추미애 '헌정사 최초' 女 국회의장 되나, 22대 국회 국회의장 후보군 총망라",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485565"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:12:00 +0900",
+                "title": "인천 서구 해결사 이용우, 본격적인 선거 준비 나서",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=444587"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:48:00 +0900",
+                "title": "노원구 민주-진보 단일화…'갑 우원식 을 김성환' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167892"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:24:00 +0900",
+                "title": "김용만 하남시을 예비후보, 캠프 개소식 성황리 마쳐",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078517"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:44:00 +0900",
+                "title": "[포토] 총선 노원구 갑·을 선거구 더불어민주당·진보당 후보단일화 발표",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314567"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:42:00 +0900",
+                "title": "서구을 이용우,  서구 해결사  내세워 본격적인 선거 준비 나서",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417031"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:30:00 +0900",
+                "title": "[총선] 하남시을 김용만 예비후보, 선거캠프 개소식",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3012895"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:50:00 +0900",
+                "title": "[포토] 민주당-진보당 노원구 후보 단일화 기자회견",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/18/2024031800279.html"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:45:00 +0900",
+                "title": "[총선 나도 뛴다] 3월 18일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000036498?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:35:00 +0900",
+                "title": "'총선 노원 갑‧을' 민주‧진보당 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/421/0007418543?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:35:00 +0900",
+                "title": "민주‧진보당, 서울 노원 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/421/0007418542?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:35:00 +0900",
+                "title": "'서울 노원갑' 우원식‧권민경 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/421/0007418541?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:33:00 +0900",
+                "title": "민주당-진보당 노원구 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012433644?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:33:00 +0900",
+                "title": "민주당-진보당 노원구 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012433643?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:33:00 +0900",
+                "title": "서울 노원구갑 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012433646?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:33:00 +0900",
+                "title": "22대총선 노원구 후보 단일화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012433645?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:29:00 +0900",
+                "title": "노원구 후보 단일화 기자회견",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570705?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:29:00 +0900",
+                "title": "노원구 후보 단일화 기자회견",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570703?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:29:00 +0900",
+                "title": "노원구 후보 단일화 기자회견",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570704?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:29:00 +0900",
+                "title": "노원구 후보 단일화 기자회견",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570702?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:28:00 +0900",
+                "title": "민주당 하남을 김용만 예비후보 선거캠프 개소식",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426223?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:04:00 +0900",
+                "title": " 서구 해결사 이용우”, 본격적인 선거 준비 나서",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1844254"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:04:00 +0900",
+                "title": "노원구 야권 후보단일화 합의... 노원(갑) 우원식ㆍ노원(을) 김성환",
+                "link": "http://www.hg-times.com/news/articleView.html?idxno=259656"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "우원식",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2048362
+            },
+            {
+                "연도": 2021,
+                "재산": 2136113
+            },
+            {
+                "연도": 2022,
+                "재산": 2273776
+            },
+            {
+                "연도": 2023,
+                "재산": 2551815
+            }
+        ],
+        "huboid": "100151755",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100151755/junkwa/20240321131044874_9.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111101-2.jpg",
+        "id": "2111101-2",
+        "재산": 1201677,
+        "생년월일": "19621105",
+        "경력": "(전) 18대 국회의원\n(전) 서울특별시장 비서실장",
+        "학력": "서울대학교 행정대학원 행정학과 졸업(행정학석사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2111101",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "노원 총선 토론회…'갑 현경병 불참' '을 불꽃 경쟁' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168487"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+                "title": "트럼프 전략? 지지율 앞서자 너도나도 ‘토론 패싱’하는 후보들",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351539?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "현경병 국민의힘 노원갑 후보, 2022년 '불법 공천헌금' 사건 재수사",
+                "link": "https://n.news.naver.com/mnews/article/607/0000001938?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[총선 격전지] '친명' 우원식 vs '오세훈계' 현경병…스윙보터 '노원갑' 표심...",
+                "link": "https://www.newspim.com/news/view/20240401000701"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 07:26:00 +0900",
+                "title": "진중권, ‘돌발 하차 선언’ 사과…“한판승부, 가장 공정한 방송”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919478?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:10:00 +0900",
+                "title": "[뉴스레터K] 우원식 “나라를 나라답게, 노원을 살기좋게…녹색공간 살려나갈...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691607?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력…③벌금 100만원 미만",
+                "link": "https://www.kpinews.kr/newsView/1065589147970335"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+                "title": "현경병  태릉골프장에 아파트 건설 웬말...생태공원 만들자 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004966355?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:33:00 +0900",
+                "title": "[총선] 한동훈, 서울 총력 유세…“이·조 범죄연대 심판이 민생”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691244?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:16:00 +0900",
+                "title": "진중권, 생방 중 돌연 하차 선언…“이재명 막말은 안 다루고 한동훈만 때려”...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919182?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 06:08:00 +0900",
+                "title": "한동훈 “이재명·조국 감옥 가기까지 3년은 길다”…이재명 “나라 망치고 국...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919162?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 06:05:00 +0900",
+                "title": "[총선] 한동훈, 서울 총력 유세…“이·조 범죄연대 심판이 민생”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691079?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:15:00 +0900",
+                "title": "[총선] 한동훈, 서울 총력 유세…“이·조 범죄연대 심판이 민생”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691006?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:19:00 +0900",
+                "title": "한동훈, 한강벨트 시작으로 강북권·경기 북부까지 훑었다(종합)",
+                "link": "https://n.news.naver.com/mnews/article/277/0005398816?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:13:00 +0900",
+                "title": "한동훈, 선거운동 첫날 '이·조심판' 외쳐… 국민만 보고 투표해달라 (종합2보...",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457839?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:10:00 +0900",
+                "title": "[총선] 한동훈, 서울 총력 유세…“이·조 범죄 연대 심판이 민생”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690850?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:02:00 +0900",
+                "title": "[총선현장] 한동훈, 서울·경기 유세… 이조심판 통해 범죄자가 시민 지배하는...",
+                "link": "https://www.newspim.com/news/view/20240328001291"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:09:00 +0900",
+                "title": "한동훈  이·조심판이 민생 에 지지자들  옳소 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879394?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:16:00 +0900",
+                "title": "노원갑 '우원식 VS 현경병'…지역 개발 공약은? (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168326"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:15:00 +0900",
+                "title": "한동훈, 선거운동 첫날 '이조심판' 강조… 이재명 감옥 가기까지 3년 길어 (종...",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457711?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "한동훈 비대위원장의 발언 듣는 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001273"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "한동훈 비대위원장의 발언 듣는 국민의힘 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001270"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "난간에 매달린 지지자들... 한동훈 비대위원장이 궁금해",
+                "link": "https://www.newspim.com/news/view/20240328001271"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "한동훈 국민의힘 비상대책위원장 방문에 인파 몰린 경춘선숲길",
+                "link": "https://www.newspim.com/news/view/20240328001272"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:14:00 +0900",
+                "title": "한동훈 비대위원장 바라보는 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001269"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "한동훈 비대위원장의 발언에 호응하는 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001266"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "시작된 국회의원 선거운동... 박수 보내는 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001267"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "현경병 국민의힘 후보의 발언 듣는 지지자들",
+                "link": "https://www.newspim.com/news/view/20240328001265"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "한동훈 비대위원장을 스마트폰에 담아",
+                "link": "https://www.newspim.com/news/view/20240328001268"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457643?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457644?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457651?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457649?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "노원 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457645?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457653?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457648?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457646?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457647?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:42:00 +0900",
+                "title": "현경병 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457650?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:03:00 +0900",
+                "title": "한동훈, 가락시장서 공식유세 돌입[선거운동 스타트]",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823891?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 22:48:00 +0900",
+                "title": "현경병 與 노원갑 후보  태릉골프장 아파트 전면 백지화, 녹지공원 조성해야 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240327010016380"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:04:00 +0900",
+                "title": "태릉골프장 활용안, 노원갑 ‘선거 쟁점’ 부상",
+                "link": "http://www.kukinews.com/newsView/kuk202403270269"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:36:00 +0900",
+                "title": "태릉골프장 공공개발 대신 생태 녹지공원 조성 합의한 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014592986?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:14:00 +0900",
+                "title": "與 후보들  태릉 골프장, 아파트 대신 K센트럴파크 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440268?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:10:00 +0900",
+                "title": "노원갑 현경병 등 與후보들  태릉골프장, 아파트 대신 녹지공원으로 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017894?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:08:00 +0900",
+                "title": "국힘 후보들, “태릉골프장 아파트 건설 전면 백지화” 한 목소리",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294634603596"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:31:00 +0900",
+                "title": "노원갑 출마 현경병 등 與 후보들 “태릉골프장, 아파트 대신 ‘K센트럴파크’...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002628864?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:03:00 +0900",
+                "title": "노원갑 현경병 “태릉골프장, 아파트 건설 대신 ‘초대형 녹지공원’ 조성”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002286598?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:22:00 +0900",
+                "title": "서울 북동부 여당 후보들 “태릉골프장 공원으로”",
+                "link": "https://www.naeil.com/news/read/505718?ref=naver"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:26:00 +0900",
+                "title": "여 노원갑 현경병  태릉골프장 아파트 백지화…녹지공원 조성해야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452826?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:15:00 +0900",
+                "title": "1인시위만 40여차례…현경병 “태릉 골프장 아파트 건설 백지화해야”",
+                "link": "https://n.news.naver.com/mnews/article/011/0004319219?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:57:00 +0900",
+                "title": "'수도권 출마' TK 출향 후보들, 격전지서 금배지 사냥 나선다",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869415?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:38:00 +0900",
+                "title": "현경병 노원갑 후보, 선거사무소 개소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3122041"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:01:00 +0900",
+                "title": "[2024 총선]'오세훈의 후보들' 오신환·이창근·현경병...총선 성적표 어떨까",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160524?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:12:00 +0900",
+                "title": "[포토] 김주성 서울시의원 보궐선거 후보, 선거사무소 개소식",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121421"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[포토] 축사하는 현경병 노원갑 후보",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121408"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:46:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력 분석…①정치자금법 위반 등",
+                "link": "https://www.kpinews.kr/newsView/1065602786069308"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:48:00 +0900",
+                "title": "[뉴스레터K] 현경병 “지역구민 뜻 적극 수용…상전벽해 처럼 ‘노원벽해’ 만...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686065?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 00:01:00 +0900",
+                "title": "'천만 서울시정은 나의 무기'…총선 도전장 낸 그들",
+                "link": "https://n.news.naver.com/mnews/article/629/0000274728?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 23:00:00 +0900",
+                "title": "현경병 노원갑 후보  민생 챙기는 후보 선택해야 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240319010010897"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:36:00 +0900",
+                "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 00:01:00 +0900",
+                "title": "살아돌아온 '오세훈 사람들'…오신환·이창근·현경병 본선행",
+                "link": "https://n.news.naver.com/mnews/article/629/0000274427?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:18:00 +0900",
+                "title": "설욕 벼르는 국민의힘, 한강 물결 흐름 바꿔놓을까",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224787"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 08:56:00 +0900",
+                "title": "군대서 만났다가 '오세훈의 비서실장'까지…선거에도 통할까",
+                "link": "https://n.news.naver.com/mnews/article/079/0003874571?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 15:01:00 +0900",
+                "title": "[동앵과 뉴스터디]여야 생사 걸린 17곳! 서울 총선 대진표 완벽 분석",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270304?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 18:22:00 +0900",
+                "title": "새로운 노원갑…'우원식 VS 현경병' 맞대결(B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167834"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 16:54:00 +0900",
+                "title": "[4.10총선-38] 노원갑 우원식vs현경병. 3연임 우원식",
+                "link": "http://www.mhj21.com/159838"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 13:22:00 +0900",
+                "title": "[총선 이슈] ‘올드보이’들의 귀환…박지원·정동영, 현역 꺾고 본선행",
+                "link": "https://www.cnbnews.com/news/article.html?no=648556"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 22:56:00 +0900",
+                "title": "민주 '비명' 전해철 경선 탈락…'올드보이' 박지원·정동영 공천(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014561658?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 22:43:00 +0900",
+                "title": "민주, 전해철·김상희·신동근 '비명횡사'…박지원·정동영 공천(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012425218?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 12:24:00 +0900",
+                "title": "한강 탈환 노리는 국민의힘… 개혁신당 변수 되나",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224268"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 13:04:00 +0900",
+                "title": "결선으로 간 하태경·이혜훈",
+                "link": "https://www.naeil.com/news/read/503901?ref=naver"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 03:30:00 +0900",
+                "title": "與는 화성정 유경준·울산 중구 박성민…",
+                "link": "https://n.news.naver.com/mnews/article/023/0003821341?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 03:01:00 +0900",
+                "title": "‘스윙보터’ 전쟁, 서울 18곳-경기 22곳-인천 3곳이 최대 승부처",
+                "link": "https://n.news.naver.com/mnews/article/020/0003552368?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 19:31:00 +0900",
+                "title": "막바지 이른 여야 공천…與 尹정부 인사 고전, 野 이언주 등판",
+                "link": "https://n.news.naver.com/mnews/article/018/0005689045?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 16:41:00 +0900",
+                "title": "검경 출신 용인갑서 맞대결…강철호·이언주 용인정 격돌",
+                "link": "https://n.news.naver.com/mnews/article/011/0004310869?sid=100"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 12:33:00 +0900",
+                "title": "[이슈] 국민의힘, 4차경선 20곳·전략선거구 4곳 결과…'친윤 대거 공천' 박성...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=638291"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 08:13:00 +0900",
+                "title": "국민의힘, 서울 강동갑 전주혜·중랑갑 김삼화 경선 승리",
+                "link": "https://n.news.naver.com/mnews/article/310/0000115060?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 08:04:00 +0900",
+                "title": "與, 조경태·전주혜 등 공천 확정···하태경 VS 이혜훈 결선",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=217868"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 07:44:00 +0900",
+                "title": "與 울산중구 '친윤' 박성민 공천…중성동을 하태경-이혜훈 결선",
+                "link": "http://www.kbsm.net/news/view.php?idx=425371"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 22:12:00 +0900",
+                "title": "[아주경제 오늘의 뉴스 종합] 통영 욕지도 해역서 어선 전복…4명 사망·5명 ...",
+                "link": "https://www.ajunews.com/view/20240309213748919"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 21:24:00 +0900",
+                "title": "與 현역 조경태·박성민·전주혜 경선 승리···'중·성동갑' 하태경·이혜훈...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1100030"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 21:20:00 +0900",
+                "title": "與 중성동을 하태경-이혜훈 결선·‘친윤’ 박성민 본선… 화성정 유경준 전략...",
+                "link": "https://n.news.naver.com/mnews/article/123/0002329213?sid=100"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 20:58:00 +0900",
+                "title": "국힘, 전주혜-박성민-조경태 공천...하태경-이혜훈·강대식-한기호는 결선투표",
+                "link": "https://www.asiatime.co.kr/article/20240309500027"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 20:02:00 +0900",
+                "title": "[공천전쟁] 국민의힘 4차경선 결과...조경태 전주혜 박성민 하종대",
+                "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=306471"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 19:10:00 +0900",
+                "title": "여 '성동을' 하태경·이혜훈 결선…'친윤' 박성민 본선(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012416750?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 18:50:00 +0900",
+                "title": "與, 조경태·박성민·전주혜 본선행… 중성동을 하태경-이혜훈 결선",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1840041"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 18:49:00 +0900",
+                "title": "與 울산중구 '친윤' 박성민 공천…중성동을 하태경-이혜훈 결선(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014552686?sid=165"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 18:32:00 +0900",
+                "title": "국힘 현역 3명 공천 확정, 2명 탈락, 3명은 경선",
+                "link": "http://www.viewsnnews.com/article?q=218267"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 18:14:00 +0900",
+                "title": "국민의힘 대구 동구·군위을 경선, '강대식·이재만' 결선 성사",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003141"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "현경병",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1201677
+            }
+        ],
+        "huboid": "100152445",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100152445/junkwa/20240129142455043_1.PDF"
+    }
 ]

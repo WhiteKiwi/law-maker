@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2260803-1",
-    "regionId": "2260803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-1.jpg",
-    "기호": 1,
-    "이름": "정명희",
-    "생년월일": "19660502",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정치인",
-    "학력": "부산대학교 약학대학 제약학과 졸업",
-    "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
-    "재산": 5271041,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:25:00 +0900",
-        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-        "title": "[4.10총선-183] 부산 북구을, 정명희vs박성훈. 초접전",
-        "link": "http://www.mhj21.com/160231"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:44:00 +0900",
-        "title": "정명희 후보, '아트스테이션' 방문 청년문화간담회 가져",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958336"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:06:00 +0900",
-        "title": "[부산 북구 을] 정명희  여기가 승리하면 대한민국이 바뀔 것 ",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075660?sid=102"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 5271041
-      }
-    ]
-  },
-  {
-    "id": "2260803-2",
-    "regionId": "2260803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-2.jpg",
-    "기호": 2,
-    "이름": "박성훈",
-    "생년월일": "19710118",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
-    "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
-    "재산": 4342023,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:15:00 +0900",
-        "title": "한동훈  범죄자에게 미래 맡겨선 안돼  이재명  국힘 읍소 속지말자 (종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451538?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-        "link": "https://www.newspim.com/news/view/20240401001242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:48:00 +0900",
-        "title": "[데일리안 오늘뉴스 종합] 한동훈  정부, 의대 정원 2000명 고수 않고 대화하...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815938?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 4342023
-      }
-    ]
-  }
+    {
+        "id": "2260803-1",
+        "regionId": "2260803",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-1.jpg",
+        "기호": 1,
+        "이름": "정명희",
+        "생년월일": "19660502",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정치인",
+        "학력": "부산대학교 약학대학 제약학과 졸업",
+        "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
+        "재산": 5271041,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:46:00 +0900",
+                "title": " 사통팔달 북구 시대  정명희 후보 '교통혁신 5대 프로젝트 공약' 발표",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959508"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+                "title": "부산 북을 정명희 vs 박성훈, 낙동강 벨트 격전지 판세 축소판, 인물 경쟁력 ...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263375?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:16:00 +0900",
+                "title": "[22대 총선] 부산 후보 43명 중 29명, '시민정책의제' 답변 및 공약 채택",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503411"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:19:00 +0900",
+                "title": "[총선 브리핑]민주당 북을 정명희, 북구 교통혁신 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263329?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:49:00 +0900",
+                "title": "이재용 회장 왜? 영화계 거물도 등장…총선 이색 홍보 전략",
+                "link": "https://n.news.naver.com/mnews/article/025/0003351547?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:20:00 +0900",
+                "title": "부산 총선 후보자 45명 중 29명, '시민정책의제' 공약화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466616?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:50:00 +0900",
+                "title": "정명희 후보, '아트스테이션' 방문 청년문화간담회 가져",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958336"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:47:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693317?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:40:00 +0900",
+                "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:25:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[4.10총선-183] 부산 북구을, 정명희vs박성훈. 초접전",
+                "link": "http://www.mhj21.com/160231"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:06:00 +0900",
+                "title": "[부산 북구 을] 정명희  여기가 승리하면 대한민국이 바뀔 것 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075660?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": "[부산 북구 을] 박성훈  기재부 출신 경제전문가, 예산 확보 힘 있어야 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075658?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:22:00 +0900",
+                "title": "[총선핫스팟] 부산 북을 ‘신설 낙동강벨트' 접전, 국힘 박성훈 vs 민주 정명...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347591"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
+                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:32:00 +0900",
+                "title": "의대증원 이슈로 탄력 받은 비대면…'약배송'까지 뚫리나",
+                "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1158151&ref=naverpc"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:38:00 +0900",
+                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:33:00 +0900",
+                "title": "[총선을 뛴다]⑥의료계 출신은 20명…의사 10명·간호사 4명",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703814?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:21:00 +0900",
+                "title": "보수 아성 흔들리는 ‘낙동강벨트’… 강서, 여야 모두  우세 [3대 승부처 판...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164470?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:25:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-&lt;하&gt;부산] 민심 요동치는 부산, '낙동강 벨트...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164363?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:20:00 +0900",
+                "title": "부산 북구을 토론회, 박성훈  화명-서면 도시철도 신설  vs 정명희  지금 필요...",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010430"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:56:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 승리 장담 못 하는 대혼전",
+                "link": "http://www.kbsm.net/news/view.php?idx=428047"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:42:00 +0900",
+                "title": "[총선 판세] 여론조사 격차 5%p 이내 '초박빙' 전국 30여곳 등 60여곳 대혼전...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474603"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599984?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:07:00 +0900",
+                "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:16:00 +0900",
+                "title": "신설 ′북구 을′..′교육·교통′ 키워드 - 유태경",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262649"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:54:00 +0900",
+                "title": "'전 구청장 vs 전 경제부시장' 북구을 TV 토론",
+                "link": "https://news.knn.co.kr/news/article/155061"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:07:00 +0900",
+                "title": "'정치철새'부터 자질지적까지…부산 북구을 후보자 토론회 '설전'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446266?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:01:00 +0900",
+                "title": "[부산 북을 민주 정명희 후보 동행기] 부산서 세 번째 선거 임하는 구청장 출...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262668?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:01:00 +0900",
+                "title": "[부산 북을 국힘 박성훈 후보 동행기] 공천 늦은 만큼 더 내달리는 부시장 출...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262669?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:52:00 +0900",
+                "title": "&lt;선택 2024&gt;-신설 '부산 북구을'...만덕 1동 변수되나?",
+                "link": "https://news.knn.co.kr/news/article/155011"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:09:00 +0900",
+                "title": "[원포인트 공약] 더불어민주당 북구을 정명희 후보,  도시브랜드 가치 향상 ",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069860?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:00:00 +0900",
+                "title": "큰절 올린 민주당  부산에서 민주당이라는 이유로 버림받지 않도록 해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325408?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:23:00 +0900",
+                "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+                "title": "대학병원 유치, 부산형 급행철·도시철…여야 한목소리 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069789?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:10:00 +0900",
+                "title": "[동행취재] 등장하자 '덩실덩실'…'압승' 노리는 박성훈과 북을 한바퀴",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814199?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:58:00 +0900",
+                "title": "북구 을 선거구 '정명희 vs 박성훈' (B tv 부산뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=66&p_no=168242"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:00:00 +0900",
+                "title": "수도권 GTX를 충청까지? 공약 건 후보  기대감 줘야 이긴다  [지역후보 508명...",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350087?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:30:00 +0900",
+                "title": "선거가 전쟁은 아니잖아요... 기사에서 '사수' '탈환' 그만 씁시다",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427500?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:28:00 +0900",
+                "title": " 4.10 총선, 산적한 현안 전환점  힘모으는 약사단체",
+                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310136&REFERER=NP"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:28:00 +0900",
+                "title": "[기자의 눈] 4.10 총선과 약사사회의 긴장감",
+                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310103&REFERER=NP"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:34:00 +0900",
+                "title": "부울경 전역 민주·진보 약진…'동남권 진보벨트' 부활 조짐",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907180"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:26:00 +0900",
+                "title": "[총선현장] '부산 북갑' 서병수  낙동강 시대 활짝 열겠다…교통의 요충지 만...",
+                "link": "https://www.newspim.com/news/view/20240325000970"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:10:00 +0900",
+                "title": "尹에 편지 쓴 민주 북구을 정명희 “‘대파 875원’ 해프닝에 국민들 절망”",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469495"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:00:00 +0900",
+                "title": "공식선거운동 28일 '총성'…총선 여야 대진표는 [정국 기상대]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812832?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:01:00 +0900",
+                "title": "'장차관·용산 참모' 24명 본선행…정권심판론 뚫어낼까",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275851?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:18:00 +0900",
+                "title": "22대 총선 부산 여성 후보 9명..전체의 21%",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262449"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:36:00 +0900",
+                "title": "부울경·충청 대혼전···與 '전통 텃밭'서도 '대이변' 가능성",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104514"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:38:00 +0900",
+                "title": "민주 정명희  부산 북구라는 자존심, 반드시 세울 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445900?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 08:08:00 +0900",
+                "title": "부산 총선 후보 10명 범죄 경력, 7명 병역 미필",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069389?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:13:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "부산 총선 후보 등록자 명단[22일 마감]",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+                "title": "부산 총선 후보 10명 전과 기록…7명은 병역 미필(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583335?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:17:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "부산 총선 후보 10명 전과…7명은 병역 미필",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583125?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:56:00 +0900",
+                "title": "'당·정 불협화음' 여파로 흔들리는 與 … '낙동강벨트' 접전 양상",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/22/2024032200129.html"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:02:00 +0900",
+                "title": "약사 출신 서영석 후보, 24일 선거사무소 개소",
+                "link": "https://www.dailypharm.com/Users/News/NewsView.html?ID=310003&REFERER=NP"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 08:10:00 +0900",
+                "title": "총선 후보자 등록 오늘까지..첫날 37명 등록",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262402"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 05:40:00 +0900",
+                "title": " 기가 막힐 일 …국민의힘, 부산 중심부서 진보당에도 밀려 '초비상'",
+                "link": "https://n.news.naver.com/mnews/article/008/0005015420?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:54:00 +0900",
+                "title": "“낙동강이 확 디비진다”…부산 3곳서 여야 초접전",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276397?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:05:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:08:00 +0900",
+                "title": "부산 총선 후보자 등록 시작.. 37명 등록",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262396"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:14:00 +0900",
+                "title": "후보등록으로 막오른 총선…정부·巨野 모두 ‘심판대’",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069291?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:05:00 +0900",
+                "title": "선관위 '오픈런'에 큰절·쓰레기 줍기… 총력전 시작",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261498?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:43:00 +0900",
+                "title": "與 낙동강 방어선 무너지나 서부산 지역구 3곳 초접전",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276291?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:06:00 +0900",
+                "title": " 뭘 같이 찍어  신경전…총선 후보 등록 '첫날' 포옹·견제(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427988?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:44:00 +0900",
+                "title": "[총선현장] '부산 북구을' 박성훈  지역 발전 해결할 경제전문가…신속한 재개...",
+                "link": "https://www.newspim.com/news/view/20240321001021"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:53:00 +0900",
+                "title": "4·10 총선 부산 여야 후보 등록 시작…본격 선거체제 가동",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427579?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:36:00 +0900",
+                "title": " 부산 중심부까지...충격  진보당에도 밀리는 국민의힘 'PK 비상'",
+                "link": "https://n.news.naver.com/mnews/article/008/0005015192?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:13:00 +0900",
+                "title": "부산 총선 여론조사 결과 지역구 18곳 중 8곳 접전 양상",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324416?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:34:00 +0900",
+                "title": "[포토] 후보자 등록 서류 들어보이는 박성훈·정명희",
+                "link": "https://www.pointe.co.kr/news/articleView.html?idxno=10329"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 14:16:00 +0900",
+                "title": "[포토] 후보자 등록 서류 들어보이는 박성훈·정명희 후보",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822220?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:42:00 +0900",
+                "title": "부산 북구갑·을 국회의원 후보자 등록",
+                "link": "https://n.news.naver.com/mnews/article/003/0012441780?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 13:39:00 +0900",
+                "title": "'보수텃밭 부산' 아성 무너지나…9곳 중 '국힘 우세' 2곳 뿐",
+                "link": "https://n.news.naver.com/mnews/article/421/0007426950?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:41:00 +0900",
+                "title": "[총선여론] 부산 18개 지역구, 국힘 8곳 야권 2곳 우세.. 8곳은 오차범위 내 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639920"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:18:00 +0900",
+                "title": "박재호·전재수, 박수영·서병수와 대결서 오차내 우세…북을 박성훈 '접전' ...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811843?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:37:00 +0900",
+                "title": "한동훈의 중진 자객공천 중간 성적표는?…낙동강벨트 '빨간불'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007426559?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:26:00 +0900",
+                "title": "[현장]  대결 아니고 경쟁 …'페어플레이' 빛난 부산 북갑·을 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811817?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:08:00 +0900",
+                "title": "정명희 44.1% 박성훈 45.6%, 부산 북구을 초접전",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249429&category=C"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:46:00 +0900",
+                "title": "“낙동강 물 흐름 바꿔라”… 총력전 나선 민주당",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225401"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:23:00 +0900",
+                "title": "4·10총선 후보자 등록 마친 부산 북을 후보들",
+                "link": "https://n.news.naver.com/mnews/article/421/0007426011?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:22:00 +0900",
+                "title": "후보자 등록하는 부산 북을 박성훈, 정명희 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007426009?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:18:00 +0900",
+                "title": "[서부산 6개 선거구 여론조사] 6개 선거구 중 4곳이 경합",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306718"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:08:00 +0900",
+                "title": "부산 북을 후보자 등록 나선 정명희 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425906?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:08:00 +0900",
+                "title": "부산 북을 후보자 등록하는 정명희 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425904?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:07:00 +0900",
+                "title": "후보자 등록 마친 부산 북갑, 북을 후보들",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425898?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:07:00 +0900",
+                "title": "후보자 등록 서류 들어보이는 부산 북을 후보들",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425900?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:07:00 +0900",
+                "title": "부산 북을 박성훈, 정명희 후보 '파이팅'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425901?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:06:00 +0900",
+                "title": "부산 북을 후보자 등록 마친 박성훈, 정명희 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425893?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:50:00 +0900",
+                "title": "[KSOI] 부산 북구을, 국힘 박성훈 45.6% 민주 정명희 44.1% 초박빙",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346354"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 5271041
+            }
+        ],
+        "huboid": "100152938",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2608/Hb100152938/junkwa/20240320171549777_10.PDF"
+    },
+    {
+        "id": "2260803-2",
+        "regionId": "2260803",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-2.jpg",
+        "기호": 2,
+        "이름": "박성훈",
+        "생년월일": "19710118",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
+        "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
+        "재산": 4342023,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:30:00 +0900",
+                "title": "'수성이냐 탈환이냐'…PK 10곳 대혼전",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225680&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+                "title": "부산 북을 정명희 vs 박성훈, 낙동강 벨트 격전지 판세 축소판, 인물 경쟁력 ...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263375?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+                "title": "대충 때우든지 유세 활용하든지… 바쁜 후보들 식사 방법은? [미래 위한 선택...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263376?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:22:00 +0900",
+                "title": "국힘 박성훈 북구을 후보, 화명생태공원역 신설 공약 발표",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634315"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:50:00 +0900",
+                "title": "박성훈(북구을) 후보, 화명생태공원역(가칭) 신설 공약 발표",
+                "link": "http://www.breaknews.com/1024355"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:47:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693317?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:15:00 +0900",
+                "title": "한동훈  범죄자에게 미래 맡겨선 안돼  이재명  국힘 읍소 속지말자 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451538?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+                "link": "https://www.newspim.com/news/view/20240401001242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:48:00 +0900",
+                "title": "[데일리안 오늘뉴스 종합] 한동훈  정부, 의대 정원 2000명 고수 않고 대화하...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815938?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:25:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:10:00 +0900",
+                "title": "[포토] 부산 시민들에 인사하는 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100336.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:08:00 +0900",
+                "title": "[포토] 부산북구 지원유세하는 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100335.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                "title": "[포토] 박성훈 부산북을 후보 손잡은 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100331.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:57:00 +0900",
+                "title": "한동훈  정부도 의료개혁 2000명 고수 안해...국민 눈높이 맞춰간다 [2024 총...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165118?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:57:00 +0900",
+                "title": "韓 '尹 담화'에  정부도 2천명 고수 않고 대화할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880607?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:50:00 +0900",
+                "title": "한동훈  정부, 의대 정원 2000명 고수 않고 대화하겠단 입장 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815889?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "[포토] 한동훈  해운대 바꾸려면 주진우·김미애 뽑아달라”",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000425"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+                "title": "박성훈 북구을 후보  2호선 화명생태공원역 신설 하겠다 ",
+                "link": "https://www.pointe.co.kr/news/articleView.html?idxno=20733"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "한동훈  정부 의사 2000명 고수 안 해…이번 총선 '범죄와의 전쟁' (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451224?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:28:00 +0900",
+                "title": "[펜앤포토] 밴드 감은 한동훈 비대위원장의 손... 상처투성이 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78882"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:28:00 +0900",
+                "title": "[펜앤포토] 부산 북구 방문 한동훈...박성훈 북구을 후보와 함께",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78880"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[펜앤포토] 부산 북구 방문 한동훈...서병수 북구갑 후보와 함께",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78879"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[펜앤포토] 한동훈 비대위원장, 부산 북구 방문",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78881"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[4.10총선-183] 부산 북구을, 정명희vs박성훈. 초접전",
+                "link": "http://www.mhj21.com/160231"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[펜앤포토] 한동훈 비대위원장과 서병수, 박성훈 북구 갑을 후보",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78878"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈, 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464322?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464317?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464318?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464324?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464323?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈, 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464320?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈, 부산 지원 유세 강행군",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464325?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464316?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "부산 지원 유세 펼친 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464319?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "한동훈, 부산 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464321?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "몸 낮춘 한동훈  한번만 더 기회를…부산은 최후의 보루 (종합)",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000439"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+                "title": "지지 호소하는 서병수·박성훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451136?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "부산 북구 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451121?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:10:00 +0900",
+                "title": "부산 북구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451123?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "서병수·박성훈 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451108?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "한동훈 위원장 '서병수·박성훈 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451105?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "서병수·박성훈 손 잡은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451104?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "한동훈 위원장 '서병수·박성훈 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451106?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "서병수·박성훈 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451107?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "부산 북구 방문한 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451109?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+                "title": "부산 북구 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451081?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+                "title": "서병수·박성훈 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451082?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "발언하는 박성훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603379?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603375?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603382?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603372?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "지지 호소하는 박성훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451079?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:03:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603380?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:02:00 +0900",
+                "title": "박성훈 후보 “지하철 2호선 ‘화명생태공원역’ 신설” 공약",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825041?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603369?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603370?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:01:00 +0900",
+                "title": "부산 북구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603368?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "부산 곳곳 누빈 한동훈  투수 염종석처럼 싸워 총선 이길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880556?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:36:00 +0900",
+                "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:48:00 +0900",
+                "title": "[총선]부산북구을 박성훈  지하철 2호선 화명생태공원역 신설하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993318?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:16:00 +0900",
+                "title": "[4·10총선 인터뷰] 국힘 박성훈  북구가 그간 고민해 온 현안 반드시 해결 ",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634101"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:06:00 +0900",
+                "title": "[부산 북구 을] 정명희  여기가 승리하면 대한민국이 바뀔 것 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075660?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": "[부산 북구 을] 박성훈  기재부 출신 경제전문가, 예산 확보 힘 있어야 ",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075658?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:33:00 +0900",
+                "title": "박성훈 북구을 후보  지하철 2호선 '화명생태공원역' 신설  공약",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164862?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:22:00 +0900",
+                "title": "[총선핫스팟] 부산 북을 ‘신설 낙동강벨트' 접전, 국힘 박성훈 vs 민주 정명...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347591"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+                "title": "[총선 브리핑] 국힘 북을 박성훈  2호선 화명생태공원역 신설 ",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263000?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "보건의료인 31명, 제22대 총선 '금배지' 정조준",
+                "link": "https://www.dailymedi.com/news/news_view.php?wr_id=910132"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:30:00 +0900",
+                "title": "'총선 D-9' 한동훈, PK 찾아 국민의힘 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019534?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:02:00 +0900",
+                "title": "D-9 한동훈, 흔들리는 PK 민심잡기…이재명, 인천 표밭 다지기",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703879?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:48:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:38:00 +0900",
+                "title": "어느 당도 승리 장담 못한다…전국 30여곳 '예측불허 혼전'",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005097"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "‘전 구청장 vs 전 경제부시장’ 부산 북구을 후보자 토론회 열띤 설전",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824690?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+                "title": "북을 교통대책…민주 정명희 “경부선 편수 확대” vs 국힘 박성훈 “서면 직...",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070047?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:21:00 +0900",
+                "title": "보수 아성 흔들리는 ‘낙동강벨트’… 강서, 여야 모두  우세 [3대 승부처 판...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164470?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:06:00 +0900",
+                "title": "박성훈 국민의힘 북구을 후보  지역 이해도, 현안해결 능력으로 평가해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164439?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:25:00 +0900",
+                "title": "[총선기획-3대 승부처 판세 분석-&lt;하&gt;부산] 민심 요동치는 부산, '낙동강 벨트...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164363?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+                "title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:20:00 +0900",
+                "title": "부산 북구을 토론회, 박성훈  화명-서면 도시철도 신설  vs 정명희  지금 필요...",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010430"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:34:00 +0900",
+                "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:56:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 승리 장담 못 하는 대혼전",
+                "link": "http://www.kbsm.net/news/view.php?idx=428047"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:42:00 +0900",
+                "title": "[총선 판세] 여론조사 격차 5%p 이내 '초박빙' 전국 30여곳 등 60여곳 대혼전...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474603"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:40:00 +0900",
+                "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599984?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:00:00 +0900",
+                "title": "[D-10]낙동강벨트 10곳 중 4곳서 '결판' …사상·강서·양산을·김해을",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447208?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:45:00 +0900",
+                "title": "[총선GO!]부산 북구 박성훈 후보  지역발전 아무나 할 수 없다 ",
+                "link": "https://www.newspim.com/news/view/20240330000060"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:15:00 +0900",
+                "title": "[낙동강전선을 가다]부산 국힘 총선 후보 합동충혼탑ㆍ민주공원 참배",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641202"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:16:00 +0900",
+                "title": "신설 ′북구 을′..′교육·교통′ 키워드 - 유태경",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262649"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:54:00 +0900",
+                "title": "'전 구청장 vs 전 경제부시장' 북구을 TV 토론",
+                "link": "https://news.knn.co.kr/news/article/155061"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:07:00 +0900",
+                "title": "'정치철새'부터 자질지적까지…부산 북구을 후보자 토론회 '설전'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446266?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:34:00 +0900",
+                "title": "박성훈 국민의힘 북구을 후보,   '경제 전략가'로서 북구을 새로운 미래 이끌...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317201"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:06:00 +0900",
+                "title": "낙동강벨트 '요동'…10곳 중 민주 '3곳' 오차범위 밖 우세",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225191&inflow=N"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:06:00 +0900",
+                "title": "박성훈 부산 북구을 후보 “지역발전 비전·예산 확보 능력 모두 갖췄다”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824471?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:31:00 +0900",
+                "title": "[총선]부산북구을 박성훈  누구나 살고 싶은 여가·문화도시 만들 것 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000992756?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 4342023
+            }
+        ],
+        "huboid": "100152979",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2608/Hb100152979/junkwa/20240321115313680_8.PDF"
+    }
 ]

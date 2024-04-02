@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2461801-1",
-    "regionId": "2461801",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-1.jpg",
-    "기호": 1,
-    "이름": "박지원",
-    "생년월일": "19420605",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "단국대학교 상학과 졸업",
-    "경력": "(전) 국가정보원 원장\n(전) 김대중 대통령비서실장",
-    "재산": 2933069,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:04:00 +0900",
-        "title": "[오마이포토] 강북을 한민수 후보 지원 나온 김부겸·박지원",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428450?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693072?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-        "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:32:00 +0900",
-        "title": "[총선 D-8]민주당, 벌써 승리에 취했나…광주·전남 민심 '부글'",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765234"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692891?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2933069
-      }
-    ]
-  },
-  {
-    "id": "2461801-2",
-    "regionId": "2461801",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-2.jpg",
-    "기호": 2,
-    "이름": "곽봉근",
-    "생년월일": "19450101",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "목포과학대학교 케어복지과 졸업",
-    "경력": "(전) 윤석열 대통령후보 직능본부 부본부장\n(현) 국민의힘 국책자문위원회 고문",
-    "재산": 10000,
-    "군필여부": true,
-    "전과건수": 4,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693072?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-        "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692891?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:23:00 +0900",
-        "title": "“날 좀 보소”… 유권자 눈에 띄게 ‘이색 선거운동’",
-        "link": "http://www.jnilbo.com/73198332617"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:48:00 +0900",
-        "title": " 튀어야 산다  광주·전남 총선 후보들 이색 선거운동 행렬",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765215"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 10000
-      }
-    ]
-  }
+    {
+        "id": "2461801-1",
+        "regionId": "2461801",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-1.jpg",
+        "기호": 1,
+        "이름": "박지원",
+        "생년월일": "19420605",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "단국대학교 상학과 졸업",
+        "경력": "(전) 국가정보원 원장\n(전) 김대중 대통령비서실장",
+        "재산": 2933069,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4·10총선 심판론 태풍] '非민주' 이색 선거운동",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=642010"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:08:00 +0900",
+                "title": "[22대 총선 D-7] 박지원·유승민 출격… 지원사격 나선 중앙당",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645168"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:52:00 +0900",
+                "title": "동작갑 지원유세 나선 박지원 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816401?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:51:00 +0900",
+                "title": "악수하는 김병기 후보와 박지원 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816399?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:51:00 +0900",
+                "title": "박지원 후보, 김병기 더불어민주당 동작갑 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816400?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+                "title": "[정면승부] 전현희  일반 국민도 사정 있으면 재판 연기…이재명 역차별”",
+                "link": "https://radio.ytn.co.kr/program/?f=2&id=95047&s_mcd=0263&s_hcd=01"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+                "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:11:00 +0900",
+                "title": "[정면승부] 전현희  일반 국민도 사정 있으면 재판 연기...이재명 역차별 ",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018179?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:12:00 +0900",
+                "title": "[단독]'무연고 공천 논란' 안귀령, '연고지' 울산 출마 제안에  험지는 다선이...",
+                "link": "http://www.breaknews.com/1024734"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:20:00 +0900",
+                "title": "박지원 “머리가 나빠도 이렇게 나쁜 대통령 처음 봐”",
+                "link": "https://www.etoday.co.kr/news/view/2346986"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:14:00 +0900",
+                "title": "[부평갑] 민주당 노종면  캠프마켓·북부교육청 등 '주차허브' 조성 ",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244364"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:58:00 +0900",
+                "title": "[포토] 동작구 찾은 박지원, 김병기 후보 지원유세",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315537"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "[포토] 박지원, 동작구갑 김병기 후보 지원유세",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315532"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:41:00 +0900",
+                "title": "박용진 없는 강북을 선거, 박용진이 좌우한다[4·10 격전지]",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705430?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "“이번엔 꼭 되세요” “그래도 뿌리는 민주당”...후보 경쟁 뚜렷한 동작갑[...",
+                "link": "https://www.etoday.co.kr/news/view/2346971"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:28:00 +0900",
+                "title": "박지원 전 원장, 부평갑 노종면 후보 지원 유세... 정권심판, 꼭 투표해 달라...",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417503"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:44:00 +0900",
+                "title": "민주당 연일 '몰빵론' 강조···조국혁신당 흥행에 견제구",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107543"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+                "title": "[인터뷰 전문] 김민석  양문석 의혹, 당이 점검할 수 있던 영역 아냐…법리적...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386720?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+                "title": "김부겸-박지원 제주로 지원유세...국힘은 후보 나홀로 '고군분투'",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425494"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+                "title": "[총선핫스팟] 서울 영등포을 동갑내기 재대결, 민주 김민석 vs 국힘 박용찬 치...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347784"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "“윤 대통령, 국민의힘이 총선에서 패배하면 험한 꼴 당할 것”",
+                "link": "https://www.wikitree.co.kr/articles/939795"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+                "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:26:00 +0900",
+                "title": "박지원 前 국정원장,  황희 당선이 양천과 대한민국의 발전 담보 ",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852123"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:30:00 +0900",
+                "title": "[현장] 김부겸 달래고 박지원 띄우고…민주, 강북을 한민수 지원 총력(종합)",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815983?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:36:00 +0900",
+                "title": "[4·10 총선 현장] 강북을 한민수  총선 시대정신은 尹 정권 심판 ···김부...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107259"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:04:00 +0900",
+                "title": "[오마이포토] 강북을 한민수 후보 지원 나온 김부겸·박지원",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428450?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693072?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:08:00 +0900",
+                "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:32:00 +0900",
+                "title": "[총선 D-8]민주당, 벌써 승리에 취했나…광주·전남 민심 '부글'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765234"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692891?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:01:00 +0900",
+                "title": " 조국이 온다  들뜬 민주당 지역구 후보들…개딸은 '부글부글'",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793736?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:32:00 +0900",
+                "title": "[사설]민주당 박지원·조인철 후보 '오만의 극치'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765213"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:25:00 +0900",
+                "title": "[전문] 박지원  민주당·국힘 독자 과반 못 하면 조국 대표가 대통령 노릇할 ...",
+                "link": "https://n.news.naver.com/mnews/article/437/0000386543?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": " 튀어야 산다  광주·전남 총선 후보들 이색 선거운동 행렬",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765215"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:55:00 +0900",
+                "title": " 튀어야 산다  광주·전남 이색 선거운동 행렬",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464049?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:57:00 +0900",
+                "title": "'해남·완도·진도 지역구' 박지원, 서울서 종횡무진 유세 이유는?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450227?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "민주당의 미래는 이재명인가, 조국인가",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990400"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:26:00 +0900",
+                "title": "한동훈 원맨쇼로 안 돼, 김무성‧이인제 등 스피커 필요 [정치 Li-view]",
+                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=159913"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:36:00 +0900",
+                "title": "일주이슈 121-1&gt;주말휴일 행사장·시장·거리서 ‘한표라도 더…’",
+                "link": "http://www.jnilbo.com/73183669753"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:33:00 +0900",
+                "title": "일주이슈 121-3&gt;“관광자원 개발·SOC 확충·지방소멸 극복”",
+                "link": "http://www.jnilbo.com/73183496312"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:44:00 +0900",
+                "title": "이기헌 고양시병 후보 마두역 광장에서 출정식… “더 살기 좋은 일산 만들겠...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226531"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:00:00 +0900",
+                "title": "이석형 고향 함평서도 '이개호 지지 선언'에 위기인가?",
+                "link": "https://www.nbnews.kr/news/articleView.html?idxno=90085"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:11:00 +0900",
+                "title": "[총선판세-전남] 민주당 강세 속 국힘·무소속 뒷심 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447235?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "[현장] 박지원~고민정 vs 손학규~김병민…격전지 광진 찾은 '대표님'들",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815280?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 00:50:00 +0900",
+                "title": "[현장] 새로운미래, 홍영표 유세 총출동…오영환  희망 드릴 정치 복원 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815277?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:52:00 +0900",
+                "title": "[포토] 서울 영등포서 트롯 부르는 박지원 해남·완도·진도 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000053.html"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:30:00 +0900",
+                "title": "[단독]민주당, “조국은 하나다” 외친 당 후보 발언 선거법 등 검토",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271388?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:01:00 +0900",
+                "title": " 정부, 의붓아버지 같아  [총선판 '말말말']",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824561?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:40:00 +0900",
+                "title": "이개호, 호남의 인물론과 예산폭탄으로 4선 순항중... '전남 최다득표율' 기대",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580175"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:12:00 +0900",
+                "title": "[집중분석] 汎야권 200석론 실체, '화장실서 웃는' 이재명 vs '반전(反轉) 노...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486125"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:20:00 +0900",
+                "title": "김원이 후보, 공식선거운동 출정식 성황리 개최",
+                "link": "https://www.cnbnews.com/news/article.html?no=651594"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:20:00 +0900",
+                "title": "박지원 더불어민주당 후보, 해남군 체육인과 간담회",
+                "link": "https://n.news.naver.com/mnews/article/468/0001045168?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:10:00 +0900",
+                "title": "[정치 맞불쇼] 조국이 잠재 대권주자?...재판끝나면 의원직도 어려울듯 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384466"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:54:00 +0900",
+                "title": "[나는후보자다]전남 해남완도진도 박지원·곽봉근 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461487"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:46:00 +0900",
+                "title": "'지역경제 활성화' '검찰개혁' 1호 법안 발의 공약도 시대 과제 담겨",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879739?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:15:00 +0900",
+                "title": "박지원 “대파 값도 모르면서 물가 잡겠다는 대통령, 심판해야”",
+                "link": "https://n.news.naver.com/mnews/article/277/0005399213?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:32:00 +0900",
+                "title": "'프로대파일러' 비아냥도...이수정 결국 사과  이성 잃어 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956434"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:58:00 +0900",
+                "title": "후보 '자질론'부터 김건희 디올백까지…순천갑 토론회 날 선 공방",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879601?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:19:00 +0900",
+                "title": "[공약·정책·한판승부_해남·완도·진도]⑧고향 선후배 맞대결..공약은 거대...",
+                "link": "https://kjmbc.co.kr/article/0EUdyildYhURZtv0"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 06:31:00 +0900",
+                "title": "[포커스On] 범야권 200석론, 보수 경각심 가져야",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869900?sid=110"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:54:00 +0900",
+                "title": "유력 우파매체 보도 [야당 200석]론 근거는 뭔가? [류근일 칼럼 : 너무 앞서 ...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/28/2024032800351.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:31:00 +0900",
+                "title": "[뉴스 즉설]대전, 부산마저… 100석이 절실한 국힘, 총선 게임오버?",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084870?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:03:00 +0900",
+                "title": "가족끼리 MZ끼리 붙었다… ‘이색 매치’ 눈길",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440618?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+                "title": " 2찍   개같이  이런 거친 말만큼 무섭다, 총선 막판 변수 넷 [총선 D-12]",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350727?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:04:00 +0900",
+                "title": "박지원 “해남·완도·진도 KTX 노선 추진”",
+                "link": "http://www.kjdaily.com/article.php?aid=1711629509626055246"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:24:00 +0900",
+                "title": "[사설] 이재명 대표의 도 넘는 막말·거짓말 퍼레이드",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455231"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "박지원  고양병 이기헌은 잘 준비된 후보 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644204"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:34:00 +0900",
+                "title": "[2024 총선-공약 점검]④전남 해남·완도·진도 '한반도 서남단' 지역 맞춤형...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764844"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:18:00 +0900",
+                "title": "‘MZ 젠더대전’부터 ‘의대증원 대리전’까지…이색매치 눈길",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440576?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+                "title": "전남 총선 후보, 선거운동 첫날 출정식 열고 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879370?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:05:00 +0900",
+                "title": "죄인 옮기는 수레·CF 패러디… 후보들  튀어야 산다 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864192?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:40:00 +0900",
+                "title": "김원이 후보, 공식 선거운동 가져...'출정식 성황'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558008"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:36:00 +0900",
+                "title": "김원이 후보, 공식 선거운동 출정식…빗속 500여 명 참석",
+                "link": "https://n.news.naver.com/mnews/article/277/0005398772?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:50:00 +0900",
+                "title": "김원이 후보, 출정식서 ‘소통과 상생’ 약속",
+                "link": "https://www.ekn.kr/web/view.php?key=20240328023044650"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:46:00 +0900",
+                "title": "김원이 후보 “검찰독재 정권에 맞서 정권교체 일으킬 것”",
+                "link": "https://n.news.naver.com/mnews/article/382/0001116217?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:32:00 +0900",
+                "title": "김원이 후보, 선거출정식 개최··· 정권에 가장 먼저 맞서 싸우겠다 ",
+                "link": "https://www.smartfn.co.kr/article/view/sfn202403280093"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:07:00 +0900",
+                "title": "김원이 목포시 국회의원 후보, 공식 선거전 첫날 '출정식' 개최",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=514945"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:02:00 +0900",
+                "title": "더민주 전남도당, 제22대 총선 선대위 출범식 개최",
+                "link": "http://www.cmbkj.co.kr/ab-991-31238"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:50:00 +0900",
+                "title": "김원이 후보, 공식선거운동 출정식… 독재 정권 맞서 싸우는 선봉장 될 것 ",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010009328"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:34:00 +0900",
+                "title": "조국 “검찰청, ‘기소청’으로...감사원 회계감사기능 국회이관, 행안부 경찰...",
+                "link": "http://www.breaknews.com/1023698"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:32:00 +0900",
+                "title": "4.10총선 투표율 최대 관전포인트로 대두, 21대 66.2% 넘어서 '야당 압승' 현...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347210"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:22:00 +0900",
+                "title": "'OB 세운' 이재명, 'OB 패싱' 한동훈…속내는?",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075440?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:06:00 +0900",
+                "title": "김원이 후보, 공식선거운동 출정식 개최",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7222"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:01:00 +0900",
+                "title": "유세 첫날 해남서 지지호소하는 박지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443324?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:00:00 +0900",
+                "title": "유세 첫날 해남서 지지호소하는 박지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443315?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:59:00 +0900",
+                "title": "유세 첫날 해남서 지지호소하는 박지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443276?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:59:00 +0900",
+                "title": "유세 첫날 해남서 지지호소하는 박지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443285?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:59:00 +0900",
+                "title": "유세 첫날 해남서 지지호소하는 박지원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443284?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:47:00 +0900",
+                "title": "겉으로는 자신, 안으로는 조신… 이해찬 “승기 잡은 듯, 말 실수 안돼”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918866?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:30:00 +0900",
+                "title": "박지원  한동훈 `국회, 세종시 완전 이전` 공약…대국민 사기극 ",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864042?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:24:00 +0900",
+                "title": "[포토] 해남서 출정식 열고 선거유세 하는 민주당 박지원 후보",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123301"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:58:00 +0900",
+                "title": "박지원  대파값도 모르면서 물가 잡겠다는 대통령…심판해야 한다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325339?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:27:00 +0900",
+                "title": "‘81세 올드보이? No’ 박지원 “이게 나라냐…尹·김건희 ‘검찰정권’ 심판...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864005?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:44:00 +0900",
+                "title": "[이궁 칼럼] 정치는 '말의 예술'이다",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=318585"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:31:00 +0900",
+                "title": "5선 도전 81세 박지원  올드보이? No 나는 스트롱보이 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441040?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:22:00 +0900",
+                "title": "박지원  영부인 찾습니다. 실종신고 없었지만…설마 도주야 하셨겠나 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325313?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:59:00 +0900",
+                "title": "[나이트포커스] 한동훈 공식 선거 운동 '국회 이전' 약속",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016016?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:01:00 +0900",
+                "title": "김건희 소환 박지원  영부인 실종, 없으면 尹 사고 친다 ",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042476?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:37:00 +0900",
+                "title": "박지원 “4월이 되면 한동훈은 가야 된다…다 죽은 사람”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002628906?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2933069
+            }
+        ],
+        "huboid": "100151208",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4618/Hb100151208/junkwa/20231212113552901_1.PDF"
+    },
+    {
+        "id": "2461801-2",
+        "regionId": "2461801",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-2.jpg",
+        "기호": 2,
+        "이름": "곽봉근",
+        "생년월일": "19450101",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "목포과학대학교 케어복지과 졸업",
+        "경력": "(전) 윤석열 대통령후보 직능본부 부본부장\n(현) 국민의힘 국책자문위원회 고문",
+        "재산": 10000,
+        "군필여부": true,
+        "전과건수": 4,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4·10총선 심판론 태풍] '非민주' 이색 선거운동",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=642010"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693072?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:08:00 +0900",
+                "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑮ 해남·완도·진도 선거구…전남 최고령 1·2위...",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692891?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:23:00 +0900",
+                "title": "“날 좀 보소”… 유권자 눈에 띄게 ‘이색 선거운동’",
+                "link": "http://www.jnilbo.com/73198332617"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": " 튀어야 산다  광주·전남 총선 후보들 이색 선거운동 행렬",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765215"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:55:00 +0900",
+                "title": " 튀어야 산다  광주·전남 이색 선거운동 행렬",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464049?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:57:00 +0900",
+                "title": "'해남·완도·진도 지역구' 박지원, 서울서 종횡무진 유세 이유는?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450227?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:48:00 +0900",
+                "title": "국힘 호남 지역구 ‘깃발꽂기’ 총력",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226534"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:54:00 +0900",
+                "title": "[나는후보자다]전남 해남완도진도 박지원·곽봉근 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461487"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:46:00 +0900",
+                "title": "'지역경제 활성화' '검찰개혁' 1호 법안 발의 공약도 시대 과제 담겨",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879739?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:19:00 +0900",
+                "title": "[공약·정책·한판승부_해남·완도·진도]⑧고향 선후배 맞대결..공약은 거대...",
+                "link": "https://kjmbc.co.kr/article/0EUdyildYhURZtv0"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:03:00 +0900",
+                "title": "가족끼리 MZ끼리 붙었다… ‘이색 매치’ 눈길",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440618?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:34:00 +0900",
+                "title": "[2024 총선-공약 점검]④전남 해남·완도·진도 '한반도 서남단' 지역 맞춤형...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764844"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:18:00 +0900",
+                "title": "‘MZ 젠더대전’부터 ‘의대증원 대리전’까지…이색매치 눈길",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440576?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:50:00 +0900",
+                "title": "'13일 앞으로' 광주·전남, 본격 선거 레이스 돌입",
+                "link": "http://www.mdilbo.com/detail/RHfGUG/716484"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:04:00 +0900",
+                "title": "빗속 출근길인사·차량유세·출정식…전남 후보들 본격 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443013?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:31:00 +0900",
+                "title": "5선 도전 81세 박지원  올드보이? No 나는 스트롱보이 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441040?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:26:00 +0900",
+                "title": "전남 서남권 총선 후보 5명 재산 10억↑…박지원, 재산 최다",
+                "link": "https://www.cnbnews.com/news/article.html?no=651144"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:40:00 +0900",
+                "title": " 지방이 무너진다  광주전남 총선 후보들 꼽은 지역 현안은 '지방소멸'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878648?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:00:00 +0900",
+                "title": "수도권 GTX를 충청까지? 공약 건 후보  기대감 줘야 이긴다  [지역후보 508명...",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350087?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:16:00 +0900",
+                "title": "고향 선후배 맞대결..공약은 거대담론",
+                "link": "https://www.mpmbc.co.kr/article/uEfWK2F5V-rzDZ-ybu"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:42:00 +0900",
+                "title": "[4·10 총선 누가 뛰나-해남완도진도] 전국구 인지도 ‘박지원 득표율’ 관심",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711449600766192359"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:18:00 +0900",
+                "title": "광주 서구을·목포 경쟁률 6:1..후보 평균 연령 58.65세",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058148?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "광주전남 총선 후보들 현 시대 과제는 단연 '민생' 한목소리",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877649?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:21:00 +0900",
+                "title": "후보자도 60세 이상이 39.1% 역대 최고",
+                "link": "https://n.news.naver.com/mnews/article/011/0004317963?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:19:00 +0900",
+                "title": "[22대 총선] 해남·완도·진도 대진표 완성",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396709?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:08:00 +0900",
+                "title": "[4·10 총선 후보] 전남 해남군·완도군·진도군",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641605"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:14:00 +0900",
+                "title": "광주 30%·전남 44% ‘전과’…음주운전·사기·방화도",
+                "link": "http://www.kjdaily.com/article.php?aid=1711277187625621246"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:46:00 +0900",
+                "title": "재산 10억 이상 36%·전과 보유 37%…11명은 군면제",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711277100766091004"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:23:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;최고령 82세·최연소 28세…당 대표 출신 3명",
+                "link": "http://www.jnilbo.com/73105369697"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:22:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;뇌물·음주·방화·사기·폭력…후보 10명중 4명 ‘...",
+                "link": "http://www.jnilbo.com/73105449378"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:22:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;뇌물·음주·방화·사기·폭력…후보 10명중 4명 ‘...",
+                "link": "http://www.jnilbo.com/73105155475"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "광주·전남 4·10 총선 후보자",
+                "link": "http://www.jndn.com/article.php?aid=1711271460382466003"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:58:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 후보자 분석-27명·37.5% 전과…군 미필 11명(종...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764077"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:36:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;광주·전남 후보별 재산·병역·체납액·전과 현황",
+                "link": "http://www.jnilbo.com/73103720156"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:20:00 +0900",
+                "title": "22대총선 광주전남 지역구 출마자 72명 전국은 699명",
+                "link": "http://www.mdilbo.com/detail/ilgftp/716002"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:40:00 +0900",
+                "title": "'검사 출신' 양부남 83억 '최고 재력'···10명 중 4명은 '전과자'",
+                "link": "http://www.mdilbo.com/detail/ilgftp/715996"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:24:00 +0900",
+                "title": "10명 중 4명 '전과자'···최고는 '5범'",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/715995"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+                "title": "광주·전남 최고령 후보 기독당 김천식 후보 등록",
+                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/23/2024032300045.html"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 01:40:00 +0900",
+                "title": "22대 총선 전남 10개 선거구 36명 입후보",
+                "link": "http://www.kukinews.com/newsView/kuk202403240001"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:19:00 +0900",
+                "title": "[4·10 총선 후보] 평균 나이 56.8세…여성 비중 14%",
+                "link": "https://n.news.naver.com/mnews/article/374/0000375909?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:42:00 +0900",
+                "title": "광주·전남 총선 출마자 72명 중 27명 전과자",
+                "link": "https://n.news.naver.com/mnews/article/660/0000058025?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:40:00 +0900",
+                "title": "대구 서구 무소속 서중현 16번 공직선거 출마 이력...최다 출마 기록",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989345"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:38:00 +0900",
+                "title": "총선 후보 평균 나이 56.8세…여성은 14%(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583561?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:04:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 후보 중 37.5% 전과…뇌물·음주·방화·사기·...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763948"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:00:00 +0900",
+                "title": "광주전남 최고령 후보는 박지원 아니였네…광주 서구을 김천식 82세",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324663?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:02:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 총 72명 후보 등록 본선 대진표 확정…이낙연 출...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763941"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:02:00 +0900",
+                "title": "[선택 4·10 총선]전남 후보 44％ 전과자…뇌물·음주·방화 등",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763942"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:44:00 +0900",
+                "title": "뇌물·음주·방화…전남 총선 후보 44％ 전과자",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583501?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:38:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 최고령 민주당 박지원 82세·최연소 진보당 여찬...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763938"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:36:00 +0900",
+                "title": "전남 총선 출마자 중 최고령 박지원 81세…최연소 28세 여찬",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430944?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:31:00 +0900",
+                "title": "[4·10총선 후보등록]광주·전남 후보 중 37.5% 전과…군 미필 11명",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445558?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:52:00 +0900",
+                "title": "이영호 전 의원 출마 포기..해남진도완도 2파전",
+                "link": "https://www.mpmbc.co.kr/article/YgOBl1-8dhEQdW3K"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:40:00 +0900",
+                "title": "[4·10 총선] 22대 총선 후보 평균 연령 56.5세…女 14%에 그쳐",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666442"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:36:00 +0900",
+                "title": "[4·10총선 후보등록]광주·전남 최고령 82세·최연소 28세…54년 차",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445494?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:22:00 +0900",
+                "title": "[선택 4·10 총선]'국회의 꽃' 3선 이상 도전 광주·전남 8명",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763926"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583371?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:05:00 +0900",
+                "title": "[4·10총선 후보등록]'국회의 꽃' 3선 이상 도전 광주·전남 8명",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445474?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:34:00 +0900",
+                "title": "총선 후보 평균 나이 56.5세…여성은 14% 불과",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396085?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:31:00 +0900",
+                "title": "광주전남 22대 총선 후보 10명 중 4명 전과",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877098?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "[4·10총선 후보자 등록] 전남",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430843?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "22대 총선 광주 경쟁률 4.5대 1…최고 경쟁지는 목포",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/715935"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+                "title": "“김복덕을 아시나요”...안철수 제치고 총선후보 재산 1등이라는데",
+                "link": "https://n.news.naver.com/mnews/article/009/0005276917?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:25:00 +0900",
+                "title": "[4·10총선 후보 등록] 전남(22일·최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445444?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:22:00 +0900",
+                "title": "22대 총선 전체 후보 경쟁률 2.4대 1…최고 경쟁지는 목포",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445442?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:18:00 +0900",
+                "title": "전남 총선 10개 선거구에 36명 후보등록…평균경쟁률 3.6대1",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430836?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:12:00 +0900",
+                "title": "총선 후보 평균 나이 56.5세…여성은 14%에 불과",
+                "link": "https://n.news.naver.com/mnews/article/448/0000452512?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:58:00 +0900",
+                "title": "[전국네트워크]총선 D-19...광주·전남 여야 본선 대진표 확정",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149457"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:57:00 +0900",
+                "title": "총선 후보 평균 나이 56.5세…여성은 14%에 불과",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583281?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:46:00 +0900",
+                "title": "22대 총선 국민의힘·민주당 후보 범죄이력 분석…①정치자금법 위반 등",
+                "link": "https://www.kpinews.kr/newsView/1065602786069308"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:32:00 +0900",
+                "title": "22대 총선 본후보 등록 마감…본선 대진표는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460580"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:27:00 +0900",
+                "title": "총선 후보등록 첫날 광주·전남 문금주 후보 등 61명 등록",
+                "link": "https://n.news.naver.com/mnews/article/417/0000990868?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:26:00 +0900",
+                "title": "총선 후보 등록 첫날 광주·전남 18개 선거구에 61명 등록",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711030872766011358"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[4·10총선 전남 지역구 후보 등록 현황] (21일 오후 10시 현재)",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763842"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:08:00 +0900",
+                "title": "리턴 매치·형제 출전·옥중 출마…22대 총선후보 이색 사례는(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581085?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 전남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580992?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:29:00 +0900",
+                "title": "총선 후보 등록 첫날 광주·전남 18곳 61명 신청(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428554?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:46:00 +0900",
+                "title": "[4·10총선 후보 등록] 전남(21일 오후 8시 40분 현재)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443141?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:37:00 +0900",
+                "title": "22대 총선 후보 등록 첫 날…전남 10개 선거구 34명 접수",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428405?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:30:00 +0900",
+                "title": "리턴 매치·형제 출전·옥중 출마…22대 총선후보 이색 사례는",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580712?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:42:00 +0900",
+                "title": "'오대남'이 대세…숫자로 본 거대 양당 254개 지역구 공천",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469251"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:14:00 +0900",
+                "title": "여야 대진표 확정…후보 등록 시작",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1710933000765937004"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:54:00 +0900",
+                "title": "[22대 총선 대진표] ⑦호남…민주당 아성 현역 대폭 물갈이",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468931"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:41:00 +0900",
+                "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 03:18:00 +0900",
+                "title": "총선 3주 앞으로…전남 지역 선거구 여야 본선 대진표 확정",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763230"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:24:00 +0900",
+                "title": "[이슈] 與, 16년 만에 254개 지역구 모두 공천…평균 57세·남성 88%·현역 물...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639466"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:42:00 +0900",
+                "title": "22대 총선 전남 대진표 윤곽…3.4대 1",
+                "link": "http://www.kukinews.com/newsView/kuk202403180247"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:26:00 +0900",
+                "title": "[선거레이더] '해완진' 박지원·곽봉근 맞대결…표심은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459877"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:26:00 +0900",
+                "title": "22대 국회의원 선거 '성큼'…전남 대진표 완성",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459881"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:38:00 +0900",
+                "title": "총선 3주 앞…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/081/0003437876?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:02:00 +0900",
+                "title": "전남 민주당 현역 50% 물갈이...여야 본격 레이스",
+                "link": "https://www.ajunews.com/view/20240318123844313"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:31:00 +0900",
+                "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:36:00 +0900",
+                "title": "국민의힘 '254개 지역구 공천 완료'...현역 교체 35%·나이 57.57세",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317905"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 06:00:00 +0900",
+                "title": "254곳 공천 완료 국힘…평균 57세·남성 87%·물갈이 35%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007417077?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 23:48:00 +0900",
+                "title": "與 공천 물갈이 35%…평균 58.1세·남성 88.2% '주류 강세'(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014569198?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 22:35:00 +0900",
+                "title": "훅 떨어진 현역 교체율... 지역재배치, 친윤 주류 생환",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426136?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:54:00 +0900",
+                "title": "국민의힘 공천 물갈이 34%…평균 58.2세·남성 88%,",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548274"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:43:00 +0900",
+                "title": "국힘,현역 교체율 34.2% '친윤 강세' 뚜렷",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524074"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 10000
+            }
+        ],
+        "huboid": "100151644",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4618/Hb100151644/junkwa/20231218112243599_1.PDF"
+    }
 ]

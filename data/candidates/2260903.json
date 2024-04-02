@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260903-1.jpg",
-    "id": "2260903-1",
-    "재산": 1367846,
-    "생년월일": "19670607",
-    "경력": "(전)제20대해운대구을 국회의원\n(전)해운대구을 지역위원장",
-    "학력": "한국해양대학교 해양경찰학과 해양안전환경전공 공학박사",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2260903",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 15:30:00 +0900",
-        "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:42:00 +0900",
-        "title": "<선택 2024>해운대을, 윤준호-김미애 4년만의 재대결",
-        "link": "https://news.knn.co.kr/news/article/155080"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-        "title": "′해운대 선거구′ 토론회 생방송 진행",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 19:08:00 +0900",
-        "title": "선관위 주최 해운대을 후보자 토론회 진행",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262659"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 08:07:00 +0900",
-        "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "윤준호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1367846
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260903-2.jpg",
-    "id": "2260903-2",
-    "재산": 2568598,
-    "생년월일": "19691006",
-    "경력": "(전)부산지방변호사회 수석부회장\n(현)해운대구을 국회의원",
-    "학력": "동아대학교 법학부 졸업",
-    "직업": "국회의원",
-    "성별": "여",
-    "id_21th": "1065",
-    "regionId": "2260903",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:15:00 +0900",
-        "title": "[현장] '공약 선물 세트' 들고 부산 찾은 한동훈… 1992년 '영광의 시대' 만들...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815955?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:13:00 +0900",
-        "title": "한동훈, 이재명 직격 “형수 욕설 드러나자 눈물…왜 이따위 정치를 봐야 하나...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920248?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:02:00 +0900",
-        "title": "‘민생’·‘이조심판’으로 PK 간 한동훈…“한번 더 기회달라” 읍소도(재종...",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704726?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:55:00 +0900",
-        "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
-        "link": "https://www.newspim.com/news/view/20240401001242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-        "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김미애",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1735378
-      },
-      {
-        "연도": 2021,
-        "재산": 2388365
-      },
-      {
-        "연도": 2022,
-        "재산": 2469208
-      },
-      {
-        "연도": 2023,
-        "재산": 2568598
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260903-1.jpg",
+        "id": "2260903-1",
+        "재산": 1367846,
+        "생년월일": "19670607",
+        "경력": "(전)제20대해운대구을 국회의원\n(전)해운대구을 지역위원장",
+        "학력": "한국해양대학교 해양경찰학과 해양안전환경전공 공학박사",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2260903",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:26:00 +0900",
+                "title": "당색 빼고 인물로 승부…흰옷 입는 후보들",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070262?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "민주당 부산 후보자들  부산엑스포 유치 참패, 철저히 진상 규명해야 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125330"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:51:00 +0900",
+                "title": "부산 민주당 후보 “22대 국회 엑스포 유치 실패 국정조사 추진”",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825404?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:48:00 +0900",
+                "title": "민주 부산 국회의원 후보들  부산엑스포 참패 진상 규명 국정조사 추진 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307457"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+                "title": "민주당 부산 후보들 “119대 29 엑스포 참패, 국정조사 할 것”",
+                "link": "https://www.cnbnews.com/news/article.html?no=652101"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:29:00 +0900",
+                "title": "민주당 부산 후보들  엑스포 29표, 국회 국정조사 하자 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816246?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+                "title": "부산 민주당 후보들  119대 29 엑스포 참패, 국정조사 할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880898?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:44:00 +0900",
+                "title": "“엑스포 유치 참패 왜” 민주당 부산, 차기 국정조사 예고 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165580?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:56:00 +0900",
+                "title": "민주당 부산지역 후보들  엑스포 유치 실패, 진상규명 국정조사 추진 ",
+                "link": "https://www.newspim.com/news/view/20240402000449"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:55:00 +0900",
+                "title": "민주당 부산 총선 후보들,  2030부산엑스포 29표 비밀 풀어야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012465836?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:42:00 +0900",
+                "title": "부산의 더불어민주당 총선 후보들,  엑스포 참패 국정조사 추진할 것 ",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78916"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:42:00 +0900",
+                "title": "&lt;선택 2024&gt;해운대을, 윤준호-김미애 4년만의 재대결",
+                "link": "https://news.knn.co.kr/news/article/155080"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "선관위 주최 해운대을 후보자 토론회 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262659"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "′해운대 선거구′ 토론회 생방송 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:07:00 +0900",
+                "title": "[낙동강전선을 가다]부산 민주당 총선 후보들, UN평화공원에서 출정식",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641201"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:16:00 +0900",
+                "title": "선관위 주최 해운대갑 후보자 토론회 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262644"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:42:00 +0900",
+                "title": "′해운대갑 선거구′ 토론회 생방송 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262640"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:50:00 +0900",
+                "title": "[나는 후보자다] 더불어민주당 기호 1번 윤준호 후보",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461400"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:05:00 +0900",
+                "title": "정권심판 vs 거야심판…불붙은 표밭갈이",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069882?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:00:00 +0900",
+                "title": "큰절 올린 민주당  부산에서 민주당이라는 이유로 버림받지 않도록 해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325408?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:23:00 +0900",
+                "title": "부산 18개 선거구 여야 후보 각각 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069837?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:14:00 +0900",
+                "title": "대학병원 유치, 부산형 급행철·도시철…여야 한목소리 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069789?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:03:00 +0900",
+                "title": "[원포인트 공약] 국민의힘 해운대을 김미애 후보,  센텀2지구 부산형 테크노벨...",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069642?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:08:00 +0900",
+                "title": "[원포인트 공약] 더불어민주당 해운대을 윤준호 후보,  제2센텀 개발 가속화 ",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069632?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 22:03:00 +0900",
+                "title": "[총선] 김부겸 민주당 선대위원장, 부산 지지 유세",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688256?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:48:00 +0900",
+                "title": "낙동강벨트 집결한 민주 수뇌부 “부울경 메가시티 재추진”",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069557?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:22:00 +0900",
+                "title": "부산 국회의원 후보자 현황(중앙선관위 3월 25일 17시 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460809"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:04:00 +0900",
+                "title": "이재명 김부겸, 경남부산 찾아 정권 심판 호소",
+                "link": "https://news.knn.co.kr/news/article/154768"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:08:00 +0900",
+                "title": "[나는 후보자다] 해운대구을 선거구 후보자는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460778"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:33:00 +0900",
+                "title": "민주당 이재명 김부겸 PK ‘동시 출격’…“여당, 메가시티 서울만 강조”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261899?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:03:00 +0900",
+                "title": "김부겸  박재호 후보, 산업은행 부산 유치에 기여할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448680?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:34:00 +0900",
+                "title": "민주당 박영미  지난 30년 푸대접에 부산 중.영도 지역 주민들 분노 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149623"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:26:00 +0900",
+                "title": "부산 해운대을 총선공약은… 센텀2지구 성공이 최대 현안 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014585952?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:04:00 +0900",
+                "title": "[오늘의 주요 일정] 이정섭 검사 탄핵 심판 3회 변론준비기일",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213217"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:00:00 +0900",
+                "title": "[오늘의 정치일정] 3월 25일(월)",
+                "link": "https://www.newspim.com/news/view/20240325000007"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부 (25일, 월)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007432845?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:46:00 +0900",
+                "title": "[제주 총선] 제주 출신 및 제주 연고 9명 출사표 던졌다",
+                "link": "http://www.jejunews.com/news/articleView.html?idxno=2209764"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:35:00 +0900",
+                "title": "부산 18개 선거구에 43명 출사표… 남성 34명·50대 24명 [22대 총선 출마 후...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261772?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:46:00 +0900",
+                "title": "[헬로 이슈토크] 해운대을 4년 만 '리턴매치'…핵심공약 '센텀2지구'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460634"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:13:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583510?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:14:00 +0900",
+                "title": "부산 총선 후보 등록자 명단[22일 마감]",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430891?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:17:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583310?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 15:20:00 +0900",
+                "title": "부산 제22대 국회의원선거 후보자 (3월 22일 15시 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460516"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:05:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 부산(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581069?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:32:00 +0900",
+                "title": "22대 총선 본후보 등록 시작…본격 선거전",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460325"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:41:00 +0900",
+                "title": "[총선여론] 부산 18개 지역구, 국힘 8곳 야권 2곳 우세.. 8곳은 오차범위 내 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639920"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 07:43:00 +0900",
+                "title": "[총선/공약 맞수K] 해운대을 센텀2지구 개발 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685588?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 22:01:00 +0900",
+                "title": "[총선/공약 맞수K] 해운대을 센텀2지구 개발 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685426?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:12:00 +0900",
+                "title": "민주 부산시당, 선대위 발족과 함께 '총선 승리' 다짐",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2949102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:02:00 +0900",
+                "title": "[총선/공약 맞수K] 해운대을 센텀2지구 개발 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685295?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:19:00 +0900",
+                "title": "[오마이포토]  적어도 9석  민주당 부산선대위 출범",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426629?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:03:00 +0900",
+                "title": "민주당 부산시당 “총선 승리로 윤석열 정권 폭주 막겠다”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261163?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:52:00 +0900",
+                "title": "더불어민주당 부산시당  선거대책위원회 발족, 총선 승리 다짐 ",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460184"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:31:00 +0900",
+                "title": "민주당 부산시당, 총선 승리 위한 선대위 발족…정권심판 강조",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423637?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:44:00 +0900",
+                "title": "대장동 변호사에 경기도 라인…'이재명 친위대' 공천 라인업 완성",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423488?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 12:27:00 +0900",
+                "title": " 폭주하는 尹정권에 경고해달라  민주당 부산 후보들 전면전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324193?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 00:30:00 +0900",
+                "title": " 모든 특검법 부활 …부산 민주당, 구 통진당 후신·조국혁신당과 한자리에",
+                "link": "https://n.news.naver.com/mnews/article/119/0002811137?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:57:00 +0900",
+                "title": "'정권심판'으로 뭉친 부산 야4당, 첫 합동출정식",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426481?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:40:00 +0900",
+                "title": "[선거레이더] 4년 만 리턴매치 해운대을…더불어민주당 윤준호 vs. 국민의힘 ...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460040"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 00:10:00 +0900",
+                "title": "부산 선거판은 여인천하?…여·야 여성후보 9명 본선행",
+                "link": "https://n.news.naver.com/mnews/article/025/0003348185?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:02:00 +0900",
+                "title": "해운대갑 홍순헌 후보, 캠프 개소...선거운동 '본격화'",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1021962"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:22:00 +0900",
+                "title": "민주당 해운대갑 홍순헌 후보, 선거사무소 개소 '본격 선거운동' 돌입",
+                "link": "https://www.ajunews.com/view/20240318160558630"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 16:10:00 +0900",
+                "title": "제22대 총선 부산 18개 지역 여야 대진표 '완성' 본격 '레이스'",
+                "link": "https://www.ajunews.com/view/20240318154000582"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:52:00 +0900",
+                "title": "부산 제22대 국회의원선거 예비 후보자 현황 (중앙선관위 및 각 정당 / 3월 1...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459830"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:42:00 +0900",
+                "title": "해운대갑 홍순헌 후보 사무소 개소식에 1000여명 운집",
+                "link": "https://www.cnbnews.com/news/article.html?no=649181"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:32:00 +0900",
+                "title": "민주당 홍순헌 해운대갑 후보, 압승 위한 세몰이 나섰다… 경험과 역량 해운대...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240318010009428"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:48:00 +0900",
+                "title": "해운대갑 홍순헌 후보, 선거사무소 개소식",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1844142"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 08:10:00 +0900",
+                "title": "[총선]해운대갑 홍순헌  이번 선거 '30년 토박이'와 '어쩌다 해운대' 대결 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000989417?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 22:30:00 +0900",
+                "title": "해운대갑 홍순헌 “정체된 부산과 해운대를 도약시키겠다”···캠프 개소식",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469033"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 19:46:00 +0900",
+                "title": " 부산 해운대갑 홍순헌 후보, 압승 세몰이 나섰다 ",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2945821"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 19:44:00 +0900",
+                "title": "홍순헌 후보, 선거캠프 개소식… 해운대 바꾸고 도약 필승 다져",
+                "link": "http://www.lawissue.co.kr/view.php?ud=2024031719381641909a8c8bf58f_12"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:41:00 +0900",
+                "title": "[총선 브리핑]1000명 몰린 홍순헌 사무소 개소식…“해운대 도약 확실하게”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001260605?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:56:00 +0900",
+                "title": "윤준호 민주당 해운대을 후보 개소식 성황리에 열려",
+                "link": "https://www.electimes.com/news/articleView.html?idxno=334138"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 12:16:00 +0900",
+                "title": "‘살맛나는 해운대 조성’ 민주당 부산 해운대을 윤준호 후보, 선거사무소 개...",
+                "link": "https://n.news.naver.com/mnews/article/031/0000820922?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 12:14:00 +0900",
+                "title": "민주당 윤준호, '나라를 나라답게, 살맛나는 해운대' 개소식 개최",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=632115"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 18:16:00 +0900",
+                "title": "부산 18개 지역구 대진표 완성",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84131"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 17:16:00 +0900",
+                "title": "부산 제22대 국회의원선거 예비 후보자 현황 (중앙선관위 및 각 정당 / 3월 1...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459683"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 17:10:00 +0900",
+                "title": "LG헬로비전 부산방송, 해운대을 후보에 '우리동네 희망공약' 전달",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459677"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 15:27:00 +0900",
+                "title": "제22대 총선 부산 대진표 확정…본격 선거운동 돌입",
+                "link": "https://n.news.naver.com/mnews/article/001/0014566346?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 15:10:00 +0900",
+                "title": "국힘 부산 서동 곽규택 변호사 본선행…18개 지역구 대진표 완성",
+                "link": "https://n.news.naver.com/mnews/article/421/0007414179?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 13:57:00 +0900",
+                "title": "부산 선거판은 여인천하(女人天下)?...18개 선거구에 여·야 여성 9명 등판",
+                "link": "https://n.news.naver.com/mnews/article/025/0003347616?sid=102"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 17:16:00 +0900",
+                "title": "부산 제22대 국회의원선거 예비 후보자 현황 (중앙선관위 및 각 정당 / 3월 1...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459452"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 14:36:00 +0900",
+                "title": "한 달여 남은 22대 총선…국회 보건복지위원회 위원 현황은?",
+                "link": "http://www.k-health.com/news/articleView.html?idxno=70717"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 16:18:00 +0900",
+                "title": "[22대 총선 대진표] ④부산·울산·경남…‘낙동강벨트’ 단디 잡아라!",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468817"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 16:12:00 +0900",
+                "title": "부산 제22대 국회의원선거 예비 후보자 현황 (중앙선관위 및 각 정당 / 3월 1...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459220"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 20:02:00 +0900",
+                "title": "부산총선 女후보 총 9명 역대 최다, 금배지 누가 달까…지역 정가 주목",
+                "link": "https://n.news.naver.com/mnews/article/658/0000068424?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 17:29:00 +0900",
+                "title": "부산진갑 정성국·서은숙 1.9%p차 초접전…수영선 장예찬 크게 앞서",
+                "link": "https://n.news.naver.com/mnews/article/421/0007406689?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 17:22:00 +0900",
+                "title": "민주당 부산 총선 주자들, 출마선언.공약 발표 이어져",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3148004"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 17:16:00 +0900",
+                "title": "22대 총선 부산 대진표 어떻게?…민주 18곳·국힘 16곳 확정",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459044"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 16:56:00 +0900",
+                "title": "부산 제22대 국회의원선거 예비 후보자 현황 (중앙선관위 및 각 정당 / 3월 1...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459097"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 16:20:00 +0900",
+                "title": "[총선 브리핑] 해운대을 윤준호  부산시 늑장에 제2센텀 허송세월 ",
+                "link": "https://n.news.naver.com/mnews/article/082/0001259816?sid=100"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 16:20:00 +0900",
+                "title": "부산 해운대을 민주당 윤준호  22대 총선은 검찰독재 정권 심판 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002323133?sid=102"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 15:47:00 +0900",
+                "title": "윤준호 민주당 후보, 해운대구을 출마 선언… 지역 발전 위해 최선 ",
+                "link": "https://www.newspim.com/news/view/20240312000776"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 15:10:00 +0900",
+                "title": "더불어민주당 윤준호 후보,  나라를 나라답게, 해운대를 해운대답게 ",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=502784"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:18:00 +0900",
+                "title": "윤준호, 해운대을 출마 선언... 반송 반여 재송 발전을 위해 역량을 다 쏟아붓...",
+                "link": "https://n.news.naver.com/mnews/article/658/0000068393?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 14:06:00 +0900",
+                "title": "[위클리오늘] 부산 주요일정 3월 12일 (화요일)",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=613857"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "윤준호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1367846
+            }
+        ],
+        "huboid": "100151244",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2609/Hb100151244/junkwa/20231212112520328_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260903-2.jpg",
+        "id": "2260903-2",
+        "재산": 2568598,
+        "생년월일": "19691006",
+        "경력": "(전)부산지방변호사회 수석부회장\n(현)해운대구을 국회의원",
+        "학력": "동아대학교 법학부 졸업",
+        "직업": "국회의원",
+        "성별": "여",
+        "id_21th": "1065",
+        "regionId": "2260903",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:45:00 +0900",
+                "title": "與 김미애 후보 해운대 재래시장서 한 표 호소",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165785?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "보수 텃밭 '부울경' 40곳 중 14곳 '박빙' ... 낙동강벨트 외 지역구도 '위기'",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409479"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "흔들리는 'PK'···'낙동강 벨트' 따라 접전지 확산",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107585"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:49:00 +0900",
+                "title": " 100일도 안 된 한동훈은 책임 없다? 참으로 누추해 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428533?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:23:00 +0900",
+                "title": "한동훈  이재명, 형수 욕설→국민 사과.. 그게 악어의 눈물  [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165443?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:31:00 +0900",
+                "title": "[4/2(화) 데일리안 출근길 뉴스] [현장] '공약 선물 세트' 들고 부산 찾은 한...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815997?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:15:00 +0900",
+                "title": "[현장] '공약 선물 세트' 들고 부산 찾은 한동훈… 1992년 '영광의 시대' 만들...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815955?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:13:00 +0900",
+                "title": "한동훈, 이재명 직격 “형수 욕설 드러나자 눈물…왜 이따위 정치를 봐야 하나...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920248?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:02:00 +0900",
+                "title": "‘민생’·‘이조심판’으로 PK 간 한동훈…“한번 더 기회달라” 읍소도(재종...",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704726?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:55:00 +0900",
+                "title": "[총선현장] 한동훈, '낙동강 벨트' 방문… 올 한 해 소진하고 끝나도 불만 없...",
+                "link": "https://www.newspim.com/news/view/20240401001242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "韓, 6일 만에 또 PK행…사상부터 김해까지 10곳 훑었다",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070146?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:03:00 +0900",
+                "title": "문재인  70평생에 이렇게 못하는 정부는 처음 본다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428439?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:33:00 +0900",
+                "title": "[총선 빅데이터 톡톡] '한동훈 방문' PK서 여당 지지율 급락?",
+                "link": "https://n.news.naver.com/mnews/article/057/0001809550?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:12:00 +0900",
+                "title": "구) 반여초 지하 공영주차장 건립사업, 교육부 학교복합시설 공모사업 선정",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958486"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:59:00 +0900",
+                "title": "한동훈 “이재명, 형수욕설 사과하며 눈물…그게 악어의 눈물”",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037976?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:39:00 +0900",
+                "title": "“염종석처럼 최선 다할 것”… 부산 텃밭 다잡는 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441290?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+                "title": "한동훈 “정부 부족한 거 있지만, 저는 100일도 안 돼...기회 달라”",
+                "link": "https://vop.co.kr/A00001650718.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "부산 찾은 한동훈, 오전엔 ‘민생’ 오후엔 ‘이조심판’ 강조(종합)",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704655?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "김미애 의원 “구 반여초 지하 공영주차장 조성사업, 교육부 공모사업 선정”",
+                "link": "https://www.cnbnews.com/news/article.html?no=651897"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "[포토] 한동훈  해운대 바꾸려면 주진우·김미애 뽑아달라”",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000425"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:41:00 +0900",
+                "title": "부산 온 한동훈, 이재명·조국 겨냥  범죄자들 정치판에서 치우겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325912?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+                "title": "[포토] 부산 해운대서 지지 호소하는 한동훈 비대위원장",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124846"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:36:00 +0900",
+                "title": "부산行 한동훈 “염종석처럼 혼신의 힘”…‘자영업자 육아휴직’ 공약도",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441274?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:34:00 +0900",
+                "title": "한동훈  정부 의사 2000명 고수 안 해…이번 총선 '범죄와의 전쟁' (종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451224?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+                "title": "[포토] 해운대구 구남로 가득메운 주진우·김미애 지지자들",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124839"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "[포토] 한동훈 해운대 지원유세... “이번 선거는 범죄와의 전쟁”",
+                "link": "https://www.viva100.com/main/view.php?key=20240401010000417"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "몸 낮춘 한동훈  한번만 더 기회를…부산은 최후의 보루 (종합)",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000439"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:02:00 +0900",
+                "title": "한동훈, 부산·경남 '낙동강 벨트' 집중 공략",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958397"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:50:00 +0900",
+                "title": "[4.10총선-177] 부산 해운대을, 윤준호vs김미애. 리턴매치",
+                "link": "http://www.mhj21.com/160225"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": "한동훈  尹 정부, 눈높이 부족한 면 있었다…그 책임 저한테 있지는 않지 않나...",
+                "link": "https://www.ajunews.com/view/20240401163451437"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:41:00 +0900",
+                "title": "[총선포토] 한동훈  주진우를 선택하는것은 저를 선택하는 것 ",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515333"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:37:00 +0900",
+                "title": "부산 곳곳 누빈 한동훈  투수 염종석처럼 싸워 총선 이길 것 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880556?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:36:00 +0900",
+                "title": "[현장] 한동훈, '롯데 히어로' 소환… 여러분의 염종석 되겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825033?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:25:00 +0900",
+                "title": "한동훈, 부산서  국회의원 정수 250명 감축 …정치개혁 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815845?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:16:00 +0900",
+                "title": "[포토] 마이크 잡은 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100279.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "[포토] 주진우 지원나선 김미애 해운대을 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100276.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+                "title": "[포토] 해운대서 지지호소하는 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100278.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:12:00 +0900",
+                "title": "[포토] 주먹 쥔 주진우 해운대갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100273.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:12:00 +0900",
+                "title": "한동훈 “정부 눈높이 부족···그 책임 저한테 있진 않지 않느냐”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003288001?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:10:00 +0900",
+                "title": "[포토] 손잡은 해운대갑을 주진우·김미애",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100270.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:07:00 +0900",
+                "title": "부산 찾은 한동훈 “이번 총선 ‘범죄와의 전쟁’…이·조 퇴출시킬 것”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704546?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464098?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "한동훈  이재명, 형수 욕설 드러나자 눈물…그게 악어의 눈물 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464076?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464101?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464087?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464099?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464095?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464085?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464089?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "주진우-김미애 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464102?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "김미애 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464040?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해운대구 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464041?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464035?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해운대구 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464037?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464033?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464038?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "부산 해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464042?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해운대 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464034?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "해운대 찾아 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464036?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:50:00 +0900",
+                "title": "한동훈 '믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450768?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:50:00 +0900",
+                "title": "해운대 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450766?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:50:00 +0900",
+                "title": "연설하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450765?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:50:00 +0900",
+                "title": "해운대 찾아 지원 유세 펼치는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450767?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:49:00 +0900",
+                "title": "유세차량 오른 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450760?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:49:00 +0900",
+                "title": "해운대 찾은 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450759?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:45:00 +0900",
+                "title": "주진우·김미애 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450739?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:45:00 +0900",
+                "title": "한동훈 위원장 '해운대 왔습니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450741?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:45:00 +0900",
+                "title": "부산 해운대 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450743?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:45:00 +0900",
+                "title": "한동훈 찾은 지지자들",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450740?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:40:00 +0900",
+                "title": "부산 해운대 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450718?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:40:00 +0900",
+                "title": "한동훈 위원장 '2번 입니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450717?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:40:00 +0900",
+                "title": "한동훈 위원장 '주진우 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450715?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:40:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450716?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:35:00 +0900",
+                "title": "주진우·김미애 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450698?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:35:00 +0900",
+                "title": "한동훈 '주진우·김미애 믿어주세요'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450696?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:35:00 +0900",
+                "title": "부산 해운대 찾은 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450694?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:35:00 +0900",
+                "title": "주진우·김미애 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450699?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602961?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602965?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602970?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602967?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602969?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602972?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602971?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602963?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:33:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602966?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:30:00 +0900",
+                "title": "부산 여야 표심잡기, 한동훈 지원 유세 VS 민주당 큰절 호소",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150666"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:23:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602890?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:21:00 +0900",
+                "title": "지지 호소하는 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602885?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:20:00 +0900",
+                "title": "부산 해운대구 지원 나선 한동훈 비대위원장",
+                "link": "https://n.news.naver.com/mnews/article/001/0014602883?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:02:00 +0900",
+                "title": " 틀림없다 김희정:  국민의힘 한동훈 부산 후보 지원 나서 | PK지역 흐보들 지...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19435&Newsnumb=20240419435"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:18:00 +0900",
+                "title": "윤 대통령과 선 그은 한동훈  100일도 안 된 저한테 책임이...  ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428357?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:30:00 +0900",
+                "title": "'총선 D-9' 한동훈, PK 찾아 국민의힘 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019534?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:42:00 +0900",
+                "title": "&lt;선택 2024&gt;해운대을, 윤준호-김미애 4년만의 재대결",
+                "link": "https://news.knn.co.kr/news/article/155080"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:05:00 +0900",
+                "title": "총선 부산 여야 후보 부활절 맞아 종교계 표심 잡기 '주력'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448151?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "′해운대 선거구′ 토론회 생방송 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262653"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:08:00 +0900",
+                "title": "선관위 주최 해운대을 후보자 토론회 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262659"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:15:00 +0900",
+                "title": "[낙동강전선을 가다]부산 국힘 총선 후보 합동충혼탑ㆍ민주공원 참배",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641202"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:16:00 +0900",
+                "title": "선관위 주최 해운대갑 후보자 토론회 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262644"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:42:00 +0900",
+                "title": "′해운대갑 선거구′ 토론회 생방송 진행",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262640"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김미애",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1735378
+            },
+            {
+                "연도": 2021,
+                "재산": 2388365
+            },
+            {
+                "연도": 2022,
+                "재산": 2469208
+            },
+            {
+                "연도": 2023,
+                "재산": 2568598
+            }
+        ],
+        "huboid": "100152781",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2609/Hb100152781/junkwa/20240220114422189_1.PDF"
+    }
 ]

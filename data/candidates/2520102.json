@@ -1,162 +1,1593 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-1.jpg",
-    "id": "2520102-1",
-    "재산": 583386,
-    "생년월일": "19581017",
-    "경력": "(현)변호사 전성 법률사무소 대표변호사\n(전)더불어민주당 춘천시철원군화천군양구군을 지역위원장",
-    "학력": "고려대학교 정치외교학과 졸업",
-    "직업": "변호사",
-    "성별": "남",
-    "regionId": "2520102",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:08:00 +0900",
-        "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:06:00 +0900",
-        "title": "우상호 민주당 강원선대위원장, 전성 후보 지지 호소",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070426?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:10:00 +0900",
-        "title": "우상호  고인물썩어…변화를 만들 전성 뽑아달라  춘천을 전성 지원사격",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070421?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "강원도 총선, 여야 상호 비방전 재개",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880606?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-        "title": "한동훈  92년 롯데 염종석 투수 아십니까…소진돼 끝나도 불만 없다 ",
-        "link": "https://n.news.naver.com/mnews/article/008/0005020001?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "전성",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 583386
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-2.jpg",
-    "id": "2520102-2",
-    "재산": 3090259,
-    "생년월일": "19520813",
-    "경력": "(현)국회 국방위원회 위원장\n(전)국민의힘 사무총장",
-    "학력": "육군사관학교 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "693",
-    "regionId": "2520102",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:08:00 +0900",
-        "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:40:00 +0900",
-        "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:02:00 +0900",
-        "title": "춘천 을 한기호(국)  접경지역 살릴 군사·안보 전문가 [영상]",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880516?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:03:00 +0900",
-        "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 01:01:00 +0900",
-        "title": "[4·10총선] 춘천갑을 총선 주자 선거운동 첫 주말 열띤 유세전",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035338?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "한기호",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 3077224
-      },
-      {
-        "연도": 2021,
-        "재산": 3057815
-      },
-      {
-        "연도": 2022,
-        "재산": 2892354
-      },
-      {
-        "연도": 2023,
-        "재산": 3090259
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-7.jpg",
-    "id": "2520102-7",
-    "재산": -12964,
-    "생년월일": "19760722",
-    "경력": "(현)한국노동조합총연맹 전문위원\n(전)강원도청 공무원 노동조합 위원장",
-    "학력": "강원대학교 일반대학원 신문방송학과 졸업(언론학박사)",
-    "직업": "무직",
-    "성별": "남",
-    "regionId": "2520102",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 00:08:00 +0900",
-        "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:34:00 +0900",
-        "title": " 전투기 소음보다 심해 …유세차 등장에 `귀틀막`하는 시민들",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704581?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:00:00 +0900",
-        "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
-        "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 13:49:00 +0900",
-        "title": "[4·10총선 춘천·철원·화천·양구을 토론회]각 후보 공약 현실성 놓고 공방",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035175?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 21:27:00 +0900",
-        "title": "[총선] 춘천을 토론회…전성·한기호·이호범 공방",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692065?sid=100"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "이호범",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -12964
-      }
-    ]
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-1.jpg",
+        "id": "2520102-1",
+        "재산": 583386,
+        "생년월일": "19581017",
+        "경력": "(현)변호사 전성 법률사무소 대표변호사\n(전)더불어민주당 춘천시철원군화천군양구군을 지역위원장",
+        "학력": "고려대학교 정치외교학과 졸업",
+        "직업": "변호사",
+        "성별": "남",
+        "regionId": "2520102",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+                "title": "[사설] 총선 SOC 공약, 실현 가능성이 관건",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070585?sid=110"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+                "title": "정세균·김부겸, 춘천·원주서 지원사격",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070596?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+                "title": "[포토뉴스]더불어민주당 춘천-철원-화천-양구 을 전성 후보 지원유세 나선 정...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035891?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+                "title": "[선택 4·10총선] “접경지 현안 내가 해결” 부동층 흡수 승부수",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035859?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "&lt;후보&gt;춘천철원화천양구 을, 누가 나왔나?",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305179"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+                "title": "[선택 4·10 총선] 여야 중앙당 강원 접전 지역 지원사격 나서",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035853?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+                "title": " 이번엔 기대해도 될까 …전북 정치권, '다선 전성시대' 여나",
+                "link": "https://www.ajunews.com/view/20240402135530132"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:32:00 +0900",
+                "title": "정세균  윤석열 정부·여당 심판하는 선거 돼야 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070525?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:16:00 +0900",
+                "title": "국회는 국민의 얼굴? 이번 총선서도 '설 자리 잃은' 2030 후보",
+                "link": "https://www.bbc.com/korean/articles/cml7rzxn83lo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:07:00 +0900",
+                "title": "정세균  윤석열 대통령은 거부권 선수… 4월 10일 심판의 날  춘천을 전성 지...",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070513?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 01:00:00 +0900",
+                "title": "정세균·김부겸, 2일 춘천 ·원주서 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035628?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:08:00 +0900",
+                "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:06:00 +0900",
+                "title": "우상호 민주당 강원선대위원장, 전성 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070426?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:10:00 +0900",
+                "title": "우상호  고인물썩어…변화를 만들 전성 뽑아달라  춘천을 전성 지원사격",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070421?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:56:00 +0900",
+                "title": "강원도 총선, 여야 상호 비방전 재개",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880606?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "한동훈  92년 롯데 염종석 투수 아십니까…소진돼 끝나도 불만 없다 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020001?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+                "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:31:00 +0900",
+                "title": "한동훈, PK에서  이번 총선은 범죄와의 전쟁…깡패 싸움에도 명분 ",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793683?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:09:00 +0900",
+                "title": "한동훈  깡패도 명분이 있는데… 범죄자들 치울 수 있게 해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993332?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:02:00 +0900",
+                "title": "춘천 을 전성(민)  춘천과 강원 북부, 동반 성장 이끌 터 [영상]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880517?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:34:00 +0900",
+                "title": "서준오 서울시의원, 친환경미래경제도시로 도약할 노원구 변화 이끌어",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441228?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:54:00 +0900",
+                "title": "우상호  압도적 지지로 윤석열 정권 심판해야  더불어민주당 철원 지지유세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070395?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+                "title": "여의도 ‘변호사 전성시대’ 저무나…‘변론 공정했냐’ 쟁점 부각",
+                "link": "https://www.naeil.com/news/read/506114?ref=naver"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:38:00 +0900",
+                "title": "“우파 연예인들 겁먹고 못 나와” 김흥국 근황 봤더니…‘호랑나비’ 개사해...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002864583?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[4·10총선] 춘천갑을 총선 주자 선거운동 첫 주말 열띤 유세전",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035338?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[선택 4·10총선] 우상호 “대통령 정신차리게 하려면 대통령과 가까운 국회의...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035337?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:31:00 +0900",
+                "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:49:00 +0900",
+                "title": "[4·10총선 춘천·철원·화천·양구을 토론회]각 후보 공약 현실성 놓고 공방",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035175?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:05:00 +0900",
+                "title": "'오차범위내 접전' 춘천갑 허영·김혜란, '비방전' 점입가경",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447277?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:27:00 +0900",
+                "title": "[총선] 춘천을 토론회…전성·한기호·이호범 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692065?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 19:47:00 +0900",
+                "title": "민주당 강원도당 우상호 공동선대위원장, 31일 '복합선거구' 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070234?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:57:00 +0900",
+                "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:23:00 +0900",
+                "title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천 을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691754?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:32:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691632?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+                "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:32:00 +0900",
+                "title": "강원 8개 선거구 21명 도전장...춘천.원주 최대 승부처",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150414"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:52:00 +0900",
+                "title": "[총선 D-12] 우원식 의원 추진 '노원 경제 3대축' 본궤도",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025282"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+                "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:04:00 +0900",
+                "title": "서초의 딸? vs 논현의 아들?⋯춘천갑 총선후보, 방송토론서 '충돌'",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89961"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:48:00 +0900",
+                "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:36:00 +0900",
+                "title": "민주당 전성 후보  접경지역 주민에게 월 50만원 기본소득 ",
+                "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213339"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:32:00 +0900",
+                "title": "시민유권자운동본부, 총선 출마 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104566"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:30:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691218?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:06:00 +0900",
+                "title": "[리포트]공식 선거운동 첫날 각 당 총력전",
+                "link": "https://tjmbc.co.kr/article/EI5fffMwJ59"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+                "title": "'선거 전쟁' 막 올랐다⋯후보들이 선택한 '첫 유세지'는 어디?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89944"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:09:00 +0900",
+                "title": "한동훈 ‘의정부 전희경·이형섭 출정식’ 지원유세",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684592?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:07:00 +0900",
+                "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:06:00 +0900",
+                "title": "[4.10 총선, 강원의 선택] 전성·한기호 접경지 기본소득 도입 '설전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070097?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690884?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:35:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690922?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10총선] 춘천을 후보자들 접경지역 맞춤형 공약 내세우며 표심 호소",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034973?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+                "title": "4년 전 총선과는 다른 풍경…들썩이는 ‘로고송’ 다시 등장",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034960?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+                "title": "중앙당 지원 유세, 강원도에 누가 오나",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034959?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:54:00 +0900",
+                "title": "북부자치도 신설 땐 규제 완화·미래 먹거리 확보 효능",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080793"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:52:00 +0900",
+                "title": "[리포트]공식 선거운동 첫날 각 당 총력전",
+                "link": "https://tjmbc.co.kr/article/vVj2Gksanw6odNE"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:16:00 +0900",
+                "title": "한동훈 “이재명 의정부에 무관심…‘경기 북도’ 독립 추진”[배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2345467"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:12:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690727?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:11:00 +0900",
+                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690726?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:32:00 +0900",
+                "title": "[리포트] 첫 거리유세.. 13일의 열전 돌입",
+                "link": "https://chmbc.co.kr/article/rp_E4NKSJzAcIUH-"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:26:00 +0900",
+                "title": "공식선거운동 시작..선거차 타고 유세 본격 시작",
+                "link": "https://chmbc.co.kr/article/MTzBHEkxczgevzygu0"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:26:00 +0900",
+                "title": "《관가포커스》쟁쟁한 인물 즐비했던 행안부 행시 37회… 차관이 별거냐?",
+                "link": "http://www.public25.com/news/articleView.html?idxno=15072"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:22:00 +0900",
+                "title": "춘천갑·을 여야 후보  지역 살리겠다  호소… 공식 선거운동 개시(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443709?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:36:00 +0900",
+                "title": "전성 춘철화양을 후보 “월 50만원 접경지역기본소득” 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034830?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:56:00 +0900",
+                "title": " 정권심판  vs  정부여당 , 의정부 민심은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461225"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:40:00 +0900",
+                "title": "전성 더불어민주당 후보 '누구나 월 50만원 접경지역 기본소득 도입' 공약 발...",
+                "link": "https://www.ajunews.com/view/20240328113727938"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:19:00 +0900",
+                "title": "춘천을 전성  누구나 월 50만원, 접경지 기본소득 도입 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070049?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:16:00 +0900",
+                "title": "한기호  이재명 대표는 전과 4범, 대한민국 도덕 무너져  대야공세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070048?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:53:00 +0900",
+                "title": "전성  검찰독재와 부정부패 척결에 앞장 ...장학교차로서 첫 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070044?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:49:00 +0900",
+                "title": "전성 춘천을 민주당 후보  접경지역 기본소득 월 50만원 도입 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014594575?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:46:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690455?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:41:00 +0900",
+                "title": "공식 선거운동 첫날… 춘천갑·을 후보들  지역 살리겠다  지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441572?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 06:45:00 +0900",
+                "title": "[인터뷰] 김경진  윤 대통령의 진심 어린 눈물과 공감 필요한 시점 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814222?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+                "title": "[총선톡톡] 전성 후보 “강원도 농업지원 대폭 강화해야”",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034707?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+                "title": "(기획) 이재명 방탄에 '몰빵'⋯총선에서 춘천이 사라졌다",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89849"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+                "title": "″찍을 후보가 없어″⋯춘천 유권자의 민심은?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89914"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:06:00 +0900",
+                "title": "[4·10총선 발언대] 전성  농산물 가격안정제 포함 농민 국가지원 필요 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069975?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:43:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689991?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10 총선] 양구 군부대 유휴부지에 농공단지 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034668?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "[뉴스인사이트] 정치 세습인가, 유업 계승인가…대물림 국회의원 전성시대",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004819"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:08:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689803?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "이호범 무소속 후보 ″제2청사, 영동·영서 갈등 초래 우려″",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89920"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:19:00 +0900",
+                "title": "‘춘천북부+접경지’ 춘천을 한기호 50% vs 전성 32%…오차범위 밖 우세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440099?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:36:00 +0900",
+                "title": "전성 더불어민주당 후보  강원도 농업지원 대폭 강화해야 ",
+                "link": "https://www.ajunews.com/view/20240327112856010"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:46:00 +0900",
+                "title": "[포토뉴스] 민주당 전성 후보 화천 선거사무소 개소식",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034461?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:36:00 +0900",
+                "title": "[강원도 여론조사 ②] 원주을, 민주당 송기헌 vs 국민의힘 김완섭 접전...전방...",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307046"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:10:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304872"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:02:00 +0900",
+                "title": "[권상집의 인사이트] CEO들의 총선 출마, 소모품이 되어선 곤란하다",
+                "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=95760"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:47:00 +0900",
+                "title": "강원 총선여론조사…국힘 4곳 우세, 4곳은 민주당과 접전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452142?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:38:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689322?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:15:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304857"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+                "title": "춘천 60대 유권자 8000명 늘었다⋯노년층 급증, 총선 변수될까",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89887"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:08:00 +0900",
+                "title": "원주 을 접전…춘천 을·속인고양·홍횡영평 국힘 우세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069905?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": "한기호 50%·전성 32%, 2030 부동층 도 최다",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069879?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": " 매니페스토 실천 전국 모범되는 정책선거 치르자 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069887?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": "오차범위 밖 격차 4곳 공통점 '복합선거구'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069888?sid=100"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "전성",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 583386
+            }
+        ],
+        "huboid": "100151354",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100151354/junkwa/20240321113735679_9.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-2.jpg",
+        "id": "2520102-2",
+        "재산": 3090259,
+        "생년월일": "19520813",
+        "경력": "(현)국회 국방위원회 위원장\n(전)국민의힘 사무총장",
+        "학력": "육군사관학교 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "693",
+        "regionId": "2520102",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+                "title": "한동훈 오늘 원주·춘천 출격…최대 격전지 국힘 화력 집중",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070594?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+                "title": "[사설] 총선 SOC 공약, 실현 가능성이 관건",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070585?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+                "title": "[선택 4·10총선] “접경지 현안 내가 해결” 부동층 흡수 승부수",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035859?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "&lt;후보&gt;춘천철원화천양구 을, 누가 나왔나?",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305179"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:49:00 +0900",
+                "title": "[선택 4·10 총선] 여야 중앙당 강원 접전 지역 지원사격 나서",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035853?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+                "title": "한동훈, 3일 원주와 춘천에서 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070536?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:05:00 +0900",
+                "title": "채 상병 사건 '권력형 로비 의혹'으로...  워터게이트보다 커 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428537?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:14:00 +0900",
+                "title": "여의도 능가하는 총선 열기, 친여.친야 유튜브판 대전, 구독자&amp;조회수 승자는...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486171"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 03:04:00 +0900",
+                "title": "22대 국회의원 후보자, 별들의 이력서(국민의힘)",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307374"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:08:00 +0900",
+                "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+                "title": "보수 강세 지역 옛말… 곳곳서 ‘예측불허’ 대접전",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226665"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:02:00 +0900",
+                "title": "춘천 을 한기호(국)  접경지역 살릴 군사·안보 전문가 [영상]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880516?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[4·10총선] 춘천갑을 총선 주자 선거운동 첫 주말 열띤 유세전",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035338?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석 - 강원] 8곳 중 4곳 접전… 3곳은 오차범위 내 지지율 기록",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003484"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "[한신협 전국판세 분석] 정권심판 ‘열풍’…조국혁신당 ‘태풍’",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711883700766409004"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:19:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감…야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441012?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:31:00 +0900",
+                "title": "[한신협 4·10총선 판세분석-강원] 8개 선거구 절반 접전···4곳은 현역 우...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870206?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:49:00 +0900",
+                "title": "[4·10총선 춘천·철원·화천·양구을 토론회]각 후보 공약 현실성 놓고 공방",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035175?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:05:00 +0900",
+                "title": "'오차범위내 접전' 춘천갑 허영·김혜란, '비방전' 점입가경",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447277?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:27:00 +0900",
+                "title": "[총선] 춘천을 토론회…전성·한기호·이호범 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692065?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:57:00 +0900",
+                "title": "'東에서 유세, 西에서 인사'…광범위 선거구에 강원 여야 후보들 '헉헉'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447000?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 22:02:00 +0900",
+                "title": "춘천철원화천양구을·원주갑 토론회 KBS1TV 방송",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691789?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천 을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691754?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:32:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691632?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:32:00 +0900",
+                "title": "강원 8개 선거구 21명 도전장...춘천.원주 최대 승부처",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150414"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:04:00 +0900",
+                "title": "서초의 딸? vs 논현의 아들?⋯춘천갑 총선후보, 방송토론서 '충돌'",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89961"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:08:00 +0900",
+                "title": "[선택 4·10총선] 한기호 후보 양구 유세현장",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035024?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+                "title": "'선거 전쟁' 막 올랐다⋯후보들이 선택한 '첫 유세지'는 어디?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89944"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:07:00 +0900",
+                "title": "'집토끼 단속부터' 복합선거구 후보들 안방서 유세 시작",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070142?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:06:00 +0900",
+                "title": "[4.10 총선, 강원의 선택] 전성·한기호 접경지 기본소득 도입 '설전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070097?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690884?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10총선] 춘천을 후보자들 접경지역 맞춤형 공약 내세우며 표심 호소",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034973?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+                "title": "4년 전 총선과는 다른 풍경…들썩이는 ‘로고송’ 다시 등장",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034960?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:11:00 +0900",
+                "title": "[총선] 도지사-교육감 ‘러닝메이트’, 찬성 13 vs 반대 8",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690726?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:32:00 +0900",
+                "title": "[리포트] 첫 거리유세.. 13일의 열전 돌입",
+                "link": "https://chmbc.co.kr/article/rp_E4NKSJzAcIUH-"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:26:00 +0900",
+                "title": "공식선거운동 시작..선거차 타고 유세 본격 시작",
+                "link": "https://chmbc.co.kr/article/MTzBHEkxczgevzygu0"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:22:00 +0900",
+                "title": "춘천갑·을 여야 후보  지역 살리겠다  호소… 공식 선거운동 개시(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443709?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:16:00 +0900",
+                "title": "한기호  이재명 대표는 전과 4범, 대한민국 도덕 무너져  대야공세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070048?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:46:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690455?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 09:41:00 +0900",
+                "title": "공식 선거운동 첫날… 춘천갑·을 후보들  지역 살리겠다  지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441572?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+                "title": "″찍을 후보가 없어″⋯춘천 유권자의 민심은?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89914"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:43:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689991?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10 총선] 양구 군부대 유휴부지에 농공단지 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034668?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:08:00 +0900",
+                "title": "국회의원 정수 확대? 축소?…엇갈리는 여야",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689803?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "이호범 무소속 후보 ″제2청사, 영동·영서 갈등 초래 우려″",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89920"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:19:00 +0900",
+                "title": "‘춘천북부+접경지’ 춘천을 한기호 50% vs 전성 32%…오차범위 밖 우세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440099?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:36:00 +0900",
+                "title": "[강원도 여론조사 ②] 원주을, 민주당 송기헌 vs 국민의힘 김완섭 접전...전방...",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307046"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:10:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304872"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 08:47:00 +0900",
+                "title": "강원 총선여론조사…국힘 4곳 우세, 4곳은 민주당과 접전",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452142?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:38:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689322?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:15:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304857"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 01:01:00 +0900",
+                "title": "[총선톡톡] 한기호 춘철화양을 후보, 도청서 춘천 북산면 교량 건설 면담",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034401?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+                "title": "춘천 60대 유권자 8000명 늘었다⋯노년층 급증, 총선 변수될까",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89887"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:08:00 +0900",
+                "title": "원주 을 접전…춘천 을·속인고양·홍횡영평 국힘 우세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069905?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": " 매니페스토 실천 전국 모범되는 정책선거 치르자 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069887?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": "한기호 50%·전성 32%, 2030 부동층 도 최다",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069879?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": "오차범위 밖 격차 4곳 공통점 '복합선거구'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069888?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:06:00 +0900",
+                "title": "도청 신청사 부지 토지보상 5월 본격화",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069861?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:05:00 +0900",
+                "title": "원주을 與野 치열…‘춘-철-화-양을’ ‘홍-횡-영-평’ 현역 우세",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034397?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:03:00 +0900",
+                "title": "한기호 모든 시·군 선두…전성 40대 높은 지지",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034389?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 23:31:00 +0900",
+                "title": "[총선/여론조사]⑤ ‘춘천 을’, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689192?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:37:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689070?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:03:00 +0900",
+                "title": "[선택 4·10총선]접경지역 고려한 개발, 농업, 상권, 교통망 공약 제시",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034368?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:30:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304844"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:23:00 +0900",
+                "title": "[자막뉴스] 4·10 총선 매니페스토 협약식 열려",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069834?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:09:00 +0900",
+                "title": "총선 D-15 충청권 혼전 양상…전국 판세, 국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745540"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:59:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688878?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "[총선여론조사] 원주을 접전… 춘천을, 홍·횡·영·평, 속·인·고·양 국힘...",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069831?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:06:00 +0900",
+                "title": "[여론조사:춘천 을] 전성 32%, 한기호 50%..'오차범위 밖 우세'",
+                "link": "https://chmbc.co.kr/article/-F7jWSb7Yq3F1n-KOFIVnQ"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "4.10 총선 D-14 우세지역…국민의힘 82곳·민주 110곳",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409697"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:45:00 +0900",
+                "title": "[강원 춘천철원화천양구을] 국민의힘 한기호 50%, 더불어민주당 전성 32%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427519?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:42:00 +0900",
+                "title": "춘천을, 한기호 50%·전성 32%·이호범 2%",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89892"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:47:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589887?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:34:00 +0900",
+                "title": "[강원] 국힘 4곳 우세, 4곳 경합. 4년 전과 비슷",
+                "link": "http://www.viewsnnews.com/article?q=218715"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:28:00 +0900",
+                "title": "속초인제고성양양 '이양수 47% VS 김도균 38%'",
+                "link": "https://www.mbceg.co.kr/post/113986"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:26:00 +0900",
+                "title": "[여론조사:춘천 을] 전성 32%, 한기호 50%..'오차범위 밖 우세'",
+                "link": "https://chmbc.co.kr/article/zjkY6cfWVPWNR"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:12:00 +0900",
+                "title": "[5시 리포트]국회의원 선거 후보자 여론조사 결과 공개",
+                "link": "https://chmbc.co.kr/article/UktQBsGQDMVji6OJqSy4"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:03:00 +0900",
+                "title": "[여론조사 종합] ‘송기헌-김완섭’ 오차범위 접전···‘춘-철-화-양을’ ‘...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034273?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:02:00 +0900",
+                "title": "[여론조사-춘철화양 을] 전성 32% vs 한기호 50% vs 이호범 2%",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034271?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:00:00 +0900",
+                "title": "원주을 오차범위 접전… 춘천을, 홍·횡·영·평, 속·인·고·양 국힘 우세 ...",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069806?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:00:00 +0900",
+                "title": "춘천을 전성 32%, 한기호 50% [4·10 총선 여론조사]",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069805?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:34:00 +0900",
+                "title": "총선 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433105"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:23:00 +0900",
+                "title": "[포토뉴스]국민의힘 한기호 후보 양구선거사무소 개소식",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034237?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:37:00 +0900",
+                "title": "제3회 양구군 의용소방대의 날 기념식",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589337?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:37:00 +0900",
+                "title": "제3회 양구군 의용소방대의 날 기념식",
+                "link": "https://n.news.naver.com/mnews/article/001/0014589338?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:02:00 +0900",
+                "title": "[2024 총선언론감시 리포트 ③] 선거 보도 관련 3개 심의위, 제 역할 하는지 ...",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78546"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 13:50:00 +0900",
+                "title": "[기획-4.10총선] 여론 판세 與 120∼140, 野 140∼160…수도권·충청 판세 좌...",
+                "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21163"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:46:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014588804?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:46:00 +0900",
+                "title": "[총선 판세] 우세지역 자체 분석 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15472470"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:44:00 +0900",
+                "title": "[총선 D-15 판세] 여야 자체 분석…우세지역 “국힘 82곳 민주 110곳”",
+                "link": "https://www.ekn.kr/web/view.php?key=20240326023122192"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:24:00 +0900",
+                "title": "[4·10 총선] 총선 D-15 우세지역, 국힘  82곳  민주  110곳 ",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=666820"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 10:22:00 +0900",
+                "title": "총선 D-15 우세지역…국힘  82곳 ·민주  110곳 ",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436028"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:24:00 +0900",
+                "title": "총선 후보 등록 후 첫 판세 자체 분석…더불어민주당  110곳  국민의힘  82곳...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764320"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:51:00 +0900",
+                "title": "양당이 분석한 '우세 지역'… 국민의힘  82곳 ·민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069769?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:00:00 +0900",
+                "title": "총선 D-15 우세지역 물었더니…국민의힘  82곳  민주  110곳 ",
+                "link": "https://n.news.naver.com/mnews/article/001/0014587939?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 01:02:00 +0900",
+                "title": "[선택 4·10총선] 춘천-철원-화천-양구 을 총선 후보들 ‘성장 동력 확보해 지...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034122?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 00:06:00 +0900",
+                "title": "한기호 후보 화천 선거사무소 개소",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069699?sid=102"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "한기호",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 3077224
+            },
+            {
+                "연도": 2021,
+                "재산": 3057815
+            },
+            {
+                "연도": 2022,
+                "재산": 2892354
+            },
+            {
+                "연도": 2023,
+                "재산": 3090259
+            }
+        ],
+        "huboid": "100153083",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100153083/junkwa/20240318104332683_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520102-7.jpg",
+        "id": "2520102-7",
+        "재산": -12964,
+        "생년월일": "19760722",
+        "경력": "(현)한국노동조합총연맹 전문위원\n(전)강원도청 공무원 노동조합 위원장",
+        "학력": "강원대학교 일반대학원 신문방송학과 졸업(언론학박사)",
+        "직업": "무직",
+        "성별": "남",
+        "regionId": "2520102",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+                "title": "공식 선거운동 5일 만에 민원 30여건⋯ 시끄러워도 규제 어려워 ",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=90066"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:07:00 +0900",
+                "title": "[사설] 총선 SOC 공약, 실현 가능성이 관건",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070585?sid=110"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:01:00 +0900",
+                "title": "[선택 4·10총선] “접경지 현안 내가 해결” 부동층 흡수 승부수",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035859?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "&lt;후보&gt;춘천철원화천양구 을, 누가 나왔나?",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=305179"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:08:00 +0900",
+                "title": "100개 넘는 철도·도로 공약, 구체적 방안은 '뒷전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070496?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:34:00 +0900",
+                "title": " 전투기 소음보다 심해 …유세차 등장에 `귀틀막`하는 시민들",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704581?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:00:00 +0900",
+                "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
+                "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:49:00 +0900",
+                "title": "[4·10총선 춘천·철원·화천·양구을 토론회]각 후보 공약 현실성 놓고 공방",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035175?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:27:00 +0900",
+                "title": "[총선] 춘천을 토론회…전성·한기호·이호범 공방",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692065?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 22:02:00 +0900",
+                "title": "춘천철원화천양구을·원주갑 토론회 KBS1TV 방송",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691789?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천 을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691754?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:32:00 +0900",
+                "title": "[총선] 공식 선거운동 이틀째…‘춘천을’ 후보 3명 표심 잡기나서",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691632?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:32:00 +0900",
+                "title": "강원 8개 선거구 21명 도전장...춘천.원주 최대 승부처",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150414"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:04:00 +0900",
+                "title": "서초의 딸? vs 논현의 아들?⋯춘천갑 총선후보, 방송토론서 '충돌'",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89961"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:06:00 +0900",
+                "title": "[4.10 총선, 강원의 선택] 전성·한기호 접경지 기본소득 도입 '설전'",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070097?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10총선] 춘천을 후보자들 접경지역 맞춤형 공약 내세우며 표심 호소",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034973?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:01:00 +0900",
+                "title": "4년 전 총선과는 다른 풍경…들썩이는 ‘로고송’ 다시 등장",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034960?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+                "title": "[총선톡톡] 이호범 후보 “강원도 통합의 걸림돌 제2청사, 서둘러 정리해야”",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034710?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:12:00 +0900",
+                "title": "″찍을 후보가 없어″⋯춘천 유권자의 민심은?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89914"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 00:06:00 +0900",
+                "title": "[4·10총선 발언대] 이호범  제2청사 기능 확대, 도 공무원교육원 유치 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069974?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:04:00 +0900",
+                "title": "[선택 4·10 총선] 양구 군부대 유휴부지에 농공단지 조성 ",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034668?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "이호범 무소속 후보 ″제2청사, 영동·영서 갈등 초래 우려″",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89920"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:19:00 +0900",
+                "title": "‘춘천북부+접경지’ 춘천을 한기호 50% vs 전성 32%…오차범위 밖 우세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440099?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:36:00 +0900",
+                "title": "[강원도 여론조사 ②] 원주을, 민주당 송기헌 vs 국민의힘 김완섭 접전...전방...",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307046"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:10:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304872"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:38:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689322?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:15:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=304857"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:12:00 +0900",
+                "title": "춘천 60대 유권자 8000명 늘었다⋯노년층 급증, 총선 변수될까",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89887"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:08:00 +0900",
+                "title": "원주 을 접전…춘천 을·속인고양·홍횡영평 국힘 우세",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069905?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": " 매니페스토 실천 전국 모범되는 정책선거 치르자 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069887?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:07:00 +0900",
+                "title": "한기호 50%·전성 32%, 2030 부동층 도 최다",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069879?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:06:00 +0900",
+                "title": "도청 신청사 부지 토지보상 5월 본격화",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069861?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:05:00 +0900",
+                "title": "원주을 與野 치열…‘춘-철-화-양을’ ‘홍-횡-영-평’ 현역 우세",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034397?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 00:03:00 +0900",
+                "title": "한기호 모든 시·군 선두…전성 40대 높은 지지",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034389?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 23:31:00 +0900",
+                "title": "[총선/여론조사]⑤ ‘춘천 을’, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689192?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:37:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689070?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:03:00 +0900",
+                "title": "[선택 4·10총선]접경지역 고려한 개발, 농업, 상권, 교통망 공약 제시",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034368?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:30:00 +0900",
+                "title": "&lt;여론&gt;춘철화양 을, 한기호 오차범위 밖 우세",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304844"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:23:00 +0900",
+                "title": "[자막뉴스] 4·10 총선 매니페스토 협약식 열려",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069834?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:59:00 +0900",
+                "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688878?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "[총선여론조사] 원주을 접전… 춘천을, 홍·횡·영·평, 속·인·고·양 국힘...",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069831?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:06:00 +0900",
+                "title": "[여론조사:춘천 을] 전성 32%, 한기호 50%..'오차범위 밖 우세'",
+                "link": "https://chmbc.co.kr/article/-F7jWSb7Yq3F1n-KOFIVnQ"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:45:00 +0900",
+                "title": "[강원 춘천철원화천양구을] 국민의힘 한기호 50%, 더불어민주당 전성 32%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427519?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:42:00 +0900",
+                "title": "춘천을, 한기호 50%·전성 32%·이호범 2%",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89892"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:28:00 +0900",
+                "title": "속초인제고성양양 '이양수 47% VS 김도균 38%'",
+                "link": "https://www.mbceg.co.kr/post/113986"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:26:00 +0900",
+                "title": "[여론조사:춘천 을] 전성 32%, 한기호 50%..'오차범위 밖 우세'",
+                "link": "https://chmbc.co.kr/article/zjkY6cfWVPWNR"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:12:00 +0900",
+                "title": "[5시 리포트]국회의원 선거 후보자 여론조사 결과 공개",
+                "link": "https://chmbc.co.kr/article/UktQBsGQDMVji6OJqSy4"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:03:00 +0900",
+                "title": "[여론조사 종합] ‘송기헌-김완섭’ 오차범위 접전···‘춘-철-화-양을’ ‘...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034273?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:02:00 +0900",
+                "title": "[여론조사-춘철화양 을] 전성 32% vs 한기호 50% vs 이호범 2%",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034271?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:00:00 +0900",
+                "title": "춘천을 전성 32%, 한기호 50% [4·10 총선 여론조사]",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069805?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:00:00 +0900",
+                "title": "원주을 오차범위 접전… 춘천을, 홍·횡·영·평, 속·인·고·양 국힘 우세 ...",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069806?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:13:00 +0900",
+                "title": "이호범 무소속 후보  강원도청사 이전 재논의해야 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878023?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 01:02:00 +0900",
+                "title": "[선택 4·10총선] 춘천-철원-화천-양구 을 총선 후보들 ‘성장 동력 확보해 지...",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034122?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 01:02:00 +0900",
+                "title": "[총선톡톡]이호범 후보 “도청사 이전 재논의 시급”",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034121?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 00:07:00 +0900",
+                "title": "[4·10 총선 발언대] 이호범  도청사 고은리 이전 재논의를 ",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069725?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:03:00 +0900",
+                "title": "[선택 4·10총선] 접경지역 철원 '맞춤형 공약'으로 승부",
+                "link": "https://n.news.naver.com/mnews/article/087/0001034084?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:06:00 +0900",
+                "title": "이호범 후보, 강원도청사 이전 재논의 촉구",
+                "link": "https://chmbc.co.kr/article/_iUULIz9CHlPQR5eDt"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:44:00 +0900",
+                "title": "이호범 무소속 후보  강원도청 신청사 고은리 이전, 재논의 필요 ",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89851"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 12:48:00 +0900",
+                "title": "양구군 총선·도의원·군의원 선거 대진표 완성 본격 레이스",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847805"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:10:00 +0900",
+                "title": "'이곳' 이기면 100% 당선⋯춘천 갑·을 총선 최대 승부처는?",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89763"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:44:00 +0900",
+                "title": " 검찰 독재 바로 세워야  vs  힘있는 여당 4선 의원 ",
+                "link": "https://n.news.naver.com/mnews/article/087/0001033803?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:28:00 +0900",
+                "title": "22대 국회의원 선거 강원 8개 선거구 21명 후보 등록[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160682?sid=102"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:44:00 +0900",
+                "title": "[총선] 국회의원 후보 평균 재산 18억 원…김혜란 57억 원 최대",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687295?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:38:00 +0900",
+                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687106?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:16:00 +0900",
+                "title": "[2대 총선] 강원 8개 선거구 21명 후보등록…1.90대 1 경쟁률",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200345.html"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:44:00 +0900",
+                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686996?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:48:00 +0900",
+                "title": "강원 총선 후보자 절반 이상 10억 이상 재산 신고",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583406?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:32:00 +0900",
+                "title": "제22대 총선, 춘천시철원군화천군양구군을 선거구 후보군",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583391?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 강원(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583361?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:45:00 +0900",
+                "title": "강원 여성 후보 2명 출사표…'윤핵관' 권성동 후보는 5선 도전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583344?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:33:00 +0900",
+                "title": "강원 총선 대진표 확정…평균 경쟁률 2.6:1",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686907?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:24:00 +0900",
+                "title": "[4·10총선 후보자 등록] 강원",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430839?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:56:00 +0900",
+                "title": "강원도 8개 선거구 21명 등록..대진표 확정",
+                "link": "https://chmbc.co.kr/article/CawIVBYifPcnKW"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:39:00 +0900",
+                "title": "국힘 춘천갑 김혜란 재산 신고액 '57억' 강원 후보자 중 가장 많아",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876905?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:10:00 +0900",
+                "title": "4·10 총선 본선 강원권 여야 등 후보 총 22명 전망",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876816?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:08:00 +0900",
+                "title": "강원 본선주자 22명 '지역일꾼론' 앞세워 본격 표대결",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069445?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:01:00 +0900",
+                "title": "[포토뉴스] 제22대 국회의원 선거 본격 레이스 시작",
+                "link": "https://n.news.naver.com/mnews/article/087/0001033483?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:23:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 강원(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580685?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:10:00 +0900",
+                "title": "후보 등록 첫날 여야 일제히 출사표…선거 열기 고조",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460444"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:58:00 +0900",
+                "title": "무소속 이호범, 춘천·철원·화천·양구을 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069363?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 07:39:00 +0900",
+                "title": "[총선] 춘천을, 전성 “특별한 보상”…한기호 “민간군사기업”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685671?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+                "title": "총선 후보자 등록 시작⋯춘천 후보자들  시간 부족, 마음 급해 ",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89730"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 23:53:00 +0900",
+                "title": "[총선] ‘춘천 을’ 전성 “특별한 보상”…한기호 “민간군사기업”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685494?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 21:43:00 +0900",
+                "title": "[총선] 춘천을, 전성 “특별한 보상”…한기호 “민간군사기업”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685368?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:24:00 +0900",
+                "title": "[총선] 춘천을, 전성 “특별한 보상”…한기호 “민간군사기업”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011685233?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:48:00 +0900",
+                "title": "[22대 총선 대진표] ⑥강원·제주…집토끼 단속 먼저! 텃밭을 지켜라",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468928"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 00:07:00 +0900",
+                "title": "[AI·빅데이터로 본 총선] 후보 긍정키워드에 '승리 공식' 숨어있다",
+                "link": "https://n.news.naver.com/mnews/article/654/0000069148?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:40:00 +0900",
+                "title": "4·10 총선 강원도 후보군 평균 연령 57세, 40대 이하·여성 진입 장벽 높아",
+                "link": "https://www.mbceg.co.kr/post/113778"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:31:00 +0900",
+                "title": "춘천·철원·화천·양구 갑·을, '중진' vs '새인물' 본격 대결[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005157158?sid=102"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 17:08:00 +0900",
+                "title": "춘천갑·을 예비후보들, 주말 맞아 축구장·5일장·경로당 돌며 민심 속으로",
+                "link": "https://n.news.naver.com/mnews/article/654/0000068795?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 00:02:00 +0900",
+                "title": " 소음 없는 선거 어때요?  춘천 무소속 후보의 이색 제안",
+                "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89578"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 10:27:00 +0900",
+                "title": "강원 8개 선거구 대진표 확정…핵심 승부처 원주·춘천 불꽃경쟁 예고",
+                "link": "https://n.news.naver.com/mnews/article/003/0012428480?sid=102"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 07:38:00 +0900",
+                "title": "[총선] 춘천 을, 후보 3명…“4선 중진” vs “새 인물”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681690?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 01:01:00 +0900",
+                "title": "[총선톡톡] 이호범 예비후보 “유세차 소음 없는 선거 치르자”",
+                "link": "https://n.news.naver.com/mnews/article/087/0001032086?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 00:06:00 +0900",
+                "title": "[4·10 총선 발언대] 이호범 춘천을 예비후보  소음유발 유세차 없애자  제안",
+                "link": "https://n.news.naver.com/mnews/article/654/0000068690?sid=102"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 23:37:00 +0900",
+                "title": "[총선] ‘춘천 을’, 후보 3명…“4선 중진” vs “새 인물”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681581?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:59:00 +0900",
+                "title": "[총선] 춘천·철원·화천·양구 을, 후보 3명…“4선 중진” vs “새 인물”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681508?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 19:16:00 +0900",
+                "title": "[총선] 춘천·철원·화천·양구 을, 후보 3명…“4선 중진” vs “새 인물”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681355?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 16:58:00 +0900",
+                "title": "'춘천을' 무소속 이호범 예비후보, '소음 없는 선거' 제안",
+                "link": "https://n.news.naver.com/mnews/article/001/0014564199?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 10:10:00 +0900",
+                "title": "&lt;총선.5&gt;춘천철원화천양구 을,  복합선거구 민심 관건",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_4&newsid=304135"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "이호범",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -12964
+            }
+        ],
+        "huboid": "100152805",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100152805/junkwa/20240221114511927_1.PDF"
+    }
 ]

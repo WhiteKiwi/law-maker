@@ -1,113 +1,1067 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-1.jpg",
-    "id": "2480301-1",
-    "재산": 923783,
-    "생년월일": "19640825",
-    "경력": "(현)더불어민주당 진주시갑 지역위원장\n(전)더불어민주당 진주시장 후보",
-    "학력": "고려대학교 대학원 정치외교학과 박사과정 졸업(정치학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2480301",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[총선후보 TV 토론회- 진주갑] 2차 공공기관 이전·공약이행 두고 설전",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429104"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:28:00 +0900",
-        "title": "[총선 D-9] 진주갑 TV 토론, 공공기관 채용·공약 이행 두고 설전",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603750?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:24:00 +0900",
-        "title": "경남 야권 '더 큰 연대' 창원 의창 민주당 김지수 후보 뒷심 타나",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907840"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:20:00 +0900",
-        "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:10:00 +0900",
-        "title": "[방송토론] 진주 갑, 남부내륙철도·공약이행률 두고 열띤 공방",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907836"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "갈상돈",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 923783
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-2.jpg",
-    "id": "2480301-2",
-    "재산": 2081164,
-    "생년월일": "19610318",
-    "경력": "(현)제21대 국회의원(진주시갑선거구)\n(전)국민의힘 정책위원회 의장",
-    "학력": "연세대학교 행정대학원 외교안보전공 석사과정 졸업",
-    "직업": "제21대 국회의원",
-    "성별": "남",
-    "id_21th": "777",
-    "regionId": "2480301",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:40:00 +0900",
-        "title": "[총선후보 TV 토론회- 진주갑] 2차 공공기관 이전·공약이행 두고 설전",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429104"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:28:00 +0900",
-        "title": "[총선 D-9] 진주갑 TV 토론, 공공기관 채용·공약 이행 두고 설전",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603750?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:20:00 +0900",
-        "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:10:00 +0900",
-        "title": "[방송토론] 진주 갑, 남부내륙철도·공약이행률 두고 열띤 공방",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907836"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:30:00 +0900",
-        "title": "[총선 D-8]'보수 불패' 서부경남, 이번에는 달라질까",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=410620"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박대출",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1322148
-      },
-      {
-        "연도": 2021,
-        "재산": 1767806
-      },
-      {
-        "연도": 2022,
-        "재산": 1894744
-      },
-      {
-        "연도": 2023,
-        "재산": 2081164
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-1.jpg",
+        "id": "2480301-1",
+        "재산": 923783,
+        "생년월일": "19640825",
+        "경력": "(현)더불어민주당 진주시갑 지역위원장\n(전)더불어민주당 진주시장 후보",
+        "학력": "고려대학교 대학원 정치외교학과 박사과정 졸업(정치학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2480301",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "진주갑 TV 토론, 공공기관 채용·공약 이행 격돌",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388474"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:45:00 +0900",
+                "title": "금속노조 경남지부는 여영국, 한국노총 서부지부는 민주당 지지",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428576?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:29:00 +0900",
+                "title": "[총선 브리핑]진주갑 TV토론…공공기관 채용·공약 이행 등 놓고 설전",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263244?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:16:00 +0900",
+                "title": "'경남 진주갑' 민주 갈상돈·국힘 박대출 후보 공약 비교",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880873?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:10:00 +0900",
+                "title": "'비주류 잠룡' 임종석·유승민, 총선 지원사격 온힘",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84594"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "제22대 국회의원 선거 진주(갑) 후보자 토론회",
+                "link": "http://www.dandinews.com/news/articleView.html?idxno=13293"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:07:00 +0900",
+                "title": "총선 진주갑 TV토론, 남부내륙철도 개통 지연 놓고 ‘설전’",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464901?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 01:12:00 +0900",
+                "title": "진주갑 TV토론, 남부내륙철도 개통 지연 놓고 '설전'",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549601"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[총선후보 TV 토론회- 진주갑] 2차 공공기관 이전·공약이행 두고 설전",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:28:00 +0900",
+                "title": "[총선 D-9] 진주갑 TV 토론, 공공기관 채용·공약 이행 두고 설전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603750?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:24:00 +0900",
+                "title": "경남 야권 '더 큰 연대' 창원 의창 민주당 김지수 후보 뒷심 타나",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907840"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:20:00 +0900",
+                "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:10:00 +0900",
+                "title": "[방송토론] 진주 갑, 남부내륙철도·공약이행률 두고 열띤 공방",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907836"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:30:00 +0900",
+                "title": "[총선 D-8]'보수 불패' 서부경남, 이번에는 달라질까",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410620"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:44:00 +0900",
+                "title": "총선 D-8, 진주갑·을 후보자들 '표심 잡기' 총력전",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388271"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:11:00 +0900",
+                "title": "[총선 D-9]'보수 불패' 서부경남, 이번에는 달라질까…무소속 변수 관심",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601365?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+                "title": " 윤 정권에 회초리 필요 · 민주당 200석 막아달라 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549484"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:44:00 +0900",
+                "title": "경남 민주-진보 후보단일화 후속 '선거운동 연대' 윤석열 심판 키운다",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907722"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:53:00 +0900",
+                "title": "체육행사장·광미사거리…진주갑 후보들 표밭갈이[4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461389?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:13:00 +0900",
+                "title": "임종석  보수가 볼 때도 이 정권은 너무 창피, 심판해야 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428118?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:36:00 +0900",
+                "title": "민주당 진주갑 갈상돈 후보 선거대책위 출범식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459863?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:19:00 +0900",
+                "title": "임종석  문 전 대통령도 정권심판 바람 다른 것 같다 해 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428013?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "경남 16개 지역구 총선 후보 37명 선거운동 돌입",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387900"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:54:00 +0900",
+                "title": "[사진] 임종석, 거제 찾아 변광용 후보와 '출근인사",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427987?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:52:00 +0900",
+                "title": "[지역현안 돋보기] (6) 진주시갑- 우주항공산업 발전 전략",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428898"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:14:00 +0900",
+                "title": "[후보공약 디다보기] 진주 갑 갈상돈 '남부내륙철도' - 박대출 '우주항공복합...",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907574"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:58:00 +0900",
+                "title": "박대출  중단없는 진주도약  VS 갈상돈  시민 섬기는 민생정치 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456571?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:29:00 +0900",
+                "title": "박대출  더 강한 힘으로 진주 발전 ·갈상돈  시민 섬기는 민생 정치 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441905?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 05:00:00 +0900",
+                "title": "수도권 GTX를 충청까지? 공약 건 후보  기대감 줘야 이긴다  [지역후보 508명...",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350087?sid=101"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:28:00 +0900",
+                "title": "더불어민주당 경남도당 총선 선대위 구성",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549133"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:08:00 +0900",
+                "title": "김두관  창원성산, 온전한 야권단일화 노력 끝까지 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427476?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:56:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑪]한반도 평화 위한 방안은",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907154"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:42:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548919"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387177"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:42:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑩] 후쿠시마 오염수 방류 대책",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907028"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+                "title": "진주시사회복지정책연대, 제22대 국회의원 선거 후보자 초청토론회",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1023509"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:34:00 +0900",
+                "title": "진주시사회복지정책연대, 진주갑 더불어민주당 갈상돈 후보자 초청 토론회",
+                "link": "http://www.breaknews.com/1022750"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:50:00 +0900",
+                "title": "경남도 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "https://www.tfmedia.co.kr/news/article.html?no=160370"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:26:00 +0900",
+                "title": "4·10 총선 후보 등록 마감, 경남 16개 선거구에 37명 등록",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548795"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 경남 지역구 37명 등록…11곳 ‘양자 대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687011?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:36:00 +0900",
+                "title": "경남 총선 후보 재산 1위는 국힘 강기윤 '120억'…납세액도 최다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430848?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583309?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:28:00 +0900",
+                "title": "[4·10총선 후보 등록] 경남 16개 선거구 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445398?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "경남 총선 출마자 37명 후보 등록자 명단",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430747?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:52:00 +0900",
+                "title": "경남 총선 후보 납세 최고액은 국힘 강기윤…1억 이상 9명",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583037?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:14:00 +0900",
+                "title": "진주시사회복지정책연대, '제22대 국회의원 선거 후보자 초청토론회' 개최",
+                "link": "http://www.breaknews.com/1022542"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:24:00 +0900",
+                "title": " 후보 등록하러 왔습니다  진주갑을 5인 등록 완료",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548792"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[후보 등록 이모저모] “깨끗하고 공정한 선거 펼치겠다” 한목소리로 다짐",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428373"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:00:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자 (3월 21일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460467"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581034?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:18:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580929?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:45:00 +0900",
+                "title": "[총선돋보기-진주] 제22대 국회의원 선거 진주시 후보자들의 사회복지관",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2104891"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:58:00 +0900",
+                "title": "진주시 제22대 국회의원 선거 후보자 초청토론회 개최",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409004"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:20:00 +0900",
+                "title": "경남 16개 선거구 후보 등록 시작…선거전 본격화",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387013"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 11:42:00 +0900",
+                "title": "비례 공천 끝낸 野, 지역구 '단일화'···'정권 심판' 화력 집중",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1103837"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:22:00 +0900",
+                "title": "&lt;선택 2024&gt; 진주갑 야권 단일 후보 vs 현역 중진 맞대결",
+                "link": "https://news.knn.co.kr/news/article/154581"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:54:00 +0900",
+                "title": "野 민주 중심으로 속속 단일화…커지는 진보당 존재감",
+                "link": "https://n.news.naver.com/mnews/article/421/0007425129?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:58:00 +0900",
+                "title": "경남 야권단일후보들  거부권에 막힌 개혁법안 다시 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426636?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:12:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 20일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460117"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 21:50:00 +0900",
+                "title": "김지수·갈상돈  진보당과 원팀으로 승리할 것 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548499"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:36:00 +0900",
+                "title": "민주-진보 ‘단일화’…부산 연제만 빼고 민주당 석권",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261052?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:30:00 +0900",
+                "title": "민주-진보 '지역구 단일화' 결론은 대부분 민주당",
+                "link": "https://n.news.naver.com/mnews/article/001/0014574629?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:52:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑦] 정치개혁 방안",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906652"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:46:00 +0900",
+                "title": "갈상돈 진주갑 후보, “각계각층이 행복한 진주 만들 것”",
+                "link": "http://www.sentv.co.kr/news/view/682019"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:58:00 +0900",
+                "title": "진주갑 갈상돈  진주 야권후보 단일화로 총선승리  다짐",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906656"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:10:00 +0900",
+                "title": "갈상돈 야권 단일후보 확정... 총선승리 이뤄낼 것 ",
+                "link": "http://www.kukinews.com/newsView/kuk202403190232"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:44:00 +0900",
+                "title": "더불어민주당, 진주갑 진보당 야권단일후보 확정",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428143"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:19:00 +0900",
+                "title": "단일화 경쟁 류재수, 민주당 진주갑 공동선대위원장에",
+                "link": "https://n.news.naver.com/mnews/article/003/0012436537?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:51:00 +0900",
+                "title": "진주갑 최구식 무소속 출마 포기…국힘 박대출 vs 민주당 갈상돈 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/421/0007421179?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:42:00 +0900",
+                "title": "[경남] 민주당-진보당 야권단일화 확정... '윤석열 정부 심판'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426429?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:34:00 +0900",
+                "title": "민주-진보 단일후보 갈상돈  윤석열 독재 심판 ",
+                "link": "http://www.dandinews.com/news/articleView.html?idxno=13248"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:58:00 +0900",
+                "title": "진주갑 민주당 갈상돈, 단일화 경쟁한 진보당 류재수 선대위원장 선정",
+                "link": "https://n.news.naver.com/mnews/article/421/0007420687?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 10:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 19일 화요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459929"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 06:40:00 +0900",
+                "title": "22대 총선, 더불어민주당∙진보당 경남도당 경선지역 야권단일후보 확정",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555372"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:10:00 +0900",
+                "title": "경남 총선 '기세등등' 진보당 퇴장…녹색정의당 다시 '존재감'",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906565"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:36:00 +0900",
+                "title": "야권단일후보 진주 갈상돈, 의창 김지수",
+                "link": "https://news.knn.co.kr/news/article/154431"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:44:00 +0900",
+                "title": "[보도국 지금] 선거 대진표 '확정'…이번 주 정식 후보 등록 시작",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459831"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:34:00 +0900",
+                "title": "진주갑 야권 갈상돈 단일화…국힘 박대출과 2파전",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386434"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 15:12:00 +0900",
+                "title": "창원의창 김지수·진주갑 갈상돈 야권 단일후보 확정",
+                "link": "https://n.news.naver.com/mnews/article/277/0005393591?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:07:00 +0900",
+                "title": "제22대 총선, 진주갑 야권 단일후보 민주당 갈상돈",
+                "link": "https://n.news.naver.com/mnews/article/658/0000068893?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:44:00 +0900",
+                "title": "진주갑 민주당 갈상돈 야권 단일 후보 결정…진보당 류재수 사퇴",
+                "link": "https://n.news.naver.com/mnews/article/421/0007417434?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:39:00 +0900",
+                "title": "창원 의창 김지수·진주 갑 갈상돈 야권 단일 후보로 확정",
+                "link": "https://n.news.naver.com/mnews/article/079/0003874740?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 18일 월요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459721"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 07:56:00 +0900",
+                "title": "[총선] 창원의창·진주갑, 민주당 후보로 단일화",
+                "link": "https://n.news.naver.com/mnews/article/056/0011682937?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 07:19:00 +0900",
+                "title": "제22대 총선, 진주갑 야권 갈상돈으로 단일화…3파전 예상",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432210?sid=165"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:28:00 +0900",
+                "title": "[총선] 창원의창·진주갑, 민주당 후보로 단일화",
+                "link": "https://n.news.naver.com/mnews/article/056/0011682775?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:52:00 +0900",
+                "title": "창원 의창 김지수·진주 갑 갈상돈 야권 단일 후보로",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906476"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:52:00 +0900",
+                "title": "진주갑 야권 갈상돈으로 단일화…국힘 박대출과 2파전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014569102?sid=102"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:04:00 +0900",
+                "title": "'이런 인연' 후원회장들…총선 출마자 '뒷배' 누구",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906469"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:24:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑤] 의료격차 해소 방안",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906460"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 19:58:00 +0900",
+                "title": "부산연제 이변에 창원의창-진주갑, 야권단일후보 결과는?",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426051?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 09:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 15일 금요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459528"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 21:40:00 +0900",
+                "title": "[총선] ‘단일화’ 진보당 후보 6명 사퇴…진주 을 김병규 ‘무소속 출마’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681429?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 19:14:00 +0900",
+                "title": "[총선] ‘단일화’ 진보당 후보 6명 사퇴…진주 을 김병규 ‘무소속 출마’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011681331?sid=100"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "갈상돈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 923783
+            }
+        ],
+        "huboid": "100151422",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4803/Hb100151422/junkwa/20231212172900286_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-2.jpg",
+        "id": "2480301-2",
+        "재산": 2081164,
+        "생년월일": "19610318",
+        "경력": "(현)제21대 국회의원(진주시갑선거구)\n(전)국민의힘 정책위원회 의장",
+        "학력": "연세대학교 행정대학원 외교안보전공 석사과정 졸업",
+        "직업": "제21대 국회의원",
+        "성별": "남",
+        "id_21th": "777",
+        "regionId": "2480301",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+                "title": "[방송토론] 진주을, 가족 갑질 의혹·부실 공약 두고 공방",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907950"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "진주갑 TV 토론, 공공기관 채용·공약 이행 격돌",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388474"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:23:00 +0900",
+                "title": "진주시을 후보들, TV토론서 항공우주청지원 특별법 '난타전'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466900?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:58:00 +0900",
+                "title": "[4.10총선-209] 경남 진주갑, 갈상돈vs박대출. 박대출 아성",
+                "link": "http://www.mhj21.com/160267"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:29:00 +0900",
+                "title": "[총선 브리핑]진주갑 TV토론…공공기관 채용·공약 이행 등 놓고 설전",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263244?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:16:00 +0900",
+                "title": "'경남 진주갑' 민주 갈상돈·국힘 박대출 후보 공약 비교",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880873?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "제22대 국회의원 선거 진주(갑) 후보자 토론회",
+                "link": "http://www.dandinews.com/news/articleView.html?idxno=13293"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:07:00 +0900",
+                "title": "총선 진주갑 TV토론, 남부내륙철도 개통 지연 놓고 ‘설전’",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464901?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:40:00 +0900",
+                "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 01:12:00 +0900",
+                "title": "진주갑 TV토론, 남부내륙철도 개통 지연 놓고 '설전'",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549601"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:40:00 +0900",
+                "title": "[총선후보 TV 토론회- 진주갑] 2차 공공기관 이전·공약이행 두고 설전",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:28:00 +0900",
+                "title": "[총선 D-9] 진주갑 TV 토론, 공공기관 채용·공약 이행 두고 설전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603750?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:20:00 +0900",
+                "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:10:00 +0900",
+                "title": "[방송토론] 진주 갑, 남부내륙철도·공약이행률 두고 열띤 공방",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907836"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:30:00 +0900",
+                "title": "[총선 D-8]'보수 불패' 서부경남, 이번에는 달라질까",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=410620"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:44:00 +0900",
+                "title": "총선 D-8, 진주갑·을 후보자들 '표심 잡기' 총력전",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388271"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:11:00 +0900",
+                "title": "[총선 D-9]'보수 불패' 서부경남, 이번에는 달라질까…무소속 변수 관심",
+                "link": "https://n.news.naver.com/mnews/article/001/0014601365?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+                "title": "[지역현안 돋보기] (8) 사천남해하동- 우주항공복합도시 건설·정주여건 개선...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429002"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:53:00 +0900",
+                "title": "체육행사장·광미사거리…진주갑 후보들 표밭갈이[4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461389?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:15:00 +0900",
+                "title": "[2024 총선 기획] 언론계 국회의원 배출 공식? 18~21대 KBS·MBC 17명",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123154?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "경남 16개 지역구 총선 후보 37명 선거운동 돌입",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387900"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:36:00 +0900",
+                "title": "경남 국회의원 13명, 임기 4년 동안 재산 늘어",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428925"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:52:00 +0900",
+                "title": "[지역현안 돋보기] (6) 진주시갑- 우주항공산업 발전 전략",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428898"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:14:00 +0900",
+                "title": "[후보공약 디다보기] 진주 갑 갈상돈 '남부내륙철도' - 박대출 '우주항공복합...",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907574"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:58:00 +0900",
+                "title": "박대출  중단없는 진주도약  VS 갈상돈  시민 섬기는 민생정치 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456571?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:29:00 +0900",
+                "title": "박대출  더 강한 힘으로 진주 발전 ·갈상돈  시민 섬기는 민생 정치 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441905?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:24:00 +0900",
+                "title": "[4·10 총선 인터뷰 : 경남④] 국민의힘 경남 진주시갑 박대출 후보를 만나다",
+                "link": "https://www.news2day.co.kr/article/20240327500140"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:32:00 +0900",
+                "title": "[총선르포]  특별법도 거부한 윤 대통령, 이태원 유족에겐 나라가 없어요 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427638?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:56:00 +0900",
+                "title": "총선 앞두고 금투세 후끈…개인투자자  尹·韓 폐지론이 맞다 ",
+                "link": "https://biz.newdaily.co.kr/site/data/html/2024/03/27/2024032700088.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 22:06:00 +0900",
+                "title": "민주·국힘 경남도당, 선대위 구성 완료",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=537897"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:50:00 +0900",
+                "title": "국민의힘 경남도당, 22대 총선 선대위 구성",
+                "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/26/2024032600298.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+                "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+                "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 06:30:00 +0900",
+                "title": "총선 앞두고 '금투세 폐지' 재점화...법제화는 먼 얘기",
+                "link": "http://www.ezyeconomy.com/news/articleView.html?idxno=131406"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 01:36:00 +0900",
+                "title": "[사설]총선 후보 핵오염수 방류 대책 꼼꼼히 살펴보자",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907186"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 01:12:00 +0900",
+                "title": "국민의힘 경남도당, 총선 선거대책위 구성",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549045"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 22:22:00 +0900",
+                "title": "국힘 경남도당, 선거대책위 구성 '총선 체제'",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=537806"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:24:00 +0900",
+                "title": "국힘 도당, 총선 경남선대위 출범",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428599"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:56:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑪]한반도 평화 위한 방안은",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907154"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:50:00 +0900",
+                "title": "정책 특별위원회 신설…국민의힘 경남선거대책위원회 출범",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:04:00 +0900",
+                "title": "국민의힘 경남도당, 제22대 국회의원선거 경남선거대책위원회 출범",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409446"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:44:00 +0900",
+                "title": "국민의힘 경남도당, 총선 체제 전환…선거대책위 구성",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387367"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:34:00 +0900",
+                "title": "국민의힘 경남도당, 경남선거대책위원회 출범",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460759"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:47:00 +0900",
+                "title": "국민의힘 경남도당, 제22대 총선 경남선거대책위원회 출범",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276071?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:08:00 +0900",
+                "title": "국민 희망의 길 경남선대위 출범… 국민의 봄 만들겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877674?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:08:00 +0900",
+                "title": "국민의힘 경남도당, 제22대 국회의원선거 '경남선거대책위원회' 출범",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557050"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:57:00 +0900",
+                "title": "국민의힘 경남도당, 총선 체제 전환…선거대책위 구성",
+                "link": "https://n.news.naver.com/mnews/article/001/0014586930?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:47:00 +0900",
+                "title": "[경남] 국민의힘 선거대책위 출범 ... 20여개 특위 구성",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427274?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:46:00 +0900",
+                "title": "국민의힘 경남도당, 총선 경남선대위 새롭게 구성",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448634?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:42:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑩] 후쿠시마 오염수 방류 대책",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907028"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "'재산 신고 최고액 120억 원' 경남 총선 후보자는",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907033"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:44:00 +0900",
+                "title": "진주시사회복지정책연대, 제22대 국회의원 선거 후보자 초청토론회",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1023509"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:22:00 +0900",
+                "title": "한동훈 ‘금투세 폐지’ 새 카드로 총선 승리 도모",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225673"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:34:00 +0900",
+                "title": "진주시사회복지정책연대, 진주갑 국민의힘 박대출 후보자 초청 토론회",
+                "link": "http://www.breaknews.com/1022749"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:26:00 +0900",
+                "title": "4·10 총선 후보 등록 마감, 경남 16개 선거구에 37명 등록",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548795"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 경남 지역구 37명 등록…11곳 ‘양자 대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687011?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583309?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:28:00 +0900",
+                "title": "[4·10총선 후보 등록] 경남 16개 선거구 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445398?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "경남 총선 출마자 37명 후보 등록자 명단",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430747?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:00:00 +0900",
+                "title": "“금투세는 부자감세”라며…국힘 지지 선언한 개미들 왜",
+                "link": "https://n.news.naver.com/mnews/article/011/0004316946?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:14:00 +0900",
+                "title": "진주시사회복지정책연대, '제22대 국회의원 선거 후보자 초청토론회' 개최",
+                "link": "http://www.breaknews.com/1022542"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:24:00 +0900",
+                "title": "도내 총선 도전자 36명 첫 날 후보 등록 완료",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548791"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:24:00 +0900",
+                "title": " 후보 등록하러 왔습니다  진주갑을 5인 등록 완료",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548792"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[후보 등록 이모저모] “깨끗하고 공정한 선거 펼치겠다” 한목소리로 다짐",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428373"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:00:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자 (3월 21일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460467"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581034?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:18:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580929?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:45:00 +0900",
+                "title": "[총선돋보기-진주] 제22대 국회의원 선거 진주시 후보자들의 사회복지관",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2104891"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:58:00 +0900",
+                "title": "진주시 제22대 국회의원 선거 후보자 초청토론회 개최",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409004"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:20:00 +0900",
+                "title": "경남 16개 선거구 후보 등록 시작…선거전 본격화",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387013"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:47:00 +0900",
+                "title": "이종섭 때문에 덩달아 온 5개국 대사는 뭔 죄 [3월21일 뉴스뷰리핑]",
+                "link": "https://n.news.naver.com/mnews/article/028/0002681820?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:22:00 +0900",
+                "title": "&lt;선택 2024&gt; 진주갑 야권 단일 후보 vs 현역 중진 맞대결",
+                "link": "https://news.knn.co.kr/news/article/154581"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:52:00 +0900",
+                "title": "21대 국회 '나쁜 법안' 살펴보니",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220571"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:08:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑧] 헌법 개정",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906787"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:12:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 20일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460117"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 21:50:00 +0900",
+                "title": "김지수·갈상돈  진보당과 원팀으로 승리할 것 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548499"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:52:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑦] 정치개혁 방안",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906652"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:53:00 +0900",
+                "title": "진주갑 민주 갈상돈  야권단일후보로 총선승리 이뤄낼 것 ",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386604"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:10:00 +0900",
+                "title": "갈상돈 야권 단일후보 확정... 총선승리 이뤄낼 것 ",
+                "link": "http://www.kukinews.com/newsView/kuk202403190232"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:51:00 +0900",
+                "title": "진주갑 최구식 무소속 출마 포기…국힘 박대출 vs 민주당 갈상돈 맞대결",
+                "link": "https://n.news.naver.com/mnews/article/421/0007421179?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:34:00 +0900",
+                "title": "민주-진보 단일후보 갈상돈  윤석열 독재 심판 ",
+                "link": "http://www.dandinews.com/news/articleView.html?idxno=13248"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 10:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 19일 화요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459929"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 09:09:00 +0900",
+                "title": "윤-한 ‘2차 충돌’인가, ‘2차 약속 대련’인가? [3월19일 뉴스뷰리핑]",
+                "link": "https://n.news.naver.com/mnews/article/028/0002681488?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 08:38:00 +0900",
+                "title": "[세미콜론] '세법심사의 최전선' 국회 기재위원들의 공천장은?…본선 진출은 ...",
+                "link": "https://www.sejungilbo.com/news/articleView.html?idxno=47341"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:52:00 +0900",
+                "title": "박대출 4선 도전…갈상돈  이번엔 교체 ",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548427"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:44:00 +0900",
+                "title": "강민국 후보, 선거사무소 개소식",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548351"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:41:00 +0900",
+                "title": "국힘 16석 싹쓸이 vs 민주 최대 8석 목표 ‘총력전’ [22대 총선 대진표 - 경...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001260816?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:20:00 +0900",
+                "title": "[총선돋보기-진주을] 강민국 의원, 22대 총선 선거사무소 개소식 성료",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2103216"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:34:00 +0900",
+                "title": "진주갑 야권 갈상돈 단일화…국힘 박대출과 2파전",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386434"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:07:00 +0900",
+                "title": "제22대 총선, 진주갑 야권 단일후보 민주당 갈상돈",
+                "link": "https://n.news.naver.com/mnews/article/658/0000068893?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:38:00 +0900",
+                "title": "국힘, 60대·친윤...민주, 50대·친명 전면에",
+                "link": "https://n.news.naver.com/mnews/article/016/0002281880?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 10:20:00 +0900",
+                "title": "공천은 끝났다…與 ‘60대·친윤’-野 ‘50대·친명’ 전면에 [이런정치]",
+                "link": "https://n.news.naver.com/mnews/article/016/0002281745?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:44:00 +0900",
+                "title": "진주갑 민주당 갈상돈 야권 단일 후보 결정…진보당 류재수 사퇴",
+                "link": "https://n.news.naver.com/mnews/article/421/0007417434?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:39:00 +0900",
+                "title": "창원 의창 김지수·진주 갑 갈상돈 야권 단일 후보로 확정",
+                "link": "https://n.news.naver.com/mnews/article/079/0003874740?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박대출",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1322148
+            },
+            {
+                "연도": 2021,
+                "재산": 1767806
+            },
+            {
+                "연도": 2022,
+                "재산": 1894744
+            },
+            {
+                "연도": 2023,
+                "재산": 2081164
+            }
+        ],
+        "huboid": "100152845",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4803/Hb100152845/junkwa/20240321154134997_8.PDF"
+    }
 ]

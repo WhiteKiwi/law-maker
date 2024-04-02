@@ -1,211 +1,1689 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-1.jpg",
-    "id": "2470601-1",
-    "재산": 1821987,
-    "생년월일": "19601007",
-    "경력": "(현) 국립안동대학교 경영학과 교수\n(현) 더불어민주당 지방소멸대응특별위원장",
-    "학력": "영남대학교 대학원 졸업(경영학 박사)",
-    "직업": "대학교수",
-    "성별": "남",
-    "regionId": "2470601",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:14:00 +0900",
-        "title": "안동·예천 민주 김상우  文·水 관광 황금시대 개막 ...문화관광 공약",
-        "link": "https://www.newspim.com/news/view/20240401001288"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:56:00 +0900",
-        "title": "김상우 안동예천 후보, '文·水 관광 황금시대 개막' 공약 발표",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005223"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-        "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:24:00 +0900",
-        "title": "예천·안동 민주당 김상우 후보 ''文·水 관광 황금시대 개막' 공약",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150631"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:50:00 +0900",
-        "title": "민주 김상우 후보, 안동·예천 '文·水 관광' 황금시대 개막 공약",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315447"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김상우",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1821987
-      }
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-2.jpg",
-    "id": "2470601-2",
-    "재산": 1474472,
-    "생년월일": "19750325",
-    "경력": "(현) 제21대 국회의원(안동시예천군)\n(현) 국민의힘 한동훈 비상대책위원장 비서실장",
-    "학력": "서울대학교 언론정보학과 졸업",
-    "직업": "제21대 국회의원(안동시예천군)",
-    "성별": "남",
-    "id_21th": "1139",
-    "regionId": "2470601",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "김형동  안동호 횡단교량(도산대교) 건설할 것 ",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436953"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:56:00 +0900",
-        "title": "김형동 안동예천 후보, '안동호 횡단교량 건설' 공약 발표",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005224"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:50:00 +0900",
-        "title": "김형동  안동댐 주민 교통권 확보 위해 안동호 횡단교량 추진 ",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544265"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-        "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:56:00 +0900",
-        "title": "[4·10 필드 속으로] 김형동 '안동호 횡단 교량(도산대교) 건설' 공약 발표",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000104"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김형동",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1308475
-      },
-      {
-        "연도": 2021,
-        "재산": 1492480
-      },
-      {
-        "연도": 2022,
-        "재산": 1563784
-      },
-      {
-        "연도": 2023,
-        "재산": 1474472
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-7.jpg",
-    "id": "2470601-7",
-    "재산": 401118,
-    "생년월일": "19671125",
-    "경력": "(현) 대구지방법원 상주지원 조정위원\n(전) 경상북도경찰청 외사자문협의회 간사",
-    "학력": "영남대학교 사법학과 졸업",
-    "직업": "법무사",
-    "성별": "남",
-    "regionId": "2470601",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-        "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:58:00 +0900",
-        "title": "[4.10총선-172] 안동·예천, 김상우vs김형동. 김형동 선거법 위반 파장",
-        "link": "http://www.mhj21.com/160219"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:36:00 +0900",
-        "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:02:00 +0900",
-        "title": "안동·예천 후보자 공약..'개발' 보다는 '베끼기?'",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69504"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:45:00 +0900",
-        "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
-        "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
-      }
-    ],
-    "정당": "자유통일당",
-    "이름": "김동훈",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 401118
-      }
-    ]
-  },
-  {
-    "전과건수": 3,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-8.jpg",
-    "id": "2470601-8",
-    "재산": 15000,
-    "생년월일": "19581205",
-    "경력": "(전) 영남일보 기자\n(현) 한국문화경제연구원 대표",
-    "학력": "중앙대학교 신문방송학과 졸업",
-    "직업": "정치인",
-    "성별": "남",
-    "regionId": "2470601",
-    "기호": 8,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:02:00 +0900",
-        "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
-        "link": "http://andongmbc.co.kr/adboard/NewsView69618"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:58:00 +0900",
-        "title": "[4.10총선-172] 안동·예천, 김상우vs김형동. 김형동 선거법 위반 파장",
-        "link": "http://www.mhj21.com/160219"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:20:00 +0900",
-        "title": "TK 전과자 '41%'...최고 자산은 110억",
-        "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185871"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 21:42:00 +0900",
-        "title": "TK 전과자 '41%'...최고 자산은 110억",
-        "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185855"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:36:00 +0900",
-        "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "김윤한",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 15000
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-1.jpg",
+        "id": "2470601-1",
+        "재산": 1821987,
+        "생년월일": "19601007",
+        "경력": "(현) 국립안동대학교 경영학과 교수\n(현) 더불어민주당 지방소멸대응특별위원장",
+        "학력": "영남대학교 대학원 졸업(경영학 박사)",
+        "직업": "대학교수",
+        "성별": "남",
+        "regionId": "2470601",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:34:00 +0900",
+                "title": "[열전현장] 안동·예천 선거구, 金배지 경쟁 '4金' 모두 '수변 관광 활성화' ...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455753"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+                "title": "더불어민주당 김상우 후보, 국민의힘 김형동 후보 TV토론회 격돌",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990812"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "[나는 후보자다]안동시·예천군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461912"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:40:00 +0900",
+                "title": "김상우  우수한 문화·수자원 활용 '文·水 관광 황금시대' 열겠다 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544417"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "[기후로운 투표생활] ⑩ 대구·경북 후보 74명 중 21명만 기후위기 공약",
+                "link": "https://www.newsmin.co.kr/news/101240/"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 필드 속으로] 김상우, '지역을 살리는 국가혁신 선도' 공약 발표",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000296"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+                "title": "[총선 현장] 민주당 안동예천 김상우 후보, 지역 살릴 국가혁신 공약 내놓아",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990639"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:07:00 +0900",
+                "title": "김상우 안동예천 후보,  점촌~안동 철도, 예천공항에 항공훈련센터  공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870532?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:38:00 +0900",
+                "title": "경북 안동·예천 민주당 김상우  지역 살리는 국가 혁신 선도 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277960?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:40:00 +0900",
+                "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
+                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:14:00 +0900",
+                "title": "안동·예천 민주 김상우  文·水 관광 황금시대 개막 ...문화관광 공약",
+                "link": "https://www.newspim.com/news/view/20240401001288"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": "김상우 안동예천 후보, '文·水 관광 황금시대 개막' 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005223"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:24:00 +0900",
+                "title": "예천·안동 민주당 김상우 후보 ''文·水 관광 황금시대 개막' 공약",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150631"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:50:00 +0900",
+                "title": "민주 김상우 후보, 안동·예천 '文·水 관광' 황금시대 개막 공약",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315447"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:10:00 +0900",
+                "title": "(4·10 총선 현장)민주당 김상우, 문화·수자원 관광 황금시대 공약",
+                "link": "https://www.idaegu.com/newsView/idg202404010024"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:32:00 +0900",
+                "title": "더불어민주당 김상우 후보 문화관광산업 공약 발표",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990452"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:01:00 +0900",
+                "title": "안동·예천 민주당 김상우 후보, '文·水 관광 황금시대 개막' 약속",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277654?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:44:00 +0900",
+                "title": "선거운동 TK 첫 주말 대전, 후보자들 지지 호소",
+                "link": "https://www.idaegu.com/newsView/idg202403310108"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:36:00 +0900",
+                "title": "[총선 현장] 더불어민주당 김상우 후보, 예천 내성천 찾아 故채상병 추모",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990323"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:08:00 +0900",
+                "title": "민주당 경북 후보자들 본 선거 돌입  바꿔야 한다 ",
+                "link": "http://www.breaknews.com/1024119"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:02:00 +0900",
+                "title": "민주 김상우 기자회견.. 선거법 위반 김형동 살아 있나? ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69585"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+                "title": "김상우  김형동, 안동예천보다 한동훈 비서실장 자리가 중요한가 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428079?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:16:00 +0900",
+                "title": "안동·예천 민주 김상우 후보  김형동 후보! 살아있나?... 사퇴 촉구 ",
+                "link": "https://www.newspim.com/news/view/20240329000549"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:06:00 +0900",
+                "title": "더불어민주당 안동예천 김상우 후보,  국힘 김형동 후보는 어디있나 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990207"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:04:00 +0900",
+                "title": "[총선 레이더] 김상우 후보,  김형동 후보, 살아 있니껴? ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869951?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:54:00 +0900",
+                "title": " 현역 의원이 뭐가 두려워 반칙하셨습니까 ... 김상우 후보, 김형동 사퇴 촉구",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325557?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:52:00 +0900",
+                "title": "김상우 민주당 안동·예천 후보, 김형동 후보 사퇴 촉구",
+                "link": "https://www.ekn.kr/web/view.php?key=20240329026575261"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:13:00 +0900",
+                "title": "경북 민주당, 출정식 열고 본격 유세전 돌입…‘민주당 선택 호소”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002287386?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:52:00 +0900",
+                "title": "더불어민주당 경북 후보들 잇단 출정식 '선거운동 돌입'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879325?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:34:00 +0900",
+                "title": "민주당 경북도당, 선거운동 첫날 출정식…'본격 선거운동' 돌입",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315230"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:24:00 +0900",
+                "title": "경북 민주당, 유세전 본격 개시…“‘입틀막’ 정권 심판”",
+                "link": "http://www.kukinews.com/newsView/kuk202403280180"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:56:00 +0900",
+                "title": "더불어민주당 경북 출마 후보들 본격 선거운동 돌입",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990090"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:26:00 +0900",
+                "title": " 안동·예천 교육 개혁·국가 혁신 이끌 후보는 김상우 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989989"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:40:00 +0900",
+                "title": "대학생·청년 1천111명, 김상우 안동예천 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869516?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:02:00 +0900",
+                "title": "안동·예천 지역 대학생 및 청년 1천111명 김상우 후보 지지 선언",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989865"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:36:00 +0900",
+                "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:02:00 +0900",
+                "title": "안동·예천 후보자 공약..'개발' 보다는 '베끼기?'",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69504"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:22:00 +0900",
+                "title": "안동·예천 소상공인 단체  민주 김상우 후보 지지 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989644"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:05:00 +0900",
+                "title": "이해식  시장·구청장 바뀌고 박원순 시장 정책 사라지고 있다 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427337?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:22:00 +0900",
+                "title": "(4·10 총선 현장) 안동·예천 13개 단체, 민주당 김상우 후보 지지 선언",
+                "link": "https://www.idaegu.com/newsView/idg202403250024"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:39:00 +0900",
+                "title": "13개 소상공인·자영업자 단체,  김상우 안동예천 후보 지지  선언",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869056?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:43:00 +0900",
+                "title": "13개 자영업자 단체, 민주 김상우 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877485?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 08:16:00 +0900",
+                "title": "안동·예천 13개 단체, 김상우 후보 지지 선언",
+                "link": "https://www.ekn.kr/web/view.php?key=20240325022501078"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:08:00 +0900",
+                "title": "이천수·엄홍길·조정래 “한표 주세요”...총선 뛰어든 후원회장 화려하네",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277195?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 11:00:00 +0900",
+                "title": "이재명, “후원금 팍팍”…험지·신인 후보 후원회장 맡아 ‘깨알’ 지원",
+                "link": "https://n.news.naver.com/mnews/article/009/0005277023?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427081"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:40:00 +0900",
+                "title": "[총선] 총선 후보 등록 마감…대구·경북은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686991?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:06:00 +0900",
+                "title": "총선 후보등록 마감…막 오른 선거전",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460553"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 13:02:00 +0900",
+                "title": "[12시]제22대 총선 후보자 등록 시작",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69480"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:58:00 +0900",
+                "title": "이재명 후원금 1시간만 마감… 후원회장 맡은 후보들 후원해달라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429665?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:53:00 +0900",
+                "title": "[총선 레이더]더불어민주당 김상우 후보 안동·예천 후보자 등록",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868697?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:53:00 +0900",
+                "title": "[총선 레이더]김형동, 안동·예천 국회의원 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868696?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:38:00 +0900",
+                "title": "[22대 총선 후보자 등록] 경북(21일 마감)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427047"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429087?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:49:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581019?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": " 안동·예천 도약  국힘 김형동·민주당 김상우 후보 등록",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989295"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "김형동 “더 낮은 자세로 지역민들 섬길 것 약속”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=473795"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:51:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580794?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:00:00 +0900",
+                "title": "김형동, 안동·예천 국회의원 후보 등록",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543267"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:06:00 +0900",
+                "title": "김상우, 안동·예천 민주당 후보 등록... 수도권 일극주의와 한판 승부 ",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004289"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:06:00 +0900",
+                "title": "김형동 의원, 안동·예천 선거구 후보 등록",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004283"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:56:00 +0900",
+                "title": "[선택4·10] 김형동·김상우  비방없는 선의의 경쟁 펼치기로 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1064937"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 10:08:00 +0900",
+                "title": "김상우 예비후보,  안동, 세계 문화수도로 만들 것 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149040"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:26:00 +0900",
+                "title": "안동 전통문화·선비정신 글로벌 콘텐츠로 육성",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989074"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:54:00 +0900",
+                "title": "김상우  수많은 정책발굴 경험으로 지역민의 자양분 될 것 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543137"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:16:00 +0900",
+                "title": "김상우 안동·예천 예비후보, 혁신 비전·안동 5대 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004197"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:02:00 +0900",
+                "title": "민주당 김상우  고발된 김형동 공천, 납득 어려워 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69431"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:08:00 +0900",
+                "title": "김상우 예비후보, 안동발전 5대 핵심공약 발표",
+                "link": "https://www.ekn.kr/web/view.php?key=20240320022158223"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:26:00 +0900",
+                "title": "민주당 김상우, 안동 발전 ‘5대 핵심 공약’ 내놔",
+                "link": "https://www.idaegu.com/newsView/idg202403200038"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:08:00 +0900",
+                "title": "‘김포구’ ‘동탄시’… 행정개편 논란 확산",
+                "link": "https://www.naeil.com/news/read/504891?ref=naver"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:31:00 +0900",
+                "title": "김상우 예비후보, '혁신 비전 및 안동 5대 공약' 발표",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868236?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:16:00 +0900",
+                "title": "'상급 종합병원 유치' 등 8대 핵심공약 발표",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988931"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:02:00 +0900",
+                "title": "김상우  지방소멸 극복·비전 생각하는 실용적인 국회의원 될 것 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543022"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:52:00 +0900",
+                "title": "김상우 안동·예천 예비후보, 상급 종합병원 유치 등 8대 핵심 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004086"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:56:00 +0900",
+                "title": "[4·10 필드 속으로] 김상우 예비후보, 예천지역 경제활성화 등 8대 핵심 공약...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240319010002602"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:34:00 +0900",
+                "title": "김상우 후보, 예천 핵심공약 발표하고 지지 호소",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240319010010657"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:04:00 +0900",
+                "title": "(4·10 총선 현장) 민주당 김상우, 예천 발전 8대 핵심 공약 발표",
+                "link": "https://www.idaegu.com/newsView/idg202403190027"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 13:38:00 +0900",
+                "title": "민주당 김상우 안동·예천 예비후보, 예천 핵심 8대 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004019"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 12:26:00 +0900",
+                "title": "'4.10총선' 안동예천 민주당 김상우  행정구역 개편 등 8대 공약  발표",
+                "link": "https://www.newspim.com/news/view/20240319000550"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:28:00 +0900",
+                "title": "경북 안동시선관위, 유사기관 설치 혐의 등 관련자 11명 고발",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314595"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:13:00 +0900",
+                "title": "민주 김상우 안동·예천 예비후보, 예천 8대 공약 제시",
+                "link": "https://n.news.naver.com/mnews/article/079/0003875331?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 00:18:00 +0900",
+                "title": "국힘 이번도 TK권 전역 석권하나...'무소속 강풍'에 곳곳 난기류",
+                "link": "https://www.newspim.com/news/view/20240318001161"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 14:52:00 +0900",
+                "title": "(4·10 총선 현장)민주당 김상우 “안동·예천 바꿀 적임자”…선거사무소 개...",
+                "link": "https://www.idaegu.com/newsView/idg202403180017"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:54:00 +0900",
+                "title": "김상우 후보, 선거사무소 개소... 안동·예천 바꿀 적임자 ",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3148653"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김상우",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1821987
+            }
+        ],
+        "huboid": "100152851",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4706/Hb100152851/junkwa/20240226114150243_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-2.jpg",
+        "id": "2470601-2",
+        "재산": 1474472,
+        "생년월일": "19750325",
+        "경력": "(현) 제21대 국회의원(안동시예천군)\n(현) 국민의힘 한동훈 비상대책위원장 비서실장",
+        "학력": "서울대학교 언론정보학과 졸업",
+        "직업": "제21대 국회의원(안동시예천군)",
+        "성별": "남",
+        "id_21th": "1139",
+        "regionId": "2470601",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:34:00 +0900",
+                "title": "[열전현장] 안동·예천 선거구, 金배지 경쟁 '4金' 모두 '수변 관광 활성화' ...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455753"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:56:00 +0900",
+                "title": "김형동 “안동호 횡단교량 건설…균형 발전 이룩”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475669"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+                "title": "더불어민주당 김상우 후보, 국민의힘 김형동 후보 TV토론회 격돌",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990812"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+                "title": "김형동 후보, 안동·예천 오가며 총력 유세전 펼쳐",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005369"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "[나는 후보자다]안동시·예천군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461912"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "[기후로운 투표생활] ⑩ 대구·경북 후보 74명 중 21명만 기후위기 공약",
+                "link": "https://www.newsmin.co.kr/news/101240/"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+                "title": "김형동 후보 안동·예천 집중유세…  안동 품격을 더높게, 예천 위상을 드높게...",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990714"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "선거공보물 내용 분석해보니…'국힘 TK 후보 공약=지역 발전 바로미터'",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870689?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:32:00 +0900",
+                "title": "[총선 현장]김형동 후보 안동·예천 오가며 총력 유세전",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990702"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[선택4·10] 김형동 후보, 안동‧예천서 집중유세 총력전",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069397"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:26:00 +0900",
+                "title": "[선택4·10] 유세보다 주민과 인사가 먼저…손 내미는 김형동 후보",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069367"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:32:00 +0900",
+                "title": "[선택4·10] 힘차게 연설하는 김형동 후보",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069355"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:26:00 +0900",
+                "title": "[선택4·10] 주민 환호에 손가락 V 그린 김형동 후보",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069350"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:20:00 +0900",
+                "title": "[선택4·10] 김형동 후보 예천 유세에 모인 주민들",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069330"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:12:00 +0900",
+                "title": "[선택4·10] 김형동 후보 예천 유세…'만사형통' 족자 '눈길'",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069341"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:06:00 +0900",
+                "title": "[선택4·10] 김형동 후보 지지 호소하는 도기욱 경북도의원",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069336"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:58:00 +0900",
+                "title": "[선택4·10] 김형동 후보 예천 유세…율동은 '신나게'",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069323"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:13:00 +0900",
+                "title": "김형동 안동예천 후보  안동호로 갈라진 동·서부, 도산대교 지어 잇겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870536?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "김형동  안동호 횡단교량(도산대교) 건설할 것 ",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436953"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:56:00 +0900",
+                "title": "김형동 안동예천 후보, '안동호 횡단교량 건설' 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005224"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+                "title": "김형동  안동댐 주민 교통권 확보 위해 안동호 횡단교량 추진 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544265"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "[4·10 필드 속으로] 김형동 '안동호 횡단 교량(도산대교) 건설' 공약 발표",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000104"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:54:00 +0900",
+                "title": "안동·예천 국힘 김형동 후보, '안동호 횡단교량 건설' 공약",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150636"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:58:00 +0900",
+                "title": "[4.10총선-172] 안동·예천, 김상우vs김형동. 김형동 선거법 위반 파장",
+                "link": "http://www.mhj21.com/160219"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:32:00 +0900",
+                "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+                "title": "[총선 현장] 안동예천 김형동 후보 '안동호 횡단 도산대교 건설' 공약",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990470"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:23:00 +0900",
+                "title": "국힘 안동·예천 김형동 후보  안동호 횡단 도산대교 건설 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462782?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:04:00 +0900",
+                "title": "[선택4·10] 김형동, '안동호 횡단 도산대교 건설' 공약 발표",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068673"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:00:00 +0900",
+                "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
+                "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 07:50:00 +0900",
+                "title": "의정 갈등, 과거엔 어땠나? | 의대 증원 놓고 의협 '반대', 여야 필요성 공감...",
+                "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19432&Newsnumb=20240419432"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:56:00 +0900",
+                "title": "김형동  안동에'한국전통주진흥원'설립 공약",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436744"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:40:00 +0900",
+                "title": "김형동 “시ㆍ군민 한 사람 한 사람 목소리 경청”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475323"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:42:00 +0900",
+                "title": "[선택4·10] 김형동  도청신도시서 서울 수서까지 더 빠르게 갑니다 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068475"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:44:00 +0900",
+                "title": "선거운동 TK 첫 주말 대전, 후보자들 지지 호소",
+                "link": "https://www.idaegu.com/newsView/idg202403310108"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:22:00 +0900",
+                "title": "[총선 현장] 김형동 후보, 첫 주말 유세 총력",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990318"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:24:00 +0900",
+                "title": "국힘 안동·예천 김형동 후보  시민 목소리에 귀 기울이겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460729?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:22:00 +0900",
+                "title": "김형동 안동·예천 국민의힘 후보, 한국전통주진흥원 설립 공약",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004981"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:14:00 +0900",
+                "title": "안동·예천 김형동 후보, 한국전통주진흥원 설립 공약",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150452"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:30:00 +0900",
+                "title": "[2024총선]국민의힘 안동·예천 김형동 후보... 한국전통주진흥원 설립 공약 ...",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051019"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:26:00 +0900",
+                "title": "김상우  김형동, 안동예천보다 한동훈 비서실장 자리가 중요한가 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428079?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:46:00 +0900",
+                "title": "[선택4·10] 김형동, 서울 성대시장 찾아 '장진영·나경원' 후보 지원 유세",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1068150"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:46:00 +0900",
+                "title": "[총선현장] 안동예천 국힘 김형동 후보 선거운동 돌입",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990212"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:12:00 +0900",
+                "title": "김형동 후보 '한국전통주진흥원 설립' 공약 발표",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990208"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:06:00 +0900",
+                "title": "더불어민주당 안동예천 김상우 후보,  국힘 김형동 후보는 어디있나 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990207"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:04:00 +0900",
+                "title": "[총선 레이더] 김상우 후보,  김형동 후보, 살아 있니껴? ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869951?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:04:00 +0900",
+                "title": "[총선 레이더] 김형동 후보, ‘한국전통주진흥원 설립’ 공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869952?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:48:00 +0900",
+                "title": "국민의힘 안동예천 김형동 후보, 본격적인 선거운동 돌입...‘한결같은 마음으...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240329029245248"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:03:00 +0900",
+                "title": "국힘 안동·예천 김형동  한국전통주진흥원 설립하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012458365?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:58:00 +0900",
+                "title": "[선택4·10] 김형동 후보, 전통주 메카 안동에 '한국전통주진흥원' 설립 공약",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067991"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:28:00 +0900",
+                "title": "김형동 후보 한국전통주진흥원 설립, 미래먹거리로 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240329010017294"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:04:00 +0900",
+                "title": "더민주 경북도당,  김형동 후보는 불법 선거 의혹에 대한 책임을 지고 사퇴하...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325494?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:46:00 +0900",
+                "title": "[선택4·10] 김형동, 선거운동 시작… 안동·예천 중단없는 발전 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067791"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:20:00 +0900",
+                "title": "한동훈 위원장, 박근혜 전 대통령 예방",
+                "link": "http://www.kbsm.net/news/view.php?idx=427744"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:04:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
+                "link": "https://www.naeil.com/news/read/505806?ref=naver"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:14:00 +0900",
+                "title": "한동훈  일할 기회 달라 …선거운동 첫날 0시부터 광폭 유세",
+                "link": "https://www.ajunews.com/view/20240328084359638"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:16:00 +0900",
+                "title": "김형동 후보 불법 선거운동 수사 촉구",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690313?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 07:59:00 +0900",
+                "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 02:18:00 +0900",
+                "title": "한동훈, 공식선거운동 첫 일정 가락시장  땀흘려 일하는 생활인들 현장 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016402"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:36:00 +0900",
+                "title": "중소기업중앙회 경북본부, 국민의힘에 제22대 총선 중소기업 정책과제 전달",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436350"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:46:00 +0900",
+                "title": "한동훈  국회 첫 법안은 '반도체 특별법'…여러분 잘사는 것에만 관심 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017966?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:38:00 +0900",
+                "title": "한국노총 47명 총선 지지후보 확정",
+                "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220709"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:26:00 +0900",
+                "title": "[여기는 안동] “김형동 후보 불법 선거운동”…수사 촉구 외",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689880?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:33:00 +0900",
+                "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:51:00 +0900",
+                "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:12:00 +0900",
+                "title": "민주당  김형동 불법 선거운동 잇따라..철저한 수사  촉구",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69548"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:12:00 +0900",
+                "title": "한동훈, 자신이 '30년 구형' 때린 박근혜 예방…30분 동안 무슨 얘기 나눴나?",
+                "link": "https://www.cnbnews.com/news/article.html?no=650919"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:34:00 +0900",
+                "title": "(4·10 총선 현장)민주당 경북도당 “김형동 후보 불법 선거운동 철저히 수사...",
+                "link": "https://www.idaegu.com/newsView/idg202403270009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 12:56:00 +0900",
+                "title": "중기중앙회 경북본부, 국민의힘에 '제22대 총선 정책과제' 전달",
+                "link": "http://www.kbsm.net/news/view.php?idx=427648"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:07:00 +0900",
+                "title": "[노컷브이]한동훈 만난 박근혜…의대 정원도 논의했다고?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878531?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:02:00 +0900",
+                "title": "경북 민주당  불법 선거 의혹 김형동 후보 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878521?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:12:00 +0900",
+                "title": "박근혜 만난 한동훈 “국정현안 좋은 말씀 들어”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918356?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 04:08:00 +0900",
+                "title": "韓, 보수 지지층 결집 행보… 朴 “나라 어려운데 단합 중요”",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684026?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 04:07:00 +0900",
+                "title": "박근혜, 한동훈에 “위기일 때 뜻 모아 단합하는 게 중요해”",
+                "link": "https://n.news.naver.com/mnews/article/022/0003918339?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:34:00 +0900",
+                "title": "'단합' 강조한 박근혜…총선 정국 '보수 대결집' 힘 보태",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454921"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:34:00 +0900",
+                "title": "한동훈, 윤재옥·김형동 등과 박근혜 예방",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454922"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:04:00 +0900",
+                "title": "박근혜 전 대통령 만난 한동훈 비대위원장···민주당  부적절 ",
+                "link": "https://n.news.naver.com/mnews/article/657/0000024302?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:58:00 +0900",
+                "title": "“나라 어려운데 단합하는 것 중요”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474581"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:42:00 +0900",
+                "title": "김형동 “전국체육대회 유치로 지역경제 활성화”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474572"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:42:00 +0900",
+                "title": "박근혜 전 대통령 만난 한동훈 비대위원장",
+                "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=190254&mode=view"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:36:00 +0900",
+                "title": "한동훈, 박근혜 전 대통령 예방 의대 정원 등 환담",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080192"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:24:00 +0900",
+                "title": "한동훈 만난 박 前대통령  위기일 때 뜻 모아 단합 해야지요 ",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989850"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 19:36:00 +0900",
+                "title": "김형동, '안동‧예천 전국체육대회 유치' 공약발표",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436120"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "김형동  전국체육대회 유치로 주민 건강 증진·지역경제 견인 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543661"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:46:00 +0900",
+                "title": "朴  나라 어려울 때일 수록 위기에서 뜻 모아 단합해야 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543664"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:40:00 +0900",
+                "title": "韓, 박근혜 만나 ‘텃밭 달래기’… 李, 김어준 채널서 ‘집토끼 단속’",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439954?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:30:00 +0900",
+                "title": "대구 찍고, 또 부산행… ‘보수 표심’ 단속 나선 여",
+                "link": "https://n.news.naver.com/mnews/article/082/0001262213?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:24:00 +0900",
+                "title": "보수 텃밭 흔들리자…박근혜 찾아간 한동훈",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1224718&inflow=N"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:12:00 +0900",
+                "title": "다시 대구 찾은 한동훈, “박근혜 대통령과 국정현안 대화 나눴다”",
+                "link": "https://www.idaegu.com/newsView/idg202403260091"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:04:00 +0900",
+                "title": "김형동 안동예천 후보, '안동·예천 전국체육대회 유치' 공약 발표",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004679"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "한동훈 비대위원장, 박근혜 전 대통령 찾아",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69514"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:02:00 +0900",
+                "title": "[R]박근혜 전 대통령 만난 한동훈 비대위원장",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69536"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:01:00 +0900",
+                "title": "朴 전 대통령, 한동훈 예방에  어려울 때 단합해야 ",
+                "link": "https://n.news.naver.com/mnews/article/374/0000376348?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:01:00 +0900",
+                "title": "TK·PK 훑은 한동훈, 총선 보름 앞 '보수 단합' 총력[종합]",
+                "link": "https://n.news.naver.com/mnews/article/031/0000823502?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "한동훈 대구서 박근혜 예방, 이재명 재판 출석",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409700"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:50:00 +0900",
+                "title": "박근혜 만난 한동훈 “좋은 말씀 들었다”…朴 ‘보수 결집’ 강조",
+                "link": "https://n.news.naver.com/mnews/article/005/0001683902?sid=100"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:37:00 +0900",
+                "title": "총선 위기론에 한동훈, 보수 결집 ‘총력전’…유승민 역할론도 재부상",
+                "link": "https://n.news.naver.com/mnews/article/018/0005700586?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:36:00 +0900",
+                "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "한동훈, 박근혜 예방해 ‘보수 결집’…‘비동의 간음죄’는 “반대”",
+                "link": "https://n.news.naver.com/mnews/article/081/0003439923?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김형동",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1308475
+            },
+            {
+                "연도": 2021,
+                "재산": 1492480
+            },
+            {
+                "연도": 2022,
+                "재산": 1563784
+            },
+            {
+                "연도": 2023,
+                "재산": 1474472
+            }
+        ],
+        "huboid": "100152920",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4706/Hb100152920/junkwa/20240304155604565_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-7.jpg",
+        "id": "2470601-7",
+        "재산": 401118,
+        "생년월일": "19671125",
+        "경력": "(현) 대구지방법원 상주지원 조정위원\n(전) 경상북도경찰청 외사자문협의회 간사",
+        "학력": "영남대학교 사법학과 졸업",
+        "직업": "법무사",
+        "성별": "남",
+        "regionId": "2470601",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:34:00 +0900",
+                "title": "[열전현장] 안동·예천 선거구, 金배지 경쟁 '4金' 모두 '수변 관광 활성화' ...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455753"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "[나는 후보자다]안동시·예천군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461912"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:58:00 +0900",
+                "title": "[4.10총선-172] 안동·예천, 김상우vs김형동. 김형동 선거법 위반 파장",
+                "link": "http://www.mhj21.com/160219"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:36:00 +0900",
+                "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:02:00 +0900",
+                "title": "안동·예천 후보자 공약..'개발' 보다는 '베끼기?'",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69504"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:40:00 +0900",
+                "title": "[총선] 총선 후보 등록 마감…대구·경북은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686991?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:12:00 +0900",
+                "title": "대구·경북 22대 국회의원 선거 후보 22일 등록 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989341"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:12:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 20일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460117"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:28:00 +0900",
+                "title": "경북 안동시선관위, 유사기관 설치 혐의 등 관련자 11명 고발",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314595"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 10:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 19일 화요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459929"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:02:00 +0900",
+                "title": "국힘 경북도당, 도의원 영양선거구 윤철남 후보자 선정",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69388"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "4·10 총선 경북지역 출마자 대진표 완성",
+                "link": "https://www.idaegu.com/newsView/idg202403170123"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 10:46:00 +0900",
+                "title": "국힘 안동·예천 선거구 경선…김형동 예비후보 승리",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314277"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 10:14:00 +0900",
+                "title": "경북 북부지역, 국회의원선거 구도 윤곽...청송은 국힘 경선 중",
+                "link": "http://www.kukinews.com/newsView/kuk202403130048"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 16:42:00 +0900",
+                "title": "국민의힘 김형동 예비후보, 안동·예천 선거구 경선 ‘승리’",
+                "link": "http://www.kukinews.com/newsView/kuk202403120249"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 14:20:00 +0900",
+                "title": "국민의힘, 경북 현역 2곳 경선…안동예천·구미을",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=313850"
+            },
+            {
+                "date": "Mon, 12 Feb 2024 20:22:00 +0900",
+                "title": "선거구 획정 언제 결론 내리나 경북북부 예비후보 우왕좌왕",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=984315"
+            },
+            {
+                "date": "Mon, 05 Feb 2024 21:02:00 +0900",
+                "title": "[R]안동예천 현재 10명 경쟁..선거구 분리 관건",
+                "link": "http://andongmbc.co.kr/adboard/NewsView68729"
+            },
+            {
+                "date": "Sun, 04 Feb 2024 22:06:00 +0900",
+                "title": "북부 9개 시군 '총선 선거구 획정' 따라 희비 엇갈릴 듯",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=429845"
+            },
+            {
+                "date": "Wed, 31 Jan 2024 19:26:00 +0900",
+                "title": "[나는 예비후보자다] 안동예천 자유통일당 김동훈 예비후보",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=454179"
+            },
+            {
+                "date": "Mon, 29 Jan 2024 16:30:00 +0900",
+                "title": "안동예천 선거구 예비후보 6명 등록",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=453692"
+            },
+            {
+                "date": "Sun, 28 Jan 2024 21:32:00 +0900",
+                "title": "4월총선 누가뛰나1-안동예천 여야 7명 출사표",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240124165124AE08695&id=184463"
+            },
+            {
+                "date": "Fri, 26 Jan 2024 08:30:00 +0900",
+                "title": "대세굳히기 vs 뒤집기…안동·예천 후보군 공천 향해 '잰걸음'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014469582?sid=100"
+            },
+            {
+                "date": "Wed, 24 Jan 2024 00:12:00 +0900",
+                "title": "김동훈 자유통일당 안동·예천 예비후보 출마 선언… 경북북부 첨단 산업특구...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=2153415"
+            },
+            {
+                "date": "Tue, 23 Jan 2024 18:02:00 +0900",
+                "title": "안동예천 민주 정용채, 국힘 권용수 예비후보 등록",
+                "link": "http://andongmbc.co.kr/adboard/NewsView68524"
+            },
+            {
+                "date": "Thu, 18 Jan 2024 21:20:00 +0900",
+                "title": "김의승 등 총선 출마 선언.. 예비후보 등록도 속속",
+                "link": "http://andongmbc.co.kr/adboard/NewsView68476"
+            }
+        ],
+        "정당": "자유통일당",
+        "이름": "김동훈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 401118
+            }
+        ],
+        "huboid": "100152208",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4706/Hb100152208/junkwa/20240116174342205_1.PDF"
+    },
+    {
+        "전과건수": 3,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-8.jpg",
+        "id": "2470601-8",
+        "재산": 15000,
+        "생년월일": "19581205",
+        "경력": "(전) 영남일보 기자\n(현) 한국문화경제연구원 대표",
+        "학력": "중앙대학교 신문방송학과 졸업",
+        "직업": "정치인",
+        "성별": "남",
+        "regionId": "2470601",
+        "기호": 8,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:34:00 +0900",
+                "title": "[열전현장] 안동·예천 선거구, 金배지 경쟁 '4金' 모두 '수변 관광 활성화' ...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455753"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "[나는 후보자다]안동시·예천군 선거구 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461912"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:02:00 +0900",
+                "title": "[R]'4.10 총선' 경북북부 후보자 TV토론회 시작.. 후보자 검증하세요 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:58:00 +0900",
+                "title": "[4.10총선-172] 안동·예천, 김상우vs김형동. 김형동 선거법 위반 파장",
+                "link": "http://www.mhj21.com/160219"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:20:00 +0900",
+                "title": "TK 전과자 '41%'...최고 자산은 110억",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185871"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:42:00 +0900",
+                "title": "TK 전과자 '41%'...최고 자산은 110억",
+                "link": "https://www.tbc.co.kr/news/view?pno=20240326113831AE00823&id=185855"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:36:00 +0900",
+                "title": "안동·예천 선거구 후보자, 지방소멸 위기 극복 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460979"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:02:00 +0900",
+                "title": "안동·예천 후보자 공약..'개발' 보다는 '베끼기?'",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69504"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:52:00 +0900",
+                "title": "김윤한 안동·예천 후보  도청중심 메가시티, KTX 노선 건설  총선 공약",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240325010014650"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:45:00 +0900",
+                "title": "[여기는 안동] ‘드론 실증도시’ 의성, 미래산업 육성",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688074?sid=101"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:06:00 +0900",
+                "title": "국회의원 후보 3명 중 1명 전과자 '충격'",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543504"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:02:00 +0900",
+                "title": "TK 총선 후보 10명 중 4명 이상이 전과자",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240324010003302"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:22:00 +0900",
+                "title": "TK 총선 경쟁률 2.96대 1… 후보 10명중 4명이 전과자",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543416"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:10:00 +0900",
+                "title": "(4.10 총선 현장) TK 2.96:1 경쟁률…최고 자산가는 최은석, 최고령은 김일윤",
+                "link": "https://www.idaegu.com/newsView/idg202403240055"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:10:00 +0900",
+                "title": "[총선현장] TK, 74명 등록 2.96대 1…남성 85.1%",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=113483"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:54:00 +0900",
+                "title": "[총선] 대구경북 대진표 확정…경쟁률 대구 2.8대1, 경북 3.1대1",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314873"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:54:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(최종)",
+                "link": "http://www.kbsm.net/news/view.php?idx=427081"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:30:00 +0900",
+                "title": "22대 총선 대구경북 후보자 등록 현황 (22일 오후 6시 마감)",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868771?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:40:00 +0900",
+                "title": "[총선] 총선 후보 등록 마감…대구·경북은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686991?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:10:00 +0900",
+                "title": "TK 지역 총선 후보 등록 마감…대구 2.8대1·경북 3.1대 1 경쟁률 기록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454468"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "[R]4.10 총선 후보 등록 마감 .. 전과  수두룩 ",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69484"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:12:00 +0900",
+                "title": "대구·경북 22대 국회의원 선거 후보 22일 등록 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989341"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:00:00 +0900",
+                "title": "대구경북 총선 후보 중 전과자 31명…음주운전 7명(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583359?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 11:28:00 +0900",
+                "title": "경북 안동시선관위, 유사기관 설치 혐의 등 관련자 11명 고발",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314595"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:02:00 +0900",
+                "title": "국힘 경북도당, 도의원 영양선거구 윤철남 후보자 선정",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69388"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:00:00 +0900",
+                "title": "4·10 총선 경북지역 출마자 대진표 완성",
+                "link": "https://www.idaegu.com/newsView/idg202403170123"
+            },
+            {
+                "date": "Sun, 21 Jul 2019 16:41:00 +0900",
+                "title": "서울역서 모인 산부인과의사들  법정구속 강력 규탄 ",
+                "link": "http://www.bokuennews.com/news/article.html?no=178629"
+            },
+            {
+                "date": "Sun, 30 Dec 2018 15:58:00 +0900",
+                "title": "김소연 대전시의원 민주당 제명 사실상 확정",
+                "link": "http://www.daejonilbo.com/news/newsitem.asp?pk_no=1349941"
+            },
+            {
+                "date": "Wed, 03 Oct 2018 11:39:00 +0900",
+                "title": "민주당 대전시당, 김소연 폭로 등 잇단 악재에 ‘곤혹’",
+                "link": "https://n.news.naver.com/mnews/article/003/0008835106?sid=102"
+            },
+            {
+                "date": "Wed, 21 Dec 2016 04:06:00 +0900",
+                "title": "2016년 워싱턴한인사회 본보 선정 10대 뉴스",
+                "link": "http://www.koreatimes.com/article/1030014"
+            },
+            {
+                "date": "Sat, 14 Nov 2015 03:36:00 +0900",
+                "title": "반기문 총장 측 “친반연대와 무관”… 장기만 “내년 3월까지 당원 2000만명...",
+                "link": "https://n.news.naver.com/mnews/article/081/0002633591?sid=100"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 15:03:00 +0900",
+                "title": "친반연대 결성에 주가 껑충, 씨시에스·한창·보성파웨텍이 반기문 테마주인 ...",
+                "link": "http://www.starseoultv.com/news/articleView.html?idxno=361850"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 12:51:00 +0900",
+                "title": "반기문 지지자들, 총선 겨냥 ‘친반연대’ 창당 신고",
+                "link": "http://www.polinews.co.kr/news/article.html?no=254526"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 10:31:00 +0900",
+                "title": "반기문 지지자들 친반(親潘)연대 결성, 장기만·김윤한 공동 대표? '공식적 세...",
+                "link": "http://www.starseoultv.com/news/articleView.html?idxno=361752"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 10:29:00 +0900",
+                "title": "반기문 지지자들, 공식 세력화…'친반연대' 결성",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=42533"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 10:09:00 +0900",
+                "title": "'친반연대'탄생…반기문 지지자들, 선관위에 창당준비 신고",
+                "link": "https://n.news.naver.com/mnews/article/022/0002953743?sid=100"
+            },
+            {
+                "date": "Fri, 13 Nov 2015 09:48:00 +0900",
+                "title": "반기문 지지자들, 공식 세력화…'친반연대' 결성",
+                "link": "https://n.news.naver.com/mnews/article/003/0006870162?sid=100"
+            },
+            {
+                "date": "Wed, 05 May 2010 22:25:00 +0900",
+                "title": "[선택 6·2 현장] 김정길-김민석 9일 부산시장 후보 경선",
+                "link": "https://n.news.naver.com/mnews/article/028/0002042376?sid=102"
+            },
+            {
+                "date": "Wed, 09 Apr 2008 23:24:00 +0900",
+                "title": "&lt;당선자 인터뷰&gt;무소속 안동 김광림  사람과 돈이 모이게 하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0002043956?sid=100"
+            },
+            {
+                "date": "Tue, 08 Apr 2008 16:15:00 +0900",
+                "title": "&lt;선택 4.9총선&gt; 경북 안동",
+                "link": "https://n.news.naver.com/mnews/article/001/0002036694?sid=100"
+            },
+            {
+                "date": "Fri, 04 Apr 2008 13:17:00 +0900",
+                "title": "[민심현장을 가다-부산·경북] '親李' vs '親朴'의 다툼",
+                "link": "https://n.news.naver.com/mnews/article/277/0001965058?sid=100"
+            },
+            {
+                "date": "Wed, 02 Apr 2008 10:08:00 +0900",
+                "title": "&lt;안동 접전5인 릴레이인터뷰&gt;김윤한  살기 좋은 유교적 유토피아 건설 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0002030807?sid=102"
+            },
+            {
+                "date": "Tue, 01 Apr 2008 15:56:00 +0900",
+                "title": "&lt;총선 현장&gt;경북 안동 '역전'···안동MBC.매일신문 여론조사",
+                "link": "https://n.news.naver.com/mnews/article/003/0002029799?sid=100"
+            },
+            {
+                "date": "Mon, 31 Mar 2008 11:05:00 +0900",
+                "title": "&lt;선택 4.9총선&gt; 경북 안동",
+                "link": "https://n.news.naver.com/mnews/article/001/0002023636?sid=102"
+            },
+            {
+                "date": "Fri, 28 Mar 2008 10:34:00 +0900",
+                "title": "(총선 화제지역)경제관료가 뛴다 '배영식·김광림·유재한'",
+                "link": "https://n.news.naver.com/mnews/article/018/0001959143?sid=101"
+            },
+            {
+                "date": "Thu, 27 Mar 2008 11:57:00 +0900",
+                "title": "'수상한 신고' 많다…대구경북 총선 후보자 분석",
+                "link": "https://n.news.naver.com/mnews/article/088/0000092281?sid=102"
+            },
+            {
+                "date": "Thu, 27 Mar 2008 10:18:00 +0900",
+                "title": "[4ㆍ9총선 후보자 등록…우리지역엔 누가] 경북",
+                "link": "https://n.news.naver.com/mnews/article/015/0001954820?sid=100"
+            },
+            {
+                "date": "Wed, 26 Mar 2008 21:55:00 +0900",
+                "title": "대구·경북, 27개 지역구 101명 등록…3.7 대 1",
+                "link": "http://polinews.co.kr/news/newsview.html?no=81760"
+            },
+            {
+                "date": "Wed, 26 Mar 2008 19:14:00 +0900",
+                "title": "&lt;후보자 재산.납세실적 분석&gt;-경북",
+                "link": "https://n.news.naver.com/mnews/article/001/0002018009?sid=100"
+            },
+            {
+                "date": "Wed, 26 Mar 2008 19:14:00 +0900",
+                "title": "&lt;후보자 병역.전과기록 분석&gt;-경북",
+                "link": "https://n.news.naver.com/mnews/article/001/0002018012?sid=102"
+            },
+            {
+                "date": "Sun, 10 Feb 2008 01:39:00 +0900",
+                "title": "4·9 총선을 향해 뛰는 사람들 ②중부·호남·영남·강원·제주 등",
+                "link": "https://n.news.naver.com/mnews/article/028/0001939282?sid=100"
+            },
+            {
+                "date": "Tue, 05 Feb 2008 11:51:00 +0900",
+                "title": "[출발 4·9총선] 경북 안동",
+                "link": "https://n.news.naver.com/mnews/article/088/0000087840?sid=102"
+            },
+            {
+                "date": "Tue, 05 Feb 2008 02:51:00 +0900",
+                "title": "[4·9 총선 출마예상자]",
+                "link": "https://n.news.naver.com/mnews/article/081/0001939228?sid=100"
+            },
+            {
+                "date": "Mon, 04 Feb 2008 03:03:00 +0900",
+                "title": "부산 대구 울산 경북 경남 강원 총선 출마예상자 명단",
+                "link": "https://n.news.naver.com/mnews/article/020/0001939532"
+            },
+            {
+                "date": "Thu, 24 Jan 2008 17:09:00 +0900",
+                "title": "18대 총선 출마예상자 ③ 영남·강원",
+                "link": "https://n.news.naver.com/mnews/article/086/0000079779?sid=100"
+            },
+            {
+                "date": "Fri, 20 Apr 2007 18:03:00 +0900",
+                "title": "뜨거운 만남!  영원하라 축원과  계속 전진 화답 한마당",
+                "link": "https://n.news.naver.com/mnews/article/119/0000026367?sid=100"
+            },
+            {
+                "date": "Thu, 01 Jun 2006 19:18:00 +0900",
+                "title": "[광역ㆍ기초단체장 득표 현황] (기초단체장) 경상북도",
+                "link": "https://n.news.naver.com/mnews/article/015/0000899323?sid=100"
+            },
+            {
+                "date": "Thu, 18 May 2006 10:00:00 +0900",
+                "title": "5·31 지방선거 기초단체장 후보명단",
+                "link": "https://n.news.naver.com/mnews/article/081/0000090043?sid=100"
+            },
+            {
+                "date": "Tue, 09 May 2006 13:51:00 +0900",
+                "title": "경북 안동시!!",
+                "link": "https://n.news.naver.com/mnews/article/052/0000116664?sid=115"
+            },
+            {
+                "date": "Thu, 20 Apr 2006 14:30:00 +0900",
+                "title": " 당 없어도 자신있다! …무소속 후보 태풍 부나?",
+                "link": "https://n.news.naver.com/mnews/article/088/0000036100?sid=102"
+            },
+            {
+                "date": "Mon, 06 Mar 2006 18:21:00 +0900",
+                "title": "[대구] 5.31선거에 기자들 잇딴 '출사표'",
+                "link": "https://n.news.naver.com/mnews/article/119/0000006447?sid=100"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 18:34:00 +0900",
+                "title": "&lt;총선연대 낙선대상 해명.반론&gt;-경북(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/001/0000614202?sid=116"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 16:26:00 +0900",
+                "title": "&lt;총선연대 낙선대상 해명.반론&gt;-경북(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0000614076?sid=116"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 15:56:00 +0900",
+                "title": "&lt;총선연대 낙선대상 해명.반론&gt;-경북",
+                "link": "https://n.news.naver.com/mnews/article/001/0000614004?sid=116"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 13:50:00 +0900",
+                "title": "총선시민연대, 낙선대상 208명 명단 발표",
+                "link": "https://n.news.naver.com/mnews/article/002/0000009950"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 12:04:00 +0900",
+                "title": "&lt;총선연대 낙선대상자 명단과 선정사유&gt;-2(끝)",
+                "link": "https://n.news.naver.com/mnews/article/001/0000613689?sid=116"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 11:45:00 +0900",
+                "title": "4.15총선-총선시민연대 낙선대상자 명단(1)",
+                "link": "https://n.news.naver.com/mnews/article/003/0000046673?sid=102"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 11:10:00 +0900",
+                "title": "총선연대, 낙선대상자 208명 발표",
+                "link": "https://n.news.naver.com/mnews/article/008/0000394767?sid=101"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 10:31:00 +0900",
+                "title": "(자료)총선시민연대 낙선대상자 심사자료④",
+                "link": "https://n.news.naver.com/mnews/article/018/0000146760?sid=116"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 10:13:00 +0900",
+                "title": "총선시민연대 낙선대상자 208명 발표",
+                "link": "https://n.news.naver.com/mnews/article/018/0000146737?sid=101"
+            },
+            {
+                "date": "Tue, 06 Apr 2004 09:58:00 +0900",
+                "title": "&lt;총선연대 낙선대상자 명단&gt;-2",
+                "link": "https://n.news.naver.com/mnews/article/001/0000613462?sid=116"
+            },
+            {
+                "date": "Mon, 05 Apr 2004 10:13:00 +0900",
+                "title": "17대총선 영남권 후보지지도 변화추이(3월31일 현재)",
+                "link": "https://n.news.naver.com/mnews/article/047/0000044608?sid=100"
+            },
+            {
+                "date": "Sat, 03 Apr 2004 17:13:00 +0900",
+                "title": "'3.12 탄핵투표' 참가의원 70%가 17대 재출마",
+                "link": "https://n.news.naver.com/mnews/article/047/0000044532?sid=100"
+            },
+            {
+                "date": "Thu, 01 Apr 2004 20:38:00 +0900",
+                "title": "&lt;후보 재산.납세 분석&gt;-경북",
+                "link": "https://n.news.naver.com/mnews/article/001/0000610138?sid=102"
+            },
+            {
+                "date": "Wed, 31 Mar 2004 11:12:00 +0900",
+                "title": "&lt;조선&gt;-갤럽과 KBS-MR 여론조사, 왜 이렇게 다른가?",
+                "link": "https://n.news.naver.com/mnews/article/047/0000044443?sid=100"
+            },
+            {
+                "date": "Tue, 30 Mar 2004 11:12:00 +0900",
+                "title": "[여론조사] 우리당 싹쓸이? 69곳 중 29곳에서 '접전'",
+                "link": "https://n.news.naver.com/mnews/article/047/0000044403?sid=100"
+            },
+            {
+                "date": "Mon, 29 Mar 2004 03:12:00 +0900",
+                "title": "호남은 우리당 독주, TK는 박근혜 효과",
+                "link": "https://n.news.naver.com/mnews/article/047/0000044325?sid=100"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "김윤한",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 15000
+            }
+        ],
+        "huboid": "100153044",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4706/Hb100153044/junkwa/20240315160551112_1.PDF"
+    }
 ]

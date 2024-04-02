@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2410202-1",
-    "regionId": "2410202",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-1.jpg",
-    "기호": 1,
-    "이름": "염태영",
-    "생년월일": "19600725",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 농과대학 농화학과 졸업",
-    "경력": "(전)수원시장\n(전)경기도 경제부지사",
-    "재산": 2095143,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 22:42:00 +0900",
-        "title": "[과수원 사람들] 염태영 수원무·김현준 수원갑·이재정 안양동안을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815947?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-        "title": "[4·10 총선 열전 현장] 수원무",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:26:00 +0900",
-        "title": "전국사무금융서비스 노동조합, 민주당 염태영 후보 지지선언",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081316"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:10:00 +0900",
-        "title": "사무금융노조, 염태영 수원무 후보 지지 선언",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644877"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:23:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금③",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037967?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2095143
-      }
-    ]
-  },
-  {
-    "id": "2410202-2",
-    "regionId": "2410202",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-2.jpg",
-    "기호": 2,
-    "이름": "박재순",
-    "생년월일": "19620129",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "(사)한국지방발전연구원 이사장",
-    "학력": "아주대학교 경영대학원 졸업(경영학석사)",
-    "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
-    "재산": 10658416,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:58:00 +0900",
-        "title": "[4·10 총선 열전 현장] 수원무",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:11:00 +0900",
-        "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
-        "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-        "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
-        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:08:00 +0900",
-        "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
-        "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 08:46:00 +0900",
-        "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
-        "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 10658416
-      }
-    ]
-  }
+    {
+        "id": "2410202-1",
+        "regionId": "2410202",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-1.jpg",
+        "기호": 1,
+        "이름": "염태영",
+        "생년월일": "19600725",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 농과대학 농화학과 졸업",
+        "경력": "(전)수원시장\n(전)경기도 경제부지사",
+        "재산": 2095143,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:34:00 +0900",
+                "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:16:00 +0900",
+                "title": "'권선구 동별 공약 발표' 염태영 후보  새롭고 풍요로운 권선 건설  다짐",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48307"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "민주당 염태영 수원무 국회의원 후보  더 새롭고 더 풍요로운 권선 만들 것  ...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125418"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "염태영 수원무 후보, 세류·권선·곡선동 발전 구상 밝혀",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645181"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+                "title": "염태영 수원무 후보, 세류·권선·곡선동 발전 구상 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081576"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:52:00 +0900",
+                "title": "[열전 25시] 4월 2일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000038091?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:18:00 +0900",
+                "title": "[총선] 염태영 수원무 후보  더 새롭고 더 풍요로운 권선 만들 것 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384907"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:52:00 +0900",
+                "title": "염태영, “권선구 도약과 변화 이끌어낼 것”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402026524167"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:33:00 +0900",
+                "title": "'수원무' 민주당 염태영 후보, 세류·권선·곡선동 발전 구상 발표",
+                "link": "https://www.newspim.com/news/view/20240402000830"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:16:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 염태영 수원무 후보, '세류·권선·곡선동 발전 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242748"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:48:00 +0900",
+                "title": "[총선 D-8]  시장때 뭘 했나  vs  지역현안 잘 알아 …수원무 승자는",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605669?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:42:00 +0900",
+                "title": "[과수원 사람들] 염태영 수원무·김현준 수원갑·이재정 안양동안을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815947?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+                "title": "[4·10 총선 열전 현장] 수원무",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:26:00 +0900",
+                "title": "전국사무금융서비스 노동조합, 민주당 염태영 후보 지지선언",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081316"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:10:00 +0900",
+                "title": "사무금융노조, 염태영 수원무 후보 지지 선언",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644877"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:23:00 +0900",
+                "title": "[열전 25시] 4월 1일 경기도 현장은 지금③",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037967?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "전국사무금융서비스노동조합, 염태영 후보 지지 선언",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100264.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:02:00 +0900",
+                "title": "수원시안경사회, 염태영 국회의원 수원(무) 민주당 후보 정책 제안서 전달",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288917?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "&lt;정치를 만나다&gt; 최초 수원시장 3선 염태영",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243022"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:51:00 +0900",
+                "title": "사무금융노조, ‘수원무’ 민주 염태영 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920058?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:40:00 +0900",
+                "title": "전국사무금융서비스 노동조합, 민주당 염태영 후보 지지선언",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441231?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:23:00 +0900",
+                "title": "전국사무금융서비스노조, 수원무 염태영 후보 지지 선언",
+                "link": "https://www.newspim.com/news/view/20240401000797"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:30:00 +0900",
+                "title": "수원시안경사회, 수원(무) 염태영 후보에 정책 제안서 전달",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544155"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:02:00 +0900",
+                "title": "[총선 D-9] 무소속 김성남 고양갑 후보, 시민유권자운동본부 선정 '좋은 후보...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025726"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:02:00 +0900",
+                "title": "염태영 수원무 후보  민생 망친 정부·여당 심판하고 수원 지킬 것 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644610"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:24:00 +0900",
+                "title": "염태영 후보  민생 망친 정부·여당 심판하고 수원 지키겠다 ",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48205"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:53:00 +0900",
+                "title": "[열전 25시] 3월 31일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037858?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:44:00 +0900",
+                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:36:00 +0900",
+                "title": "민주당 염태영 후보, 집중유세서 민생회복·망포동 발전 다짐",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124492"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:14:00 +0900",
+                "title": "민주 염태영, 尹·韓 향해 “수원에서 벼락치기 민생 연극” 쓴소리",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787882"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:56:00 +0900",
+                "title": "염태영 “민생 망친 정부와 여당 심판하고 수원 지킬 것”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240331020253500"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "수원시 국민의힘 후보들, 민주당 김준혁 후보 사퇴 촉구",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018243"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "국힘 수원 후보들  '젖가슴 비유, 박정희 성관계' 막말 김준혁 사퇴하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448471?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": " 여성 性 대상화·박정희 비하 김준혁 사퇴하라 …수원 국힘 후보들 규탄대회",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815415?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:12:00 +0900",
+                "title": "박재순 수원시 무 후보, 염태영 후보에 '시민들의 팩트체크 요청이 네거티브?...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010017810"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:10:00 +0900",
+                "title": "고양시갑 무소속 김성남 후보, '좋은 후보' 선정",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957326"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:00:00 +0900",
+                "title": "고양갑 무소속 김성남 후보, ‘좋은 후보’ 선정돼",
+                "link": "http://www.metroseoul.co.kr/article/20240331500085"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 11:46:00 +0900",
+                "title": "[열전 25시] 3월 30일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037756?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:52:00 +0900",
+                "title": "'수원시 무' 박재순 후보  염 후보가 시민들 질문에 답하는 것이 공명선거 ",
+                "link": "https://www.newspim.com/news/view/20240330000038"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:02:00 +0900",
+                "title": "수원무 박재순, 염태영 후보에  시민들의 팩트체크 요청이 네거티브? ...12년...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686984"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:02:00 +0900",
+                "title": "민주당 염태영 후보, '네거티브 없는 공명선거' 촉구",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686983"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:52:00 +0900",
+                "title": "염태영 수원무 후보  네거티브 NO… 정정당당한 정책 경쟁해야 ",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644385"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:13:00 +0900",
+                "title": "들끓는 흑색선전에 염태영 '네거티브 없는 공명선거' 제안",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703276?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+                "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+                "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:48:00 +0900",
+                "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:32:00 +0900",
+                "title": "시민유권자운동본부, 총선 출마 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104566"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:04:00 +0900",
+                "title": " 무능한 尹 정권 ,심판해 달라 ...수원특례시 민주당 다섯 후보 합동으로 출정...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686899"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:56:00 +0900",
+                "title": "더불어민주당 수원 후보 원팀  국회의원 선거 승리로 정권 심판  다짐",
+                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48155"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:56:00 +0900",
+                "title": "경기 최대 5석 수원 후보들, 유권자 손 잡으며 표심잡기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644189"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:15:00 +0900",
+                "title": "선거운동 첫날, 경기도 금배지 쟁탈전 ‘후끈’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037664?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:40:00 +0900",
+                "title": "[4·10총선 선거운동 첫날] 지하철 첫 차 '표심 호소'…합동 출정식 '승리 결...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241983"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "경기도 정치 1번지 수원 민주당 후보들 합동 출정식 가져",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080768"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:28:00 +0900",
+                "title": "수원시 민주당 다섯후보 합동 출정식…4·10 총선 필승 결의",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690667"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:08:00 +0900",
+                "title": "민주당 수원 후보들 ‘원팀’으로 뭉쳤다… “총선 승리로 정권 심판”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240328021012789"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "'10여년 民 독주'vs'무능한 尹 정부' 쌍방 심판론 꺼낸 수원 총선판",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702356?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+                "title": "4·10 총선 ‘같으면서 다른’ 표심 공략…‘단일대오’ VS ‘각개전투’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787622"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:12:00 +0900",
+                "title": "민주당 수원 후보들 팔달문서 총선 필승 결의",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/28/2024032800330.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:50:00 +0900",
+                "title": "[포토] 더불어민주당  원팀 출정식  수원지역 사수",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241841"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:06:00 +0900",
+                "title": "[22 총선] 염태영,  위대한 수원시민과 함께 승리하고 민생 되살리겠다 ",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304291"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:05:00 +0900",
+                "title": "민주당 염태영 후보, 공식 선거운동 돌입…“위대한 수원시민과 함께 승리하고...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003440492?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:02:00 +0900",
+                "title": "민주당 수원 원팀 팔달문에서 합동 출정…“윤 정부 심판, 무너진 대한민국 바...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037587?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:43:00 +0900",
+                "title": "더불어민주당 다섯 후보, 팔달문서 합동 출정식 가져",
+                "link": "https://www.newspim.com/news/view/20240328000757"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:10:00 +0900",
+                "title": "[현장]  수원 5명 다 당선돼야 尹 확실히 심판 …민주당 수원 합동 출정식",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814489?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:42:00 +0900",
+                "title": "막 올린 4·10총선 선거운동… '민주 vs 국힘' 곳곳서 표심 잡기(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442858?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:45:00 +0900",
+                "title": " 삶의 질도 후퇴 …수원 민주후보 5명 '정권심판·지역수성' 다짐",
+                "link": "https://n.news.naver.com/mnews/article/421/0007442531?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:02:00 +0900",
+                "title": "막 오른 공식 선거운동… ‘경기대전’ 화력 집중 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037545?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "민주  경기남부 첨단산업 성장 거점으로  국힘  군공항 기능 재배치 수원서 옮...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080524"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "경기 민주 후보들 '재건축 원팀' 결성",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080529"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:04:00 +0900",
+                "title": "민주당 노후신도시 후보들 '재건축 원팀' 결성",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643889"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:38:00 +0900",
+                "title": "[22대 총선 D-13] 선거운동 본격 돌입… 마이크 잡고 현장 누빈다",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643877"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:31:00 +0900",
+                "title": "더불어민주당 재건축 원팀 공동기자회견 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037522?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:18:00 +0900",
+                "title": "[열전 25시] 3월 27일 경기도 현장은 지금⑤",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037520?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:42:00 +0900",
+                "title": " 파탄난 민생 경제 살리겠습니다  수원무 염태영 후보 (B tv 수원뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168263"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:35:00 +0900",
+                "title": "민주당 '넥스트레벨'  하이퍼 커넥티드 시티, 대한민국 성장의 돌파구 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814161?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:02:00 +0900",
+                "title": "박재순 국민의힘 수원무 후보, '수원시 재정자립도' 지적",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446244"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:58:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 재건축 원팀으로 수지구 노후지역...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241668"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "[선택4·10] 여야, 공약 놓고 '공방'… 국민 기만 행위  vs.  억울한 사람 양...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067278"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "부승찬 용인시병 후보  수지구 노후지역 재정비 제대로 하겠다 ",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "28일 0시 ‘총선 공식 선거운동’ 개시…여야 표밭갈이 총력",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787454"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:28:00 +0900",
+                "title": "민주당 7곳 후보, 1기 신도시 '진행은 빠르게 부담금은 적게' 원팀 재건축 비...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080416"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:26:00 +0900",
+                "title": "부승찬 용인시병 후보, 김동연 지사에 신분당선 통행세 폐지 건의",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123096"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:52:00 +0900",
+                "title": "민주 재건축 원팀, 김동연 지사에 정책건의서 전달",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787465"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "[4·10 총선 인터뷰] 염태영  아직 못다한 책임… 성원과 기대에 보답할 것 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/27/2024032700042.html"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:12:00 +0900",
+                "title": "경기도 민주 후보들, ‘재건축 원팀’으로 재건축 혼란 막는다",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787398"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:10:00 +0900",
+                "title": "더불어민주당 넥스트레벨, 초연결·초융합·초지능 위한 로드맵 제시",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643816"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:10:00 +0900",
+                "title": "[4·10=한다면 한다] 민주당 넥스트레벨팀, '하이퍼 커넥티드 시티 로드맵' 제...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241592"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:40:00 +0900",
+                "title": "[총선핫스팟] 수원무 지역일꾼론 대결, ‘3선시장’ 민주 염태영 vs ‘도의원...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347067"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:54:00 +0900",
+                "title": "부승찬 용인병 후보 김동연 경기지사에 신분당선 통행세 폐지 건의",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080318"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:26:00 +0900",
+                "title": "국힘 박재순 수원시 무 후보, 수원시 재정자립도 지적",
+                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041627"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:09:00 +0900",
+                "title": "부승찬  민주당 재건축 원팀으로 수지 노후 지역 재정비 ",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276669?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:06:00 +0900",
+                "title": "[4·10총선] 박재순 수원 무 국회의원 후보, 염태영 후보에 일갈  수원시 재정...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241520"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:05:00 +0900",
+                "title": "[과수원 사람들] 민주당 수원 김준혁·염태영 후보·국민의힘 수원 후보들·국...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814024?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:46:00 +0900",
+                "title": "부승찬, 김동연 경기도지사에게 5대 수지발전정책 도정 반영 건의",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1105709"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2095143
+            }
+        ],
+        "huboid": "100152149",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4102/Hb100152149/junkwa/20240321141006924_8.PDF"
+    },
+    {
+        "id": "2410202-2",
+        "regionId": "2410202",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-2.jpg",
+        "기호": 2,
+        "이름": "박재순",
+        "생년월일": "19620129",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "(사)한국지방발전연구원 이사장",
+        "학력": "아주대학교 경영대학원 졸업(경영학석사)",
+        "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
+        "재산": 10658416,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:48:00 +0900",
+                "title": "[총선 D-8]  시장때 뭘 했나  vs  지역현안 잘 알아 …수원무 승자는",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605669?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:12:00 +0900",
+                "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:58:00 +0900",
+                "title": "[4·10 총선 열전 현장] 수원무",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081383"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:11:00 +0900",
+                "title": "과열되는 경기남부 네거티브전, 타켓은 대부분 민주당 후보",
+                "link": "https://n.news.naver.com/mnews/article/018/0005704603?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:00:00 +0900",
+                "title": "민주당, 수원 선거구 모두 강세…국민의힘 '빨간불'",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748543"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:08:00 +0900",
+                "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 08:46:00 +0900",
+                "title": "[총선] 여당 수원 후보들  왜곡된 성관념 가진 김준혁 즉각 사퇴해야 ",
+                "link": "https://n.news.naver.com/mnews/article/417/0000993105?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:16:00 +0900",
+                "title": "국민의힘  여성 비하, 정조대왕과 수원 명예 훼손...민주당 김준혁 후보 사퇴...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317299"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:56:00 +0900",
+                "title": "국힘 수원 후보들, 민주당 김준혁 후보 발언 규탄… 화성행궁서 사퇴촉구 대회...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644611"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:52:00 +0900",
+                "title": "수원무 박재순 후보, 더불어민주당 규탄  수원발전 저해하는 민주당 염태영이...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:24:00 +0900",
+                "title": "박재순 “수원, 세계가 놀랄만한 반도체 메카로 재탄생시킬 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787883"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:44:00 +0900",
+                "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+                "title": "국힘 수원 후보, 민주 김준혁에 사퇴 촉구…“왜곡된 성관념 가져”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787878"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "박재순 수원무 후보  국회의원 세비 6억 환원·불체포특권 폐지  공약",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081080"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "수원시 국민의힘 후보들, 민주당 김준혁 후보 사퇴 촉구",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018243"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:34:00 +0900",
+                "title": "국민의힘 수원시무 박재순 후보,  수원을 세계적 반도체 산업 메카로 육성 ",
+                "link": "http://www.metroseoul.co.kr/article/20240331500304"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "국힘 수원 후보들  '젖가슴 비유, 박정희 성관계' 막말 김준혁 사퇴하라 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448471?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": " 여성 性 대상화·박정희 비하 김준혁 사퇴하라 …수원 국힘 후보들 규탄대회",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815415?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:12:00 +0900",
+                "title": "박재순 수원시 무 후보, 염태영 후보에 '시민들의 팩트체크 요청이 네거티브?...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331010017810"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:00:00 +0900",
+                "title": "안되면 말고…여야  軍공항 이전  또 희망고문 좀비공약",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350960?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:02:00 +0900",
+                "title": "공식 선거 첫 주말… '격전지' 여야 후보들, 현장 스킨십 총력",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124215"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:35:00 +0900",
+                "title": "공식 선거전 첫 주말…분당 등 경기 격전지 유세전 '치열'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599591?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:52:00 +0900",
+                "title": "'수원시 무' 박재순 후보  염 후보가 시민들 질문에 답하는 것이 공명선거 ",
+                "link": "https://www.newspim.com/news/view/20240330000038"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:02:00 +0900",
+                "title": "수원무 박재순, 염태영 후보에  시민들의 팩트체크 요청이 네거티브? ...12년...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686984"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 04:20:00 +0900",
+                "title": "국민의힘 수원무 박재순 후보,  국회의원 세비 전액 지역사회 환원 하겠다 ",
+                "link": "http://www.metroseoul.co.kr/article/20240329500259"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:09:00 +0900",
+                "title": "[과수원 사람들] 박재순 수원무·이소영 의왕과천·최돈익 안양만안 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815139?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:30:00 +0900",
+                "title": "[포토] 인사하는 박재순 수원무 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900325.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:12:00 +0900",
+                "title": "한동훈 “민주당은 국민 입장 무시해…우리는 국민의 눈치만 볼 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787717"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:58:00 +0900",
+                "title": "한동훈  '네까짓게 어쩔건데' 국민무시, 민주당과 차이 봐달라 ",
+                "link": "https://n.news.naver.com/mnews/article/018/0005703273?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:36:00 +0900",
+                "title": "[4·10 총선]수원 유세 지원한 국힘 한동훈 비상대책위원장  정치 개혁 실천한...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242130"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:02:00 +0900",
+                "title": "수원무 박재순 후보, 국회의원 특권 폐지 앞장... 세비 전액 환원 및 불체포특...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686896"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:20:00 +0900",
+                "title": " 정체된 지역 현안 해결하겠습니다  수원무 박재순 후보 (B tv 수원뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168383"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:10:00 +0900",
+                "title": "박재순 “국회의원 당선 시 세비 6억 원 지역에 환원할 것”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787706"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:22:00 +0900",
+                "title": "박재순 국민의힘 수원시 무 국회의원 후보, “국회의원 세비 전액 환원, ‘불...",
+                "link": "https://www.viva100.com/main/view.php?key=20240329010010175"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:20:00 +0900",
+                "title": "[4·10 총선 인터뷰] 박재순  지켜온, 지켜낼 사람… 숨 쉬는 도시 만들 것 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/29/2024032900235.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:20:00 +0900",
+                "title": "수원벨트 공략하는 국민의힘 수원갑 '김현준 후보'",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7245"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+                "title": "박재순 후보, 국회의원 세비 환원 등 특권 내려놓기 약속",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/29/2024032900182.html"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:02:00 +0900",
+                "title": "국민의힘 박재순 국회의원 후보, 출정식 가져",
+                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041769"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:46:00 +0900",
+                "title": "[열전 25시] 3월 29일 경기도 현장은 지금①",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037692?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:56:00 +0900",
+                "title": "경기 최대 5석 수원 후보들, 유권자 손 잡으며 표심잡기",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644189"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:15:00 +0900",
+                "title": "선거운동 첫날, 경기도 금배지 쟁탈전 ‘후끈’ [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037664?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:04:00 +0900",
+                "title": "전북 국회의석 절대 부족…수도권 전북연고 후보·비례대표 국회 진입 주목",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463632"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:26:00 +0900",
+                "title": "'집 4채' 김종양 창원 의창 후보… 부동산 정책 옳게 다루겠나 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907607"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:16:00 +0900",
+                "title": "수원무 박재순,  숙원사업 해결해 12년 무능함을 입증하겠다!  결기 가득찬 출...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686816"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:06:00 +0900",
+                "title": "국민의힘 박재순 수원무 후보  반드시 승리, 숙원사업 해결할 것 ",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446479"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:24:00 +0900",
+                "title": "박재순 국민의힘 수원시무 후보  반드시 승리해 숙원사업 해결 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017026"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "'10여년 民 독주'vs'무능한 尹 정부' 쌍방 심판론 꺼낸 수원 총선판",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702356?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:12:00 +0900",
+                "title": "4·10 총선 ‘같으면서 다른’ 표심 공략…‘단일대오’ VS ‘각개전투’",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787622"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+                "title": "[4·10총선] 박재순 국민의힘 수원시무 국회의원 후보,  숙원사업 해결해 민주...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241902"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:40:00 +0900",
+                "title": "박재순  반드시 승리해 민주당 무능함 입증할 것 ",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/28/2024032800363.html"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:38:00 +0900",
+                "title": "박재순 국민의힘 수원시 무 국회의원 후보, “반드시 승리, 숙원사업 해결하겠...",
+                "link": "https://www.viva100.com/main/view.php?key=20240328010009753"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:38:00 +0900",
+                "title": "국민의힘 박재순 수원무 후보 출정식",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363644000"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘, 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879117?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 12:04:00 +0900",
+                "title": "국힘 수원 주자들  수원시장·경기도지사·국회의원 5석에도 군공항 이전 못해...",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748138"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:14:00 +0900",
+                "title": "주거권단체  3주택 이상 총선 후보 24명…국힘이 17명 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455894?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:14:00 +0900",
+                "title": "[총선] 국힘 수원후보들  군공항 이전 해결, 그 자리에 융복합산업단지 조성 ",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=384277"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:12:00 +0900",
+                "title": "'격전지 수원' 선거 운동 첫날…국힘  민주당 독주, 꼭 막겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441817?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 05:02:00 +0900",
+                "title": "막 오른 공식 선거운동… ‘경기대전’ 화력 집중 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037545?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "민주  경기남부 첨단산업 성장 거점으로  국힘  군공항 기능 재배치 수원서 옮...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080524"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:02:00 +0900",
+                "title": "한동훈 반도체 콕 집어 민심 공략",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:46:00 +0900",
+                "title": "수원 찾은 한동훈, “반도체 특별법 발의”…민주당 때리기 병행 [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037529?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 20:06:00 +0900",
+                "title": "[르포] 울컥한 한동훈  민주당 비동의간음죄 공약이 실수? 분위기 안 좋으니 ...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240327010016349"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:48:00 +0900",
+                "title": "한동훈, 경기도 ‘반도체 벨트’ 지지 호소…“정책실현 후보 필요”",
+                "link": "http://www.kukinews.com/newsView/kuk202403270281"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:46:00 +0900",
+                "title": "한동훈  국회 첫 법안은 '반도체 특별법'…여러분 잘사는 것에만 관심 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017966?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:38:00 +0900",
+                "title": "[22대 총선 D-13] 선거운동 본격 돌입… 마이크 잡고 현장 누빈다",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643877"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:37:00 +0900",
+                "title": "[현장] 한동훈, 주춤한 '수원탈환' 지원사격  시작과 마지막 이곳서 하겠다 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814181?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:31:00 +0900",
+                "title": "국민의힘 한동훈 비상대책위원장 수원 찾아 지지호소 [포토뉴스]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037523?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:10:00 +0900",
+                "title": "한동훈, 수원서 공식선거 전 마지막 유세…  서서 죽겠다는 각오 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643917"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:44:00 +0900",
+                "title": "[4·10총선] 국힘 수원, 용인, 화성, 오산 후보들  반도체 산업 특별법 국회 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241689"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:42:00 +0900",
+                "title": "수원 찾은 한동훈, 시민들 빨간 풍선 흔들며 '환호'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454362?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:41:00 +0900",
+                "title": "국민의힘, 인천서  교통 상전벽해 , 수원에선  반도체 굴기  약속",
+                "link": "https://n.news.naver.com/mnews/article/055/0001142265?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:20:00 +0900",
+                "title": "[영상+] 한동훈 “경기 남부에서 승리해 ‘반도체 지원 특별법’ 발의하겠다”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240327027052563"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:17:00 +0900",
+                "title": "한동훈, 인천·수원서  범죄자들 아닌 우릴 선택해달라 (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012454320?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:05:00 +0900",
+                "title": "[총선] 국민의힘, 인천서 “교통 상전벽해”, 수원에선 “반도체 굴기” 약속",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689762?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:02:00 +0900",
+                "title": "박재순 국민의힘 수원무 후보, '수원시 재정자립도' 지적",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446244"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:56:00 +0900",
+                "title": "수원지역 국힘 후보들  수원군공항 문제 반드시 해결 ",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325290?sid=102"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:51:00 +0900",
+                "title": "與, 인천서  교통 상전벽해 , 수원에선  반도체 굴기  약속(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014593027?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:42:00 +0900",
+                "title": "[선택4·10] 여야, 공약 놓고 '공방'… 국민 기만 행위  vs.  억울한 사람 양...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067278"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "28일 0시 ‘총선 공식 선거운동’ 개시…여야 표밭갈이 총력",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787454"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:22:00 +0900",
+                "title": "국민의힘 수원 후보들 '수원군공항 문제' 한 목소리",
+                "link": "http://www.mhj21.com/160134"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:16:00 +0900",
+                "title": "국민의힘 후보들 한 목소리  수원군공항 문제해결...말로만 하지 않겠다 ",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316979"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:44:00 +0900",
+                "title": "국민의힘 수원 후보들, 군공항 문제 해결 의지 한목소리",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/03/27/2024032700310.html"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:42:00 +0900",
+                "title": "국힘 수원 후보들, 수원군공항 자리에 미래 융.복합산업단지 조성",
+                "link": "http://www.m-economynews.com/news/article.html?no=42621"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "방문규 등 與수원후보들  수원군공항 문제해결, 말로만 하지 않아 '한 목소리...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219503"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:06:00 +0900",
+                "title": "與 수원후보들, ‘수원 군공항’ 승부수…“군공항 폐쇄가 목표”",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=787360"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:40:00 +0900",
+                "title": "한동훈, 인천 표밭갈이… 새 변화 강조",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954611"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:40:00 +0900",
+                "title": "[총선핫스팟] 수원무 지역일꾼론 대결, ‘3선시장’ 민주 염태영 vs ‘도의원...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347067"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:36:00 +0900",
+                "title": " 수원군공항 문제해결, 말로만 하지 않겠다  한 목소리",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849541"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:28:00 +0900",
+                "title": "[4·10총선] 국민의힘 수원지역 후보들  민주당이 못한 수원군공항문제 해결하...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241555"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:04:00 +0900",
+                "title": "국민의힘 후보들  수원군공항 이전 부지에 '미래 융·복합산업단지' 조성 ",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643727"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:38:00 +0900",
+                "title": "수원 국민의힘 후보들  수원군공항, 쪼개기 이전도 가능…폐쇄가 목적 ",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814038?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:26:00 +0900",
+                "title": "국힘 박재순 수원시 무 후보, 수원시 재정자립도 지적",
+                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041627"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:06:00 +0900",
+                "title": "[4·10총선] 박재순 수원 무 국회의원 후보, 염태영 후보에 일갈  수원시 재정...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241520"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:05:00 +0900",
+                "title": "[과수원 사람들] 민주당 수원 김준혁·염태영 후보·국민의힘 수원 후보들·국...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002814024?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:50:00 +0900",
+                "title": "국힘 수원 주자들  군공항 주변 고도제한 완화·이전 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452914?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:23:00 +0900",
+                "title": "국민의힘 수원지역 후보들 “민주당, 군공항 이전 못해…우리에게 맡겨달라”...",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037430?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:22:00 +0900",
+                "title": "수원무 박재순,  염태영 후보, 남 탓 말고 수원시 재정자립도 낙제점 만든 것...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686468"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 10658416
+            }
+        ],
+        "huboid": "100151333",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4102/Hb100151333/junkwa/20240321142033554_10.PDF"
+    }
 ]

@@ -1,162 +1,1153 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-1.jpg",
-    "id": "2111102-1",
-    "재산": 1012801,
-    "생년월일": "19651015",
-    "경력": "(전) 민선5,6기 노원구청장\n(현) 제21대 국회의원",
-    "학력": "연세대학교 행정대학원 도시및지방행정전공 졸업(행정학 석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1026",
-    "regionId": "2111102",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:36:00 +0900",
-        "title": "[총선/여론조사] 광주 광산을, 민형배 62%·이낙연 15%",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693071?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:32:00 +0900",
-        "title": "[2024 총선 기획 후보별 공약 점검]⑦광주 동남을",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765231"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:06:00 +0900",
-        "title": "[총선/여론조사] 광주 광산을, 민형배 62%·이낙연 15%",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692855?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-        "title": "[총선 때문에 물 건너간 유통법]  민생법안 나몰라라 ...폐기 수순으로",
-        "link": "https://www.ajunews.com/view/20240401142118187"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-        "title": "[광주 동구남구을] 민주당 안도걸 60%, 무소속 김성환 13%, 국민의힘 박은식 ...",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428422?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김성환",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 670058
-      },
-      {
-        "연도": 2021,
-        "재산": 1067292
-      },
-      {
-        "연도": 2022,
-        "재산": 1003179
-      },
-      {
-        "연도": 2023,
-        "재산": 1012801
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-2.jpg",
-    "id": "2111102-2",
-    "재산": 1408447,
-    "생년월일": "19881013",
-    "경력": "(전) 서울대학교 국가재정연구센터 연구원\n(현) 국민의힘 노원구을 조직위원장",
-    "학력": "서울대학교 행정대학원 행정학과 졸업 (정책학 석사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111102",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:02:00 +0900",
-        "title": "한동훈 위원장, 4.10총선  ‘대한민국이 전진할 것인가, 후진할 것인가' 결정...",
-        "link": "https://www.jjan.kr/article/20240401580321"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:16:00 +0900",
-        "title": "尹대통령,  의대 증원 2000명 멈출 수 없어 ...의료계  대화할 의지 없는 것 ",
-        "link": "https://www.jjan.kr/article/20240401580291"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:15:00 +0900",
-        "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
-        "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 13:43:00 +0900",
-        "title": "여야 인천시민 기대와 거리 먼 재탕 삼탕 공약[2024 총선]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005164318?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김준호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1408447
-      }
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-7.jpg",
-    "id": "2111102-7",
-    "재산": 1941368,
-    "생년월일": "19540928",
-    "경력": "(전) 세종대학교 자연과학대학 학장(교수)\n(현) 밝은누리모임 대표",
-    "학력": "(미국) 텍사스 오스틴 대학교 대학원 졸업(물리학 박사, 1984.09.~1990.08)",
-    "직업": "자유업(정치개혁운동)",
-    "성별": "남",
-    "regionId": "2111102",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-        "title": "[4·10총선 후보자 등록] 서울",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:37:00 +0900",
-        "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:26:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "이창영",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1941368
-      }
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-1.jpg",
+        "id": "2111102-1",
+        "재산": 1012801,
+        "생년월일": "19651015",
+        "경력": "(전) 민선5,6기 노원구청장\n(현) 제21대 국회의원",
+        "학력": "연세대학교 행정대학원 도시및지방행정전공 졸업(행정학 석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1026",
+        "regionId": "2111102",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4·10총선 심판론 태풍] 광주 유권자들께 들어보니",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=642012"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4·10총선 심판론 태풍] '非민주' 이색 선거운동",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=642010"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+                "title": "[광주 동구남구을] 민주당 안도걸 56%, 무소속 김성환 20%, 국민의힘 박은식 ...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428653?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:06:00 +0900",
+                "title": "&lt;총선*여론조사&gt; 광주 광산을, 민형배 64% VS 이낙연 17%*동남을 안도걸 56% ...",
+                "link": "https://kjmbc.co.kr/article/o6nXKc0Dm0sFPqgZ-xV"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+                "title": "[선택4·10] '사전투표 D-3' 국민의힘 '읍소'에 민주당 '경계'… 기회 달라  ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "민형배 64%·안도걸 56% 지지율···민주당 '초강세' 여전",
+                "link": "http://www.mdilbo.com/detail/RHfGUG/716875"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+                "title": "[여론조사] 조국혁신당 비례대표 지지도 1위··· 돌풍 아닌 태풍 ",
+                "link": "http://www.mdilbo.com/detail/pXX7Fj/716871"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "노원 총선 토론회…'갑 현경병 불참' '을 불꽃 경쟁' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168487"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:01:00 +0900",
+                "title": "[총선 여론조사]'정치 1번지' 광주 동남을 안도걸 56%·김성환 20%",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467187?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "광산을 민형배 64%·동남을 안도걸 56%.. 크게 앞서",
+                "link": "https://kjmbc.co.kr/article/M5PXVuxuvIiJ"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "[총선 여론조사]광주 '지민비조' 돌풍…정권심판론 강세(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467183?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "지지부진한 광주 군공항 이전 해법 후보들  나에게 맡겨달라 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881056?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+                "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
+                "link": "https://www.newspim.com/news/view/20240402000595"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:50:00 +0900",
+                "title": "'내부순환 급행철도' 총선 공약 급부상 … '기동카'도 변수 [혼돈의 서울 표심...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200137.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:28:00 +0900",
+                "title": "[총선/여론조사] 광주 광산을, 민형배 62%·이낙연 15%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693345?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:36:00 +0900",
+                "title": "[총선/여론조사] 광주 광산을, 민형배 62%·이낙연 15%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693071?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:32:00 +0900",
+                "title": "[2024 총선 기획 후보별 공약 점검]⑦광주 동남을",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765231"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:06:00 +0900",
+                "title": "[총선/여론조사] 광주 광산을, 민형배 62%·이낙연 15%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692855?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+                "title": "[총선 때문에 물 건너간 유통법]  민생법안 나몰라라 ...폐기 수순으로",
+                "link": "https://www.ajunews.com/view/20240401142118187"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+                "title": "[광주 동구남구을] 민주당 안도걸 60%, 무소속 김성환 13%, 국민의힘 박은식 ...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428422?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:31:00 +0900",
+                "title": "[총선/여론조사]② 광주 광산을, 민형배 62%·이낙연 15%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692814?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": " 튀어야 산다  광주·전남 총선 후보들 이색 선거운동 행렬",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765215"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:55:00 +0900",
+                "title": " 튀어야 산다  광주·전남 이색 선거운동 행렬",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464049?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 01:01:00 +0900",
+                "title": "[한신협 공동 전국 판세분석]서울 최대승부처 여야 대결 치열",
+                "link": "https://n.news.naver.com/mnews/article/087/0001035346?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:42:00 +0900",
+                "title": "선거운동 첫 주말·휴일 광주 유세전 ‘치열’",
+                "link": "http://www.kjdaily.com/article.php?aid=1711887344626166245"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:36:00 +0900",
+                "title": "[한신협 민심 분석-서울] '48석 최대 승부처' 민 25·국 11 각각 우세 자체 분...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401010003483"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:31:00 +0900",
+                "title": "[한신협 4·10 총선 판세분석-서울] 민주 25곳, 국민의힘 11곳 우세 평가",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870273?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:24:00 +0900",
+                "title": "광주 여야 후보들, 공식 선거운동 이후 첫 주말 표심잡기 안간힘",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880137?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:58:00 +0900",
+                "title": "[한국지방신문협회 전국 판세 분석] 선택 4·10 내일을 바꾸는 한 표",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428987"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:16:00 +0900",
+                "title": "[총선 D-9] 교회로 공원으로....광주·전남 후보들 표심 공략 '동분서주'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765059"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:54:00 +0900",
+                "title": "'봄바람 휘날리며' D-10 광주 후보들 일요일 열띤 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007448648?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:35:00 +0900",
+                "title": "일주이슈 121-2&gt;“AI중심도시·군공항 이전·인구감소 대응”",
+                "link": "http://www.jnilbo.com/73183563112"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:17:00 +0900",
+                "title": "광주 동남을 첫 주말 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600729?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:08:00 +0900",
+                "title": "[총선 D-10] '종교시설부터 대학가까지'…광주 후보들 휴일 표심 호소",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600538?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:00:00 +0900",
+                "title": "'호남 정치 1번지' 적임자 누구?…안갯속 광주 동남을[4·10총선 D-10]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012460710?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 18:17:00 +0900",
+                "title": "총선 선거운동 첫 주말…광주·전남 후보들 아침부터 총력전(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446960?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:57:00 +0900",
+                "title": " 정권 심판 ,  일하는 후보 …총선 선거운동 첫 주말 '후끈'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446620?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:46:00 +0900",
+                "title": "광 주 찾은 임혁백 공관위원장,“민주당 경선, 오직 시스템에 따라 공정하게 ...",
+                "link": "https://www.viva100.com/main/view.php?key=20240330010010235"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:46:00 +0900",
+                "title": "'지역경제 활성화' '검찰개혁' 1호 법안 발의 공약도 시대 과제 담겨",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879739?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+                "title": "‘정권 심판’ 앞세운 민주, 광주·전남 또 싹쓸이할까",
+                "link": "http://www.kjdaily.com/article.php?aid=1711629500626058245"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:15:00 +0900",
+                "title": "공식 선거운동 첫날, 광주 지역 총선 후보들 유세 통해 승리 다짐",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277054?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:55:00 +0900",
+                "title": "빗줄기도 막지 못했다…광주서도 총선 선거운동 시작(종합)",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879222?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:34:00 +0900",
+                "title": "활동가형(ENFP) VS 현실주의자(ISTJ)…광주 동남을 유권자의 선택은?",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879209?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:01:00 +0900",
+                "title": "굵은 빗줄기도 막지 못했다…광주서도 총선 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879042?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:36:00 +0900",
+                "title": "제22대 총선 광주지역 대진표 완성...36명 출사표",
+                "link": "http://www.cmbkj.co.kr/ab-991-31224"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:36:00 +0900",
+                "title": "광주 총선 동남을 법적다툼...˝명예훼손˝·˝무고죄 맞고소˝",
+                "link": "http://www.cmbkj.co.kr/ab-991-31225"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:40:00 +0900",
+                "title": " 지방이 무너진다  광주전남 총선 후보들 꼽은 지역 현안은 '지방소멸'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003878648?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:52:00 +0900",
+                "title": "무소속 김성환 후보, '안도걸 후보 주변 선거법 위반 혐의 신속 수사 촉구'",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=357075"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 07:30:00 +0900",
+                "title": "'공천 논란 ' 민주당 광주·전남 18석 싹쓸이 가능할까?",
+                "link": "http://www.mdilbo.com/detail/RHfGUG/716253"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 23:40:00 +0900",
+                "title": "광주 총선공약 키워드 '인공지능 미래산업 발전·인구 소멸 대응·군공항 이전...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764488"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:01:00 +0900",
+                "title": "[공약·정책·한판승부_광주 동구남구을]③ 무주공산 새주인은?",
+                "link": "https://kjmbc.co.kr/article/iS8uh2nzaJsPmF"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:56:00 +0900",
+                "title": "김현권  새로운 미래 50년 먹거리 만들겠다 ",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543656"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:34:00 +0900",
+                "title": "노원 창동차량기지…김성환 '바이오' VS 김준호 '반도체'(B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168223"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:26:00 +0900",
+                "title": "[사설]광주·전남 총선 국민의힘·무소속 선전 '최대 관건'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764422"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:08:00 +0900",
+                "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:41:00 +0900",
+                "title": "광주 총선공약 키워드 '인공지능·인구·군공항 이전'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014590053?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:48:00 +0900",
+                "title": "고준위 특별법, 차기 국회도 '부지 내 저장·원전 연장' 논란 지속 전망",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240326010015226"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:10:00 +0900",
+                "title": "'고소 공방에 네거티브까지'…광주 총선 후보들 한심한 구태 여전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437024?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:49:00 +0900",
+                "title": "광주 동남을 김성환  경찰 압수수색 안도걸 후보 측 '선거법 위반' 신속 수사...",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276299?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:22:00 +0900",
+                "title": "국힘 82곳-민주 110곳에서 우세 자신",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 09:46:00 +0900",
+                "title": "[긴급진단] 동부간선 '지하화' 사활 거는 총선… 착공은 언제?",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485901"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 02:08:00 +0900",
+                "title": "'더불어민주당 경선 후유증' 광주 동남을, 이병훈·안도걸·김성환 선거 캠프...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764292"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:52:00 +0900",
+                "title": "박지혜 의정부갑 후보  지속가능한 미래 그려나갈 것  총선승리 다짐",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079833"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:37:00 +0900",
+                "title": "‘경선 후유증’ 민주당 광주 동남을…“ 법적 다툼 계속”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002285374?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:23:00 +0900",
+                "title": "'경선 후유증' 광주 동남을, 민주당원들끼리 고발전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014587254?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:18:00 +0900",
+                "title": "광주전남 총선 후보들 현 시대 과제는 단연 '민생' 한목소리",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877649?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:42:00 +0900",
+                "title": "민주당 '영입인재 1호' 박지혜, 지속가능한 캠프 개소식 개최",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121925"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:06:00 +0900",
+                "title": "[4·10 총선 후보] 광주 동남을",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641620"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:09:00 +0900",
+                "title": "김현권 “다가올 미래 50년의 새로운 먹거리 만들겠다”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474189"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:26:00 +0900",
+                "title": "[열전 25시] 3월 24일 경기도 현장은 지금④",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037126?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:16:00 +0900",
+                "title": "안도걸 지지자들 “선거법 위반 김성환 고발”",
+                "link": "http://www.kjdaily.com/article.php?aid=1711277218625635245"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "김현권 구미을 후보 선거사무소 개소… 다가올 미래 50년 새로운 먹거리 창출...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004478"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 19:26:00 +0900",
+                "title": "총선 스타트… 광주·전남, 민주 독주 속 국힘 선전 관심",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711275780766095358"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "광주·전남 4·10 총선 후보자",
+                "link": "http://www.jndn.com/article.php?aid=1711271460382466003"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:58:00 +0900",
+                "title": "[2024총선]후보등록 후 첫 휴일 광주 후보들 표심잡기 '열일'",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764078"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:46:00 +0900",
+                "title": "김성환  조국혁신당과의 통합? 너무 이른 판단 ",
+                "link": "https://n.news.naver.com/mnews/article/057/0001807803?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:36:00 +0900",
+                "title": "[전남일보]총선 후보 등록&gt;광주·전남 후보별 재산·병역·체납액·전과 현황",
+                "link": "http://www.jnilbo.com/73103720156"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:12:00 +0900",
+                "title": "[총선 D-17] 민주당 황정아 유성을 후보, 선대위 출범… 尹정권 심판하고 완전...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1023569"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:00:00 +0900",
+                "title": " 가장 중요한 전선, 낙동강 벨트  김성환 더불어민주당 의원 (인재영입위 간사...",
+                "link": "https://n.news.naver.com/mnews/article/057/0001807794?sid=102"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:14:00 +0900",
+                "title": "'경선 물갈이 태풍' 광주·전남 현역들 얼마나 살아남을까?",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/715983"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:12:00 +0900",
+                "title": "대전 유성을 황정아 선대위 출범... 尹정권 심판하고 국민 승리 쟁취 ",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355958"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:04:00 +0900",
+                "title": "박지혜 민주당 '영입인재 1호' 의정부갑 후보, '박지혜의 지속가능한 캠프' 개...",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363643045"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 15:22:00 +0900",
+                "title": "황정아 후보, 선거대책위원회 출범식 성료",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1429826"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:30:00 +0900",
+                "title": "[포토] 축사하는 더불어민주당 김성환 후보",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121748"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:26:00 +0900",
+                "title": "[포토] 축사하는 더불어민주당 김성환 서울 노원을 후보",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121737"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 12:42:00 +0900",
+                "title": "민주당 김현권 후보, 선거사무소 개소식 성황리에 마쳐",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989372"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 09:52:00 +0900",
+                "title": "[선택 4·10] 황정아 선대위 출범식 성료... 尹정권 심판하고 새로운 유성의 ...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065744"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 09:10:00 +0900",
+                "title": "황정아 후보 “정권 심판으로 새로운 유성의 길 열겠다”",
+                "link": "http://www.breaknews.com/1022754"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 07:00:00 +0900",
+                "title": "[현장] 도봉갑 안귀령 개소식…우상호·정청래 등 野 핵심 지원사격",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812655?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:34:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]③ 광주 동남을, 여야 4당·무소속 출마",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687282?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:26:00 +0900",
+                "title": "민주 황정아 선대위 출범... 새로운 유성의 길 열겠다 ",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=329394"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:00:00 +0900",
+                "title": "김현권 구미시을 후보  다가올 미래 50년의 새로운 먹거리 만들겠다 ",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104411"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:44:00 +0900",
+                "title": "황정아 ‘정권심판·총선승리 민주당 유성구을 선거대책위 발대식'",
+                "link": "http://www.kukinews.com/newsView/kuk202403230042"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 13:58:00 +0900",
+                "title": "[총선열전] 황정아 '다정캠프' 선대위 출범…  과학강국 수도 유성 위한 원팀...",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240323010007213"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 13:12:00 +0900",
+                "title": "황정아 다정캠프, 표심 잡고 윤 정권 심판 선언",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264114"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김성환",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 670058
+            },
+            {
+                "연도": 2021,
+                "재산": 1067292
+            },
+            {
+                "연도": 2022,
+                "재산": 1003179
+            },
+            {
+                "연도": 2023,
+                "재산": 1012801
+            }
+        ],
+        "huboid": "100152795",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100152795/junkwa/20240314112840543_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-2.jpg",
+        "id": "2111102-2",
+        "재산": 1408447,
+        "생년월일": "19881013",
+        "경력": "(전) 서울대학교 국가재정연구센터 연구원\n(현) 국민의힘 노원구을 조직위원장",
+        "학력": "서울대학교 행정대학원 행정학과 졸업 (정책학 석사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2111102",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:02:00 +0900",
+                "title": "노원 총선 토론회…'갑 현경병 불참' '을 불꽃 경쟁' (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168487"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
+                "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+                "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
+                "link": "https://www.newspim.com/news/view/20240402000595"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:02:00 +0900",
+                "title": "한동훈 위원장, 4.10총선  ‘대한민국이 전진할 것인가, 후진할 것인가' 결정...",
+                "link": "https://www.jjan.kr/article/20240401580321"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "尹대통령,  의대 증원 2000명 멈출 수 없어 ...의료계  대화할 의지 없는 것 ",
+                "link": "https://www.jjan.kr/article/20240401580291"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:52:00 +0900",
+                "title": "서울 10여곳 오차 범위 내 접전 ... 尹대통령 담화 막판 변수 부상",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409393"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:15:00 +0900",
+                "title": "[총선판세] 서울 48곳 중 10곳이상 안갯속…尹담화 영향 주목",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450625?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:43:00 +0900",
+                "title": "여야 인천시민 기대와 거리 먼 재탕 삼탕 공약[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005164318?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:40:00 +0900",
+                "title": "이종섭, 총선 패배 위기에 떠밀린 사의···여당 일각 “뒤집기엔 늦었다”",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287619?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+                "title": "현경병  태릉골프장에 아파트 건설 웬말...생태공원 만들자 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004966355?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:02:00 +0900",
+                "title": "김부겸 위원장  이번 총선은 윤석열 정부 중간평가..원내 1당 목표 ",
+                "link": "https://www.jjan.kr/article/20240328580249"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 22:48:00 +0900",
+                "title": "현경병 與 노원갑 후보  태릉골프장 아파트 전면 백지화, 녹지공원 조성해야 ",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240327010016380"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:08:00 +0900",
+                "title": "대통령실  국회 세종의사당 개원은 윤대통령 공약…제2집무실 속도낼 것 ",
+                "link": "https://www.jjan.kr/article/20240327580351"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:04:00 +0900",
+                "title": "태릉골프장 활용안, 노원갑 ‘선거 쟁점’ 부상",
+                "link": "http://www.kukinews.com/newsView/kuk202403270269"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:36:00 +0900",
+                "title": "태릉골프장 공공개발 대신 생태 녹지공원 조성 합의한 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014592986?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:14:00 +0900",
+                "title": "與 후보들  태릉 골프장, 아파트 대신 K센트럴파크 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007440268?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:10:00 +0900",
+                "title": "노원갑 현경병 등 與후보들  태릉골프장, 아파트 대신 녹지공원으로 ",
+                "link": "https://n.news.naver.com/mnews/article/008/0005017894?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:08:00 +0900",
+                "title": "국힘 후보들, “태릉골프장 아파트 건설 전면 백지화” 한 목소리",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294634603596"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:31:00 +0900",
+                "title": "노원갑 출마 현경병 등 與 후보들 “태릉골프장, 아파트 대신 ‘K센트럴파크’...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002628864?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 15:03:00 +0900",
+                "title": "노원갑 현경병 “태릉골프장, 아파트 건설 대신 ‘초대형 녹지공원’ 조성”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002286598?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 14:22:00 +0900",
+                "title": "서울 북동부 여당 후보들 “태릉골프장 공원으로”",
+                "link": "https://www.naeil.com/news/read/505718?ref=naver"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:26:00 +0900",
+                "title": "여 노원갑 현경병  태릉골프장 아파트 백지화…녹지공원 조성해야 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012452826?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 11:15:00 +0900",
+                "title": "1인시위만 40여차례…현경병 “태릉 골프장 아파트 건설 백지화해야”",
+                "link": "https://n.news.naver.com/mnews/article/011/0004319219?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 18:34:00 +0900",
+                "title": "노원 창동차량기지…김성환 '바이오' VS 김준호 '반도체'(B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168223"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:00:00 +0900",
+                "title": "윤대통령, 내년 예산  광역교통, 의료, 문화 등 지방 인프라 개선 확실 지원 ",
+                "link": "https://www.jjan.kr/article/20240326580209"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:56:00 +0900",
+                "title": "윤대통령, 한총리에  의료계 비롯 각계와 더 긴밀히 소통하라 ",
+                "link": "https://www.jjan.kr/article/20240325580240"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:10:00 +0900",
+                "title": "4.10 총선서 출향 전북인 39명 금배지 도전",
+                "link": "https://www.jjan.kr/article/20240324580239"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:12:00 +0900",
+                "title": "[포토] 김주성 서울시의원 보궐선거 후보, 선거사무소 개소식",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121421"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:54:00 +0900",
+                "title": "노원을 與 김준호  김성환, 내 모교에 신상 자료 뒷조사 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004963054?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 21:02:00 +0900",
+                "title": "파라다이스시티 카지노 노동조합, 배준영 후보 지지선언",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=445085"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:04:00 +0900",
+                "title": "[인천 중·강·옹] 영종 파라다이스시티 카지노 노조, 배준영 지지선언",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=243704"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:58:00 +0900",
+                "title": "파라다이스시티 카지노 노동조합, 배준영 후보 지지 선언",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1845831"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:56:00 +0900",
+                "title": "[총선 D-21] 파라다이스시티 카지노 노동조합 임원, 국힘 배준영 예비후보 지...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1022676"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:12:00 +0900",
+                "title": "이재명이든 한동훈이든, 누가 이겨도 변하지 않는 것 [김용균재단이 바라본 세...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426604?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 07:38:00 +0900",
+                "title": "'슈돌' 박주호 子 건후, 학교갔다…의젓하고 늠름해진 초등 1학년 자태",
+                "link": "http://www.stoo.com/article.php?aid=92392362196"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 07:23:00 +0900",
+                "title": "박주호 子 건후, 학교갔다! '의젓+늠름' 초등 1학년 폭풍성장 '랜선 이모 뭉클...",
+                "link": "https://n.news.naver.com/mnews/article/076/0004123246?sid=106"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 20:45:00 +0900",
+                "title": "'슈돌' 조현우 딸 하린&amp;예린, 남다른 흥자매의 축구장 즐기는 방법",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639574"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:56:00 +0900",
+                "title": "[슈퍼맨이 돌아왔다] ] 조현우 딸 하린-예린, 홍명보 이름 묻자  홈런볼   홀...",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=578208"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:36:00 +0900",
+                "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 18:04:00 +0900",
+                "title": "'슈돌' 조현우 딸, 홍명보 감독 이름은 홀랑구? [Oh!쎈 예고]",
+                "link": "https://n.news.naver.com/mnews/article/109/0005037972?sid=106"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:14:00 +0900",
+                "title": "대통령실  이종섭, 공수처에서도 출국 허락 받아  vs 공수처  허락한 적 없다...",
+                "link": "https://www.jjan.kr/article/20240318580191"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 06:02:00 +0900",
+                "title": "[Hot한 후보, Hot한 지역구] 민주 텃밭에 도전장 낸 30대 젊은 피 김준호",
+                "link": "https://www.ajunews.com/view/20240317110409609"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 05:03:00 +0900",
+                "title": "‘청년’ ‘청년’ 외치더니… 실력 겨룰 정치 무대는커녕 들러리 세웠다 [총...",
+                "link": "https://n.news.naver.com/mnews/article/081/0003437731?sid=100"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 13:18:00 +0900",
+                "title": "설욕 벼르는 국민의힘, 한강 물결 흐름 바꿔놓을까",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224787"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 11:40:00 +0900",
+                "title": "與김준호  상계·중계주민 곁이 우선…노원 발전에 최선 [총선人]",
+                "link": "https://n.news.naver.com/mnews/article/018/0005693843?sid=165"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 15:01:00 +0900",
+                "title": "[동앵과 뉴스터디]여야 생사 걸린 17곳! 서울 총선 대진표 완벽 분석",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270304?sid=100"
+            },
+            {
+                "date": "Sat, 16 Mar 2024 07:04:00 +0900",
+                "title": "여야, 여성·청년 모신다더니… 이번에도 홀대",
+                "link": "https://n.news.naver.com/mnews/article/022/0003914577?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 18:52:00 +0900",
+                "title": "與 고동진·유경준, 서로 후원회장 맡는다",
+                "link": "https://n.news.naver.com/mnews/article/015/0004960604?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 14:51:00 +0900",
+                "title": "[단독] 與 장동혁, 김준호 후원회장 맡는다…野 홍성국은 공영운 후원",
+                "link": "https://n.news.naver.com/mnews/article/015/0004960450?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 17:00:00 +0900",
+                "title": "[4.10총선-39] 노원을 김성환vs김준호. 승리보다는 전투력에 의미",
+                "link": "http://www.mhj21.com/159839"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 11:08:00 +0900",
+                "title": "류제화 국민의힘 세종시 '갑' 후보, 제22대 총선 중앙선대위 '대변인'으로 활...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=554336"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 08:00:00 +0900",
+                "title": "[기자수첩] 젊은 국회를 위하여",
+                "link": "https://www.newspim.com/news/view/20240313000599"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 17:34:00 +0900",
+                "title": "'새얼굴' 안귀령 對 '토박이' 김재섭…도봉갑 'MZ대결' [총선 빅매치]",
+                "link": "https://n.news.naver.com/mnews/article/586/0000074489?sid=100"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 12:24:00 +0900",
+                "title": "한강 탈환 노리는 국민의힘… 개혁신당 변수 되나",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=224268"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 10:32:00 +0900",
+                "title": "김준호  승무원 아내가 차은우 보고 아들 이름 '은우'로 짓자고 해  ('슈돌')",
+                "link": "https://n.news.naver.com/mnews/article/213/0001289050?sid=106"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 18:48:00 +0900",
+                "title": "'더 커진' 노원을…'김성환 대 김준호' 맞대결(B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167654"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 16:32:00 +0900",
+                "title": "윤대통령  의료 개혁 완수 위해 종교계도 힘 모아달라 ",
+                "link": "https://www.jjan.kr/article/20240312580246"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 04:12:00 +0900",
+                "title": "공천자 평균 58세…'내사람 꽂기'에 청년정치 씨 마른다",
+                "link": "https://n.news.naver.com/mnews/article/079/0003872599?sid=165"
+            },
+            {
+                "date": "Mon, 11 Mar 2024 17:38:00 +0900",
+                "title": "윤대통령  강원을 디지털·바이오 첨단기지로...설악산 케이블카 추가 건설 ",
+                "link": "https://www.jjan.kr/article/20240311580268"
+            },
+            {
+                "date": "Sat, 09 Mar 2024 03:02:00 +0900",
+                "title": "與 7080 신인 vs 野 운동권 현역 ‘강북 大戰’",
+                "link": "https://n.news.naver.com/mnews/article/023/0003821108?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 13:00:00 +0900",
+                "title": "강남에 앵커만 셋 공천…민주당서 국힘으로 옮겨간 '얼굴 패권주의'",
+                "link": "https://n.news.naver.com/mnews/article/015/0004957581?sid=165"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 11:30:00 +0900",
+                "title": "與野 후보 평균 58세...무색해진 ‘청년·쇄신’",
+                "link": "https://n.news.naver.com/mnews/article/016/0002277520?sid=100"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 10:17:00 +0900",
+                "title": "국회도 늙어간다…與野 공천확정 평균연령, 4년만에 54.8세→57.8세 [이런정치...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002277397?sid=100"
+            },
+            {
+                "date": "Wed, 06 Mar 2024 05:03:00 +0900",
+                "title": "여성·청년 ‘우선 공천’ 이번에도 말뿐이었다",
+                "link": "https://n.news.naver.com/mnews/article/028/0002679644?sid=165"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 18:26:00 +0900",
+                "title": "윤대통령  국가장학금 150만 명 확대…기업 출산지원금 전액 비과세 ",
+                "link": "https://www.jjan.kr/article/20240305580301"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 13:59:00 +0900",
+                "title": "이틀 연속 분신 시도 與 공천 탈락자 6일 구속심사(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012407445?sid=102"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 09:40:00 +0900",
+                "title": "'공천 탈락'에 분신 시도한 국민의힘 후보...경찰, '구속영장'",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317240"
+            },
+            {
+                "date": "Tue, 05 Mar 2024 09:27:00 +0900",
+                "title": "이틀 연속 분신 시도 與 공천 탈락자 구속영장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012406384?sid=165"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 13:35:00 +0900",
+                "title": "[이슈] 국힘 공천 탈락자, 이틀 연속 분신 시도 하다 경찰에 체포  난장판 공...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=637446"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 11:48:00 +0900",
+                "title": "20대 전멸한 與 지역구 후보 … 비례대표 공천서 만회할까 [정치與담]",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/04/2024030400165.html"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 11:14:00 +0900",
+                "title": "한동훈, '공천 분신' 소동에… 시민 안전 위협 절대 안 돼 ",
+                "link": "https://n.news.naver.com/mnews/article/031/0000817281?sid=100"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 07:29:00 +0900",
+                "title": " 뉴 어펜져스!  男사브르,파도바월드컵 美에 1점차 大역전우승!'세계4위'오상...",
+                "link": "https://sports.news.naver.com/news.nhn?oid=076&aid=0004116358"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 06:51:00 +0900",
+                "title": "동작을 나경원vs류삼영, 수원을은 홍윤오vs백혜련 ‘맞대결’ 확정",
+                "link": "https://n.news.naver.com/mnews/article/009/0005266739?sid=165"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 03:01:00 +0900",
+                "title": "나경원 대항마에… 野, 추미애-전현희 거론하다 결국 류삼영",
+                "link": "https://n.news.naver.com/mnews/article/020/0003551087?sid=165"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 21:01:00 +0900",
+                "title": "여당 공천 탈락자, 이틀 연속 분신 시도…경찰, 현행범 체포(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012403543?sid=100"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 20:56:00 +0900",
+                "title": "‘이상휘 뒷심’ 현역 김병욱 꺾었다",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=470646"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 17:50:00 +0900",
+                "title": "물갈이 여론에 찬물 … 2030 공천 5% 그쳐",
+                "link": "https://n.news.naver.com/mnews/article/009/0005266669?sid=100"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 17:50:00 +0900",
+                "title": "한강벨트 나경원 vs 류삼영 수원乙은 홍윤오 vs 백혜련",
+                "link": "https://n.news.naver.com/mnews/article/009/0005266673?sid=100"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 16:21:00 +0900",
+                "title": "여당 공천 탈락자, 이틀 연속 분신 시도…경찰, 현행범 체포",
+                "link": "https://n.news.naver.com/mnews/article/003/0012403427?sid=100"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 16:17:00 +0900",
+                "title": "국민의힘 노원갑 공천 탈락자, 이틀 연속 분신 소동",
+                "link": "https://n.news.naver.com/mnews/article/087/0001029464?sid=165"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 14:51:00 +0900",
+                "title": "국힘, 김희곤·임병헌·김병욱 초선 탈락에도 '영남권 현역 생존율 60%'…박민...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=637345"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 14:08:00 +0900",
+                "title": "총선 대진표 절반 윤곽… ‘명룡대전·한강대첩’ 주목",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=223309"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 11:16:00 +0900",
+                "title": "'노원을' 김준호  노원구민 방패 삼은 운동권 정리할 것 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012402935?sid=165"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 09:10:00 +0900",
+                "title": " 이런 난장판 공천을..  국힘 공천 탈락자, 항의하다 당사 앞서 분신 시도",
+                "link": "https://n.news.naver.com/mnews/article/014/0005150058?sid=100"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 06:04:00 +0900",
+                "title": "원희룡-이재명 나경원-류삼영…여야 대진표 절반 윤곽",
+                "link": "https://n.news.naver.com/mnews/article/421/0007386142?sid=165"
+            },
+            {
+                "date": "Sun, 03 Mar 2024 00:04:00 +0900",
+                "title": "與 공천탈락자 ‘분신시도’ 소동…경찰 제압",
+                "link": "https://n.news.naver.com/mnews/article/022/0003909669?sid=102"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 23:47:00 +0900",
+                "title": "국민의힘 공천탈락자, 당사 앞에서 분신시도… 경찰 제압",
+                "link": "https://n.news.naver.com/mnews/article/366/0000974642?sid=102"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 20:18:00 +0900",
+                "title": "'현직 검사 총선 출마' 논란 김상민 전 검사, 국힘 공천 '컷오프' 탈락",
+                "link": "https://www.lawtimes.co.kr/news/196390"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 20:16:00 +0900",
+                "title": "與 공천탈락자, 당사 앞서 분신시도 소동..병원 이송",
+                "link": "https://n.news.naver.com/mnews/article/660/0000056656?sid=102"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 20:14:00 +0900",
+                "title": "국민의힘 공천탈락자, 당사 앞에서 분신시도 소동",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=432271"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 20:14:00 +0900",
+                "title": "국민의힘 공천 탈락자, 당사 앞에서 분신 시도...경찰 제압",
+                "link": "https://www.asiatime.co.kr/article/20240302500025"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 20:02:00 +0900",
+                "title": "국민의 힘 노원갑 공천 신청한 장일 前 당협위원장, 공천 배제에 반발 분신시...",
+                "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=249396"
+            },
+            {
+                "date": "Sat, 02 Mar 2024 19:55:00 +0900",
+                "title": "與 공천탈락자, 당사 앞에서 분신 시도 소동…병원으로 이동",
+                "link": "https://n.news.naver.com/mnews/article/020/0003551025?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김준호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1408447
+            }
+        ],
+        "huboid": "100152956",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100152956/junkwa/20240306172212300_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-7.jpg",
+        "id": "2111102-7",
+        "재산": 1941368,
+        "생년월일": "19540928",
+        "경력": "(전) 세종대학교 자연과학대학 학장(교수)\n(현) 밝은누리모임 대표",
+        "학력": "(미국) 텍사스 오스틴 대학교 대학원 졸업(물리학 박사, 1984.09.~1990.08)",
+        "직업": "자유업(정치개혁운동)",
+        "성별": "남",
+        "regionId": "2111102",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+                "title": "[4·10총선 후보자 등록] 서울",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:28:00 +0900",
+                "title": "서울 4·10 총선 후보자 등록 중간 현황",
+                "link": "https://www.ajunews.com/view/20240322154014965"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:36:00 +0900",
+                "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
+            },
+            {
+                "date": "Thu, 08 Feb 2024 09:16:00 +0900",
+                "title": "[설특집: 22대 총선 수도권 대진표-서울] 49개 선거구 여야 예비후보 240여 명",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483911"
+            },
+            {
+                "date": "Wed, 05 Apr 2023 17:01:00 +0900",
+                "title": "민형배  '반도체 특화단지' 평가 기준 수도권에 일방적 유리 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0006729663?sid=102"
+            },
+            {
+                "date": "Tue, 07 Feb 2023 15:32:00 +0900",
+                "title": "국회, 경제 대정부질문 난방비 폭등 공방",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2650100"
+            },
+            {
+                "date": "Sat, 29 Sep 2012 10:48:00 +0900",
+                "title": "추석 연휴 직전 대구경북 방문 박근혜 후보  신세 갚고 보답드리는 기회… ",
+                "link": "https://n.news.naver.com/mnews/article/088/0000261221"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "이창영",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1941368
+            }
+        ],
+        "huboid": "100151735",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100151735/junkwa/20231222155930451_1.PDF"
+    }
 ]

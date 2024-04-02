@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2481901-1",
-    "regionId": "2481901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-1.jpg",
-    "기호": 1,
-    "이름": "김기태",
-    "생년월일": "19610628",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "순천향대학 국어국문학과 졸업",
-    "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
-    "재산": 144800,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:45:00 +0900",
-        "title": "[마크맨]한동훈 “일할 기회 달라” vs 이재명 “읍소에 속으면 공범”",
-        "link": "https://n.news.naver.com/mnews/article/449/0000271551?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:25:00 +0900",
-        "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:06:00 +0900",
-        "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:16:00 +0900",
-        "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
-        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 144800
-      }
-    ]
-  },
-  {
-    "id": "2481901-2",
-    "regionId": "2481901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-2.jpg",
-    "기호": 2,
-    "이름": "신성범",
-    "생년월일": "19630601",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "서울대학교 사회과학대학 인류학과 졸업",
-    "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
-    "재산": 1215065,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 09:10:00 +0900",
-        "title": "총선 여야 후보들 '독재 이승만·전두환' 역사 인식 논쟁",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907774"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:04:00 +0900",
-        "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
-        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:23:00 +0900",
-        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 08:02:00 +0900",
-        "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1215065
-      }
-    ]
-  }
+    {
+        "id": "2481901-1",
+        "regionId": "2481901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-1.jpg",
+        "기호": 1,
+        "이름": "김기태",
+        "생년월일": "19610628",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "순천향대학 국어국문학과 졸업",
+        "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
+        "재산": 144800,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+                "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:45:00 +0900",
+                "title": "금속노조 경남지부는 여영국, 한국노총 서부지부는 민주당 지지",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428576?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:15:00 +0900",
+                "title": "[뉴스1 PICK]한동훈  지금은 뭉치면 살고 흩어지면 죽을 때 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453075?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:10:00 +0900",
+                "title": "'비주류 잠룡' 임종석·유승민, 총선 지원사격 온힘",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84594"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:47:00 +0900",
+                "title": " 한 표라도 더 모으기  ... 후보마다 정책 발표에 지지선언 등",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428465?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:47:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693317?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693027?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:45:00 +0900",
+                "title": "[마크맨]한동훈 “일할 기회 달라” vs 이재명 “읍소에 속으면 공범”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271551?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:25:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 북구을 만성 교통체증 해결 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011692881?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:06:00 +0900",
+                "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:16:00 +0900",
+                "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
+                "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:10:00 +0900",
+                "title": "총선 여야 후보들 '독재 이승만·전두환' 역사 인식 논쟁",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907774"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+                "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+                "title": "민주당 김기태 후보, 합천군 선거 출정식 진행",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388082"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 11:40:00 +0900",
+                "title": "천안시의회 의원 아선거구(백석동) 보궐선거 4명 후보 각축전",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265600"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(30일, 토)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446446?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:46:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 사하을 ‘다대포 체류형 관광 거점’ 조성 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691767?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:08:00 +0900",
+                "title": "TV토론서 '지역소멸 해결 방안' 놓고 공방 벌인 여야 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459998?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:48:00 +0900",
+                "title": "[방송 토론] 산청·함양·거창·합천  정권 심판  vs  국정 안정 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907660"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:13:00 +0900",
+                "title": "임종석  보수가 볼 때도 이 정권은 너무 창피, 심판해야 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428118?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:18:00 +0900",
+                "title": "한동훈 건의에…이종섭, 임명 25일 만에 사임",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271353?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:08:00 +0900",
+                "title": "산청함양거창합천 후보 2인, 의대 유치·일해공원 명칭 공방",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599045?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:04:00 +0900",
+                "title": "신성범 “기업·실버산업 유치”·김기태 “국민행복기본법 추진”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446206?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+                "title": "김기태  윤석열 정권 조기종식 ... 신성범  소통 정치로 민심 제대로 전달 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428065?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:52:00 +0900",
+                "title": "더불어민주당 김기태후보, “고향을 살릴 후보라는 캐치프레이즈로 ”선거 출...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160315688744166"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:00:00 +0900",
+                "title": "빗속 출근길 유세·출정식…'유권자 속으로'",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549385"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:30:00 +0900",
+                "title": "&lt;토론회&gt; 강릉선거구  큰 정치인 vs 선수 교체 ",
+                "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304986"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "[거함산합] 김기태, 농민단체와 '농업 대전환' 정책협약",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427953?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "선거 유세하는 산청함양거창합천 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596455?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:54:00 +0900",
+                "title": "산청·함양·거창·합천 선거운동 첫날…우중 출정식",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907527"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:48:00 +0900",
+                "title": "재래시장서 출정식, 김기태·신성범 서로  내가 적임자 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456527?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:02:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690299?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:41:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690007?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:29:00 +0900",
+                "title": "[마크맨]한동훈 “청년 헤아리는 정책” vs 이재명 “충주의 사위”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271178?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:07:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689849?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:28:00 +0900",
+                "title": "더불어민주당 경남도당 총선 선대위 구성",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549133"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:08:00 +0900",
+                "title": "김두관  창원성산, 온전한 야권단일화 노력 끝까지 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427476?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 07:07:00 +0900",
+                "title": "마이크 사용·비례정당 후보 지지… 공직선거법 위반 ",
+                "link": "https://n.news.naver.com/mnews/article/055/0001141677?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:12:00 +0900",
+                "title": "이재명, 경남 찾아  분위기 디비질 것 같다 …내일 대장동 재판 참석",
+                "link": "https://n.news.naver.com/mnews/article/448/0000452808?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:42:00 +0900",
+                "title": "마이크 사용·비례후보 지지… 선거법 위반  잇단 고발",
+                "link": "https://n.news.naver.com/mnews/article/055/0001141603?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선] 민주 지도부 겸손 모드인데 후보는  300석  발언",
+                "link": "https://n.news.naver.com/mnews/article/057/0001808062?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:28:00 +0900",
+                "title": "[마크맨]한동훈 “서울시민 선택 간절” vs 이재명 “확실히 디비진다”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271004?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:19:00 +0900",
+                "title": "국민의힘, 두 자녀도 대학 등록금 전액 지원 검토",
+                "link": "https://n.news.naver.com/mnews/article/449/0000271002?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:35:00 +0900",
+                "title": "‘험지’서 뛰는 민주당 김기태 후보 “제가 이기면, 민주당 300석”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005699363?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 07:44:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687623?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:29:00 +0900",
+                "title": "[총선/공약 맞수K] 부산 중·영도 ‘교통 확충·관광 육성’ 방안은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687471?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:42:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑩] 후쿠시마 오염수 방류 대책",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907028"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "'재산 신고 최고액 120억 원' 경남 총선 후보자는",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907033"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:28:00 +0900",
+                "title": "이재명 “중국·대만에 셰셰”…국민의힘 “굴종적 자세” 비난",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270865?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 19:23:00 +0900",
+                "title": "이재명, 접경지 찾아 “북한보다 적자가 많다”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270862?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:26:00 +0900",
+                "title": "4·10 총선 후보 등록 마감, 경남 16개 선거구에 37명 등록",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548795"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 경남 지역구 37명 등록…11곳 ‘양자 대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687011?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:06:00 +0900",
+                "title": "충청권 28개 선거구 82명 등록…28일부터 선거운동",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306823"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:39:00 +0900",
+                "title": "이재명, 열흘 사이 재판 불출석 2번·지각 1번",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270817?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583309?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:09:00 +0900",
+                "title": "국민의힘 34% vs 민주 33%…서울은 39% vs 26% ‘출렁’",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270805?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:28:00 +0900",
+                "title": "[4·10총선 후보 등록] 경남 16개 선거구 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445398?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "경남 총선 출마자 37명 후보 등록자 명단",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430747?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 14:19:00 +0900",
+                "title": "[뉴스1 PICK]이재명, 충남 서산서 성일종 겨냥  이번 총선은 신 한일전 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430012?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:40:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑨] 쌀값 대책·양곡관리법 개정",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906940"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:52:00 +0900",
+                "title": "[총선/공약 맞수K] 강서구 ‘교정시설 이전·교통 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686478?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 07:34:00 +0900",
+                "title": "[종합] 충청권 28개 선거구 74명 등록…평균 2.64대",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306766"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:06:00 +0900",
+                "title": "[총선/공약 맞수K] 강서구 ‘교정시설 이전·교통 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686277?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:00:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자 (3월 21일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460467"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581034?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:18:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580929?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:39:00 +0900",
+                "title": "[총선/공약 맞수K] 강서구 ‘교정시설 이전·교통 확충’ 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011686111?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 19:39:00 +0900",
+                "title": "한동훈 “尹정부와 국민의힘은 운명공동체”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270642?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:08:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑧] 헌법 개정",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906787"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:58:00 +0900",
+                "title": "경남 야권단일후보들  거부권에 막힌 개혁법안 다시 추진 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002426636?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:12:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 20일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460117"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:30:00 +0900",
+                "title": "[마크맨]한동훈 “종북 세력이 장악” vs 이재명 “대드는 머슴 해고”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270545?sid=100"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 10:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 19일 화요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459929"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 07:47:00 +0900",
+                "title": "[총선/공약 맞수K] 사상공단 재생·교육 개선 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011683842?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 21:41:00 +0900",
+                "title": "[총선/공약 맞수K] 사상공단 재생·교육 개선 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011683568?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 19:05:00 +0900",
+                "title": "[총선/공약 맞수K] 사상공단 재생·교육 개선 해법은?",
+                "link": "https://n.news.naver.com/mnews/article/056/0011683474?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:14:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 18일 월요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459721"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 21:48:00 +0900",
+                "title": "도내 총선 후원회장 ‘유력 정치인·지역 토박이’",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1427939"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 20:22:00 +0900",
+                "title": "故 서강훈 기호일보 회장 별세 애도해 주신 분들",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1078230"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 18:04:00 +0900",
+                "title": "'이런 인연' 후원회장들…총선 출마자 '뒷배' 누구",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906469"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 19:31:00 +0900",
+                "title": "[마크맨]한동훈 ‘호남행’ 이재명 ‘영남행’",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270275?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 19:19:00 +0900",
+                "title": "국민의힘 장예찬, 민주당 양문석도 논란",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270271?sid=100"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 09:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 15일 금요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459528"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 17:04:00 +0900",
+                "title": "천안시의원, 아선거구 보궐선거 후보자 각축",
+                "link": "https://n.news.naver.com/mnews/article/656/0000083117?sid=102"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 14:53:00 +0900",
+                "title": "[뉴스1 PICK]대전 찾은 이재명  일제강점기가 더 좋았다는 공천, 심판하자 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007411551?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 11:22:00 +0900",
+                "title": "[천안시의원 아선거구 보궐선거] 한영신 “민주당, 약속 안 지키고 후보 공천...",
+                "link": "http://www.sisanews24.co.kr/13240"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 09:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 14일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459333"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 19:38:00 +0900",
+                "title": "김부겸 “도태우 유지, 실망” vs 박은식 “입장 달라졌고, 사과”",
+                "link": "https://n.news.naver.com/mnews/article/449/0000270091?sid=100"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 10:10:00 +0900",
+                "title": "충남 5곳 재·보궐선거 대진표 완성",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306238"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 09:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 13일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459130"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 06:07:00 +0900",
+                "title": "4·10 경남 총선 대진표 짜였다…최대 격전지 '낙동강 벨트'",
+                "link": "https://n.news.naver.com/mnews/article/079/0003873136?sid=165"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 21:06:00 +0900",
+                "title": "[출마합니다 산청함양거창합천]김기태",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=547943"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 144800
+            }
+        ],
+        "huboid": "100152924",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4819/Hb100152924/junkwa/20240304172540220_1.PDF"
+    },
+    {
+        "id": "2481901-2",
+        "regionId": "2481901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-2.jpg",
+        "기호": 2,
+        "이름": "신성범",
+        "생년월일": "19630601",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "서울대학교 사회과학대학 인류학과 졸업",
+        "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
+        "재산": 1215065,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+                "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:40:00 +0900",
+                "title": "음주운전에 관대한 총선…후보자 697명중 ‘음주 전과자’가 무려",
+                "link": "https://n.news.naver.com/mnews/article/011/0004322209?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 07:11:00 +0900",
+                "title": "[총선 D-8] 현역 떠난 '보수 텃밭' 경남 중북부, 국힘·민주 '양자 대결'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014604042?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:10:00 +0900",
+                "title": "총선 여야 후보들 '독재 이승만·전두환' 역사 인식 논쟁",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907774"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:04:00 +0900",
+                "title": "[총선후보 TV 토론회- 산청함양거창합천] 인구감소 따른 지역소멸 해결 방안 ...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429009"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:08:00 +0900",
+                "title": "TV토론서 '지역소멸 해결 방안' 놓고 공방 벌인 여야 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459998?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:48:00 +0900",
+                "title": "[방송 토론] 산청·함양·거창·합천  정권 심판  vs  국정 안정 ",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907660"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:08:00 +0900",
+                "title": "산청함양거창합천 후보 2인, 의대 유치·일해공원 명칭 공방",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599045?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:04:00 +0900",
+                "title": "신성범 “기업·실버산업 유치”·김기태 “국민행복기본법 추진”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446206?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:06:00 +0900",
+                "title": "[나는 후보자다] 산청군함양군거창군합천군 선거구 나서는 후보는?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461476"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+                "title": "김기태  윤석열 정권 조기종식 ... 신성범  소통 정치로 민심 제대로 전달 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428065?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:52:00 +0900",
+                "title": "국민의힘 신성범 후보, 공식선거 첫 일정 ‘환경미화원들과 거리청소’",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160315890663229"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:15:00 +0900",
+                "title": "[2024 총선 기획] 언론계 국회의원 배출 공식? 18~21대 KBS·MBC 17명",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123154?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "국힘 신성범 후보, 합천왕후 시장에서 출정식",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387971"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:44:00 +0900",
+                "title": " 서민 정치가 곧 바른 정치 잊지 않을 것 ",
+                "link": "http://www.gnmaeil.com/news/articleView.html?idxno=538087"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:04:00 +0900",
+                "title": "신성범, 공식 선거 첫 일정 ‘환경미화원들과 거리청소’",
+                "link": "http://www.kukinews.com/newsView/kuk202403280355"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:00:00 +0900",
+                "title": "빗속 출근길 유세·출정식…'유권자 속으로'",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549385"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+                "title": "[거함산합] 김기태, 농민단체와 '농업 대전환' 정책협약",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427953?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:23:00 +0900",
+                "title": "선거 유세하는 산청함양거창합천 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596455?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:59:00 +0900",
+                "title": "신성범 국민의힘 후보, 공식 선거운동 첫 일정으로 '거리 청소'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277112?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:20:00 +0900",
+                "title": "[포토] 국민의힘 신성범 후보, 산청읍서 '유세'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558025"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:32:00 +0900",
+                "title": "신성범, 공식선거 첫 일정 '환경미화원과 거리청소'",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557990"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:54:00 +0900",
+                "title": "산청·함양·거창·합천 선거운동 첫날…우중 출정식",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907527"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:48:00 +0900",
+                "title": "재래시장서 출정식, 김기태·신성범 서로  내가 적임자 ",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456527?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:22:00 +0900",
+                "title": "빗속에도 출정식·출근 인사·지지 호소… 표심잡기 ‘분주’",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428869"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:56:00 +0900",
+                "title": "경남 16개 선거구 총선 후보 주요 3대 공약",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069841?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:08:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461197"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:54:00 +0900",
+                "title": "[포토]김기태, 신성범, 봄비 속에 13일간 본격 선거운동 시작",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557804"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:02:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690299?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:41:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690007?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:07:00 +0900",
+                "title": "[총선] 창원 진해·산청함양거창합천 ‘양자대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689849?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "신성범 국힘 후보, 항노화 치유산업 정책 간담회 가져",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160297486912620"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:02:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461009"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:58:00 +0900",
+                "title": "국민의힘 신성범 후보, 4개 지자체 ‘항공·전기차·드론·에너지’ 도시로 육...",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294573590757"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 13:02:00 +0900",
+                "title": "신성범 후보  4개 지자체 '항공·전기차·드론·에너지' 도시로 육성 ",
+                "link": "https://www.cnbnews.com/news/article.html?no=651004"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:34:00 +0900",
+                "title": "국민의힘 신성범 후보,  4개 지자체 '항공·전기차·드론·에너지' 도시로 육...",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954230"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 06:56:00 +0900",
+                "title": "국민의힘 신성범 후보, 항노화 치유산업 정책 간담회 가져",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557499"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 22:02:00 +0900",
+                "title": "경남 총선후보 공약 키워드는 ‘철도·의대·지역소멸’",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428701"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:30:00 +0900",
+                "title": "신성범, 인구·교통·경제·청년·교육 5대 정책 발표",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549094"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:39:00 +0900",
+                "title": "산청·함양·거창·합천 신성범 국민의힘 후보  항공·전기차·드론·에너지 ...",
+                "link": "https://n.news.naver.com/mnews/article/629/0000276481?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:10:00 +0900",
+                "title": "신성범 ‘지역을 바꾸고 경제를 살리며’…인구·교통·경제·청년·교육 5대...",
+                "link": "http://www.kukinews.com/newsView/kuk202403260340"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:02:00 +0900",
+                "title": "신성범 후보, 합천 등 4개군 '항공·전기차·드론·에너지' 도시로 육성",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013716"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "신성범, 4개 지자체 '항공·전기차·드론·에너지' 도시로 육성",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387547"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:54:00 +0900",
+                "title": "경남 지방의원 지선 공천보험용 충성 경쟁 도 넘어",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387537"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:32:00 +0900",
+                "title": "신성범 후보,  4개 지자체 '항공·전기차·드론·에너지' 도시로 육성 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557392"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "음주운전 전과 후보 비교해보니···2회 이상은 민주당이 많아",
+                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=222158"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 16:52:00 +0900",
+                "title": "신성범후보, 4개 지자체 '항공·전기차·드론·에너지' 도시로 육성",
+                "link": "https://www.onews.tv/news/articleView.html?idxno=201622"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:52:00 +0900",
+                "title": "신성범, 4개 지자체 항공·전기차·드론·에너지 육성",
+                "link": "https://n.news.naver.com/mnews/article/003/0012451323?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:50:00 +0900",
+                "title": "국민의힘 경남도당, 22대 총선 선대위 구성",
+                "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/26/2024032600298.html"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:36:00 +0900",
+                "title": "산청·함양·거창·합천 국민의힘 신성범… 4개 지역 특성 살린 사업 유치 ",
+                "link": "https://n.news.naver.com/mnews/article/421/0007437177?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:06:00 +0900",
+                "title": "[기고] 군의원은 지역 국회의원 하수인이 아니다",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263710230009"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:02:00 +0900",
+                "title": "산청·함양·거창·합천 신성범 후보  항공·전기차·드론·에너지 도시 육성...",
+                "link": "https://www.newspim.com/news/view/20240326000757"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 14:56:00 +0900",
+                "title": "신성범 거·함·산·합 국민의힘 국회의원 예비후보, ‘항공·전기차·드론·...",
+                "link": "https://www.viva100.com/main/view.php?key=20240326010008659"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:56:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑪]한반도 평화 위한 방안은",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907154"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:00:00 +0900",
+                "title": "신성범 후보  청년들이 살기 좋은 지역 만들 것 …합천서 간담회",
+                "link": "https://www.cnbnews.com/news/article.html?no=650530"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 15:08:00 +0900",
+                "title": "국민의힘 경남도당, 제22대 국회의원선거 '경남선거대책위원회' 출범",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557050"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 14:46:00 +0900",
+                "title": "국민의힘 경남도당, 총선 경남선대위 새롭게 구성",
+                "link": "https://n.news.naver.com/mnews/article/003/0012448634?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:58:00 +0900",
+                "title": "국민의힘 신성범 후보, 합천 수상 태양광 현장 방문",
+                "link": "https://n.news.naver.com/mnews/article/277/0005396770?sid=102"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 11:35:00 +0900",
+                "title": "‘험지’서 뛰는 민주당 김기태 후보 “제가 이기면, 민주당 300석”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005699363?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 10:50:00 +0900",
+                "title": "[주장] 군의원은 지역 국회의원 하수인이 아니다",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427216?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 09:04:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460645"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:50:00 +0900",
+                "title": "[도내 국회의원 후보자 분석] 37명 중 15명 ‘전과’ 기록… 평균 재산 19억1...",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1428501"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "경남, 민주 “8석 목표” 국힘 “16석 석권” 野단일화 촉각",
+                "link": "https://n.news.naver.com/mnews/article/658/0000069445?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:15:00 +0900",
+                "title": "국민의힘 신성범 후보, 합천선거사무소 개소식 열어",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=387176"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:14:00 +0900",
+                "title": "경남 총선 후보 37명 중 40% 전과…시위 댓글조작 사건도",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907038"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:04:00 +0900",
+                "title": "군의원은 지역 국회의원 하수인이 아니다",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=409045"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:16:00 +0900",
+                "title": "국민의힘 신성범 후보, 합천선거사무소 개소",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160266439664935"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 13:12:00 +0900",
+                "title": "“구관이 명관” vs “심판하자” 낙동강 대첩 승자는",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=225659"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 21:00:00 +0900",
+                "title": "신성범 후보, 합천 선거사무소 개소식 개최  미래 먹거리기업 반드시 유치 ",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013461"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:26:00 +0900",
+                "title": "4·10 총선 후보 등록 마감, 경남 16개 선거구에 37명 등록",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548795"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:45:00 +0900",
+                "title": "[총선] 경남 지역구 37명 등록…11곳 ‘양자 대결’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011687011?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:16:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583309?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:56:00 +0900",
+                "title": "국민의힘 신성범 후보, 민생 행보...  청년들이 살기 좋은 합천 만들 것 ",
+                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013409"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:30:00 +0900",
+                "title": "경남 총선 후보 40% 전과…37명 중 15명, 최다 전과 8건",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430809?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:28:00 +0900",
+                "title": "[4·10총선 후보 등록] 경남 16개 선거구 여야 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445398?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "경남 총선 출마자 37명 후보 등록자 명단",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430747?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:10:00 +0900",
+                "title": "국민의힘 신성범 후보 “청년들이 살기 좋은 지역 만들 것”",
+                "link": "http://www.kukinews.com/newsView/kuk202403220192"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:40:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑨] 쌀값 대책·양곡관리법 개정",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906940"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:24:00 +0900",
+                "title": "도내 총선 도전자 36명 첫 날 후보 등록 완료",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548791"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:00:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 후보자 (3월 21일 목요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460467"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581034?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:18:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경남(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580929?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:54:00 +0900",
+                "title": "국힘 신성범 예비후보, 합천군노인회 정기총회 방문",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386988"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:46:00 +0900",
+                "title": "진병영 함양군수·표주숙, 권영식 군의원 국민의힘 복·입당",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=548655"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:32:00 +0900",
+                "title": "무소속 진병영 함양군수, 국민의힘 복당 신청",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=386799"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:52:00 +0900",
+                "title": "[거창군 소식] 청년 창업 마케팅 지원-진병영 군수 국민의힘 복당 신청",
+                "link": "https://www.kpinews.kr/newsView/1065573294739546"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:42:00 +0900",
+                "title": "신성범 (산청,함양,거창,합천) 예비후보, 한우협회와 정책간담회 가져",
+                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160266630732313"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:04:00 +0900",
+                "title": "'탈당·무소속 당선' 진병영 함양군수, 국민의힘 복당 신청",
+                "link": "https://n.news.naver.com/mnews/article/001/0014575917?sid=100"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:02:00 +0900",
+                "title": "진병영 함양군수와 표주숙·권영식 군의원 국민의힘 복·입당",
+                "link": "https://n.news.naver.com/mnews/article/277/0005394529?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:12:00 +0900",
+                "title": "경남 제22대 국회의원·재보궐선거 예비후보자 (3월 20일 수요일 기준)",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460117"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 09:06:00 +0900",
+                "title": "진병영 함양군수 및 표주숙·권영식 군의원 국민의힘 복·입당",
+                "link": "https://www.viva100.com/main/view.php?key=20240320010006175"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 19:48:00 +0900",
+                "title": "무소속 진병영 함양군수, 국민의힘 복당 신청",
+                "link": "https://www.cnbnews.com/news/article.html?no=649525"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:52:00 +0900",
+                "title": "[국회의원 후보 정책 답변 분석 ⑦] 정치개혁 방안",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=906652"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:50:00 +0900",
+                "title": "진병영 함양군수, 국민의힘 복당 신청",
+                "link": "https://www.newsgn.com/news/articleView.html?idxno=408473"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 17:16:00 +0900",
+                "title": "진병영 함양군수와 표주숙·권영식 군의원 국민의힘 복·입당",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555644"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 16:56:00 +0900",
+                "title": "무소속 진병영 함양군수, 국민의힘 복당 신청",
+                "link": "https://n.news.naver.com/mnews/article/003/0012437037?sid=102"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:50:00 +0900",
+                "title": "[포토]무소속 진병영 함양군수, 표주숙∙권영식 군의원 '국민의힘' 입당",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555598"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1215065
+            }
+        ],
+        "huboid": "100152030",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4819/Hb100152030/junkwa/20240108131309139_1.PDF"
+    }
 ]

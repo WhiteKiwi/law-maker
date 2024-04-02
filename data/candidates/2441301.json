@@ -1,100 +1,1054 @@
 [
-  {
-    "id": "2441301-1",
-    "regionId": "2441301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-1.jpg",
-    "기호": 1,
-    "이름": "양승조",
-    "생년월일": "19590321",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
-    "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
-    "재산": 784712,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-        "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:28:00 +0900",
-        "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
-        "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:06:00 +0900",
-        "title": "[기획-하] 전북은 전략적 선택에 집중해야 할 시기",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726260"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-        "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
-        "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 784712
-      }
-    ]
-  },
-  {
-    "id": "2441301-2",
-    "regionId": "2441301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-2.jpg",
-    "기호": 2,
-    "이름": "강승규",
-    "생년월일": "19630920",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
-    "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
-    "재산": 1921919,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-        "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:28:00 +0900",
-        "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
-        "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-        "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
-        "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:50:00 +0900",
-        "title": "강승규 “양 후보 도지사 시절 공공기관 천안 몰아주기는 사실에 근거”",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451278?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1921919
-      }
-    ]
-  }
+    {
+        "id": "2441301-1",
+        "regionId": "2441301",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-1.jpg",
+        "기호": 1,
+        "이름": "양승조",
+        "생년월일": "19590321",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
+        "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
+        "재산": 784712,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:24:00 +0900",
+                "title": "강승규 후보 선대위, 2일 양승조 후보 ‘맞고발’ [22총선]",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/03/2024040300005.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:02:00 +0900",
+                "title": "[대전MBC 여론조사1] '오차 밖 격차'..지지층 결",
+                "link": "https://tjmbc.co.kr/article/gg9Y_IOXwreSX"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:34:00 +0900",
+                "title": "[총선 격전지] 진흙탕 싸움 번진 홍성·예산 선거구",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193761"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:17:00 +0900",
+                "title": "양승조, 청년주거타운 등 10대 청년공약 발표",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085432?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 '딸 갭투자' 공격에…공영운  난도질 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967906?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:21:00 +0900",
+                "title": "정권 지원론 41% vs 심판론 46%… “밑바닥 표심, 까봐야 알쥬” [4·10 총선...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920525?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "양승조-강승규 후보, 방송토론 놓고 맞고발",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022772"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:38:00 +0900",
+                "title": "조한기  이토 히로부미  vs 성일종  천안함은? ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307460"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:54:00 +0900",
+                "title": "여야 홍성·예산 총선 후보 '청년 공약' 획기적 변화 필요",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769488"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "총선판 덮친 '정부 심판론'에 충청권 '휘청'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107436"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:12:00 +0900",
+                "title": "[총선 격전지, 이곳] 충남 홍성예산 ‘충남 도지사·대통령 참모 대결’…4선...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402027537653"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+                "title": "양승조  5선 성공해 청년에 희망 선물 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307436"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+                "title": "[총선 D-8] 홍성·예산 양승조·강승규 토론회 발언 놓고 고발전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605482?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:58:00 +0900",
+                "title": "양승조, 강승규 겨냥  비열하고 야비해 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307433"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:56:00 +0900",
+                "title": "양승조 후보, 청년 주거타운 조성 등 10대 공약 발표",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764568"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "제22대 총선 D-8…홍성·예산 후보들, 공약 경쟁",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764464"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:38:00 +0900",
+                "title": "충남 전현직 교수 등 33명  양승조 후보 지지 선언 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428549?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:37:00 +0900",
+                "title": "홍성‧예산 민주당 양승조 “월 2만원 대학생 통신요금제 보급”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453174?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:19:00 +0900",
+                "title": "[4·10 총선 레이더] 충남 홍성·예산 선거구, 양승조·강승규 '맞고발'",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085339?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "강승규 캠프 '허위사실공표' 고발에 '무고'로 대응",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307430"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "법적 대응에 얼룩진 홍성·예산 선거판",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769435"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:22:00 +0900",
+                "title": "예산·홍성 공식선거운동 시작... 양승조-강승규 9일까지 '진검승부'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428517?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:09:00 +0900",
+                "title": "홍성예산 '5대 환경정책' 물었는데... 답 없는 후보도",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428507?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:39:00 +0900",
+                "title": "[4·10총선 후보검증-3] 전국최초 유기농특구 홍성군의 친환경농업 활성화 방...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428496?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:30:00 +0900",
+                "title": "[4·10 총선후보검증-2] 도청소재지 홍성군, 시 승격 가능한가",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428493?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:06:00 +0900",
+                "title": "[노트북을 열며] 강승규·양승조에 대한 추억",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307398"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:01:00 +0900",
+                "title": " 열어보기 전엔 몰러 …접전 '홍성·예산' 강승규·양승조 승자는?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020152?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 04:24:00 +0900",
+                "title": "정세균, 양승조 민주당 홍성·예산 국회의원 후보 지원유세... “양승조 국가...",
+                "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91113"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+                "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+                "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
+                "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                "title": "[기획-2] 전북은 전략적 선택에 집중해야 할 시기",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726260"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:18:00 +0900",
+                "title": "문진석 “물가 손 놓은 尹, 더 못 기다려”…신범철 “법치주의 저버린 민주당...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825738?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+                "title": "양승조 측  허위사실 유포  고발 - 강승규 측  터무니 없는 주장 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428392?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:38:00 +0900",
+                "title": "강승규·양승조, 토론회 후유증 컸나..'고발·반박' 공방",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769368"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+                "title": "양승조, 강승규 경찰 고발…  TV토론회서 허위사실 유포 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085194?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:21:00 +0900",
+                "title": "양승조vs 강승규 토론회 발언 놓고 '공방'",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400163?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:17:00 +0900",
+                "title": "[홍성·예산] 양승조 측, 강승규 경찰 고발... '허위사실 공표' 혐의",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428386?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:10:00 +0900",
+                "title": "양승조 vs 강승규 TV토론회 발언 두고 신경전",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307352"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:02:00 +0900",
+                "title": "강승규·양승조, '허위사실 유포' 두고 공방",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764344"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+                "title": "[충남 홍성예산] 국민의힘 강승규 51%, 더불어민주당 양승조 43.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428372?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:07:00 +0900",
+                "title": "홍성·예산 양승조 선대위  강승규, 허위사실 유포  고발",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880480?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+                "title": "홍성·예산 민주 양승조 선대위, 국힘 강승규 ‘허위사실 공표’ 고발",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450542?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:46:00 +0900",
+                "title": "홍성‧예산 강승규 51.0% vs 양승조 43.1% …7.9%포인트 차 [뉴데일리 여론조...",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/01/2024040100212.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "[총선판세] 충청권 28곳 중 10곳 초접전중…여야 승자는",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450414?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:14:00 +0900",
+                "title": "[총선리포트] 양승조, '허위사실 유포' 강승규 고발",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000277"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:52:00 +0900",
+                "title": "[총선현장] 野, 정권심판 바람 vs 與, 국회이전 공약…'초박빙' 충남 민심은",
+                "link": "https://www.newspim.com/news/view/20240401000698"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:38:00 +0900",
+                "title": "양승조 캠프  강승규 허위사실 공표  고발 예고",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307316"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:08:00 +0900",
+                "title": "[4.10총선 후보검증-1] 홍성군의 미래 경쟁력 위한 현안",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428301?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "양승조 홍성·예산 국회의원 후보, 강승규 후보 고발",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558646"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:16:00 +0900",
+                "title": "[인터뷰] 강승규 홍성·예산 국회의원 후보  지역소멸 위기 타개 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:00:00 +0900",
+                "title": " 기적이 벌어진다 …양승조 등판에 '보수 불패' 홍성·예산 요동",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019524?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:00:00 +0900",
+                "title": " 대통령 사람 뽑아줘야쥬 …홍성·예산의 아들 강승규, 보수텃밭 굳히기",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019527?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 04:32:00 +0900",
+                "title": "민주당에 '몰표' 줬던 충청, 흔들리는 '보수' 표심 결집할까[총선 판세 전망]",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793543?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": "(R) '대통령시계'-'천안도지사'.. 홍성예산 토론회 공방",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/68151"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:54:00 +0900",
+                "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "선거운동 첫 주말 … 충청권 열띤 유세전",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792234"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:47:00 +0900",
+                "title": "대전·충남 여야 후보들, TV 토론회서 지역 현안 설전",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085092?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:06:00 +0900",
+                "title": "254곳 중 20곳, 늘어난 초접전지역… 50곳이 승패 좌우 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919690?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:32:00 +0900",
+                "title": "[22대 총선] 강승규 ‘보수텃밭 수성’ vs 양승조 ‘탈환’… ‘총성없는 전쟁...",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/31/2024033100064.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "충청권 주요 격전지 이목집중",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022403"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433247"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:18:00 +0900",
+                "title": "공식선거운동 시작 첫 휴일…전국 후보들 표심잡기 총력전",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150529"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": "[총선 D-10] 공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600785?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:46:00 +0900",
+                "title": "성일종 국회의원 후보 측 ‘서산간척지 태양광 관련 허위사실 유포’ 조한기 ...",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=226468"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:10:00 +0900",
+                "title": "이탄희·정세균·허태정, 양승조 홍성·예산 후보 지원 나서",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764096"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:46:00 +0900",
+                "title": "양승조  사전선거운동  vs 강승규  문화의집 무산 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307266"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:05:00 +0900",
+                "title": " 대통령시계 - 천안도지사 … 양승조·강승규, TV토론회서 공방",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085011?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:46:00 +0900",
+                "title": "강승규·양승조 첫 토론회, 수석·도지사 시절 '성과' 공방",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769266"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:10:00 +0900",
+                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "홍성예산 양승조, 강승규 후보 첫 TV 토론회서 날 선 공방",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193610"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:56:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 승리 장담 못 하는 대혼전",
+                "link": "http://www.kbsm.net/news/view.php?idx=428047"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:42:00 +0900",
+                "title": "[총선 판세] 여론조사 격차 5%p 이내 '초박빙' 전국 30여곳 등 60여곳 대혼전...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474603"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599984?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 20:46:00 +0900",
+                "title": "공식 선거운동 첫 주말 치열한 선거전",
+                "link": "https://tjmbc.co.kr/article/_3szuMMH8Y5"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:12:00 +0900",
+                "title": "예산 장날 유세전…양승조 “힘 있는 5선” vs 강승규 “지방 부활”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446888?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:40:00 +0900",
+                "title": "다시 뜬 '충청대망론' 정세균·허태정  양승조가 실현할 것 ",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769259"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:14:00 +0900",
+                "title": "허태정  충청 대표 양승조 …정세균  충청대망론 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307252"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:28:00 +0900",
+                "title": "선거운동 첫 주말…충청권 후보들 거리 누비며 열띤 선거전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599564?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "충청권 12곳 중 민주당 6곳 우세",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034179?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+                "title": " 내가 뽑으면 되는겨  예측 불가 충청 표심…여야 모두 목표는 같다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019212?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 23:18:00 +0900",
+                "title": "라방 켠 이재명 “이제부턴 백병전”…한동훈 “딱 한번만 믿어달라”",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280681?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:06:00 +0900",
+                "title": "4.10총선 공식 선거운동 이틀째",
+                "link": "https://tjmbc.co.kr/article/8gXLcH8o3mCwB"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:42:00 +0900",
+                "title": "범사련 등 시민단체, 4·10 총선 '좋은 후보' 33명 선정 발표",
+                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752148"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:05:00 +0900",
+                "title": "몸낮춘 이재명  분당·대전·송파 지원을  절박한 한동훈  딱 한번만 더 믿어...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005280590?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:44:00 +0900",
+                "title": "[르포] 대통령 참모 출신VS前 충남도지사…충남 '보수텃밭' 홍성·예산서 격돌",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764018"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:24:00 +0900",
+                "title": "여야 모두  절반이 목표 …충청도 양반들, 이번에도 '황금 밸런스'?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019074?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:47:00 +0900",
+                "title": "양승조 “양곡관리법 거부한 尹 심판”…강승규 “대통령과 ‘핫라인’, 지역...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825286?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:35:00 +0900",
+                "title": "충남 서해안벨트 불꽃 접전, 민주·국힘 사활 건 홍성·예산",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459460?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+                "title": "[총선] 민주, ‘접전 지역’ 표심 공략…분당·대전·송파 등 지원 사격",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691514?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:21:00 +0900",
+                "title": "[영상] 이탄희의 일침  대통령 어떤 분인가, 평범한 사람들 일상 몰라 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428069?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:24:00 +0900",
+                "title": "제22대 국회의원 선거 출마자들 중 33명 선정…4·10 총선 '좋은 후보' 선정 ...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317161"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 13:48:00 +0900",
+                "title": "범사련, 나경원·김두관 등 4·10 총선 '좋은 후보' 33인 발표",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=99684"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 784712
+            }
+        ],
+        "huboid": "100152842",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4413/Hb100152842/junkwa/20240321133938119_1.PDF"
+    },
+    {
+        "id": "2441301-2",
+        "regionId": "2441301",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-2.jpg",
+        "기호": 2,
+        "이름": "강승규",
+        "생년월일": "19630920",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
+        "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
+        "재산": 1921919,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:24:00 +0900",
+                "title": "강승규 후보 선대위, 2일 양승조 후보 ‘맞고발’ [22총선]",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/03/2024040300005.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:02:00 +0900",
+                "title": "[대전MBC 여론조사1] '오차 밖 격차'..지지층 결",
+                "link": "https://tjmbc.co.kr/article/gg9Y_IOXwreSX"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:34:00 +0900",
+                "title": "[총선 격전지] 진흙탕 싸움 번진 홍성·예산 선거구",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193761"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "이준석 '딸 갭투자' 공격에…공영운  난도질 말라 ",
+                "link": "https://n.news.naver.com/mnews/article/015/0004967906?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:21:00 +0900",
+                "title": "정권 지원론 41% vs 심판론 46%… “밑바닥 표심, 까봐야 알쥬” [4·10 총선...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920525?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+                "title": "양승조-강승규 후보, 방송토론 놓고 맞고발",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022772"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:54:00 +0900",
+                "title": "여야 홍성·예산 총선 후보 '청년 공약' 획기적 변화 필요",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769488"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "총선판 덮친 '정부 심판론'에 충청권 '휘청'",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107436"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:12:00 +0900",
+                "title": "[총선 격전지, 이곳] 충남 홍성예산 ‘충남 도지사·대통령 참모 대결’…4선...",
+                "link": "https://www.ekn.kr/web/view.php?key=20240402027537653"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:00:00 +0900",
+                "title": "[총선 D-8] 홍성·예산 양승조·강승규 토론회 발언 놓고 고발전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014605482?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:58:00 +0900",
+                "title": "양승조, 강승규 겨냥  비열하고 야비해 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307433"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:55:00 +0900",
+                "title": "경합지 많은 충남 곳곳서 여야 고발전…선거 과열 양상",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880923?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "제22대 총선 D-8…홍성·예산 후보들, 공약 경쟁",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764464"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:19:00 +0900",
+                "title": "[4·10 총선 레이더] 충남 홍성·예산 선거구, 양승조·강승규 '맞고발'",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085339?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "강승규 캠프 '허위사실공표' 고발에 '무고'로 대응",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307430"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:50:00 +0900",
+                "title": "법적 대응에 얼룩진 홍성·예산 선거판",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769435"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:42:00 +0900",
+                "title": "[총선열전] 강승규  유권자 알 권리 침해 심각 … 양승조 무고로 맞고발",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000729"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+                "title": "홍성·예산 강승규, 양승조 후보 '무고 혐의' 맞고소",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559065"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:22:00 +0900",
+                "title": "예산·홍성 공식선거운동 시작... 양승조-강승규 9일까지 '진검승부'",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428517?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:09:00 +0900",
+                "title": "홍성예산 '5대 환경정책' 물었는데... 답 없는 후보도",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428507?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:39:00 +0900",
+                "title": "[4·10총선 후보검증-3] 전국최초 유기농특구 홍성군의 친환경농업 활성화 방...",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428496?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:30:00 +0900",
+                "title": "[4·10 총선후보검증-2] 도청소재지 홍성군, 시 승격 가능한가",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428493?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:06:00 +0900",
+                "title": "[노트북을 열며] 강승규·양승조에 대한 추억",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307398"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 08:01:00 +0900",
+                "title": " 열어보기 전엔 몰러 …접전 '홍성·예산' 강승규·양승조 승자는?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020152?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+                "title": "[총선 격전지] 홍성예산 민주 양승조 vs 국힘 강승규 한치 양보 없는 '양강대...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193693"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:28:00 +0900",
+                "title": "충남 홍성‧예산 강승규 51%, 양승조 43.1%… 7.9%p 差",
+                "link": "http://www.meconomynews.com/news/articleView.html?idxno=91679"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                "title": "'막말 금지령’ 온데간데… 잡범   염장  네거티브 난무하는 선거판",
+                "link": "https://n.news.naver.com/mnews/article/011/0004321743?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:50:00 +0900",
+                "title": "강승규 “양 후보 도지사 시절 공공기관 천안 몰아주기는 사실에 근거”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451278?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4·10 총선 공약 비교] 전직 충남도지사-대통령참모 출신… 홍성·예산 '정책...",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085213?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
+                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:40:00 +0900",
+                "title": "양승조 측  허위사실 유포  고발 - 강승규 측  터무니 없는 주장 ",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428392?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:38:00 +0900",
+                "title": "강승규·양승조, 토론회 후유증 컸나..'고발·반박' 공방",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769368"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:30:00 +0900",
+                "title": "양승조, 강승규 경찰 고발…  TV토론회서 허위사실 유포 ",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085194?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:21:00 +0900",
+                "title": "양승조vs 강승규 토론회 발언 놓고 '공방'",
+                "link": "https://n.news.naver.com/mnews/article/277/0005400163?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:17:00 +0900",
+                "title": "[홍성·예산] 양승조 측, 강승규 경찰 고발... '허위사실 공표' 혐의",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428386?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:10:00 +0900",
+                "title": "양승조 vs 강승규 TV토론회 발언 두고 신경전",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307352"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:02:00 +0900",
+                "title": "강승규·양승조, '허위사실 유포' 두고 공방",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764344"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:00:00 +0900",
+                "title": "4·10 총선 D-9 자체 '판세' 살펴보니…與 '강원 5곳' 野 대전·세종 등 '금강...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219948"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:31:00 +0900",
+                "title": "[충남 홍성예산] 국민의힘 강승규 51%, 더불어민주당 양승조 43.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428372?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:07:00 +0900",
+                "title": "홍성·예산 양승조 선대위  강승규, 허위사실 유포  고발",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880480?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:46:00 +0900",
+                "title": "홍성‧예산 강승규 51.0% vs 양승조 43.1% …7.9%포인트 차 [뉴데일리 여론조...",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/01/2024040100212.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:32:00 +0900",
+                "title": "[총선판세] 충청권 28곳 중 10곳 초접전중…여야 승자는",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450414?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:30:00 +0900",
+                "title": "‘위기 일발’ 한동훈 생존 돌파구",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243021"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:14:00 +0900",
+                "title": "[총선리포트] 양승조, '허위사실 유포' 강승규 고발",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000277"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:52:00 +0900",
+                "title": "[총선현장] 野, 정권심판 바람 vs 與, 국회이전 공약…'초박빙' 충남 민심은",
+                "link": "https://www.newspim.com/news/view/20240401000698"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:38:00 +0900",
+                "title": "양승조 캠프  강승규 허위사실 공표  고발 예고",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307316"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:26:00 +0900",
+                "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:08:00 +0900",
+                "title": "[4.10총선 후보검증-1] 홍성군의 미래 경쟁력 위한 현안",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428301?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "양승조 홍성·예산 국회의원 후보, 강승규 후보 고발",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558646"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:16:00 +0900",
+                "title": "[인터뷰] 강승규 홍성·예산 국회의원 후보  지역소멸 위기 타개 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558618"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:04:00 +0900",
+                "title": "‘낙동강벨트’는 22대 총선의 바로미터",
+                "link": "https://n.news.naver.com/mnews/article/033/0000046992?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:00:00 +0900",
+                "title": " 대통령 사람 뽑아줘야쥬 …홍성·예산의 아들 강승규, 보수텃밭 굳히기",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019527?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:00:00 +0900",
+                "title": " 기적이 벌어진다 …양승조 등판에 '보수 불패' 홍성·예산 요동",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019524?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 05:03:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 04:32:00 +0900",
+                "title": "민주당에 '몰표' 줬던 충청, 흔들리는 '보수' 표심 결집할까[총선 판세 전망]",
+                "link": "https://n.news.naver.com/mnews/article/469/0000793543?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+                "title": "(R) '대통령시계'-'천안도지사'.. 홍성예산 토론회 공방",
+                "link": "http://www.tjb.co.kr/news05/bodo/view/id/68151"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:55:00 +0900",
+                "title": "총선/ 한방 없는 첫 주말 충청권 유세전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746144"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:54:00 +0900",
+                "title": "[선택 D-9] 충청권 주요 지역 초박빙... 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746122"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:06:00 +0900",
+                "title": "선거운동 첫 주말 … 충청권 열띤 유세전",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792234"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:49:00 +0900",
+                "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:47:00 +0900",
+                "title": "대전·충남 여야 후보들, TV 토론회서 지역 현안 설전",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085092?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:19:00 +0900",
+                "title": "여, 강원 8곳 중 5곳 기대감…야, 금강벨트 대전·세종 8곳 자신감",
+                "link": "https://n.news.naver.com/mnews/article/081/0003441012?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:06:00 +0900",
+                "title": "254곳 중 20곳, 늘어난 초접전지역… 50곳이 승패 좌우 [4·10 총선]",
+                "link": "https://n.news.naver.com/mnews/article/022/0003919690?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:04:00 +0900",
+                "title": "[4·10 총선 여론조사 민심 향방] 지역별 성향 다른 충남… 개인 경쟁력 담보...",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193626"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:32:00 +0900",
+                "title": "[22대 총선] 강승규 ‘보수텃밭 수성’ vs 양승조 ‘탈환’… ‘총성없는 전쟁...",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/31/2024033100064.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "충청권 주요 격전지 이목집중",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022403"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:28:00 +0900",
+                "title": "공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://www.goodnews1.com/news/articleView.html?idxno=433247"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:18:00 +0900",
+                "title": "공식선거운동 시작 첫 휴일…전국 후보들 표심잡기 총력전",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150529"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:46:00 +0900",
+                "title": "[총선 D-10] 공식선거운동 개시 첫 일요일…전국서 후보들 치열한 표심잡기",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600785?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:36:00 +0900",
+                "title": "[총선리포트] 양승조·강승규, 비슷하지만 다른 첫 주말 유세",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240331010009756"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:46:00 +0900",
+                "title": "양승조  사전선거운동  vs 강승규  문화의집 무산 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307266"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:05:00 +0900",
+                "title": " 대통령시계 - 천안도지사 … 양승조·강승규, TV토론회서 공방",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085011?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:36:00 +0900",
+                "title": "[총선 D-10] 격전지 판세 '혼전'…與野 '현역 지역구'도 안심못한다",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025398"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:46:00 +0900",
+                "title": "강승규·양승조 첫 토론회, 수석·도지사 시절 '성과' 공방",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769266"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 09:10:00 +0900",
+                "title": "‘한강 벨트’ 보면 총선 제1당이 보인다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287707?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 08:02:00 +0900",
+                "title": "홍성예산 양승조, 강승규 후보 첫 TV 토론회서 날 선 공방",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193610"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:56:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 승리 장담 못 하는 대혼전",
+                "link": "http://www.kbsm.net/news/view.php?idx=428047"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:42:00 +0900",
+                "title": "[총선 판세] 여론조사 격차 5%p 이내 '초박빙' 전국 30여곳 등 60여곳 대혼전...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474603"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:01:00 +0900",
+                "title": "[총선 D-10] 전국 60여곳, 어느 당도 승리 장담 못 하는 대혼전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599984?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:12:00 +0900",
+                "title": "예산 장날 유세전…양승조 “힘 있는 5선” vs 강승규 “지방 부활”",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446888?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:26:00 +0900",
+                "title": "박근혜 전 대통령 대구 달성 사저…지지자 등 시민 다시 몰리나?",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240330010004194"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 13:28:00 +0900",
+                "title": "선거운동 첫 주말…충청권 후보들 거리 누비며 열띤 선거전",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599564?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:02:00 +0900",
+                "title": "충청권 12곳 중 민주당 6곳 우세",
+                "link": "https://n.news.naver.com/mnews/article/037/0000034179?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:01:00 +0900",
+                "title": "'마포왕' 노웅래 빠진 마포갑, 누가 될까?",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042538?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+                "title": " 내가 뽑으면 되는겨  예측 불가 충청 표심…여야 모두 목표는 같다",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019212?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 06:06:00 +0900",
+                "title": "[뉴스 즉설]충청권 10석도 힘든 국힘, 한동훈 '국회의사당 카드' 먹힐까",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084944?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:33:00 +0900",
+                "title": "여당 ‘100석 붕괴’ 조짐…정권심판 태풍에 PK도 요동 [논썰]",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683170?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:44:00 +0900",
+                "title": "[르포] 대통령 참모 출신VS前 충남도지사…충남 '보수텃밭' 홍성·예산서 격돌",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764018"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:24:00 +0900",
+                "title": "여야 모두  절반이 목표 …충청도 양반들, 이번에도 '황금 밸런스'?",
+                "link": "https://n.news.naver.com/mnews/article/008/0005019074?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 16:47:00 +0900",
+                "title": "양승조 “양곡관리법 거부한 尹 심판”…강승규 “대통령과 ‘핫라인’, 지역...",
+                "link": "https://n.news.naver.com/mnews/article/023/0003825286?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:35:00 +0900",
+                "title": "충남 서해안벨트 불꽃 접전, 민주·국힘 사활 건 홍성·예산",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459460?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:15:00 +0900",
+                "title": "[2024 총선 기획] 언론계 국회의원 배출 공식? 18~21대 KBS·MBC 17명",
+                "link": "https://n.news.naver.com/mnews/article/006/0000123154?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+                "title": "홍성·예산 양승조  관제 데모  vs 강승규  천안도지사 ",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307200"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:00:00 +0900",
+                "title": "[홍성·예산] 양승조  충남 토박이  VS 강승규  강력한 추진력 ",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879496?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:24:00 +0900",
+                "title": "'집권 여당에 힘 실어야' vs '정권 심판해야'",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745939"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:03:00 +0900",
+                "title": "중원 확장 나선 민주당…접전 펼친 '스윙보터' 충청에 집중",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879439?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:12:00 +0900",
+                "title": "양승조 홍성·예산 후보  5선 국회의원 힘으로 현안 신속 해결 ",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558095"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:48:00 +0900",
+                "title": "[총선을 뛴다]⑤금배지 노리는 언론인 출신…후보 배출 언론사는 MBC",
+                "link": "https://n.news.naver.com/mnews/article/018/0005702489?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:18:00 +0900",
+                "title": "'막 오른 총선' 공식 선거운동 개막… 충청권 여야 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/656/0000084830?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:12:00 +0900",
+                "title": "[22대 총선] 강승규 후보 “김정은 폭군·국기문란 좌파 카르텔 지키는 선거”",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/28/2024032800433.html"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1921919
+            }
+        ],
+        "huboid": "100151782",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4413/Hb100151782/junkwa/20240321134722672_1.PDF"
+    }
 ]
