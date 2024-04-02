@@ -1,1400 +1,155 @@
 [
-  {
-    "id": "2411903-1",
-    "regionId": "2411903",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-1.jpg",
-    "기호": 1,
-    "이름": "박해철",
-    "생년월일": "19650914",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "회사원",
-    "학력": "단국대학교 부동산·건설대학원 졸업(도시계획학석사(도시개발))",
-    "경력": "(전)한국노총 LH노동조합 위원장\n(현)더불어민주당 대변인",
-    "재산": 1944797,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:51:00 +0900",
-        "title": "민주 안산병 박해철 '빛나는 안산 만들기 HOT 6' 공약",
-        "link": "https://n.news.naver.com/mnews/article/003/0012467279?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:52:00 +0900",
-        "title": "[열전 25시] 4월 2일 경기도 현장은 지금③",
-        "link": "https://n.news.naver.com/mnews/article/666/0000038091?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:08:00 +0900",
-        "title": "박해철 안산병 후보 “1호 공약 4호선 지하화 추진”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005705409?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:08:00 +0900",
-        "title": "박해철 후보, 빛나는 안산 만들기 HOT 6 공약발표!",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852654"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:46:00 +0900",
-        "title": "[4·10=한다면 한다] 민주당 안산병 박해철, '빛나는 안산 만들기 HOT 6' 공약...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242715"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:37:00 +0900",
-        "title": " 여긴 김남국도 된 곳 …'양문석 논란'에도 진보강세 안산[르포]",
-        "link": "https://n.news.naver.com/mnews/article/018/0005705265?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:36:00 +0900",
-        "title": "안산시병 박해철 후보, 빛나는 안산 만들기 HOT 6 공약발표",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447104"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:36:00 +0900",
-        "title": "안산시병 박해철 후보, 안산지역노조 지지선언 이어져",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447112"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "[4·10 총선] 민주당 안산시(병)  김명연 후보의 헛공약과 입법 무지는 어디까...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242668"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:16:00 +0900",
-        "title": "[4·10총선 인터뷰]더불어민주당 안산시 병 박해철 후보  반드시 해낸다 ",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447063"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:16:00 +0900",
-        "title": "한국노총, 노동전략후보 지지활동 본격화",
-        "link": "http://news.inochong.org/detail.php?number=5281&thread=22r03"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:14:00 +0900",
-        "title": "안산병 국민의힘 김명연 vs 민주당 박해철… 거세지는 신경전",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402022073978"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:58:00 +0900",
-        "title": "22대 국회와 정책 연대 강화하는 공공노동자들",
-        "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33557"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:38:00 +0900",
-        "title": "[현장 한컷] 박해철 민주당 안산병 후보, 초지역 사거리서 선거 유세",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644839"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:33:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:18:00 +0900",
-        "title": "[4·10 총선] 민주당 박해철  김명연 후보, 시민 우롱 청년·신혼부부 주택 2...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242433"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:00:00 +0900",
-        "title": "[4·10 총선] 민주당 안산 병 박해철 선대위, '진심 공약과 김명연의 헛된 공...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242399"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:00:00 +0900",
-        "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
-        "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 07:14:00 +0900",
-        "title": "박해철 안산(병) 민주당 후보, 화재에 신속한 대응... 소방대원에 감사",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851427"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:32:00 +0900",
-        "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:36:00 +0900",
-        "title": "안산시병 박해철 후보, 선부119안전센터에 감사 인사 전해",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446779"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:20:00 +0900",
-        "title": "[4·10 총선] 민주당 안산병 박해철  재건축 사업으로 시민 안전 및 쾌적한 주...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242229"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 22:42:00 +0900",
-        "title": "안산시병 더불어민주당 박해철 후보, 선부동 동명삼거리에서 집중유세",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446774"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 16:16:00 +0900",
-        "title": "[4·10 총선] 안산시병 더불어민주당 박해철 후보, 금융노조와 정책협약 체결",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242179"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 15:22:00 +0900",
-        "title": "[4·10 총선] 안산시병 더불어민주당과 국민의힘 공약 실현 가능성 놓고 설전",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242176"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 13:00:00 +0900",
-        "title": "박해철 더민주 안산병 후보, 금융노조 지지선언",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644393"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 23:32:00 +0900",
-        "title": "더불어민주당 안산시병 박해철 후보, 금융노조와 정책협약 체결",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446766"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 23:32:00 +0900",
-        "title": "여성이 살맛나는 안산, '박해철과 더불어 선대위 여성지원단' 발족식 개최",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446765"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:52:00 +0900",
-        "title": "[4·10 총선] 민주당 박해철 안산시(병) 후보, 여성지원단 발대식",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242116"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:34:00 +0900",
-        "title": "[포토] 합동출정식에서 환호하는 더불어민주당 양문석-김현-박해철 후보",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558383"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:02:00 +0900",
-        "title": "민주당 안산시 갑‧을‧병 후보 합동 출정식",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850830"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:02:00 +0900",
-        "title": "민주당 안산시(병) 박해철 후보, 선대위 여성지원단 발족",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850827"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:26:00 +0900",
-        "title": "한국노총 금속노련 안산노조, 민주당 안산병 박해철 후보 지지선언",
-        "link": "https://www.viva100.com/main/view.php?key=20240329010010092"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 13:45:00 +0900",
-        "title": "민주 안산병 박해철  어르신 존중받는 안산 만들 것 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459039?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 13:42:00 +0900",
-        "title": "안산시병 박해철 후보, 경로당 찾아 어르신 공약 설명",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446626"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 13:24:00 +0900",
-        "title": "안산시병 박해철 후보, 경로당 찾아 어르신 공약 설명",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850686"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:41:00 +0900",
-        "title": "안산 민주당 합동출정식 가졌지만 공천 후유증에 '엇박자'",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325555?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:20:00 +0900",
-        "title": "안산병 국힘 김명연 “현대·기아차 공장 유치” vs 민주당 박해철 “헛된 공...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240329023103044"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:34:00 +0900",
-        "title": "[4·10 총선] 민주당 안산시(갑)·(을)·(병) 선대위, 총선 승리를 위한 합동...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242032"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:04:00 +0900",
-        "title": "김현 안산(을) 민주당 후보 발대식... '정권심판' 필승 다짐",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850485"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:58:00 +0900",
-        "title": "박해철과더불어 선대위 청년지원단 발족",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446520"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:14:00 +0900",
-        "title": "안산시 더불어민주당 후보들 한자리에… 합동출정식 가져",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644196"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:56:00 +0900",
-        "title": "박해철 후보, 박해철과더불어 선대위 청년지원단 발족",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850365"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:24:00 +0900",
-        "title": "[4·10 총선] 민주당 안산시(병) 박해철 후보 선거운동 출정식 개최",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241868"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:24:00 +0900",
-        "title": "[4·10 총선] 민주당 안산(병) 박해철, '선대위 청년 지원단' 발족",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241869"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:16:00 +0900",
-        "title": "박해철 후보 출정식 “총선 압승으로 尹정권 심판”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702277?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:00:00 +0900",
-        "title": "박해철 더민주 안산시병 후보, 선대위 청년지원단 '발족'",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644087"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:58:00 +0900",
-        "title": "박해철 후보 “안산에서 파란을 일으키자”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850266"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:04:00 +0900",
-        "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
-        "link": "https://www.naeil.com/news/read/505806?ref=naver"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 12:36:00 +0900",
-        "title": "박해철 후보 출정식 개최,  안산에서 파란을 일으키자! ",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446344"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:58:00 +0900",
-        "title": "박해철 후보, 경기도지사에 정책건의서 전달",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849716"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:52:00 +0900",
-        "title": "박해철 후보, 김동연 경기도지사에게 '경기 서부 SOC 대개발 정책건의서' 전달",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446307"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 07:59:00 +0900",
-        "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
-        "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:02:00 +0900",
-        "title": "경기 민주 후보들 '재건축 원팀' 결성",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080529"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 20:04:00 +0900",
-        "title": "민주당 노후신도시 후보들 '재건축 원팀' 결성",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643889"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 19:26:00 +0900",
-        "title": "박해철 후보, 김동연에 '안산 병 재건축 신속 추진 및 경기 서부 SOC 대개발'...",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643843"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:58:00 +0900",
-        "title": "[4·10=한다면 한다] 민주당 용인병 부승찬, 재건축 원팀으로 수지구 노후지역...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241668"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:42:00 +0900",
-        "title": "부승찬 용인시병 후보  수지구 노후지역 재정비 제대로 하겠다 ",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:33:00 +0900",
-        "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
-        "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:30:00 +0900",
-        "title": "양문석 민주당 안산갑 후보, 선거사무소 개소",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=690298"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:28:00 +0900",
-        "title": "민주당 7곳 후보, 1기 신도시 '진행은 빠르게 부담금은 적게' 원팀 재건축 비...",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080416"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:26:00 +0900",
-        "title": "부승찬 용인시병 후보, 김동연 지사에 신분당선 통행세 폐지 건의",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123096"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:54:00 +0900",
-        "title": "[4·10 총선] 민주당 박해철 안산시(병) 후보, 경기도지사에 안산시 재건축 정...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241605"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:52:00 +0900",
-        "title": "민주 재건축 원팀, 김동연 지사에 정책건의서 전달",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=787465"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:51:00 +0900",
-        "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
-        "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:28:00 +0900",
-        "title": "[4·10 총선] 민주당 김현 안산시(을) 후보, 선거대책위원회 발대식 개최",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241537"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:59:00 +0900",
-        "title": "[열전 25시] 3월 27일 경기도 현장은 지금②",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037454?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:54:00 +0900",
-        "title": "부승찬 용인병 후보 김동연 경기지사에 신분당선 통행세 폐지 건의",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080318"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:28:00 +0900",
-        "title": "민주당 안산병 박해철 후보, 경기도지사 만나 ‘재건축 및 경기 서부 개발 건...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240327029482498"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:09:00 +0900",
-        "title": "부승찬  민주당 재건축 원팀으로 수지 노후 지역 재정비 ",
-        "link": "https://n.news.naver.com/mnews/article/629/0000276669?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:46:00 +0900",
-        "title": "부승찬, 김동연 경기도지사에게 5대 수지발전정책 도정 반영 건의",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1105709"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:41:00 +0900",
-        "title": "부승찬, 김동연 지사에 신분당선 통행세 폐지·3호선 연장 등 건의",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427644?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:40:00 +0900",
-        "title": "부승찬 후보  더불어민주당 재건축 원팀으로 수지구 노후지역 재정비 제대로 ...",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1105703"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 12:54:00 +0900",
-        "title": "[기자수첩] 안산 인구 감소의 역습...결국 3개 선거구로 쪼그라들어",
-        "link": "https://www.viva100.com/main/view.php?key=20240327010009056"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 12:50:00 +0900",
-        "title": "민주당 안산을 김현 후보, 선대위 발대식 갖고 본격 선거운동 돌입",
-        "link": "https://www.viva100.com/main/view.php?key=20240327010009037"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:32:00 +0900",
-        "title": "[열전 25시] 3월 26일 경기도 현장은 지금④",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037362?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:57:00 +0900",
-        "title": "'수도권 출마' TK 출향 후보들, 격전지서 금배지 사냥 나선다",
-        "link": "https://n.news.naver.com/mnews/article/088/0000869415?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:30:00 +0900",
-        "title": "박해철 안산병 국회의원 후보, 택시노동자 처우개선 추진",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848863"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 15:46:00 +0900",
-        "title": "[4·10 총선] 민주당 안산(병) 박해철,  택시노동자 근로조건, 노사 자율로 결...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241304"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 14:46:00 +0900",
-        "title": "박해철 안산병 국회의원 후보, 택시노동자 처우개선 추진",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=445879"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 09:54:00 +0900",
-        "title": "박해철 후보  안산 대부동을 관광문화특구로 ",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848345"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 09:20:00 +0900",
-        "title": "[4·10=한다면 한다] 민주당 안산병 박해철, 안산시 대부동 방문 및 공약 발표",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241227"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:26:00 +0900",
-        "title": "지역구 3개로 줄어든 안산...총선 후보 8명 등록 (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168154"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:20:00 +0900",
-        "title": "[4·10 총선] 민주당 양문석, 안산시(갑) 선거사무소 개소식",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241104"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:02:00 +0900",
-        "title": "안산시갑 양문석 후보 선거사무소 개소식 성료",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848218"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:21:00 +0900",
-        "title": "안산 총선 '보수 분열' 대진표…2년 전 지방선거와 대조",
-        "link": "https://n.news.naver.com/mnews/article/629/0000275959?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 20:32:00 +0900",
-        "title": "더불어민주당 박해철(안산병) 후보, 선거사무소 개소식 성료",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3121874"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:56:00 +0900",
-        "title": "갈수록 증가하는 전략공천… 민주 9곳·국힘 15곳 '꽂았다'",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240325010002734"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:08:00 +0900",
-        "title": " 민주당이 선택한 안산발전의 적임자  박해철 후보 선거사무소 개소식",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847633"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 17:52:00 +0900",
-        "title": "박해철 후보-공기업정책연대 공공부문 노동존중 정책협약 체결",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847627"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 17:30:00 +0900",
-        "title": "박해철 후보, 공기업정책연대 공공부문 노동존중 정책협약 '체결'",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643106"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 15:58:00 +0900",
-        "title": "박해철 후보 ,공기업정책연대와 정책협약",
-        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220621"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:18:00 +0900",
-        "title": "안산시 병, 이혜숙 개혁신당 후보 합류로 3자구도 확정",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363642988"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 12:10:00 +0900",
-        "title": "[4·10 총선] 민주당 박해철 안산시(병) 후보, 공공노동자 노동권 보장 위한 ...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240780"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 10:10:00 +0900",
-        "title": "[4·10 총선] 민주당 안산시(병) 박해철 후보 선거사무소 개소식 및 선거대책...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240748"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 19:30:00 +0900",
-        "title": "경기 안산시 3개 선거구 8명 여야후보 대진표 확정",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556740"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 18:43:00 +0900",
-        "title": "민주 안산병 박해철  도시계획 전문가, 노동계에서 다져온 투쟁·협상 전략 안...",
-        "link": "https://n.news.naver.com/mnews/article/003/0012446166?sid=102"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:33:00 +0900",
-        "title": "[4·10총선 후보 등록]경기 안산 8명…지역구 4곳→3곳",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445835?sid=102"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1944797
-      }
-    ],
-    "huboid": "100153035",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100153035/junkwa/20240314155259672_1.PDF"
-  },
-  {
-    "id": "2411903-2",
-    "regionId": "2411903",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-2.jpg",
-    "기호": 2,
-    "이름": "김명연",
-    "생년월일": "19640228",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "한양대학교 행정·자치대학원 졸업[지방자치학석사(지방·도시행정)]",
-    "경력": "(전)19대·20대 국회의원\n(현)사단법인 미래희망포럼 이사장",
-    "재산": 3394162,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:59:00 +0900",
-        "title": " 원희룡·강기윤·박정하·윤희숙, 의료 민영화 추진 '최악 4인방' ",
-        "link": "https://n.news.naver.com/mnews/article/002/0002326141?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:58:00 +0900",
-        "title": "무상의료운동본부 선정 최악의후보 '국힘 원희룡, 박정하, 강기윤, 윤희숙'  ...",
-        "link": "http://worknworld.kctu.org/news/articleView.html?idxno=504334"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:20:00 +0900",
-        "title": "총선 앞두고 유통 '파격 공약' 봇물… 여야 정당들 '물가안정'에 주력",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125340"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:10:00 +0900",
-        "title": "김명연 안산병 후보,안산 스타필드 유치 공약 내세우며 지역 주민들 뜨거운 관...",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081494"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:51:00 +0900",
-        "title": "국힘 안산병 김명연, '안산스타필드 유치' 공약",
-        "link": "https://n.news.naver.com/mnews/article/003/0012467163?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:25:00 +0900",
-        "title": "[포토] 무상의료운동본부,  의료공공성 파괴  총선 낙선 대상자 발표",
-        "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33560"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:24:00 +0900",
-        "title": "'시민건강 위협' 총선 후보 22인 발표…최악은 누구",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278174?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:14:00 +0900",
-        "title": "의료계도 총선 낙선운동… 시민 생명과 건강 위협  주장",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=650892"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:02:00 +0900",
-        "title": "김명연 국힘 안산병 후보, 현기차 친환경차 안산공장 유치 “실현 가능”",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=691359"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:46:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 안산 병 김명연, 현대기아차 친환경 차 안산공장 유...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242719"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:24:00 +0900",
-        "title": "원희룡·강기윤·윤희숙, 국민 건강에 '최악의 후보'",
-        "link": "http://www.labortoday.co.kr/news/articleView.html?idxno=220816"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-        "title": "김명연 후보, 현기차 친환경차 안산공장 유치  실현 가능 ",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852636"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:37:00 +0900",
-        "title": " 여긴 김남국도 된 곳 …'양문석 논란'에도 진보강세 안산[르포]",
-        "link": "https://n.news.naver.com/mnews/article/018/0005705265?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "[4·10 총선] 민주당 안산시(병)  김명연 후보의 헛공약과 입법 무지는 어디까...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242668"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:53:00 +0900",
-        "title": "4·10 총선 D-8…시민 생명 위협할 '위험' 국회의원 후보?",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880870?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:14:00 +0900",
-        "title": "안산병 국민의힘 김명연 vs 민주당 박해철… 거세지는 신경전",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402022073978"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:10:00 +0900",
-        "title": "[4·10=안산병 토론회] 김명연  LH 현직 유지 청년 일자리 강탈 vs박해철  입...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242639"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:49:00 +0900",
-        "title": "'총선 D-8' 유통 관련 공약은…규제 완화 빠지고  서민·물가 ",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451641?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:33:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금②",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037943?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:38:00 +0900",
-        "title": "김명연 후보, 복합문화쇼핑몰 ‘안산 스타필드’ 유치로 지역 경제 활성화 총...",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851941"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:16:00 +0900",
-        "title": "김명연 후보,  '안산 스타필드' 유치로 지역 경제 활성화 총력 ",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644738"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:52:00 +0900",
-        "title": "김명연 국힘 안산병 후보, ‘안산 스타필드’ 유치로 지역 경제 활성화 총력",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=691067"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:26:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 안산병 김명연,  '안산 스타필드' 유치로 지역 경제...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242434"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:18:00 +0900",
-        "title": "[4·10 총선] 민주당 박해철  김명연 후보, 시민 우롱 청년·신혼부부 주택 2...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242433"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:53:00 +0900",
-        "title": "[열전 25시] 4월 1일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037912?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:10:00 +0900",
-        "title": "국민의힘 안산병 김명연 후보, 스타필드 유치 공약",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401029293679"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:24:00 +0900",
-        "title": "김명연 후보, 반도체특성화고교 유치 ‘현기차 유치 마중물’ 공약",
-        "link": "https://www.viva100.com/main/view.php?key=20240401010000104"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:00:00 +0900",
-        "title": "[4·10 총선] 민주당 안산 병 박해철 선대위, '진심 공약과 김명연의 헛된 공...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242399"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:58:00 +0900",
-        "title": "[4·10 총선] 한동훈 비대위원장, 조국혁신당 박은정 후보 및 민주당 후보들 ...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242397"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:02:00 +0900",
-        "title": "김명연 국힘 안산병 후보, 반도체특성화고교 유치 ‘현기차 유치 마중물’",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=691000"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
-        "title": "[4·10 총선] 경기 선거구 60곳 중 44곳, 남부에 화력 집중",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242374"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 14:18:00 +0900",
-        "title": "김명연 후보,  반도체특성화고교 유치해 반도체 산업인력 양성 ",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644435"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 13:34:00 +0900",
-        "title": "김명연 후보, 반도체특성화고교 유치... ‘현대·기아차 유치 마중물’",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851199"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:38:00 +0900",
-        "title": "한동훈 선대위원장,안산선부광장서 김명연 안산병 후보 지원 사격",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080934"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:20:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 안산 병 김명연  반도체특성화고등학교 설립·안산...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242230"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 08:40:00 +0900",
-        "title": "한동훈 총괄선대위원장, 김명연 안산(병) 후보 지원 사격 나서",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850966"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:16:00 +0900",
-        "title": "한동훈, 안양·군포·의왕·안산 지원 유세… 자신 만만하다 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012460479?sid=102"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 15:22:00 +0900",
-        "title": "[4·10 총선] 안산시병 더불어민주당과 국민의힘 공약 실현 가능성 놓고 설전",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242176"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 14:12:00 +0900",
-        "title": "독해지는 한동훈의 입… 이재명·김준혁·양문석의 쓰레기 같은 말 들어봐라 ",
-        "link": "https://www.ajunews.com/view/20240330140151191"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 13:10:00 +0900",
-        "title": "공식선거운동 첫 주말…여야, '최대 승부처' 수도권 집중 공략",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436607"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 12:30:00 +0900",
-        "title": "한동훈 국힘 총괄선대위원장, 김명연 안산(병) 후보 지원 사격 나서",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=690981"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 09:36:00 +0900",
-        "title": "'계양' 찾는 한동훈, 이재명·김부겸은 수도권 '쌍끌이'",
-        "link": "http://www.metroseoul.co.kr/article/20240330500001"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 00:00:00 +0900",
-        "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 23:32:00 +0900",
-        "title": "국민의힘 안산을 서정현 후보, 한동훈 총괄선대위원장과 합동 유세 나서",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446767"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:05:00 +0900",
-        "title": "한동훈, 안산서 '이·조 심판' 외치며 與후보 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325670?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 20:41:00 +0900",
-        "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:10:00 +0900",
-        "title": "화성·안산 찾은 한동훈  사익 위해 정치하는 민주·조국당 막아야 ",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037730?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:39:00 +0900",
-        "title": "한동훈, 선거운동 둘째날 조국 맹공격…화성서 '공영운 비난'(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459865?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:38:00 +0900",
-        "title": "[4·10 총선] 한동훈 비상대책위원장, 안산지역 후보 지지 유세",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242123"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:26:00 +0900",
-        "title": "한동훈  안산 위해 일하는 김명연 뽑아달라 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459843?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:54:00 +0900",
-        "title": "[포토] 경기 안산시 지원유세 나선 한동훈 총괄선대위원장",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900282.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:50:00 +0900",
-        "title": "[포토] 안산 찾은 한동훈 맞이하는 김명연 안산병 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900278.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:40:00 +0900",
-        "title": "[포토] 양문석 자녀 대출특혜 의혹 공개질의하는 장성민 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900271.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:34:00 +0900",
-        "title": "[포토] 국민의힘 장성민-서정현-김명연 후보 박수쳐주는 한동훈",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558365"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:36:00 +0900",
-        "title": "장성민·서정현·김명연 후보 지지 호소하는 한동훈 [쿠키포토]",
-        "link": "http://www.kukinews.com/newsView/kuk202403290192"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:34:00 +0900",
-        "title": "한동훈  이종섭 자진사퇴…저는 다른 사람 눈치 보지 않아 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005703116?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459601?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "장성민-서정현-김명연 후보 지지 호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459594?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 찾은 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459598?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 찾은 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459600?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459612?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "장성민-서정현-김명연 후보 지지 호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459595?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "지원 유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459604?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459602?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "지지자들에게 인사하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459607?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "지지자들에게 인사하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459609?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459605?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459596?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "지원 유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459610?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459593?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "지지 호소하는 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459599?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:10:00 +0900",
-        "title": "안산 지원유세 나선 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459606?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:06:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598646?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:05:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598640?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:05:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598639?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:05:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598636?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:05:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598637?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:05:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598638?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:04:00 +0900",
-        "title": "안산지역 후보 지지 호소하는 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598634?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:56:00 +0900",
-        "title": "[포토] 경기 안산시 후보 지원 나선 한동훈",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900228.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:34:00 +0900",
-        "title": "[4.10 총선] 김명연 국힘 안산시(병) 후보, 선거대책위 출정식",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/20240329152026125601e71a555b_1/article.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:20:00 +0900",
-        "title": "안산병 국힘 김명연 “현대·기아차 공장 유치” vs 민주당 박해철 “헛된 공...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240329023103044"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:00:00 +0900",
-        "title": "[4·10 총선] 국민의힘 김명연 안산시(병) 국회의원 후보, 선거대책위원회 출...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242049"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:48:00 +0900",
-        "title": "국민의힘 안산병 김명연 후보, 선대위 출정식 개최",
-        "link": "https://www.viva100.com/main/view.php?key=20240329010009971"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:19:00 +0900",
-        "title": "김명연 안산시(병) 후보, 선부광장서 출정식 갖고 '필승 다짐'",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325527?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:39:00 +0900",
-        "title": "국힘 안산병 김명연  당선되면 3선. 큰 예산으로 안산을 확 바꾸겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457858?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:58:00 +0900",
-        "title": "김명연 안산시(병) 후보, 선부광장에서 출정식 '필승 다짐'",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446516"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:36:00 +0900",
-        "title": "김명연 국힘 안산병 후보, 안산시 재건축 규제 완화에 '박차'",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644173"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:28:00 +0900",
-        "title": "[4·10 총선] 국민의힘 안산병 김명연 국회의원 후보, 선거대책위원회 출정식...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241944"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:28:00 +0900",
-        "title": "김명연 안산병 후보, 1기 신도시 특별법 수혜' 안산 재건축 규제 완화 박차",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080729"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:42:00 +0900",
-        "title": "“청와대 옮기고, 해리포터 스튜디오 유치”…4·10 총선 ‘황당’ 공약들 [이...",
-        "link": "https://www.etoday.co.kr/news/view/2345386"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:54:00 +0900",
-        "title": "[열전 25시] 3월 28일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037577?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:44:00 +0900",
-        "title": "국민의힘 안산병 김명연 후보, 함백산 화장시설 확충 공약",
-        "link": "https://www.viva100.com/main/view.php?key=20240328010009570"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 11:30:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 안산시(병) 김명연, '1기 신도시 특별법 수혜' 안산...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241769"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:58:00 +0900",
-        "title": "김명연 후보, ‘1기 신도시 특별법 수혜’ 안산 재건축 규제 완화 '박차'",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849771"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 09:53:00 +0900",
-        "title": "국힘 안산병 김명연  재건축 통쾌하게 추진할 것 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012455322?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 08:10:00 +0900",
-        "title": "김명연 국힘 안산병 후보, ‘1기 신도시 특별법 수혜’ 안산 재건축 규제 완화...",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=690441"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:02:00 +0900",
-        "title": "경기지역 출마자 장밋빛 공약 재원 조달 방안은 빈틈투성이",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080564"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:30:00 +0900",
-        "title": "안산 국민의힘 후보들  안산을 K-컬쳐 국제문화예술 특구로  공약",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814072?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:28:00 +0900",
-        "title": "[4·10 총선] 대한노인회 김호일 회장, 국민의힘 김명연 안산시(병) 후보에게...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241540"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3394162
-      }
-    ],
-    "huboid": "100151665",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100151665/junkwa/20240308180543866_1.PDF"
-  },
-  {
-    "id": "2411903-7",
-    "regionId": "2411903",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-7.jpg",
-    "기호": 7,
-    "이름": "이혜숙",
-    "생년월일": "19640426",
-    "정당": "개혁신당",
-    "성별": "여",
-    "직업": "정치컨설팅 공론 대표",
-    "학력": "광운대학교 대학원 행정학과 졸업(행정학 박사)",
-    "경력": "(전)디지털서울문화예술대학교 외래교수\n(현)개혁신당 정책위원회 부의장",
-    "재산": 97622,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 11:24:00 +0900",
-        "title": "[유세장 직격인터뷰] 서영석·이혜숙·김주영·이원옥·김용만·황명주·전용...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 22:26:00 +0900",
-        "title": "안산시병 이혜숙 후보, 중도층 40%대로 3파전으로 승부내겠다",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446775"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 12:54:00 +0900",
-        "title": "[기자수첩] 안산 인구 감소의 역습...결국 3개 선거구로 쪼그라들어",
-        "link": "https://www.viva100.com/main/view.php?key=20240327010009056"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:26:00 +0900",
-        "title": "지역구 3개로 줄어든 안산...총선 후보 8명 등록 (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=168154"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:21:00 +0900",
-        "title": "안산 총선 '보수 분열' 대진표…2년 전 지방선거와 대조",
-        "link": "https://n.news.naver.com/mnews/article/629/0000275959?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:18:00 +0900",
-        "title": "안산시 병, 이혜숙 개혁신당 후보 합류로 3자구도 확정",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363642988"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 13:12:00 +0900",
-        "title": "경기도 여성 후보 전체 14.9% 22명 불과 [경기도 후보 분석_여성]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037066?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 10:26:00 +0900",
-        "title": "이혜숙 국회의원 예비후보, 22일 안산시병 선거구 개혁신당 후보 등록",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847235"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 19:30:00 +0900",
-        "title": "경기 안산시 3개 선거구 8명 여야후보 대진표 확정",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556740"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:33:00 +0900",
-        "title": "[4·10총선 후보 등록]경기 안산 8명…지역구 4곳→3곳",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445835?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:42:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:43:00 +0900",
-        "title": "[4·10총선 후보자 등록] 경기",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:18:00 +0900",
-        "title": "[4.10총선-98] 안산병, 박해철vs김명연(vs이혜숙). 이혜숙 출마에 여권표 분산...",
-        "link": "http://www.mhj21.com/160030"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 11:39:00 +0900",
-        "title": " 이민청이 인구문제의 해법 …총선 여야 후보 앞다퉈 유치 공약",
-        "link": "https://n.news.naver.com/mnews/article/001/0014582058?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 17:44:00 +0900",
-        "title": "개혁신당, 비례 1번 이주영·2번 천하람·6번 이기인",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=786448"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 17:16:00 +0900",
-        "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
-        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 17:13:00 +0900",
-        "title": "제3지대, 공천 막판 스퍼트…지지율 반등 노린다",
-        "link": "https://n.news.naver.com/mnews/article/018/0005695803?sid=165"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 18:06:00 +0900",
-        "title": "더불어민주당 안산병 박해철 공천...대진표는? (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=167870"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 16:10:00 +0900",
-        "title": "이혜숙 후보, 개혁신당 안산병 공천 확정",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=688394"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 11:42:00 +0900",
-        "title": "안산시 공천 윤곽, 현역의원 전부 탈락… 총선 격전지로 부상",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=444388"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 09:34:00 +0900",
-        "title": "“이혜숙, 개혁신당 영입인재 입당 후 안산시병 공천 확정”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1844076"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 10:39:00 +0900",
-        "title": "[총선 나도 뛴다] 3월 17일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000036343?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 17:10:00 +0900",
-        "title": "개혁신당, '위안부 소녀상 막말' 이기원 공천 취소",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=632084"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 16:36:00 +0900",
-        "title": "개혁신당, '위안부 소녀상 막말' 이기원 서천·보령 후보 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/123/0002329751?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 14:58:00 +0900",
-        "title": "개혁신당 '막말 논란' 이기원 후보 공천 취소… 당의 명예 실추되고 있어 ",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240315010002088"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 14:42:00 +0900",
-        "title": "개혁신당, ‘위안부 소녀상 막말’ 이기원 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/005/0001681265?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 14:17:00 +0900",
-        "title": "개혁신당, ‘소녀상 막말’ 이기원 후보 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/018/0005692902?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 13:36:00 +0900",
-        "title": "[총선 D-26] 개혁신당, '소녀상 막말' 이기원 후보 공천 취소",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1021339"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 13:33:00 +0900",
-        "title": "‘위안부 소녀상 막말’ 이기원도 공천 취소…개혁신당 “당 명예 실추”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002281021?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 13:30:00 +0900",
-        "title": "개혁신당, '소녀상 막말' 이기원 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/011/0004313694?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 13:13:00 +0900",
-        "title": "개혁신당, ‘위안부 소녀상 막말’ 이기원 서천·보령 후보 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/056/0011681983?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 12:32:00 +0900",
-        "title": "개혁신당, '소녀상 발언 논란' 이기원 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/421/0007413768?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 12:19:00 +0900",
-        "title": "개혁신당, '소녀상 막말' 이기원 후보 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/001/0014565754?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 11:53:00 +0900",
-        "title": "개혁신당, '위안부 소녀상 막말' 이기원 공천 취소",
-        "link": "https://n.news.naver.com/mnews/article/031/0000820606?sid=100"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 13:24:00 +0900",
-        "title": "이혜숙, 국민의힘 탈당 개혁신당 입당...안산시병 출마 (B tv 한빛뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=59&p_no=167679"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 06:45:00 +0900",
-        "title": "수도권 벨트 완성한 개혁신당, 공약 실현 가능성은 '의문부호'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002808683?sid=165"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 20:08:00 +0900",
-        "title": "이민청 유치전… 인천은  일단 관망 ",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363640807"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 10:48:00 +0900",
-        "title": "[4·10 총선] 이혜숙 국민의힘 탈당 후 개혁신당 안산병 후보 출마 선언",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1238483"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 21:18:00 +0900",
-        "title": "국힘 탈당한 이혜숙, 개혁신당 입당... 안산병 출마",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1841170"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 18:47:00 +0900",
-        "title": "[총선 나도 뛴다] 3월 11일 경기도 현장은 지금⑤",
-        "link": "https://n.news.naver.com/mnews/article/666/0000035896?sid=165"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 18:26:00 +0900",
-        "title": "이혜숙 예비후보, 개혁신당 입당… 안산병 출마",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363640534"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 17:56:00 +0900",
-        "title": "이혜숙 전 국민의힘 안산병 예비후보, 개혁신당 입당",
-        "link": "https://n.news.naver.com/mnews/article/003/0012420072?sid=102"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 14:42:00 +0900",
-        "title": "이혜숙, 국민의힘 탈당 후 개혁신당 입당… 안산병 출마 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005689633?sid=165"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 12:01:00 +0900",
-        "title": "이혜숙, 개혁신당 입당…안산병서 국힘 김명연 등과 3자 대결",
-        "link": "https://n.news.naver.com/mnews/article/421/0007402833?sid=165"
-      },
-      {
-        "date": "Thu, 08 Feb 2024 09:16:00 +0900",
-        "title": "[설특집: 22대 총선 수도권 대진표-경기/인천] 여·야 72곳 500명 출마 현황",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483922"
-      },
-      {
-        "date": "Thu, 23 Jan 2020 18:50:00 +0900",
-        "title": "[인사] 기획재정부 外",
-        "link": "https://n.news.naver.com/mnews/article/005/0001281437?sid=102"
-      },
-      {
-        "date": "Thu, 23 Jan 2020 17:52:00 +0900",
-        "title": "[1월 23일 인사] 신한금융지주·신한은행·법무부·여성가족부 外",
-        "link": "http://www.news2day.co.kr/147148"
-      },
-      {
-        "date": "Thu, 23 Jan 2020 16:26:00 +0900",
-        "title": "[인사] 신한금융지주·신한은행 ; 기획재정부 ; 법무부 등",
-        "link": "https://n.news.naver.com/mnews/article/015/0004278621?sid=102"
-      },
-      {
-        "date": "Fri, 15 Jul 2016 10:00:00 +0900",
-        "title": "[인사종합]법무부·공정거래위원회·산림청 외",
-        "link": "https://n.news.naver.com/mnews/article/421/0002169218?sid=102"
-      },
-      {
-        "date": "Fri, 15 Jul 2016 03:37:00 +0900",
-        "title": "[인사]",
-        "link": "https://n.news.naver.com/mnews/article/081/0002738029?sid=102"
-      },
-      {
-        "date": "Thu, 14 Jul 2016 21:16:00 +0900",
-        "title": "[인사] 기업은행 ; 법무부 ; 산림청 등",
-        "link": "https://n.news.naver.com/mnews/article/015/0003625309?sid=102"
-      },
-      {
-        "date": "Thu, 14 Jul 2016 19:53:00 +0900",
-        "title": "[인사] 공정거래위원회 외",
-        "link": "https://n.news.naver.com/mnews/article/022/0003076541?sid=102"
-      },
-      {
-        "date": "Thu, 14 Jul 2016 19:35:00 +0900",
-        "title": "7월 15일 인사",
-        "link": "https://n.news.naver.com/mnews/article/028/0002325541?sid=102"
-      },
-      {
-        "date": "Thu, 04 Feb 2016 11:42:00 +0900",
-        "title": "4·13 총선 국회의원 출마 예상자 명단",
-        "link": "https://n.news.naver.com/mnews/article/021/0002265299?sid=100"
-      },
-      {
-        "date": "Thu, 21 Jan 2016 21:29:00 +0900",
-        "title": "더민주 전북도당 총선체제로 전환",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1095987"
-      },
-      {
-        "date": "Mon, 18 Jan 2016 10:41:00 +0900",
-        "title": "[기획특집] 20대 총선 출마자 명단(2)- 경기, 인천, 울산",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=125692"
-      },
-      {
-        "date": "Fri, 08 Jan 2016 02:51:00 +0900",
-        "title": "[4 13선거 안산지역 누가뛰나] 세월호 민심 흐름이 승패 분수령 … 표심 오리...",
-        "link": "http://www.incheonilbo.com/?mod=news&act=articleView&idxno=686772"
-      },
-      {
-        "date": "Mon, 04 Jan 2016 00:42:00 +0900",
-        "title": "[신년기획-20대 국회의원 누구 뽑을까] 4·13 총선 출마 예상자 명단 (246개 ...",
-        "link": "https://n.news.naver.com/mnews/article/081/0002657721?sid=100"
-      },
-      {
-        "date": "Thu, 31 Dec 2015 12:21:00 +0900",
-        "title": "20대 국회의원 선거 출마 예상자",
-        "link": "http://www.naeil.com/news_view/?id_art=179471"
-      },
-      {
-        "date": "Sat, 21 Jan 2012 01:35:00 +0900",
-        "title": "[총선특집Ⅱ] 폴리뉴스 19대 총선 출마예상자 전수조사 ⑥ 경기·인천",
-        "link": "http://polinews.co.kr/news/newsview.html?no=140814"
-      },
-      {
-        "date": "Fri, 20 Jan 2012 15:56:00 +0900",
-        "title": "19대 총선 지역 출마 예상자",
-        "link": "http://www.sisapress.com/news/articleView.html?idxno=57009"
-      },
-      {
-        "date": "Fri, 14 Dec 2007 03:20:00 +0900",
-        "title": "‘과학기술 분야 10대 현안’ 대선 후보들에게 물었습니다",
-        "link": "https://n.news.naver.com/mnews/article/020/0000443921?sid=100"
-      },
-      {
-        "date": "Sat, 24 Feb 2001 12:57:00 +0900",
-        "title": "[표] 신설법인 (2월 13~19일) 서울...서비스/섬유피혁",
-        "link": "https://n.news.naver.com/mnews/article/009/0000095057?sid=101"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 97622
-      }
-    ],
-    "huboid": "100151192",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100151192/junkwa/20240311202828373_1.PDF"
-  }
+    {
+        "id": "2411903-1",
+        "regionId": "2411903",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-1.jpg",
+        "기호": 1,
+        "이름": "박해철",
+        "생년월일": "19650914",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "회사원",
+        "학력": "단국대학교 부동산·건설대학원 졸업(도시계획학석사(도시개발))",
+        "경력": "(전)한국노총 LH노동조합 위원장\n(현)더불어민주당 대변인",
+        "재산": 1944797,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:51:00 +0900",
+                "title": "민주 안산병 <b>박해철</b> '빛나는 안산 만들기 HOT 6' 공약",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467279?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:08:00 +0900",
+                "title": "<b>박해철</b> 안산병 후보 “1호 공약 4호선 지하화 추진”",
+                "link": "https://n.news.naver.com/mnews/article/018/0005705409?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:08:00 +0900",
+                "title": "<b>박해철</b> 후보, 빛나는 안산 만들기 HOT 6 공약발표!",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852654"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "[4·10=한다면 한다] <b>민주당</b> 안산병 <b>박해철</b>, '빛나는 안산 만들기 HOT 6' 공약...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242715"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:36:00 +0900",
+                "title": "안산시병 <b>박해철</b> 후보, 빛나는 안산 만들기 HOT 6 공약발표",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447104"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1944797
+            }
+        ],
+        "huboid": "100153035",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100153035/junkwa/20240314155259672_1.PDF"
+    },
+    {
+        "id": "2411903-2",
+        "regionId": "2411903",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-2.jpg",
+        "기호": 2,
+        "이름": "김명연",
+        "생년월일": "19640228",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "한양대학교 행정·자치대학원 졸업[지방자치학석사(지방·도시행정)]",
+        "경력": "(전)19대·20대 국회의원\n(현)사단법인 미래희망포럼 이사장",
+        "재산": 3394162,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+                "title": "<b>김명연</b> 안산병 후보,안산 스타필드 유치 공약 내세우며 지역 주민들 뜨거운 관...",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081494"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:51:00 +0900",
+                "title": "국힘 안산병 <b>김명연</b>, '안산스타필드 유치' 공약",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467163?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:02:00 +0900",
+                "title": "<b>김명연</b> 국힘 안산병 후보, 현기차 친환경차 안산공장 유치 “실현 가능”",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=691359"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:46:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 안산 병 <b>김명연</b>, 현대기아차 친환경 차 안산공장 유...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242719"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+                "title": "<b>김명연</b> 후보, 현기차 친환경차 안산공장 유치 \"실현 가능\"",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852636"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3394162
+            }
+        ],
+        "huboid": "100151665",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100151665/junkwa/20240308180543866_1.PDF"
+    },
+    {
+        "id": "2411903-7",
+        "regionId": "2411903",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411903-7.jpg",
+        "기호": 7,
+        "이름": "이혜숙",
+        "생년월일": "19640426",
+        "정당": "개혁신당",
+        "성별": "여",
+        "직업": "정치컨설팅 공론 대표",
+        "학력": "광운대학교 대학원 행정학과 졸업(행정학 박사)",
+        "경력": "(전)디지털서울문화예술대학교 외래교수\n(현)개혁신당 정책위원회 부의장",
+        "재산": 97622,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 11:24:00 +0900",
+                "title": "[유세장 직격인터뷰] 서영석·<b>이혜숙</b>·김주영·이원옥·김용만·황명주·전용...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 22:26:00 +0900",
+                "title": "안산시병 <b>이혜숙</b> 후보, 중도층 40%대로 3파전으로 승부내겠다",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=446775"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 14:18:00 +0900",
+                "title": "안산시 병, <b>이혜숙</b> <b>개혁신당</b> 후보 합류로 3자구도 확정",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363642988"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 10:26:00 +0900",
+                "title": "<b>이혜숙</b> 국회의원 예비후보, 22일 안산시병 선거구 <b>개혁신당</b> 후보 등록",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847235"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 17:18:00 +0900",
+                "title": "[4.10총선-98] 안산병, 박해철vs김명연(vs<b>이혜숙</b>). <b>이혜숙</b> 출마에 여권표 분산...",
+                "link": "http://www.mhj21.com/160030"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 97622
+            }
+        ],
+        "huboid": "100151192",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4119/Hb100151192/junkwa/20240311202828373_1.PDF"
+    }
 ]

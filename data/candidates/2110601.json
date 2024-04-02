@@ -1,1208 +1,142 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-1.jpg",
-    "id": "2110601-1",
-    "재산": 6918218,
-    "생년월일": "19610429",
-    "경력": "(현)국회의원(서울 동대문구갑)\n(현)더불어민주당 전략공천관리위원장",
-    "학력": "성균관대학교 무역대학원 무역학과 석사학위과정 수료",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "601",
-    "regionId": "2110601",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:47:00 +0900",
-        "title": "안규백 “사통팔달 동대문갑 완성…‘적소적재’ 전략공천, 국민선택 기다리겠...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002289607?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:36:00 +0900",
-        "title": "황인홍 무주군수, 최영일 순창군수 민주당 요청 복당 예고",
-        "link": "http://sjbnews.com/news/news.php?number=811662"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:06:00 +0900",
-        "title": "[기고] 존엄하게 죽을 권리도 보장돼야 한다",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441385?sid=110"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:00:00 +0900",
-        "title": " 딸이 죽는다는데 막아달라  부친의 호소, 법원은 거절했다 [조력사망 논란]",
-        "link": "https://n.news.naver.com/mnews/article/025/0003351413?sid=104"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:09:00 +0900",
-        "title": "與 '인물론' vs 野 '정권 심판론'… 뉴타운 표심이 변수 ",
-        "link": "https://n.news.naver.com/mnews/article/015/0004967417?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 06:45:00 +0900",
-        "title": "[동행취재]  동대문은 '규백 선생'이 틀림없이 됩니다 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815513?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:38:00 +0900",
-        "title": "'안규백 대 김영우, 서울 동대문갑 유권자 마음은 어디로?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815440?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:37:00 +0900",
-        "title": "운동하는 시민에게 지지 호소하는 안규백 민주당 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815439?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:36:00 +0900",
-        "title": "시민과 포옹하는 안규백 더불어민주당 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815436?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:36:00 +0900",
-        "title": "주민들 만나 지지 호소하는 안규백 민주당 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815437?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:35:00 +0900",
-        "title": "지지 호소하는 안규백 더불어민주당 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815435?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:31:00 +0900",
-        "title": "'안규백 대 김영우, 서울 동대문갑 유권자의 마음은 누구에게?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815429?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:30:00 +0900",
-        "title": "'서울 동대문갑 유권자의 선택은?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815428?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:40:00 +0900",
-        "title": "[동행취재] 김영우, 아들과 함께 유세차서 외쳤다… 동대문서 받은 은혜 돌려...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815286?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:55:00 +0900",
-        "title": "‘바꿀 사람’ 김영우 “12년만에 동대문갑 탈환 자신…의회정치 복원”[이런...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002287621?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:12:00 +0900",
-        "title": "민주 '친문'도 총공세...문재인‧임종석‧정세균 현장 출격",
-        "link": "https://www.etoday.co.kr/news/view/2345349"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:54:00 +0900",
-        "title": "고위공직자 평균 재산 19억··· 윤 대통령 74억 신고·10명 중 3명은 강남 ...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640938"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 09:06:00 +0900",
-        "title": "국회의원 평균 재산 34억원…1위는 안철수 1401억원",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1105933"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 08:34:00 +0900",
-        "title": "[Who Is ?] 이종섭 주호주대사",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347127"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 07:20:00 +0900",
-        "title": "광주 동남구을 박은식 후보  광주의 변화, 지역의료 변화 이끈다 ",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3015919"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "[재산공개] 與 평균재산 58억, 민주당 20억…최고 자산가 안철수",
-        "link": "https://n.news.naver.com/mnews/article/001/0014593475?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 20:14:00 +0900",
-        "title": "“전북 선거는 사실상 끝”…수도권 선거 결과 주목하는 민심",
-        "link": "http://sjbnews.com/news/news.php?number=811058"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:36:00 +0900",
-        "title": "다선중진, 국회의장단 나올까 '관심 집중'",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967078"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:58:00 +0900",
-        "title": "안병일 '국회스카우트의원연맹 사무총장' 이임",
-        "link": "http://www.breaknews.com/1023414"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:42:00 +0900",
-        "title": "민주 정세균·임종석, 내일부터 유세 지원 출격…직책 없이 ‘백의종군’",
-        "link": "https://www.cnbnews.com/news/article.html?no=650922"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:43:00 +0900",
-        "title": "[정치시그널]인터뷰 전문… 김영우 “범야권 인사들, 200석 되면 탄핵하자고 ...",
-        "link": "https://n.news.naver.com/mnews/article/449/0000271125?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 06:31:00 +0900",
-        "title": "野 정세균·임종석, 선거 유세전 출격…외곽서 승리 지원 나선다",
-        "link": "https://n.news.naver.com/mnews/article/011/0004319025?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 05:02:00 +0900",
-        "title": "안규백  청량리에 분당선 증편, 광역환승센터 설치 [영상]",
-        "link": "https://n.news.naver.com/mnews/article/079/0003878392?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 22:20:00 +0900",
-        "title": "집단지성이 살아 있는 민주당을 보고 싶다",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557482"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:20:00 +0900",
-        "title": "전북 22대 국회 요직 꿰찰까?",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966925"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:12:00 +0900",
-        "title": "임종석·정세균 28일부터 유세 지원… 백의종군 자세로 도울 것 ",
-        "link": "https://www.viva100.com/main/view.php?key=20240326010008786"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:01:00 +0900",
-        "title": "민주 정세균·임종석, 유세 지원 출격…직책 없이 '백의종군'",
-        "link": "https://n.news.naver.com/mnews/article/001/0014589936?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 10:54:00 +0900",
-        "title": "인천 후보 낸 주요 정당, 한국지엠 지원책 마련 '한목소리'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=243971"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:22:00 +0900",
-        "title": "정당들, 한국지엠 지원책 마련에 한목소리",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427309?sid=102"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:52:00 +0900",
-        "title": "박지혜 의정부갑 후보  지속가능한 미래 그려나갈 것  총선승리 다짐",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079833"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 15:57:00 +0900",
-        "title": "[열전 25시] 3월 25일 경기도 현장은 지금③",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037201?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 13:42:00 +0900",
-        "title": "민주당 '영입인재 1호' 박지혜, 지속가능한 캠프 개소식 개최",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3121925"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:22:00 +0900",
-        "title": "서울변회, 우수 국회의원상 수상자에게 수여한 60만원 부상 논란",
-        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202403251004476051c1b7a3dafb_1/article.html"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 08:24:00 +0900",
-        "title": "[4·10 총선] 민주당 부천갑 서영석, 선거사무소 개소…원팀 선거전 돌입",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240950"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 08:00:00 +0900",
-        "title": "공식선거운동 28일 '총성'…총선 여야 대진표는 [정국 기상대]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002812832?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 06:52:00 +0900",
-        "title": "[오늘의 전북 뉴스 브리핑]  전북 22대 총선 청년·여성 후보 실종 ... 전북과...",
-        "link": "http://www.jbsori.com/news/articleView.html?idxno=13413"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 22:10:00 +0900",
-        "title": "서영석 후보, 선거사무소 개소식 부천갑 '원팀' 천명",
-        "link": "https://www.kpanews.co.kr/article/show.asp?idx=249498&category=C"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:32:00 +0900",
-        "title": "전북 출신 수도권 등에 39명 출마",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181892"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 20:26:00 +0900",
-        "title": "[열전 25시] 3월 24일 경기도 현장은 지금④",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037126?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 20:04:00 +0900",
-        "title": "수도권 전북연고자 지역구출마 33명…비례후보 포함하면 43명",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1462898"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:56:00 +0900",
-        "title": "전북 출신 총선 후보, 전국서 뛴다",
-        "link": "http://sjbnews.com/news/news.php?number=810614"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 17:22:00 +0900",
-        "title": "전북연고 정치인들 공천 희비 엇갈려",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966694"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 17:10:00 +0900",
-        "title": "4.10 총선서 출향 전북인 39명 금배지 도전",
-        "link": "https://www.jjan.kr/article/20240324580239"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 11:35:00 +0900",
-        "title": "안규백 “민주당 공천, 민주 정신 계승한 당원 중심 공천”",
-        "link": "https://n.news.naver.com/mnews/article/015/0004963686?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 07:33:00 +0900",
-        "title": "서로의 ‘구세주’ 윤석열-이재명…총선 이후가 더 두렵다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002682207?sid=100"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:52:00 +0900",
-        "title": "이재강 의정부을 후보 선거사무소 개소… 윤석열 정권 퇴행 종지부, 레드카드...",
-        "link": "https://www.ajunews.com/view/20240323144236215"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 09:02:00 +0900",
-        "title": "‘어떻게 해도 안 되는 판’에 들어가 결국 죽은 박용진",
-        "link": "https://n.news.naver.com/mnews/article/037/0000034140?sid=100"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 07:00:00 +0900",
-        "title": "[인터뷰] 김영우  동대문은 내가 중·고등학교를 다닌 청춘의 고향 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002812539?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 05:35:00 +0900",
-        "title": "민주 ‘조수진 사퇴’ 강북을에 한민수…이재명, 친명계 공천했단 지적엔 “참...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003917066?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-        "title": "[4·10총선 후보자 등록] 서울",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:50:00 +0900",
-        "title": "[나이트포커스] 조수진, 강북을 후보 사퇴... 민주당, 한민수 전략 공천",
-        "link": "https://n.news.naver.com/mnews/article/052/0002013942?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:16:00 +0900",
-        "title": "'성범죄자 변호' 논란 野 조수진 후보 사퇴…'친명' 한민수 전략공천",
-        "link": "https://n.news.naver.com/mnews/article/448/0000452525?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:37:00 +0900",
-        "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:26:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:15:00 +0900",
-        "title": "'민주 강북을' 정봉주→조수진→한민수…박용진 결국 배제 [뉴스와이드]",
-        "link": "https://n.news.naver.com/mnews/article/057/0001807608?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:10:00 +0900",
-        "title": "한민수 전략공천에 국힘  지역구 골목 번지수도 모르는 후보 ",
-        "link": "https://n.news.naver.com/mnews/article/123/0002330332?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:08:00 +0900",
-        "title": "조수진 사퇴에 친명 공천…이재명  한심한 얘기 ",
-        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435594"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:35:00 +0900",
-        "title": "후보등록 6시간 전, 조수진 자리에 또 ‘친명’…민주 ‘공천 참사’",
-        "link": "https://n.news.naver.com/mnews/article/028/0002682156?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 18:04:00 +0900",
-        "title": "강북을 돌고돌아 친명…끝까지 '비명횡사' 공천",
-        "link": "https://n.news.naver.com/mnews/article/011/0004317233?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:56:00 +0900",
-        "title": "김대중의 길과 다른 이재명의 길...김대중이 용서한 이해찬은 박용진을 어떻게...",
-        "link": "http://www.pennmike.com/news/articleView.html?idxno=78364"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:42:00 +0900",
-        "title": "[이경립의 취중진담(取中珍談)] 영화 '파묘'보다 재미있었던 더불어민주당 공...",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485859"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:33:00 +0900",
-        "title": "'조수진 리스크’ 제거한 민주…박용진은 끝내 '비명횡사'[2024 총선]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005160484?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:29:00 +0900",
-        "title": "[영상] 이재명  친명 공천? 한심한 얘기, 박용진 참 훌륭한 정치인이지만 …'...",
-        "link": "https://n.news.naver.com/mnews/article/055/0001140972?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:20:00 +0900",
-        "title": "조수진, 강북을 후보직 사퇴.. 박용진 승계 가능성은 낮아 ",
-        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=237470"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:00:00 +0900",
-        "title": "박용진 3번째 비명횡사…野, 조수진 빠지자 '친명' 한민수 공천",
-        "link": "https://n.news.naver.com/mnews/article/025/0003349195?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:55:00 +0900",
-        "title": "민주당, 강북구을에 '한민수' 공천…이재명  친명이라? 그럼 왜 여태 기회 안...",
-        "link": "https://n.news.naver.com/mnews/article/277/0005396035?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:52:00 +0900",
-        "title": "돌고 돌아 전략공천 '강북을'...박용진은 왜 버려졌나",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=99399"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:44:00 +0900",
-        "title": "[22일 오!정말] 한동훈 “총선으로 민주주의 수호” 이재명 “총선은 한일전”",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346611"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:28:00 +0900",
-        "title": "서울 4·10 총선 후보자 등록 중간 현황",
-        "link": "https://www.ajunews.com/view/20240322154014965"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:16:00 +0900",
-        "title": "민주당 강북을에 친명 한민수 공천…이재명  박용진 두번 기회 ",
-        "link": "https://www.kpinews.kr/newsView/1065593395781536"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 15:30:00 +0900",
-        "title": "강북(을) 박용진, 정봉주, 조수진 그리고 한민수 까지",
-        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7133"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 15:20:00 +0900",
-        "title": "결국 '찐명'…민주당, 강북을에 한민수 전략공천",
-        "link": "https://www.mediapen.com/news/view/906405"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 15:16:00 +0900",
-        "title": "비명계 찍어내기 쐐기 박은 민주당...'친명' 한민수 강북을 공천",
-        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104290"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 15:13:00 +0900",
-        "title": "[뉴스외전 정치 맞수다] '성범죄 변호' 조수진 사퇴‥ 소방차 10대로도 불 못...",
-        "link": "https://n.news.naver.com/mnews/article/214/0001338107?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:38:00 +0900",
-        "title": "민주당 서울 강북을, 돌고 돌아 한민수 낙점 | 이재명  조수진 사퇴 안타까워...",
-        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19388&Newsnumb=20240319388"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:32:00 +0900",
-        "title": "'입시비리' 조민, 1심 1천만원 벌금형 外",
-        "link": "https://radio.ytn.co.kr/program/?f=2&id=94860&s_mcd=0452&s_hcd=01"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:30:00 +0900",
-        "title": "‘조수진 사퇴’ 강북을 한민수 공천…이재명 “친명? 한심한 얘기”",
-        "link": "https://n.news.naver.com/mnews/article/022/0003916900?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:22:00 +0900",
-        "title": "민주당 서울 강북을 후보 막판 교체, 공천 잡음이 총선 악영향 미칠까 '촉각'",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346580"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:18:00 +0900",
-        "title": "“박용진은 안돼”…민주당, 강북을 세번째 공천후보는 친명계 한민수 전략공...",
-        "link": "https://www.ekn.kr/web/view.php?key=20240322027070331"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:04:00 +0900",
-        "title": "'성범죄 변론' 논란 조수진, '서울 강북을' 후보 자진사퇴 [프레스룸LIVE-이슈...",
-        "link": "https://n.news.naver.com/mnews/article/057/0001807503?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:04:00 +0900",
-        "title": "'입시비리' 조민, 1심 1천만원 벌금형 外",
-        "link": "https://n.news.naver.com/mnews/article/052/0002013772?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:46:00 +0900",
-        "title": "민주당, 강북을에 한민수 대변인 공천... 박용진은 '불승계'",
-        "link": "https://www.ltn.kr/news/articleView.html?idxno=42363"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:31:00 +0900",
-        "title": "“조수진 성범죄 변호 검증 못했다”는 민주당, “與 부적격 후보 많아” 남탓",
-        "link": "https://n.news.naver.com/mnews/article/021/0002628014?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:28:00 +0900",
-        "title": "민주당, 조수진 사퇴 강북을에 한민수 대변인 전략공천",
-        "link": "http://www.breaknews.com/1022596"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:10:00 +0900",
-        "title": "전권 가진 이재명, ‘또’ 박용진 배제",
-        "link": "https://www.naeil.com/news/read/505220?ref=naver"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:02:00 +0900",
-        "title": "민주, '조수진 사퇴' 강북을에 '친명' 한민수 전략공천",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1104235"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:57:00 +0900",
-        "title": "안규백  박용진이 안 되는 이유  이준석  반협박적으로 나오는 건 좋지 않아 ...",
-        "link": "https://n.news.naver.com/mnews/article/052/0002013677?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:53:00 +0900",
-        "title": "이재명의 '박용진 공천 걱정 않는 당' 없었다…'비명횡사'로 마무리",
-        "link": "https://n.news.naver.com/mnews/article/003/0012444407?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:36:00 +0900",
-        "title": "민주, '조수진 사퇴' 서울 강북을에 한민수 대변인 전략공천",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=99364"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:31:00 +0900",
-        "title": "이재명  조수진 사퇴 안타깝다…강북을 후보는 한민수 ",
-        "link": "https://n.news.naver.com/mnews/article/002/0002324565?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:27:00 +0900",
-        "title": "[뉴스앤이슈] 조수진 사퇴한 '강북을'...민주, '제3인물' 전략공천 방침",
-        "link": "https://n.news.naver.com/mnews/article/052/0002013673?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:24:00 +0900",
-        "title": "민주, '조수진 사퇴' 강북을에 한민수…이재명  친명 공천? 한심 (종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007429699?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:20:00 +0900",
-        "title": "민주당, 서울 강북을에 '친명' 한민수 대변인 전략공천",
-        "link": "https://n.news.naver.com/mnews/article/629/0000275558?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "안규백",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 5652587
-      },
-      {
-        "연도": 2021,
-        "재산": 5793491
-      },
-      {
-        "연도": 2022,
-        "재산": 6208248
-      },
-      {
-        "연도": 2023,
-        "재산": 6918218
-      }
-    ],
-    "huboid": "100152821",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100152821/junkwa/20240222101855975_1.PDF"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-2.jpg",
-    "id": "2110601-2",
-    "재산": 1222769,
-    "생년월일": "19670120",
-    "경력": "(전)제18·19·20대 국회의원\n(전)YTN 기자",
-    "학력": "고려대학교 대학원 석사 (정치외교학) 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2110601",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:01:00 +0900",
-        "title": "[여적] ‘공룡정당’의 위기",
-        "link": "https://n.news.naver.com/mnews/article/032/0003288289?sid=110"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:16:00 +0900",
-        "title": "민주당 수도권 출마자 60%, 공보물서 '이재명 제외'",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1225641&inflow=N"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:00:00 +0900",
-        "title": "국힘 서울 출마자, 윤석열 대신 '한동훈·오세훈'",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1225637&inflow=N"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:53:00 +0900",
-        "title": "용산 청년도 가세… 386 주연 못 된 함운경, 배신 3선 조해진 尹에 윽박 ",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864872?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:09:00 +0900",
-        "title": "與 '인물론' vs 野 '정권 심판론'… 뉴타운 표심이 변수 ",
-        "link": "https://n.news.naver.com/mnews/article/015/0004967417?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:10:00 +0900",
-        "title": "김영우 국민의힘 동대문갑 후보  동대문은 김영우의 청춘의 고향 ",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957768"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:08:00 +0900",
-        "title": "가수 박상민과 하트 만든 김영우 국민의힘 동대문갑 후보",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957764"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:06:00 +0900",
-        "title": "국민의힘 서울 동대문갑 김영우 후보, 가수 박상민과 함께 지지 호소",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957760"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:03:00 +0900",
-        "title": "후원 회장부터 출마 선언까지… 총선판 누비는 폴리테이너들",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441049?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:09:00 +0900",
-        "title": "총선 무대 오르는 ‘폴리테이너’…현장 유세부터 출마까지",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441010?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:38:00 +0900",
-        "title": "'안규백 대 김영우, 서울 동대문갑 유권자 마음은 어디로?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815440?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:34:00 +0900",
-        "title": "가수 박상민과 유세차량 오른 김영우 국민의힘 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815434?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:34:00 +0900",
-        "title": "유세 차량 올라 지지 호소하는 김영우 국민의힘 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815433?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:33:00 +0900",
-        "title": "지지자들 연호에 손 들어올린 김영우 국민의힘 동대문갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815432?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:32:00 +0900",
-        "title": "김영우 국민의힘 동대문갑 후보 지원 유세 나선 가수 박상민",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815430?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:31:00 +0900",
-        "title": "'안규백 대 김영우, 서울 동대문갑 유권자의 마음은 누구에게?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815429?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:30:00 +0900",
-        "title": "'서울 동대문갑 유권자의 선택은?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815428?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:40:00 +0900",
-        "title": "[동행취재] 김영우, 아들과 함께 유세차서 외쳤다… 동대문서 받은 은혜 돌려...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815286?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:47:00 +0900",
-        "title": "한동훈, '수도권 위기론'에 서울·경기 집중 공략…경합지역 우위 점할까",
-        "link": "https://www.newspim.com/news/view/20240329000760"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:34:00 +0900",
-        "title": "“동대문갑 바꿀 사람…정치 개혁·의정 복원”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002287805?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:15:00 +0900",
-        "title": "[2024 총선 기획] 언론계 국회의원 배출 공식? 18~21대 KBS·MBC 17명",
-        "link": "https://n.news.naver.com/mnews/article/006/0000123154?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:21:00 +0900",
-        "title": " 용산에 민심 잘못 전해   尹 사과하셔야 …與 일각, 대통령실에 성토",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075491?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:55:00 +0900",
-        "title": "‘바꿀 사람’ 김영우 “12년만에 동대문갑 탈환 자신…의회정치 복원”[이런...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002287621?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 03:02:00 +0900",
-        "title": "위성정당 위법 피하려… 묵언 유세, 기호 지운 쌍둥이버스 ‘꼼수’",
-        "link": "https://n.news.naver.com/mnews/article/020/0003556022?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:13:00 +0900",
-        "title": "한동훈, 선거운동 첫날 '이·조심판' 외쳐… 국민만 보고 투표해달라 (종합2보...",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457839?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:02:00 +0900",
-        "title": "[총선현장] 한동훈, 서울·경기 유세… 이조심판 통해 범죄자가 시민 지배하는...",
-        "link": "https://www.newspim.com/news/view/20240328001291"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:04:00 +0900",
-        "title": "한동훈, 선거운동 첫날 수도권 험지 12곳 강행군…“이·조 심판해달라”(종합...",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702500?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:02:00 +0900",
-        "title": "'윤석열 심판' 대 '이재명·조국 심판'",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1225080&inflow=N"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:53:00 +0900",
-        "title": "與 “‘국민’만 찍으시라” 野 ‘기호없는 쌍둥이 버스’ 공개… 되풀이된 ‘...",
-        "link": "https://n.news.naver.com/mnews/article/020/0003555973?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:15:00 +0900",
-        "title": "한동훈, 선거운동 첫날 '이조심판' 강조… 이재명 감옥 가기까지 3년 길어 (종...",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457711?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:24:00 +0900",
-        "title": "지원 유세 나선 한동훈 위원장",
-        "link": "http://www.kukinews.com/newsView/kuk202403280281"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:14:00 +0900",
-        "title": "한동훈, 동대문서 ‘이·조 심판론’ 강조…‘고물가 민생정책’ 제안",
-        "link": "http://www.kukinews.com/newsView/kuk202403280227"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:55:00 +0900",
-        "title": "'지지하는 후보를 위해'",
-        "link": "https://www.newspim.com/news/view/20240328001181"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:55:00 +0900",
-        "title": "與  서민 품목 부가세 5%로 한시 인하 …쏟아지는 민생 공약",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702330?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:53:00 +0900",
-        "title": "한동훈 “정부에 라면·즉석밥·육아용품 부가세 절반 인하 요구”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002287371?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:50:00 +0900",
-        "title": "한동훈  이재명·조국 3년 내 처단 …'야당 심판론' 불지폈다(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007443795?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:38:00 +0900",
-        "title": "김영우 - 윤희숙 - 김경진 - 조정훈, '총선 승리를 위해'",
-        "link": "https://www.newspim.com/news/view/20240328001149"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:38:00 +0900",
-        "title": "후보들과 함께하는 한동훈 국민의힘 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001146"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:38:00 +0900",
-        "title": "제22대 국회의원 선거운동 시작... 지역구 후보 포옹하는 한동훈 비대위원장",
-        "link": "https://www.newspim.com/news/view/20240328001150"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:38:00 +0900",
-        "title": "'선거운동 시작' 김영우 - 이용호 - 윤희숙 후보와 포옹하는 한동훈 비대위원...",
-        "link": "https://www.newspim.com/news/view/20240328001148"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:20:00 +0900",
-        "title": "[포토]국민의힘 동대문 후보들 지지 호소하는 배우 이영하",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702285?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:17:00 +0900",
-        "title": "[포토]한동훈  3년 너무 길다…이재명·조국 감옥 갈 때까지 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702278?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:17:00 +0900",
-        "title": "[포토]공식선거 운동 첫날 국민의힘 '민생 정책', 민주 '정권심판' 내세워",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702279?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:17:00 +0900",
-        "title": "[포토]22대 총선 공식선거 운동 첫날 국민의힘, '민생 정책', 민주 '정권심판...",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702280?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:15:00 +0900",
-        "title": "[포토]선거운동 본격 시작",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702276?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:14:00 +0900",
-        "title": "[포토]김영우 동대문구 갑 후보 지지 호소하는 배우 이영하",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702273?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:14:00 +0900",
-        "title": "[포토]김영우 국민의힘 동대문구 갑 후보 지지 호소하는 배우 이영하",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702272?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:12:00 +0900",
-        "title": "[포토]한동훈, 선거운동 첫날 강행군…“‘국민’만 보고 찍어라”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702265?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:12:00 +0900",
-        "title": "[포토]한동훈, “국민만 보고 찍어라”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702267?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:12:00 +0900",
-        "title": "[포토]한동훈, 선거운동 첫날 강행군…“‘국민’만 보고 찍어라”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702266?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:12:00 +0900",
-        "title": "[포토]지지 호소하는 김영우 국민의힘 동대문구 갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702269?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:11:00 +0900",
-        "title": "[포토]한동훈  가공식품 등 부가세, 절반 인하 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702263?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:11:00 +0900",
-        "title": "[포토]한동훈 “정부에 가공식품 등 부가세 10→5% 인하 요구”",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702264?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:07:00 +0900",
-        "title": "지지호소하는 김영우 국민의힘 동대문구갑 후보",
-        "link": "https://www.newspim.com/news/view/20240328001086"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "동대문 찾아 유권자 만나는 한동훈 국민의힘 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001081"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "김영우 - 김경진 후보 손 들어올린 한동훈 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001076"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "국민의힘 동대문구 지역 후보 지지나선 배우 이영하",
-        "link": "https://www.newspim.com/news/view/20240328001084"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "한동훈 국민의힘 비상대책위원장, '2번!'",
-        "link": "https://www.newspim.com/news/view/20240328001078"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "포옹하는 한동훈 국민의힘 비상대책위원장 - 김영우 후보",
-        "link": "https://www.newspim.com/news/view/20240328001075"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "김영우 - 김경진 후보 응원나선 한동훈 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001079"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "환호 하는 한동훈 - 김경진",
-        "link": "https://www.newspim.com/news/view/20240328001077"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "김영우 - 김경진 후보 지지 호소하는 한동훈 국민의힘 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001083"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "동대문 찾은 한동훈 비상대책위원장",
-        "link": "https://www.newspim.com/news/view/20240328001080"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:05:00 +0900",
-        "title": "동대문 찾은 한동훈 비상대책위원장, 김영우 - 김경진 후보와 함께",
-        "link": "https://www.newspim.com/news/view/20240328001082"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:04:00 +0900",
-        "title": "김영우 후보 응원하는 한동훈 비대위원장",
-        "link": "https://www.newspim.com/news/view/20240328001073"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:04:00 +0900",
-        "title": "주먹 불끈 쥔 한동훈 - 김영우",
-        "link": "https://www.newspim.com/news/view/20240328001072"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:04:00 +0900",
-        "title": "유권자 향해 발언나선 김영우 국민의힘 동대문구갑 후보",
-        "link": "https://www.newspim.com/news/view/20240328001070"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:02:00 +0900",
-        "title": "[포토]김영우 후보 지원 나선 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702255?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:02:00 +0900",
-        "title": "[포토]김영우 동대문 갑 후보 지원 나선 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702256?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:57:00 +0900",
-        "title": "[포토]한동훈 위원장,  우리는 이겼던 당, 범죄자 집단에 승리해야 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702246?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:57:00 +0900",
-        "title": "[포토]김영우 후보 손 번쩍 든 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702247?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:53:00 +0900",
-        "title": "[포토]한동훈 국민의힘 비상대책위원장, 동대문 후보들 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702243?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:51:00 +0900",
-        "title": "[포토]한동훈 국민의힘 비상대책위원장, 동대문 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702242?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 김영우 후보 지지 호소하는 한동훈",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017009"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 김영우 동대문을 후보 유세장 찾은 이영하",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/28/2024032800316.html"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 김영우 지지 호소하는 선거운동원들",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017014"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 포옹하는 한동훈·김영우",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017011"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 율동하는 선거운동원들",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017013"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 지지 호소하는 선거운동원들",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017016"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:50:00 +0900",
-        "title": "[포토] 김영우 지지 호소하는 이영하",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017017"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 동대문 갑을 후보 손들어 보이는 한동훈 위원장",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/28/2024032800313.html"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 한동훈, 격정적 호소",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017005"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 한동훈, 동대문구 지원유세",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017004"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 한동훈, 김영우 지지 호소",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017008"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 지원유세 나선 한동훈",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017006"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:48:00 +0900",
-        "title": "[포토] 한동훈, 동대문살리기 지원유세",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017007"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:44:00 +0900",
-        "title": "[포토] 김영우 동대문갑 후보 지지 호소하는 한동훈 위원장",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/28/2024032800306.html"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:33:00 +0900",
-        "title": "한동훈  사전투표·본투표 가리지 말고 무조건 투표장으로 ",
-        "link": "https://n.news.naver.com/mnews/article/018/0005702225?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:32:00 +0900",
-        "title": "동대문구 지원 유세 나선 한동훈 비대위원장",
-        "link": "https://n.news.naver.com/mnews/article/001/0014595922?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:32:00 +0900",
-        "title": "지지 호소하는 김영우 후보",
-        "link": "https://n.news.naver.com/mnews/article/001/0014595920?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우 후보 지지 호소하는 배우 이영하",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457042?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "동대문구갑 김영우 후보 지지 호소하는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457038?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우 후보 및 가족과 인사 나누는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457040?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "동대문구 주민들에게 지지 호소하는 김영우-김경진",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457050?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우 후보 지지 호소하는 배우 이영하",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457052?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우 후보 지지 호소하는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457039?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우-김경진 지지 호소하는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457041?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "동대문구 찾은 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457034?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우-김경진 지지 호소하는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457035?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "김영우 후보 지지 호소하는 한동훈 비상대책위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457047?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김영우",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1222769
-      }
-    ],
-    "huboid": "100151969",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100151969/junkwa/20240103165503986_1.PDF"
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-7.jpg",
-    "id": "2110601-7",
-    "재산": 3165831,
-    "생년월일": "19611128",
-    "경력": "(전)한나라당 동대문갑지구당위원장\n(전)한나라당 동대문갑 국회의원선거 출마",
-    "학력": "세종대학교 대학원 경제학박사",
-    "직업": "정당인",
-    "성별": "여",
-    "regionId": "2110601",
-    "기호": 7,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Sun, 31 Mar 2024 17:30:00 +0900",
-        "title": "'서울 동대문갑 유권자의 선택은?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815428?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 08:02:00 +0900",
-        "title": "여야 지역구 후보 4명 중 1명은 ‘전과자’…음주운전부터 사기·폭행까지[이...",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288217?sid=100"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-        "title": "[4·10총선 후보자 등록] 서울",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:26:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 17:16:00 +0900",
-        "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
-        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 18:32:00 +0900",
-        "title": "역대 선거로 본 '동대문구 갑'...'텃밭·험지 공식' 이번엔? (B tv 서울뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167885"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 15:04:00 +0900",
-        "title": "[미디어토마토] 전현희 42.7% vs 윤희숙 40.8%",
-        "link": "http://www.viewsnnews.com/article?q=218357"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 12:24:00 +0900",
-        "title": "한강 탈환 노리는 국민의힘… 개혁신당 변수 되나",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=224268"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 10:00:00 +0900",
-        "title": "[미디어토마토] 서울 동작을, 국힘 나경원 47.1% 민주 류삼영 41.4% 접전",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=345387"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 06:02:00 +0900",
-        "title": "(격전지 여론조사)'한강벨트 승부처' 서울 동작을, 나경원 47.1% 대 류삼영 4...",
-        "link": "http://www.newstomato.com/ReadNews.aspx?no=1222950&inflow=N"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 20:36:00 +0900",
-        "title": "[서울 동작을] 국민의힘 나경원 50%, 더불어민주당 류삼영 37%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002425534?sid=165"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 20:14:00 +0900",
-        "title": "[MBC여론조사] 나경원 50%·류삼영 37%‥안철수·이광재 오차 범위 접전",
-        "link": "https://n.news.naver.com/mnews/article/214/0001335945?sid=165"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 21:15:00 +0900",
-        "title": "[격전지를 가다] 한강벨트 '서울 동작을'…'5선도전' 나경원 vs '경찰국 반대...",
-        "link": "https://n.news.naver.com/mnews/article/448/0000450710?sid=165"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 18:41:00 +0900",
-        "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
-        "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 18:40:00 +0900",
-        "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 공천",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84020"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 18:34:00 +0900",
-        "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 17:32:00 +0900",
-        "title": "류호정  서운한 것 없다  이준석  뜻 맞출 수 있다 …개혁신당 35명 공천",
-        "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
-      },
-      {
-        "date": "Mon, 19 Apr 2004 00:00:00 +0900",
-        "title": "[선거와 문화예술인] ‘연예인 유명세=당선’ 옛말",
-        "link": "https://n.news.naver.com/mnews/article/006/0000006677?sid=102"
-      },
-      {
-        "date": "Tue, 09 Sep 2003 11:03:00 +0900",
-        "title": "17대총선 출마예상자 명단-서울",
-        "link": "https://n.news.naver.com/mnews/article/021/0000043707?sid=100"
-      },
-      {
-        "date": "Mon, 08 Sep 2003 15:08:00 +0900",
-        "title": "[17대 총선 출마 예상자] 서울 &lt;1&gt;",
-        "link": "https://n.news.naver.com/mnews/article/015/0000644290?sid=100"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "한승민",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3165831
-      }
-    ],
-    "huboid": "100153028",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100153028/junkwa/20240312182721967_1.PDF"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-1.jpg",
+        "id": "2110601-1",
+        "재산": 6918218,
+        "생년월일": "19610429",
+        "경력": "(현)국회의원(서울 동대문구갑)\n(현)더불어민주당 전략공천관리위원장",
+        "학력": "성균관대학교 무역대학원 무역학과 석사학위과정 수료",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "601",
+        "regionId": "2110601",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:47:00 +0900",
+                "title": "<b>안규백</b> “사통팔달 동대문갑 완성…‘적소적재’ 전략공천, 국민선택 기다리겠...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002289607?sid=100"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:38:00 +0900",
+                "title": "'<b>안규백</b> 대 김영우, 서울 동대문갑 유권자 마음은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815440?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:37:00 +0900",
+                "title": "운동하는 시민에게 지지 호소하는 <b>안규백</b> <b>민주당</b> 동대문갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815439?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:36:00 +0900",
+                "title": "시민과 포옹하는 <b>안규백</b> <b>더불어민주당</b> 동대문갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815436?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:36:00 +0900",
+                "title": "주민들 만나 지지 호소하는 <b>안규백</b> <b>민주당</b> 동대문갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815437?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "안규백",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 5652587
+            },
+            {
+                "연도": 2021,
+                "재산": 5793491
+            },
+            {
+                "연도": 2022,
+                "재산": 6208248
+            },
+            {
+                "연도": 2023,
+                "재산": 6918218
+            }
+        ],
+        "huboid": "100152821",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100152821/junkwa/20240222101855975_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-2.jpg",
+        "id": "2110601-2",
+        "재산": 1222769,
+        "생년월일": "19670120",
+        "경력": "(전)제18·19·20대 국회의원\n(전)YTN 기자",
+        "학력": "고려대학교 대학원 석사 (정치외교학) 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2110601",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 10:10:00 +0900",
+                "title": "<b>김영우</b> <b>국민의힘</b> 동대문갑 후보 \"동대문은 <b>김영우</b>의 청춘의 고향\"",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957768"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:08:00 +0900",
+                "title": "가수 박상민과 하트 만든 <b>김영우</b> <b>국민의힘</b> 동대문갑 후보",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957764"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:06:00 +0900",
+                "title": "<b>국민의힘</b> 서울 동대문갑 <b>김영우</b> 후보, 가수 박상민과 함께 지지 호소",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957760"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:38:00 +0900",
+                "title": "'안규백 대 <b>김영우</b>, 서울 동대문갑 유권자 마음은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815440?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:34:00 +0900",
+                "title": "가수 박상민과 유세차량 오른 <b>김영우</b> <b>국민의힘</b> 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815434?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김영우",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1222769
+            }
+        ],
+        "huboid": "100151969",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100151969/junkwa/20240103165503986_1.PDF"
+    },
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-7.jpg",
+        "id": "2110601-7",
+        "재산": 3165831,
+        "생년월일": "19611128",
+        "경력": "(전)한나라당 동대문갑지구당위원장\n(전)한나라당 동대문갑 국회의원선거 출마",
+        "학력": "세종대학교 대학원 경제학박사",
+        "직업": "정당인",
+        "성별": "여",
+        "regionId": "2110601",
+        "기호": 7,
+        "군필여부": false,
+        "news": [],
+        "정당": "개혁신당",
+        "이름": "한승민",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3165831
+            }
+        ],
+        "huboid": "100153028",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1106/Hb100153028/junkwa/20240312182721967_1.PDF"
+    }
 ]

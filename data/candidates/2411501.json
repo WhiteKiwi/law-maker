@@ -1,1080 +1,130 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-1.jpg",
-    "id": "2411501-1",
-    "재산": 2601236,
-    "생년월일": "19641213",
-    "경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
-    "학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1104",
-    "regionId": "2411501",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:48:00 +0900",
-        "title": "평택시 갑·을·병 후보 초청 토론회...평택 이끌 진정한 일꾼은 누구?",
-        "link": "http://www.joongang.tv/news/articleView.html?idxno=71304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:02:00 +0900",
-        "title": "평택시 갑·을·병 선거구 후보자 초청 토론회 성료",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081481"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:45:00 +0900",
-        "title": "민주당  '대통령 동창' 정재호 대사 조사해 국격 회복해야 ",
-        "link": "https://n.news.naver.com/mnews/article/011/0004322273?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:32:00 +0900",
-        "title": "민주당, '갑질 논란' 정재호 주중대사 사퇴 촉구",
-        "link": "https://n.news.naver.com/mnews/article/079/0003881001?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:30:00 +0900",
-        "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "‘평택의 일꾼은 바로 나’… 평택 갑·을·병 후보자 초청 토론회 성료",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402029414033"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:12:00 +0900",
-        "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-        "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:12:00 +0900",
-        "title": "평택시 갑을병 선거구 후보자 초청 토론회 성료",
-        "link": "https://www.newspim.com/news/view/20240402000276"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 06:40:00 +0900",
-        "title": "22대 총선 약사가족 13인  우리도 응원해주세요 ",
-        "link": "https://www.kpanews.co.kr/article/show.asp?idx=249741&category=A"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:50:00 +0900",
-        "title": "평택갑, 고도제한 완화·구도심 활성화 해법은? (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168451"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:04:00 +0900",
-        "title": "평택갑 홍기원·한무경 토론회서 서로  내가 적임자 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:16:00 +0900",
-        "title": "국토위 의원 대거 재출마…공동주택 법안 힘 얻나",
-        "link": "http://www.hapt.co.kr/news/articleView.html?idxno=161742"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:11:00 +0900",
-        "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:02:00 +0900",
-        "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-        "title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:32:00 +0900",
-        "title": "홍기원 더불어민주당 평택갑 국회의원 후보 출정식",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644439"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:00:00 +0900",
-        "title": "민주당 홍기원 후보, 선거운동 첫날 송탄출장소 출정식",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041756"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 14:42:00 +0900",
-        "title": "홍기원 민주당 평택갑 후보, 송탄출장소 앞 출정식 가져",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=690818"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:28:00 +0900",
-        "title": "[2024총선] 평택사람 홍기원 후보, 선거운동 첫날 송탄출장소 출정식",
-        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2050986"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:56:00 +0900",
-        "title": "평택(갑) 홍기원 후보, 선거운동 첫날 송탄출장소 출정식",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446589"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:48:00 +0900",
-        "title": "홍기원 평택갑 후보 “재선되어 더 큰 힘으로 평택발전 완성할 것”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850550"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:36:00 +0900",
-        "title": "[4·10 총선] 홍기원 후보, 선거운동 첫날 송탄출장소 출정식...재선돼 더 큰...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242035"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:42:00 +0900",
-        "title": "[총선][격전지를 가다/평택갑] 이번에도 ‘박빙’ 승부?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011690904?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:26:00 +0900",
-        "title": "새롭게 평택 독자에게 다가간다… 용승천 중부일보 평택지사장 취임",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644214"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:31:00 +0900",
-        "title": "선거운동 첫날, 평택 곳곳 출정식…필승 다짐 [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037650?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:52:00 +0900",
-        "title": "'3%P 승부'...초박빙 격전지, 수도권만 6곳",
-        "link": "https://www.etoday.co.kr/news/view/2345236"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:46:00 +0900",
-        "title": "국민의힘 평택갑 한무경 후보 출정식… 보수층 결집 믿는다 ",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1106233"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:02:00 +0900",
-        "title": "민주  경기남부 첨단산업 성장 거점으로  국힘  군공항 기능 재배치 수원서 옮...",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080524"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 19:38:00 +0900",
-        "title": "[22대 총선 D-13] 선거운동 본격 돌입… 마이크 잡고 현장 누빈다",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643877"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 18:35:00 +0900",
-        "title": "민주당 '넥스트레벨'  하이퍼 커넥티드 시티, 대한민국 성장의 돌파구 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814161?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:10:00 +0900",
-        "title": "더불어민주당 넥스트레벨, 초연결·초융합·초지능 위한 로드맵 제시",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643816"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:10:00 +0900",
-        "title": "[4·10=한다면 한다] 민주당 넥스트레벨팀, '하이퍼 커넥티드 시티 로드맵' 제...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241592"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:05:00 +0900",
-        "title": "[과수원 사람들] 민주당 수원 김준혁·염태영 후보·국민의힘 수원 후보들·국...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814024?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 11:05:00 +0900",
-        "title": "민주당 경기 남부 후보, “미래산업 융합된 도시 만들 것” [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037428?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:52:00 +0900",
-        "title": "더불어민주당 넥스트레벨팀, ‘초연결 경기도’ 위한 실천로드맵 발표",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240327020272331"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:52:00 +0900",
-        "title": "‘민주당 넥스트레벨팀’, 하이퍼 커넥티드 시티 로드맵 제시",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=787320"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:36:00 +0900",
-        "title": "[중부포토] 더불어민주당 경기남부 넥스트레벨팀 2차 공약 발표",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643711"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:36:00 +0900",
-        "title": "민주당 넥스트레벨팀 공동 공약 ‘하이퍼 커넥티드 시티 로드맵’ 제시",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240327026192348"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:02:00 +0900",
-        "title": "민주당 넥스트레벨팀 공동공약, 하이퍼 커넥티드 시티 로드맵",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849136"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:56:00 +0900",
-        "title": "민주당 경기남부 후보들 “반도체 대학·AI기본법 제정할 것”",
-        "link": "https://n.news.naver.com/mnews/article/421/0007438468?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 04:05:00 +0900",
-        "title": "요동치는 수도권 표심… 與 15∼20·野 85~90곳 ‘우세’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001684002?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:08:00 +0900",
-        "title": "[선택4·10] '총선 D-15' 우세지역 與  82곳 이상 , 野  최소 110곳 ",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066758"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 15:36:00 +0900",
-        "title": "민주당  尹정부, 총선용 '기획 입국' 이종섭 해임해야 ",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=633388"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 14:40:00 +0900",
-        "title": "민주  이종섭, 총선 끝날 때까지 복귀 안 할 듯…총선용 '기획 귀국' ",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075275?sid=100"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 11:28:00 +0900",
-        "title": "민주  윤 정부, '기획 입국' 이종섭 대사 해임해야  촉구",
-        "link": "https://n.news.naver.com/mnews/article/055/0001141785?sid=100"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 11:19:00 +0900",
-        "title": "민주  尹정부, 총선용 '이종섭 기획입국'…군인답게 물러나라 ",
-        "link": "https://n.news.naver.com/mnews/article/001/0014588705?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 10:22:00 +0900",
-        "title": "[총선 뛰는 경제통-12] '전천후 관료' 방문규  수원 원도심 부활 선봉 ",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4303333"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:50:00 +0900",
-        "title": "홍기원 민주 평택갑 후보, 송탄역 북쪽 출입구 개통 점검",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643404"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:32:00 +0900",
-        "title": "평택 갑을병 대진표 확정 (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168163"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:23:00 +0900",
-        "title": "[열전 25시] 3월 25일 경기도 현장은 지금⑥",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037232?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:16:00 +0900",
-        "title": "이병진 더불어민주당 평택을 후보, 선거사무소 개소식 성료",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643288"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:12:00 +0900",
-        "title": "홍기원 의원, 송탄역 북측 출입구 개통 전 현장점검  시민 불편 없도록 사각지...",
-        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324727"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 15:32:00 +0900",
-        "title": "더불어민주당 평택을 이병진 후보 선거사무소 개소식",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848069"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 15:32:00 +0900",
-        "title": "홍기원 의원, 송탄역 북측 출입구 개통 전 현장점검",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1848061"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 08:44:00 +0900",
-        "title": "더불어민주당 평택을 이병진 후보 선거사무소 개소식… 지지자·시민 등 300여...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3121935"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 05:32:00 +0900",
-        "title": "여야 지역후보들 ‘연합전선’… ‘상생공약’ 표심 구애 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037139?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 10:16:00 +0900",
-        "title": "[4·10 총선] 이병진 후보 선거사무소 개소식... 내 고향 평택! 살고 싶은 도...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240757"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 11:59:00 +0900",
-        "title": "평택 갑·을·병 후보 7명…갑·을 맞대결  내가 적임자 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445805?sid=102"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 00:01:00 +0900",
-        "title": "[주간政談&lt;상&gt;]  합리적 가격 …尹대통령이 불러온 '대파 챌린지'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000275693?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:42:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:43:00 +0900",
-        "title": "[4·10총선 후보자 등록] 경기",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:06:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583362?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 17:52:00 +0900",
-        "title": "평택갑, 홍기원 VS 한무경 '현역 맞대결' (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168113"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 14:00:00 +0900",
-        "title": "더불어민주당 평택시 갑·을·병 후보, 합동기자 회견 진행",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041360"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 13:16:00 +0900",
-        "title": "더불어민주당 평택시 후보들  원팀으로 총선 승리  (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168107"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:46:00 +0900",
-        "title": "홍기원 평택갑 국회의원, “이종섭 대사 국내체류 일정, 관련 서류 공개하라”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846923"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:32:00 +0900",
-        "title": "평택시 더불어민주당 국회의원 후보 합동기자회견",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=445335"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 10:46:00 +0900",
-        "title": "더불어민주당 평택시 갑을병 후보, 합동 출마 기자회견",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363642774"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 10:22:00 +0900",
-        "title": "[총선 뛰는 경제통-8] 현대차 출신 공영운…'반도체+車 융합' 비전",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4302973"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 09:54:00 +0900",
-        "title": "민주당 평택원팀 '갑 홍기원을 이병진병 김현정' 합동공약 발표",
-        "link": "https://www.newspim.com/news/view/20240322000159"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 09:18:00 +0900",
-        "title": "더불어민주당 평택원팀 갑·을·병 합동 출마 선언",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1846786"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 06:02:00 +0900",
-        "title": "건설경기 침체, 그 너머엔… “수도권 공급 부족 시대가 온다”",
-        "link": "https://n.news.naver.com/mnews/article/366/0000979857?sid=101"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 00:12:00 +0900",
-        "title": "'국회의원 선거 후보 등록' 첫날 경기지역서 127명 등록.. 경쟁률 2.1대 1",
-        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=47844"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 22:14:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581110?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:06:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(21일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014580882?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 18:30:00 +0900",
-        "title": "“국회의원선거 바람 거셀 것”…총선에 묻힌 경기도 재·보궐선거",
-        "link": "https://n.news.naver.com/mnews/article/666/0000036912?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 17:49:00 +0900",
-        "title": "평택갑 홍기원52.1%, 한무경34.9%, 신미정4.7%",
-        "link": "https://n.news.naver.com/mnews/article/022/0003916563?sid=100"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 17:02:00 +0900",
-        "title": "[4·10 총선] 평택시 민주당 홍기원(갑)·이병진(을)·김현정(병) 후보 합동 ...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240404"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:25:00 +0900",
-        "title": "민주당 평택 합동 회견  새롭고 더 커지는 도시 만들 것 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012442572?sid=102"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:04:00 +0900",
-        "title": "민주당 평택 홍기원(갑) 이병진(을) 김현정(병)  평택과 나라를 위해 원팀 승...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556237"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 15:38:00 +0900",
-        "title": "민주당 홍기원·이병진·김현정, 합동 출마 기자회견…“반드시 행동으로 실천...",
-        "link": "https://n.news.naver.com/mnews/article/666/0000036866?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 12:46:00 +0900",
-        "title": "與 '평택 너 마저'...‘수도권 위기론’ 엄습",
-        "link": "https://www.etoday.co.kr/news/view/2342637"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 11:42:00 +0900",
-        "title": "비례 공천 끝낸 野, 지역구 '단일화'···'정권 심판' 화력 집중",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1103837"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 02:26:00 +0900",
-        "title": "평택 여야대결, 갑 지역 현직의원· 을 지역 전략공천 교수· 병 지역 리턴매...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556026"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 19:54:00 +0900",
-        "title": "野 민주 중심으로 속속 단일화…커지는 진보당 존재감",
-        "link": "https://n.news.naver.com/mnews/article/421/0007425129?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:40:00 +0900",
-        "title": "경기도내 더불어민주당·진보당 18곳 단일화…총선에서 변수될까",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240320024160194"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:48:00 +0900",
-        "title": "평택갑 선거구, 홍기원 더불어민주당 후보로 야권 단일화",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363642359"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:43:00 +0900",
-        "title": "[총선 나도 뛴다] 3월 20일 경기도 현장은 지금③",
-        "link": "https://n.news.naver.com/mnews/article/666/0000036772?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:34:00 +0900",
-        "title": "경기 선거구 22곳 민주·진보 단일화 마무리…모두 민주",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=786412"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 13:06:00 +0900",
-        "title": "평택갑 홍기원 후보, 진보당과 야권 단일화",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=444905"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 11:16:00 +0900",
-        "title": "경기남부 민주당 후보들 “국립반도체대학 설립”",
-        "link": "https://www.naeil.com/news/read/504934?ref=naver"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 10:42:00 +0900",
-        "title": "[4.10총선-87] 평택갑, 홍기원vs한무경. 홍기원 오차범위 밖에서 앞서",
-        "link": "http://www.mhj21.com/159972"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 10:32:00 +0900",
-        "title": "민주당-진보당, 경기지역 18곳서 야권 단일화 ... 성남중원·화성갑 등 6곳은...",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=408606"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 09:58:00 +0900",
-        "title": "민주당-진보당, 경기지역 18곳서 야권 단일화",
-        "link": "https://n.news.naver.com/mnews/article/421/0007422861?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 06:50:00 +0900",
-        "title": "경기남부권역 여야 후보들, 하루 차이 '반도체 벨트' 공약 대결",
-        "link": "https://n.news.naver.com/mnews/article/119/0002811164?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 02:04:00 +0900",
-        "title": "평택 갑·을·병 지역 후보 대진표 완성, 총선 풍향계 가속",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555700"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "홍기원",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1799557
-      },
-      {
-        "연도": 2021,
-        "재산": 1999107
-      },
-      {
-        "연도": 2022,
-        "재산": 2310933
-      },
-      {
-        "연도": 2023,
-        "재산": 2601236
-      }
-    ],
-    "huboid": "100152479",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4115/Hb100152479/junkwa/20240129164433811_1.PDF"
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-2.jpg",
-    "id": "2411501-2",
-    "재산": 19183450,
-    "생년월일": "19580520",
-    "경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
-    "학력": "이화여자대학교 대학원 졸업(문학박사)",
-    "직업": "국회의원",
-    "성별": "여",
-    "id_21th": "1152",
-    "regionId": "2411501",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:00:00 +0900",
-        "title": "“게임 인력 양성” “e스포츠 박물관 건립”… 약속 지킬까",
-        "link": "https://n.news.naver.com/mnews/article/005/0001685703?sid=105"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:48:00 +0900",
-        "title": "평택시 갑·을·병 후보 초청 토론회...평택 이끌 진정한 일꾼은 누구?",
-        "link": "http://www.joongang.tv/news/articleView.html?idxno=71304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:02:00 +0900",
-        "title": "평택시 갑·을·병 선거구 후보자 초청 토론회 성료",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081481"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:30:00 +0900",
-        "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "‘평택의 일꾼은 바로 나’… 평택 갑·을·병 후보자 초청 토론회 성료",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402029414033"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:12:00 +0900",
-        "title": "민주 '넥스트 레벨' vs 국힘 '반도체 메가시티'…경기 여야, 원팀 총력전",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452498?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-        "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:12:00 +0900",
-        "title": "평택시 갑을병 선거구 후보자 초청 토론회 성료",
-        "link": "https://www.newspim.com/news/view/20240402000276"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:52:00 +0900",
-        "title": "평택 미군기지 주변구역  토양 오염…중앙정부가 나서야  (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168452"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:50:00 +0900",
-        "title": "평택갑, 고도제한 완화·구도심 활성화 해법은? (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168451"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:04:00 +0900",
-        "title": "평택갑 홍기원·한무경 토론회서 서로  내가 적임자 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:00:00 +0900",
-        "title": "전국 최다 60석 걸린 경기도 선거구, 野 우세 속 與 '추격'‥ 한 번의 실수로...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219895"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:11:00 +0900",
-        "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 07:32:00 +0900",
-        "title": "[22대 총선 공약/게임]  e스포츠 육성 앞장선다 ...여야 한 목소리",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=511821"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:02:00 +0900",
-        "title": "민주 ‘굳히기’ 국힘 ‘뒤집기’… 경기도내 격전지 피 마른다 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037873?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-        "title": "평택갑  지제역 복합환승센터는 어느 세월에 완공되나 ",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081110"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:52:00 +0900",
-        "title": "봄바람 타고 함께 걸으니… 부락산 자락 웃음꽃 ‘활짝’ [2024 평택시민건강...",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037857?sid=102"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 00:00:00 +0900",
-        "title": "사흘째 수도권 '올인' 하는 한동훈… 이재명·조국, 심판하자 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815142?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 20:41:00 +0900",
-        "title": "한동훈, 수도권서 이틀째 '이·조 심판' 맹공…'부동산 투기·막말' 정조준(종...",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459983?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:45:00 +0900",
-        "title": "한동훈, 평택서 '이·조 심판론'…“이재명·조국, 정치에서 지울 것”",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037732?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:39:00 +0900",
-        "title": "한동훈, 선거운동 둘째날 조국 맹공격…화성서 '공영운 비난'(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459865?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:04:00 +0900",
-        "title": "국민의힘 한무경 후보, 출정식 진행... 평택을 키우는데 뼈를 묻겠다 ",
-        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041758"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 14:57:00 +0900",
-        "title": "[410출사표]한무경 “거야 독주에 현장 외면 뼈 아퍼..규제 풀린 평택, 천지개...",
-        "link": "https://n.news.naver.com/mnews/article/030/0003193550?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:56:00 +0900",
-        "title": "평택갑 국민의힘 한무경 후보 출정식... 평택갑의 자존심 되찾겠다 ",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=446582"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:24:00 +0900",
-        "title": "국민의힘 평택(갑) 한무경 후보 출정식 “평택갑의 자존심 되찾겠다”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850439"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 08:04:00 +0900",
-        "title": "총선 '소상공인·中企 대표' 찾기 힘들어…업계 '난감'",
-        "link": "https://n.news.naver.com/mnews/article/277/0005398907?sid=101"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:42:00 +0900",
-        "title": "[총선][격전지를 가다/평택갑] 이번에도 ‘박빙’ 승부?",
-        "link": "https://n.news.naver.com/mnews/article/056/0011690904?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:18:00 +0900",
-        "title": "[유세장 직격 인터뷰] 송석준·이재정·한무경·윤종군·한창섭·이재강·김선...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644230"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:13:00 +0900",
-        "title": "국회 재산 1위 ‘1401억’ 가진 의원 알고보니…",
-        "link": "https://n.news.naver.com/mnews/article/021/0002629171?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:32:00 +0900",
-        "title": "울산 국회의원 작년 재산변동 2명 늘고 4명 줄어",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524966"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:31:00 +0900",
-        "title": "선거운동 첫날, 평택 곳곳 출정식…필승 다짐 [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037650?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:28:00 +0900",
-        "title": "[4·10 총선] 국민의힘 평택갑 한무경 후보, 송탄출장소 앞 출정식... 평택갑...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241946"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:02:00 +0900",
-        "title": "울산 국회의원 2023년 평균 재산 24억265만원",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037067"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:52:00 +0900",
-        "title": "'3%P 승부'...초박빙 격전지, 수도권만 6곳",
-        "link": "https://www.etoday.co.kr/news/view/2345236"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:46:00 +0900",
-        "title": "국민의힘 평택갑 한무경 후보 출정식… 보수층 결집 믿는다 ",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1106233"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:18:00 +0900",
-        "title": "[기후로운 투표생활] ⑦ 재생에너지 확충, ‘채찍질’ 망설인 국회",
-        "link": "https://www.newsmin.co.kr/news/101051/"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:54:00 +0900",
-        "title": "고위공직자 평균 재산 19억··· 윤 대통령 74억 신고·10명 중 3명은 강남 ...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640938"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:36:00 +0900",
-        "title": "[4.10 경기남부] 국힘 평택시 갑 한무경 후보 출정, 표심속으로",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557920"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:04:00 +0900",
-        "title": "국회의원 35% 재산 늘었다…최고부자 안철수·코인부자 김남국",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016526"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 09:06:00 +0900",
-        "title": "국회의원 평균 재산 34억원…1위는 안철수 1401억원",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1105933"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 08:22:00 +0900",
-        "title": "잇단 불경기에도 국회의원 35% 재산 증가…42명은 1억원 이상↑",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667177"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 06:21:00 +0900",
-        "title": "불경기에도…국회의원 35% 재산 늘었다",
-        "link": "https://n.news.naver.com/mnews/article/215/0001154930?sid=101"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 01:02:00 +0900",
-        "title": "국회 재산 1등 국힘 안철수 1401억원...코인 최고 부자는 野 김남국",
-        "link": "https://n.news.naver.com/mnews/article/014/0005162910?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 01:01:00 +0900",
-        "title": "국회의원은 재테크 귀재? 다주택 41명, 건물주도 65명",
-        "link": "https://n.news.naver.com/mnews/article/021/0002628923?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 01:00:00 +0900",
-        "title": "국회의원의 35%, 재산 늘었다…42명은 1억 원 이상 증가",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453130?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:06:00 +0900",
-        "title": "[재산공개] 민생 한파에도 국회의원 35% 재산 늘었다…평균 2.5억↑(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007440832?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:03:00 +0900",
-        "title": "국회 최고 부자 안철수 1400억…與 이주환 200억 증가",
-        "link": "https://n.news.naver.com/mnews/article/079/0003878877?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:01:00 +0900",
-        "title": "[2024 재산공개]與 평균 58억…野 최고 자산가는 박정",
-        "link": "https://n.news.naver.com/mnews/article/277/0005398169?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:01:00 +0900",
-        "title": "국회의원 35% 불경기에도 재산 늘었다…42명은 1억원 이상↑(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014593502?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:01:00 +0900",
-        "title": "[2024 재산공개]국회의원 35% 재산↑…평균 보유 34억",
-        "link": "https://n.news.naver.com/mnews/article/277/0005398171?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "국회의원 재산 1위 '1401억' 안철수…진선미가 가장 적어[재산공개]",
-        "link": "https://n.news.naver.com/mnews/article/003/0012454625?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "[재산공개] 다주택 국회의원 41명…'강남 3구' 보유자는 46명",
-        "link": "https://n.news.naver.com/mnews/article/001/0014593489?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "재산 201억 늘린 이주환…국회의원 중 증가액 1위[재산공개]",
-        "link": "https://n.news.naver.com/mnews/article/003/0012454629?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "[재산공개] 與 평균재산 58억, 민주당 20억…최고 자산가 안철수",
-        "link": "https://n.news.naver.com/mnews/article/001/0014593475?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "[재산공개] 국회 최고 부자는 안철수…1401억 신고 '압도적 1위'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007440776?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
-        "title": "[재산공개] 국회의원 재산 감소 1위는 박정…전년 대비 165억↓",
-        "link": "https://n.news.naver.com/mnews/article/421/0007440792?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:06:00 +0900",
-        "title": "총선 D-14…게임 공약은?",
-        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=331703"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 14:16:00 +0900",
-        "title": "국민의힘 평택지역 후보들 '차세대 반도체 R&amp;D허브 도시 조성'",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024631"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 08:03:00 +0900",
-        "title": "[4·10 총선 분석] 기업인 출신 재산 1위 '안철수 제친 김복덕 누구 ...고동진...",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=312590"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 04:05:00 +0900",
-        "title": "요동치는 수도권 표심… 與 15∼20·野 85~90곳 ‘우세’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001684002?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:16:00 +0900",
-        "title": "평택시 국민의힘 후보  평택, 반도체 R&amp;D 허브로 육성  (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168211"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:57:00 +0900",
-        "title": "'수도권 출마' TK 출향 후보들, 격전지서 금배지 사냥 나선다",
-        "link": "https://n.news.naver.com/mnews/article/088/0000869415?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:54:00 +0900",
-        "title": "[총선현장] 한무경, “지금은 평택 통합 필요할 때”... 미국 디트로이트에도...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240326024082143"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 14:36:00 +0900",
-        "title": "[4·10=한다면 한다] 국민의힘 평택시 한무경(갑)·정우성(을)·유의동(병) 후...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241282"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 14:26:00 +0900",
-        "title": "국힘 평택 한무경·정우성·유의동 후보 ‘반도체 분야 합동 공약 발표’",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240326021272098"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 13:56:00 +0900",
-        "title": "[열전 25시] 3월 26일 경기도 현장은 지금①",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037312?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 13:28:00 +0900",
-        "title": "국힘 평택시 갑 한무경, 을 정우성, 병 유의동 후보 삼성전자 앞 반도체 지원...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557317"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 07:31:00 +0900",
-        "title": "4·10 총선, 기업인 및 경제전문가 누가 뛰나...고동진·공영운·안철수·이언...",
-        "link": "https://www.greened.kr/news/articleView.html?idxno=312543"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:04:00 +0900",
-        "title": "보수 텃밭까지 격전지 돌변… 與 경기도 6석 수성도 ‘위태’",
-        "link": "https://n.news.naver.com/mnews/article/022/0003917773?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:32:00 +0900",
-        "title": "평택 갑을병 대진표 확정 (B tv 기남뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=62&p_no=168163"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:51:00 +0900",
-        "title": "[이슈] 여야, 총선용 메가시티 공약 봇물.. 경기분도·부울경·충청 이어 '반...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640412"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 10:14:00 +0900",
-        "title": "中企 후보가 안 보인다… 당선권 전무",
-        "link": "https://biz.newdaily.co.kr/site/data/html/2024/03/25/2024032500076.html"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 05:32:00 +0900",
-        "title": "여야 지역후보들 ‘연합전선’… ‘상생공약’ 표심 구애 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037139?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:48:00 +0900",
-        "title": "정우성 후보  평택 발전시킬 일 잘하는 사람  지지 호소",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1079621"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:00:00 +0900",
-        "title": "[총선을 뛴다]①삼성·현대차부터 4차산업 전문가까지…'경제통' 주자는",
-        "link": "https://n.news.naver.com/mnews/article/018/0005698987?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 16:18:00 +0900",
-        "title": "한무경 국민의힘 평택갑 후보, 윤재옥 원내대표와 상인회장·시민들과 만남 가...",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363643051"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:36:00 +0900",
-        "title": "“중소·벤처기업 홀대되나”…총선 앞두고 업계 ‘근심’",
-        "link": "https://n.news.naver.com/mnews/article/018/0005698923?sid=101"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 13:12:00 +0900",
-        "title": "경기도 후보, 50억 이상 재력가 21명 [경기도 후보 분석_재산]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037067?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:26:00 +0900",
-        "title": "[4·10 총선현장] 한무경 후보, 교육·문화 공약 발표... 평택을 꿀잼도시로 ",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1240701"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 11:59:00 +0900",
-        "title": "평택 갑·을·병 후보 7명…갑·을 맞대결  내가 적임자 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445805?sid=102"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 11:28:00 +0900",
-        "title": "[4·10 총선 후보] 체납중 9명·5년새 체납 93명…최다체납액 1.2억",
-        "link": "https://n.news.naver.com/mnews/article/374/0000375910?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 09:35:00 +0900",
-        "title": "4·10 총선 후보 재산 평균 28억원…4년 전보다 2배 늘었다",
-        "link": "https://n.news.naver.com/mnews/article/008/0005015914?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 09:28:00 +0900",
-        "title": "[4·10총선 후보 등록]경기 최고자산가는 부천갑 김복덕",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445723?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 09:16:00 +0900",
-        "title": "국민의힘 평택(갑) 한무경 후보 “평택을 꿀잼도시로”",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1847167"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 06:02:00 +0900",
-        "title": "22대 총선 후보 등록 완료...현역 의원 간 대결 지역은?",
-        "link": "https://www.etoday.co.kr/news/view/2343274"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 01:45:00 +0900",
-        "title": "후보 등록 마감날…끝까지 파행 공천",
-        "link": "https://n.news.naver.com/mnews/article/353/0000047571?sid=100"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 01:27:00 +0900",
-        "title": "5년 내 세금 체납 후보 83명… 9명은 여전히 세금 체납",
-        "link": "https://n.news.naver.com/mnews/article/022/0003917052?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 00:17:00 +0900",
-        "title": "세금 체납한 총선 후보 9명…83명은 5년내 체납 이력(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583558?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:16:00 +0900",
-        "title": "총선 후보 평균 재산 28억…김복덕·안철수 1400억대(종합)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430973?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:04:00 +0900",
-        "title": "국민대표 뽑는데… 22대 총선 후보, 전과자·체납자 多",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3121457"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:42:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경기(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583520?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:28:00 +0900",
-        "title": "총선 후보 9명, 등록 때까지 세금 체납… 5년내 체납 이력 후보는 83명",
-        "link": "https://n.news.naver.com/mnews/article/366/0000980131?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:17:00 +0900",
-        "title": "[후보분석] 납세 1위 '갤럭시 신화' 고동진…체납 1위 현역 주철현",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430959?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:50:00 +0900",
-        "title": "[22 총선] 한무경 후보, 윤재옥 국민의힘 원내대표와 평택 통복시장 방문",
-        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304223"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:43:00 +0900",
-        "title": "[4·10총선 후보자 등록] 경기",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430947?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:27:00 +0900",
-        "title": "총선후보 9명, 등록 때까지 세금체납…82명은 5년내 체납 이력",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583485?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:07:00 +0900",
-        "title": "5년내 세금 체납 후보 82명…체납액 1위 민주 주철현 1억1662만원(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445538?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:09:00 +0900",
-        "title": "여야 모두  개혁공천  외쳤지만…여성∙2030 후보 다 줄었다",
-        "link": "https://n.news.naver.com/mnews/article/025/0003349220?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "한무경",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 45208993
-      },
-      {
-        "연도": 2021,
-        "재산": 12923465
-      },
-      {
-        "연도": 2022,
-        "재산": 13866582
-      },
-      {
-        "연도": 2023,
-        "재산": 19183450
-      }
-    ],
-    "huboid": "100152679",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4115/Hb100152679/junkwa/20240208144241595_1.PDF"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-1.jpg",
+        "id": "2411501-1",
+        "재산": 2601236,
+        "생년월일": "19641213",
+        "경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
+        "학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1104",
+        "regionId": "2411501",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": "[경기 평택갑] <b>더불어민주당 홍기원</b> 58%, 국민의힘 한무경 38.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "[4·10=평택갑 토론회] <b>홍기원</b>·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+                "title": "평택갑 <b>홍기원</b>·한무경 토론회서 서로 \"내가 적임자\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:11:00 +0900",
+                "title": "[경기 평택갑] <b>더불어민주당 홍기원</b> 51.2%, 국민의힘 한무경 37.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+                "title": "평택갑 <b>홍기원</b> 51.2% vs 한무경 37.1%",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "홍기원",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1799557
+            },
+            {
+                "연도": 2021,
+                "재산": 1999107
+            },
+            {
+                "연도": 2022,
+                "재산": 2310933
+            },
+            {
+                "연도": 2023,
+                "재산": 2601236
+            }
+        ],
+        "huboid": "100152479",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4115/Hb100152479/junkwa/20240129164433811_1.PDF"
+    },
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-2.jpg",
+        "id": "2411501-2",
+        "재산": 19183450,
+        "생년월일": "19580520",
+        "경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
+        "학력": "이화여자대학교 대학원 졸업(문학박사)",
+        "직업": "국회의원",
+        "성별": "여",
+        "id_21th": "1152",
+        "regionId": "2411501",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": "[경기 평택갑] 더불어민주당 홍기원 58%, <b>국민의힘 한무경</b> 38.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+                "title": "[4·10=평택갑 토론회] 홍기원·<b>한무경</b>, 언론사주관 토론회서 평택발전 이끌 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+                "title": "평택갑 홍기원·<b>한무경</b> 토론회서 서로 \"내가 적임자\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:11:00 +0900",
+                "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, <b>국민의힘 한무경</b> 37.1%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+                "title": "평택갑 홍기원 51.2% vs <b>한무경</b> 37.1%",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "한무경",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 45208993
+            },
+            {
+                "연도": 2021,
+                "재산": 12923465
+            },
+            {
+                "연도": 2022,
+                "재산": 13866582
+            },
+            {
+                "연도": 2023,
+                "재산": 19183450
+            }
+        ],
+        "huboid": "100152679",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4115/Hb100152679/junkwa/20240208144241595_1.PDF"
+    }
 ]

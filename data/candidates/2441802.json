@@ -1,1974 +1,219 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-1.jpg",
-    "id": "2441802-1",
-    "재산": 451668,
-    "생년월일": "19730105",
-    "경력": "(현) 제21대 국회의원\n(전) 천안시 고문변호사",
-    "학력": "한양대학교 법과대학 법학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1128",
-    "regionId": "2441802",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:44:00 +0900",
-        "title": "“부산, 반타작도 장담 못 해”… 與 텃밭에서 한숨 커졌다[총선 와이드 핫플...",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441581?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:41:00 +0900",
-        "title": "“與 쉽지 않다고요? 의외네요”…접전지 부산 연제·해운대 가보니 [총선 와...",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441577?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 23:34:00 +0900",
-        "title": "더불어민주당 전남도당  권향엽 후보 당선 최선 다할 것 ",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124987"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 12:12:00 +0900",
-        "title": "[인터뷰] 이정문  기본 충실·초심 유지…100만 천안 도약 견인 ",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=358687"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:26:00 +0900",
-        "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:06:00 +0900",
-        "title": "'문풍' 강했는데 '윤풍'은? 총선 '대통령 후광' 따져보니 [오마이팩트]",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428299?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 08:34:00 +0900",
-        "title": "[Who Is ?] 조희대 대법원장",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347527"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 05:03:00 +0900",
-        "title": "여, 강원 8곳 중 5곳 기대감… 야, 금강벨트 대전·세종 8곳 자신감",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441048?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:48:00 +0900",
-        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765075"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:06:00 +0900",
-        "title": "민주·국힘 지지도 `오락가락' … 충청민심 흔들",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792289"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:49:00 +0900",
-        "title": "[충청 정당별 판세분석]  끝까지 안심 금물 … 막판까지 수싸움 치열",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085093?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:42:00 +0900",
-        "title": "'총선 D-10' 여야 자체 판세 분석 결과 국힘 85곳 VS 민주 150곳",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=219826"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 11:30:00 +0900",
-        "title": "22대 총선 천안갑·을·병 선거구 후보 10명 본격 유세전 돌입",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265582"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 09:34:00 +0900",
-        "title": "'총선 D-10' 우세한 지역구는?…與  85곳  vs 민주당  150곳 ",
-        "link": "https://n.news.naver.com/mnews/article/008/0005019328?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 07:40:00 +0900",
-        "title": "[총선 판세 분석] 여야 자체 판세 분석 결과 국민의힘  85곳  vs 민주당  150...",
-        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15474600"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:20:00 +0900",
-        "title": "교육공약 3인 3색…이정문·이창수·한정애 복안은 [천안병 TV토론]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815283?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-        "title": "[4·10총선 D-10] 우세 지역구…여당  85곳  vs 야당  150곳 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012460678?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 20:46:00 +0900",
-        "title": "천안병 후보자 법정토론회 대전MBC에서 열려",
-        "link": "https://tjmbc.co.kr/article/GFhyApW-_e"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 16:22:00 +0900",
-        "title": "정쟁보단 공약과 정책 집중한 천안병 후보들",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307258"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 01:00:00 +0900",
-        "title": "정진석  당선되면 국회의장  박수현  두 번 졌다, 기회달라  [4·10 총선 격전...",
-        "link": "https://n.news.naver.com/mnews/article/353/0000047626?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-        "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:10:00 +0900",
-        "title": "민주당 천안 문진석·이재관·이정문  정의의 철퇴 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307201"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:30:00 +0900",
-        "title": "민주당 문진석 천안갑 후보, 4.10 총선 선거운동 돌입",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558154"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:06:00 +0900",
-        "title": "국민변호인 이정문 총선 출정식  참된 일꾼에 맡겨달라 ",
-        "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=12772"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:04:00 +0900",
-        "title": "더불어민주당 천안갑·을·병 문진석·이재관·이정문 후보 본격 선거운동 돌...",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265389"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:01:00 +0900",
-        "title": "[충남 천안병] 더불어민주당 이정문 49.5%, 국민의힘 이창수 36.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427973?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 08:42:00 +0900",
-        "title": "[충청총선] 문진석 후보, 4·10 총선 본격 선거운동 돌입",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240329010009428"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 03:36:00 +0900",
-        "title": "문진석 민주당 후보, 천안 갑·을·병 국회의원 후보 합동 '총선 필승' 출정식...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=357900"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:40:00 +0900",
-        "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:26:00 +0900",
-        "title": "더불어민주당 충남 후보 11명, 열전 13일간의 본격 선거운동 돌입",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=357898"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 01:50:00 +0900",
-        "title": "[현장]  윤정부, 국민 개돼지 취급 …'캄캄'했던 민주당 천안 합동출정식",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814715?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 23:31:00 +0900",
-        "title": "천안갑 지역구 3파전 선거운동 격전지 천안종합터미널 '후끈'",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457908?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:16:00 +0900",
-        "title": "[총선 여론조사] 민주당, 천안 불패 '기세'...국힘, 갑을병 모두 열세",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246877"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:34:00 +0900",
-        "title": "천안·아산 민주당 후보 출정식  대한민국 바로 세우자 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=769114"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:49:00 +0900",
-        "title": "민주당 충남 총선 후보  승리 위해 절실한 마음으로 최선 다할 것 ",
-        "link": "https://n.news.naver.com/mnews/article/277/0005398620?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:22:00 +0900",
-        "title": "충남공동주택경비노동자협의회, 제22대 총선 후보들과 정책협약",
-        "link": "http://www.aptn.co.kr/news/articleView.html?idxno=105913"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:34:00 +0900",
-        "title": "이정문 천안병 후보, 22대 총선 출정식 열고 본격 선거운동 돌입",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763753"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 12:02:00 +0900",
-        "title": "민주당 이정문 천안병 후보, 출정식 열고 본격 선거운동 시작",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557880"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 11:02:00 +0900",
-        "title": "[선택4·10] 이정문 민주 천안(병)후보, 본격 선거운동 돌입",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067483"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:56:00 +0900",
-        "title": "천안·아산후보들, 출정식·재래시장 방문 등 선거운동 시작",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879037?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:18:00 +0900",
-        "title": "천안시 총선 후보들, 출정식 열고 민생 살피며 공식 선거운동 시작",
-        "link": "https://n.news.naver.com/mnews/article/003/0012455490?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:10:00 +0900",
-        "title": "[충청총선] 이정문 민주당 천안병 후보,  이정문과 민주당을 승리의 도구로 사...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010009038"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:02:00 +0900",
-        "title": "‘마이너스 재산’ 국회의원 3명…5억원 미만은 25명[재산공개]",
-        "link": "https://n.news.naver.com/mnews/article/016/0002286794?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:52:00 +0900",
-        "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 12:58:00 +0900",
-        "title": "[총선 격전지, 이곳] 충남 정치 1번지 '천안갑' 표심 향배는",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768926"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:42:00 +0900",
-        "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 05:00:00 +0900",
-        "title": "수도권 GTX를 충청까지? 공약 건 후보  기대감 줘야 이긴다  [지역후보 508명...",
-        "link": "https://n.news.naver.com/mnews/article/025/0003350087?sid=101"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 19:11:00 +0900",
-        "title": "이재명, 이종섭 특검 주장하며 “국가 최고 책임자도 관련”",
-        "link": "https://n.news.naver.com/mnews/article/449/0000271081?sid=100"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:28:00 +0900",
-        "title": "[충청총선] 이재관 민주당 천안을 후보, '한국공인중개사협회 천안시 서북·동...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240326010008436"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:22:00 +0900",
-        "title": "더불어민주당 천안갑·을·병 문진석·이재관·이정문 후보 한국공인중개사협...",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264755"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 11:22:00 +0900",
-        "title": "국힘 82곳-민주 110곳에서 우세 자신",
-        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160274039651938"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 01:00:00 +0900",
-        "title": " 일상생활 변화 체감 …이정문, '천안병' 동별 공약 공개",
-        "link": "https://n.news.naver.com/mnews/article/119/0002813257?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:56:00 +0900",
-        "title": "이정문 민주당 천안병 국회의원 후보, 우리 동네 맞춤 공약 발표",
-        "link": "https://n.news.naver.com/mnews/article/002/0002324912?sid=102"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:40:00 +0900",
-        "title": "총선/ 민주당 충남 천안병 이정문, '우리 동네 맞춤 공약' 발표",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745288"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 18:07:00 +0900",
-        "title": "[4.10 총선 레이다] 이정문 천안병 후보  쌍용동 도시재생 추진 ",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084342?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:14:00 +0900",
-        "title": "민주, 이재명-김부겸-이해찬 '3두 체제' 선거 주도",
-        "link": "http://www.gjdream.com/news/articleView.html?idxno=641654"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:12:00 +0900",
-        "title": "이정문 더불어민주당 천안(병) 국회의원 후보, 천안 발전, 더 큰 도약을 위한...",
-        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324757"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 14:28:00 +0900",
-        "title": "역대 단1명인 충청권 여성의원, 이번엔 3명 동시 도전",
-        "link": "https://n.news.naver.com/mnews/article/018/0005699583?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 13:30:00 +0900",
-        "title": "방통위, 유시춘 이사장 해임 청문…野  EBS마저 장악 시도 ",
-        "link": "https://n.news.naver.com/mnews/article/006/0000123073?sid=102"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 13:23:00 +0900",
-        "title": "이재명-김부겸-이해찬, ‘3두 체제’ 역할 분담…심판론 확산 효과 내나",
-        "link": "https://n.news.naver.com/mnews/article/003/0012448274?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 13:08:00 +0900",
-        "title": "'리턴매치' 앞둔 신범철  천안발전 위해 일하고 파 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768720"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:56:00 +0900",
-        "title": "이정문  천안 발전과 더 큰 도약 위해 함께해 달라 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306921"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:32:00 +0900",
-        "title": "[충청총선] 이정문 민주당 천안병 후보, '천안 발전을 위한 우리 동네 맞춤 공...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240325010007664"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:28:00 +0900",
-        "title": "이정문 천안병 후보, 우리 동네 맞춤 공약 발표",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1429933"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 08:00:00 +0900",
-        "title": "공식선거운동 28일 '총성'…총선 여야 대진표는 [정국 기상대]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002812832?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 06:00:00 +0900",
-        "title": "[인터뷰] '천안병' 이정문  젊은 천안, 경험 갖춘 젊은 생각으로 도약 ",
-        "link": "https://n.news.naver.com/mnews/article/119/0002812812?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:34:00 +0900",
-        "title": "충청권 28개 선거구 81명 후보 등록",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264263"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:13:00 +0900",
-        "title": "[스트레이트] 개발 공약 뒤의 숫자‥정치인과 토건 마피아",
-        "link": "https://n.news.naver.com/mnews/article/214/0001338365?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:13:00 +0900",
-        "title": "총선/ 충청권 81명 국회의원 후보 등록...경쟁률 2.89대 1",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=745156"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:06:00 +0900",
-        "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:00:00 +0900",
-        "title": "예산·홍성 민주 양승조  도지사 출신 힘있는 5선 도전 ",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=791284"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:51:00 +0900",
-        "title": "[4·10 총선특집] 충남 11개 선거구 31명 출마… 평균경쟁률 2.8대 1",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084231?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:03:00 +0900",
-        "title": "양승조  획기적 발전  vs 강승규  살기좋은 고장 ",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427152?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:02:00 +0900",
-        "title": "[총선 격전지] 코 앞으로 다가온 총선… 충남 홍성예산 선거 열기 '후끈'",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193262"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 15:26:00 +0900",
-        "title": "양승조후보, 선거사무소 개소식",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966910"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:52:00 +0900",
-        "title": "여야, 최대 격전지 금강벨트 사수 위해 총력",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084183?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:50:00 +0900",
-        "title": "홍성·예산 양승조, 선거사무소 개소식 성황리 마쳐",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762855"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:00:00 +0900",
-        "title": "[4·10총선] 대전·세종·충남·충북, 대전 중구청장 재선, 도의원 재·보궐 ...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007466"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 13:14:00 +0900",
-        "title": "후보 등록 후 첫 주말…홍성·예산 후보들 '분주'",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306860"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 11:50:00 +0900",
-        "title": "[총선리포트] '금강벨트' 후보 등록 완료… 평균 경쟁률 '2.93 대 1'",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007417"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 11:50:00 +0900",
-        "title": "[총선리포트] 한동훈·이재명 또다시 충청공략… '금강벨트' 맞불전",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007418"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 10:05:00 +0900",
-        "title": "[4·10 총선 레이더] 양승조-강승규, 같은 날 선거캠프 개소… 본격 선거전",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084138?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 09:48:00 +0900",
-        "title": "더불어민주당 천안갑·을·병 문진석·이재관·이정문 후보 '요양보호사와 요...",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2264176"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 09:10:00 +0900",
-        "title": "양승조 후보  5선 당선돼 다 함께 잘사는 예산·홍성 만들어 나갈 것 ",
-        "link": "http://www.breaknews.com/1022758"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 09:10:00 +0900",
-        "title": "양승조 후보, 예산홍성연락사무소 개소 '대성황'",
-        "link": "https://www.viva100.com/main/view.php?key=20240324010007603"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 23:56:00 +0900",
-        "title": "양승조 더불어민주당 홍성·예산 국회의원 후보, 선거사무소 개소식 대성황",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=355853"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 23:10:00 +0900",
-        "title": "[22대 총선] 양승조 후보 “힘 있는 5선 돼 예산·홍성 획기적으로 발전시킬 ...",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/23/2024032300049.html"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 21:52:00 +0900",
-        "title": "홍성·예산 양승조  결단이 희생으로 끝나선 안돼...여러분이 살려주셔야 ",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=329395"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 21:00:00 +0900",
-        "title": "양승조 홍성·예산 국회의원 후보  민주당의 동토에서 기적 만들자 ",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=556757"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 19:00:00 +0900",
-        "title": "홍성·예산 양승조  희생으론 안 돼…살려주셔야 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306848"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 18:47:00 +0900",
-        "title": "양승조  보수 불패 홍성·예산에서 기적 만들겠다 ",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427100?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 18:26:00 +0900",
-        "title": " 양승조가 홍성·예산대첩 만들 것 … 충청대망론 적임자 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306844"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 17:24:00 +0900",
-        "title": "'36년 한 푼다' 홍성·예산 양승조  4월 10일 기적 만들어 달라 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768646"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 17:22:00 +0900",
-        "title": "[총선 브리핑] 민주당 양승조 후보  홍성·예산서 기적 일으킬 것 ",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193237"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:38:00 +0900",
-        "title": "[포토] 민주당 험지 홍성·예산서 5선 도전 양승조  필승 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306837"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:22:00 +0900",
-        "title": "제22대 총선 '천안병' 누가 뛰나?...이정문·이창수·한정애·이성진 '4파전'",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=355833"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 13:16:00 +0900",
-        "title": "더불어민주당 지도부, 격전지 충남 찾아 쌍끌이로 '윤 정권 심판' 호소",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=355802"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 09:02:00 +0900",
-        "title": "충청권 승부처 8곳 접전… 민주당 7곳·국민의힘 2곳 우위",
-        "link": "https://n.news.naver.com/mnews/article/037/0000034143?sid=100"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이정문",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 341925
-      },
-      {
-        "연도": 2021,
-        "재산": 475129
-      },
-      {
-        "연도": 2022,
-        "재산": 539052
-      },
-      {
-        "연도": 2023,
-        "재산": 451668
-      }
-    ],
-    "huboid": "100152586",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152586/junkwa/20240205110456371_1.PDF"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-2.jpg",
-    "id": "2441802-2",
-    "재산": 526856,
-    "생년월일": "19630105",
-    "경력": "(전) 국민의힘 천안병 당협위원장\n(현) 국민의힘 중앙당 인권위원장",
-    "학력": "단국대학교 국어국문학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2441802",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "지지 호소하는 이창수 천안병 국민의힘 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454014?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "이창수 '천안은 기호 2번'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454013?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:56:00 +0900",
-        "title": "[총선현장] 한동훈, 충청권 집중 유세… 국회의사당 세종 이전은 새로운 발전...",
-        "link": "https://www.newspim.com/news/view/20240402001015"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:29:00 +0900",
-        "title": "文 정면 반박 한동훈  전 정부 때 나라 망해가지 않았냐 ",
-        "link": "https://n.news.naver.com/mnews/article/053/0000042608?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:19:00 +0900",
-        "title": "[현장] 한동훈, 중원 민심 공략… 대한민국 워싱턴 D.C.로 ",
-        "link": "https://n.news.naver.com/mnews/article/031/0000825378?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:18:00 +0900",
-        "title": "충청 찾은 한동훈  이번 총선은 범죄와의 전쟁 ",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330485"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:54:00 +0900",
-        "title": "한동훈  부족한 건 제 책임…운명 건 승부  읍소",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307431"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:22:00 +0900",
-        "title": "한동훈, 文 '윤 정부 무능론'에  나라 망해가던 것 기억 안나나 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012466367?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:12:00 +0900",
-        "title": "[포토] 이창수 천안병 후보  3번 낙선한 이창수입니다 ",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200205.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:11:00 +0900",
-        "title": "한동훈, 文직격  부동산 폭등 기억 안나나…野권력 잡으면 中굴종 (종합)",
-        "link": "https://n.news.naver.com/mnews/article/018/0005705241?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:59:00 +0900",
-        "title": "한동훈 '당선 축하 꽃다발 들고 다시 찾겠다'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452995?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:35:00 +0900",
-        "title": "천안에서 지지 호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452902?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:34:00 +0900",
-        "title": "지지 호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452899?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:34:00 +0900",
-        "title": "'선거는 국민의힘으로'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452900?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:34:00 +0900",
-        "title": "한동훈 '천안은 국민의힘'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452901?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:32:00 +0900",
-        "title": "한동훈 '천안에서 승리다짐'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452880?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:32:00 +0900",
-        "title": "한동훈 충청권 순회 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452881?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:30:00 +0900",
-        "title": "꽃다발 받은 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452877?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:30:00 +0900",
-        "title": "천안 찾은 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452872?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:30:00 +0900",
-        "title": "한동훈 '승리의 꽃다발 들고 다시오겠다'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452873?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:30:00 +0900",
-        "title": "천안에서 지지 호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452875?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:30:00 +0900",
-        "title": "한동훈 천안 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452874?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:28:00 +0900",
-        "title": "한동훈 천안에서 주먹 불끈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452862?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:28:00 +0900",
-        "title": "한동훈, 천안에서 지지호소",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452863?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:28:00 +0900",
-        "title": "천안 지원 유세 펼치는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452860?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:28:00 +0900",
-        "title": "천안 지원유세 나선 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452864?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:02:00 +0900",
-        "title": "[포토] 천안 청당신도시 찾은 한동훈  뭉치면 살고, 흩어지면 죽는다 ",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200177.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:54:00 +0900",
-        "title": "국민의힘 천안 갑·을·병 후보, 공동 전선 꾸리고 '원팀 가동'",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558966"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "국힘 천안병 이창수 · 아산을 전만권  GTX-A 노선 천안아산역 연장 추진 ",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792436"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "4.10총선=국민의 힘 전만권(아산을), 이창수(천안 병) 후보  아산·천안 신 교...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746272"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "총선/ 국힘 충남 천안 갑을병 후보들 원팀 선언  야당 폭거 막아야 ",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746347"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:17:00 +0900",
-        "title": "총선/ 국힘 충남 천안병 이창수·아산을 전만권,  천안·아산 교통혁명 이룰 ...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746245"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:54:00 +0900",
-        "title": "국힘 천안선거 '총력전'…정황근·신진영 '원팀 선언'",
-        "link": "https://www.kpinews.kr/newsView/1065606288435824"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "정황근 전 농림축산식품부장관·신진영 전 대통령실 행정관, 이정만 천안을 후...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=358808"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:45:00 +0900",
-        "title": "국민의힘 천안 갑·을·병 “우리는 하나, 원팀 출정”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441276?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-        "title": "국민의힘 아산시(을) 전만권·천안시(병) 이창수 후보 KTX천안역서 신교통 혁...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958436"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:34:00 +0900",
-        "title": "천안지역 갑·을·병 경선 후보  국힘은 하나다 ",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958421"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:32:00 +0900",
-        "title": "[4·10 총선 레이더] 국민의힘 천안 원팀 출정 선언",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085208?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "[총선 기상도] 스윙보터 '충청' ①안갯속 총선지도..맹주 권좌 어디로?",
-        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84551"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:35:00 +0900",
-        "title": "[현장]  민주당 횡포 4년, 또 겪으실 건가 …정황근, 신범철·이정만·이창수...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815852?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "'한동훈 사단' 휘어잡는 박성재 장관…검찰총장‧중앙지검장 '흔들'",
-        "link": "https://www.ajunews.com/view/20240401160321373"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:17:00 +0900",
-        "title": "국민의힘 천안 후보, ‘원팀’ 선언... 반드시 승리할 것 ",
-        "link": "https://n.news.naver.com/mnews/article/277/0005400159?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:05:00 +0900",
-        "title": "국힘 천안 후보들 원팀출정식… 권력집중은 패거리정치 ",
-        "link": "https://n.news.naver.com/mnews/article/003/0012464125?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:54:00 +0900",
-        "title": " 우리는 하나 …국민의힘 천안시 갑·을·병 후보 원팀 선언",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1430985"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:52:00 +0900",
-        "title": "아산시 을 전만권·천안시 병 이창수 후보, 아산·천안 신교통혁명 공약",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265853"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:34:00 +0900",
-        "title": "국민의힘 천안병 이창수·아산을 전만권 후보  연담도시 전략으로 아산·천안...",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265881"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:32:00 +0900",
-        "title": "국민의힘 천안 신범철·이정만·이창수  반드시 승리 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307343"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:26:00 +0900",
-        "title": "천안지역 갑·을·병 후보, '전 장관 전 대통령실 행정관 원팀'...구심점 역할...",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764337"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:18:00 +0900",
-        "title": "[총선 브리핑] '천안·아산 신교통혁명'에 국힘 총선 주자들 한마음",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193657"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:10:00 +0900",
-        "title": "국민의힘 천안 갑·을·병 신범철·이정만·이창수 후보 및 정황근 전 장관·...",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265868"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:58:00 +0900",
-        "title": "국민의힘 천안 '원팀' 선언  야당 폭거, 패거리 정치 막아야 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=769336"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:52:00 +0900",
-        "title": "[충청총선] 천안시 국힘 국회의원 후보들, '원팀' 결성으로 총선 필승 다짐",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000308"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:48:00 +0900",
-        "title": "[총선 D-9] 천안 아산 여야 후보들, 공동공약·환경정화 등 이색 선거운동",
-        "link": "https://n.news.naver.com/mnews/article/001/0014602731?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:46:00 +0900",
-        "title": " 우리는 하나  국민의힘 천안 경선 참여자와 후보들 원팀 선언",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880463?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:42:00 +0900",
-        "title": "국민의힘 이창수·전만권 후보 “GTX-A로 천안·아산 신교통혁명 이룰 것”",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441202?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:23:00 +0900",
-        "title": "이창수·전만권 국민의힘 후보, ‘천안·아산 신교통혁명 공약’ 발표",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325842?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:55:00 +0900",
-        "title": "전만권·이창수 후보, ‘GTX-A 노선 천안아산역 연장’ 공약",
-        "link": "https://n.news.naver.com/mnews/article/277/0005400059?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:55:00 +0900",
-        "title": "국힘 이창수·전만권 후보 'GTX-A 천안아산 연장' 공약 발표",
-        "link": "https://n.news.naver.com/mnews/article/003/0012463378?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-        "title": "아산 전만권 후보,  아산·천안 신교통혁명 이룰 것 ",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764272"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-        "title": "천안병 이창수, 아산을 전만권  연담도시 전략으로 아산·천안 신교통혁명 이...",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022501"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:24:00 +0900",
-        "title": "[4·10 총선 레이더] 천안병 이창수·아산을 전만권, GTX-A 천안아산연장 공동...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085166?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 12:45:00 +0900",
-        "title": "국힘 이창수·전만권 후보 'GTX-A 천안아산 연장' 공동공약 발표",
-        "link": "https://n.news.naver.com/mnews/article/421/0007449997?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 12:14:00 +0900",
-        "title": "국힘 이창수·전만권  천안아산역에 GTX-A 연장할 것 ",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330295"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:56:00 +0900",
-        "title": "전만권 국민의힘 아산을 국회의원 후보, 이창수 천안병 후보와 '천안·아산 신...",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=358667"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:34:00 +0900",
-        "title": "이창수·전만권  GTX-A, 천안아산역 연장 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307324"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:26:00 +0900",
-        "title": "충청권, 민주당 17곳, 국힘 4곳 우세, 접전 6곳...새로운미래 1곳 우세",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307317"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:22:00 +0900",
-        "title": "천안병 이창수-아산을 전만권 “연담도시 전략으로 아산·천안 신교통혁명”",
-        "link": "http://www.sisanews24.co.kr/13380"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:20:00 +0900",
-        "title": "이창수·전만권, 천안·아산 공동 공약  GTX-A 연장 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=769304"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:18:00 +0900",
-        "title": "아산시(을) 전만권·천안시(병) 이창수,  아산·천안 신교통혁명 이룰 것 ",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764235"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:12:00 +0900",
-        "title": "국민의힘 이창수·전만권  천안·아산 신교통혁명 이룰 것 ",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124608"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:04:00 +0900",
-        "title": "[충청총선] 국힘 이창수 천안병·전만권 아산을 후보,  천안아산 신교통혁명의...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240401010000183"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:59:00 +0900",
-        "title": "국민의힘 아산을 전만권·천안병 이창수,  아산·천안 신교통혁명 이룰 것 ",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880301?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 11:30:00 +0900",
-        "title": "22대 총선 천안갑·을·병 선거구 후보 10명 본격 유세전 돌입",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265582"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:20:00 +0900",
-        "title": "교육공약 3인 3색…이정문·이창수·한정애 복안은 [천안병 TV토론]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815283?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 20:46:00 +0900",
-        "title": "천안병 후보자 법정토론회 대전MBC에서 열려",
-        "link": "https://tjmbc.co.kr/article/GFhyApW-_e"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 16:22:00 +0900",
-        "title": "정쟁보단 공약과 정책 집중한 천안병 후보들",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307258"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 06:06:00 +0900",
-        "title": "[뉴스 즉설]충청권 10석도 힘든 국힘, 한동훈 '국회의사당 카드' 먹힐까",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084944?sid=100"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 01:00:00 +0900",
-        "title": "정진석  당선되면 국회의장  박수현  두 번 졌다, 기회달라  [4·10 총선 격전...",
-        "link": "https://n.news.naver.com/mnews/article/353/0000047626?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:59:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691752?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:36:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691636?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-        "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:01:00 +0900",
-        "title": "[충남 천안병] 더불어민주당 이정문 49.5%, 국민의힘 이창수 36.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427973?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:40:00 +0900",
-        "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:16:00 +0900",
-        "title": "[총선 여론조사] 민주당, 천안 불패 '기세'...국힘, 갑을병 모두 열세",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=246877"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:10:00 +0900",
-        "title": "'천안시 병' 국민의힘 이창수  비상식을 상식으로 바꾸는 선거 ",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123537"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:30:00 +0900",
-        "title": "국민의힘 천안병 이창수 후보 출정식  비상식을 상식으로 바꿔야 ",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955758"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:18:00 +0900",
-        "title": "천안병 이창수 출정식  비상식을 상식으로 바꿀 것 ",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=769133"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:02:00 +0900",
-        "title": "[충청총선] 이창수 국힘 천안병 후보,  힘쎈 충남에 이은 힘쎈 천안 만들 것 ",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240328010009336"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:54:00 +0900",
-        "title": "국민의힘 천안병 이창수 후보, 28일 출정식  비상식을 상식으로 바꾸겠습니다...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558000"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:44:00 +0900",
-        "title": "천안병 이창수  힘쎈 충남에 이은 힘쎈 천안! ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307150"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:08:00 +0900",
-        "title": "국민의힘 천안병 이창수 후보,  비상식을 상식으로 바꾸겠습니다 ",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=763849"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:50:00 +0900",
-        "title": "국민의힘 천안병 이창수 후보  비상식을 상식으로 바꾸겠다  강조",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265271"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 09:30:00 +0900",
-        "title": "이창수 천안병 국회의원 후보, 선거 유세 차량 정위치 준비 끝",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557808"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 06:14:00 +0900",
-        "title": "[오늘의 전북 뉴스 브리핑] 이성윤 후보 '토론회 불참' 4번이나, 이유는?... ...",
-        "link": "http://www.jbsori.com/news/articleView.html?idxno=13432"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 18:16:00 +0900",
-        "title": "국민의힘 천안(병) 이창수 후보,  미래 도시 천안을 위한 핵심 공약 발표 ",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954858"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:05:00 +0900",
-        "title": "이창수 후보, 천안형 교육발전특구 청사진 밝혀",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325276?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:48:00 +0900",
-        "title": "천안병 이창수  8년간 준비한 청사진 이행할 것 ",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=329860"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:46:00 +0900",
-        "title": "국민의힘 천안병 이창수 후보 4대 부문·4대 권역별 핵심공약 발표",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265063"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:48:00 +0900",
-        "title": "국힘 이창수 천안병 국회의원 후보, 4대 부문·4대 권역별 핵심공약 발표",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557678"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "이창수",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 526856
-      }
-    ],
-    "huboid": "100151961",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100151961/junkwa/20240103130946492_1.PDF"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-5.jpg",
-    "id": "2441802-5",
-    "재산": 161250,
-    "생년월일": "19690610",
-    "경력": "(현) 녹색정의당 충남도당 위원장\n(전) 제8회 전국동시지방선거 정의당 비례대표 충청남도의원 후보자",
-    "학력": "천안여자고등학교 졸업",
-    "직업": "자영업",
-    "성별": "여",
-    "regionId": "2441802",
-    "기호": 5,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:32:00 +0900",
-        "title": "한국노총, 친노동 후보 36명 및 노총출신 11명에 대해 '노동전략 후보' 선정",
-        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417449"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:00:00 +0900",
-        "title": "[2024 총선 속 노동④] 노동계 출신의 총선 출사표",
-        "link": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=102&in_cate2=0&gopage=1&bi_pidx=36541"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:00:00 +0900",
-        "title": "'도구' 확보하고 '영토' 넓힌 한의사들  열매 거둘 차례 ",
-        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016016"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:30:00 +0900",
-        "title": "[같이, 우리] 불멸의 열정으로 쓴 청춘의 투쟁, 그 끝나지 않는 이야기",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244222"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:20:00 +0900",
-        "title": "교육공약 3인 3색…이정문·이창수·한정애 복안은 [천안병 TV토론]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815283?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 20:46:00 +0900",
-        "title": "천안병 후보자 법정토론회 대전MBC에서 열려",
-        "link": "https://tjmbc.co.kr/article/GFhyApW-_e"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 16:22:00 +0900",
-        "title": "정쟁보단 공약과 정책 집중한 천안병 후보들",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307258"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 09:20:00 +0900",
-        "title": "녹색정의당 대표단 30일 천안병 한정애 후보 집중 유세 나서",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265493"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 06:02:00 +0900",
-        "title": "21대 국회 가결 제정안 최다 발의…與 임이자·野 서삼석",
-        "link": "https://www.etoday.co.kr/news/view/2345845"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정] 정치·정부(30일, 토)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007446446?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:59:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691752?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:36:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691636?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-        "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:01:00 +0900",
-        "title": "[충남 천안병] 더불어민주당 이정문 49.5%, 국민의힘 이창수 36.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427973?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:40:00 +0900",
-        "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:04:00 +0900",
-        "title": "한국노총 47명 총선 지지후보 선정, 민주당 41명, 국민의힘 4명",
-        "link": "https://www.naeil.com/news/read/505806?ref=naver"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 07:59:00 +0900",
-        "title": "“반 노동 심판” 한국노총 47명 총선 ‘지지 후보’ 확정…어디 누구?",
-        "link": "https://n.news.naver.com/mnews/article/022/0003918747?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:33:00 +0900",
-        "title": "한국노총, 총선 지지후보 결정…민주당 39명·국민의힘 3명",
-        "link": "https://n.news.naver.com/mnews/article/032/0003287132?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:51:00 +0900",
-        "title": "한국노총, 민주 41명·국힘 4명 후보 지지 표명…총선방침 확정",
-        "link": "https://n.news.naver.com/mnews/article/003/0012454116?sid=102"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:52:00 +0900",
-        "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 11:04:00 +0900",
-        "title": "22대 총선 충청권 여성 출마자들 '선전'... 당선 기대감 ↑",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768918"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:42:00 +0900",
-        "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:30:00 +0900",
-        "title": "'지리멸렬' 충남의 제3지대...양당정치 탓 '그만'",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768911"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:24:00 +0900",
-        "title": "[4.10총선-134] 천안병, 이정문vs이창수. 불당1·2동 표심 어떨까",
-        "link": "http://www.mhj21.com/160108"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:17:00 +0900",
-        "title": "녹색정의당  4·10 총선 다시 한 번 기회 주시는 선거 됐으면 ",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084370?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 12:21:00 +0900",
-        "title": "녹색정의당·개혁신당·새로운미래 지역구에 누가 나오나",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427245?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:23:00 +0900",
-        "title": " 기후 재난 막겠다, 녹색정의당을 지지해 달라 ",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427226?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:18:00 +0900",
-        "title": " 녹색정의당에 주신 표, 충남을 바꾸는 데 사용할 것 ",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1021280"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:06:00 +0900",
-        "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:51:00 +0900",
-        "title": "[4·10 총선특집] 충남 11개 선거구 31명 출마… 평균경쟁률 2.8대 1",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084231?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:44:00 +0900",
-        "title": "충청권 최고 경쟁지는 '세종을'…보령서천에 전과 11범",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084229?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:28:00 +0900",
-        "title": "충청권 28개 선거구 81명 출사표… '세종을' 5명 최다",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1429874"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:00:00 +0900",
-        "title": "[4·10총선] 대전·세종·충남·충북, 대전 중구청장 재선, 도의원 재·보궐 ...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007466"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 13:18:00 +0900",
-        "title": "제22대 총선 최종 후보 대전·세종·충남 61명 등록",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762880"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 11:50:00 +0900",
-        "title": "[총선리포트] '금강벨트' 후보 등록 완료… 평균 경쟁률 '2.93 대 1'",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007417"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:22:00 +0900",
-        "title": "제22대 총선 '천안병' 누가 뛰나?...이정문·이창수·한정애·이성진 '4파전'",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=355833"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-        "title": "[표] 22대 총선 전국 지역구 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 06:11:00 +0900",
-        "title": "[뉴스 즉설]국힘 금강벨트도 위기, 충청권 그럼 4년 전 악몽 데자뷔?",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084098?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-        "title": "[4·10총선 후보자 등록] 서울",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:58:00 +0900",
-        "title": "충남 11개 선거구서 31명 총선 출사표...2.8대 1",
-        "link": "https://n.news.naver.com/mnews/article/277/0005396108?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:54:00 +0900",
-        "title": "[22대 총선] 충남 22대 총선 후보등록 2.63대 1 ‘경쟁률’",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200343.html"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:54:00 +0900",
-        "title": "[4·10 총선] 충청권 총선 후보등록 마감 경쟁률 2.93대 1",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193233"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:52:00 +0900",
-        "title": "후보 등록 최종, 대전·세종·충남 61명… 경쟁률 3.05대 1(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445503?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:37:00 +0900",
-        "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:26:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:06:00 +0900",
-        "title": "충청권 28개 선거구 82명 등록…28일부터 선거운동",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306823"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:38:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 충남(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583338?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:32:00 +0900",
-        "title": "4·10 총선 충청권 후보자 등록(22일 최종)",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=744962"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:25:00 +0900",
-        "title": "[4·10총선 후보 등록] 충남",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445445?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 18:00:00 +0900",
-        "title": "[4·10총선 후보자 등록] 충남",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430748?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:28:00 +0900",
-        "title": "서울 4·10 총선 후보자 등록 중간 현황",
-        "link": "https://www.ajunews.com/view/20240322154014965"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:32:00 +0900",
-        "title": "제22대 총선 후보 등록 첫날 대전·세종·충남 55명 등록",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762761"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 10:00:00 +0900",
-        "title": "충청권 4·10 총선 후보자 등록(21일 마감 기준)",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084040?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 07:34:00 +0900",
-        "title": "[종합] 충청권 28개 선거구 74명 등록…평균 2.64대",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306766"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 00:30:00 +0900",
-        "title": "이정문·이창수·한정애, '젊은 천안'의 교육 이슈 주목 [천안·아산 토론회③...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002812160?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 23:30:00 +0900",
-        "title": "대전·충남 총선 후보 등록 첫날 48명 접수…평균 경쟁률 2.7대 1",
-        "link": "https://n.news.naver.com/mnews/article/421/0007428778?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 23:28:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 충남(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581017?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:10:00 +0900",
-        "title": "후보 등록 첫날 대전·세종·충남 55명… 경쟁률 2.75대 1(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012443198?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 19:59:00 +0900",
-        "title": "4·10 총선 후보자 등록 첫날, 충남 11개 선거구 29명 등록",
-        "link": "https://n.news.naver.com/mnews/article/003/0012443071?sid=102"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 19:58:00 +0900",
-        "title": "22대 총선 후보자 등록 첫날 충청권 70명 접수…경쟁률 2.5대 1",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1429667"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:22:00 +0900",
-        "title": "환자도 병원도 아우성인데…국회는 법안도, 회의도 '제로'",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=685508"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:36:00 +0900",
-        "title": "4월 선거 나서는 제21대 보건복지위 국회의원은?",
-        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=153915"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:12:00 +0900",
-        "title": "천안병 토론회서 여야 후보, 과밀학급 등 현안 해법 제시",
-        "link": "https://n.news.naver.com/mnews/article/277/0005394913?sid=102"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:08:00 +0900",
-        "title": "22대 총선 천안병 출마자들 ‘교육발전특구’ 공방",
-        "link": "https://n.news.naver.com/mnews/article/081/0003438593?sid=102"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 15:58:00 +0900",
-        "title": "[총선 브리핑] '불당동 시민체육공원 민간 개발' 천안병 후보들의 생각은",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193063"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 15:06:00 +0900",
-        "title": "충남 천안병 총선 토론회 '천안형 교육발전특구' 화두",
-        "link": "https://n.news.naver.com/mnews/article/656/0000083773?sid=100"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 14:44:00 +0900",
-        "title": " 아직 기호도 몰라  녹색정의당 한정애 후보, 양당 꼼수정치 비판",
-        "link": "https://n.news.naver.com/mnews/article/421/0007423954?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 14:34:00 +0900",
-        "title": "'천안병' 선거구 후보자, 20일 첫 방송 토론회...'불당동 시민체육공원 민간 ...",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762401"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 14:13:00 +0900",
-        "title": "[4·10 총선 공약 비교] 천안병,  GTX-C 천안 연장  vs  천안형 교육발전특구...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000083748?sid=100"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 13:26:00 +0900",
-        "title": "'천안병' 이정문·이창수·한정애, '3인 3색' 교육 공약",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768366"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 10:32:00 +0900",
-        "title": "신범철·문진석, 이정만·이재관 '접전'…이정문 '천안병'서 우세 [D-21 천안...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002811271?sid=165"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 11:12:00 +0900",
-        "title": "[오늘의 주요 정치 일정] 정치(3월19일 화요일)",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=331085"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 10:18:00 +0900",
-        "title": "[4·10 총선 톺아보기 - 천안병] 진보 진영 강세 속 이창수 '3전4기' 도전",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1020330"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 09:10:00 +0900",
-        "title": "[2024년 3월 19일 정치·사회 주요일정] 한동훈 국민의힘 비대위원장, 남성 사...",
-        "link": "https://www.mediapen.com/news/view/905330"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 07:18:00 +0900",
-        "title": "[오늘의 정치일정] 3월 19일(화)",
-        "link": "https://www.newspim.com/news/view/20240319000012"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 07:04:00 +0900",
-        "title": "[오늘의 주요 일정] '전공의 집단사직' 의협 비대위, 조규홍 장관·박민수 차...",
-        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=213093"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 06:12:00 +0900",
-        "title": "의정갈등에도 국회 역할 묘연…총선에 마비된 복지위",
-        "link": "https://www.medipana.com/article/view.php?news_idx=324074&sch_cate=A"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정]정치(3월19일 화요일)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012434749?sid=165"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정] 정치·정부(19일, 화)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007419638?sid=100"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 21:06:00 +0900",
-        "title": "(R)[선택 2024]'진보 텃밭'..천안병 표심 어디로?",
-        "link": "http://www.tjb.co.kr/news05/bodo/view/id/67963"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 13:22:00 +0900",
-        "title": "총선 충청권 선거구별 판세 - 11.천안병",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1428564"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 12:06:00 +0900",
-        "title": "보건복지위 소속 위원 12명, 22대 국회의원 선거 도전",
-        "link": "http://www.hitnews.co.kr/news/articleView.html?idxno=53190"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 16:23:00 +0900",
-        "title": "천안아산 총선 후보자 토론회 연속 개최",
-        "link": "https://n.news.naver.com/mnews/article/656/0000083304?sid=102"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 12:21:00 +0900",
-        "title": "위성정당 'OUT', 진짜 진보 'YES'... 충남 천안, 한정애 출마",
-        "link": "https://n.news.naver.com/mnews/article/047/0002426098?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 20:37:00 +0900",
-        "title": "녹색정의당, 총선 출마 후보 확정…‘비례 14명·지역구 17명’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001681318?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 19:33:00 +0900",
-        "title": "녹색정의당, 총선 출마 후보 31명 공천 확정…비례 1번에 나순자",
-        "link": "https://n.news.naver.com/mnews/article/003/0012429899?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 15:50:00 +0900",
-        "title": "천안시기자회·SK 중부방송, 22대 총선 후보자 토론회",
-        "link": "https://n.news.naver.com/mnews/article/081/0003437484?sid=102"
-      },
-      {
-        "date": "Thu, 14 Mar 2024 14:36:00 +0900",
-        "title": "한 달여 남은 22대 총선…국회 보건복지위원회 위원 현황은?",
-        "link": "http://www.k-health.com/news/articleView.html?idxno=70717"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 19:53:00 +0900",
-        "title": "총선/ 충남 최대 격전지 천안…3석, 민주 수성VS국힘 탈환",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=743575"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 12:16:00 +0900",
-        "title": "국회 본회의 무단결석, 강기윤&gt;백종헌&gt;서정숙 順",
-        "link": "https://www.dailymedi.com/news/news_view.php?wr_id=909466"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 15:17:00 +0900",
-        "title": "천안기자회, 18~20일 22대 총선 후보자 초청 토론회",
-        "link": "https://n.news.naver.com/mnews/article/421/0007406103?sid=165"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 15:00:00 +0900",
-        "title": "천안시기자회, 22대 총선 후보자 토론회 개최",
-        "link": "https://n.news.naver.com/mnews/article/079/0003872898?sid=102"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 14:46:00 +0900",
-        "title": "천안시기자회, 22대 총선 후보자 토론회 18∼20일 개최",
-        "link": "https://n.news.naver.com/mnews/article/001/0014557966?sid=165"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 19:02:00 +0900",
-        "title": "총선/ 충남 천안 갑·을·병 대진표 완성…국힘, 용산 출신 3명 중 1명만 본선...",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=743099"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 16:06:00 +0900",
-        "title": "충청권 주요 정당 본선행 女후보 '김수민·황정아·박정현'",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1427981"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 07:00:00 +0900",
-        "title": "[총선 D-30]충남 승부처는 천안·아산…민주 '사수' vs 국힘 '탈환'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007400633?sid=165"
-      }
-    ],
-    "정당": "녹색정의당",
-    "이름": "한정애",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 161250
-      }
-    ],
-    "huboid": "100152844",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152844/junkwa/20240223171750528_1.PDF"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-7.jpg",
-    "id": "2441802-7",
-    "재산": 1097672,
-    "생년월일": "19790912",
-    "경력": "(전) BBC 다큐멘터리 포토그래퍼\n(전) 국무조정실 충청남도 청년정책조정위원장",
-    "학력": "문학사(심리학 전공)",
-    "직업": "기업인",
-    "성별": "남",
-    "regionId": "2441802",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "[4·10 총선 지역구 후보별 공약 톺아보기] ② 세종·천안·아산",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022839"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:56:00 +0900",
-        "title": "인천·충청 찾은 개혁신당… “한국 정치 부활절 필요”",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018187"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정] 정치·정부(31일, 일)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007447163?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:59:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691752?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:36:00 +0900",
-        "title": "[총선] 2024 총선 천안시 병 후보를 만나다",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691636?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-        "title": "천안 후보들 다양한 공약으로 유권자 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879708?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:01:00 +0900",
-        "title": "[충남 천안병] 더불어민주당 이정문 49.5%, 국민의힘 이창수 36.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427973?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 02:40:00 +0900",
-        "title": "민주당, 천안 갑·을·병서 오차범위 안팎 다소 '우위' [D-12 천안]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002814721?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 13:52:00 +0900",
-        "title": "선거 때마다 ‘캐스팅 보터’… “충청 잡아야 이긴다”",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=226157"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:42:00 +0900",
-        "title": "충남지역 22대 국회의원 후보자, 병역사항은?",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307034"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:30:00 +0900",
-        "title": "'지리멸렬' 충남의 제3지대...양당정치 탓 '그만'",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=768911"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 10:11:00 +0900",
-        "title": "[정치쇼] 천하람  한동훈이 중재자? 2, 3주 뭉갤 것…尹·韓, 시간 끌기용 정...",
-        "link": "https://n.news.naver.com/mnews/article/055/0001141409?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 19:06:00 +0900",
-        "title": "제22대 국회의원 선거 충청권 후보 등록…본선 경쟁 돌입",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=966994"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 18:51:00 +0900",
-        "title": "[4·10 총선특집] 충남 11개 선거구 31명 출마… 평균경쟁률 2.8대 1",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084231?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 15:24:00 +0900",
-        "title": "천안병 이성진  정치 문턱 너무 좁아 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306876"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 14:00:00 +0900",
-        "title": "[4·10총선] 대전·세종·충남·충북, 대전 중구청장 재선, 도의원 재·보궐 ...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007466"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 13:18:00 +0900",
-        "title": "제22대 총선 최종 후보 대전·세종·충남 61명 등록",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762880"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 11:50:00 +0900",
-        "title": "[총선리포트] '금강벨트' 후보 등록 완료… 평균 경쟁률 '2.93 대 1'",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240324010007417"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정] 정치·정부(24일, 일)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007431713?sid=100"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 15:22:00 +0900",
-        "title": "제22대 총선 '천안병' 누가 뛰나?...이정문·이창수·한정애·이성진 '4파전'",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=355833"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 06:11:00 +0900",
-        "title": "[뉴스 즉설]국힘 금강벨트도 위기, 충청권 그럼 4년 전 악몽 데자뷔?",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084098?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:58:00 +0900",
-        "title": "충남 11개 선거구서 31명 총선 출사표...2.8대 1",
-        "link": "https://n.news.naver.com/mnews/article/277/0005396108?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:54:00 +0900",
-        "title": "[22대 총선] 충남 22대 총선 후보등록 2.63대 1 ‘경쟁률’",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/22/2024032200343.html"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:52:00 +0900",
-        "title": "후보 등록 최종, 대전·세종·충남 61명… 경쟁률 3.05대 1(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445503?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:06:00 +0900",
-        "title": "충청권 28개 선거구 82명 등록…28일부터 선거운동",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306823"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:38:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 충남(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583338?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:32:00 +0900",
-        "title": "4·10 총선 충청권 후보자 등록(22일 최종)",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=744962"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:25:00 +0900",
-        "title": "[4·10총선 후보 등록] 충남",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445445?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 18:00:00 +0900",
-        "title": "[4·10총선 후보자 등록] 충남",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430748?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 12:32:00 +0900",
-        "title": "제22대 총선 후보 등록 첫날 대전·세종·충남 55명 등록",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=762761"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 10:00:00 +0900",
-        "title": "충청권 4·10 총선 후보자 등록(21일 마감 기준)",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084040?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 07:34:00 +0900",
-        "title": "[종합] 충청권 28개 선거구 74명 등록…평균 2.64대",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306766"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 23:30:00 +0900",
-        "title": "대전·충남 총선 후보 등록 첫날 48명 접수…평균 경쟁률 2.7대 1",
-        "link": "https://n.news.naver.com/mnews/article/421/0007428778?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:46:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 충남(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581017?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:10:00 +0900",
-        "title": "후보 등록 첫날 대전·세종·충남 55명… 경쟁률 2.75대 1(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012443198?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 19:59:00 +0900",
-        "title": "4·10 총선 후보자 등록 첫날, 충남 11개 선거구 29명 등록",
-        "link": "https://n.news.naver.com/mnews/article/003/0012443071?sid=102"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 19:58:00 +0900",
-        "title": "22대 총선 후보자 등록 첫날 충청권 70명 접수…경쟁률 2.5대 1",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1429667"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 08:52:00 +0900",
-        "title": "천안병 이성진  감옥 보내고, 욕하고…살림살이는? ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306709"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 17:16:00 +0900",
-        "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
-        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 14:13:00 +0900",
-        "title": "[4·10 총선 공약 비교] 천안병,  GTX-C 천안 연장  vs  천안형 교육발전특구...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000083748?sid=100"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 10:40:00 +0900",
-        "title": "개혁신당 이성진 천안병 국회의원 후보, 기자회견 열고 출사표",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555785"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 10:32:00 +0900",
-        "title": "신범철·문진석, 이정만·이재관 '접전'…이정문 '천안병'서 우세 [D-21 천안...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002811271?sid=165"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 15:48:00 +0900",
-        "title": "천안병 이성진  국민 아프게 한 정치 장벽 넘을 것 ",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306600"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 19:24:00 +0900",
-        "title": "충청권 여야 대진표 확정…본격 선거전",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1020317"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 18:27:00 +0900",
-        "title": "개혁신당, 충청권 5명 추가 공천… 총 9명으로 늘어",
-        "link": "https://n.news.naver.com/mnews/article/421/0007404304?sid=165"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 15:48:00 +0900",
-        "title": "개혁신당, 충청권 공천자 잇달아 발표…대전·충남북·세종 9명",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1428117"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 11:14:00 +0900",
-        "title": "개혁신당 충청권 5곳 공천...경북은 공천신청자 없어",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306114"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 21:38:00 +0900",
-        "title": "개혁신당 충청지역 총선 주자 청주청원 장석남 등 4명 공천",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=789646"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 20:32:00 +0900",
-        "title": "개혁신당 충청권 4명 1차 공천",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2261416"
-      },
-      {
-        "date": "Sat, 09 Mar 2024 18:43:00 +0900",
-        "title": "여야 경선의 날, 총선 대진표 속속 확정",
-        "link": "https://n.news.naver.com/mnews/article/023/0003821209?sid=165"
-      },
-      {
-        "date": "Sat, 09 Mar 2024 14:14:00 +0900",
-        "title": "개혁신당 1차 공천 확정…충청권 왕현민·이성진·장석남·김기영",
-        "link": "https://n.news.naver.com/mnews/article/656/0000082490?sid=100"
-      },
-      {
-        "date": "Sat, 09 Mar 2024 13:19:00 +0900",
-        "title": "개혁신당 충청권 4명 1차 공천",
-        "link": "https://n.news.naver.com/mnews/article/421/0007400248?sid=165"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 18:41:00 +0900",
-        "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
-        "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 18:34:00 +0900",
-        "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 17:32:00 +0900",
-        "title": "류호정  서운한 것 없다  이준석  뜻 맞출 수 있다 …개혁신당 35명 공천",
-        "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
-      },
-      {
-        "date": "Sun, 21 Jan 2024 11:07:00 +0900",
-        "title": "‘샅바 싸움으로 시작된 총선’ 초반 키워드 빅텐트, 계양을, 디올백… 일주일...",
-        "link": "https://n.news.naver.com/mnews/article/020/0003543866?sid=100"
-      },
-      {
-        "date": "Tue, 16 Jan 2024 14:30:00 +0900",
-        "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-        "link": "https://n.news.naver.com/mnews/article/001/0014447521?sid=100"
-      },
-      {
-        "date": "Tue, 16 Jan 2024 13:50:00 +0900",
-        "title": "[YTN 실시간뉴스] 아이오와 첫 경선...트럼프 '압도적 승리'",
-        "link": "https://n.news.naver.com/mnews/article/052/0001985878?sid=104"
-      },
-      {
-        "date": "Sun, 02 Jan 2022 17:48:00 +0900",
-        "title": "인사 종합 / 12월 31~1월2일",
-        "link": "https://www.etoday.co.kr/news/view/2092477"
-      },
-      {
-        "date": "Thu, 21 Jan 2021 17:44:00 +0900",
-        "title": "1월 21일 오늘의 인사",
-        "link": "http://www.gokorea.kr/697480"
-      },
-      {
-        "date": "Thu, 21 Jan 2021 15:59:00 +0900",
-        "title": "인사-1월21일",
-        "link": "http://www.metroseoul.co.kr/article/20210121500446"
-      },
-      {
-        "date": "Tue, 03 Mar 2020 13:18:00 +0900",
-        "title": "[4·15 총선] ‘독이 든 성배’ 비례민주당",
-        "link": "https://n.news.naver.com/mnews/article/053/0000027104?sid=100"
-      },
-      {
-        "date": "Tue, 03 Jul 2012 03:18:00 +0900",
-        "title": "[인사]",
-        "link": "https://n.news.naver.com/mnews/article/081/0002285703?sid=102"
-      },
-      {
-        "date": "Tue, 03 Jul 2012 01:03:00 +0900",
-        "title": "[인사] BAT코리아 ; 알리안츠생명 ; 동부증권 등",
-        "link": "https://n.news.naver.com/mnews/article/015/0002714916?sid=102"
-      },
-      {
-        "date": "Mon, 02 Jul 2012 20:15:00 +0900",
-        "title": "7월 3일 인사",
-        "link": "https://n.news.naver.com/mnews/article/028/0002148277?sid=102"
-      },
-      {
-        "date": "Mon, 02 Jul 2012 17:25:00 +0900",
-        "title": "[인사] 국가보훈처 / 중소기업청 / 국민권익위원회 등",
-        "link": "https://n.news.naver.com/mnews/article/009/0002758942?sid=102"
-      },
-      {
-        "date": "Mon, 02 Jul 2012 15:12:00 +0900",
-        "title": "&lt;아주경제 오늘의 인사 종합&gt; 공정거래위원회 外",
-        "link": "http://www.ajnews.co.kr/common/redirect.jsp?newsId=20120702000401"
-      },
-      {
-        "date": "Sat, 21 Jan 2012 01:30:00 +0900",
-        "title": "[총선특집Ⅱ] 폴리뉴스 19대 총선 출마예상자 전수조사 ① 서울",
-        "link": "http://polinews.co.kr/news/newsview.html?no=140808"
-      },
-      {
-        "date": "Fri, 20 Jan 2012 15:56:00 +0900",
-        "title": "19대 총선 지역 출마 예상자",
-        "link": "http://www.sisapress.com/news/articleView.html?idxno=57009"
-      },
-      {
-        "date": "Thu, 19 Jan 2012 17:57:00 +0900",
-        "title": "[표] 19대 국회의원 주요 출마 예상자(1월 19일 기준)",
-        "link": "https://n.news.naver.com/mnews/article/009/0002622082?sid=100"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "이성진",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1097672
-      }
-    ],
-    "huboid": "100153037",
-    "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100153037/junkwa/20240314172202951_1.PDF"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-1.jpg",
+        "id": "2441802-1",
+        "재산": 451668,
+        "생년월일": "19730105",
+        "경력": "(현) 제21대 국회의원\n(전) 천안시 고문변호사",
+        "학력": "한양대학교 법과대학 법학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1128",
+        "regionId": "2441802",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 12:12:00 +0900",
+                "title": "[인터뷰] <b>이정문</b> \"기본 충실·초심 유지…100만 천안 도약 견인\"",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=358687"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:20:00 +0900",
+                "title": "교육공약 3인 3색…<b>이정문</b>·이창수·한정애 복안은 [천안병 TV토론]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815283?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:10:00 +0900",
+                "title": "<b>민주당</b> 천안 문진석·이재관·<b>이정문</b> \"정의의 철퇴\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307201"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:06:00 +0900",
+                "title": "국민변호인 <b>이정문</b> 총선 출정식 \"참된 일꾼에 맡겨달라\"",
+                "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=12772"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:04:00 +0900",
+                "title": "<b>더불어민주당</b> 천안갑·을·병 문진석·이재관·<b>이정문</b> 후보 본격 선거운동 돌...",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265389"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이정문",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 341925
+            },
+            {
+                "연도": 2021,
+                "재산": 475129
+            },
+            {
+                "연도": 2022,
+                "재산": 539052
+            },
+            {
+                "연도": 2023,
+                "재산": 451668
+            }
+        ],
+        "huboid": "100152586",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152586/junkwa/20240205110456371_1.PDF"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-2.jpg",
+        "id": "2441802-2",
+        "재산": 526856,
+        "생년월일": "19630105",
+        "경력": "(전) 국민의힘 천안병 당협위원장\n(현) 국민의힘 중앙당 인권위원장",
+        "학력": "단국대학교 국어국문학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2441802",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "지지 호소하는 <b>이창수</b> 천안병 <b>국민의힘</b> 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454014?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:06:00 +0900",
+                "title": "<b>이창수</b> '천안은 기호 2번'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454013?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:12:00 +0900",
+                "title": "[포토] <b>이창수</b> 천안병 후보 \"3번 낙선한 <b>이창수</b>입니다\"",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200205.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "국힘 천안병 <b>이창수</b> · 아산을 전만권 \"GTX-A 노선 천안아산역 연장 추진\"",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792436"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:17:00 +0900",
+                "title": "총선/ 국힘 충남 천안병 <b>이창수</b>·아산을 전만권, \"천안·아산 교통혁명 이룰 ...",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746245"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "이창수",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 526856
+            }
+        ],
+        "huboid": "100151961",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100151961/junkwa/20240103130946492_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-5.jpg",
+        "id": "2441802-5",
+        "재산": 161250,
+        "생년월일": "19690610",
+        "경력": "(현) 녹색정의당 충남도당 위원장\n(전) 제8회 전국동시지방선거 정의당 비례대표 충청남도의원 후보자",
+        "학력": "천안여자고등학교 졸업",
+        "직업": "자영업",
+        "성별": "여",
+        "regionId": "2441802",
+        "기호": 5,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Sun, 31 Mar 2024 05:20:00 +0900",
+                "title": "교육공약 3인 3색…이정문·이창수·<b>한정애</b> 복안은 [천안병 TV토론]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815283?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 09:20:00 +0900",
+                "title": "<b>녹색정의당</b> 대표단 30일 천안병 <b>한정애</b> 후보 집중 유세 나서",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265493"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:22:00 +0900",
+                "title": "제22대 총선 '천안병' 누가 뛰나?...이정문·이창수·<b>한정애</b>·이성진 '4파전'",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355833"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 00:30:00 +0900",
+                "title": "이정문·이창수·<b>한정애</b>, '젊은 천안'의 교육 이슈 주목 [천안·아산 토론회③...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002812160?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:44:00 +0900",
+                "title": "\"아직 기호도 몰라\" <b>녹색정의당 한정애</b> 후보, 양당 꼼수정치 비판",
+                "link": "https://n.news.naver.com/mnews/article/421/0007423954?sid=165"
+            }
+        ],
+        "정당": "녹색정의당",
+        "이름": "한정애",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 161250
+            }
+        ],
+        "huboid": "100152844",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100152844/junkwa/20240223171750528_1.PDF"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441802-7.jpg",
+        "id": "2441802-7",
+        "재산": 1097672,
+        "생년월일": "19790912",
+        "경력": "(전) BBC 다큐멘터리 포토그래퍼\n(전) 국무조정실 충청남도 청년정책조정위원장",
+        "학력": "문학사(심리학 전공)",
+        "직업": "기업인",
+        "성별": "남",
+        "regionId": "2441802",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Sun, 24 Mar 2024 15:24:00 +0900",
+                "title": "천안병 <b>이성진</b> \"정치 문턱 너무 좁아\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306876"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 15:22:00 +0900",
+                "title": "제22대 총선 '천안병' 누가 뛰나?...이정문·이창수·한정애·<b>이성진</b> '4파전'",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=355833"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 08:52:00 +0900",
+                "title": "천안병 <b>이성진</b> \"감옥 보내고, 욕하고…살림살이는?\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306709"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 10:40:00 +0900",
+                "title": "<b>개혁신당 이성진</b> 천안병 국회의원 후보, 기자회견 열고 출사표",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=555785"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 15:48:00 +0900",
+                "title": "천안병 <b>이성진</b> \"국민 아프게 한 정치 장벽 넘을 것\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306600"
+            }
+        ],
+        "정당": "개혁신당",
+        "이름": "이성진",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1097672
+            }
+        ],
+        "huboid": "100153037",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4418/Hb100153037/junkwa/20240314172202951_1.PDF"
+    }
 ]
