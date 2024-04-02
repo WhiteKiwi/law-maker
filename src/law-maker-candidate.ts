@@ -18,5 +18,5 @@ export type LawMakerCadidate = {
   }[];
   군필여부: boolean;
   전과건수: number;
-  전과PdfUrl: string;
+  전과ImgUrl: string;
 };

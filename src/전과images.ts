@@ -14,13 +14,13 @@ async function main() {
 
     for (const candidate of candidates) {
       console.log(++count);
-      if (!candidate.전과PdfUrl) {
+      if (!candidate.전과ImgUrl) {
         console.log("no pdf url!!!!!!!!!!", candidate.id);
         continue;
       }
 
       // await saveImage(candidate);
-      candidate.전과PdfUrl = `https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/${candidate.id}.jpg`;
+      candidate.전과ImgUrl = `https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/${candidate.id}.jpg`;
     }
 
     await writeJSON(path.join(candidatesDir, file), candidates, { spaces: 2 });
@@ -28,7 +28,7 @@ async function main() {
 }
 
 async function saveImage(candidate: LawMakerCadidate) {
-  const response = await axios.get(candidate.전과PdfUrl, {
+  const response = await axios.get(candidate.전과ImgUrl, {
     responseType: "arraybuffer",
     headers: {
       Accept: "application/pdf",
