@@ -76,6 +76,7 @@ async function main() {
     });
   }
 
+  await print동명이인(lawMakers);
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
@@ -221,6 +222,11 @@ async function getRegion(id: string): Promise<Region> {
   throw new Error(`Region not found: ${id}`);
 }
 
+/**
+ * 동명이인처리하기
+ * - 김병욱 2
+ * - 이수진 2
+ */
 async function 주요법안표결(lawMakers: LawMaker[]) {
   const 주요법안: { 별칭: string; 의안번호: number; 의안명: string }[] =
     await readJSON(path.join(__dirname, "../data/주요법안.json"));
@@ -267,6 +273,19 @@ async function 주요법안표결(lawMakers: LawMaker[]) {
       return "기권";
     }
     return "불참";
+  }
+}
+
+function print동명이인(lawMakers: LawMaker[]) {
+  const map = new Map<string, number>();
+  for (const lawMaker of lawMakers) {
+    const count = map.get(lawMaker.이름) || 0;
+    map.set(lawMaker.이름, count + 1);
+  }
+  for (const [name, count] of map) {
+    if (count > 1) {
+      console.log(name, count);
+    }
   }
 }
 
