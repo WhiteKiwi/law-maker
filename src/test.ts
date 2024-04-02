@@ -2,6 +2,7 @@ import { readJSON, readdir, writeJSON } from "fs-extra";
 import path from "path";
 import { LawMaker } from "./law-maker";
 import { LawMakerCadidate } from "./law-maker-candidate";
+import { RegionsJson } from "./region";
 import { 등수 } from "./등수";
 
 async function main() {
@@ -76,6 +77,7 @@ async function main() {
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
+  await sortRegions();
 }
 
 async function createRanking(lawMakers: LawMaker[]) {
@@ -163,6 +165,22 @@ async function sortCandidates() {
       { spaces: 2 }
     );
   }
+}
+
+async function sortRegions() {
+  const filePath = path.join(__dirname, "../data/regions.json");
+  const regionsJson: RegionsJson = await readJSON(filePath);
+  for (const region of regionsJson) {
+    region.regions = region.regions.sort((a, b) =>
+      a.시군구.localeCompare(b.시군구)
+    );
+    region.regions.forEach((region) => {
+      region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
+      region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
+      region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
+    });
+  }
+  await writeJSON(filePath, regionsJson, { spaces: 2 });
 }
 
 main();
