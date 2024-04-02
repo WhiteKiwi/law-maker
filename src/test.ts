@@ -203,9 +203,7 @@ async function createSearchItems() {
       });
     }
   }
-  await writeJSON(path.join(__dirname, "../data/search.json"), searchItems, {
-    spaces: 2,
-  });
+  await writeJSON(path.join(__dirname, "../data/search.json"), searchItems, {});
 }
 
 async function getRegion(id: string): Promise<Region> {
