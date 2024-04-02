@@ -14,15 +14,12 @@ async function main() {
 
     for (const candidate of candidates) {
       console.log(++count);
-      if (count < 400) {
-        continue;
-      }
       if (!candidate.전과PdfUrl) {
         console.log("no pdf url!!!!!!!!!!", candidate.id);
         continue;
       }
 
-      await saveImage(candidate);
+      // await saveImage(candidate);
       candidate.전과PdfUrl = `https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/${candidate.id}.jpg`;
     }
 
