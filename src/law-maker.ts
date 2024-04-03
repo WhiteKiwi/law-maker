@@ -34,4 +34,6 @@ export type LawMaker = {
     의안번호: number;
     찬반여부: "찬성" | "반대" | "기권" | "불참";
   }[];
+
+  워드클라우드: { 단어: string; count: string }[];
 };
