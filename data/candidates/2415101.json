@@ -1,160 +1,155 @@
 [
-    [
-        {
-            "id": "2415101-1",
-            "regionId": "2415101",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-1.jpg",
-            "기호": 1,
-            "이름": "이건태",
-            "생년월일": "19661221",
-            "정당": "더불어민주당",
-            "성별": "남",
-            "직업": "변호사",
-            "학력": "고려대학교 법학과 졸업",
-            "경력": "(현) 더불어민주당 당대표 특별보좌역\n(전) 의정부지방검찰청 고양지청장",
-            "재산": 4820398,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Mon, 01 Apr 2024 13:56:00 +0900",
-                    "title": "이건태 후보, 주말 옥길·역곡동 유세 \"폭정 막겠다\"",
-                    "link": "https://n.news.naver.com/mnews/article/002/0002325835?sid=102"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 13:45:00 +0900",
-                    "title": "경기 부천병 이건태, 옥길·역곡동서 유세…\"민생·민주 회복 전력\"",
-                    "link": "https://n.news.naver.com/mnews/article/629/0000277789?sid=165"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 16:33:00 +0900",
-                    "title": "부천병 이건태 \"윤석열 정권 투표로 엄하게 심판해달라\"",
-                    "link": "https://n.news.naver.com/mnews/article/629/0000277099?sid=165"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 16:33:00 +0900",
-                    "title": "이건태 \"윤석열 정권 폭정 반드시 막아내겠다\"",
-                    "link": "https://n.news.naver.com/mnews/article/002/0002325447?sid=102"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 13:18:00 +0900",
-                    "title": "[총선 D-13] 더불어민주당 이건태 부천(병) 후보, 선거운동 시작",
-                    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025039"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 4820398
-                }
-            ],
-            "huboid": "100151441",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4151/Hb100151441/junkwa/20240320215837596_10.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시병_이건태_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4151/003_100151441_20240329_1.pdf"
-        },
-        {
-            "id": "2415101-2",
-            "regionId": "2415101",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-2.jpg",
-            "기호": 2,
-            "이름": "하종대",
-            "생년월일": "19650305",
-            "정당": "국민의힘",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "서울대학교 언론정보학과 졸업",
-            "경력": "(전) 채널A 쾌도난마 앵커\n(전) 동아일보 논설위원",
-            "재산": 1493140,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Mon, 01 Apr 2024 11:14:00 +0900",
-                    "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
-                    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 17:41:00 +0900",
-                    "title": "한동훈 \"하종대 쾌도난마 같은 정치, 부천에서 시작하게 해달라\"",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007446923?sid=165"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 17:12:00 +0900",
-                    "title": "[포토] 한동훈 비대위원장, 부천 찾아 김복덕·박성중·하종대 지원유세",
-                    "link": "https://www.newscj.com/news/articleView.html?idxno=3124232"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 17:10:00 +0900",
-                    "title": "[포토] 김복덕·박성중·하종대 지원유세 나선 한동훈 위원장",
-                    "link": "https://www.newscj.com/news/articleView.html?idxno=3124227"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 17:10:00 +0900",
-                    "title": "[포토] 김복덕·박성중·하종대 지원유세 나선 한동훈 비대위원장",
-                    "link": "https://www.newscj.com/news/articleView.html?idxno=3124230"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1493140
-                }
-            ],
-            "huboid": "100153006",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4151/Hb100153006/junkwa/20240321165615792_8.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시병_하종대_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4151/003_100153006_20240329_1.pdf"
-        },
-        {
-            "id": "2415101-6",
-            "regionId": "2415101",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-6.jpg",
-            "기호": 6,
-            "이름": "장덕천",
-            "생년월일": "19651128",
-            "정당": "새로운미래",
-            "성별": "남",
-            "직업": "변호사",
-            "학력": "서울대학교 정치학과 졸업",
-            "경력": "(전) 부천시장\n(현) 새로운미래 당규제정특별위원장",
-            "재산": 788472,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Wed, 27 Mar 2024 08:19:00 +0900",
-                    "title": "새미래 장덕천 후보 \"좋은 생각·정책···'장덕천' 그 자체로 승부할 것\"",
-                    "link": "https://www.newspim.com/news/view/20240327000052"
-                },
-                {
-                    "date": "Tue, 26 Mar 2024 21:02:00 +0900",
-                    "title": "[헬로 이슈토크] 부천시병 장덕천 새로운미래 후보 대담",
-                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=460833"
-                },
-                {
-                    "date": "Sat, 23 Mar 2024 20:32:00 +0900",
-                    "title": "'부천시 병' 새미래 장덕천 후보 개소식...\"민생·경제 발전 위해 최선\"",
-                    "link": "https://www.newspim.com/news/view/20240323000116"
-                },
-                {
-                    "date": "Fri, 22 Mar 2024 14:06:00 +0900",
-                    "title": "[4.10총선-92] 부천병, 이건태vs하종대vs장덕천. 장덕천 출마로 야권표 분열?",
-                    "link": "http://www.mhj21.com/160018"
-                },
-                {
-                    "date": "Thu, 21 Mar 2024 15:02:00 +0900",
-                    "title": "LG헬로비전 '우리동네 희망공약' 경기 부천시병 장덕천 새로운미래 예비후보에...",
-                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=460319"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 788472
-                }
-            ],
-            "huboid": "100152782",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4151/Hb100152782/junkwa/20240321092709082_6.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시병_장덕천_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4151/003_100152782_20240329_2.pdf"
-        }
-    ]
+  {
+    "id": "2415101-1",
+    "regionId": "2415101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-1.jpg",
+    "기호": 1,
+    "이름": "이건태",
+    "생년월일": "19661221",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "고려대학교 법학과 졸업",
+    "경력": "(현) 더불어민주당 당대표 특별보좌역\n(전) 의정부지방검찰청 고양지청장",
+    "재산": 4820398,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 13:56:00 +0900",
+        "title": "이건태 후보, 주말 옥길·역곡동 유세 \"폭정 막겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325835?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:45:00 +0900",
+        "title": "경기 부천병 이건태, 옥길·역곡동서 유세…\"민생·민주 회복 전력\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277789?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:33:00 +0900",
+        "title": "부천병 이건태 \"윤석열 정권 투표로 엄하게 심판해달라\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000277099?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:33:00 +0900",
+        "title": "이건태 \"윤석열 정권 폭정 반드시 막아내겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325447?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:18:00 +0900",
+        "title": "[총선 D-13] 더불어민주당 이건태 부천(병) 후보, 선거운동 시작",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025039"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4820398
+      }
+    ],
+    "huboid": "100151441",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415101-1.jpg"
+  },
+  {
+    "id": "2415101-2",
+    "regionId": "2415101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-2.jpg",
+    "기호": 2,
+    "이름": "하종대",
+    "생년월일": "19650305",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 언론정보학과 졸업",
+    "경력": "(전) 채널A 쾌도난마 앵커\n(전) 동아일보 논설위원",
+    "재산": 1493140,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+        "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:41:00 +0900",
+        "title": "한동훈 \"하종대 쾌도난마 같은 정치, 부천에서 시작하게 해달라\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446923?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:12:00 +0900",
+        "title": "[포토] 한동훈 비대위원장, 부천 찾아 김복덕·박성중·하종대 지원유세",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124232"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:10:00 +0900",
+        "title": "[포토] 김복덕·박성중·하종대 지원유세 나선 한동훈 위원장",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124227"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:10:00 +0900",
+        "title": "[포토] 김복덕·박성중·하종대 지원유세 나선 한동훈 비대위원장",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3124230"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1493140
+      }
+    ],
+    "huboid": "100153006",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415101-2.jpg"
+  },
+  {
+    "id": "2415101-6",
+    "regionId": "2415101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415101-6.jpg",
+    "기호": 6,
+    "이름": "장덕천",
+    "생년월일": "19651128",
+    "정당": "새로운미래",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전) 부천시장\n(현) 새로운미래 당규제정특별위원장",
+    "재산": 788472,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 27 Mar 2024 08:19:00 +0900",
+        "title": "새미래 장덕천 후보 \"좋은 생각·정책···'장덕천' 그 자체로 승부할 것\"",
+        "link": "https://www.newspim.com/news/view/20240327000052"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:02:00 +0900",
+        "title": "[헬로 이슈토크] 부천시병 장덕천 새로운미래 후보 대담",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460833"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 20:32:00 +0900",
+        "title": "'부천시 병' 새미래 장덕천 후보 개소식...\"민생·경제 발전 위해 최선\"",
+        "link": "https://www.newspim.com/news/view/20240323000116"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 14:06:00 +0900",
+        "title": "[4.10총선-92] 부천병, 이건태vs하종대vs장덕천. 장덕천 출마로 야권표 분열?",
+        "link": "http://www.mhj21.com/160018"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 15:02:00 +0900",
+        "title": "LG헬로비전 '우리동네 희망공약' 경기 부천시병 장덕천 새로운미래 예비후보에...",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460319"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 788472
+      }
+    ],
+    "huboid": "100152782",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415101-6.jpg"
+  }
 ]

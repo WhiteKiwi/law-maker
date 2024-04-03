@@ -1,225 +1,219 @@
 [
-    [
-        {
-            "전과건수": 1,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-1.jpg",
-            "id": "2280602-1",
-            "재산": 707161,
-            "생년월일": "19630114",
-            "경력": "(전) 노무현대통령 통일외교안보전략비서관\n(전) 문재인정부 국가정보원 제1차장",
-            "학력": "영국 워릭대학교 국제정치학 박사(1995.10.~2000.2)",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2280602",
-            "기호": 1,
-            "군필여부": false,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 20:14:00 +0900",
-                    "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-                    "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
-                    "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 14:20:00 +0900",
-                    "title": "[총선현장] '부평을' 박선원 \"말로는 누구나 떠들어…몸으로 뛰는 대행자 되겠...",
-                    "link": "https://www.newspim.com/news/view/20240329000730"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 09:22:00 +0900",
-                    "title": "[인천 부평을] 민주당 박선원 45.4%, 국민의힘 이현웅 35.2%, 새미래 홍영표 ...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428273?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 08:38:00 +0900",
-                    "title": "부평을, 박선원 45.4% 이현웅 35.2%…춘천갑, 허영 49.8% 김혜란 42.4%",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007448946?sid=165"
-                }
-            ],
-            "정당": "더불어민주당",
-            "이름": "박선원",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 707161
-                }
-            ],
-            "huboid": "100152899",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100152899/junkwa/20240321145008663_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구을_박선원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100152899_20240330_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-2.jpg",
-            "id": "2280602-2",
-            "재산": 2147318,
-            "생년월일": "19700704",
-            "경력": "(전) 제20대 국회의원선거 부평구을선거구 후보\n(전) 인하대학교 로스쿨 겸임교수",
-            "학력": "연세대학교 법과대학 법학과 졸업",
-            "직업": "변호사",
-            "성별": "남",
-            "regionId": "2280602",
-            "기호": 2,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 20:14:00 +0900",
-                    "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 19:14:00 +0900",
-                    "title": "국민의힘 강창규 전 당협위원장, 맹장 수술 후 이현웅 후보 지원 나서",
-                    "link": "http://www.kyeongin.com/main/view.php?key=20240401026043885"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-                    "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
-                    "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 09:22:00 +0900",
-                    "title": "[인천 부평을] 민주당 박선원 45.4%, 국민의힘 이현웅 35.2%, 새미래 홍영표 ...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428273?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 08:38:00 +0900",
-                    "title": "부평을, 박선원 45.4% 이현웅 35.2%…춘천갑, 허영 49.8% 김혜란 42.4%",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007448946?sid=165"
-                }
-            ],
-            "정당": "국민의힘",
-            "이름": "이현웅",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 2147318
-                }
-            ],
-            "huboid": "100152918",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100152918/junkwa/20240304145326381_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구을_이현웅_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100152918_20240330_1.pdf"
-        },
-        {
-            "전과건수": 3,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-5.jpg",
-            "id": "2280602-5",
-            "재산": 134269,
-            "생년월일": "19721212",
-            "경력": "(전) 정의당 부대표\n(현) 부평미군기지반환 인천시민회의 공동대표",
-            "학력": "인천대학교 공과대학 기계공학과 졸업(공학사)",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2280602",
-            "기호": 5,
-            "군필여부": false,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 19:36:00 +0900",
-                    "title": "김응호 녹색정의당 부평을 후보, 한국지엠 노동자들과 정책협약식 진행",
-                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363645174"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 17:34:00 +0900",
-                    "title": "녹색정의당 김종대 선대위원장, 인천 유일 김응호 후보 지원 사격",
-                    "link": "http://www.kyeongin.com/main/view.php?key=20240330022303306"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 20:06:00 +0900",
-                    "title": "[총선] 인천 부평을...홍영표 vs 박선원 vs 이현웅 vs 김응호, 본격 유세 '돌...",
-                    "link": "https://news.ifm.kr/news/articleView.html?idxno=384531"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 19:30:00 +0900",
-                    "title": "김응호 녹색정의당 부평을 후보, 선거 운동 출정식 진행",
-                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363644207"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 16:14:00 +0900",
-                    "title": "[부평을] 인천 유일 진보정당 녹색정의 김응호 \"국가책임 돌봄 실현\"",
-                    "link": "http://www.incheontoday.com/news/articleView.html?idxno=244136"
-                }
-            ],
-            "정당": "녹색정의당",
-            "이름": "김응호",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 134269
-                }
-            ],
-            "huboid": "100153031",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100153031/junkwa/20240314112500163_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구을_김응호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100153031_20240330_1.pdf"
-        },
-        {
-            "전과건수": 3,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-6.jpg",
-            "id": "2280602-6",
-            "재산": 1450437,
-            "생년월일": "19570430",
-            "경력": "(전) 더불어민주당 원내대표\n(전) 국무총리비서실 시민사회비서관",
-            "학력": "동국대학교 대학원 행정학과 박사과정 수료",
-            "직업": "국회의원",
-            "성별": "남",
-            "id_21th": "680",
-            "regionId": "2280602",
-            "기호": 6,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 20:14:00 +0900",
-                    "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 15:56:00 +0900",
-                    "title": "이낙연·홍영표·조응천·이원욱… 지역구서 힘 못쓰는 민주 탈당파",
-                    "link": "https://n.news.naver.com/mnews/article/029/0002865056?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-                    "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
-                    "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 17:06:00 +0900",
-                    "title": "속속 주저앉는 컷오프 비명계…기동민도 당 잔류, 홍영표 선택은",
-                    "link": "https://www.kpinews.kr/newsView/1065580191319657"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 09:28:00 +0900",
-                    "title": "[부평을] 새미래 홍영표 \"이재명 사당화 공천 부당, 유권자가 심판\"",
-                    "link": "http://www.incheontoday.com/news/articleView.html?idxno=244224"
-                }
-            ],
-            "정당": "새로운미래",
-            "이름": "홍영표",
-            "연도별_재산": [
-                {
-                    "연도": 2020,
-                    "재산": 1003455
-                },
-                {
-                    "연도": 2021,
-                    "재산": 1038804
-                },
-                {
-                    "연도": 2022,
-                    "재산": 1132344
-                },
-                {
-                    "연도": 2023,
-                    "재산": 1450437
-                }
-            ],
-            "huboid": "100152822",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100152822/junkwa/20240321163842493_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구을_홍영표_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100152822_20240330_1.pdf"
-        }
-    ]
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-1.jpg",
+    "id": "2280602-1",
+    "재산": 707161,
+    "생년월일": "19630114",
+    "경력": "(전) 노무현대통령 통일외교안보전략비서관\n(전) 문재인정부 국가정보원 제1차장",
+    "학력": "영국 워릭대학교 국제정치학 박사(1995.10.~2000.2)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2280602",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+        "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+        "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:20:00 +0900",
+        "title": "[총선현장] '부평을' 박선원 \"말로는 누구나 떠들어…몸으로 뛰는 대행자 되겠...",
+        "link": "https://www.newspim.com/news/view/20240329000730"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:22:00 +0900",
+        "title": "[인천 부평을] 민주당 박선원 45.4%, 국민의힘 이현웅 35.2%, 새미래 홍영표 ...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428273?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:38:00 +0900",
+        "title": "부평을, 박선원 45.4% 이현웅 35.2%…춘천갑, 허영 49.8% 김혜란 42.4%",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448946?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박선원",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 707161
+      }
+    ],
+    "huboid": "100152899",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280602-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-2.jpg",
+    "id": "2280602-2",
+    "재산": 2147318,
+    "생년월일": "19700704",
+    "경력": "(전) 제20대 국회의원선거 부평구을선거구 후보\n(전) 인하대학교 로스쿨 겸임교수",
+    "학력": "연세대학교 법과대학 법학과 졸업",
+    "직업": "변호사",
+    "성별": "남",
+    "regionId": "2280602",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+        "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:14:00 +0900",
+        "title": "국민의힘 강창규 전 당협위원장, 맹장 수술 후 이현웅 후보 지원 나서",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401026043885"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+        "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:22:00 +0900",
+        "title": "[인천 부평을] 민주당 박선원 45.4%, 국민의힘 이현웅 35.2%, 새미래 홍영표 ...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428273?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:38:00 +0900",
+        "title": "부평을, 박선원 45.4% 이현웅 35.2%…춘천갑, 허영 49.8% 김혜란 42.4%",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448946?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "이현웅",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2147318
+      }
+    ],
+    "huboid": "100152918",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280602-2.jpg"
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-5.jpg",
+    "id": "2280602-5",
+    "재산": 134269,
+    "생년월일": "19721212",
+    "경력": "(전) 정의당 부대표\n(현) 부평미군기지반환 인천시민회의 공동대표",
+    "학력": "인천대학교 공과대학 기계공학과 졸업(공학사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2280602",
+    "기호": 5,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:36:00 +0900",
+        "title": "김응호 녹색정의당 부평을 후보, 한국지엠 노동자들과 정책협약식 진행",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645174"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:34:00 +0900",
+        "title": "녹색정의당 김종대 선대위원장, 인천 유일 김응호 후보 지원 사격",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240330022303306"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:06:00 +0900",
+        "title": "[총선] 인천 부평을...홍영표 vs 박선원 vs 이현웅 vs 김응호, 본격 유세 '돌...",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=384531"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:30:00 +0900",
+        "title": "김응호 녹색정의당 부평을 후보, 선거 운동 출정식 진행",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644207"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:14:00 +0900",
+        "title": "[부평을] 인천 유일 진보정당 녹색정의 김응호 \"국가책임 돌봄 실현\"",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244136"
+      }
+    ],
+    "정당": "녹색정의당",
+    "이름": "김응호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 134269
+      }
+    ],
+    "huboid": "100153031",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280602-5.jpg"
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280602-6.jpg",
+    "id": "2280602-6",
+    "재산": 1450437,
+    "생년월일": "19570430",
+    "경력": "(전) 더불어민주당 원내대표\n(전) 국무총리비서실 시민사회비서관",
+    "학력": "동국대학교 대학원 행정학과 박사과정 수료",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "680",
+    "regionId": "2280602",
+    "기호": 6,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+        "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:56:00 +0900",
+        "title": "이낙연·홍영표·조응천·이원욱… 지역구서 힘 못쓰는 민주 탈당파",
+        "link": "https://n.news.naver.com/mnews/article/029/0002865056?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
+        "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:06:00 +0900",
+        "title": "속속 주저앉는 컷오프 비명계…기동민도 당 잔류, 홍영표 선택은",
+        "link": "https://www.kpinews.kr/newsView/1065580191319657"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:28:00 +0900",
+        "title": "[부평을] 새미래 홍영표 \"이재명 사당화 공천 부당, 유권자가 심판\"",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244224"
+      }
+    ],
+    "정당": "새로운미래",
+    "이름": "홍영표",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1003455
+      },
+      {
+        "연도": 2021,
+        "재산": 1038804
+      },
+      {
+        "연도": 2022,
+        "재산": 1132344
+      },
+      {
+        "연도": 2023,
+        "재산": 1450437
+      }
+    ],
+    "huboid": "100152822",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280602-6.jpg"
+  }
 ]

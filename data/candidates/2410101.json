@@ -1,173 +1,168 @@
 [
-    [
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-1.jpg",
-            "id": "2410101-1",
-            "재산": 468269,
-            "생년월일": "19690708",
-            "경력": "(현)국회의원\n(전)전주 ㆍ수원지방법원 판사",
-            "학력": "서울대학교 법과대학 공법학과 졸업",
-            "직업": "국회의원",
-            "성별": "남",
-            "id_21th": "1094",
-            "regionId": "2410101",
-            "기호": 1,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Wed, 03 Apr 2024 01:34:00 +0900",
-                    "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 20:30:00 +0900",
-                    "title": "김승원 수원시갑 후보, 지역사회 돌봄체계 구축 강조",
-                    "link": "https://www.newscj.com/news/articleView.html?idxno=3125406"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:58:00 +0900",
-                    "title": "김승원 수원갑 후보, 동남보건대 찾아 \"미래혁명 함께 완수하자\" 제안",
-                    "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081558"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:34:00 +0900",
-                    "title": "김승원 민주당 수원갑 후보, 동남보건대서 “미래혁명 함께 완수하자”",
-                    "link": "https://www.nspna.com/news/?mode=view&newsid=691496"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 17:24:00 +0900",
-                    "title": "[총선] 김승원 수원갑 후보, '초고령화 시대' 동남보건대·수원의료원 역할 강...",
-                    "link": "https://news.ifm.kr/news/articleView.html?idxno=384906"
-                }
-            ],
-            "정당": "더불어민주당",
-            "이름": "김승원",
-            "연도별_재산": [
-                {
-                    "연도": 2020,
-                    "재산": 374895
-                },
-                {
-                    "연도": 2021,
-                    "재산": 412101
-                },
-                {
-                    "연도": 2022,
-                    "재산": 425800
-                },
-                {
-                    "연도": 2023,
-                    "재산": 468269
-                }
-            ],
-            "huboid": "100152655",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4101/Hb100152655/junkwa/20240207163754027_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수원시갑_김승원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4101/003_100152655_20240329_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-2.jpg",
-            "id": "2410101-2",
-            "재산": 5362107,
-            "생년월일": "19681010",
-            "경력": "(전)국세청장\n(전)한국토지주택공사 사장",
-            "학력": "서울대학교 경영학과 졸업",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2410101",
-            "기호": 2,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Wed, 03 Apr 2024 01:34:00 +0900",
-                    "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:58:00 +0900",
-                    "title": "김현준 수원갑 후보, 장안구 종합 교통대책 발표",
-                    "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081557"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 11:16:00 +0900",
-                    "title": "김현준(수원시 갑선거구(장안구)) 국민의힘 국회의원 후보, “장안구 종합 교...",
-                    "link": "https://www.viva100.com/main/view.php?key=20240402010000624"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 10:38:00 +0900",
-                    "title": "김현준 후보, 교통망 확충 등 장안구 종합 교통대책 추진",
-                    "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/02/2024040200076.html"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 08:14:00 +0900",
-                    "title": "[22 총선] 김현준 후보, '장안구 종합 교통대책' 발표",
-                    "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304335"
-                }
-            ],
-            "정당": "국민의힘",
-            "이름": "김현준",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 5362107
-                }
-            ],
-            "huboid": "100151323",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4101/Hb100151323/junkwa/20231212142703620_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수원시갑_김현준_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4101/003_100151323_20240329_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-7.jpg",
-            "id": "2410101-7",
-            "재산": 270979,
-            "생년월일": "19870528",
-            "경력": "(현)개혁신당 이준석 당대표 정책특보\n(전)이찬열 국회의원 비서",
-            "학력": "고려대학교 문화스포츠대학원 사회복지학과 석사과정 재학중",
-            "직업": "방송인",
-            "성별": "남",
-            "regionId": "2410101",
-            "기호": 7,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Fri, 29 Mar 2024 10:17:00 +0900",
-                    "title": "개혁신당 정희윤 후보, 이색 선거운동 눈길",
-                    "link": "https://n.news.naver.com/mnews/article/002/0002325538?sid=102"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 16:24:00 +0900",
-                    "title": "[중부포토] 거리유세 하는 개혁신당 수원갑 정희윤 후보",
-                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363644103"
-                },
-                {
-                    "date": "Mon, 25 Mar 2024 10:36:00 +0900",
-                    "title": "개혁신당 정희윤 \"재개발도 중요하지만, 생존권 보장 필요\"",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002427207?sid=165"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:24:00 +0900",
-                    "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
-                    "link": "https://www.newspim.com/news/view/20240308000944"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:10:00 +0900",
-                    "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
-                    "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
-                }
-            ],
-            "정당": "개혁신당",
-            "이름": "정희윤",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 270979
-                }
-            ],
-            "huboid": "100152722",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4101/Hb100152722/junkwa/20240214165420010_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수원시갑_정희윤_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4101/003_100152722_20240329_1.pdf"
-        }
-    ]
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-1.jpg",
+    "id": "2410101-1",
+    "재산": 468269,
+    "생년월일": "19690708",
+    "경력": "(현)국회의원\n(전)전주 ㆍ수원지방법원 판사",
+    "학력": "서울대학교 법과대학 공법학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1094",
+    "regionId": "2410101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:34:00 +0900",
+        "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+        "title": "김승원 수원시갑 후보, 지역사회 돌봄체계 구축 강조",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3125406"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+        "title": "김승원 수원갑 후보, 동남보건대 찾아 \"미래혁명 함께 완수하자\" 제안",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081558"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+        "title": "김승원 민주당 수원갑 후보, 동남보건대서 “미래혁명 함께 완수하자”",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=691496"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:24:00 +0900",
+        "title": "[총선] 김승원 수원갑 후보, '초고령화 시대' 동남보건대·수원의료원 역할 강...",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=384906"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김승원",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 374895
+      },
+      {
+        "연도": 2021,
+        "재산": 412101
+      },
+      {
+        "연도": 2022,
+        "재산": 425800
+      },
+      {
+        "연도": 2023,
+        "재산": 468269
+      }
+    ],
+    "huboid": "100152655",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410101-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-2.jpg",
+    "id": "2410101-2",
+    "재산": 5362107,
+    "생년월일": "19681010",
+    "경력": "(전)국세청장\n(전)한국토지주택공사 사장",
+    "학력": "서울대학교 경영학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2410101",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:34:00 +0900",
+        "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:58:00 +0900",
+        "title": "김현준 수원갑 후보, 장안구 종합 교통대책 발표",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081557"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:16:00 +0900",
+        "title": "김현준(수원시 갑선거구(장안구)) 국민의힘 국회의원 후보, “장안구 종합 교...",
+        "link": "https://www.viva100.com/main/view.php?key=20240402010000624"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:38:00 +0900",
+        "title": "김현준 후보, 교통망 확충 등 장안구 종합 교통대책 추진",
+        "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/02/2024040200076.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 08:14:00 +0900",
+        "title": "[22 총선] 김현준 후보, '장안구 종합 교통대책' 발표",
+        "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304335"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김현준",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 5362107
+      }
+    ],
+    "huboid": "100151323",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410101-2.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410101-7.jpg",
+    "id": "2410101-7",
+    "재산": 270979,
+    "생년월일": "19870528",
+    "경력": "(현)개혁신당 이준석 당대표 정책특보\n(전)이찬열 국회의원 비서",
+    "학력": "고려대학교 문화스포츠대학원 사회복지학과 석사과정 재학중",
+    "직업": "방송인",
+    "성별": "남",
+    "regionId": "2410101",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 29 Mar 2024 10:17:00 +0900",
+        "title": "개혁신당 정희윤 후보, 이색 선거운동 눈길",
+        "link": "https://n.news.naver.com/mnews/article/002/0002325538?sid=102"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:24:00 +0900",
+        "title": "[중부포토] 거리유세 하는 개혁신당 수원갑 정희윤 후보",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644103"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 10:36:00 +0900",
+        "title": "개혁신당 정희윤 \"재개발도 중요하지만, 생존권 보장 필요\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427207?sid=165"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:24:00 +0900",
+        "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
+        "link": "https://www.newspim.com/news/view/20240308000944"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:10:00 +0900",
+        "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "정희윤",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 270979
+      }
+    ],
+    "huboid": "100152722",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410101-7.jpg"
+  }
 ]

@@ -1,173 +1,168 @@
 [
-    [
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-1.jpg",
-            "id": "2111102-1",
-            "재산": 1012801,
-            "생년월일": "19651015",
-            "경력": "(전) 민선5,6기 노원구청장\n(현) 제21대 국회의원",
-            "학력": "연세대학교 행정대학원 도시및지방행정전공 졸업(행정학 석사)",
-            "직업": "국회의원",
-            "성별": "남",
-            "id_21th": "1026",
-            "regionId": "2111102",
-            "기호": 1,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Wed, 03 Apr 2024 00:04:00 +0900",
-                    "title": "[광주 동구남구을] 민주당 안도걸 56%, 무소속 김성환 20%, 국민의힘 박은식 ...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428653?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:01:00 +0900",
-                    "title": "[총선 여론조사]'정치 1번지' 광주 동남을 안도걸 56%·김성환 20%",
-                    "link": "https://n.news.naver.com/mnews/article/003/0012467187?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 17:00:00 +0900",
-                    "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
-                    "link": "https://www.newspim.com/news/view/20240402000595"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-                    "title": "[광주 동구남구을] 민주당 안도걸 60%, 무소속 김성환 13%, 국민의힘 박은식 ...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428422?sid=165"
-                },
-                {
-                    "date": "Wed, 27 Mar 2024 11:52:00 +0900",
-                    "title": "무소속 김성환 후보, '안도걸 후보 주변 선거법 위반 혐의 신속 수사 촉구'",
-                    "link": "http://www.newstnt.com/news/articleView.html?idxno=357075"
-                }
-            ],
-            "정당": "더불어민주당",
-            "이름": "김성환",
-            "연도별_재산": [
-                {
-                    "연도": 2020,
-                    "재산": 670058
-                },
-                {
-                    "연도": 2021,
-                    "재산": 1067292
-                },
-                {
-                    "연도": 2022,
-                    "재산": 1003179
-                },
-                {
-                    "연도": 2023,
-                    "재산": 1012801
-                }
-            ],
-            "huboid": "100152795",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100152795/junkwa/20240314112840543_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_노원구을_김성환_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1111/003_100152795_20240330_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-2.jpg",
-            "id": "2111102-2",
-            "재산": 1408447,
-            "생년월일": "19881013",
-            "경력": "(전) 서울대학교 국가재정연구센터 연구원\n(현) 국민의힘 노원구을 조직위원장",
-            "학력": "서울대학교 행정대학원 행정학과 졸업 (정책학 석사)",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2111102",
-            "기호": 2,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 17:00:00 +0900",
-                    "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
-                    "link": "https://www.newspim.com/news/view/20240402000595"
-                },
-                {
-                    "date": "Tue, 26 Mar 2024 18:34:00 +0900",
-                    "title": "노원 창동차량기지…김성환 '바이오' VS 김준호 '반도체'(B tv 서울뉴스)",
-                    "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168223"
-                },
-                {
-                    "date": "Thu, 21 Mar 2024 18:54:00 +0900",
-                    "title": "노원을 與 김준호 \"김성환, 내 모교에 신상 자료 뒷조사\"",
-                    "link": "https://n.news.naver.com/mnews/article/015/0004963054?sid=165"
-                },
-                {
-                    "date": "Mon, 18 Mar 2024 06:02:00 +0900",
-                    "title": "[Hot한 후보, Hot한 지역구] 민주 텃밭에 도전장 낸 30대 젊은 피 김준호",
-                    "link": "https://www.ajunews.com/view/20240317110409609"
-                },
-                {
-                    "date": "Sun, 17 Mar 2024 11:40:00 +0900",
-                    "title": "與김준호 \"상계·중계주민 곁이 우선…노원 발전에 최선\"[총선人]",
-                    "link": "https://n.news.naver.com/mnews/article/018/0005693843?sid=165"
-                }
-            ],
-            "정당": "국민의힘",
-            "이름": "김준호",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1408447
-                }
-            ],
-            "huboid": "100152956",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100152956/junkwa/20240306172212300_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_노원구을_김준호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1111/003_100152956_20240330_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-7.jpg",
-            "id": "2111102-7",
-            "재산": 1941368,
-            "생년월일": "19540928",
-            "경력": "(전) 세종대학교 자연과학대학 학장(교수)\n(현) 밝은누리모임 대표",
-            "학력": "(미국) 텍사스 오스틴 대학교 대학원 졸업(물리학 박사, 1984.09.~1990.08)",
-            "직업": "자유업(정치개혁운동)",
-            "성별": "남",
-            "regionId": "2111102",
-            "기호": 7,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 19 Mar 2024 18:36:00 +0900",
-                    "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
-                    "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
-                },
-                {
-                    "date": "Thu, 08 Feb 2024 09:16:00 +0900",
-                    "title": "[설특집: 22대 총선 수도권 대진표-서울] 49개 선거구 여야 예비후보 240여 명",
-                    "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483911"
-                },
-                {
-                    "date": "Wed, 05 Apr 2023 17:01:00 +0900",
-                    "title": "민형배 \"'반도체 특화단지' 평가 기준 수도권에 일방적 유리\"",
-                    "link": "https://n.news.naver.com/mnews/article/421/0006729663?sid=102"
-                },
-                {
-                    "date": "Tue, 07 Feb 2023 15:32:00 +0900",
-                    "title": "국회, 경제 대정부질문 난방비 폭등 공방",
-                    "link": "https://www.gukjenews.com/news/articleView.html?idxno=2650100"
-                },
-                {
-                    "date": "Sat, 29 Sep 2012 10:48:00 +0900",
-                    "title": "추석 연휴 직전 대구경북 방문 박근혜 후보 \"신세 갚고 보답드리는 기회…\"",
-                    "link": "https://n.news.naver.com/mnews/article/088/0000261221"
-                }
-            ],
-            "정당": "무소속",
-            "이름": "이창영",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1941368
-                }
-            ],
-            "huboid": "100151735",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1111/Hb100151735/junkwa/20231222155930451_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_노원구을_이창영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1111/003_100151735_20240330_1.pdf"
-        }
-    ]
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-1.jpg",
+    "id": "2111102-1",
+    "재산": 1012801,
+    "생년월일": "19651015",
+    "경력": "(전) 민선5,6기 노원구청장\n(현) 제21대 국회의원",
+    "학력": "연세대학교 행정대학원 도시및지방행정전공 졸업(행정학 석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1026",
+    "regionId": "2111102",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+        "title": "[광주 동구남구을] 민주당 안도걸 56%, 무소속 김성환 20%, 국민의힘 박은식 ...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428653?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:01:00 +0900",
+        "title": "[총선 여론조사]'정치 1번지' 광주 동남을 안도걸 56%·김성환 20%",
+        "link": "https://n.news.naver.com/mnews/article/003/0012467187?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+        "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
+        "link": "https://www.newspim.com/news/view/20240402000595"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+        "title": "[광주 동구남구을] 민주당 안도걸 60%, 무소속 김성환 13%, 국민의힘 박은식 ...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428422?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 11:52:00 +0900",
+        "title": "무소속 김성환 후보, '안도걸 후보 주변 선거법 위반 혐의 신속 수사 촉구'",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=357075"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김성환",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 670058
+      },
+      {
+        "연도": 2021,
+        "재산": 1067292
+      },
+      {
+        "연도": 2022,
+        "재산": 1003179
+      },
+      {
+        "연도": 2023,
+        "재산": 1012801
+      }
+    ],
+    "huboid": "100152795",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111102-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-2.jpg",
+    "id": "2111102-2",
+    "재산": 1408447,
+    "생년월일": "19881013",
+    "경력": "(전) 서울대학교 국가재정연구센터 연구원\n(현) 국민의힘 노원구을 조직위원장",
+    "학력": "서울대학교 행정대학원 행정학과 졸업 (정책학 석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111102",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+        "title": "[총선 격전지] '3선 도전' 김성환 vs '30대 패기' 김준호…노원을 맞대결",
+        "link": "https://www.newspim.com/news/view/20240402000595"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:34:00 +0900",
+        "title": "노원 창동차량기지…김성환 '바이오' VS 김준호 '반도체'(B tv 서울뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168223"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 18:54:00 +0900",
+        "title": "노원을 與 김준호 \"김성환, 내 모교에 신상 자료 뒷조사\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0004963054?sid=165"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 06:02:00 +0900",
+        "title": "[Hot한 후보, Hot한 지역구] 민주 텃밭에 도전장 낸 30대 젊은 피 김준호",
+        "link": "https://www.ajunews.com/view/20240317110409609"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 11:40:00 +0900",
+        "title": "與김준호 \"상계·중계주민 곁이 우선…노원 발전에 최선\"[총선人]",
+        "link": "https://n.news.naver.com/mnews/article/018/0005693843?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김준호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1408447
+      }
+    ],
+    "huboid": "100152956",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111102-2.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-7.jpg",
+    "id": "2111102-7",
+    "재산": 1941368,
+    "생년월일": "19540928",
+    "경력": "(전) 세종대학교 자연과학대학 학장(교수)\n(현) 밝은누리모임 대표",
+    "학력": "(미국) 텍사스 오스틴 대학교 대학원 졸업(물리학 박사, 1984.09.~1990.08)",
+    "직업": "자유업(정치개혁운동)",
+    "성별": "남",
+    "regionId": "2111102",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 19 Mar 2024 18:36:00 +0900",
+        "title": "[4.10 총선 날씨 예보] 노원구편 (B tv 서울뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=167944"
+      },
+      {
+        "date": "Thu, 08 Feb 2024 09:16:00 +0900",
+        "title": "[설특집: 22대 총선 수도권 대진표-서울] 49개 선거구 여야 예비후보 240여 명",
+        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483911"
+      },
+      {
+        "date": "Wed, 05 Apr 2023 17:01:00 +0900",
+        "title": "민형배 \"'반도체 특화단지' 평가 기준 수도권에 일방적 유리\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0006729663?sid=102"
+      },
+      {
+        "date": "Tue, 07 Feb 2023 15:32:00 +0900",
+        "title": "국회, 경제 대정부질문 난방비 폭등 공방",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2650100"
+      },
+      {
+        "date": "Sat, 29 Sep 2012 10:48:00 +0900",
+        "title": "추석 연휴 직전 대구경북 방문 박근혜 후보 \"신세 갚고 보답드리는 기회…\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0000261221"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "이창영",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1941368
+      }
+    ],
+    "huboid": "100151735",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111102-7.jpg"
+  }
 ]

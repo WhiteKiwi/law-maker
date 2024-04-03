@@ -1,160 +1,155 @@
 [
-    [
-        {
-            "id": "2112401-1",
-            "regionId": "2112401",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-1.jpg",
-            "기호": 1,
-            "이름": "조재희",
-            "생년월일": "19590217",
-            "정당": "더불어민주당",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
-            "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
-            "재산": 402525,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 09:07:00 +0900",
-                    "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
-                    "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 16:14:00 +0900",
-                    "title": "고3·송파맘에 달렸다…‘새인물’ 박정훈 vs ‘4수’ 조재희 [배틀필드410]",
-                    "link": "https://www.etoday.co.kr/news/view/2346492"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 18:40:00 +0900",
-                    "title": "[총선★나도뛴다] 조재희 \"송파 전문가, 한성백제 역사문화 신도시 건설\"",
-                    "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018315"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 12:08:00 +0900",
-                    "title": "조재희 후보 지지 호소하는 박용진 의원",
-                    "link": "https://n.news.naver.com/mnews/article/001/0014600395?sid=100"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 12:08:00 +0900",
-                    "title": "조재희 후보 지지 호소하는 박용진 의원",
-                    "link": "https://n.news.naver.com/mnews/article/001/0014600394?sid=100"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 402525
-                }
-            ],
-            "huboid": "100151711",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100151711/junkwa/20231219180616202_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_송파구갑_조재희_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1124/003_100151711_20240329_1.pdf"
-        },
-        {
-            "id": "2112401-2",
-            "regionId": "2112401",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-2.jpg",
-            "기호": 2,
-            "이름": "박정훈",
-            "생년월일": "19710208",
-            "정당": "국민의힘",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
-            "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
-            "재산": 3230376,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 15:06:00 +0900",
-                    "title": "박정훈 \"범야권 200석시 이재명 공화국\"…與 내부, 총선 '위기감'",
-                    "link": "https://n.news.naver.com/mnews/article/448/0000453769?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 10:02:00 +0900",
-                    "title": "박정훈 \"야권 200석 되면 이재명 공화국 될 것…총선서 심판해야\"",
-                    "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001004"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 09:17:00 +0900",
-                    "title": "[전종철의 전격시사] - 박정훈 서울 송파갑 후보 (국민의힘) - “야당 200석 ...",
-                    "link": "https://n.news.naver.com/mnews/article/056/0011693380?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-                    "title": "與 송파갑 박정훈, 요리사 복장으로 공약 홍보 눈길",
-                    "link": "https://n.news.naver.com/mnews/article/022/0003920142?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 16:20:00 +0900",
-                    "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
-                    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 3230376
-                }
-            ],
-            "huboid": "100152140",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100152140/junkwa/20240112161959252_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_송파구갑_박정훈_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1124/003_100152140_20240329_1.pdf"
-        },
-        {
-            "id": "2112401-7",
-            "regionId": "2112401",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-7.jpg",
-            "기호": 7,
-            "이름": "송재열",
-            "생년월일": "19800715",
-            "정당": "개혁신당",
-            "성별": "남",
-            "직업": "송재열교육개혁연구소 소장",
-            "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
-            "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
-            "재산": -78984,
-            "군필여부": true,
-            "전과건수": 5,
-            "news": [
-                {
-                    "date": "Fri, 08 Mar 2024 17:54:00 +0900",
-                    "title": "[선택4·10] 개혁신당, 양향자 용인갑·조응천 남양주갑·류호정 분당갑 등 경...",
-                    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060212"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:38:00 +0900",
-                    "title": "개혁신당, 양향자·조응천·류호정 등 공천…수도권 다수 포진",
-                    "link": "https://n.news.naver.com/mnews/article/031/0000818877?sid=100"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:32:00 +0900",
-                    "title": "류호정 \"서운한 것 없다\" 이준석 \"뜻 맞출 수 있다\"…개혁신당 35명 공천",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:24:00 +0900",
-                    "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
-                    "link": "https://www.newspim.com/news/view/20240308000944"
-                },
-                {
-                    "date": "Fri, 08 Mar 2024 17:10:00 +0900",
-                    "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
-                    "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": -78984
-                }
-            ],
-            "huboid": "100152906",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1124/Hb100152906/junkwa/20240229181920510_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_송파구갑_송재열_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1124/003_100152906_20240329_1.pdf"
-        }
-    ]
+  {
+    "id": "2112401-1",
+    "regionId": "2112401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-1.jpg",
+    "기호": 1,
+    "이름": "조재희",
+    "생년월일": "19590217",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
+    "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
+    "재산": 402525,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 09:07:00 +0900",
+        "title": "[전종철의 전격시사] - 조재희 서울 송파갑 후보 (더불어민주당) - “현 정권...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693376?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:14:00 +0900",
+        "title": "고3·송파맘에 달렸다…‘새인물’ 박정훈 vs ‘4수’ 조재희 [배틀필드410]",
+        "link": "https://www.etoday.co.kr/news/view/2346492"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 18:40:00 +0900",
+        "title": "[총선★나도뛴다] 조재희 \"송파 전문가, 한성백제 역사문화 신도시 건설\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240331010018315"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+        "title": "조재희 후보 지지 호소하는 박용진 의원",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600395?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:08:00 +0900",
+        "title": "조재희 후보 지지 호소하는 박용진 의원",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600394?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 402525
+      }
+    ],
+    "huboid": "100151711",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112401-1.jpg"
+  },
+  {
+    "id": "2112401-2",
+    "regionId": "2112401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-2.jpg",
+    "기호": 2,
+    "이름": "박정훈",
+    "생년월일": "19710208",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
+    "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
+    "재산": 3230376,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+        "title": "박정훈 \"범야권 200석시 이재명 공화국\"…與 내부, 총선 '위기감'",
+        "link": "https://n.news.naver.com/mnews/article/448/0000453769?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:02:00 +0900",
+        "title": "박정훈 \"야권 200석 되면 이재명 공화국 될 것…총선서 심판해야\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240402010001004"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:17:00 +0900",
+        "title": "[전종철의 전격시사] - 박정훈 서울 송파갑 후보 (국민의힘) - “야당 200석 ...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693380?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+        "title": "與 송파갑 박정훈, 요리사 복장으로 공약 홍보 눈길",
+        "link": "https://n.news.naver.com/mnews/article/022/0003920142?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+        "title": "[총선핫스팟] 보수 텃밭 서울 송파갑도 접전, ‘언론인’ 국힘 박정훈 vs ‘지...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347626"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3230376
+      }
+    ],
+    "huboid": "100152140",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112401-2.jpg"
+  },
+  {
+    "id": "2112401-7",
+    "regionId": "2112401",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112401-7.jpg",
+    "기호": 7,
+    "이름": "송재열",
+    "생년월일": "19800715",
+    "정당": "개혁신당",
+    "성별": "남",
+    "직업": "송재열교육개혁연구소 소장",
+    "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
+    "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
+    "재산": -78984,
+    "군필여부": true,
+    "전과건수": 5,
+    "news": [
+      {
+        "date": "Fri, 08 Mar 2024 17:54:00 +0900",
+        "title": "[선택4·10] 개혁신당, 양향자 용인갑·조응천 남양주갑·류호정 분당갑 등 경...",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060212"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:38:00 +0900",
+        "title": "개혁신당, 양향자·조응천·류호정 등 공천…수도권 다수 포진",
+        "link": "https://n.news.naver.com/mnews/article/031/0000818877?sid=100"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:32:00 +0900",
+        "title": "류호정 \"서운한 것 없다\" 이준석 \"뜻 맞출 수 있다\"…개혁신당 35명 공천",
+        "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:24:00 +0900",
+        "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
+        "link": "https://www.newspim.com/news/view/20240308000944"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:10:00 +0900",
+        "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -78984
+      }
+    ],
+    "huboid": "100152906",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112401-7.jpg"
+  }
 ]

@@ -1,108 +1,104 @@
 [
-    [
-        {
-            "id": "2260501-1",
-            "regionId": "2260501",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
-            "기호": 1,
-            "이름": "서은숙",
-            "생년월일": "19670925",
-            "정당": "더불어민주당",
-            "성별": "여",
-            "직업": "정당인",
-            "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
-            "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
-            "재산": 106303,
-            "군필여부": false,
-            "전과건수": 1,
-            "news": [
-                {
-                    "date": "Mon, 01 Apr 2024 16:56:00 +0900",
-                    "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
-                    "link": "http://www.mhj21.com/160226"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 20:19:00 +0900",
-                    "title": "민주 서은숙 “투표혁명 부산 디비질 것”",
-                    "link": "https://n.news.naver.com/mnews/article/658/0000070040?sid=165"
-                },
-                {
-                    "date": "Fri, 29 Mar 2024 14:41:00 +0900",
-                    "title": "'친명' 서은숙 vs '친한' 정성국…'민심 바로미터' 부산진갑 표심은",
-                    "link": "https://n.news.naver.com/mnews/article/079/0003879670?sid=165"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 14:53:00 +0900",
-                    "title": "부산진구갑 서은숙 후보 \"부산진구 미래 100년을 그리겠다\"",
-                    "link": "https://www.newspim.com/news/view/20240328000877"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 14:44:00 +0900",
-                    "title": "서은숙 후보 출정식, 공식선거운동 돌입 \"버스 노선 조정 피해 민원 청취\"",
-                    "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955553"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 106303
-                }
-            ],
-            "huboid": "100151103",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2605/Hb100151103/junkwa/20231212150633083_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부산진구갑_서은숙_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2605/003_100151103_20240331_2.pdf"
-        },
-        {
-            "id": "2260501-2",
-            "regionId": "2260501",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
-            "기호": 2,
-            "이름": "정성국",
-            "생년월일": "19710403",
-            "정당": "국민의힘",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
-            "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
-            "재산": 305797,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 14:08:00 +0900",
-                    "title": "국힘 정성국 \"부산진구, 교육특구로…지역문제 해결 힘 있는 후보\"[인터뷰]",
-                    "link": "https://n.news.naver.com/mnews/article/003/0012466260?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 11:23:00 +0900",
-                    "title": "한동훈 위원장, 부산진갑 정성국 후보 지원 유세 나서",
-                    "link": "https://n.news.naver.com/mnews/article/382/0001117175?sid=102"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 18:56:00 +0900",
-                    "title": "한동훈, 정성국 후보 지원 유세 \"이번 4.10총선에서 더불어민주당을 꼭 심판해...",
-                    "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 18:44:00 +0900",
-                    "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
-                    "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 18:38:00 +0900",
-                    "title": "[포토] 한동훈, 정성국 지원유세 “부산이 변하려면 심장인 부산진구가 변해야...",
-                    "link": "https://www.viva100.com/main/view.php?key=20240401010000438"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 305797
-                }
-            ],
-            "huboid": "100152623",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2605/Hb100152623/junkwa/20240206135829744_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부산진구갑_정성국_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2605/003_100152623_20240331_1.pdf"
-        }
-    ]
+  {
+    "id": "2260501-1",
+    "regionId": "2260501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
+    "기호": 1,
+    "이름": "서은숙",
+    "생년월일": "19670925",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
+    "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
+    "재산": 106303,
+    "군필여부": false,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+        "title": "[4.10총선-178] 부산 진갑, 서은숙vs정성국. 오차범위 경합",
+        "link": "http://www.mhj21.com/160226"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:19:00 +0900",
+        "title": "민주 서은숙 “투표혁명 부산 디비질 것”",
+        "link": "https://n.news.naver.com/mnews/article/658/0000070040?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:41:00 +0900",
+        "title": "'친명' 서은숙 vs '친한' 정성국…'민심 바로미터' 부산진갑 표심은",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879670?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:53:00 +0900",
+        "title": "부산진구갑 서은숙 후보 \"부산진구 미래 100년을 그리겠다\"",
+        "link": "https://www.newspim.com/news/view/20240328000877"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:44:00 +0900",
+        "title": "서은숙 후보 출정식, 공식선거운동 돌입 \"버스 노선 조정 피해 민원 청취\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955553"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 106303
+      }
+    ],
+    "huboid": "100151103",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260501-1.jpg"
+  },
+  {
+    "id": "2260501-2",
+    "regionId": "2260501",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
+    "기호": 2,
+    "이름": "정성국",
+    "생년월일": "19710403",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
+    "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
+    "재산": 305797,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 14:08:00 +0900",
+        "title": "국힘 정성국 \"부산진구, 교육특구로…지역문제 해결 힘 있는 후보\"[인터뷰]",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466260?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:23:00 +0900",
+        "title": "한동훈 위원장, 부산진갑 정성국 후보 지원 유세 나서",
+        "link": "https://n.news.naver.com/mnews/article/382/0001117175?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+        "title": "한동훈, 정성국 후보 지원 유세 \"이번 4.10총선에서 더불어민주당을 꼭 심판해...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317404"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:44:00 +0900",
+        "title": "국민의힘 한동훈 비대위원장, 정성국 부산진구갑 후보 지원 유세 나서",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515354"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+        "title": "[포토] 한동훈, 정성국 지원유세 “부산이 변하려면 심장인 부산진구가 변해야...",
+        "link": "https://www.viva100.com/main/view.php?key=20240401010000438"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 305797
+      }
+    ],
+    "huboid": "100152623",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260501-2.jpg"
+  }
 ]

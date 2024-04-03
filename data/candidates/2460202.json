@@ -1,212 +1,206 @@
 [
-    [
-        {
-            "id": "2460202-1",
-            "regionId": "2460202",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-1.jpg",
-            "기호": 1,
-            "이름": "조계원",
-            "생년월일": "19660824",
-            "정당": "더불어민주당",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "성균관대학교 신문방송학과 졸업",
-            "경력": "(현)더불어민주당 중앙당 부대변인\n(전)이재명 경기도지사 정책수석",
-            "재산": 552920,
-            "군필여부": true,
-            "전과건수": 1,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 19:16:00 +0900",
-                    "title": "여수을 조계원 \"권오봉, 토론 참가 요청도 안하고 무슨\"",
-                    "link": "https://n.news.naver.com/mnews/article/079/0003881091?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:44:00 +0900",
-                    "title": "조계원 후보, 권오봉 후보 공개질의에 답하다",
-                    "link": "http://www.netongs.com/news/articleView.html?idxno=318791"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 17:12:00 +0900",
-                    "title": "[2024 총선]여수을 조계원 후보, \"요청도 안했는데 알아서 모셔야 하나\"",
-                    "link": "http://www.namdonews.com/news/articleView.html?idxno=765369"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 16:40:00 +0900",
-                    "title": "여수을 민주당 조계원, '청년 일자리' 관련 정책 공약 발표",
-                    "link": "https://n.news.naver.com/mnews/article/629/0000278180?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 16:34:00 +0900",
-                    "title": "여수을 조계원, 일자리 가득한 기회의 땅 청년도시 여수 ‘공약’",
-                    "link": "https://www.nspna.com/news/?mode=view&newsid=691437"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 552920
-                }
-            ],
-            "huboid": "100151672",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4602/Hb100151672/junkwa/20231218173544302_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_여수시을_조계원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4602/003_100151672_20240329_1.pdf"
-        },
-        {
-            "id": "2460202-2",
-            "regionId": "2460202",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-2.jpg",
-            "기호": 2,
-            "이름": "김희택",
-            "생년월일": "19620209",
-            "정당": "국민의힘",
-            "성별": "남",
-            "직업": "넬종합환경 대표",
-            "학력": "여수수산전문대학 통신과 졸업 (현 전남대학교 여수캠퍼스)",
-            "경력": "(현) 국민의힘 중앙위원회 해양수산분과 부위원장\n(현) 2026 여수세계섬박람회 준비위원회 위원",
-            "재산": 458756,
-            "군필여부": false,
-            "전과건수": 3,
-            "news": [
-                {
-                    "date": "Fri, 15 Mar 2024 14:28:00 +0900",
-                    "title": "순천 방문한 한동훈…\"정말 호남서 당선되고 싶다\"",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002809791?sid=100"
-                },
-                {
-                    "date": "Fri, 15 Mar 2024 14:09:00 +0900",
-                    "title": "호남 찾은 한동훈 “정말 당선되고 싶다” 지지 호소",
-                    "link": "https://n.news.naver.com/mnews/article/022/0003914408?sid=165"
-                },
-                {
-                    "date": "Fri, 15 Mar 2024 13:44:00 +0900",
-                    "title": "한동훈 “정말 호남에서 당선되고 싶다”…“호남 지역구 3석 목표”",
-                    "link": "https://n.news.naver.com/mnews/article/016/0002281025?sid=102"
-                },
-                {
-                    "date": "Fri, 15 Mar 2024 13:34:00 +0900",
-                    "title": "'불모지' 호남 찾은 한동훈 \"정말 당선되고 싶다\"",
-                    "link": "https://www.asiatoday.co.kr/view.php?key=20240315010008376"
-                },
-                {
-                    "date": "Fri, 15 Mar 2024 13:30:00 +0900",
-                    "title": "한동훈, ‘불모지’ 순천 찾아 “정말 호남에서 당선되고 싶다”",
-                    "link": "https://www.etoday.co.kr/news/view/2340676"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 458756
-                }
-            ],
-            "huboid": "100152283",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4602/Hb100152283/junkwa/20240119155138835_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_여수시을_김희택_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4602/003_100152283_20240329_1.pdf"
-        },
-        {
-            "id": "2460202-7",
-            "regionId": "2460202",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-7.jpg",
-            "기호": 7,
-            "이름": "여찬",
-            "생년월일": "19950621",
-            "정당": "진보당",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "순천제일고등학교 졸업",
-            "경력": "(현)진보당 여수시지역위원회 공동위원장\n(현)청년노동희망제작소 대표",
-            "재산": 197315,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Fri, 22 Mar 2024 21:38:00 +0900",
-                    "title": "[선택 4·10 총선]광주·전남 최고령 민주당 박지원 82세·최연소 진보당 여찬...",
-                    "link": "http://www.namdonews.com/news/articleView.html?idxno=763938"
-                },
-                {
-                    "date": "Fri, 22 Mar 2024 21:36:00 +0900",
-                    "title": "전남 총선 출마자 중 최고령 박지원 81세…최연소 28세 여찬",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007430944?sid=165"
-                },
-                {
-                    "date": "Fri, 22 Mar 2024 19:30:00 +0900",
-                    "title": "[4·10총선 후보자 등록] 전남",
-                    "link": "https://n.news.naver.com/mnews/article/421/0007430843?sid=165"
-                },
-                {
-                    "date": "Fri, 22 Mar 2024 19:28:00 +0900",
-                    "title": "22대 총선 후보자 610명 등록...평균 나이 56.5세, 남자가 86%",
-                    "link": "https://www.ajunews.com/view/20240322191334127"
-                },
-                {
-                    "date": "Fri, 22 Mar 2024 19:25:00 +0900",
-                    "title": "[4·10총선 후보 등록] 전남(22일·최종)",
-                    "link": "https://n.news.naver.com/mnews/article/003/0012445444?sid=165"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 197315
-                }
-            ],
-            "huboid": "100151189",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4602/Hb100151189/junkwa/20231212104641467_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_여수시을_여찬_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4602/003_100151189_20240329_1.pdf"
-        },
-        {
-            "id": "2460202-8",
-            "regionId": "2460202",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-8.jpg",
-            "기호": 8,
-            "이름": "권오봉",
-            "생년월일": "19590913",
-            "정당": "무소속",
-            "성별": "남",
-            "직업": "권오봉 행정사 사무소 대표",
-            "학력": "미국 미주리대학교 경제학 석사(2000년5월~2002년5월)",
-            "경력": "(전)제7대 전라남도 여수시 시장\n(전)기획재정부 재정정책 국장",
-            "재산": 1840390,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 19:16:00 +0900",
-                    "title": "여수을 조계원 \"권오봉, 토론 참가 요청도 안하고 무슨\"",
-                    "link": "https://n.news.naver.com/mnews/article/079/0003881091?sid=165"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:44:00 +0900",
-                    "title": "조계원 후보, 권오봉 후보 공개질의에 답하다",
-                    "link": "http://www.netongs.com/news/articleView.html?idxno=318791"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 17:42:00 +0900",
-                    "title": "[정치 人터뷰] 무소속 권오봉 후보 \"전문적 식견·경험 살려 여수 위상 높일 ...",
-                    "link": "https://www.newscj.com/news/articleView.html?idxno=3125328"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 16:34:00 +0900",
-                    "title": "더불어민주당 조계원 후보, \"권오봉 후보가 법정 토론회 참가 동의 요청했어야...",
-                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461857"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 07:48:00 +0900",
-                    "title": "여수을 선거판에 등장한 꼬봉&오봉 공방전...조계원·권오봉 주종·종속관계 ...",
-                    "link": "http://www.breaknews.com/1024480"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1840390
-                }
-            ],
-            "huboid": "100151720",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4602/Hb100151720/junkwa/20240321180016217_9.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_여수시을_권오봉_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4602/003_100151720_20240329_2.pdf"
-        }
-    ]
+  {
+    "id": "2460202-1",
+    "regionId": "2460202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-1.jpg",
+    "기호": 1,
+    "이름": "조계원",
+    "생년월일": "19660824",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "성균관대학교 신문방송학과 졸업",
+    "경력": "(현)더불어민주당 중앙당 부대변인\n(전)이재명 경기도지사 정책수석",
+    "재산": 552920,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:16:00 +0900",
+        "title": "여수을 조계원 \"권오봉, 토론 참가 요청도 안하고 무슨\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881091?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+        "title": "조계원 후보, 권오봉 후보 공개질의에 답하다",
+        "link": "http://www.netongs.com/news/articleView.html?idxno=318791"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:12:00 +0900",
+        "title": "[2024 총선]여수을 조계원 후보, \"요청도 안했는데 알아서 모셔야 하나\"",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765369"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:40:00 +0900",
+        "title": "여수을 민주당 조계원, '청년 일자리' 관련 정책 공약 발표",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278180?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:34:00 +0900",
+        "title": "여수을 조계원, 일자리 가득한 기회의 땅 청년도시 여수 ‘공약’",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=691437"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 552920
+      }
+    ],
+    "huboid": "100151672",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460202-1.jpg"
+  },
+  {
+    "id": "2460202-2",
+    "regionId": "2460202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-2.jpg",
+    "기호": 2,
+    "이름": "김희택",
+    "생년월일": "19620209",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "넬종합환경 대표",
+    "학력": "여수수산전문대학 통신과 졸업 (현 전남대학교 여수캠퍼스)",
+    "경력": "(현) 국민의힘 중앙위원회 해양수산분과 부위원장\n(현) 2026 여수세계섬박람회 준비위원회 위원",
+    "재산": 458756,
+    "군필여부": false,
+    "전과건수": 3,
+    "news": [
+      {
+        "date": "Fri, 15 Mar 2024 14:28:00 +0900",
+        "title": "순천 방문한 한동훈…\"정말 호남서 당선되고 싶다\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002809791?sid=100"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 14:09:00 +0900",
+        "title": "호남 찾은 한동훈 “정말 당선되고 싶다” 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/022/0003914408?sid=165"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 13:44:00 +0900",
+        "title": "한동훈 “정말 호남에서 당선되고 싶다”…“호남 지역구 3석 목표”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002281025?sid=102"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 13:34:00 +0900",
+        "title": "'불모지' 호남 찾은 한동훈 \"정말 당선되고 싶다\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240315010008376"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 13:30:00 +0900",
+        "title": "한동훈, ‘불모지’ 순천 찾아 “정말 호남에서 당선되고 싶다”",
+        "link": "https://www.etoday.co.kr/news/view/2340676"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 458756
+      }
+    ],
+    "huboid": "100152283",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460202-2.jpg"
+  },
+  {
+    "id": "2460202-7",
+    "regionId": "2460202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-7.jpg",
+    "기호": 7,
+    "이름": "여찬",
+    "생년월일": "19950621",
+    "정당": "진보당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "순천제일고등학교 졸업",
+    "경력": "(현)진보당 여수시지역위원회 공동위원장\n(현)청년노동희망제작소 대표",
+    "재산": 197315,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 22 Mar 2024 21:38:00 +0900",
+        "title": "[선택 4·10 총선]광주·전남 최고령 민주당 박지원 82세·최연소 진보당 여찬...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=763938"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:36:00 +0900",
+        "title": "전남 총선 출마자 중 최고령 박지원 81세…최연소 28세 여찬",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430944?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:30:00 +0900",
+        "title": "[4·10총선 후보자 등록] 전남",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430843?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:28:00 +0900",
+        "title": "22대 총선 후보자 610명 등록...평균 나이 56.5세, 남자가 86%",
+        "link": "https://www.ajunews.com/view/20240322191334127"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:25:00 +0900",
+        "title": "[4·10총선 후보 등록] 전남(22일·최종)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445444?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 197315
+      }
+    ],
+    "huboid": "100151189",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460202-7.jpg"
+  },
+  {
+    "id": "2460202-8",
+    "regionId": "2460202",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460202-8.jpg",
+    "기호": 8,
+    "이름": "권오봉",
+    "생년월일": "19590913",
+    "정당": "무소속",
+    "성별": "남",
+    "직업": "권오봉 행정사 사무소 대표",
+    "학력": "미국 미주리대학교 경제학 석사(2000년5월~2002년5월)",
+    "경력": "(전)제7대 전라남도 여수시 시장\n(전)기획재정부 재정정책 국장",
+    "재산": 1840390,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:16:00 +0900",
+        "title": "여수을 조계원 \"권오봉, 토론 참가 요청도 안하고 무슨\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881091?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:44:00 +0900",
+        "title": "조계원 후보, 권오봉 후보 공개질의에 답하다",
+        "link": "http://www.netongs.com/news/articleView.html?idxno=318791"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:42:00 +0900",
+        "title": "[정치 人터뷰] 무소속 권오봉 후보 \"전문적 식견·경험 살려 여수 위상 높일 ...",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3125328"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:34:00 +0900",
+        "title": "더불어민주당 조계원 후보, \"권오봉 후보가 법정 토론회 참가 동의 요청했어야...",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461857"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:48:00 +0900",
+        "title": "여수을 선거판에 등장한 꼬봉&오봉 공방전...조계원·권오봉 주종·종속관계 ...",
+        "link": "http://www.breaknews.com/1024480"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1840390
+      }
+    ],
+    "huboid": "100151720",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460202-8.jpg"
+  }
 ]

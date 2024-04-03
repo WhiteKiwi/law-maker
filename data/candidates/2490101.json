@@ -1,108 +1,104 @@
 [
-    [
-        {
-            "id": "2490101-1",
-            "regionId": "2490101",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-1.jpg",
-            "기호": 1,
-            "이름": "문대림",
-            "생년월일": "19651122",
-            "정당": "더불어민주당",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "제주대학교 대학원 법학과 졸업(법학석사)",
-            "경력": "(전)문재인정부 청와대비서관\n(현)더불어민주당 전략기획위원회 부위원장",
-            "재산": 2246388,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Wed, 03 Apr 2024 00:26:00 +0900",
-                    "title": "문대림 후보, 물리치료사협회와 교습소연합회 잇달아 만나... “제주도민 건강...",
-                    "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91140"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 21:30:00 +0900",
-                    "title": "제주시갑 토론회.. 문대림-고광철 공방 치열",
-                    "link": "https://n.news.naver.com/mnews/article/661/0000038742?sid=102"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 21:20:00 +0900",
-                    "title": "[제주 총선] 문대림 후보 선거공보에 담긴 공약은",
-                    "link": "http://www.jejunews.com/news/articleView.html?idxno=2210053"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 21:12:00 +0900",
-                    "title": "[제주 총선] 문대림 \"제주의 해양 자치권 반드시 찾겠다\"",
-                    "link": "http://www.jejunews.com/news/articleView.html?idxno=2210052"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:36:00 +0900",
-                    "title": "문대림 \"국정기조 전환\"·고광철 \"4·3보상금 인상\"",
-                    "link": "http://www.jemin.com/news/articleView.html?idxno=770464"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 2246388
-                }
-            ],
-            "huboid": "100151015",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4901/Hb100151015/junkwa/20231212102835456_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_제주시갑_문대림_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4901/003_100151015_20240330_2.pdf"
-        },
-        {
-            "id": "2490101-2",
-            "regionId": "2490101",
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-2.jpg",
-            "기호": 2,
-            "이름": "고광철",
-            "생년월일": "19750414",
-            "정당": "국민의힘",
-            "성별": "남",
-            "직업": "정당인",
-            "학력": "서강대학교 공공정책대학원 행정법무학과 졸업 (법학석사)",
-            "경력": "(현)국민의힘 제주시갑당원협의회 조직위원장\n(전)국민의힘(구 자유한국당)보좌진협의회 회장(28대)",
-            "재산": -86740,
-            "군필여부": true,
-            "전과건수": 0,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 21:30:00 +0900",
-                    "title": "제주시갑 토론회.. 문대림-고광철 공방 치열",
-                    "link": "https://n.news.naver.com/mnews/article/661/0000038742?sid=102"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 21:20:00 +0900",
-                    "title": "[제주 총선] 고광철 후보 선거공보에 담긴 공약은",
-                    "link": "http://www.jejunews.com/news/articleView.html?idxno=2210054"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 21:12:00 +0900",
-                    "title": "[제주 총선]고광철\"4.3의 정의로운 해결…비극 되풀이 안돼\"",
-                    "link": "http://www.jejunews.com/news/articleView.html?idxno=2210051"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:36:00 +0900",
-                    "title": "문대림 \"국정기조 전환\"·고광철 \"4·3보상금 인상\"",
-                    "link": "http://www.jemin.com/news/articleView.html?idxno=770464"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:32:00 +0900",
-                    "title": "문대림‧고광철, \"문 후보 JDC이사장 재임 시절 '일감 몰아주기'\" 공방",
-                    "link": "http://www.mediajeju.com/news/articleView.html?idxno=351136"
-                }
-            ],
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": -86740
-                }
-            ],
-            "huboid": "100153021",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4901/Hb100153021/junkwa/20240312144158393_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_제주시갑_고광철_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4901/003_100153021_20240329_3.pdf"
-        }
-    ]
+  {
+    "id": "2490101-1",
+    "regionId": "2490101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-1.jpg",
+    "기호": 1,
+    "이름": "문대림",
+    "생년월일": "19651122",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "제주대학교 대학원 법학과 졸업(법학석사)",
+    "경력": "(전)문재인정부 청와대비서관\n(현)더불어민주당 전략기획위원회 부위원장",
+    "재산": 2246388,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 00:26:00 +0900",
+        "title": "문대림 후보, 물리치료사협회와 교습소연합회 잇달아 만나... “제주도민 건강...",
+        "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91140"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:30:00 +0900",
+        "title": "제주시갑 토론회.. 문대림-고광철 공방 치열",
+        "link": "https://n.news.naver.com/mnews/article/661/0000038742?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:20:00 +0900",
+        "title": "[제주 총선] 문대림 후보 선거공보에 담긴 공약은",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2210053"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:12:00 +0900",
+        "title": "[제주 총선] 문대림 \"제주의 해양 자치권 반드시 찾겠다\"",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2210052"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:36:00 +0900",
+        "title": "문대림 \"국정기조 전환\"·고광철 \"4·3보상금 인상\"",
+        "link": "http://www.jemin.com/news/articleView.html?idxno=770464"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2246388
+      }
+    ],
+    "huboid": "100151015",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490101-1.jpg"
+  },
+  {
+    "id": "2490101-2",
+    "regionId": "2490101",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490101-2.jpg",
+    "기호": 2,
+    "이름": "고광철",
+    "생년월일": "19750414",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 공공정책대학원 행정법무학과 졸업 (법학석사)",
+    "경력": "(현)국민의힘 제주시갑당원협의회 조직위원장\n(전)국민의힘(구 자유한국당)보좌진협의회 회장(28대)",
+    "재산": -86740,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 21:30:00 +0900",
+        "title": "제주시갑 토론회.. 문대림-고광철 공방 치열",
+        "link": "https://n.news.naver.com/mnews/article/661/0000038742?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:20:00 +0900",
+        "title": "[제주 총선] 고광철 후보 선거공보에 담긴 공약은",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2210054"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:12:00 +0900",
+        "title": "[제주 총선]고광철\"4.3의 정의로운 해결…비극 되풀이 안돼\"",
+        "link": "http://www.jejunews.com/news/articleView.html?idxno=2210051"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:36:00 +0900",
+        "title": "문대림 \"국정기조 전환\"·고광철 \"4·3보상금 인상\"",
+        "link": "http://www.jemin.com/news/articleView.html?idxno=770464"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:32:00 +0900",
+        "title": "문대림‧고광철, \"문 후보 JDC이사장 재임 시절 '일감 몰아주기'\" 공방",
+        "link": "http://www.mediajeju.com/news/articleView.html?idxno=351136"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -86740
+      }
+    ],
+    "huboid": "100153021",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490101-2.jpg"
+  }
 ]

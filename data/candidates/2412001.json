@@ -1,225 +1,219 @@
 [
-    [
-        {
-            "전과건수": 1,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-1.jpg",
-            "id": "2412001-1",
-            "재산": 653436,
-            "생년월일": "19721120",
-            "경력": "(현) 더불어민주당 중앙선거대책위원회 대변인\n(현) 더불어민주당 헌법개정특별위원회 위원",
-            "학력": "고려대학교 지구환경과학과 졸업",
-            "직업": "방송인",
-            "성별": "남",
-            "regionId": "2412001",
-            "기호": 1,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                    "title": "김성회 고양갑 후보 어르신들에게 지지호소",
-                    "link": "https://vop.co.kr/A00001650829.html"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                    "title": "김성회 후보 순회유세",
-                    "link": "https://vop.co.kr/A00001650832.html"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                    "title": "유세차량 순회유세하는 김성회 후보",
-                    "link": "https://vop.co.kr/A00001650835.html"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                    "title": "경로당 어르신들에게 지지호소하는 김성회 후보",
-                    "link": "https://vop.co.kr/A00001650830.html"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-                    "title": "지지호소하는 김성회 고양갑 후보",
-                    "link": "https://vop.co.kr/A00001650837.html"
-                }
-            ],
-            "정당": "더불어민주당",
-            "이름": "김성회",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 653436
-                }
-            ],
-            "huboid": "100151732",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4120/Hb100151732/junkwa/20231221133340814_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_고양시갑_김성회_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4120/003_100151732_20240401_2.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-2.jpg",
-            "id": "2412001-2",
-            "재산": 1013159,
-            "생년월일": "19671113",
-            "경력": "(전) 행정안전부 차관\n(전) 행정안전부 정부혁신조직실장",
-            "학력": "영국 버밍엄대학교 졸업(행정학 박사, 2002.09.~2006.11.)",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2412001",
-            "기호": 2,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 16:42:00 +0900",
-                    "title": "국민의힘 고양시갑 한창섭 후보, 고양시 청년활동가 간담회 및 지지선언",
-                    "link": "https://www.kmaeil.com/news/articleView.html?idxno=447179"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 11:32:00 +0900",
-                    "title": "고양시갑 국민의힘 한창섭 후보 '선거법 위반' 논란",
-                    "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66200"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 07:38:00 +0900",
-                    "title": "고양시갑 국민의힘 한창섭 후보 공식선거운동 출정식",
-                    "link": "http://www.m-i.kr/news/articleView.html?idxno=1106663"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 21:18:00 +0900",
-                    "title": "[유세장 직격 인터뷰] 송석준·이재정·한무경·윤종군·한창섭·이재강·김선...",
-                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363644230"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 15:42:00 +0900",
-                    "title": "[총선현장] 고양갑 한창섭 \"12년 덕양구 정체, 힘있는 여당후보가 바꿀 것\"",
-                    "link": "http://www.mygoyang.com/news/articleView.html?idxno=78558"
-                }
-            ],
-            "정당": "국민의힘",
-            "이름": "한창섭",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1013159
-                }
-            ],
-            "huboid": "100152960",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4120/Hb100152960/junkwa/20240306134136635_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_고양시갑_한창섭_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4120/003_100152960_20240330_1.pdf"
-        },
-        {
-            "전과건수": 2,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-5.jpg",
-            "id": "2412001-5",
-            "재산": 581478,
-            "생년월일": "19590220",
-            "경력": "(전) 19대, 20대 대통령 후보\n(현) 17대, 19대, 20대, 21대 국회의원",
-            "학력": "서울대학교 사회교육학과 졸업",
-            "직업": "국회의원",
-            "성별": "여",
-            "id_21th": "506",
-            "regionId": "2412001",
-            "기호": 5,
-            "군필여부": false,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 19:58:00 +0900",
-                    "title": "[4·10 총선] 맥 못추는 제3지대…이준석·심상정 선전",
-                    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242857"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-                    "title": "심상정 후보, 김성회 후보 발언 관련 경기도에 공문 발송 \"주민 알권리와 식사...",
-                    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325937"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 08:48:00 +0900",
-                    "title": "[포토] 고양시 어울림교차로에서 출근인사하는 심상정 후보",
-                    "link": "https://www.ilyosisa.co.kr/news/article.html?no=243028"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 10:59:00 +0900",
-                    "title": "심상정, 윤 의료개혁 대국민 담화에 \"총선 퍼포먼스\"",
-                    "link": "https://n.news.naver.com/mnews/article/057/0001809414?sid=100"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 10:47:00 +0900",
-                    "title": "‘0석’ 위기 녹색정의당, 심상정 “사고를 안 치니 뉴스가 안 나와”",
-                    "link": "https://n.news.naver.com/mnews/article/023/0003825660?sid=165"
-                }
-            ],
-            "정당": "녹색정의당",
-            "이름": "심상정",
-            "연도별_재산": [
-                {
-                    "연도": 2020,
-                    "재산": 1280613
-                },
-                {
-                    "연도": 2021,
-                    "재산": 1386744
-                },
-                {
-                    "연도": 2022,
-                    "재산": 1406297
-                },
-                {
-                    "연도": 2023,
-                    "재산": 581478
-                }
-            ],
-            "huboid": "100152585",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4120/Hb100152585/junkwa/20240304115937530_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_고양시갑_심상정_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4120/003_100152585_20240330_1.pdf"
-        },
-        {
-            "전과건수": 1,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-7.jpg",
-            "id": "2412001-7",
-            "재산": 34419670,
-            "생년월일": "19650706",
-            "경력": "(전) 직능경제인단체총연합회 정책위원장\n(전) 범시민사회단체연합 상임공동대표",
-            "학력": "미국 하버드대학교 하버드케네디스쿨 졸업(행정학 석사, 2006.9.~2007.5.)",
-            "직업": "주식회사 디에센스 대표이사",
-            "성별": "남",
-            "regionId": "2412001",
-            "기호": 7,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 15:06:00 +0900",
-                    "title": "'선거운동 중 흉기 테러'...고양시갑 무소속 김성남 후보 선거사무장 위협",
-                    "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959283"
-                },
-                {
-                    "date": "Tue, 02 Apr 2024 15:06:00 +0900",
-                    "title": "고양시갑 무소속 김성남 후보 선거사무장 '선거테러' 발생",
-                    "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66205"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 12:56:00 +0900",
-                    "title": "도시재생 전문가 고양갑 무소속 김성남 후보, '좋은 후보'로 선정",
-                    "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99990"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 10:02:00 +0900",
-                    "title": "[총선 D-9] 무소속 김성남 고양갑 후보, 시민유권자운동본부 선정 '좋은 후보...",
-                    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025726"
-                },
-                {
-                    "date": "Sun, 31 Mar 2024 20:48:00 +0900",
-                    "title": "하버드 출신 고양시갑 무소속 김성남, '좋은 후보' 선정",
-                    "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66166"
-                }
-            ],
-            "정당": "무소속",
-            "이름": "김성남",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 34419670
-                }
-            ],
-            "huboid": "100152575",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4120/Hb100152575/junkwa/20240320175747306_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_고양시갑_김성남_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4120/003_100152575_20240330_1.pdf"
-        }
-    ]
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-1.jpg",
+    "id": "2412001-1",
+    "재산": 653436,
+    "생년월일": "19721120",
+    "경력": "(현) 더불어민주당 중앙선거대책위원회 대변인\n(현) 더불어민주당 헌법개정특별위원회 위원",
+    "학력": "고려대학교 지구환경과학과 졸업",
+    "직업": "방송인",
+    "성별": "남",
+    "regionId": "2412001",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "김성회 고양갑 후보 어르신들에게 지지호소",
+        "link": "https://vop.co.kr/A00001650829.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "김성회 후보 순회유세",
+        "link": "https://vop.co.kr/A00001650832.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "유세차량 순회유세하는 김성회 후보",
+        "link": "https://vop.co.kr/A00001650835.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "경로당 어르신들에게 지지호소하는 김성회 후보",
+        "link": "https://vop.co.kr/A00001650830.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+        "title": "지지호소하는 김성회 고양갑 후보",
+        "link": "https://vop.co.kr/A00001650837.html"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김성회",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 653436
+      }
+    ],
+    "huboid": "100151732",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412001-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-2.jpg",
+    "id": "2412001-2",
+    "재산": 1013159,
+    "생년월일": "19671113",
+    "경력": "(전) 행정안전부 차관\n(전) 행정안전부 정부혁신조직실장",
+    "학력": "영국 버밍엄대학교 졸업(행정학 박사, 2002.09.~2006.11.)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2412001",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 16:42:00 +0900",
+        "title": "국민의힘 고양시갑 한창섭 후보, 고양시 청년활동가 간담회 및 지지선언",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447179"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:32:00 +0900",
+        "title": "고양시갑 국민의힘 한창섭 후보 '선거법 위반' 논란",
+        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66200"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:38:00 +0900",
+        "title": "고양시갑 국민의힘 한창섭 후보 공식선거운동 출정식",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1106663"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:18:00 +0900",
+        "title": "[유세장 직격 인터뷰] 송석준·이재정·한무경·윤종군·한창섭·이재강·김선...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644230"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:42:00 +0900",
+        "title": "[총선현장] 고양갑 한창섭 \"12년 덕양구 정체, 힘있는 여당후보가 바꿀 것\"",
+        "link": "http://www.mygoyang.com/news/articleView.html?idxno=78558"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "한창섭",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1013159
+      }
+    ],
+    "huboid": "100152960",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412001-2.jpg"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-5.jpg",
+    "id": "2412001-5",
+    "재산": 581478,
+    "생년월일": "19590220",
+    "경력": "(전) 19대, 20대 대통령 후보\n(현) 17대, 19대, 20대, 21대 국회의원",
+    "학력": "서울대학교 사회교육학과 졸업",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "506",
+    "regionId": "2412001",
+    "기호": 5,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+        "title": "[4·10 총선] 맥 못추는 제3지대…이준석·심상정 선전",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242857"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+        "title": "심상정 후보, 김성회 후보 발언 관련 경기도에 공문 발송 \"주민 알권리와 식사...",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325937"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 08:48:00 +0900",
+        "title": "[포토] 고양시 어울림교차로에서 출근인사하는 심상정 후보",
+        "link": "https://www.ilyosisa.co.kr/news/article.html?no=243028"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:59:00 +0900",
+        "title": "심상정, 윤 의료개혁 대국민 담화에 \"총선 퍼포먼스\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001809414?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:47:00 +0900",
+        "title": "‘0석’ 위기 녹색정의당, 심상정 “사고를 안 치니 뉴스가 안 나와”",
+        "link": "https://n.news.naver.com/mnews/article/023/0003825660?sid=165"
+      }
+    ],
+    "정당": "녹색정의당",
+    "이름": "심상정",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1280613
+      },
+      {
+        "연도": 2021,
+        "재산": 1386744
+      },
+      {
+        "연도": 2022,
+        "재산": 1406297
+      },
+      {
+        "연도": 2023,
+        "재산": 581478
+      }
+    ],
+    "huboid": "100152585",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412001-5.jpg"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412001-7.jpg",
+    "id": "2412001-7",
+    "재산": 34419670,
+    "생년월일": "19650706",
+    "경력": "(전) 직능경제인단체총연합회 정책위원장\n(전) 범시민사회단체연합 상임공동대표",
+    "학력": "미국 하버드대학교 하버드케네디스쿨 졸업(행정학 석사, 2006.9.~2007.5.)",
+    "직업": "주식회사 디에센스 대표이사",
+    "성별": "남",
+    "regionId": "2412001",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+        "title": "'선거운동 중 흉기 테러'...고양시갑 무소속 김성남 후보 선거사무장 위협",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959283"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:06:00 +0900",
+        "title": "고양시갑 무소속 김성남 후보 선거사무장 '선거테러' 발생",
+        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66205"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:56:00 +0900",
+        "title": "도시재생 전문가 고양갑 무소속 김성남 후보, '좋은 후보'로 선정",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99990"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:02:00 +0900",
+        "title": "[총선 D-9] 무소속 김성남 고양갑 후보, 시민유권자운동본부 선정 '좋은 후보...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025726"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 20:48:00 +0900",
+        "title": "하버드 출신 고양시갑 무소속 김성남, '좋은 후보' 선정",
+        "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66166"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "김성남",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 34419670
+      }
+    ],
+    "huboid": "100152575",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412001-7.jpg"
+  }
 ]

@@ -1,173 +1,168 @@
 [
-    [
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-1.jpg",
-            "id": "2111601-1",
-            "재산": 97065,
-            "생년월일": "19780602",
-            "경력": "(현)서울 강서갑 국회의원\n(현)더불어민주당 대변인",
-            "학력": "미국 위스콘신주립대 매디슨캠퍼스 인간발달 및 가족학 박사(2006.9~2012.5)",
-            "직업": "국회의원",
-            "성별": "여",
-            "id_21th": "1050",
-            "regionId": "2111601",
-            "기호": 1,
-            "군필여부": false,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 05:20:00 +0900",
-                    "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 20:07:00 +0900",
-                    "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 16:41:00 +0900",
-                    "title": "[폴리-한길리서치 총선 여론조사] 서울 강서갑 민주 강선우 49.6% 국힘 구상찬...",
-                    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641398"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 18:16:00 +0900",
-                    "title": "4·10총선 재선 도전 강서갑 강선우 후보, 이음캠프 선대위 출정식",
-                    "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955889"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 15:58:00 +0900",
-                    "title": "서울 강서갑 강선우 국회의원, “가장 민주당답게 싸워 압승으로 보답하겠다”",
-                    "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850157"
-                }
-            ],
-            "정당": "더불어민주당",
-            "이름": "강선우",
-            "연도별_재산": [
-                {
-                    "연도": 2020,
-                    "재산": 488422
-                },
-                {
-                    "연도": 2021,
-                    "재산": 417653
-                },
-                {
-                    "연도": 2022,
-                    "재산": 144646
-                },
-                {
-                    "연도": 2023,
-                    "재산": 97065
-                }
-            ],
-            "huboid": "100152702",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1116/Hb100152702/junkwa/20240214110941542_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강서구갑_강선우_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1116/003_100152702_20240330_1.pdf"
-        },
-        {
-            "전과건수": 0,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-2.jpg",
-            "id": "2111601-2",
-            "재산": 2428152,
-            "생년월일": "19570707",
-            "경력": "(전)제18대 국회의원\n(현)고려대학교 특임교수",
-            "학력": "동국대학교 대학원 체육학과 졸업(체육학석사)",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2111601",
-            "기호": 2,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 05:20:00 +0900",
-                    "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 20:07:00 +0900",
-                    "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 16:41:00 +0900",
-                    "title": "[폴리-한길리서치 총선 여론조사] 서울 강서갑 민주 강선우 49.6% 국힘 구상찬...",
-                    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641398"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 20:30:00 +0900",
-                    "title": "[4.10 총선] \"사람을 바꿔야 강서가 바뀐다\"…구상찬 후보, 출정식서 '강서교...",
-                    "link": "https://www.gokorea.kr/news/articleView.html?idxno=752100"
-                },
-                {
-                    "date": "Thu, 28 Mar 2024 20:14:00 +0900",
-                    "title": "강서갑 구상찬, 우장산사거리서 총선 출정식…\"사람 바꿔야 강서 바뀐다\"",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002814698?sid=165"
-                }
-            ],
-            "정당": "국민의힘",
-            "이름": "구상찬",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 2428152
-                }
-            ],
-            "huboid": "100152744",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1116/Hb100152744/junkwa/20240215162805708_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강서구갑_구상찬_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1116/003_100152744_20240329_1.pdf"
-        },
-        {
-            "전과건수": 3,
-            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-6.jpg",
-            "id": "2111601-6",
-            "재산": 1285565,
-            "생년월일": "19611112",
-            "경력": "(전)국무총리실 민정실장\n(전)강릉영동대학교 부총장",
-            "학력": "전남대학교 인문과학대학 사학과 졸업",
-            "직업": "정당인",
-            "성별": "남",
-            "regionId": "2111601",
-            "기호": 6,
-            "군필여부": true,
-            "news": [
-                {
-                    "date": "Tue, 02 Apr 2024 05:20:00 +0900",
-                    "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
-                    "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 20:07:00 +0900",
-                    "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
-                    "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
-                },
-                {
-                    "date": "Mon, 01 Apr 2024 12:18:00 +0900",
-                    "title": "기호6번 남평오 “국민밥상 물가 잡겠다...EBS 교육 전면 무료화 추진”",
-                    "link": "http://www.breaknews.com/1024236"
-                },
-                {
-                    "date": "Sat, 30 Mar 2024 06:02:00 +0900",
-                    "title": "[이기자의 메디컬나우] 복지부 경력 방문규·안도걸·남평오, 총선 출마",
-                    "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=401680"
-                },
-                {
-                    "date": "Fri, 29 Mar 2024 09:32:00 +0900",
-                    "title": "남평오 강서구갑 후보, 선거 운동 첫날 화곡동 인력사무소 방문으로 시작",
-                    "link": "https://www.gokorea.kr/news/articleView.html?idxno=752109"
-                }
-            ],
-            "정당": "새로운미래",
-            "이름": "남평오",
-            "연도별_재산": [
-                {
-                    "연도": 2023,
-                    "재산": 1285565
-                }
-            ],
-            "huboid": "100152231",
-            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1116/Hb100152231/junkwa/20240221170357453_1.PDF",
-            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강서구갑_남평오_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1116/003_100152231_20240330_1.pdf"
-        }
-    ]
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-1.jpg",
+    "id": "2111601-1",
+    "재산": 97065,
+    "생년월일": "19780602",
+    "경력": "(현)서울 강서갑 국회의원\n(현)더불어민주당 대변인",
+    "학력": "미국 위스콘신주립대 매디슨캠퍼스 인간발달 및 가족학 박사(2006.9~2012.5)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1050",
+    "regionId": "2111601",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 05:20:00 +0900",
+        "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:07:00 +0900",
+        "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:41:00 +0900",
+        "title": "[폴리-한길리서치 총선 여론조사] 서울 강서갑 민주 강선우 49.6% 국힘 구상찬...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641398"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:16:00 +0900",
+        "title": "4·10총선 재선 도전 강서갑 강선우 후보, 이음캠프 선대위 출정식",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955889"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:58:00 +0900",
+        "title": "서울 강서갑 강선우 국회의원, “가장 민주당답게 싸워 압승으로 보답하겠다”",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850157"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "강선우",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 488422
+      },
+      {
+        "연도": 2021,
+        "재산": 417653
+      },
+      {
+        "연도": 2022,
+        "재산": 144646
+      },
+      {
+        "연도": 2023,
+        "재산": 97065
+      }
+    ],
+    "huboid": "100152702",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111601-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-2.jpg",
+    "id": "2111601-2",
+    "재산": 2428152,
+    "생년월일": "19570707",
+    "경력": "(전)제18대 국회의원\n(현)고려대학교 특임교수",
+    "학력": "동국대학교 대학원 체육학과 졸업(체육학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111601",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 05:20:00 +0900",
+        "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:07:00 +0900",
+        "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:41:00 +0900",
+        "title": "[폴리-한길리서치 총선 여론조사] 서울 강서갑 민주 강선우 49.6% 국힘 구상찬...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641398"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:30:00 +0900",
+        "title": "[4.10 총선] \"사람을 바꿔야 강서가 바뀐다\"…구상찬 후보, 출정식서 '강서교...",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:14:00 +0900",
+        "title": "강서갑 구상찬, 우장산사거리서 총선 출정식…\"사람 바꿔야 강서 바뀐다\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002814698?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "구상찬",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2428152
+      }
+    ],
+    "huboid": "100152744",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111601-2.jpg"
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111601-6.jpg",
+    "id": "2111601-6",
+    "재산": 1285565,
+    "생년월일": "19611112",
+    "경력": "(전)국무총리실 민정실장\n(전)강릉영동대학교 부총장",
+    "학력": "전남대학교 인문과학대학 사학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111601",
+    "기호": 6,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 05:20:00 +0900",
+        "title": "강선우 49.6% 오차범위밖 우위…구상찬 32%·남평오 11.9% [D-8 강서갑]",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815971?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:07:00 +0900",
+        "title": "[서울 강서갑] 민주당 강선우 49.6%, 국민의힘 구상찬 32%, 새미래 남평오 11...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428440?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:18:00 +0900",
+        "title": "기호6번 남평오 “국민밥상 물가 잡겠다...EBS 교육 전면 무료화 추진”",
+        "link": "http://www.breaknews.com/1024236"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 06:02:00 +0900",
+        "title": "[이기자의 메디컬나우] 복지부 경력 방문규·안도걸·남평오, 총선 출마",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=401680"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 09:32:00 +0900",
+        "title": "남평오 강서구갑 후보, 선거 운동 첫날 화곡동 인력사무소 방문으로 시작",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752109"
+      }
+    ],
+    "정당": "새로운미래",
+    "이름": "남평오",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1285565
+      }
+    ],
+    "huboid": "100152231",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111601-6.jpg"
+  }
 ]
