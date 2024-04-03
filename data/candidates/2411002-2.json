@@ -1,0 +1,117 @@
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411002-1.jpg",
+    "id": "2411002-1",
+    "재산": 878412,
+    "생년월일": "19740802",
+    "경력": "(현)제20대, 제21대 재선 국회의원\n(현)국회 산업통상자원중소벤처기업위원회 위원장",
+    "학력": "경북대학교 법과대학 사법학과 졸업",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "940",
+    "regionId": "2411002-2",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 22:32:00 +0900",
+        "title": "결국 소송전으로… 이재정, 심재철 후보 공직선거법 위반 혐의로 고발",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226901"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+        "title": "안양동안을, 전·현직 리턴매치… 이재정 \"정권 심판\" vs 심재철 \"지역 발전\"",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240403010000198"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:42:00 +0900",
+        "title": "[과수원 사람들] 염태영 수원무·김현준 수원갑·이재정 안양동안을 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002815947?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:04:00 +0900",
+        "title": "이재정 안양동안을 후보 측, 평촌중앙공원서 주말 나들이 시민들 만나 소통",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081303"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:46:00 +0900",
+        "title": "이재정 민주당 안양 동안을 '시민 밀착 선거운동’ 집중",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464528?sid=102"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이재정",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 484883
+      },
+      {
+        "연도": 2021,
+        "재산": 849375
+      },
+      {
+        "연도": 2022,
+        "재산": 791810
+      },
+      {
+        "연도": 2023,
+        "재산": 878412
+      }
+    ],
+    "huboid": "100152948",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411002-1.jpg"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411002-2.jpg",
+    "id": "2411002-2",
+    "재산": 4146737,
+    "생년월일": "19580118",
+    "경력": "(전)국회부의장\n(전)1980년 서울대 총학생회장",
+    "학력": "서울대학교 사범대학 외국어교육학과(영어전공) 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2411002-2",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 22:32:00 +0900",
+        "title": "결국 소송전으로… 이재정, 심재철 후보 공직선거법 위반 혐의로 고발",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226901"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+        "title": "안양동안을, 전·현직 리턴매치… 이재정 \"정권 심판\" vs 심재철 \"지역 발전\"",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240403010000198"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:56:00 +0900",
+        "title": "[포토] 심재철 지원유세 나선 한동훈 위원장",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900309.html"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:18:00 +0900",
+        "title": "한동훈 \"안양, 임재훈·심재철·최돈익에 맡겨 달라\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956762"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:26:00 +0900",
+        "title": "[포토] 안양 최돈익·임재훈·심재철 지원유세하는 한동훈",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315327"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "심재철",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4146737
+      }
+    ],
+    "huboid": "100151704",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411002-2.jpg"
+  }
+]

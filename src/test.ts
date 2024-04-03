@@ -194,16 +194,20 @@ async function createSearchItems() {
     const candidates: LawMakerCadidate[] = await readJSON(
       path.join(candidatesDir, file)
     );
-    for (const candidate of candidates) {
-      const region = await getRegion(candidate.regionId);
-      searchItems.push({
-        id: candidate.id,
-        imageUrl: candidate.imageUrl,
-        이름: candidate.이름,
-        splitted이름: splitHangul(candidate.이름),
-        지역구: `${region.시도} ${region.시군구}`,
-        정당: candidate.정당,
-      });
+    try {
+      for (const candidate of candidates) {
+        const region = await getRegion(candidate.regionId);
+        searchItems.push({
+          id: candidate.id,
+          imageUrl: candidate.imageUrl,
+          이름: candidate.이름,
+          splitted이름: splitHangul(candidate.이름),
+          지역구: `${region.시도} ${region.시군구}`,
+          정당: candidate.정당,
+        });
+      }
+    } catch (e) {
+      console.error(e);
     }
   }
   await writeJSON(path.join(__dirname, "../data/search.json"), searchItems, {});

@@ -28,7 +28,7 @@ async function main() {
           path.join(candidatesDir, region.id + ".json")
         );
         await writeJSON(
-          path.join(candidatesDir, `${region.id}-${count - 1}.json`),
+          path.join(candidatesDir, `${region.id}-${count}.json`),
           candidates.map((c) => ({ ...c, regionId: `${region.id}-${count}` })),
           { spaces: 2 }
         );
