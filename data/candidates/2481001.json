@@ -1,171 +1,168 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-1.jpg",
-        "id": "2481001-1",
-        "재산": 904840,
-        "생년월일": "19660402",
-        "경력": "(전)거제시장\n(현)더불어민주당 중앙당 정책위원회 부의장",
-        "학력": "연세대학교 행정대학원 졸업(행정학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2481001",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:04:00 +0900",
-                "title": "민주 변광용·국힘 서일준, 조선경기 활성화·거가대교 통행료 놓고 설전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007454009?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:42:00 +0900",
-                "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
-                "link": "http://www.mhj21.com/160271"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
-                "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
-                "link": "https://www.asiatime.co.kr/article/20240402500170"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:08:00 +0900",
-                "title": "[총선핫스팟] 요동치는 거제, '민주당계 첫 시장' 변광용 vs '친윤 현역' 서일...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347608"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 12:55:00 +0900",
-                "title": "조국 대표, 변광용 후보와 함께",
-                "link": "https://n.news.naver.com/mnews/article/421/0007447764?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "변광용",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 904840
-            }
-        ],
-        "huboid": "100151073",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4810/Hb100151073/junkwa/20231212155038138_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_거제시_변광용_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4810/003_100151073_20240327_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-2.jpg",
-        "id": "2481001-2",
-        "재산": 1980949,
-        "생년월일": "19650510",
-        "경력": "(현)제21대 국회의원\n(전)제20대 대통령직 인수위원회 행정실장",
-        "학력": "서울시립대학교 일반대학원 행정학과 졸업(행정학박사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1148",
-        "regionId": "2481001",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:04:00 +0900",
-                "title": "민주 변광용·국힘 서일준, 조선경기 활성화·거가대교 통행료 놓고 설전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007454009?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:42:00 +0900",
-                "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
-                "link": "http://www.mhj21.com/160271"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
-                "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
-                "link": "https://www.asiatime.co.kr/article/20240402500170"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:05:00 +0900",
-                "title": "[총선돋보기-거제] 서일준 후보, \"'영유아 무상보육' 공약 실현 최선 다할 것...",
-                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109341"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:32:00 +0900",
-                "title": "서일준 \"거제의 영유아 무상보육 빠른 시일내 실현\"",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000170"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "서일준",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1499542
-            },
-            {
-                "연도": 2021,
-                "재산": 1624102
-            },
-            {
-                "연도": 2022,
-                "재산": 1935461
-            },
-            {
-                "연도": 2023,
-                "재산": 1980949
-            }
-        ],
-        "huboid": "100152755",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4810/Hb100152755/junkwa/20240216154821008_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_거제시_서일준_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4810/003_100152755_20240401_2.pdf"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-7.jpg",
-        "id": "2481001-7",
-        "재산": 1132560,
-        "생년월일": "19690110",
-        "경력": "(전)부산대학교 특임교수\n(현)개혁신당 전략기획 부총장",
-        "학력": "성균관대학교 정치외교학과 국제정치학 전공 졸업(정치학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2481001",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 16:42:00 +0900",
-                "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
-                "link": "http://www.mhj21.com/160271"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 13:26:00 +0900",
-                "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
-                "link": "https://www.asiatime.co.kr/article/20240402500170"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 05:47:00 +0900",
-                "title": "거제 김범준 후보 출정식, 김영삼 대통령 기념관에서 전의 다져",
-                "link": "https://n.news.naver.com/mnews/article/003/0012460680?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:02:00 +0900",
-                "title": "개혁신당 김범준 \"TV 토론회 출연, 다른 후보들이 동의해달라\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428053?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 06:02:00 +0900",
-                "title": "진보·보수 공존 '조선벨트' 거제…변광용·서일준 '재대결'에 김범준 등판",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877121?sid=165"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "김범준",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1132560
-            }
-        ],
-        "huboid": "100152598",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4810/Hb100152598/junkwa/20240305161059791_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_거제시_김범준_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4810/003_100152598_20240327_1.pdf"
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-1.jpg",
+    "id": "2481001-1",
+    "재산": 904840,
+    "생년월일": "19660402",
+    "경력": "(전)거제시장\n(현)더불어민주당 중앙당 정책위원회 부의장",
+    "학력": "연세대학교 행정대학원 졸업(행정학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2481001",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:04:00 +0900",
+        "title": "민주 변광용·국힘 서일준, 조선경기 활성화·거가대교 통행료 놓고 설전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007454009?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:42:00 +0900",
+        "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
+        "link": "http://www.mhj21.com/160271"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+        "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
+        "link": "https://www.asiatime.co.kr/article/20240402500170"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:08:00 +0900",
+        "title": "[총선핫스팟] 요동치는 거제, '민주당계 첫 시장' 변광용 vs '친윤 현역' 서일...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=347608"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 12:55:00 +0900",
+        "title": "조국 대표, 변광용 후보와 함께",
+        "link": "https://n.news.naver.com/mnews/article/421/0007447764?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "변광용",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 904840
+      }
+    ],
+    "huboid": "100151073",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481001-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-2.jpg",
+    "id": "2481001-2",
+    "재산": 1980949,
+    "생년월일": "19650510",
+    "경력": "(현)제21대 국회의원\n(전)제20대 대통령직 인수위원회 행정실장",
+    "학력": "서울시립대학교 일반대학원 행정학과 졸업(행정학박사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1148",
+    "regionId": "2481001",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:04:00 +0900",
+        "title": "민주 변광용·국힘 서일준, 조선경기 활성화·거가대교 통행료 놓고 설전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007454009?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:42:00 +0900",
+        "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
+        "link": "http://www.mhj21.com/160271"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+        "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
+        "link": "https://www.asiatime.co.kr/article/20240402500170"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:05:00 +0900",
+        "title": "[총선돋보기-거제] 서일준 후보, \"'영유아 무상보육' 공약 실현 최선 다할 것...",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109341"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:32:00 +0900",
+        "title": "서일준 \"거제의 영유아 무상보육 빠른 시일내 실현\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000170"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "서일준",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1499542
+      },
+      {
+        "연도": 2021,
+        "재산": 1624102
+      },
+      {
+        "연도": 2022,
+        "재산": 1935461
+      },
+      {
+        "연도": 2023,
+        "재산": 1980949
+      }
+    ],
+    "huboid": "100152755",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481001-2.jpg"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481001-7.jpg",
+    "id": "2481001-7",
+    "재산": 1132560,
+    "생년월일": "19690110",
+    "경력": "(전)부산대학교 특임교수\n(현)개혁신당 전략기획 부총장",
+    "학력": "성균관대학교 정치외교학과 국제정치학 전공 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2481001",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 16:42:00 +0900",
+        "title": "[4.10총선-211] 경남 거제시, 변광용vs서일준vs김범준. 여론조사마다 순위 달...",
+        "link": "http://www.mhj21.com/160271"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+        "title": "'대통령들의 고향' 거제시서 맞붙은 변광용 vs 서일준 vs 김범준⋯ 3자구도 '...",
+        "link": "https://www.asiatime.co.kr/article/20240402500170"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 05:47:00 +0900",
+        "title": "거제 김범준 후보 출정식, 김영삼 대통령 기념관에서 전의 다져",
+        "link": "https://n.news.naver.com/mnews/article/003/0012460680?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:02:00 +0900",
+        "title": "개혁신당 김범준 \"TV 토론회 출연, 다른 후보들이 동의해달라\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428053?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 06:02:00 +0900",
+        "title": "진보·보수 공존 '조선벨트' 거제…변광용·서일준 '재대결'에 김범준 등판",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877121?sid=165"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "김범준",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1132560
+      }
+    ],
+    "huboid": "100152598",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481001-7.jpg"
+  }
 ]

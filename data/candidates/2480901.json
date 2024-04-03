@@ -1,106 +1,104 @@
 [
-    {
-        "id": "2480901-1",
-        "regionId": "2480901",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-1.jpg",
-        "기호": 1,
-        "이름": "우서영",
-        "생년월일": "19960101",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
-        "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
-        "재산": 55585,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 09:52:00 +0900",
-                "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:44:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:07:00 +0900",
-                "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 07:40:00 +0900",
-                "title": "[4.10총선 경남] 우서영 선거캠프, \"부활절 아침, 쓰러진 생명을 구했다\"",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:04:00 +0900",
-                "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 55585
-            }
-        ],
-        "huboid": "100152707",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4809/Hb100152707/junkwa/20240213174209744_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_밀양시의령군함안군창녕군_우서영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4809/003_100152707_20240327_1.pdf"
-    },
-    {
-        "id": "2480901-2",
-        "regionId": "2480901",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-2.jpg",
-        "기호": 2,
-        "이름": "박상웅",
-        "생년월일": "19600816",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 사범대학 사회교육학과 졸업",
-        "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
-        "재산": 541328,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:50:00 +0900",
-                "title": "국힘 박상웅 후보 \"윤석열 정부 국정 성공 위한 확실한 뒷받침 되겠다\"",
-                "link": "https://n.news.naver.com/mnews/article/031/0000825447?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:59:00 +0900",
-                "title": "박상웅 밀양의령함안창녕 후보 \"신성장 중심도시화 함안\" 공약",
-                "link": "https://n.news.naver.com/mnews/article/088/0000870657?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-                "title": "박상웅 후보, 신성장 중심도시화 함안 공약 지지호소",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317442"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-                "title": "박상웅 후보 선거운동원들, 금쪽같은 시간 쪼개 거리 청소운동 벌여",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317441"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:52:00 +0900",
-                "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
-                "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 541328
-            }
-        ],
-        "huboid": "100151374",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4809/Hb100151374/junkwa/20231212150829242_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_밀양시의령군함안군창녕군_박상웅_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4809/003_100151374_20240327_1.pdf"
-    }
+  {
+    "id": "2480901-1",
+    "regionId": "2480901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-1.jpg",
+    "기호": 1,
+    "이름": "우서영",
+    "생년월일": "19960101",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "한동대학교 한국법, 사회복지학 졸업(복수전공)",
+    "경력": "(현)더불어민주당 부대변인\n(현)더불어민주당 밀양시의령군함안군창녕군 지역위원장",
+    "재산": 55585,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 09:52:00 +0900",
+        "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:44:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693023?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:07:00 +0900",
+        "title": "[총선] 밀양·의령·함안·창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011692876?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 07:40:00 +0900",
+        "title": "[4.10총선 경남] 우서영 선거캠프, \"부활절 아침, 쓰러진 생명을 구했다\"",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641264"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:04:00 +0900",
+        "title": "밀양창녕함안의령 전국 최연소 우서영 vs 32년 만에 공천 박상웅 대결",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549468"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 55585
+      }
+    ],
+    "huboid": "100152707",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480901-1.jpg"
+  },
+  {
+    "id": "2480901-2",
+    "regionId": "2480901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480901-2.jpg",
+    "기호": 2,
+    "이름": "박상웅",
+    "생년월일": "19600816",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 사범대학 사회교육학과 졸업",
+    "경력": "(전)제20대 대통령직인수위원회 기획조정분과 자문위원\n(전)자유한국당 인재영입위원",
+    "재산": 541328,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:50:00 +0900",
+        "title": "국힘 박상웅 후보 \"윤석열 정부 국정 성공 위한 확실한 뒷받침 되겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0000825447?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:59:00 +0900",
+        "title": "박상웅 밀양의령함안창녕 후보 \"신성장 중심도시화 함안\" 공약",
+        "link": "https://n.news.naver.com/mnews/article/088/0000870657?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+        "title": "박상웅 후보, 신성장 중심도시화 함안 공약 지지호소",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317442"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+        "title": "박상웅 후보 선거운동원들, 금쪽같은 시간 쪼개 거리 청소운동 벌여",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317441"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:52:00 +0900",
+        "title": "[총선] 밀양의령함안창녕…우서영 vs 박상웅",
+        "link": "https://n.news.naver.com/mnews/article/056/0011693452?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 541328
+      }
+    ],
+    "huboid": "100151374",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480901-2.jpg"
+  }
 ]

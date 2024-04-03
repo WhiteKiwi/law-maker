@@ -1,106 +1,104 @@
 [
-    {
-        "id": "2280601-1",
-        "regionId": "2280601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280601-1.jpg",
-        "기호": 1,
-        "이름": "노종면",
-        "생년월일": "19670915",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "더불어민주당 대변인",
-        "학력": "고려대학교 법과대학 법학과 졸업(법학사)",
-        "경력": "(현) 더불어민주당 대변인\n(전) YTN 앵커",
-        "재산": 1041127,
-        "군필여부": true,
-        "전과건수": 3,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:30:00 +0900",
-                "title": "노종면 부평갑 후보, \"부평 곳곳에 주차장 건설해 '주차허브'완성\"",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645173"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:42:00 +0900",
-                "title": "노종면 부평갑 후보, 부평에 '주차허브' 완성 공약 제시",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081546"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:18:00 +0900",
-                "title": "[총선] 노종면 후보 \"부평 곳곳에 주차장 건설해 '주차허브' 완성하겠다\"",
-                "link": "https://news.ifm.kr/news/articleView.html?idxno=384908"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:14:00 +0900",
-                "title": "[부평갑] 민주당 노종면 \"캠프마켓·북부교육청 등 '주차허브' 조성\"",
-                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244364"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:28:00 +0900",
-                "title": "박지원 전 원장, 부평갑 노종면 후보 지원 유세...\"정권심판, 꼭 투표해 달라...",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417503"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1041127
-            }
-        ],
-        "huboid": "100152881",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100152881/junkwa/20240228105956324_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구갑_노종면_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100152881_20240330_1.pdf"
-    },
-    {
-        "id": "2280601-2",
-        "regionId": "2280601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280601-2.jpg",
-        "기호": 2,
-        "이름": "유제홍",
-        "생년월일": "19720206",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "인하대학교 공학대학원 졸업(건축공학과 공학석사)",
-        "경력": "(전)인천광역시의회의원\n(전)부평구청장선거 후보",
-        "재산": 1844116,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 15:24:00 +0900",
-                "title": "부평갑 노종면·유제홍, 군부대 부지 활용 '동상이몽'",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461810"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:34:00 +0900",
-                "title": "[격전지를 가다] 양자 대결 부평구갑, 노종면 vs 유제홍",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461661"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:14:00 +0900",
-                "title": "[부평갑] 국힘 유제홍 \"지방의회부터 다진 지역현안 해결 적임자\"",
-                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244276"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:34:00 +0900",
-                "title": "한동훈 국힘 위원장, 유제홍 부평갑 후보 지원",
-                "link": "http://www.asiaa.co.kr/news/articleView.html?idxno=165443"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:58:00 +0900",
-                "title": "[포토] 지지 호소하는 부평구갑 유제홍 후보",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315370"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1844116
-            }
-        ],
-        "huboid": "100151406",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2806/Hb100151406/junkwa/20231212173709731_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부평구갑_유제홍_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2806/003_100151406_20240330_1.pdf"
-    }
+  {
+    "id": "2280601-1",
+    "regionId": "2280601",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280601-1.jpg",
+    "기호": 1,
+    "이름": "노종면",
+    "생년월일": "19670915",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "더불어민주당 대변인",
+    "학력": "고려대학교 법과대학 법학과 졸업(법학사)",
+    "경력": "(현) 더불어민주당 대변인\n(전) YTN 앵커",
+    "재산": 1041127,
+    "군필여부": true,
+    "전과건수": 3,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:30:00 +0900",
+        "title": "노종면 부평갑 후보, \"부평 곳곳에 주차장 건설해 '주차허브'완성\"",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645173"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:42:00 +0900",
+        "title": "노종면 부평갑 후보, 부평에 '주차허브' 완성 공약 제시",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081546"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:18:00 +0900",
+        "title": "[총선] 노종면 후보 \"부평 곳곳에 주차장 건설해 '주차허브' 완성하겠다\"",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=384908"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:14:00 +0900",
+        "title": "[부평갑] 민주당 노종면 \"캠프마켓·북부교육청 등 '주차허브' 조성\"",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244364"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:28:00 +0900",
+        "title": "박지원 전 원장, 부평갑 노종면 후보 지원 유세...\"정권심판, 꼭 투표해 달라...",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417503"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1041127
+      }
+    ],
+    "huboid": "100152881",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280601-1.jpg"
+  },
+  {
+    "id": "2280601-2",
+    "regionId": "2280601",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280601-2.jpg",
+    "기호": 2,
+    "이름": "유제홍",
+    "생년월일": "19720206",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "인하대학교 공학대학원 졸업(건축공학과 공학석사)",
+    "경력": "(전)인천광역시의회의원\n(전)부평구청장선거 후보",
+    "재산": 1844116,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:24:00 +0900",
+        "title": "부평갑 노종면·유제홍, 군부대 부지 활용 '동상이몽'",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461810"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:34:00 +0900",
+        "title": "[격전지를 가다] 양자 대결 부평구갑, 노종면 vs 유제홍",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461661"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:14:00 +0900",
+        "title": "[부평갑] 국힘 유제홍 \"지방의회부터 다진 지역현안 해결 적임자\"",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244276"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:34:00 +0900",
+        "title": "한동훈 국힘 위원장, 유제홍 부평갑 후보 지원",
+        "link": "http://www.asiaa.co.kr/news/articleView.html?idxno=165443"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:58:00 +0900",
+        "title": "[포토] 지지 호소하는 부평구갑 유제홍 후보",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315370"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1844116
+      }
+    ],
+    "huboid": "100151406",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280601-2.jpg"
+  }
 ]

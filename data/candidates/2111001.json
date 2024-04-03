@@ -1,158 +1,155 @@
 [
-    {
-        "id": "2111001-1",
-        "regionId": "2111001",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-1.jpg",
-        "기호": 1,
-        "이름": "안귀령",
-        "생년월일": "19890601",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "이화여자대학교 사회과학대학 언론정보학과 졸업",
-        "경력": "(현) 더불어민주당 대변인\n(전) YTN 앵커",
-        "재산": 90000,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:10:00 +0900",
-                "title": "선관위, 민주 안귀령 ‘선거법 위반’ 수사자료 경찰에 통보",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630049?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:35:00 +0900",
-                "title": "[영상]“민주 안귀령, 선거법 위반\"…수사자료 경찰에 넘긴 선관위, 왜?",
-                "link": "https://n.news.naver.com/mnews/article/011/0004322417?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 23:17:00 +0900",
-                "title": "선관위, 민주 안귀령 '마이크 이용' 수사자료 경찰 통보",
-                "link": "https://n.news.naver.com/mnews/article/052/0002018229?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:48:00 +0900",
-                "title": "[여랑야랑]한동훈·조국, 자이언츠와 옥중수기 / 안귀령, 선거법 위반 경찰로...",
-                "link": "https://n.news.naver.com/mnews/article/449/0000271644?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:41:00 +0900",
-                "title": "[총선톡톡] \"성급했다\" 탄핵 요구 철회 / \"안귀령 자료 경찰에 넘겨\" / 화성을...",
-                "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 90000
-            }
-        ],
-        "huboid": "100152893",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1110/Hb100152893/junkwa/20240229151232510_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_도봉구갑_안귀령_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1110/003_100152893_20240329_2.pdf"
-    },
-    {
-        "id": "2111001-2",
-        "regionId": "2111001",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-2.jpg",
-        "기호": 2,
-        "이름": "김재섭",
-        "생년월일": "19870628",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 법과대학 법학부 졸업(법학사)",
-        "경력": "(현) 국민의힘 도봉(갑) 조직위원장\n(전) 국민의힘 비상대책위원",
-        "재산": 168260,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:18:00 +0900",
-                "title": "[현장] 도봉 뒤흔든 지지자 함성…김재섭 집중유세 \"도봉 승리로 판 뒤집자\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002816387?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:08:00 +0900",
-                "title": "[22대 총선, 이 후보가 궁금하다]'새 인물 대결'에 나선 김재섭 \"지금 기회 놓...",
-                "link": "http://www.metroseoul.co.kr/article/20240402500560"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:42:00 +0900",
-                "title": "與 도봉갑 김재섭 \"한동훈, 총선 뒤에도 당에서 지도력 발휘해야\"",
-                "link": "https://n.news.naver.com/mnews/article/448/0000453760?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 14:18:00 +0900",
-                "title": "[강펀치] 김재섭 \"4대째 사는 김재섭과 동네 이름도 모르는 후보의 대결\"",
-                "link": "https://n.news.naver.com/mnews/article/448/0000453753?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:52:00 +0900",
-                "title": "지지 호소하는 안귀령-김재섭",
-                "link": "https://n.news.naver.com/mnews/article/003/0012464698?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 168260
-            }
-        ],
-        "huboid": "100151942",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1110/Hb100151942/junkwa/20240102161230866_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_도봉구갑_김재섭_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1110/003_100151942_20240328_1.pdf"
-    },
-    {
-        "id": "2111001-5",
-        "regionId": "2111001",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-5.jpg",
-        "기호": 5,
-        "이름": "윤오",
-        "생년월일": "19670510",
-        "정당": "녹색정의당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "성균관대학교 정치외교학과 졸업",
-        "경력": "(현) 녹색정의당 도봉구위원장\n(전) FCB Korea 국장",
-        "재산": 29760,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 18 Mar 2024 10:19:00 +0900",
-                "title": "[서울 도봉갑] 더불어민주당 안귀령 41.3%, 국민의힘 김재섭 33.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002426170?sid=165"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 20:37:00 +0900",
-                "title": "녹색정의당, 총선 출마 후보 확정…‘비례 14명·지역구 17명’",
-                "link": "https://n.news.naver.com/mnews/article/005/0001681318?sid=100"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 19:33:00 +0900",
-                "title": "녹색정의당, 총선 출마 후보 31명 공천 확정…비례 1번에 나순자",
-                "link": "https://n.news.naver.com/mnews/article/003/0012429899?sid=165"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 11:45:00 +0900",
-                "title": "김준우, 녹색정의당 비례 출마 \"법사위서 노회찬 뒤이을 것\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002425420?sid=165"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 10:37:00 +0900",
-                "title": "녹색정의당 비례 1번에 '의료노조' 나순자…김준우 대표는 6번",
-                "link": "https://n.news.naver.com/mnews/article/008/0005010505?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 29760
-            }
-        ],
-        "huboid": "100152911",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1110/Hb100152911/junkwa/20240304112943906_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_도봉구갑_윤오_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1110/003_100152911_20240328_1.pdf"
-    }
+  {
+    "id": "2111001-1",
+    "regionId": "2111001",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-1.jpg",
+    "기호": 1,
+    "이름": "안귀령",
+    "생년월일": "19890601",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "이화여자대학교 사회과학대학 언론정보학과 졸업",
+    "경력": "(현) 더불어민주당 대변인\n(전) YTN 앵커",
+    "재산": 90000,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:10:00 +0900",
+        "title": "선관위, 민주 안귀령 ‘선거법 위반’ 수사자료 경찰에 통보",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630049?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:35:00 +0900",
+        "title": "[영상]“민주 안귀령, 선거법 위반\"…수사자료 경찰에 넘긴 선관위, 왜?",
+        "link": "https://n.news.naver.com/mnews/article/011/0004322417?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 23:17:00 +0900",
+        "title": "선관위, 민주 안귀령 '마이크 이용' 수사자료 경찰 통보",
+        "link": "https://n.news.naver.com/mnews/article/052/0002018229?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:48:00 +0900",
+        "title": "[여랑야랑]한동훈·조국, 자이언츠와 옥중수기 / 안귀령, 선거법 위반 경찰로...",
+        "link": "https://n.news.naver.com/mnews/article/449/0000271644?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:41:00 +0900",
+        "title": "[총선톡톡] \"성급했다\" 탄핵 요구 철회 / \"안귀령 자료 경찰에 넘겨\" / 화성을...",
+        "link": "https://n.news.naver.com/mnews/article/057/0001809802?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 90000
+      }
+    ],
+    "huboid": "100152893",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111001-1.jpg"
+  },
+  {
+    "id": "2111001-2",
+    "regionId": "2111001",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-2.jpg",
+    "기호": 2,
+    "이름": "김재섭",
+    "생년월일": "19870628",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 법과대학 법학부 졸업(법학사)",
+    "경력": "(현) 국민의힘 도봉(갑) 조직위원장\n(전) 국민의힘 비상대책위원",
+    "재산": 168260,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:18:00 +0900",
+        "title": "[현장] 도봉 뒤흔든 지지자 함성…김재섭 집중유세 \"도봉 승리로 판 뒤집자\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002816387?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:08:00 +0900",
+        "title": "[22대 총선, 이 후보가 궁금하다]'새 인물 대결'에 나선 김재섭 \"지금 기회 놓...",
+        "link": "http://www.metroseoul.co.kr/article/20240402500560"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:42:00 +0900",
+        "title": "與 도봉갑 김재섭 \"한동훈, 총선 뒤에도 당에서 지도력 발휘해야\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000453760?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 14:18:00 +0900",
+        "title": "[강펀치] 김재섭 \"4대째 사는 김재섭과 동네 이름도 모르는 후보의 대결\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000453753?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:52:00 +0900",
+        "title": "지지 호소하는 안귀령-김재섭",
+        "link": "https://n.news.naver.com/mnews/article/003/0012464698?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 168260
+      }
+    ],
+    "huboid": "100151942",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111001-2.jpg"
+  },
+  {
+    "id": "2111001-5",
+    "regionId": "2111001",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111001-5.jpg",
+    "기호": 5,
+    "이름": "윤오",
+    "생년월일": "19670510",
+    "정당": "녹색정의당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "성균관대학교 정치외교학과 졸업",
+    "경력": "(현) 녹색정의당 도봉구위원장\n(전) FCB Korea 국장",
+    "재산": 29760,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 18 Mar 2024 10:19:00 +0900",
+        "title": "[서울 도봉갑] 더불어민주당 안귀령 41.3%, 국민의힘 김재섭 33.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002426170?sid=165"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 20:37:00 +0900",
+        "title": "녹색정의당, 총선 출마 후보 확정…‘비례 14명·지역구 17명’",
+        "link": "https://n.news.naver.com/mnews/article/005/0001681318?sid=100"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 19:33:00 +0900",
+        "title": "녹색정의당, 총선 출마 후보 31명 공천 확정…비례 1번에 나순자",
+        "link": "https://n.news.naver.com/mnews/article/003/0012429899?sid=165"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 11:45:00 +0900",
+        "title": "김준우, 녹색정의당 비례 출마 \"법사위서 노회찬 뒤이을 것\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002425420?sid=165"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 10:37:00 +0900",
+        "title": "녹색정의당 비례 1번에 '의료노조' 나순자…김준우 대표는 6번",
+        "link": "https://n.news.naver.com/mnews/article/008/0005010505?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 29760
+      }
+    ],
+    "huboid": "100152911",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111001-5.jpg"
+  }
 ]

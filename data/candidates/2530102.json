@@ -1,276 +1,271 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-1.jpg",
-        "id": "2530102-1",
-        "재산": 1307610,
-        "생년월일": "19620106",
-        "경력": "(전)서울중앙지방검찰청 검사장\n(전)문재인정부 법무부 검찰국장",
-        "학력": "경희대학교 대학원 졸업(법학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2530102",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 21:47:00 +0900",
-                "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:29:00 +0900",
-                "title": "이성윤 \"새만금 예산 삭감 때 함거 들어갔어야\" vs 정운천 \"검찰 독재주의\"",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326126?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 12:30:00 +0900",
-                "title": "전북 전주을, 민주 이성윤 51.7% vs 국민 정운천 17.2% [여론조사꽃]",
-                "link": "https://n.news.naver.com/mnews/article/123/0002331095?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:32:00 +0900",
-                "title": "이성윤 후보, 전주개인택시단위조합과 정책간담회 가져",
-                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464002"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:58:00 +0900",
-                "title": "'이성윤 토론회 4차례 불참'에 김부겸 \"옳지 않다\" 쓴소리",
-                "link": "https://n.news.naver.com/mnews/article/659/0000020214?sid=102"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "이성윤",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1307610
-            }
-        ],
-        "huboid": "100152861",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5301/Hb100152861/junkwa/20240226164312201_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_전주시을_이성윤_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5301/003_100152861_20240328_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-2.jpg",
-        "id": "2530102-2",
-        "재산": 3042454,
-        "생년월일": "19540410",
-        "경력": "(전)농림수산식품부 장관\n(현)제21대 국회의원",
-        "학력": "고려대학교 농업경제학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1014",
-        "regionId": "2530102",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 21:47:00 +0900",
-                "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:29:00 +0900",
-                "title": "이성윤 \"새만금 예산 삭감 때 함거 들어갔어야\" vs 정운천 \"검찰 독재주의\"",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326126?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:50:00 +0900",
-                "title": "정운천 후보, 엄숙한 분위기 속 큰절하며 시민들께 사죄 이어가",
-                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464185"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:24:00 +0900",
-                "title": "전주의 아픔 분노 절규한 정운천 후보",
-                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464152"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:38:00 +0900",
-                "title": "정운천 후보, 출근길 도청앞 사거리서 사죄의미 담아 '큰절 유세'",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326067?sid=102"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "정운천",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2297373
-            },
-            {
-                "연도": 2021,
-                "재산": 2473205
-            },
-            {
-                "연도": 2022,
-                "재산": 2993000
-            },
-            {
-                "연도": 2023,
-                "재산": 3042454
-            }
-        ],
-        "huboid": "100152211",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5301/Hb100152211/junkwa/20240116173016458_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_전주시을_정운천_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5301/003_100152211_20240328_1.pdf"
-    },
-    {
-        "전과건수": 5,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-7.jpg",
-        "id": "2530102-7",
-        "재산": 701895,
-        "생년월일": "19720907",
-        "경력": "(현)제21대 국회의원\n(현)진보당 원내대표",
-        "학력": "한국외국어대학교 언어인지과학과 졸업",
-        "직업": "정치인",
-        "성별": "남",
-        "id_21th": "1206",
-        "regionId": "2530102",
-        "기호": 7,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 21:47:00 +0900",
-                "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:14:00 +0900",
-                "title": "[전북 전주을] 민주당 이성윤 51.7%, 국민의힘 정운천 17.2%, 진보당 강성희 ...",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428306?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 16:47:00 +0900",
-                "title": "유세하는 강성희 진보당 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448506?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 16:47:00 +0900",
-                "title": "지지 호소하는 강성희 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448505?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 16:47:00 +0900",
-                "title": "윤희숙 대표, 강성희 후보 지원 유세",
-                "link": "https://n.news.naver.com/mnews/article/421/0007448504?sid=165"
-            }
-        ],
-        "정당": "진보당",
-        "이름": "강성희",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 701895
-            }
-        ],
-        "huboid": "100152652",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5301/Hb100152652/junkwa/20240207135221482_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_전주시을_강성희_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5301/003_100152652_20240328_1.pdf"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-8.jpg",
-        "id": "2530102-8",
-        "재산": 715929,
-        "생년월일": "19560201",
-        "경력": "(전)전북대학교 농업생명과학대학 겸임교수\n(전)주한 미군 121 병원 CSH/ACC 의사",
-        "학력": "미국 존스홉킨스대학교 과학박사(2003.1.1.~2007.5.17.)",
-        "직업": "홉킨스 전일내과 원장",
-        "성별": "남",
-        "regionId": "2530102",
-        "기호": 8,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Thu, 28 Mar 2024 09:16:00 +0900",
-                "title": "손 흔드는 자유민주당 전기엽 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014594015?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 09:14:00 +0900",
-                "title": "자유민주당 전기엽, 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/001/0014594008?sid=165"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 13:56:00 +0900",
-                "title": "자유민주당 전기엽 전주시을 예비후보 선거사무소 개소…'백신피해 국가보상'...",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240314010007773"
-            },
-            {
-                "date": "Wed, 13 Mar 2024 18:57:00 +0900",
-                "title": "전기엽 예비후보, 선거사무소 개소식…본격 표밭갈이",
-                "link": "https://n.news.naver.com/mnews/article/031/0000820110?sid=102"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 17:34:00 +0900",
-                "title": "이번주 전북 대진표 완성··· 각축전 예상",
-                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965556"
-            }
-        ],
-        "정당": "자유민주당",
-        "이름": "전기엽",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 715929
-            }
-        ],
-        "huboid": "100152872",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5301/Hb100152872/junkwa/20240227161419556_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_전주시을_전기엽_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5301/003_100152872_20240328_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-9.jpg",
-        "id": "2530102-9",
-        "재산": 373969,
-        "생년월일": "19620725",
-        "경력": "(전)제8회 전국동시지방선거 서울특별시장 후보\n(전)2023년 국회의원재선거(전주시을선거구) 후보",
-        "학력": "서울대학교 외교학과 졸업",
-        "직업": "정치인",
-        "성별": "남",
-        "regionId": "2530102",
-        "기호": 9,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 21 Mar 2024 10:22:00 +0900",
-                "title": "후보 등록하는 김광종",
-                "link": "https://n.news.naver.com/mnews/article/421/0007426002?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 09:37:00 +0900",
-                "title": "전주을 후보 등록하는 무소속 김광종 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012440619?sid=165"
-            },
-            {
-                "date": "Wed, 13 Mar 2024 21:32:00 +0900",
-                "title": "전주을 김광종 \"전주, 행정복합도시로 조성\"",
-                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181552"
-            },
-            {
-                "date": "Wed, 13 Mar 2024 21:24:00 +0900",
-                "title": "김광종, \"복지부-농림부 전주 이전\"",
-                "link": "http://sjbnews.com/news/news.php?number=809604"
-            },
-            {
-                "date": "Wed, 13 Mar 2024 19:40:00 +0900",
-                "title": "무소속 김광종 \"전주시 제2행정복합도시 만들 것\"",
-                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965725"
-            }
-        ],
-        "정당": "무소속",
-        "이름": "김광종",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 373969
-            }
-        ],
-        "huboid": "100152685",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5301/Hb100152685/junkwa/20240208164121119_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_전주시을_김광종_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5301/003_100152685_20240328_1.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-1.jpg",
+    "id": "2530102-1",
+    "재산": 1307610,
+    "생년월일": "19620106",
+    "경력": "(전)서울중앙지방검찰청 검사장\n(전)문재인정부 법무부 검찰국장",
+    "학력": "경희대학교 대학원 졸업(법학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2530102",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 21:47:00 +0900",
+        "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:29:00 +0900",
+        "title": "이성윤 \"새만금 예산 삭감 때 함거 들어갔어야\" vs 정운천 \"검찰 독재주의\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326126?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:30:00 +0900",
+        "title": "전북 전주을, 민주 이성윤 51.7% vs 국민 정운천 17.2% [여론조사꽃]",
+        "link": "https://n.news.naver.com/mnews/article/123/0002331095?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:32:00 +0900",
+        "title": "이성윤 후보, 전주개인택시단위조합과 정책간담회 가져",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464002"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:58:00 +0900",
+        "title": "'이성윤 토론회 4차례 불참'에 김부겸 \"옳지 않다\" 쓴소리",
+        "link": "https://n.news.naver.com/mnews/article/659/0000020214?sid=102"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이성윤",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1307610
+      }
+    ],
+    "huboid": "100152861",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-2.jpg",
+    "id": "2530102-2",
+    "재산": 3042454,
+    "생년월일": "19540410",
+    "경력": "(전)농림수산식품부 장관\n(현)제21대 국회의원",
+    "학력": "고려대학교 농업경제학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1014",
+    "regionId": "2530102",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 21:47:00 +0900",
+        "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:29:00 +0900",
+        "title": "이성윤 \"새만금 예산 삭감 때 함거 들어갔어야\" vs 정운천 \"검찰 독재주의\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326126?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:50:00 +0900",
+        "title": "정운천 후보, 엄숙한 분위기 속 큰절하며 시민들께 사죄 이어가",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464185"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:24:00 +0900",
+        "title": "전주의 아픔 분노 절규한 정운천 후보",
+        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464152"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:38:00 +0900",
+        "title": "정운천 후보, 출근길 도청앞 사거리서 사죄의미 담아 '큰절 유세'",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326067?sid=102"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "정운천",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2297373
+      },
+      {
+        "연도": 2021,
+        "재산": 2473205
+      },
+      {
+        "연도": 2022,
+        "재산": 2993000
+      },
+      {
+        "연도": 2023,
+        "재산": 3042454
+      }
+    ],
+    "huboid": "100152211",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-2.jpg"
+  },
+  {
+    "전과건수": 5,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-7.jpg",
+    "id": "2530102-7",
+    "재산": 701895,
+    "생년월일": "19720907",
+    "경력": "(현)제21대 국회의원\n(현)진보당 원내대표",
+    "학력": "한국외국어대학교 언어인지과학과 졸업",
+    "직업": "정치인",
+    "성별": "남",
+    "id_21th": "1206",
+    "regionId": "2530102",
+    "기호": 7,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 21:47:00 +0900",
+        "title": "이성윤 \"협치는 용산 가서\" vs 정운천 \"기초가 있어야지\" vs 강성희 \"검수완박...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326140?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+        "title": "[전북 전주을] 민주당 이성윤 51.7%, 국민의힘 정운천 17.2%, 진보당 강성희 ...",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428306?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:47:00 +0900",
+        "title": "유세하는 강성희 진보당 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448506?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:47:00 +0900",
+        "title": "지지 호소하는 강성희 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448505?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 16:47:00 +0900",
+        "title": "윤희숙 대표, 강성희 후보 지원 유세",
+        "link": "https://n.news.naver.com/mnews/article/421/0007448504?sid=165"
+      }
+    ],
+    "정당": "진보당",
+    "이름": "강성희",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 701895
+      }
+    ],
+    "huboid": "100152652",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-7.jpg"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-8.jpg",
+    "id": "2530102-8",
+    "재산": 715929,
+    "생년월일": "19560201",
+    "경력": "(전)전북대학교 농업생명과학대학 겸임교수\n(전)주한 미군 121 병원 CSH/ACC 의사",
+    "학력": "미국 존스홉킨스대학교 과학박사(2003.1.1.~2007.5.17.)",
+    "직업": "홉킨스 전일내과 원장",
+    "성별": "남",
+    "regionId": "2530102",
+    "기호": 8,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Thu, 28 Mar 2024 09:16:00 +0900",
+        "title": "손 흔드는 자유민주당 전기엽 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014594015?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 09:14:00 +0900",
+        "title": "자유민주당 전기엽, 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/001/0014594008?sid=165"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 13:56:00 +0900",
+        "title": "자유민주당 전기엽 전주시을 예비후보 선거사무소 개소…'백신피해 국가보상'...",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240314010007773"
+      },
+      {
+        "date": "Wed, 13 Mar 2024 18:57:00 +0900",
+        "title": "전기엽 예비후보, 선거사무소 개소식…본격 표밭갈이",
+        "link": "https://n.news.naver.com/mnews/article/031/0000820110?sid=102"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 17:34:00 +0900",
+        "title": "이번주 전북 대진표 완성··· 각축전 예상",
+        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965556"
+      }
+    ],
+    "정당": "자유민주당",
+    "이름": "전기엽",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 715929
+      }
+    ],
+    "huboid": "100152872",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-8.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-9.jpg",
+    "id": "2530102-9",
+    "재산": 373969,
+    "생년월일": "19620725",
+    "경력": "(전)제8회 전국동시지방선거 서울특별시장 후보\n(전)2023년 국회의원재선거(전주시을선거구) 후보",
+    "학력": "서울대학교 외교학과 졸업",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2530102",
+    "기호": 9,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 21 Mar 2024 10:22:00 +0900",
+        "title": "후보 등록하는 김광종",
+        "link": "https://n.news.naver.com/mnews/article/421/0007426002?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 09:37:00 +0900",
+        "title": "전주을 후보 등록하는 무소속 김광종 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012440619?sid=165"
+      },
+      {
+        "date": "Wed, 13 Mar 2024 21:32:00 +0900",
+        "title": "전주을 김광종 \"전주, 행정복합도시로 조성\"",
+        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181552"
+      },
+      {
+        "date": "Wed, 13 Mar 2024 21:24:00 +0900",
+        "title": "김광종, \"복지부-농림부 전주 이전\"",
+        "link": "http://sjbnews.com/news/news.php?number=809604"
+      },
+      {
+        "date": "Wed, 13 Mar 2024 19:40:00 +0900",
+        "title": "무소속 김광종 \"전주시 제2행정복합도시 만들 것\"",
+        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965725"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "김광종",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 373969
+      }
+    ],
+    "huboid": "100152685",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-9.jpg"
+  }
 ]

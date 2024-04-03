@@ -1,171 +1,168 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-1.jpg",
-        "id": "2470101-1",
-        "재산": 77078,
-        "생년월일": "19670723",
-        "경력": "(전)청와대 균형발전 선임행정관\n(전)한국도로공사시설관리 대표이사",
-        "학력": "영남대학교 문과대학 철학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2470101",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:56:00 +0900",
-                "title": "[총선특별대담1] 포항 북구 더불어민주당 오중기 후보",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=437018"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:56:00 +0900",
-                "title": "더불어민주당 이탄희 의원, 포항에서 오중기 ·김상헌 지원 유세",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990712"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:25:00 +0900",
-                "title": "이탄희 의원 \"정권 심판 오중기·김상헌 지지\" 호소",
-                "link": "https://n.news.naver.com/mnews/article/079/0003881035?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-                "title": "(4.10총선개별대담) 포항북구 기호1번 더불어민주당 오중기 후보",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667850"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:48:00 +0900",
-                "title": "[4.10총선-167] 포항북, 오중기vs김정재vs이재원. 3차대첩",
-                "link": "http://www.mhj21.com/160214"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "오중기",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 77078
-            }
-        ],
-        "huboid": "100151172",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4701/Hb100151172/junkwa/20240321105534479_7.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_포항시북구_오중기_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4701/003_100151172_20240329_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-2.jpg",
-        "id": "2470101-2",
-        "재산": 898970,
-        "생년월일": "19660215",
-        "경력": "(현)제21대 국회의원(포항시북구/국민의힘)\n(현)제21대 국회 후반기 국토교통위원회 간사",
-        "학력": "프랭클린피어스 법과대학원 졸업(J.D. 2001.8 - 2004.5)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "973",
-        "regionId": "2470101",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-                "title": "김정재, 장날 맞은 청하공진시장 찾아 주민·상인들 표심공략",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436959"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-                "title": "[4·10 필드 속으로] 김정재 후보, 청하공진시장서 유세",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000148"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:24:00 +0900",
-                "title": "[4.10총선 포항] '3선 도전' 나선 포항 북구 김정재, 청하공진시장서 \"표심 공...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641443"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:50:00 +0900",
-                "title": "김정재 \"3선 의원이 돼 더 큰 포항발전 이끌어내겠다\"",
-                "link": "http://www.hidomin.com/news/articleView.html?idxno=544271"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:46:00 +0900",
-                "title": "김정재 포항북 후보, 청하공진시장 오일장 찾아 집중유세",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005214"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김정재",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 579572
-            },
-            {
-                "연도": 2021,
-                "재산": 698782
-            },
-            {
-                "연도": 2022,
-                "재산": 807284
-            },
-            {
-                "연도": 2023,
-                "재산": 898970
-            }
-        ],
-        "huboid": "100152560",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4701/Hb100152560/junkwa/20240321113931887_7.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_포항시북구_김정재_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4701/003_100152560_20240329_1.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-7.jpg",
-        "id": "2470101-7",
-        "재산": 3190666,
-        "생년월일": "19691208",
-        "경력": "(현)포항지역학연구회 대표\n(전)이재원화인의원 대표원장",
-        "학력": "울산대학교 의과대학 의학과 졸업",
-        "직업": "포스텍 융합문명연구원 겸직교수",
-        "성별": "남",
-        "regionId": "2470101",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 14:48:00 +0900",
-                "title": "[4.10총선-167] 포항북, 오중기vs김정재vs이재원. 3차대첩",
-                "link": "http://www.mhj21.com/160214"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
-                "title": "포항북구 무소속 이재원 후보, 31일 표심 잡기 나서",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990346"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 08:46:00 +0900",
-                "title": "이재원 (무소속, 포항북)후보, 출정식...33인 공동선대위원장 체제출범",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667367"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:32:00 +0900",
-                "title": "이재원, \"역사적 포항시민정치독립선언 원년\"",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=436539"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:42:00 +0900",
-                "title": "이재원, 포항시민정치독립선언서 낭독…결의 다져",
-                "link": "http://www.ksmnews.co.kr/news/view.php?idx=475164"
-            }
-        ],
-        "정당": "무소속",
-        "이름": "이재원",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3190666
-            }
-        ],
-        "huboid": "100151861",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4701/Hb100151861/junkwa/20240321111050836_8.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_포항시북구_이재원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4701/003_100151861_20240329_1.pdf"
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-1.jpg",
+    "id": "2470101-1",
+    "재산": 77078,
+    "생년월일": "19670723",
+    "경력": "(전)청와대 균형발전 선임행정관\n(전)한국도로공사시설관리 대표이사",
+    "학력": "영남대학교 문과대학 철학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2470101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:56:00 +0900",
+        "title": "[총선특별대담1] 포항 북구 더불어민주당 오중기 후보",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=437018"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:56:00 +0900",
+        "title": "더불어민주당 이탄희 의원, 포항에서 오중기 ·김상헌 지원 유세",
+        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990712"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:25:00 +0900",
+        "title": "이탄희 의원 \"정권 심판 오중기·김상헌 지지\" 호소",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881035?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+        "title": "(4.10총선개별대담) 포항북구 기호1번 더불어민주당 오중기 후보",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667850"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:48:00 +0900",
+        "title": "[4.10총선-167] 포항북, 오중기vs김정재vs이재원. 3차대첩",
+        "link": "http://www.mhj21.com/160214"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오중기",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 77078
+      }
+    ],
+    "huboid": "100151172",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470101-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-2.jpg",
+    "id": "2470101-2",
+    "재산": 898970,
+    "생년월일": "19660215",
+    "경력": "(현)제21대 국회의원(포항시북구/국민의힘)\n(현)제21대 국회 후반기 국토교통위원회 간사",
+    "학력": "프랭클린피어스 법과대학원 졸업(J.D. 2001.8 - 2004.5)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "973",
+    "regionId": "2470101",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+        "title": "김정재, 장날 맞은 청하공진시장 찾아 주민·상인들 표심공략",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436959"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
+        "title": "[4·10 필드 속으로] 김정재 후보, 청하공진시장서 유세",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000148"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:24:00 +0900",
+        "title": "[4.10총선 포항] '3선 도전' 나선 포항 북구 김정재, 청하공진시장서 \"표심 공...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641443"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:50:00 +0900",
+        "title": "김정재 \"3선 의원이 돼 더 큰 포항발전 이끌어내겠다\"",
+        "link": "http://www.hidomin.com/news/articleView.html?idxno=544271"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:46:00 +0900",
+        "title": "김정재 포항북 후보, 청하공진시장 오일장 찾아 집중유세",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005214"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김정재",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 579572
+      },
+      {
+        "연도": 2021,
+        "재산": 698782
+      },
+      {
+        "연도": 2022,
+        "재산": 807284
+      },
+      {
+        "연도": 2023,
+        "재산": 898970
+      }
+    ],
+    "huboid": "100152560",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470101-2.jpg"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470101-7.jpg",
+    "id": "2470101-7",
+    "재산": 3190666,
+    "생년월일": "19691208",
+    "경력": "(현)포항지역학연구회 대표\n(전)이재원화인의원 대표원장",
+    "학력": "울산대학교 의과대학 의학과 졸업",
+    "직업": "포스텍 융합문명연구원 겸직교수",
+    "성별": "남",
+    "regionId": "2470101",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 14:48:00 +0900",
+        "title": "[4.10총선-167] 포항북, 오중기vs김정재vs이재원. 3차대첩",
+        "link": "http://www.mhj21.com/160214"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+        "title": "포항북구 무소속 이재원 후보, 31일 표심 잡기 나서",
+        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990346"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 08:46:00 +0900",
+        "title": "이재원 (무소속, 포항북)후보, 출정식...33인 공동선대위원장 체제출범",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667367"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:32:00 +0900",
+        "title": "이재원, \"역사적 포항시민정치독립선언 원년\"",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436539"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:42:00 +0900",
+        "title": "이재원, 포항시민정치독립선언서 낭독…결의 다져",
+        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475164"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "이재원",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3190666
+      }
+    ],
+    "huboid": "100151861",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470101-7.jpg"
+  }
 ]

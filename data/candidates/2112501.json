@@ -1,183 +1,181 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-1.jpg",
-        "id": "2112501-1",
-        "재산": -894600,
-        "생년월일": "19670514",
-        "경력": "(전)국회 국토교통위원회 위원장\n(현)제21대 국회의원(강동구갑)",
-        "학력": "성균관대학교 법학과 졸업",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "829",
-        "regionId": "2112501",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 17:59:00 +0900",
-                "title": "[4·10 총선 격전지] 강동갑, ‘3선 강동댁’ 진선미 대 ‘보수 탈환’ 노리는...",
-                "link": "https://n.news.naver.com/mnews/article/310/0000115570?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 06:00:00 +0900",
-                "title": "[총선 격전지] 강동갑, 진선미 vs 전주혜 '女법조인' 대결…스윙보터 표심은?",
-                "link": "https://www.newspim.com/news/view/20240329000542"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 05:51:00 +0900",
-                "title": "국회의원 재산 1위 안철수…김남국은 최고 코인 부자",
-                "link": "https://n.news.naver.com/mnews/article/422/0000652109?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 01:02:00 +0900",
-                "title": "국회 재산 1등 국힘 안철수 1401억원...코인 최고 부자는 野 김남국",
-                "link": "https://n.news.naver.com/mnews/article/014/0005162910?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 01:01:00 +0900",
-                "title": "마이너스 8억9000만원…3년 연속 재산 가장 적은 의원 1위는",
-                "link": "https://n.news.naver.com/mnews/article/025/0003350356?sid=100"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "진선미",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1145566
-            },
-            {
-                "연도": 2021,
-                "재산": 1028552
-            },
-            {
-                "연도": 2022,
-                "재산": 986300
-            },
-            {
-                "연도": 2023,
-                "재산": -894600
-            }
-        ],
-        "huboid": "100152762",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1125/Hb100152762/junkwa/20240216171316301_1.PDF"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-2.jpg",
-        "id": "2112501-2",
-        "재산": 3257813,
-        "생년월일": "19660715",
-        "경력": "(전)서울중앙지법·동부지법 부장판사 \n(현)국민의힘 강동갑 조직위원장",
-        "학력": "서울대학교 법과대학 사법학과 졸업",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "1164",
-        "regionId": "2112501",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 09:48:00 +0900",
-                "title": "[총선 D-9] 한동훈 \"전주혜, 강동위해 몸 던져 일할 것\" 전폭지지 호소",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025707"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 08:56:00 +0900",
-                "title": "한동훈 비대위원장, \"전주혜가 이긴다!\"며 전폭적 지원유세",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957633"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 06:00:00 +0900",
-                "title": "[총선 격전지] 강동갑, 진선미 vs 전주혜 '女법조인' 대결…스윙보터 표심은?",
-                "link": "https://www.newspim.com/news/view/20240329000542"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:54:00 +0900",
-                "title": "[총선D-12] 전주혜 후보, 선거운동 첫날 고덕차량기지 방문 · 출정식 '광폭행...",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025271"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 06:40:00 +0900",
-                "title": "[동행취재] '강동갑의 분주혜'…與 전주혜, 주민들 만나 '싱글벙글'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002813773?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "전주혜",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2816317
-            },
-            {
-                "연도": 2021,
-                "재산": 2946947
-            },
-            {
-                "연도": 2022,
-                "재산": 3294695
-            },
-            {
-                "연도": 2023,
-                "재산": 3257813
-            }
-        ],
-        "huboid": "100152780",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1125/Hb100152780/junkwa/20240219180958202_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강동구갑_전주혜_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1125/003_100152780_20240329_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-7.jpg",
-        "id": "2112501-7",
-        "재산": 6799,
-        "생년월일": "19610608",
-        "경력": "(전)대우건설 현장소장\n(현)개혁신당 정책위부의장",
-        "학력": "미국 스탠퍼드대학교 대학원 졸업(토목환경공학 박사, 1997.8.~2002.1.)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2112501",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 20 Dec 2007 10:44:00 +0900",
-                "title": "<3金 엇갈린 대선 희비>",
-                "link": "https://n.news.naver.com/mnews/article/001/0001866571?sid=100"
-            },
-            {
-                "date": "Thu, 04 Jan 2007 11:28:00 +0900",
-                "title": "[보수 대해부 1부 - 인맥지도] ⑧ 기독교",
-                "link": "https://n.news.naver.com/mnews/article/047/0000091566?sid=100"
-            },
-            {
-                "date": "Mon, 26 Jan 2004 13:52:00 +0900",
-                "title": "<4·15 17대 총선 누가 나서나>정당별 공천신청자 현황 - 서울",
-                "link": "https://n.news.naver.com/mnews/article/021/0000057877?sid=100"
-            },
-            {
-                "date": "Tue, 09 Sep 2003 11:21:00 +0900",
-                "title": "17대총선 출마예상자-대구",
-                "link": "https://n.news.naver.com/mnews/article/021/0000043712?sid=100"
-            },
-            {
-                "date": "Fri, 30 Aug 2002 08:03:00 +0900",
-                "title": "< 중앙송고기사 LIST >",
-                "link": "https://n.news.naver.com/mnews/article/001/0000229445?sid=111"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "김기수",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 6799
-            }
-        ],
-        "huboid": "100152682",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1125/Hb100152682/junkwa/20240208160341792_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강동구갑_김기수_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1125/003_100152682_20240329_1.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-1.jpg",
+    "id": "2112501-1",
+    "재산": -894600,
+    "생년월일": "19670514",
+    "경력": "(전)국회 국토교통위원회 위원장\n(현)제21대 국회의원(강동구갑)",
+    "학력": "성균관대학교 법학과 졸업",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "829",
+    "regionId": "2112501",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 17:59:00 +0900",
+        "title": "[4·10 총선 격전지] 강동갑, ‘3선 강동댁’ 진선미 대 ‘보수 탈환’ 노리는...",
+        "link": "https://n.news.naver.com/mnews/article/310/0000115570?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 06:00:00 +0900",
+        "title": "[총선 격전지] 강동갑, 진선미 vs 전주혜 '女법조인' 대결…스윙보터 표심은?",
+        "link": "https://www.newspim.com/news/view/20240329000542"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 05:51:00 +0900",
+        "title": "국회의원 재산 1위 안철수…김남국은 최고 코인 부자",
+        "link": "https://n.news.naver.com/mnews/article/422/0000652109?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 01:02:00 +0900",
+        "title": "국회 재산 1등 국힘 안철수 1401억원...코인 최고 부자는 野 김남국",
+        "link": "https://n.news.naver.com/mnews/article/014/0005162910?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 01:01:00 +0900",
+        "title": "마이너스 8억9000만원…3년 연속 재산 가장 적은 의원 1위는",
+        "link": "https://n.news.naver.com/mnews/article/025/0003350356?sid=100"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "진선미",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1145566
+      },
+      {
+        "연도": 2021,
+        "재산": 1028552
+      },
+      {
+        "연도": 2022,
+        "재산": 986300
+      },
+      {
+        "연도": 2023,
+        "재산": -894600
+      }
+    ],
+    "huboid": "100152762",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112501-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-2.jpg",
+    "id": "2112501-2",
+    "재산": 3257813,
+    "생년월일": "19660715",
+    "경력": "(전)서울중앙지법·동부지법 부장판사 \n(현)국민의힘 강동갑 조직위원장",
+    "학력": "서울대학교 법과대학 사법학과 졸업",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1164",
+    "regionId": "2112501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 09:48:00 +0900",
+        "title": "[총선 D-9] 한동훈 \"전주혜, 강동위해 몸 던져 일할 것\" 전폭지지 호소",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025707"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 08:56:00 +0900",
+        "title": "한동훈 비대위원장, \"전주혜가 이긴다!\"며 전폭적 지원유세",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2957633"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 06:00:00 +0900",
+        "title": "[총선 격전지] 강동갑, 진선미 vs 전주혜 '女법조인' 대결…스윙보터 표심은?",
+        "link": "https://www.newspim.com/news/view/20240329000542"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:54:00 +0900",
+        "title": "[총선D-12] 전주혜 후보, 선거운동 첫날 고덕차량기지 방문 · 출정식 '광폭행...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025271"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 06:40:00 +0900",
+        "title": "[동행취재] '강동갑의 분주혜'…與 전주혜, 주민들 만나 '싱글벙글'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002813773?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "전주혜",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2816317
+      },
+      {
+        "연도": 2021,
+        "재산": 2946947
+      },
+      {
+        "연도": 2022,
+        "재산": 3294695
+      },
+      {
+        "연도": 2023,
+        "재산": 3257813
+      }
+    ],
+    "huboid": "100152780",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112501-2.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-7.jpg",
+    "id": "2112501-7",
+    "재산": 6799,
+    "생년월일": "19610608",
+    "경력": "(전)대우건설 현장소장\n(현)개혁신당 정책위부의장",
+    "학력": "미국 스탠퍼드대학교 대학원 졸업(토목환경공학 박사, 1997.8.~2002.1.)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2112501",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 20 Dec 2007 10:44:00 +0900",
+        "title": "<3金 엇갈린 대선 희비>",
+        "link": "https://n.news.naver.com/mnews/article/001/0001866571?sid=100"
+      },
+      {
+        "date": "Thu, 04 Jan 2007 11:28:00 +0900",
+        "title": "[보수 대해부 1부 - 인맥지도] ⑧ 기독교",
+        "link": "https://n.news.naver.com/mnews/article/047/0000091566?sid=100"
+      },
+      {
+        "date": "Mon, 26 Jan 2004 13:52:00 +0900",
+        "title": "<4·15 17대 총선 누가 나서나>정당별 공천신청자 현황 - 서울",
+        "link": "https://n.news.naver.com/mnews/article/021/0000057877?sid=100"
+      },
+      {
+        "date": "Tue, 09 Sep 2003 11:21:00 +0900",
+        "title": "17대총선 출마예상자-대구",
+        "link": "https://n.news.naver.com/mnews/article/021/0000043712?sid=100"
+      },
+      {
+        "date": "Fri, 30 Aug 2002 08:03:00 +0900",
+        "title": "< 중앙송고기사 LIST >",
+        "link": "https://n.news.naver.com/mnews/article/001/0000229445?sid=111"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "김기수",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 6799
+      }
+    ],
+    "huboid": "100152682",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112501-7.jpg"
+  }
 ]

@@ -1,119 +1,117 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270702-1.jpg",
-        "id": "2270702-1",
-        "재산": 216171,
-        "생년월일": "19541110",
-        "경력": "(현)더불어민주당 달서을지역 위원장\n(전)대구광역시의회 의원",
-        "학력": "경북대학교 행정대학원 행정학(석사) 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2270702",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:32:00 +0900",
-                "title": "[포토] 주먹 쥔 김성태 대구달서을 후보",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200365.html"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 19:00:00 +0900",
-                "title": "'민주주의·경제 퇴보' 공방...달서을 김성태 \"정부 실정\" vs 윤재옥 \"야당 탓...",
-                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30284"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:14:00 +0900",
-                "title": "이준석, 김성태 '범보수 수도권 단일화' 제안에···\"가혹한 결말 될 것\"",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315266"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 12:45:00 +0900",
-                "title": "이화영 \"김성태, '검찰 하자는대로 이재명 얘기하면 풀려난다'고 해\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000276635?sid=102"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:36:00 +0900",
-                "title": "[26일 오!정말] 이재명 “돌 하나에 댐 넘치나” 김성태 “관권선거라니”",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346977"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김성태",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 216171
-            }
-        ],
-        "huboid": "100152496",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2707/Hb100152496/junkwa/20240130141435906_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_달서구을_김성태_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2707/003_100152496_20240329_2.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270702-2.jpg",
-        "id": "2270702-2",
-        "재산": 2449305,
-        "생년월일": "19610910",
-        "경력": "(현) 국민의힘 원내대표\n(현) 국회 운영위원회 위원장",
-        "학력": "동국대학교 대학원 경찰행정학과 박사과정 4학기 수료",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "735",
-        "regionId": "2270702",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
-                "title": "국힘 윤재옥 공동선대위원장 격전지 '창원성산' 강기윤 후보 지원",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549699"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 01:00:00 +0900",
-                "title": "[총선] 한동훈, 충북·강원·경기 지원 유세…윤재옥은 4·3 기념식 참석",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694069?sid=100"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:22:00 +0900",
-                "title": "윤재옥 \"달서을 돌볼 겨를이없네\"",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990776"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:26:00 +0900",
-                "title": "[포토] 국민의힘 윤재옥 원내대표, 서천호 후보 지원유세",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559244"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
-                "title": "與원내대표 윤재옥 '바쁘다 바빠'…본인 선거는 물론 타 지역 지원·대야공세...",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000361"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "윤재옥",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2037877
-            },
-            {
-                "연도": 2021,
-                "재산": 2356414
-            },
-            {
-                "연도": 2022,
-                "재산": 2516274
-            },
-            {
-                "연도": 2023,
-                "재산": 2449305
-            }
-        ],
-        "huboid": "100153017",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2707/Hb100153017/junkwa/20240311171445551_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_달서구을_윤재옥_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2707/003_100153017_20240329_1.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270702-1.jpg",
+    "id": "2270702-1",
+    "재산": 216171,
+    "생년월일": "19541110",
+    "경력": "(현)더불어민주당 달서을지역 위원장\n(전)대구광역시의회 의원",
+    "학력": "경북대학교 행정대학원 행정학(석사) 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2270702",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:32:00 +0900",
+        "title": "[포토] 주먹 쥔 김성태 대구달서을 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200365.html"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 19:00:00 +0900",
+        "title": "'민주주의·경제 퇴보' 공방...달서을 김성태 \"정부 실정\" vs 윤재옥 \"야당 탓...",
+        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30284"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:14:00 +0900",
+        "title": "이준석, 김성태 '범보수 수도권 단일화' 제안에···\"가혹한 결말 될 것\"",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315266"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 12:45:00 +0900",
+        "title": "이화영 \"김성태, '검찰 하자는대로 이재명 얘기하면 풀려난다'고 해\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000276635?sid=102"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:36:00 +0900",
+        "title": "[26일 오!정말] 이재명 “돌 하나에 댐 넘치나” 김성태 “관권선거라니”",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346977"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김성태",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 216171
+      }
+    ],
+    "huboid": "100152496",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270702-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270702-2.jpg",
+    "id": "2270702-2",
+    "재산": 2449305,
+    "생년월일": "19610910",
+    "경력": "(현) 국민의힘 원내대표\n(현) 국회 운영위원회 위원장",
+    "학력": "동국대학교 대학원 경찰행정학과 박사과정 4학기 수료",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "735",
+    "regionId": "2270702",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+        "title": "국힘 윤재옥 공동선대위원장 격전지 '창원성산' 강기윤 후보 지원",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549699"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 01:00:00 +0900",
+        "title": "[총선] 한동훈, 충북·강원·경기 지원 유세…윤재옥은 4·3 기념식 참석",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694069?sid=100"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:22:00 +0900",
+        "title": "윤재옥 \"달서을 돌볼 겨를이없네\"",
+        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990776"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:26:00 +0900",
+        "title": "[포토] 국민의힘 윤재옥 원내대표, 서천호 후보 지원유세",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559244"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+        "title": "與원내대표 윤재옥 '바쁘다 바빠'…본인 선거는 물론 타 지역 지원·대야공세...",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240402010000361"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "윤재옥",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2037877
+      },
+      {
+        "연도": 2021,
+        "재산": 2356414
+      },
+      {
+        "연도": 2022,
+        "재산": 2516274
+      },
+      {
+        "연도": 2023,
+        "재산": 2449305
+      }
+    ],
+    "huboid": "100153017",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270702-2.jpg"
+  }
 ]

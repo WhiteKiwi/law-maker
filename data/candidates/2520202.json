@@ -1,119 +1,117 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520202-1.jpg",
-        "id": "2520202-1",
-        "재산": 136873,
-        "생년월일": "19631002",
-        "경력": "(전)서울지방검찰청 검사\n(현)국회 법제사법위원회 위원",
-        "학력": "서울대학교 법과대학 공법학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "999",
-        "regionId": "2520202",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 19:02:00 +0900",
-                "title": "[총선 돋보기-원주갑·을] 김부겸‧정세균 '원창묵·송기헌' 후보 지원 유세",
-                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109900"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
-                "title": "정세균 \"원창묵·송기헌, 원주를 강원 중심도시로 만들 것\"",
-                "link": "https://n.news.naver.com/mnews/article/654/0000070545?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-                "title": "원창묵·송기헌 운동원 응원하는 정세균 전 총리",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466519?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-                "title": "원창묵·송기헌 후보 거리유세 나선 정세균 전 총리",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466520?sid=102"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-                "title": "원주시 원창묵·송기헌 지지 호소하는 정세균 전 총리",
-                "link": "https://n.news.naver.com/mnews/article/003/0012466521?sid=102"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "송기헌",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 288683
-            },
-            {
-                "연도": 2021,
-                "재산": 431562
-            },
-            {
-                "연도": 2022,
-                "재산": 679534
-            },
-            {
-                "연도": 2023,
-                "재산": 136873
-            }
-        ],
-        "huboid": "100152537",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5202/Hb100152537/junkwa/20240201100443555_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_원주시을_송기헌_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5202/003_100152537_20240327_1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520202-2.jpg",
-        "id": "2520202-2",
-        "재산": 2176630,
-        "생년월일": "19680419",
-        "경력": "(전)기획재정부 제2차관\n(전)기획재정부 예산실장",
-        "학력": "서울대학교 행정대학원 졸업(행정학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2520202",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
-                "title": "[선택 4·10 총선]김완섭 후보, \"공동체 삶이 편안한 도시 만들 것\"",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035838?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:07:00 +0900",
-                "title": "'원주을' 국힘 김완섭 \"존중받고 편안한 도시 만들 것\"",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880973?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 00:04:00 +0900",
-                "title": "[총선네컷] 김완섭 \"변화와 혁신으로 정체된 원주 발전 약속\"",
-                "link": "https://n.news.naver.com/mnews/article/087/0001035625?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:23:00 +0900",
-                "title": "[총선 D-9] 원주을 김완섭 \"치악산케이블카\" 공약…송기헌, 골목유세 올인",
-                "link": "https://n.news.naver.com/mnews/article/001/0014603484?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:59:00 +0900",
-                "title": "국힘 원주을 김완섭, '치악산 케이블카' 건설 공약",
-                "link": "https://n.news.naver.com/mnews/article/421/0007450826?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김완섭",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2176630
-            }
-        ],
-        "huboid": "100152250",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5202/Hb100152250/junkwa/20240118141402309_1.PDF",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_원주시을_김완섭_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5202/003_100152250_20240327_1.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520202-1.jpg",
+    "id": "2520202-1",
+    "재산": 136873,
+    "생년월일": "19631002",
+    "경력": "(전)서울지방검찰청 검사\n(현)국회 법제사법위원회 위원",
+    "학력": "서울대학교 법과대학 공법학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "999",
+    "regionId": "2520202",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 19:02:00 +0900",
+        "title": "[총선 돋보기-원주갑·을] 김부겸‧정세균 '원창묵·송기헌' 후보 지원 유세",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109900"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+        "title": "정세균 \"원창묵·송기헌, 원주를 강원 중심도시로 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070545?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+        "title": "원창묵·송기헌 운동원 응원하는 정세균 전 총리",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466519?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+        "title": "원창묵·송기헌 후보 거리유세 나선 정세균 전 총리",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466520?sid=102"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+        "title": "원주시 원창묵·송기헌 지지 호소하는 정세균 전 총리",
+        "link": "https://n.news.naver.com/mnews/article/003/0012466521?sid=102"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "송기헌",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 288683
+      },
+      {
+        "연도": 2021,
+        "재산": 431562
+      },
+      {
+        "연도": 2022,
+        "재산": 679534
+      },
+      {
+        "연도": 2023,
+        "재산": 136873
+      }
+    ],
+    "huboid": "100152537",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520202-1.jpg"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520202-2.jpg",
+    "id": "2520202-2",
+    "재산": 2176630,
+    "생년월일": "19680419",
+    "경력": "(전)기획재정부 제2차관\n(전)기획재정부 예산실장",
+    "학력": "서울대학교 행정대학원 졸업(행정학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2520202",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+        "title": "[선택 4·10 총선]김완섭 후보, \"공동체 삶이 편안한 도시 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035838?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:07:00 +0900",
+        "title": "'원주을' 국힘 김완섭 \"존중받고 편안한 도시 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880973?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 00:04:00 +0900",
+        "title": "[총선네컷] 김완섭 \"변화와 혁신으로 정체된 원주 발전 약속\"",
+        "link": "https://n.news.naver.com/mnews/article/087/0001035625?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:23:00 +0900",
+        "title": "[총선 D-9] 원주을 김완섭 \"치악산케이블카\" 공약…송기헌, 골목유세 올인",
+        "link": "https://n.news.naver.com/mnews/article/001/0014603484?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:59:00 +0900",
+        "title": "국힘 원주을 김완섭, '치악산 케이블카' 건설 공약",
+        "link": "https://n.news.naver.com/mnews/article/421/0007450826?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김완섭",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2176630
+      }
+    ],
+    "huboid": "100152250",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520202-2.jpg"
+  }
 ]
