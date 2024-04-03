@@ -1,19 +1,21 @@
 {
   "compilerOptions": {
-    "target": "es2021",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "noEmit": false,
     "module": "commonjs",
     "moduleResolution": "node",
-    "noEmit": true,
-    "sourceMap": true,
     "strict": true,
-    "allowJs": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "noImplicitAny": true,
-    "outDir": "dist",
+    "strictPropertyInitialization": false,
+    "removeComments": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "resolveJsonModule": true
+    "allowSyntheticDefaultImports": true,
+    "target": "es2021",
+    "baseUrl": "./",
+    "incremental": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true
   },
   "include": ["src"]
 }
