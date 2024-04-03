@@ -7,7 +7,6 @@ import { SearchItem, splitHangul } from "./search";
 import { 등수 } from "./등수";
 
 async function main() {
-  await sortRegions();
   const candidates = await loadCandidates();
   const lawMakers: LawMaker[] = [];
   const lawMakerDir = path.join(__dirname, "../data/21th-law-makers");
@@ -81,6 +80,7 @@ async function main() {
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
+  // await sortRegions();
   await createSearchItems();
 }
 
@@ -178,11 +178,11 @@ async function sortRegions() {
     region.regions = region.regions.sort((a, b) =>
       a.시군구.localeCompare(b.시군구)
     );
-    // region.regions.forEach((region) => {
-    //   region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
-    //   region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
-    //   region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
-    // });
+    region.regions.forEach((region) => {
+      region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
+      region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
+      region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
+    });
   }
   await writeJSON(filePath, regionsJson, { spaces: 2 });
 }
@@ -194,20 +194,16 @@ async function createSearchItems() {
     const candidates: LawMakerCadidate[] = await readJSON(
       path.join(candidatesDir, file)
     );
-    try {
-      for (const candidate of candidates) {
-        const region = await getRegion(candidate.regionId);
-        searchItems.push({
-          id: candidate.id,
-          imageUrl: candidate.imageUrl,
-          이름: candidate.이름,
-          splitted이름: splitHangul(candidate.이름),
-          지역구: `${region.시도} ${region.시군구}`,
-          정당: candidate.정당,
-        });
-      }
-    } catch (e) {
-      console.error(e);
+    for (const candidate of candidates) {
+      const region = await getRegion(candidate.regionId);
+      searchItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        splitted이름: splitHangul(candidate.이름),
+        지역구: `${region.시도} ${region.시군구}`,
+        정당: candidate.정당,
+      });
     }
   }
   await writeJSON(path.join(__dirname, "../data/search.json"), searchItems, {});
