@@ -48,7 +48,7 @@
             }
         ],
         "huboid": "100152997",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4131/Hb100152997/junkwa/20240321163137440_8.PDF",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413102-1.jpg",
         "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_하남시갑_추미애_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4131/003_100152997_20240328_1.pdf"
     },
     {
@@ -113,57 +113,7 @@
             }
         ],
         "huboid": "100152477",
-        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4131/Hb100152477/junkwa/20240321151558983_9.PDF",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413102-2.jpg",
         "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_하남시갑_이용_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4131/003_100152477_20240329_1.pdf"
-    },
-    {
-        "전과건수": 7,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413102-7.jpg",
-        "id": "2413102-7",
-        "재산": 668173,
-        "생년월일": "19530328",
-        "경력": "(현) 자유통일당 여성최고위원\n(현) 락스퍼영화제 홍보위원장",
-        "학력": "숙명여자대학교 대학원 박사과정 수료(행정학전공)",
-        "직업": "여성사회운동가",
-        "성별": "여",
-        "regionId": "2413102",
-        "기호": 7,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 14:54:00 +0900",
-                "title": "하남갑 자유통일당 주옥순 후보, 추미애 고발...\"아들이 檢 소환통보 받은 적...",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78861"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:04:00 +0900",
-                "title": "추미애 \"주옥순이 있어서 공청회 참석 못 해!\"...하남갑 선거구에서 무슨 일이...",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78798"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 20:38:00 +0900",
-                "title": "“추미애 잡고 서민들 돕는다”… 자유통일당 하남시갑 주옥순 후보 선거사무...",
-                "link": "https://www.christiantoday.co.kr/news/360702"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 20:26:00 +0900",
-                "title": "'엄마부대' 주옥순 \"도덕성 결여한 추미애 사퇴해야...국민의힘은 '보수' 희망...",
-                "link": "http://www.pennmike.com/news/articleView.html?idxno=78630"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 20:58:00 +0900",
-                "title": "자유통일당 주옥순 후보 \"엄마부대 이름으로 추미애 후보 반드시 잡겠다\"",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=316833"
-            }
-        ],
-        "정당": "자유통일당",
-        "이름": "주옥순",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 668173
-            }
-        ],
-        "huboid": "100153201"
     }
 ]
