@@ -1,0 +1,119 @@
+[
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-1.jpg",
+        "id": "2480301-1",
+        "재산": 923783,
+        "생년월일": "19640825",
+        "경력": "(현)더불어민주당 진주시갑 지역위원장\n(전)더불어민주당 진주시장 후보",
+        "학력": "고려대학교 대학원 정치외교학과 박사과정 졸업(정치학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2480301",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 13:16:00 +0900",
+                "title": "'경남 진주갑' 민주 갈상돈·국힘 박대출 후보 공약 비교",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880873?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:20:00 +0900",
+                "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:36:00 +0900",
+                "title": "민주당 진주갑 갈상돈 후보 선거대책위 출범식",
+                "link": "https://n.news.naver.com/mnews/article/003/0012459863?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:14:00 +0900",
+                "title": "[후보공약 디다보기] 진주 갑 갈상돈 '남부내륙철도' - 박대출 '우주항공복합...",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907574"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:58:00 +0900",
+                "title": "박대출 \"중단없는 진주도약\" VS 갈상돈 \"시민 섬기는 민생정치\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456571?sid=102"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "갈상돈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 923783
+            }
+        ],
+        "huboid": "100151422",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480301-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_진주시갑_갈상돈_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4803/003_100151422_20240330_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-2.jpg",
+        "id": "2480301-2",
+        "재산": 2081164,
+        "생년월일": "19610318",
+        "경력": "(현)제21대 국회의원(진주시갑선거구)\n(전)국민의힘 정책위원회 의장",
+        "학력": "연세대학교 행정대학원 외교안보전공 석사과정 졸업",
+        "직업": "제21대 국회의원",
+        "성별": "남",
+        "id_21th": "777",
+        "regionId": "2480301",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:58:00 +0900",
+                "title": "[4.10총선-209] 경남 진주갑, 갈상돈vs박대출. 박대출 아성",
+                "link": "http://www.mhj21.com/160267"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:16:00 +0900",
+                "title": "'경남 진주갑' 민주 갈상돈·국힘 박대출 후보 공약 비교",
+                "link": "https://n.news.naver.com/mnews/article/079/0003880873?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:20:00 +0900",
+                "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 17:14:00 +0900",
+                "title": "[후보공약 디다보기] 진주 갑 갈상돈 '남부내륙철도' - 박대출 '우주항공복합...",
+                "link": "https://www.idomin.com/news/articleView.html?idxno=907574"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 13:58:00 +0900",
+                "title": "박대출 \"중단없는 진주도약\" VS 갈상돈 \"시민 섬기는 민생정치\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012456571?sid=102"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박대출",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1322148
+            },
+            {
+                "연도": 2021,
+                "재산": 1767806
+            },
+            {
+                "연도": 2022,
+                "재산": 1894744
+            },
+            {
+                "연도": 2023,
+                "재산": 2081164
+            }
+        ],
+        "huboid": "100152845",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480301-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_진주시갑_박대출_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4803/003_100152845_20240401_2.pdf"
+    }
+]
