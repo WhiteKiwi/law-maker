@@ -1,104 +1,108 @@
 [
-  {
-    "id": "2112301-1",
-    "regionId": "2112301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-1.jpg",
-    "기호": 1,
-    "이름": "김태형",
-    "생년월일": "19701201",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
-    "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
-    "재산": 40327222,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 22 Mar 2024 06:04:00 +0900",
-        "title": "총선 후보등록 첫날, 평균재산 29억원… 최고액은 1446억원",
-        "link": "https://n.news.naver.com/mnews/article/022/0003916726?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 23:28:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 22:46:00 +0900",
-        "title": "총선 후보등록 첫날, 평균재산 29억원…'50억 이상' 52명(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581198?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:59:00 +0900",
-        "title": "총선 후보자등록 첫날…지역구 607명·14개 정당 비례명부 등록",
-        "link": "https://n.news.naver.com/mnews/article/003/0012443311?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 18:30:00 +0900",
-        "title": "[총선] 후보 등록 시작...본선 막 오른 22대 총선",
-        "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032100064&story_seq=0&soCode=114&socttSn=NS2024032100064&socttSeq=0"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 40327222
-      }
-    ],
-    "huboid": "100151594",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112301-1.jpg"
-  },
-  {
-    "id": "2112301-2",
-    "regionId": "2112301",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-2.jpg",
-    "기호": 2,
-    "이름": "서명옥",
-    "생년월일": "19601126",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "의사",
-    "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
-    "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
-    "재산": 29319703,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:34:00 +0900",
-        "title": "서명옥 국민의힘 강남갑 후보 “토지거래허가제 반드시 해제되야”",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240402002305242"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:33:00 +0900",
-        "title": "'강남갑' 與 서명옥 \"토지거래허가제 반드시 해제할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816422?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:02:00 +0900",
-        "title": "강남갑 서명옥 “압구정·청담동 토지거래허가제 해제 추진”",
-        "link": "https://n.news.naver.com/mnews/article/016/0002289441?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:07:00 +0900",
-        "title": "보건소장 출신 '강남갑' 서명옥 \"의료개혁 위해 정부와 의료계 소통창구 되겠...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920390?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 08:04:00 +0900",
-        "title": "與 강남갑 서명옥 \"재건축·재개발, 제1과제로 추진할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864883?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 29319703
-      }
-    ],
-    "huboid": "100153096",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112301-2.jpg"
-  }
+    [
+        {
+            "id": "2112301-1",
+            "regionId": "2112301",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-1.jpg",
+            "기호": 1,
+            "이름": "김태형",
+            "생년월일": "19701201",
+            "정당": "더불어민주당",
+            "성별": "남",
+            "직업": "정당인",
+            "학력": "오하이오주립대학교 교육대학 박사(교수학습 전공)(1997.1-2007.12)",
+            "경력": "(현)더불어민주당 부대변인\n(전)한국해양대학교 교직과 부교수",
+            "재산": 40327222,
+            "군필여부": true,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Fri, 22 Mar 2024 06:04:00 +0900",
+                    "title": "총선 후보등록 첫날, 평균재산 29억원… 최고액은 1446억원",
+                    "link": "https://n.news.naver.com/mnews/article/022/0003916726?sid=165"
+                },
+                {
+                    "date": "Thu, 21 Mar 2024 23:28:00 +0900",
+                    "title": "[4·10 총선 후보자 등록] 서울(21일 마감)",
+                    "link": "https://n.news.naver.com/mnews/article/001/0014581264?sid=100"
+                },
+                {
+                    "date": "Thu, 21 Mar 2024 22:46:00 +0900",
+                    "title": "총선 후보등록 첫날, 평균재산 29억원…'50억 이상' 52명(종합)",
+                    "link": "https://n.news.naver.com/mnews/article/001/0014581198?sid=165"
+                },
+                {
+                    "date": "Thu, 21 Mar 2024 21:59:00 +0900",
+                    "title": "총선 후보자등록 첫날…지역구 607명·14개 정당 비례명부 등록",
+                    "link": "https://n.news.naver.com/mnews/article/003/0012443311?sid=165"
+                },
+                {
+                    "date": "Thu, 21 Mar 2024 18:30:00 +0900",
+                    "title": "[총선] 후보 등록 시작...본선 막 오른 22대 총선",
+                    "link": "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2024032100064&story_seq=0&soCode=114&socttSn=NS2024032100064&socttSeq=0"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 40327222
+                }
+            ],
+            "huboid": "100151594",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100151594/junkwa/20240322105425749_10.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강남구갑_김태형_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1123/003_100151594_20240329_1.pdf"
+        },
+        {
+            "id": "2112301-2",
+            "regionId": "2112301",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112301-2.jpg",
+            "기호": 2,
+            "이름": "서명옥",
+            "생년월일": "19601126",
+            "정당": "국민의힘",
+            "성별": "여",
+            "직업": "의사",
+            "학력": "연세대학교 보건대학원 졸업(보건학 석사)",
+            "경력": "(전)한국공공조직은행장\n(전)강남구보건소 소장",
+            "재산": 29319703,
+            "군필여부": false,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 23:34:00 +0900",
+                    "title": "서명옥 국민의힘 강남갑 후보 “토지거래허가제 반드시 해제되야”",
+                    "link": "https://www.asiatoday.co.kr/view.php?key=20240402002305242"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 23:33:00 +0900",
+                    "title": "'강남갑' 與 서명옥 \"토지거래허가제 반드시 해제할 것\"",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002816422?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 14:02:00 +0900",
+                    "title": "강남갑 서명옥 “압구정·청담동 토지거래허가제 해제 추진”",
+                    "link": "https://n.news.naver.com/mnews/article/016/0002289441?sid=100"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 13:07:00 +0900",
+                    "title": "보건소장 출신 '강남갑' 서명옥 \"의료개혁 위해 정부와 의료계 소통창구 되겠...",
+                    "link": "https://n.news.naver.com/mnews/article/022/0003920390?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 08:04:00 +0900",
+                    "title": "與 강남갑 서명옥 \"재건축·재개발, 제1과제로 추진할 것\"",
+                    "link": "https://n.news.naver.com/mnews/article/029/0002864883?sid=100"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 29319703
+                }
+            ],
+            "huboid": "100153096",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1123/Hb100153096/junkwa/20240322105747918_10.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강남구갑_서명옥_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1123/003_100153096_20240329_1.pdf"
+        }
+    ]
 ]

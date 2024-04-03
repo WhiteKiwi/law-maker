@@ -1,104 +1,108 @@
 [
-  {
-    "id": "2270701-1",
-    "regionId": "2270701",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-1.jpg",
-    "기호": 1,
-    "이름": "권택흥",
-    "생년월일": "19690319",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "영남대학교 대학원 공법학과 사회법전공 석사 졸업",
-    "경력": "(전) 대통령직속 일자리위원회 청년TF위원\n(전) 제21대 국회의원선거 달서구갑 후보자",
-    "재산": 898393,
-    "군필여부": true,
-    "전과건수": 8,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 20:46:00 +0900",
-        "title": "대구 달서갑 권택흥 \"이번 선거는 성서주민 자존심 회복이 관건\"",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278229?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:56:00 +0900",
-        "title": "민주당 권택흥 후보, 사회복지 공약 간담회",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990727"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:44:00 +0900",
-        "title": "(4·10 총선 현장)민주당 권택흥, 사회복지유권자연맹 복지 제안 공약화",
-        "link": "https://www.idaegu.com/newsView/idg202404020030"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:34:00 +0900",
-        "title": "[열전 현장-대구 달서구갑] '朴 심복' 유영하 vs 민노총 출신 권택흥 \"중도층...",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455611"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:46:00 +0900",
-        "title": "성서행정타운에 '박정희 컨벤션센터'?...'달서갑' 유영하 제안, 권택흥 \"적절...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30278"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 898393
-      }
-    ],
-    "huboid": "100151678",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270701-1.jpg"
-  },
-  {
-    "id": "2270701-2",
-    "regionId": "2270701",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-2.jpg",
-    "기호": 2,
-    "이름": "유영하",
-    "생년월일": "19621019",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "연세대학교 사회과학대학 행정학과 졸업",
-    "경력": "(전) 박근혜 전 대통령 변호인\n(전) 국가인권위원회 상임위원(차관급)",
-    "재산": 2353561,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 22:48:00 +0900",
-        "title": "박근혜, 지원유세 등장?…유영하 “근간에 한번 나오시지 않겠나”",
-        "link": "https://www.etoday.co.kr/news/view/2347003"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:11:00 +0900",
-        "title": "[영상]박근혜, 국힘 유세 현장에 등장?…최측근 유영하가 한 말 들어보니",
-        "link": "https://n.news.naver.com/mnews/article/011/0004322172?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:31:00 +0900",
-        "title": "\"쉬운 선거는 없다\"…'선거의 여왕' 朴 조언 묻자 유영하 전한 말",
-        "link": "https://n.news.naver.com/mnews/article/025/0003351482?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:54:00 +0900",
-        "title": "박근혜가 유영하에게 준 비책 두 가지…절박함, 그리고 OOO",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452695?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:18:00 +0900",
-        "title": "유영하 “대통령 탈당 여부는 본인 득표에 도움 안 돼”…박 전 대통령의 조언...",
-        "link": "https://n.news.naver.com/mnews/article/449/0000271574?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2353561
-      }
-    ],
-    "huboid": "100152311",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270701-2.jpg"
-  }
+    [
+        {
+            "id": "2270701-1",
+            "regionId": "2270701",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-1.jpg",
+            "기호": 1,
+            "이름": "권택흥",
+            "생년월일": "19690319",
+            "정당": "더불어민주당",
+            "성별": "남",
+            "직업": "정당인",
+            "학력": "영남대학교 대학원 공법학과 사회법전공 석사 졸업",
+            "경력": "(전) 대통령직속 일자리위원회 청년TF위원\n(전) 제21대 국회의원선거 달서구갑 후보자",
+            "재산": 898393,
+            "군필여부": true,
+            "전과건수": 8,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 20:46:00 +0900",
+                    "title": "대구 달서갑 권택흥 \"이번 선거는 성서주민 자존심 회복이 관건\"",
+                    "link": "https://n.news.naver.com/mnews/article/629/0000278229?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 18:56:00 +0900",
+                    "title": "민주당 권택흥 후보, 사회복지 공약 간담회",
+                    "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990727"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 13:44:00 +0900",
+                    "title": "(4·10 총선 현장)민주당 권택흥, 사회복지유권자연맹 복지 제안 공약화",
+                    "link": "https://www.idaegu.com/newsView/idg202404020030"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 21:34:00 +0900",
+                    "title": "[열전 현장-대구 달서구갑] '朴 심복' 유영하 vs 민노총 출신 권택흥 \"중도층...",
+                    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455611"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 17:46:00 +0900",
+                    "title": "성서행정타운에 '박정희 컨벤션센터'?...'달서갑' 유영하 제안, 권택흥 \"적절...",
+                    "link": "https://www.pn.or.kr/news/articleView.html?idxno=30278"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 898393
+                }
+            ],
+            "huboid": "100151678",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2707/Hb100151678/junkwa/20231219162447939_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_달서구갑_권택흥_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2707/003_100151678_20240329_1.pdf"
+        },
+        {
+            "id": "2270701-2",
+            "regionId": "2270701",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-2.jpg",
+            "기호": 2,
+            "이름": "유영하",
+            "생년월일": "19621019",
+            "정당": "국민의힘",
+            "성별": "남",
+            "직업": "변호사",
+            "학력": "연세대학교 사회과학대학 행정학과 졸업",
+            "경력": "(전) 박근혜 전 대통령 변호인\n(전) 국가인권위원회 상임위원(차관급)",
+            "재산": 2353561,
+            "군필여부": true,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 22:48:00 +0900",
+                    "title": "박근혜, 지원유세 등장?…유영하 “근간에 한번 나오시지 않겠나”",
+                    "link": "https://www.etoday.co.kr/news/view/2347003"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 15:11:00 +0900",
+                    "title": "[영상]박근혜, 국힘 유세 현장에 등장?…최측근 유영하가 한 말 들어보니",
+                    "link": "https://n.news.naver.com/mnews/article/011/0004322172?sid=100"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 13:31:00 +0900",
+                    "title": "\"쉬운 선거는 없다\"…'선거의 여왕' 朴 조언 묻자 유영하 전한 말",
+                    "link": "https://n.news.naver.com/mnews/article/025/0003351482?sid=100"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 11:54:00 +0900",
+                    "title": "박근혜가 유영하에게 준 비책 두 가지…절박함, 그리고 OOO",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007452695?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 10:18:00 +0900",
+                    "title": "유영하 “대통령 탈당 여부는 본인 득표에 도움 안 돼”…박 전 대통령의 조언...",
+                    "link": "https://n.news.naver.com/mnews/article/449/0000271574?sid=100"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 2353561
+                }
+            ],
+            "huboid": "100152311",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2707/Hb100152311/junkwa/20240321133218074_9.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_달서구갑_유영하_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2707/003_100152311_20240329_1.pdf"
+        }
+    ]
 ]

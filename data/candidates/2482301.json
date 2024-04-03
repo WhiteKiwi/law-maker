@@ -1,117 +1,121 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482301-1.jpg",
-    "id": "2482301-1",
-    "재산": 454349,
-    "생년월일": "19640726",
-    "경력": "(현)더불어민주당 중앙당 정책위원회 부의장\n(현)더불어민주당 마산합포구지역위원장",
-    "학력": "경남대학교 대학원 NGO협동과정 졸업(문학석사)",
-    "직업": "약사",
-    "성별": "여",
-    "regionId": "2482301",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:06:00 +0900",
-        "title": "[선택 2024 - 4·10총선 후보자 공약] 마산합포…\"새로운 정치\" 이옥선 vs \"2...",
-        "link": "https://www.newsgn.com/news/articleView.html?idxno=410558"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:00:00 +0900",
-        "title": "[방송토론]마산합포 이옥선-최형두 '이승만 어떻게 보나' 공방",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907658"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:51:00 +0900",
-        "title": "마산합포 최형두·이옥선, TV 토론서 '이승만' 두고 공방",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459517?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 14:16:00 +0900",
-        "title": "마산합포 국힘 최형두·민주 이옥선, TV 토론서 '이승만' 대립",
-        "link": "https://n.news.naver.com/mnews/article/001/0014598183?sid=102"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 18:54:00 +0900",
-        "title": "[후보공약 디다보기] 마산합포 이옥선 '경제민주화 중심 복지' VS 최형두 '산...",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907290"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이옥선",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 454349
-      }
-    ],
-    "huboid": "100151893",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482301-1.jpg"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482301-2.jpg",
-    "id": "2482301-2",
-    "재산": 1778321,
-    "생년월일": "19621023",
-    "경력": "(현)21대 국회의원\n(현)국민의힘 경남도당위원장",
-    "학력": "하버드대학교 행정학석사(2001.7~2002.6)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1145",
-    "regionId": "2482301",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 13:48:00 +0900",
-        "title": "[4.10총선-202] 경남 창원마산합포, 이옥선vs최형두. 절대적 험지",
-        "link": "http://www.mhj21.com/160259"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:26:00 +0900",
-        "title": "[포토] 손 흔드는 최형두 창원마산합포 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100376.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:00:00 +0900",
-        "title": "[방송토론]마산합포 이옥선-최형두 '이승만 어떻게 보나' 공방",
-        "link": "https://www.idomin.com/news/articleView.html?idxno=907658"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:04:00 +0900",
-        "title": "최형두 \"디지털자유무역지역으로 마산합포가 재도약할 때다\" [총선★인터뷰]",
-        "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/29/2024032900257.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:51:00 +0900",
-        "title": "마산합포 최형두·이옥선, TV 토론서 '이승만' 두고 공방",
-        "link": "https://n.news.naver.com/mnews/article/003/0012459517?sid=102"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "최형두",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1199598
-      },
-      {
-        "연도": 2021,
-        "재산": 1340774
-      },
-      {
-        "연도": 2022,
-        "재산": 1333619
-      },
-      {
-        "연도": 2023,
-        "재산": 1778321
-      }
-    ],
-    "huboid": "100152841",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482301-2.jpg"
-  }
+    [
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482301-1.jpg",
+            "id": "2482301-1",
+            "재산": 454349,
+            "생년월일": "19640726",
+            "경력": "(현)더불어민주당 중앙당 정책위원회 부의장\n(현)더불어민주당 마산합포구지역위원장",
+            "학력": "경남대학교 대학원 NGO협동과정 졸업(문학석사)",
+            "직업": "약사",
+            "성별": "여",
+            "regionId": "2482301",
+            "기호": 1,
+            "군필여부": false,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                    "title": "[선택 2024 - 4·10총선 후보자 공약] 마산합포…\"새로운 정치\" 이옥선 vs \"2...",
+                    "link": "https://www.newsgn.com/news/articleView.html?idxno=410558"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 19:00:00 +0900",
+                    "title": "[방송토론]마산합포 이옥선-최형두 '이승만 어떻게 보나' 공방",
+                    "link": "https://www.idomin.com/news/articleView.html?idxno=907658"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 15:51:00 +0900",
+                    "title": "마산합포 최형두·이옥선, TV 토론서 '이승만' 두고 공방",
+                    "link": "https://n.news.naver.com/mnews/article/003/0012459517?sid=102"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 14:16:00 +0900",
+                    "title": "마산합포 국힘 최형두·민주 이옥선, TV 토론서 '이승만' 대립",
+                    "link": "https://n.news.naver.com/mnews/article/001/0014598183?sid=102"
+                },
+                {
+                    "date": "Tue, 26 Mar 2024 18:54:00 +0900",
+                    "title": "[후보공약 디다보기] 마산합포 이옥선 '경제민주화 중심 복지' VS 최형두 '산...",
+                    "link": "https://www.idomin.com/news/articleView.html?idxno=907290"
+                }
+            ],
+            "정당": "더불어민주당",
+            "이름": "이옥선",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 454349
+                }
+            ],
+            "huboid": "100151893",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4823/Hb100151893/junkwa/20240321092551372_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_창원시마산합포구_이옥선_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4823/003_100151893_20240327_1.pdf"
+        },
+        {
+            "전과건수": 1,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482301-2.jpg",
+            "id": "2482301-2",
+            "재산": 1778321,
+            "생년월일": "19621023",
+            "경력": "(현)21대 국회의원\n(현)국민의힘 경남도당위원장",
+            "학력": "하버드대학교 행정학석사(2001.7~2002.6)",
+            "직업": "국회의원",
+            "성별": "남",
+            "id_21th": "1145",
+            "regionId": "2482301",
+            "기호": 2,
+            "군필여부": false,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 13:48:00 +0900",
+                    "title": "[4.10총선-202] 경남 창원마산합포, 이옥선vs최형두. 절대적 험지",
+                    "link": "http://www.mhj21.com/160259"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 20:26:00 +0900",
+                    "title": "[포토] 손 흔드는 최형두 창원마산합포 후보",
+                    "link": "https://www.newdaily.co.kr/site/data/html/2024/04/01/2024040100376.html"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 19:00:00 +0900",
+                    "title": "[방송토론]마산합포 이옥선-최형두 '이승만 어떻게 보나' 공방",
+                    "link": "https://www.idomin.com/news/articleView.html?idxno=907658"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 17:04:00 +0900",
+                    "title": "최형두 \"디지털자유무역지역으로 마산합포가 재도약할 때다\" [총선★인터뷰]",
+                    "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/29/2024032900257.html"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 15:51:00 +0900",
+                    "title": "마산합포 최형두·이옥선, TV 토론서 '이승만' 두고 공방",
+                    "link": "https://n.news.naver.com/mnews/article/003/0012459517?sid=102"
+                }
+            ],
+            "정당": "국민의힘",
+            "이름": "최형두",
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 1199598
+                },
+                {
+                    "연도": 2021,
+                    "재산": 1340774
+                },
+                {
+                    "연도": 2022,
+                    "재산": 1333619
+                },
+                {
+                    "연도": 2023,
+                    "재산": 1778321
+                }
+            ],
+            "huboid": "100152841",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4823/Hb100152841/junkwa/20240322143353770_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_창원시마산합포구_최형두_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4823/003_100152841_20240327_1.pdf"
+        }
+    ]
 ]

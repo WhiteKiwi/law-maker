@@ -1,104 +1,108 @@
 [
-  {
-    "id": "2411803-1",
-    "regionId": "2411803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-1.jpg",
-    "기호": 1,
-    "이름": "양문석",
-    "생년월일": "19660928",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "방송인",
-    "학력": "성균관대학교 대학원 신문방송학과 졸업 (언론학박사)",
-    "경력": "(현) 공공미디어연구소 이사장\n(전) 방송통신위원회 상임위원",
-    "재산": 833378,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 03:02:00 +0900",
-        "title": "[단독]금감원, ‘양문석 편법 대출’ 오늘 현장검사",
-        "link": "https://n.news.naver.com/mnews/article/020/0003556920?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:10:00 +0900",
-        "title": "재산축소신고·편법대출 논란 양문석…선관위 조사 착수, 금감원 현장 검사",
-        "link": "https://n.news.naver.com/mnews/article/025/0003351620?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:01:00 +0900",
-        "title": "[르포] '11억 편법 대출' 양문석 논란에 野 경기 텃밭 흔들?",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278237?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:13:00 +0900",
-        "title": "안산시 상록구 선관위, 민주 양문석 '서면경고' 조치",
-        "link": "https://n.news.naver.com/mnews/article/052/0002018226?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:12:00 +0900",
-        "title": "與, 양문석 이어 박은정 조준...野, '수해 막말' 맞불",
-        "link": "https://n.news.naver.com/mnews/article/052/0002018225?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 833378
-      }
-    ],
-    "huboid": "100152331",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411803-1.jpg"
-  },
-  {
-    "id": "2411803-2",
-    "regionId": "2411803",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-2.jpg",
-    "기호": 2,
-    "이름": "장성민",
-    "생년월일": "19630905",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 대학원 졸업(정치학 석사)",
-    "경력": "(전) 대통령비서실 미래전략기획관\n(전) 제16대 국회의원",
-    "재산": 4833537,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 05:09:00 +0900",
-        "title": "[현장] '정권심판' 양문석 vs '尹 핫라인' 장성민…안산갑 표심은",
-        "link": "https://n.news.naver.com/mnews/article/031/0000825120?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:09:00 +0900",
-        "title": "안산 결혼이주여성들, 與장성민 만나 다문화가정 위한 정책 요청",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603736?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:40:00 +0900",
-        "title": "[포토] 양문석 자녀 대출특혜 의혹 공개질의하는 장성민 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900271.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:34:00 +0900",
-        "title": "[포토] 국민의힘 장성민-서정현-김명연 후보 박수쳐주는 한동훈",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558365"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 16:36:00 +0900",
-        "title": "장성민·서정현·김명연 후보 지지 호소하는 한동훈 [쿠키포토]",
-        "link": "http://www.kukinews.com/newsView/kuk202403290192"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 4833537
-      }
-    ],
-    "huboid": "100152660",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411803-2.jpg"
-  }
+    [
+        {
+            "id": "2411803-1",
+            "regionId": "2411803",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-1.jpg",
+            "기호": 1,
+            "이름": "양문석",
+            "생년월일": "19660928",
+            "정당": "더불어민주당",
+            "성별": "남",
+            "직업": "방송인",
+            "학력": "성균관대학교 대학원 신문방송학과 졸업 (언론학박사)",
+            "경력": "(현) 공공미디어연구소 이사장\n(전) 방송통신위원회 상임위원",
+            "재산": 833378,
+            "군필여부": true,
+            "전과건수": 2,
+            "news": [
+                {
+                    "date": "Wed, 03 Apr 2024 03:02:00 +0900",
+                    "title": "[단독]금감원, ‘양문석 편법 대출’ 오늘 현장검사",
+                    "link": "https://n.news.naver.com/mnews/article/020/0003556920?sid=100"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:10:00 +0900",
+                    "title": "재산축소신고·편법대출 논란 양문석…선관위 조사 착수, 금감원 현장 검사",
+                    "link": "https://n.news.naver.com/mnews/article/025/0003351620?sid=165"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:01:00 +0900",
+                    "title": "[르포] '11억 편법 대출' 양문석 논란에 野 경기 텃밭 흔들?",
+                    "link": "https://n.news.naver.com/mnews/article/629/0000278237?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 23:13:00 +0900",
+                    "title": "안산시 상록구 선관위, 민주 양문석 '서면경고' 조치",
+                    "link": "https://n.news.naver.com/mnews/article/052/0002018226?sid=100"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 23:12:00 +0900",
+                    "title": "與, 양문석 이어 박은정 조준...野, '수해 막말' 맞불",
+                    "link": "https://n.news.naver.com/mnews/article/052/0002018225?sid=100"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 833378
+                }
+            ],
+            "huboid": "100152331",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4118/Hb100152331/junkwa/20240308174906336_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_안산시갑_양문석_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4118/003_100152331_20240329_1.pdf"
+        },
+        {
+            "id": "2411803-2",
+            "regionId": "2411803",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411803-2.jpg",
+            "기호": 2,
+            "이름": "장성민",
+            "생년월일": "19630905",
+            "정당": "국민의힘",
+            "성별": "남",
+            "직업": "정당인",
+            "학력": "서강대학교 대학원 졸업(정치학 석사)",
+            "경력": "(전) 대통령비서실 미래전략기획관\n(전) 제16대 국회의원",
+            "재산": 4833537,
+            "군필여부": true,
+            "전과건수": 1,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 05:09:00 +0900",
+                    "title": "[현장] '정권심판' 양문석 vs '尹 핫라인' 장성민…안산갑 표심은",
+                    "link": "https://n.news.naver.com/mnews/article/031/0000825120?sid=100"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 19:09:00 +0900",
+                    "title": "안산 결혼이주여성들, 與장성민 만나 다문화가정 위한 정책 요청",
+                    "link": "https://n.news.naver.com/mnews/article/001/0014603736?sid=165"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 17:40:00 +0900",
+                    "title": "[포토] 양문석 자녀 대출특혜 의혹 공개질의하는 장성민 후보",
+                    "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900271.html"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 17:34:00 +0900",
+                    "title": "[포토] 국민의힘 장성민-서정현-김명연 후보 박수쳐주는 한동훈",
+                    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558365"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 16:36:00 +0900",
+                    "title": "장성민·서정현·김명연 후보 지지 호소하는 한동훈 [쿠키포토]",
+                    "link": "http://www.kukinews.com/newsView/kuk202403290192"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 4833537
+                }
+            ],
+            "huboid": "100152660",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4118/Hb100152660/junkwa/20240308175128950_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_안산시갑_장성민_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4118/003_100152660_20240329_1.pdf"
+        }
+    ]
 ]

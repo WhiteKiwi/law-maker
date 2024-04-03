@@ -1,211 +1,217 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-2.jpg",
-    "id": "2270602-2",
-    "재산": 6868360,
-    "생년월일": "19590502",
-    "경력": "(현)제21대 국회의원\n(전)경상북도 경제부지사",
-    "학력": "영남대학교 대학원 졸업(이학박사)",
-    "직업": "국회의원",
-    "성별": "여",
-    "id_21th": "1200",
-    "regionId": "2270602",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:30:00 +0900",
-        "title": "이인선 대구 수성을 국민의힘 국회의원 후보, 수성못 오거리퇴근 시민께 인사",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014254"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:10:00 +0900",
-        "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:06:00 +0900",
-        "title": "대구수성 오준호 후보, 여론조사 2위 차지...'이인선 견제할 대항마 부상'",
-        "link": "http://www.breaknews.com/1024631"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:04:00 +0900",
-        "title": "[대구 수성을] 국민의힘 이인선 52.9%, 새진보연합 오준호 12.6%, 개혁신당 조...",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428364?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 12:18:00 +0900",
-        "title": "대구 수성을 국힘 이인선 우세속 기타 후보들 세 분산 확연",
-        "link": "http://www.breaknews.com/1024233"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "이인선",
-    "연도별_재산": [
-      {
-        "연도": 2022,
-        "재산": 6751930
-      },
-      {
-        "연도": 2023,
-        "재산": 6868360
-      }
-    ],
-    "huboid": "100152826",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-2.jpg"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-7.jpg",
-    "id": "2270602-7",
-    "재산": 154035,
-    "생년월일": "19701102",
-    "경력": "(현)개혁신당 대구시당위원장\n(전)2019년 시사저널 차세대리더 100인 선정",
-    "학력": "육군사관학교 졸업",
-    "직업": "정치인",
-    "성별": "남",
-    "regionId": "2270602",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:10:00 +0900",
-        "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:14:00 +0900",
-        "title": "[4.10총선-155] 수성을, (무공천)vs이인선(조대원·오준호·박경철)",
-        "link": "http://www.mhj21.com/160185"
-      },
-      {
-        "date": "Fri, 23 Feb 2024 19:37:00 +0900",
-        "title": "개혁신당 대구 수성구을 조대원 \"국민의힘 상대론 이인선 후보가 쉬울 것 같다...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000269324?sid=102"
-      },
-      {
-        "date": "Fri, 23 Feb 2024 15:12:00 +0900",
-        "title": "수성구을 도전 개혁신당 조대원, “국민의힘 상대는 이인선이 해볼 만해”",
-        "link": "https://www.newsmin.co.kr/news/99680/"
-      },
-      {
-        "date": "Tue, 20 Feb 2024 18:08:00 +0900",
-        "title": "대구 제2야당 노린다던 개혁신당…지도부 갈등·시당 내홍에 '출발부터 삐걱'",
-        "link": "https://n.news.naver.com/mnews/article/088/0000863261?sid=100"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "조대원",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 154035
-      }
-    ],
-    "huboid": "100152761",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-7.jpg"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-8.jpg",
-    "id": "2270602-8",
-    "재산": 347447,
-    "생년월일": "19750620",
-    "경력": "(현)새진보연합(구 기본소득당) 공동대표\n(전)기본소득당 제20대 대통령선거 후보",
-    "학력": "서울대학교 인문대학 국어국문학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2270602",
-    "기호": 8,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 20:16:00 +0900",
-        "title": "오준호 국회의원 예비후보,2일 함장복지관에서 더불어민주당·더불어민주연합...",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=437021"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:10:00 +0900",
-        "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:18:00 +0900",
-        "title": "대파 격파, 2백만뷰 댄스, 셀프 토론...강민구·박정희·오준호, 대구 후보들...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30298"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:36:00 +0900",
-        "title": "강민구·오준호, 수성구 두 야권 후보...\"아동청소년 기본소득\" 공약",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30295"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 08:16:00 +0900",
-        "title": "오준호 후보 \"아이 키울 수 있는 사회... 노동시간 줄어도 소득 보장하는 노동...",
-        "link": "https://www.ibabynews.com/news/articleView.html?idxno=116233"
-      }
-    ],
-    "정당": "새진보연합",
-    "이름": "오준호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 347447
-      }
-    ],
-    "huboid": "100153019",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-8.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-9.jpg",
-    "id": "2270602-9",
-    "재산": 677214,
-    "생년월일": "19690915",
-    "경력": "(전)자유한국당 수성구을 당협 주호영 대외협력 위원장\n(전)20대 대통령선거 국민의힘 대구선대위 재건축,재개발 발전위 특보단장",
-    "학력": "경일대학교 경영학과 3학년 제적(1993. 3~1999. 5)",
-    "직업": "(주)대성안전산업 대표",
-    "성별": "남",
-    "regionId": "2270602",
-    "기호": 9,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:10:00 +0900",
-        "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:14:00 +0900",
-        "title": "[4.10총선-155] 수성을, (무공천)vs이인선(조대원·오준호·박경철)",
-        "link": "http://www.mhj21.com/160185"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 19:26:00 +0900",
-        "title": "대구 독립운동가 159명, 기념관은 0곳...허소·권택흥·박경철 \"독립운동기념...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30203"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 10:01:00 +0900",
-        "title": "(4.10 총선 현장) 박경철, 대구에 독립기념관 건립 공약",
-        "link": "http://www.idaegu.com/newsView/idg202403100034"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 21:34:00 +0900",
-        "title": "박경철 \"대구에 독립기념관 건립하겠다\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=452863"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "박경철",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 677214
-      }
-    ],
-    "huboid": "100151328",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-9.jpg"
-  }
+    [
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-2.jpg",
+            "id": "2270602-2",
+            "재산": 6868360,
+            "생년월일": "19590502",
+            "경력": "(현)제21대 국회의원\n(전)경상북도 경제부지사",
+            "학력": "영남대학교 대학원 졸업(이학박사)",
+            "직업": "국회의원",
+            "성별": "여",
+            "id_21th": "1200",
+            "regionId": "2270602",
+            "기호": 2,
+            "군필여부": false,
+            "news": [
+                {
+                    "date": "Wed, 03 Apr 2024 00:30:00 +0900",
+                    "title": "이인선 대구 수성을 국민의힘 국회의원 후보, 수성못 오거리퇴근 시민께 인사",
+                    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014254"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                    "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                    "title": "대구수성 오준호 후보, 여론조사 2위 차지...'이인선 견제할 대항마 부상'",
+                    "link": "http://www.breaknews.com/1024631"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 15:04:00 +0900",
+                    "title": "[대구 수성을] 국민의힘 이인선 52.9%, 새진보연합 오준호 12.6%, 개혁신당 조...",
+                    "link": "https://n.news.naver.com/mnews/article/047/0002428364?sid=165"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 12:18:00 +0900",
+                    "title": "대구 수성을 국힘 이인선 우세속 기타 후보들 세 분산 확연",
+                    "link": "http://www.breaknews.com/1024233"
+                }
+            ],
+            "정당": "국민의힘",
+            "이름": "이인선",
+            "연도별_재산": [
+                {
+                    "연도": 2022,
+                    "재산": 6751930
+                },
+                {
+                    "연도": 2023,
+                    "재산": 6868360
+                }
+            ],
+            "huboid": "100152826",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2706/Hb100152826/junkwa/20240222155335716_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수성구을_이인선_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2706/003_100152826_20240329_1.pdf"
+        },
+        {
+            "전과건수": 1,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-7.jpg",
+            "id": "2270602-7",
+            "재산": 154035,
+            "생년월일": "19701102",
+            "경력": "(현)개혁신당 대구시당위원장\n(전)2019년 시사저널 차세대리더 100인 선정",
+            "학력": "육군사관학교 졸업",
+            "직업": "정치인",
+            "성별": "남",
+            "regionId": "2270602",
+            "기호": 7,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                    "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 15:14:00 +0900",
+                    "title": "[4.10총선-155] 수성을, (무공천)vs이인선(조대원·오준호·박경철)",
+                    "link": "http://www.mhj21.com/160185"
+                },
+                {
+                    "date": "Fri, 23 Feb 2024 19:37:00 +0900",
+                    "title": "개혁신당 대구 수성구을 조대원 \"국민의힘 상대론 이인선 후보가 쉬울 것 같다...",
+                    "link": "https://n.news.naver.com/mnews/article/629/0000269324?sid=102"
+                },
+                {
+                    "date": "Fri, 23 Feb 2024 15:12:00 +0900",
+                    "title": "수성구을 도전 개혁신당 조대원, “국민의힘 상대는 이인선이 해볼 만해”",
+                    "link": "https://www.newsmin.co.kr/news/99680/"
+                },
+                {
+                    "date": "Tue, 20 Feb 2024 18:08:00 +0900",
+                    "title": "대구 제2야당 노린다던 개혁신당…지도부 갈등·시당 내홍에 '출발부터 삐걱'",
+                    "link": "https://n.news.naver.com/mnews/article/088/0000863261?sid=100"
+                }
+            ],
+            "정당": "개혁신당",
+            "이름": "조대원",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 154035
+                }
+            ],
+            "huboid": "100152761",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2706/Hb100152761/junkwa/20240216152210564_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수성구을_조대원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2706/003_100152761_20240329_1.pdf"
+        },
+        {
+            "전과건수": 1,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-8.jpg",
+            "id": "2270602-8",
+            "재산": 347447,
+            "생년월일": "19750620",
+            "경력": "(현)새진보연합(구 기본소득당) 공동대표\n(전)기본소득당 제20대 대통령선거 후보",
+            "학력": "서울대학교 인문대학 국어국문학과 졸업",
+            "직업": "정당인",
+            "성별": "남",
+            "regionId": "2270602",
+            "기호": 8,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 20:16:00 +0900",
+                    "title": "오준호 국회의원 예비후보,2일 함장복지관에서 더불어민주당·더불어민주연합...",
+                    "link": "https://www.dkilbo.com/news/articleView.html?idxno=437021"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                    "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 14:18:00 +0900",
+                    "title": "대파 격파, 2백만뷰 댄스, 셀프 토론...강민구·박정희·오준호, 대구 후보들...",
+                    "link": "https://www.pn.or.kr/news/articleView.html?idxno=30298"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 13:36:00 +0900",
+                    "title": "강민구·오준호, 수성구 두 야권 후보...\"아동청소년 기본소득\" 공약",
+                    "link": "https://www.pn.or.kr/news/articleView.html?idxno=30295"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 08:16:00 +0900",
+                    "title": "오준호 후보 \"아이 키울 수 있는 사회... 노동시간 줄어도 소득 보장하는 노동...",
+                    "link": "https://www.ibabynews.com/news/articleView.html?idxno=116233"
+                }
+            ],
+            "정당": "새진보연합",
+            "이름": "오준호",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 347447
+                }
+            ],
+            "huboid": "100153019",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2706/Hb100153019/junkwa/20240312131355957_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수성구을_오준호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2706/003_100153019_20240329_1.pdf"
+        },
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-9.jpg",
+            "id": "2270602-9",
+            "재산": 677214,
+            "생년월일": "19690915",
+            "경력": "(전)자유한국당 수성구을 당협 주호영 대외협력 위원장\n(전)20대 대통령선거 국민의힘 대구선대위 재건축,재개발 발전위 특보단장",
+            "학력": "경일대학교 경영학과 3학년 제적(1993. 3~1999. 5)",
+            "직업": "(주)대성안전산업 대표",
+            "성별": "남",
+            "regionId": "2270602",
+            "기호": 9,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+                    "title": "청년 유출 문제의 원인과 해법…수성구을 이인선/조대원/오준호/박경철 후보",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461802"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 15:14:00 +0900",
+                    "title": "[4.10총선-155] 수성을, (무공천)vs이인선(조대원·오준호·박경철)",
+                    "link": "http://www.mhj21.com/160185"
+                },
+                {
+                    "date": "Fri, 15 Mar 2024 19:26:00 +0900",
+                    "title": "대구 독립운동가 159명, 기념관은 0곳...허소·권택흥·박경철 \"독립운동기념...",
+                    "link": "https://www.pn.or.kr/news/articleView.html?idxno=30203"
+                },
+                {
+                    "date": "Mon, 11 Mar 2024 10:01:00 +0900",
+                    "title": "(4.10 총선 현장) 박경철, 대구에 독립기념관 건립 공약",
+                    "link": "http://www.idaegu.com/newsView/idg202403100034"
+                },
+                {
+                    "date": "Sun, 10 Mar 2024 21:34:00 +0900",
+                    "title": "박경철 \"대구에 독립기념관 건립하겠다\"",
+                    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=452863"
+                }
+            ],
+            "정당": "무소속",
+            "이름": "박경철",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 677214
+                }
+            ],
+            "huboid": "100151328",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2706/Hb100151328/junkwa/20231212140836863_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_수성구을_박경철_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2706/003_100151328_20240329_1.pdf"
+        }
+    ]
 ]

@@ -1,117 +1,121 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-1.jpg",
-    "id": "2111002-1",
-    "재산": 1840120,
-    "생년월일": "19661125",
-    "경력": "(현) 도봉(을) 국회의원\n(현) 더불어민주당 서울시당 정책위원장",
-    "학력": "서울대학교 법과대학 공법학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1048",
-    "regionId": "2111002",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-        "title": "오기형 지원 유세 나선 김부겸 \"제멋대로 국정운영 尹 정권 심판하자\" [TF사진...",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277931?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 07:02:00 +0900",
-        "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:39:00 +0900",
-        "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:36:00 +0900",
-        "title": "유권자들에게 지지 호소하는 오기형 민주당 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815235?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:36:00 +0900",
-        "title": "유세차량 올라 인사하는 오기형 더불어민주당 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815236?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "오기형",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1775517
-      },
-      {
-        "연도": 2021,
-        "재산": 1822890
-      },
-      {
-        "연도": 2022,
-        "재산": 1844975
-      },
-      {
-        "연도": 2023,
-        "재산": 1840120
-      }
-    ],
-    "huboid": "100152438",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111002-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-2.jpg",
-    "id": "2111002-2",
-    "재산": 1071159,
-    "생년월일": "19631009",
-    "경력": "(전) 제18대·20대 국회의원\n(전) 국민의힘 사무총장",
-    "학력": "고려대학교 대학원 정치외교학과 졸업(정치학 석사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111002",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 07:02:00 +0900",
-        "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:39:00 +0900",
-        "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:38:00 +0900",
-        "title": "지역주민에게 지지 호소하는 김선동 국민의힘 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815239?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:37:00 +0900",
-        "title": "악수하며 지지 호소하는 김선동 국민의힘 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815237?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 17:37:00 +0900",
-        "title": "지역구 유권자들과 인사하는 김선동 국민의힘 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815238?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김선동",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1071159
-      }
-    ],
-    "huboid": "100152292",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111002-2.jpg"
-  }
+    [
+        {
+            "전과건수": 2,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-1.jpg",
+            "id": "2111002-1",
+            "재산": 1840120,
+            "생년월일": "19661125",
+            "경력": "(현) 도봉(을) 국회의원\n(현) 더불어민주당 서울시당 정책위원장",
+            "학력": "서울대학교 법과대학 공법학과 졸업",
+            "직업": "국회의원",
+            "성별": "남",
+            "id_21th": "1048",
+            "regionId": "2111002",
+            "기호": 1,
+            "군필여부": false,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+                    "title": "오기형 지원 유세 나선 김부겸 \"제멋대로 국정운영 尹 정권 심판하자\" [TF사진...",
+                    "link": "https://n.news.naver.com/mnews/article/629/0000277931?sid=165"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 07:02:00 +0900",
+                    "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
+                    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:39:00 +0900",
+                    "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:36:00 +0900",
+                    "title": "유권자들에게 지지 호소하는 오기형 민주당 후보",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815235?sid=165"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:36:00 +0900",
+                    "title": "유세차량 올라 인사하는 오기형 더불어민주당 후보",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815236?sid=165"
+                }
+            ],
+            "정당": "더불어민주당",
+            "이름": "오기형",
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 1775517
+                },
+                {
+                    "연도": 2021,
+                    "재산": 1822890
+                },
+                {
+                    "연도": 2022,
+                    "재산": 1844975
+                },
+                {
+                    "연도": 2023,
+                    "재산": 1840120
+                }
+            ],
+            "huboid": "100152438",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1110/Hb100152438/junkwa/20240126175152095_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_도봉구을_오기형_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1110/003_100152438_20240328_1.pdf"
+        },
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-2.jpg",
+            "id": "2111002-2",
+            "재산": 1071159,
+            "생년월일": "19631009",
+            "경력": "(전) 제18대·20대 국회의원\n(전) 국민의힘 사무총장",
+            "학력": "고려대학교 대학원 정치외교학과 졸업(정치학 석사)",
+            "직업": "정당인",
+            "성별": "남",
+            "regionId": "2111002",
+            "기호": 2,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 07:02:00 +0900",
+                    "title": "[격전지 민심] ‘도봉을’ 오기형 vs 김선동 세번째 맞대결… “미래세대 정책...",
+                    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403261619440800664"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:39:00 +0900",
+                    "title": "'오기형 대 김선동, 서울 도봉을 승자는 누구?'",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815240?sid=165"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:38:00 +0900",
+                    "title": "지역주민에게 지지 호소하는 김선동 국민의힘 후보",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815239?sid=165"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:37:00 +0900",
+                    "title": "악수하며 지지 호소하는 김선동 국민의힘 후보",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815237?sid=165"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 17:37:00 +0900",
+                    "title": "지역구 유권자들과 인사하는 김선동 국민의힘 후보",
+                    "link": "https://n.news.naver.com/mnews/article/119/0002815238?sid=165"
+                }
+            ],
+            "정당": "국민의힘",
+            "이름": "김선동",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 1071159
+                }
+            ],
+            "huboid": "100152292",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1110/Hb100152292/junkwa/20240119171057812_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_도봉구을_김선동_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1110/003_100152292_20240328_1.pdf"
+        }
+    ]
 ]

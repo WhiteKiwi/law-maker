@@ -1,155 +1,160 @@
 [
-  {
-    "id": "2460702-1",
-    "regionId": "2460702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-1.jpg",
-    "기호": 1,
-    "이름": "권향엽",
-    "생년월일": "19680212",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "이화여자대학교 대학원 박사학위과정 수료(정치외교학과 한국정치전공)",
-    "경력": "(전)청와대 균형인사비서관\n(현)더불어민주당 정책위 부의장",
-    "재산": 1084151,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:46:00 +0900",
-        "title": "권향엽 \"46년만에 전남 여성 국회의원…승리 역사 쓸 것\"",
-        "link": "https://www.newspim.com/news/view/20240402001005"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:36:00 +0900",
-        "title": "전남 순천·광양·곡성·구례을, 민주 권향엽 58%·국민의힘 이정현 21%",
-        "link": "https://n.news.naver.com/mnews/article/008/0005020261?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:14:00 +0900",
-        "title": "'순천을' 여성 권향엽 58%, 국힘 이정현 21%…정권 심판론 득세",
-        "link": "https://n.news.naver.com/mnews/article/016/0002289219?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:01:00 +0900",
-        "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 23:34:00 +0900",
-        "title": "더불어민주당 전남도당 \"권향엽 후보 당선 최선 다할 것\"",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124987"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1084151
-      }
-    ],
-    "huboid": "100151214",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460702-1.jpg"
-  },
-  {
-    "id": "2460702-2",
-    "regionId": "2460702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-2.jpg",
-    "기호": 2,
-    "이름": "이정현",
-    "생년월일": "19580901",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "동국대학교 정치외교학과 졸업",
-    "경력": "(전)18대,19대,20대 국회의원\n(전)새누리당 대표",
-    "재산": 963336,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 10:36:00 +0900",
-        "title": "전남 순천·광양·곡성·구례을, 민주 권향엽 58%·국민의힘 이정현 21%",
-        "link": "https://n.news.naver.com/mnews/article/008/0005020261?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:14:00 +0900",
-        "title": "'순천을' 여성 권향엽 58%, 국힘 이정현 21%…정권 심판론 득세",
-        "link": "https://n.news.naver.com/mnews/article/016/0002289219?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:01:00 +0900",
-        "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 07:08:00 +0900",
-        "title": "\"이정현 일은 잘하제\" vs \"그래도 민주당\"…전남 최대 격전지 민심은",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451717?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:21:00 +0900",
-        "title": "[전남 순천광양곡성구례을] 더불어민주당 권향엽 58%, 국민의힘 이정현 21%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428428?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 963336
-      }
-    ],
-    "huboid": "100152976",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460702-2.jpg"
-  },
-  {
-    "id": "2460702-7",
-    "regionId": "2460702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-7.jpg",
-    "기호": 7,
-    "이름": "유현주",
-    "생년월일": "19710318",
-    "정당": "진보당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "이화여자대학교 사범대학 과학교육과(물리전공) 졸업",
-    "경력": "(전)전라남도의회의원\n(현)진보당 광양시위원회위원장",
-    "재산": -14100,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 09:01:00 +0900",
-        "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 08:36:00 +0900",
-        "title": "순천을 민주 권향엽 62.5%·국힘 이정현 23.8%·진보 유현주 7.4%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007448941?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 06:52:00 +0900",
-        "title": "순천을 민주 권향엽 61%·국힘 이정현 19%·진보 유현주 7%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007441012?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 09:41:00 +0900",
-        "title": "순천을 민주 권향엽 60.5%·국힘 이정현 24%·진보 유현주 5.8%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007438426?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 11:30:00 +0900",
-        "title": "진보당 유현주 후보, 광양시농민회 정책 협약·지지 선언",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3122004"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -14100
-      }
-    ],
-    "huboid": "100151176",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460702-7.jpg"
-  }
+    [
+        {
+            "id": "2460702-1",
+            "regionId": "2460702",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-1.jpg",
+            "기호": 1,
+            "이름": "권향엽",
+            "생년월일": "19680212",
+            "정당": "더불어민주당",
+            "성별": "여",
+            "직업": "정당인",
+            "학력": "이화여자대학교 대학원 박사학위과정 수료(정치외교학과 한국정치전공)",
+            "경력": "(전)청와대 균형인사비서관\n(현)더불어민주당 정책위 부의장",
+            "재산": 1084151,
+            "군필여부": false,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 19:46:00 +0900",
+                    "title": "권향엽 \"46년만에 전남 여성 국회의원…승리 역사 쓸 것\"",
+                    "link": "https://www.newspim.com/news/view/20240402001005"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 10:36:00 +0900",
+                    "title": "전남 순천·광양·곡성·구례을, 민주 권향엽 58%·국민의힘 이정현 21%",
+                    "link": "https://n.news.naver.com/mnews/article/008/0005020261?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 10:14:00 +0900",
+                    "title": "'순천을' 여성 권향엽 58%, 국힘 이정현 21%…정권 심판론 득세",
+                    "link": "https://n.news.naver.com/mnews/article/016/0002289219?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 09:01:00 +0900",
+                    "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 23:34:00 +0900",
+                    "title": "더불어민주당 전남도당 \"권향엽 후보 당선 최선 다할 것\"",
+                    "link": "https://www.newscj.com/news/articleView.html?idxno=3124987"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 1084151
+                }
+            ],
+            "huboid": "100151214",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4607/Hb100151214/junkwa/20240321145501592_9.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_순천시광양시곡성군구례군을_권향엽_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4607/003_100151214_20240326_1.pdf"
+        },
+        {
+            "id": "2460702-2",
+            "regionId": "2460702",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-2.jpg",
+            "기호": 2,
+            "이름": "이정현",
+            "생년월일": "19580901",
+            "정당": "국민의힘",
+            "성별": "남",
+            "직업": "정당인",
+            "학력": "동국대학교 정치외교학과 졸업",
+            "경력": "(전)18대,19대,20대 국회의원\n(전)새누리당 대표",
+            "재산": 963336,
+            "군필여부": true,
+            "전과건수": 1,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 10:36:00 +0900",
+                    "title": "전남 순천·광양·곡성·구례을, 민주 권향엽 58%·국민의힘 이정현 21%",
+                    "link": "https://n.news.naver.com/mnews/article/008/0005020261?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 10:14:00 +0900",
+                    "title": "'순천을' 여성 권향엽 58%, 국힘 이정현 21%…정권 심판론 득세",
+                    "link": "https://n.news.naver.com/mnews/article/016/0002289219?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 09:01:00 +0900",
+                    "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 07:08:00 +0900",
+                    "title": "\"이정현 일은 잘하제\" vs \"그래도 민주당\"…전남 최대 격전지 민심은",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007451717?sid=165"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 18:21:00 +0900",
+                    "title": "[전남 순천광양곡성구례을] 더불어민주당 권향엽 58%, 국민의힘 이정현 21%",
+                    "link": "https://n.news.naver.com/mnews/article/047/0002428428?sid=165"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 963336
+                }
+            ],
+            "huboid": "100152976",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4607/Hb100152976/junkwa/20240321105102844_8.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_순천시광양시곡성군구례군을_이정현_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4607/003_100152976_20240329_2.pdf"
+        },
+        {
+            "id": "2460702-7",
+            "regionId": "2460702",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460702-7.jpg",
+            "기호": 7,
+            "이름": "유현주",
+            "생년월일": "19710318",
+            "정당": "진보당",
+            "성별": "여",
+            "직업": "정당인",
+            "학력": "이화여자대학교 사범대학 과학교육과(물리전공) 졸업",
+            "경력": "(전)전라남도의회의원\n(현)진보당 광양시위원회위원장",
+            "재산": -14100,
+            "군필여부": false,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 09:01:00 +0900",
+                    "title": "순천을 민주 권향엽 58%·국힘 이정현 21%·진보 유현주 4%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007451934?sid=165"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 08:36:00 +0900",
+                    "title": "순천을 민주 권향엽 62.5%·국힘 이정현 23.8%·진보 유현주 7.4%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007448941?sid=165"
+                },
+                {
+                    "date": "Thu, 28 Mar 2024 06:52:00 +0900",
+                    "title": "순천을 민주 권향엽 61%·국힘 이정현 19%·진보 유현주 7%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007441012?sid=165"
+                },
+                {
+                    "date": "Wed, 27 Mar 2024 09:41:00 +0900",
+                    "title": "순천을 민주 권향엽 60.5%·국힘 이정현 24%·진보 유현주 5.8%",
+                    "link": "https://n.news.naver.com/mnews/article/421/0007438426?sid=165"
+                },
+                {
+                    "date": "Mon, 25 Mar 2024 11:30:00 +0900",
+                    "title": "진보당 유현주 후보, 광양시농민회 정책 협약·지지 선언",
+                    "link": "https://www.newscj.com/news/articleView.html?idxno=3122004"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": -14100
+                }
+            ],
+            "huboid": "100151176",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4607/Hb100151176/junkwa/20240321105852384_5.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_순천시광양시곡성군구례군을_유현주_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4607/003_100151176_20240326_1.pdf"
+        }
+    ]
 ]

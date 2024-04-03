@@ -1,104 +1,108 @@
 [
-  {
-    "id": "2410802-1",
-    "regionId": "2410802",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410802-1.jpg",
-    "기호": 1,
-    "이름": "이재강",
-    "생년월일": "19620720",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "의정부평화연구소 소장",
-    "학력": "런던정치경제대학교 정치학과 박사과정 수료(1993.10.1.~2005.9.30.)",
-    "경력": "(전) 경기도 평화부지사\n(현) 더불어민주당 기본사회위원회 부위원장",
-    "재산": 220195,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:38:00 +0900",
-        "title": "이재강 민주당 의정부을 후보, KD운송그룹 노사 차담회 개최",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645081"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:10:00 +0900",
-        "title": "'주민들 뿔났다', 고산신도시연합회 임원진 이재강 후보에 유감 성명",
-        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=25027"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:50:00 +0900",
-        "title": "민주당 의정부을 이재강 후보 간담회 패싱에 고산 주민들 ‘부글’",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402020573949"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 02:36:00 +0900",
-        "title": "민주당 이재강 의정부을 국회의원 후보, 마을공동체 활성화를 위한 정책간담회...",
-        "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91108"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:38:00 +0900",
-        "title": "의정부을 이재강 후보 공보책자에 지역현안 '고산동 물류센터 백지화' 공약 없...",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580435"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 220195
-      }
-    ],
-    "huboid": "100151397",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410802-1.jpg"
-  },
-  {
-    "id": "2410802-2",
-    "regionId": "2410802",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410802-2.jpg",
-    "기호": 2,
-    "이름": "이형섭",
-    "생년월일": "19790428",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "성균관대학교 법학과 졸업",
-    "경력": "(전) 국민의힘 의정부시을 당협위원장\n(현) 변호사",
-    "재산": 732000,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:46:00 +0900",
-        "title": "의정부을 이형섭 후보, \"만가대 교통난 해소 위해 민락~고산 연결도로 훈민중...",
-        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752242"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:16:00 +0900",
-        "title": "이형섭 국힘 의정부을 후보, '기업유치 및 일자리 창출 정책' 발표",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644959"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "[4·10=It's 사람] 의정부을 국민의힘 이형섭 후보 공동인터뷰",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242669"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:26:00 +0900",
-        "title": "국힘 의정부을 이형섭 \"미군 반환 공여지에 기업 유치\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012466099?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:44:00 +0900",
-        "title": "국민의힘 이형섭 “정권심판 말고 지역일꾼 봐달라”",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402025033754"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 732000
-      }
-    ],
-    "huboid": "100152159",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410802-2.jpg"
-  }
+    [
+        {
+            "id": "2410802-1",
+            "regionId": "2410802",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410802-1.jpg",
+            "기호": 1,
+            "이름": "이재강",
+            "생년월일": "19620720",
+            "정당": "더불어민주당",
+            "성별": "남",
+            "직업": "의정부평화연구소 소장",
+            "학력": "런던정치경제대학교 정치학과 박사과정 수료(1993.10.1.~2005.9.30.)",
+            "경력": "(전) 경기도 평화부지사\n(현) 더불어민주당 기본사회위원회 부위원장",
+            "재산": 220195,
+            "군필여부": true,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 19:38:00 +0900",
+                    "title": "이재강 민주당 의정부을 후보, KD운송그룹 노사 차담회 개최",
+                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363645081"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 16:10:00 +0900",
+                    "title": "'주민들 뿔났다', 고산신도시연합회 임원진 이재강 후보에 유감 성명",
+                    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=25027"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+                    "title": "민주당 의정부을 이재강 후보 간담회 패싱에 고산 주민들 ‘부글’",
+                    "link": "http://www.kyeongin.com/main/view.php?key=20240402020573949"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 02:36:00 +0900",
+                    "title": "민주당 이재강 의정부을 국회의원 후보, 마을공동체 활성화를 위한 정책간담회...",
+                    "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91108"
+                },
+                {
+                    "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+                    "title": "의정부을 이재강 후보 공보책자에 지역현안 '고산동 물류센터 백지화' 공약 없...",
+                    "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580435"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 220195
+                }
+            ],
+            "huboid": "100151397",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4108/Hb100151397/junkwa/20231212155856714_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_의정부시을_이재강_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4108/003_100151397_20240329_1.pdf"
+        },
+        {
+            "id": "2410802-2",
+            "regionId": "2410802",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410802-2.jpg",
+            "기호": 2,
+            "이름": "이형섭",
+            "생년월일": "19790428",
+            "정당": "국민의힘",
+            "성별": "남",
+            "직업": "변호사",
+            "학력": "성균관대학교 법학과 졸업",
+            "경력": "(전) 국민의힘 의정부시을 당협위원장\n(현) 변호사",
+            "재산": 732000,
+            "군필여부": true,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 16:46:00 +0900",
+                    "title": "의정부을 이형섭 후보, \"만가대 교통난 해소 위해 민락~고산 연결도로 훈민중...",
+                    "link": "https://www.gokorea.kr/news/articleView.html?idxno=752242"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 15:16:00 +0900",
+                    "title": "이형섭 국힘 의정부을 후보, '기업유치 및 일자리 창출 정책' 발표",
+                    "link": "https://www.joongboo.com/news/articleView.html?idxno=363644959"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                    "title": "[4·10=It's 사람] 의정부을 국민의힘 이형섭 후보 공동인터뷰",
+                    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242669"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 13:26:00 +0900",
+                    "title": "국힘 의정부을 이형섭 \"미군 반환 공여지에 기업 유치\"",
+                    "link": "https://n.news.naver.com/mnews/article/003/0012466099?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 12:44:00 +0900",
+                    "title": "국민의힘 이형섭 “정권심판 말고 지역일꾼 봐달라”",
+                    "link": "http://www.kyeongin.com/main/view.php?key=20240402025033754"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 732000
+                }
+            ],
+            "huboid": "100152159",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4108/Hb100152159/junkwa/20240115143249399_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_의정부시을_이형섭_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4108/003_100152159_20240329_1.pdf"
+        }
+    ]
 ]

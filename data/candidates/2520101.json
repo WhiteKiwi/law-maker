@@ -1,219 +1,225 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-1.jpg",
-    "id": "2520101-1",
-    "재산": 1816098,
-    "생년월일": "19700329",
-    "경력": "(현)춘천시철원군화천군양구군갑 국회의원\n(전)더불어민주당 강원도당위원장",
-    "학력": "고려대학교 정책대학원 석사과정 국제관계학과 수료",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1121",
-    "regionId": "2520101",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-        "title": "[선택 4·10 총선 D-7여론조사]허영-김혜란 4.9%p→9.3%p 격차 커져",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035903?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-        "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-        "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:03:00 +0900",
-        "title": "[포토뉴스] 허영 후보 지원 유세하는 김부겸 민주당 상임 공동선대위원장",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035886?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:03:00 +0900",
-        "title": "[포토뉴스]더불어민주당 춘천갑 허영후보 지원유세 나선 정세균 전 국무총리",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035887?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "허영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1114480
-      },
-      {
-        "연도": 2021,
-        "재산": 1859802
-      },
-      {
-        "연도": 2022,
-        "재산": 1881093
-      },
-      {
-        "연도": 2023,
-        "재산": 1816098
-      }
-    ],
-    "huboid": "100152616",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520101-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-2.jpg",
-    "id": "2520101-2",
-    "재산": 5748619,
-    "생년월일": "19760525",
-    "경력": "(전)서울중앙지방법원 판사\n(전)서울가정법원 판사",
-    "학력": "서울대학교 공과대학 전기공학부(전기공학전공) 졸업",
-    "직업": "변호사",
-    "성별": "여",
-    "regionId": "2520101",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 01:01:00 +0900",
-        "title": "[선택 4·10 총선 D-7여론조사]허영-김혜란 4.9%p→9.3%p 격차 커져",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035903?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:06:00 +0900",
-        "title": "국힘 도당 \"민주, 김혜란 후보 허위사실 공표 중단\"",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070569?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:38:00 +0900",
-        "title": "허영, 김혜란 후보에 오차 밖 앞서... 원주 갑은 여전히 접전",
-        "link": "https://www.mbceg.co.kr/post/114182"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:19:00 +0900",
-        "title": "[강원 춘천철원화천양구갑] 더불어민주당 허영 48.1%, 국민의힘 김혜란 38.8%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428638?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:46:00 +0900",
-        "title": "[총선톡톡] 춘천갑 김혜란 후보 이력 두고 공방 지속",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035852?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김혜란",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 5748619
-      }
-    ],
-    "huboid": "100151351",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520101-2.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-6.jpg",
-    "id": "2520101-6",
-    "재산": 2155008,
-    "생년월일": "19550715",
-    "경력": "(전)제14대 총선 전국최연소 국회의원\n(전)제17대 국회 건설교통위원장",
-    "학력": "북경대학 대학원 졸업(법학박사)(2001.09~2003.12)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2520101",
-    "기호": 6,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:10:00 +0900",
-        "title": "춘천 철원 화천 양구 갑 조일현 후보 \"세계적인 관광 휴양도시 만들 터\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880976?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:03:00 +0900",
-        "title": "[2차 여론조사-춘천 갑] 허영 48.1% vs 김혜란 38.8% vs 조일현 1.0% vs 오정...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035791?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 00:04:00 +0900",
-        "title": "[포토뉴스] 춘천갑 조일현 새로운미래 후보 공식선거운동 첫날",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035007?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:06:00 +0900",
-        "title": "[4·10총선 발언대] 조일현·오정규 \"무소속·군소정당 방송토론 기회 줘야\"",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069976?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:32:00 +0900",
-        "title": "[4·10총선 발언대] 새미래 조일현·무소속 오정규 \"방송토론, 전 후보 참여시...",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069946?sid=100"
-      }
-    ],
-    "정당": "새로운미래",
-    "이름": "조일현",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2155008
-      }
-    ],
-    "huboid": "100153094",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520101-6.jpg"
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-7.jpg",
-    "id": "2520101-7",
-    "재산": 63000,
-    "생년월일": "19670517",
-    "경력": "(현)전기 기술사\n(전)한국공학교육인증원 대학평가위원",
-    "학력": "전남대학교 정밀화학과 졸업",
-    "직업": "자영업",
-    "성별": "남",
-    "regionId": "2520101",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Fri, 29 Mar 2024 00:04:00 +0900",
-        "title": "[포토뉴스] 춘천갑 오정규 무소속 후보 공식선거운동 첫날",
-        "link": "https://n.news.naver.com/mnews/article/087/0001035008?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:06:00 +0900",
-        "title": "[4·10총선 발언대] 조일현·오정규 \"무소속·군소정당 방송토론 기회 줘야\"",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069976?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:32:00 +0900",
-        "title": "[4·10총선 발언대] 새미래 조일현·무소속 오정규 \"방송토론, 전 후보 참여시...",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069946?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:08:00 +0900",
-        "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461062"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:38:00 +0900",
-        "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460837"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "오정규",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 63000
-      }
-    ],
-    "huboid": "100151616",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520101-7.jpg"
-  }
+    [
+        {
+            "전과건수": 2,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-1.jpg",
+            "id": "2520101-1",
+            "재산": 1816098,
+            "생년월일": "19700329",
+            "경력": "(현)춘천시철원군화천군양구군갑 국회의원\n(전)더불어민주당 강원도당위원장",
+            "학력": "고려대학교 정책대학원 석사과정 국제관계학과 수료",
+            "직업": "국회의원",
+            "성별": "남",
+            "id_21th": "1121",
+            "regionId": "2520101",
+            "기호": 1,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+                    "title": "[선택 4·10 총선 D-7여론조사]허영-김혜란 4.9%p→9.3%p 격차 커져",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035903?sid=165"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+                    "title": "[선택 4·10 총선 D-7여론조사]허영-권성동-이철규 오차범위 밖 우세···원...",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035901?sid=165"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+                    "title": "[4.10 총선, 강원의 선택] 허영·권성동·이철규 오차 밖 '우세'…원주 갑 박...",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000070617?sid=100"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:03:00 +0900",
+                    "title": "[포토뉴스] 허영 후보 지원 유세하는 김부겸 민주당 상임 공동선대위원장",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035886?sid=165"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:03:00 +0900",
+                    "title": "[포토뉴스]더불어민주당 춘천갑 허영후보 지원유세 나선 정세균 전 국무총리",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035887?sid=165"
+                }
+            ],
+            "정당": "더불어민주당",
+            "이름": "허영",
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 1114480
+                },
+                {
+                    "연도": 2021,
+                    "재산": 1859802
+                },
+                {
+                    "연도": 2022,
+                    "재산": 1881093
+                },
+                {
+                    "연도": 2023,
+                    "재산": 1816098
+                }
+            ],
+            "huboid": "100152616",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100152616/junkwa/20240206112357670_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_춘천시철원군화천군양구군갑_허영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5201/003_100152616_20240329_1.pdf"
+        },
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-2.jpg",
+            "id": "2520101-2",
+            "재산": 5748619,
+            "생년월일": "19760525",
+            "경력": "(전)서울중앙지방법원 판사\n(전)서울가정법원 판사",
+            "학력": "서울대학교 공과대학 전기공학부(전기공학전공) 졸업",
+            "직업": "변호사",
+            "성별": "여",
+            "regionId": "2520101",
+            "기호": 2,
+            "군필여부": false,
+            "news": [
+                {
+                    "date": "Wed, 03 Apr 2024 01:01:00 +0900",
+                    "title": "[선택 4·10 총선 D-7여론조사]허영-김혜란 4.9%p→9.3%p 격차 커져",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035903?sid=165"
+                },
+                {
+                    "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                    "title": "국힘 도당 \"민주, 김혜란 후보 허위사실 공표 중단\"",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000070569?sid=100"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+                    "title": "허영, 김혜란 후보에 오차 밖 앞서... 원주 갑은 여전히 접전",
+                    "link": "https://www.mbceg.co.kr/post/114182"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 20:19:00 +0900",
+                    "title": "[강원 춘천철원화천양구갑] 더불어민주당 허영 48.1%, 국민의힘 김혜란 38.8%",
+                    "link": "https://n.news.naver.com/mnews/article/047/0002428638?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 18:46:00 +0900",
+                    "title": "[총선톡톡] 춘천갑 김혜란 후보 이력 두고 공방 지속",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035852?sid=165"
+                }
+            ],
+            "정당": "국민의힘",
+            "이름": "김혜란",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 5748619
+                }
+            ],
+            "huboid": "100151351",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100151351/junkwa/20231212145357054_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_춘천시철원군화천군양구군갑_김혜란_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5201/003_100151351_20240402_1.pdf"
+        },
+        {
+            "전과건수": 0,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-6.jpg",
+            "id": "2520101-6",
+            "재산": 2155008,
+            "생년월일": "19550715",
+            "경력": "(전)제14대 총선 전국최연소 국회의원\n(전)제17대 국회 건설교통위원장",
+            "학력": "북경대학 대학원 졸업(법학박사)(2001.09~2003.12)",
+            "직업": "정당인",
+            "성별": "남",
+            "regionId": "2520101",
+            "기호": 6,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Tue, 02 Apr 2024 16:10:00 +0900",
+                    "title": "춘천 철원 화천 양구 갑 조일현 후보 \"세계적인 관광 휴양도시 만들 터\"",
+                    "link": "https://n.news.naver.com/mnews/article/079/0003880976?sid=165"
+                },
+                {
+                    "date": "Tue, 02 Apr 2024 16:03:00 +0900",
+                    "title": "[2차 여론조사-춘천 갑] 허영 48.1% vs 김혜란 38.8% vs 조일현 1.0% vs 오정...",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035791?sid=165"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 00:04:00 +0900",
+                    "title": "[포토뉴스] 춘천갑 조일현 새로운미래 후보 공식선거운동 첫날",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035007?sid=165"
+                },
+                {
+                    "date": "Thu, 28 Mar 2024 00:06:00 +0900",
+                    "title": "[4·10총선 발언대] 조일현·오정규 \"무소속·군소정당 방송토론 기회 줘야\"",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000069976?sid=100"
+                },
+                {
+                    "date": "Wed, 27 Mar 2024 16:32:00 +0900",
+                    "title": "[4·10총선 발언대] 새미래 조일현·무소속 오정규 \"방송토론, 전 후보 참여시...",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000069946?sid=100"
+                }
+            ],
+            "정당": "새로운미래",
+            "이름": "조일현",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 2155008
+                }
+            ],
+            "huboid": "100153094",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100153094/junkwa/20240318163356122_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_춘천시철원군화천군양구군갑_조일현_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5201/003_100153094_20240329_1.pdf"
+        },
+        {
+            "전과건수": 2,
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-7.jpg",
+            "id": "2520101-7",
+            "재산": 63000,
+            "생년월일": "19670517",
+            "경력": "(현)전기 기술사\n(전)한국공학교육인증원 대학평가위원",
+            "학력": "전남대학교 정밀화학과 졸업",
+            "직업": "자영업",
+            "성별": "남",
+            "regionId": "2520101",
+            "기호": 7,
+            "군필여부": true,
+            "news": [
+                {
+                    "date": "Fri, 29 Mar 2024 00:04:00 +0900",
+                    "title": "[포토뉴스] 춘천갑 오정규 무소속 후보 공식선거운동 첫날",
+                    "link": "https://n.news.naver.com/mnews/article/087/0001035008?sid=165"
+                },
+                {
+                    "date": "Thu, 28 Mar 2024 00:06:00 +0900",
+                    "title": "[4·10총선 발언대] 조일현·오정규 \"무소속·군소정당 방송토론 기회 줘야\"",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000069976?sid=100"
+                },
+                {
+                    "date": "Wed, 27 Mar 2024 16:32:00 +0900",
+                    "title": "[4·10총선 발언대] 새미래 조일현·무소속 오정규 \"방송토론, 전 후보 참여시...",
+                    "link": "https://n.news.naver.com/mnews/article/654/0000069946?sid=100"
+                },
+                {
+                    "date": "Wed, 27 Mar 2024 16:08:00 +0900",
+                    "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=461062"
+                },
+                {
+                    "date": "Wed, 27 Mar 2024 15:38:00 +0900",
+                    "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
+                    "link": "http://news.lghellovision.net/news/articleView.html?idxno=460837"
+                }
+            ],
+            "정당": "무소속",
+            "이름": "오정규",
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 63000
+                }
+            ],
+            "huboid": "100151616",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5201/Hb100151616/junkwa/20231215161403872_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_춘천시철원군화천군양구군갑_오정규_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5201/003_100151616_20240329_1.pdf"
+        }
+    ]
 ]

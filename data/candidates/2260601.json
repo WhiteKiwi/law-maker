@@ -1,155 +1,160 @@
 [
-  {
-    "id": "2260601-1",
-    "regionId": "2260601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-1.jpg",
-    "기호": 1,
-    "이름": "박성현",
-    "생년월일": "19671210",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "법무법인 진심 법률고문",
-    "학력": "미국 하워드대학교 로스쿨 석사과정 법학석사 (2006.8~2007.5)",
-    "경력": "(현)더불어민주당 동래구 지역위원장\n(전)청와대 정무수석비서실 행정관",
-    "재산": 621816,
-    "군필여부": false,
-    "전과건수": 3,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-        "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
-        "link": "http://www.mhj21.com/160238"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 13:55:00 +0900",
-        "title": "[원포인트 공약] 더불어민주당 동래구 박성현 후보, \"공공도서관 네트워크 구...",
-        "link": "https://n.news.naver.com/mnews/article/658/0000069240?sid=165"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 18:40:00 +0900",
-        "title": "[영상] 민주당 부산 동래 박성현 “특색 있는 도서관 건립·연결…도서관 도시...",
-        "link": "https://n.news.naver.com/mnews/article/082/0001260815?sid=100"
-      },
-      {
-        "date": "Tue, 12 Mar 2024 00:02:00 +0900",
-        "title": "[부산 동래] 국민의힘 서지영 50.9%, 더불어민주당 박성현 36.7%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002425347?sid=165"
-      },
-      {
-        "date": "Mon, 11 Mar 2024 21:06:00 +0900",
-        "title": "부산 선거구 6곳 오차범위 밖 ′국힘 우세′",
-        "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262079"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 621816
-      }
-    ],
-    "huboid": "100151680",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260601-1.jpg"
-  },
-  {
-    "id": "2260601-2",
-    "regionId": "2260601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-2.jpg",
-    "기호": 2,
-    "이름": "서지영",
-    "생년월일": "19750218",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "연세대학교 행정대학원 정책학 석사",
-    "경력": "(전)청와대 국정기획수석실 행정관\n(전)국회의장 정무조정비서관(2급상당)",
-    "재산": 1257101,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-        "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
-        "link": "http://www.mhj21.com/160238"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 09:40:00 +0900",
-        "title": "[영상] 서지영 동래구 국민의힘 후보, \"동래가 키운 검증되고 준비된 일꾼\"",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014051"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 07:48:00 +0900",
-        "title": "서지영 국민의힘 동래구 후보, 총선 출정식... 동래 발전 5대 미래 비젼 제시",
-        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013976"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:34:00 +0900",
-        "title": "국민의힘 서지영, 출정식 갖고 본격 선거 레이스 돌입",
-        "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/28/2024032800280.html"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 20:06:00 +0900",
-        "title": "[포토] 발언하는 서지영 부산동래 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/26/2024032600429.html"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1257101
-      }
-    ],
-    "huboid": "100151240",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260601-2.jpg"
-  },
-  {
-    "id": "2260601-7",
-    "regionId": "2260601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-7.jpg",
-    "기호": 7,
-    "이름": "이재웅",
-    "생년월일": "19661010",
-    "정당": "개혁신당",
-    "성별": "남",
-    "직업": "(주)진선명 대표이사",
-    "학력": "부경대학교 경영대학원 경영학과(경영학전공) 석사",
-    "경력": "(현)부산광역시 학교 학부모총연합회 회장\n(현)(사)부산항일학생의거 기념사업회 이사장",
-    "재산": 1338615,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 17:54:00 +0900",
-        "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
-        "link": "http://www.mhj21.com/160238"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 15:22:00 +0900",
-        "title": "개혁신당 이재웅, 부산 동래구 혜택 늘린다…후보 등록",
-        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=213578"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:03:00 +0900",
-        "title": "[원포인트 공약] 개혁신당 동래구 이재웅 후보, \"늘돌봄 교육 특구 지정 추진...",
-        "link": "https://n.news.naver.com/mnews/article/658/0000069150?sid=165"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 17:12:00 +0900",
-        "title": "'부산 동래구 출마' 이재웅 예비후보, 선거사무소 개소",
-        "link": "https://www.busaneconomy.com/news/articleView.html?idxno=309931"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 15:42:00 +0900",
-        "title": "이재웅 개혁신당 부산 동래구 총선 후보, 캠프 개소식 개최",
-        "link": "http://www.pennmike.com/news/articleView.html?idxno=76865"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1338615
-      }
-    ],
-    "huboid": "100152530",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260601-7.jpg"
-  }
+    [
+        {
+            "id": "2260601-1",
+            "regionId": "2260601",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-1.jpg",
+            "기호": 1,
+            "이름": "박성현",
+            "생년월일": "19671210",
+            "정당": "더불어민주당",
+            "성별": "남",
+            "직업": "법무법인 진심 법률고문",
+            "학력": "미국 하워드대학교 로스쿨 석사과정 법학석사 (2006.8~2007.5)",
+            "경력": "(현)더불어민주당 동래구 지역위원장\n(전)청와대 정무수석비서실 행정관",
+            "재산": 621816,
+            "군필여부": false,
+            "전과건수": 3,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                    "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
+                    "link": "http://www.mhj21.com/160238"
+                },
+                {
+                    "date": "Thu, 21 Mar 2024 13:55:00 +0900",
+                    "title": "[원포인트 공약] 더불어민주당 동래구 박성현 후보, \"공공도서관 네트워크 구...",
+                    "link": "https://n.news.naver.com/mnews/article/658/0000069240?sid=165"
+                },
+                {
+                    "date": "Mon, 18 Mar 2024 18:40:00 +0900",
+                    "title": "[영상] 민주당 부산 동래 박성현 “특색 있는 도서관 건립·연결…도서관 도시...",
+                    "link": "https://n.news.naver.com/mnews/article/082/0001260815?sid=100"
+                },
+                {
+                    "date": "Tue, 12 Mar 2024 00:02:00 +0900",
+                    "title": "[부산 동래] 국민의힘 서지영 50.9%, 더불어민주당 박성현 36.7%",
+                    "link": "https://n.news.naver.com/mnews/article/047/0002425347?sid=165"
+                },
+                {
+                    "date": "Mon, 11 Mar 2024 21:06:00 +0900",
+                    "title": "부산 선거구 6곳 오차범위 밖 ′국힘 우세′",
+                    "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262079"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 621816
+                }
+            ],
+            "huboid": "100151680",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2606/Hb100151680/junkwa/20231219111103472_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동래구_박성현_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2606/003_100151680_20240328_1.pdf"
+        },
+        {
+            "id": "2260601-2",
+            "regionId": "2260601",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-2.jpg",
+            "기호": 2,
+            "이름": "서지영",
+            "생년월일": "19750218",
+            "정당": "국민의힘",
+            "성별": "여",
+            "직업": "정당인",
+            "학력": "연세대학교 행정대학원 정책학 석사",
+            "경력": "(전)청와대 국정기획수석실 행정관\n(전)국회의장 정무조정비서관(2급상당)",
+            "재산": 1257101,
+            "군필여부": false,
+            "전과건수": 0,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                    "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
+                    "link": "http://www.mhj21.com/160238"
+                },
+                {
+                    "date": "Sat, 30 Mar 2024 09:40:00 +0900",
+                    "title": "[영상] 서지영 동래구 국민의힘 후보, \"동래가 키운 검증되고 준비된 일꾼\"",
+                    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014051"
+                },
+                {
+                    "date": "Fri, 29 Mar 2024 07:48:00 +0900",
+                    "title": "서지영 국민의힘 동래구 후보, 총선 출정식... 동래 발전 5대 미래 비젼 제시",
+                    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3013976"
+                },
+                {
+                    "date": "Thu, 28 Mar 2024 15:34:00 +0900",
+                    "title": "국민의힘 서지영, 출정식 갖고 본격 선거 레이스 돌입",
+                    "link": "https://pk.newdaily.co.kr/site/data/html/2024/03/28/2024032800280.html"
+                },
+                {
+                    "date": "Tue, 26 Mar 2024 20:06:00 +0900",
+                    "title": "[포토] 발언하는 서지영 부산동래 후보",
+                    "link": "https://www.newdaily.co.kr/site/data/html/2024/03/26/2024032600429.html"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 1257101
+                }
+            ],
+            "huboid": "100151240",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2606/Hb100151240/junkwa/20231212133117224_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동래구_서지영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2606/003_100151240_20240328_2.pdf"
+        },
+        {
+            "id": "2260601-7",
+            "regionId": "2260601",
+            "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260601-7.jpg",
+            "기호": 7,
+            "이름": "이재웅",
+            "생년월일": "19661010",
+            "정당": "개혁신당",
+            "성별": "남",
+            "직업": "(주)진선명 대표이사",
+            "학력": "부경대학교 경영대학원 경영학과(경영학전공) 석사",
+            "경력": "(현)부산광역시 학교 학부모총연합회 회장\n(현)(사)부산항일학생의거 기념사업회 이사장",
+            "재산": 1338615,
+            "군필여부": true,
+            "전과건수": 1,
+            "news": [
+                {
+                    "date": "Mon, 01 Apr 2024 17:54:00 +0900",
+                    "title": "[4.10총선-190] 부산 동래, 박성현vs서지영vs이재웅. 오차범위 밖",
+                    "link": "http://www.mhj21.com/160238"
+                },
+                {
+                    "date": "Fri, 22 Mar 2024 15:22:00 +0900",
+                    "title": "개혁신당 이재웅, 부산 동래구 혜택 늘린다…후보 등록",
+                    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=213578"
+                },
+                {
+                    "date": "Wed, 20 Mar 2024 16:03:00 +0900",
+                    "title": "[원포인트 공약] 개혁신당 동래구 이재웅 후보, \"늘돌봄 교육 특구 지정 추진...",
+                    "link": "https://n.news.naver.com/mnews/article/658/0000069150?sid=165"
+                },
+                {
+                    "date": "Thu, 22 Feb 2024 17:12:00 +0900",
+                    "title": "'부산 동래구 출마' 이재웅 예비후보, 선거사무소 개소",
+                    "link": "https://www.busaneconomy.com/news/articleView.html?idxno=309931"
+                },
+                {
+                    "date": "Thu, 22 Feb 2024 15:42:00 +0900",
+                    "title": "이재웅 개혁신당 부산 동래구 총선 후보, 캠프 개소식 개최",
+                    "link": "http://www.pennmike.com/news/articleView.html?idxno=76865"
+                }
+            ],
+            "연도별_재산": [
+                {
+                    "연도": 2023,
+                    "재산": 1338615
+                }
+            ],
+            "huboid": "100152530",
+            "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2606/Hb100152530/junkwa/20240131173246462_1.PDF",
+            "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동래구_이재웅_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2606/003_100152530_20240328_2.pdf"
+        }
+    ]
 ]
