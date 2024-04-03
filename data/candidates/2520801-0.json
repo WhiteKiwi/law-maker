@@ -1,0 +1,117 @@
+[
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520801-1.jpg",
+    "id": "2520801-1",
+    "재산": 1976404,
+    "생년월일": "19650714",
+    "경력": "(전) 수도방위사령관 \n(전) 청와대 국방개혁 비서관",
+    "학력": "경기대학교 정치전문대학원 외교안보학과 박사과정 수료",
+    "직업": "더불어민주당 국방대변인",
+    "성별": "남",
+    "regionId": "2520801-1",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 16:29:00 +0900",
+        "title": "속·인·고·양 김도균(민) \"강원 접경지 살리는 민생사령관 될 것\"[영상]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880995?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:44:00 +0900",
+        "title": "김도균 후보, \"이양수 후보 과거 음주운전 당시 공직자 신분이었나?\" 공개 질...",
+        "link": "http://www.kukinews.com/newsView/kuk202404020141"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:12:00 +0900",
+        "title": "[총선 분석]속초 지역 \"이양수VS김도균...지역발전의 길목, 유권자의 선택은?...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317415"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:02:00 +0900",
+        "title": "[4·10총선]국힘 이양수 후보, \"김도균 후보가 악의적 비난\" 선관위 고발",
+        "link": "http://www.kukinews.com/newsView/kuk202404010239"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:50:00 +0900",
+        "title": "[총선 D-9] 더불어민주당 김도균 속초·고성·인제·양양 후보, 국민의힘 이양...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026075"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김도균",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1976404
+      }
+    ],
+    "huboid": "100151210",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520801-1.jpg"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520801-2.jpg",
+    "id": "2520801-2",
+    "재산": 1817187,
+    "생년월일": "19670815",
+    "경력": "(현) 국회의원\n(현) 국민의힘 원내수석부대표",
+    "학력": "고려대학교 불어불문학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1001",
+    "regionId": "2520801-1",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 16:27:00 +0900",
+        "title": "속·인·고·양 이양수(국) \"규제로 묶인 설악권 발전 위해 3선 지지\"[영상]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880993?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 13:12:00 +0900",
+        "title": "[4⋅10총선]속·인·고·양 국힘 이양수 후보 '4⋅10총선 좋은 후보' 선정",
+        "link": "http://www.kukinews.com/newsView/kuk202404020148"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 12:44:00 +0900",
+        "title": "김도균 후보, \"이양수 후보 과거 음주운전 당시 공직자 신분이었나?\" 공개 질...",
+        "link": "http://www.kukinews.com/newsView/kuk202404020141"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:52:00 +0900",
+        "title": "[총선 D-8] 국민의힘 이양수 속초·인제·고성·양양 후보, 시민단체 선정 좋...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026216"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 22:12:00 +0900",
+        "title": "[총선 분석]속초 지역 \"이양수VS김도균...지역발전의 길목, 유권자의 선택은?...",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317415"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "이양수",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1030146
+      },
+      {
+        "연도": 2021,
+        "재산": 991354
+      },
+      {
+        "연도": 2022,
+        "재산": 1422656
+      },
+      {
+        "연도": 2023,
+        "재산": 1817187
+      }
+    ],
+    "huboid": "100152965",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520801-2.jpg"
+  }
+]

@@ -7,6 +7,7 @@ import { SearchItem, splitHangul } from "./search";
 import { 등수 } from "./등수";
 
 async function main() {
+  await sortRegions();
   const candidates = await loadCandidates();
   const lawMakers: LawMaker[] = [];
   const lawMakerDir = path.join(__dirname, "../data/21th-law-makers");
@@ -80,7 +81,6 @@ async function main() {
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
-  // await sortRegions();
   await createSearchItems();
 }
 
@@ -178,11 +178,11 @@ async function sortRegions() {
     region.regions = region.regions.sort((a, b) =>
       a.시군구.localeCompare(b.시군구)
     );
-    region.regions.forEach((region) => {
-      region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
-      region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
-      region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
-    });
+    // region.regions.forEach((region) => {
+    //   region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
+    //   region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
+    //   region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
+    // });
   }
   await writeJSON(filePath, regionsJson, { spaces: 2 });
 }
