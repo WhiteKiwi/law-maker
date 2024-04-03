@@ -7,6 +7,7 @@ import { SearchItem, splitHangul } from "./search";
 import { 등수 } from "./등수";
 
 async function main() {
+  await sortRegions();
   const candidates = await loadCandidates();
   const lawMakers: LawMaker[] = [];
   const lawMakerDir = path.join(__dirname, "../data/21th-law-makers");
@@ -80,7 +81,6 @@ async function main() {
   await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
-  // await sortRegions();
   await createSearchItems();
 }
 
@@ -178,11 +178,11 @@ async function sortRegions() {
     region.regions = region.regions.sort((a, b) =>
       a.시군구.localeCompare(b.시군구)
     );
-    region.regions.forEach((region) => {
-      region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
-      region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
-      region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
-    });
+    // region.regions.forEach((region) => {
+    //   region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
+    //   region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
+    //   region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
+    // });
   }
   await writeJSON(filePath, regionsJson, { spaces: 2 });
 }
@@ -191,6 +191,10 @@ async function createSearchItems() {
   const candidatesDir = path.join(__dirname, "../data/candidates");
   const files = await readdir(candidatesDir);
   for (const file of files) {
+    if (file.includes("_")) {
+      // split 지역은 search.json에 포함안함
+      continue;
+    }
     const candidates: LawMakerCadidate[] = await readJSON(
       path.join(candidatesDir, file)
     );
@@ -218,6 +222,18 @@ async function getRegion(id: string): Promise<Region> {
         return region;
       }
     }
+  }
+
+  // 중구/성동구 join
+  const regions = regionsJson
+    .map((r) => r.regions)
+    .flat()
+    .filter((region) => region.id.startsWith(id));
+  if (regions.length) {
+    return {
+      ...regions[0],
+      시군구: regions.map((r) => r.시군구).join("/"),
+    };
   }
   throw new Error(`Region not found: ${id}`);
 }
