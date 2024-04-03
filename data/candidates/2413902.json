@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413902-1.jpg",
-    "id": "2413902-1",
-    "재산": 3525381,
-    "생년월일": "19611015",
-    "경력": "(전) 더불어민주당 최고위원\n(현) 김포시갑 국회의원",
-    "학력": "서울과학종합대학원대학교 졸업(경영학박사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1117",
-    "regionId": "2413902",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 15:14:00 +0900",
-        "title": "[현장 한컷] 김주영 민주당 김포갑 후보, 지역 곳곳 시민들과 인사",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644943"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:24:00 +0900",
-        "title": "[유세장 직격인터뷰] 서영석·이혜숙·김주영·이원옥·김용만·황명주·전용...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:39:00 +0900",
-        "title": "경기 김포갑 '리턴매치'…김주영 '정권 심판' vs 박진호 '서울 통합'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277881?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:54:00 +0900",
-        "title": "김포갑 김주영 시민선대위 출격 \"시민이 원하는 김포 발전 견인\"",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080795"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:38:00 +0900",
-        "title": "김주영 민주 김포시갑 후보, 출정식 열고 본격 선거운동 돌입",
-        "link": "https://www.nspna.com/news/?mode=view&newsid=690526"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김주영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2857139
-      },
-      {
-        "연도": 2021,
-        "재산": 3201161
-      },
-      {
-        "연도": 2022,
-        "재산": 3504430
-      },
-      {
-        "연도": 2023,
-        "재산": 3525381
-      }
-    ],
-    "huboid": "100152378",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413902-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413902-2.jpg",
-    "id": "2413902-2",
-    "재산": 378806,
-    "생년월일": "19900115",
-    "경력": "(전) 국민의힘 김포시갑 당협위원장\n(현) 인천국제공항공사 비상임이사",
-    "학력": "고려대학교 정책대학원 졸업(행정학석사, 도시및지방행정)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2413902",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:48:00 +0900",
-        "title": "“서울 편입 1순위 김포시민, GTX-A 이용도 쉽게 하겠다”…국힘 박진호 ‘버...",
-        "link": "https://n.news.naver.com/mnews/article/009/0005282290?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:39:00 +0900",
-        "title": "경기 김포갑 '리턴매치'…김주영 '정권 심판' vs 박진호 '서울 통합'",
-        "link": "https://n.news.naver.com/mnews/article/629/0000277881?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:50:00 +0900",
-        "title": "한동훈 위원장, 박진호 김포갑 후보 지원 사격",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851530"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:18:00 +0900",
-        "title": "'김포교체' 지원사격 한동훈 \"박진호, 국가·김포·시민만 바라보는 참 일꾼\"",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558548"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:20:00 +0900",
-        "title": "\"이번 선거는 '잃어버린 8년' 바꾸는 시간\"…與박진호, 선대위 출정식서 '김포...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558321"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박진호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 378806
-      }
-    ],
-    "huboid": "100151350",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413902-2.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413902-1.jpg",
+        "id": "2413902-1",
+        "재산": 3525381,
+        "생년월일": "19611015",
+        "경력": "(전) 더불어민주당 최고위원\n(현) 김포시갑 국회의원",
+        "학력": "서울과학종합대학원대학교 졸업(경영학박사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1117",
+        "regionId": "2413902",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:14:00 +0900",
+                "title": "[현장 한컷] 김주영 민주당 김포갑 후보, 지역 곳곳 시민들과 인사",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644943"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:24:00 +0900",
+                "title": "[유세장 직격인터뷰] 서영석·이혜숙·김주영·이원옥·김용만·황명주·전용...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:39:00 +0900",
+                "title": "경기 김포갑 '리턴매치'…김주영 '정권 심판' vs 박진호 '서울 통합'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277881?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:54:00 +0900",
+                "title": "김포갑 김주영 시민선대위 출격 \"시민이 원하는 김포 발전 견인\"",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080795"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:38:00 +0900",
+                "title": "김주영 민주 김포시갑 후보, 출정식 열고 본격 선거운동 돌입",
+                "link": "https://www.nspna.com/news/?mode=view&newsid=690526"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김주영",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2857139
+            },
+            {
+                "연도": 2021,
+                "재산": 3201161
+            },
+            {
+                "연도": 2022,
+                "재산": 3504430
+            },
+            {
+                "연도": 2023,
+                "재산": 3525381
+            }
+        ],
+        "huboid": "100152378",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4139/Hb100152378/junkwa/20240124130645482_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_김포시갑_김주영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4139/003_100152378_20240328_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413902-2.jpg",
+        "id": "2413902-2",
+        "재산": 378806,
+        "생년월일": "19900115",
+        "경력": "(전) 국민의힘 김포시갑 당협위원장\n(현) 인천국제공항공사 비상임이사",
+        "학력": "고려대학교 정책대학원 졸업(행정학석사, 도시및지방행정)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2413902",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:48:00 +0900",
+                "title": "“서울 편입 1순위 김포시민, GTX-A 이용도 쉽게 하겠다”…국힘 박진호 ‘버...",
+                "link": "https://n.news.naver.com/mnews/article/009/0005282290?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:39:00 +0900",
+                "title": "경기 김포갑 '리턴매치'…김주영 '정권 심판' vs 박진호 '서울 통합'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000277881?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:50:00 +0900",
+                "title": "한동훈 위원장, 박진호 김포갑 후보 지원 사격",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851530"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:18:00 +0900",
+                "title": "'김포교체' 지원사격 한동훈 \"박진호, 국가·김포·시민만 바라보는 참 일꾼\"",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558548"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:20:00 +0900",
+                "title": "\"이번 선거는 '잃어버린 8년' 바꾸는 시간\"…與박진호, 선대위 출정식서 '김포...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558321"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박진호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 378806
+            }
+        ],
+        "huboid": "100151350",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4139/Hb100151350/junkwa/20231212142914331_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_김포시갑_박진호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4139/003_100151350_20240328_1.pdf"
+    }
 ]

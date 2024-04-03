@@ -1,130 +1,132 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111702-1.jpg",
-    "id": "2111702-1",
-    "재산": 1074045,
-    "생년월일": "19690926",
-    "경력": "(현)제21대 국회의원\n(전)문재인정부 청와대 국정기획상황실장",
-    "학력": "국민대학교 일반대학원 무역학과 국제경제전공 경제학 석사",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1051",
-    "regionId": "2111702",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Thu, 28 Mar 2024 15:12:00 +0900",
-        "title": "\"정권 심판\" 윤건영 vs \"바꾸자\" 태영호…구로을 선거운동 첫날[배틀필드410]",
-        "link": "https://www.etoday.co.kr/news/view/2345273"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:28:00 +0900",
-        "title": "[총선 승부처] 총선 격전지 '서울 구로을'...윤건영 의원에게 듣는다",
-        "link": "https://n.news.naver.com/mnews/article/052/0002016123?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:59:00 +0900",
-        "title": "[격전지 후보 24시] `친문 복심` 윤건영 수성이냐, `탈북외교관` 태영호 탈환...",
-        "link": "https://n.news.naver.com/mnews/article/029/0002863881?sid=100"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 17:40:00 +0900",
-        "title": "민주당 서울 구로구을 윤건영 후보 선거사무소 개소식 성황",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1104545"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 14:34:00 +0900",
-        "title": "[포토] 거리인사하는 윤건영 더불어민주당 구로을 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/23/2024032300022.html"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "윤건영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 717339
-      },
-      {
-        "연도": 2021,
-        "재산": 792931
-      },
-      {
-        "연도": 2022,
-        "재산": 1031253
-      },
-      {
-        "연도": 2023,
-        "재산": 1074045
-      }
-    ],
-    "huboid": "100152583",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111702-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111702-2.jpg",
-    "id": "2111702-2",
-    "재산": 1872473,
-    "생년월일": "19620725",
-    "경력": "(현)강남구갑 국회의원\n(현)국회외교통일위원회 국민의힘 간사",
-    "학력": "국민대학교 법무대학원 통일융합법무 석사 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1056",
-    "regionId": "2111702",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 15:12:00 +0900",
-        "title": "[펜앤포토] 인터뷰 진행중인 태영호 국민의힘 구로을 후보",
-        "link": "http://www.pennmike.com/news/articleView.html?idxno=78870"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:10:00 +0900",
-        "title": "[펜앤인터뷰] \"민주당을 계속 찍어줬는데,구로는 바뀐게 없다\" 태영호 국민의...",
-        "link": "http://www.pennmike.com/news/articleView.html?idxno=78862"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:37:00 +0900",
-        "title": "\"전희경·조수연·태영호…4·3 능멸 후보들 공천 취소해야\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007450440?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:22:00 +0900",
-        "title": "[뉴스라이브] 총선 격전지 '서울 구로을'...태영호 의원에게 듣는다",
-        "link": "https://n.news.naver.com/mnews/article/052/0002017556?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 21:32:00 +0900",
-        "title": "한동훈, 하루에 ‘쓰레기’ 14번···“과거 발언 중요하다”며 태영호 지원",
-        "link": "https://n.news.naver.com/mnews/article/032/0003287696?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "태영호",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1851416
-      },
-      {
-        "연도": 2021,
-        "재산": 1940683
-      },
-      {
-        "연도": 2022,
-        "재산": 2000061
-      },
-      {
-        "연도": 2023,
-        "재산": 1872473
-      }
-    ],
-    "huboid": "100152516",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111702-2.jpg"
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111702-1.jpg",
+        "id": "2111702-1",
+        "재산": 1074045,
+        "생년월일": "19690926",
+        "경력": "(현)제21대 국회의원\n(전)문재인정부 청와대 국정기획상황실장",
+        "학력": "국민대학교 일반대학원 무역학과 국제경제전공 경제학 석사",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1051",
+        "regionId": "2111702",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Thu, 28 Mar 2024 15:12:00 +0900",
+                "title": "\"정권 심판\" 윤건영 vs \"바꾸자\" 태영호…구로을 선거운동 첫날[배틀필드410]",
+                "link": "https://www.etoday.co.kr/news/view/2345273"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:28:00 +0900",
+                "title": "[총선 승부처] 총선 격전지 '서울 구로을'...윤건영 의원에게 듣는다",
+                "link": "https://n.news.naver.com/mnews/article/052/0002016123?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:59:00 +0900",
+                "title": "[격전지 후보 24시] `친문 복심` 윤건영 수성이냐, `탈북외교관` 태영호 탈환...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002863881?sid=100"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:40:00 +0900",
+                "title": "민주당 서울 구로구을 윤건영 후보 선거사무소 개소식 성황",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1104545"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 14:34:00 +0900",
+                "title": "[포토] 거리인사하는 윤건영 더불어민주당 구로을 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/03/23/2024032300022.html"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "윤건영",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 717339
+            },
+            {
+                "연도": 2021,
+                "재산": 792931
+            },
+            {
+                "연도": 2022,
+                "재산": 1031253
+            },
+            {
+                "연도": 2023,
+                "재산": 1074045
+            }
+        ],
+        "huboid": "100152583",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1117/Hb100152583/junkwa/20240202183400558_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_구로구을_윤건영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1117/003_100152583_20240330_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111702-2.jpg",
+        "id": "2111702-2",
+        "재산": 1872473,
+        "생년월일": "19620725",
+        "경력": "(현)강남구갑 국회의원\n(현)국회외교통일위원회 국민의힘 간사",
+        "학력": "국민대학교 법무대학원 통일융합법무 석사 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1056",
+        "regionId": "2111702",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 15:12:00 +0900",
+                "title": "[펜앤포토] 인터뷰 진행중인 태영호 국민의힘 구로을 후보",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78870"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:10:00 +0900",
+                "title": "[펜앤인터뷰] \"민주당을 계속 찍어줬는데,구로는 바뀐게 없다\" 태영호 국민의...",
+                "link": "http://www.pennmike.com/news/articleView.html?idxno=78862"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:37:00 +0900",
+                "title": "\"전희경·조수연·태영호…4·3 능멸 후보들 공천 취소해야\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007450440?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:22:00 +0900",
+                "title": "[뉴스라이브] 총선 격전지 '서울 구로을'...태영호 의원에게 듣는다",
+                "link": "https://n.news.naver.com/mnews/article/052/0002017556?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 21:32:00 +0900",
+                "title": "한동훈, 하루에 ‘쓰레기’ 14번···“과거 발언 중요하다”며 태영호 지원",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287696?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "태영호",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1851416
+            },
+            {
+                "연도": 2021,
+                "재산": 1940683
+            },
+            {
+                "연도": 2022,
+                "재산": 2000061
+            },
+            {
+                "연도": 2023,
+                "재산": 1872473
+            }
+        ],
+        "huboid": "100152516",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg1117/Hb100152516/junkwa/20240131110300660_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_구로구을_태영호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1117/003_100152516_20240330_1.pdf"
+    }
 ]

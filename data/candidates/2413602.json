@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2413602-1",
-    "regionId": "2413602",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-1.jpg",
-    "기호": 1,
-    "이름": "부승찬",
-    "생년월일": "19701014",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
-    "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
-    "재산": 71130,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 20:30:00 +0900",
-        "title": "부승찬 후보 \"주민 피해 없도록 관련 공공기관은 대화하고 협상해야\"",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645069"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:32:00 +0900",
-        "title": "[4·10=한다면 한다] 더민주 용인병 부승찬 후보, 수지광교산아이파크 간담회...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242690"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:30:00 +0900",
-        "title": "부승찬 후보 \"수지광교산아이파크 주택연금 가입·주거용 난방 요금 전환 검토...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125225"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:11:00 +0900",
-        "title": "부승찬 \"수지광교산아이파크, 주택연금 가입·주거용 난방료 전환해야\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002326037?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:06:00 +0900",
-        "title": "부승찬 \"수지광교산아이파크 주택연금 가입·주거용 난방료 전환 검토해야\"",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278102?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 71130
-      }
-    ],
-    "huboid": "100151812",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413602-1.jpg"
-  },
-  {
-    "id": "2413602-2",
-    "regionId": "2413602",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-2.jpg",
-    "기호": 2,
-    "이름": "고석",
-    "생년월일": "19600316",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
-    "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
-    "재산": 3986876,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 16:32:00 +0900",
-        "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
-        "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 13:20:00 +0900",
-        "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:08:00 +0900",
-        "title": "전국청년경제인연합회, 국민의힘 용인병 고석 후보 지지",
-        "link": "https://n.news.naver.com/mnews/article/003/0012462734?sid=102"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:10:00 +0900",
-        "title": "육해공 예비역 장성·영관급들, 국힘 용인병 고석 후보 지지",
-        "link": "https://n.news.naver.com/mnews/article/003/0012462363?sid=102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:37:00 +0900",
-        "title": "국힘 용인병 고석 \"수지중앙공원 등 대규모 공원 조성\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012461809?sid=102"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3986876
-      }
-    ],
-    "huboid": "100151212",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413602-2.jpg"
-  }
+    {
+        "id": "2413602-1",
+        "regionId": "2413602",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-1.jpg",
+        "기호": 1,
+        "이름": "부승찬",
+        "생년월일": "19701014",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "연세대학교 대학원 정치학과 졸업(정치학박사)",
+        "경력": "(전)국방부 대변인\n(전)연세대학교 겸임교수",
+        "재산": 71130,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 20:30:00 +0900",
+                "title": "부승찬 후보 \"주민 피해 없도록 관련 공공기관은 대화하고 협상해야\"",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645069"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:32:00 +0900",
+                "title": "[4·10=한다면 한다] 더민주 용인병 부승찬 후보, 수지광교산아이파크 간담회...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242690"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+                "title": "부승찬 후보 \"수지광교산아이파크 주택연금 가입·주거용 난방 요금 전환 검토...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125225"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:11:00 +0900",
+                "title": "부승찬 \"수지광교산아이파크, 주택연금 가입·주거용 난방료 전환해야\"",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326037?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:06:00 +0900",
+                "title": "부승찬 \"수지광교산아이파크 주택연금 가입·주거용 난방료 전환 검토해야\"",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278102?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 71130
+            }
+        ],
+        "huboid": "100151812",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4136/Hb100151812/junkwa/20231227104122556_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_용인시병_부승찬_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4136/003_100151812_20240326_1.pdf"
+    },
+    {
+        "id": "2413602-2",
+        "regionId": "2413602",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413602-2.jpg",
+        "기호": 2,
+        "이름": "고석",
+        "생년월일": "19600316",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 대학원 법학과 법학전공 졸업(법학박사)",
+        "경력": "(전)고등군사법원장(육군 준장)\n(전)법무법인(유) 세종변호사",
+        "재산": 3986876,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 16:32:00 +0900",
+                "title": "고석 용인병 후보, 전국청년경제인연합회와 ‘한뜻’ [열전 25시]",
+                "link": "https://n.news.naver.com/mnews/article/666/0000037942?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:20:00 +0900",
+                "title": "[4·10=톡 톡!] 전국 청년경제인 연합회 등,국민의힘 용인병 고석 국회의원 후...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242427"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:08:00 +0900",
+                "title": "전국청년경제인연합회, 국민의힘 용인병 고석 후보 지지",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462734?sid=102"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:10:00 +0900",
+                "title": "육해공 예비역 장성·영관급들, 국힘 용인병 고석 후보 지지",
+                "link": "https://n.news.naver.com/mnews/article/003/0012462363?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:37:00 +0900",
+                "title": "국힘 용인병 고석 \"수지중앙공원 등 대규모 공원 조성\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461809?sid=102"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3986876
+            }
+        ],
+        "huboid": "100151212",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4136/Hb100151212/junkwa/20240321114529661_7.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_용인시병_고석_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4136/003_100151212_20240326_2.pdf"
+    }
 ]

@@ -1,206 +1,210 @@
 [
-  {
-    "id": "2530501-1",
-    "regionId": "2530501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-1.jpg",
-    "기호": 1,
-    "이름": "이춘석",
-    "생년월일": "19630307",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "원광대학교 대학원 법학과 박사과정 수료",
-    "경력": "(전)제34대 국회사무처 사무총장\n(전)18,19,20대 국회의원",
-    "재산": 432213,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Sun, 31 Mar 2024 10:46:00 +0900",
-        "title": "전권희 후보, \"이춘석 후보 주문 무시 오만한 태도 버리고 후보자 토론회 응하...",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463755"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:34:00 +0900",
-        "title": "진보당 전권희 후보, \"이춘석·김민서 후보 토론회 나와야\"",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726072"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 14:34:00 +0900",
-        "title": "김부겸 “이춘석·한병도를 대한민국 대표 일꾼으로”",
-        "link": "https://www.jjan.kr/article/20240329580070"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:19:00 +0900",
-        "title": "진보당 전권희 익산갑 후보 \"이춘석 민주당 후보 토론회 나와라\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007444933?sid=165"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 16:20:00 +0900",
-        "title": "이춘석 후보, 집중유세 갖고 본격 선거운동 돌입",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954699"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 432213
-      }
-    ],
-    "huboid": "100151245",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530501-1.jpg"
-  },
-  {
-    "id": "2530501-2",
-    "regionId": "2530501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-2.jpg",
-    "기호": 2,
-    "이름": "김민서",
-    "생년월일": "19660518",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "싱글벙글 실버복지센터 센터장",
-    "학력": "원광대학교대학원 박사과정 2학기 재학중(경영학)",
-    "경력": "(전)제7대 익산시의회의원\n(전)새만금개발청 기본계획수립위원회 위원",
-    "재산": 299700,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-        "title": "김민서 익산갑 후보, 한국마사회 본사 유치 공약",
-        "link": "https://www.jjan.kr/article/20240402580025"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-        "title": "김민서 국민의힘 익산갑 후보 \"한국마사회본사 꼭 유치하겠다\"",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464065"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:08:00 +0900",
-        "title": "국민의힘 김민서 후보, \"한국마사회본사 이전 유치\" 공약",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852360"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:56:00 +0900",
-        "title": "김민서 익산시갑 후보 '한국마사회본사 이전' 공약",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240402010000956"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:56:00 +0900",
-        "title": "국민의 힘 익산시갑 국회의원 후보 김민서 공약",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726352"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 299700
-      }
-    ],
-    "huboid": "100152856",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530501-2.jpg"
-  },
-  {
-    "id": "2530501-6",
-    "regionId": "2530501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-6.jpg",
-    "기호": 6,
-    "이름": "신재용",
-    "생년월일": "19940508",
-    "정당": "새로운미래",
-    "성별": "남",
-    "직업": "대학원생",
-    "학력": "서울대학교 행정대학원(석사과정)행정학과(정책학전공)2학년 재학",
-    "경력": "(전)서울대학교 총학생회장\n(전)삼보 국가대표 선수",
-    "재산": -36450,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:36:00 +0900",
-        "title": "익산갑 신재용 새로운미래 후보 \"지금 민주당엔 민주가 없다\"",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278178?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:36:00 +0900",
-        "title": "신재용 익산갑 후보, 워케이션 특화단지 조성 공약",
-        "link": "https://www.jjan.kr/article/20240402580038"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:08:00 +0900",
-        "title": "신재용 후보, ‘익산 한옥마을 단지 조성' 및 ‘워케이션 특화 단지 발전’ 제...",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852408"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:28:00 +0900",
-        "title": "새로운미래 익산시갑 신재용 후보",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726363"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:00:00 +0900",
-        "title": "신재용 익산시(갑) 후보, '익산 한옥마을 및 워케이션 특화 단지' 발전 제시",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958906"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -36450
-      }
-    ],
-    "huboid": "100153093",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530501-6.jpg"
-  },
-  {
-    "id": "2530501-7",
-    "regionId": "2530501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-7.jpg",
-    "기호": 7,
-    "이름": "전권희",
-    "생년월일": "19710206",
-    "정당": "진보당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 경영학과 졸업",
-    "경력": "(현)진보당 익산시지역위원장\n(현)진보당 전북특별자치도당 정책위원장",
-    "재산": 645057,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Sun, 31 Mar 2024 17:56:00 +0900",
-        "title": "전권희 \"토론회 참여 거부 후보들, 선거 왜 나왔나\" 비판",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967376"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 10:46:00 +0900",
-        "title": "전권희 후보, \"이춘석 후보 주문 무시 오만한 태도 버리고 후보자 토론회 응하...",
-        "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463755"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:58:00 +0900",
-        "title": "[총선] 전권희 “이춘석 토론회 거부…후보 자질 의심”",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691762?sid=100"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:30:00 +0900",
-        "title": "전권희 \"토론회 회피는 주민 무시 태도\"",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182074"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 19:45:00 +0900",
-        "title": "[총선] 전권희 “이춘석 토론회 거부…후보 자질 의심”",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691678?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 645057
-      }
-    ],
-    "huboid": "100151184",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530501-7.jpg"
-  }
+    {
+        "id": "2530501-1",
+        "regionId": "2530501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-1.jpg",
+        "기호": 1,
+        "이름": "이춘석",
+        "생년월일": "19630307",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "원광대학교 대학원 법학과 박사과정 수료",
+        "경력": "(전)제34대 국회사무처 사무총장\n(전)18,19,20대 국회의원",
+        "재산": 432213,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 31 Mar 2024 10:46:00 +0900",
+                "title": "전권희 후보, \"이춘석 후보 주문 무시 오만한 태도 버리고 후보자 토론회 응하...",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463755"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:34:00 +0900",
+                "title": "진보당 전권희 후보, \"이춘석·김민서 후보 토론회 나와야\"",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726072"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:34:00 +0900",
+                "title": "김부겸 “이춘석·한병도를 대한민국 대표 일꾼으로”",
+                "link": "https://www.jjan.kr/article/20240329580070"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:19:00 +0900",
+                "title": "진보당 전권희 익산갑 후보 \"이춘석 민주당 후보 토론회 나와라\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444933?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 16:20:00 +0900",
+                "title": "이춘석 후보, 집중유세 갖고 본격 선거운동 돌입",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2954699"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 432213
+            }
+        ],
+        "huboid": "100151245",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5305/Hb100151245/junkwa/20231212112823776_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_익산시갑_이춘석_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5305/003_100151245_20240329_1.pdf"
+    },
+    {
+        "id": "2530501-2",
+        "regionId": "2530501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-2.jpg",
+        "기호": 2,
+        "이름": "김민서",
+        "생년월일": "19660518",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "싱글벙글 실버복지센터 센터장",
+        "학력": "원광대학교대학원 박사과정 2학기 재학중(경영학)",
+        "경력": "(전)제7대 익산시의회의원\n(전)새만금개발청 기본계획수립위원회 위원",
+        "재산": 299700,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "김민서 익산갑 후보, 한국마사회 본사 유치 공약",
+                "link": "https://www.jjan.kr/article/20240402580025"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "김민서 국민의힘 익산갑 후보 \"한국마사회본사 꼭 유치하겠다\"",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1464065"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:08:00 +0900",
+                "title": "국민의힘 김민서 후보, \"한국마사회본사 이전 유치\" 공약",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852360"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:56:00 +0900",
+                "title": "김민서 익산시갑 후보 '한국마사회본사 이전' 공약",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240402010000956"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:56:00 +0900",
+                "title": "국민의 힘 익산시갑 국회의원 후보 김민서 공약",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726352"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 299700
+            }
+        ],
+        "huboid": "100152856",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5305/Hb100152856/junkwa/20240226162646228_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_익산시갑_김민서_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5305/003_100152856_20240329_1.pdf"
+    },
+    {
+        "id": "2530501-6",
+        "regionId": "2530501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-6.jpg",
+        "기호": 6,
+        "이름": "신재용",
+        "생년월일": "19940508",
+        "정당": "새로운미래",
+        "성별": "남",
+        "직업": "대학원생",
+        "학력": "서울대학교 행정대학원(석사과정)행정학과(정책학전공)2학년 재학",
+        "경력": "(전)서울대학교 총학생회장\n(전)삼보 국가대표 선수",
+        "재산": -36450,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:36:00 +0900",
+                "title": "익산갑 신재용 새로운미래 후보 \"지금 민주당엔 민주가 없다\"",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278178?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:36:00 +0900",
+                "title": "신재용 익산갑 후보, 워케이션 특화단지 조성 공약",
+                "link": "https://www.jjan.kr/article/20240402580038"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:08:00 +0900",
+                "title": "신재용 후보, ‘익산 한옥마을 단지 조성' 및 ‘워케이션 특화 단지 발전’ 제...",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852408"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:28:00 +0900",
+                "title": "새로운미래 익산시갑 신재용 후보",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726363"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:00:00 +0900",
+                "title": "신재용 익산시(갑) 후보, '익산 한옥마을 및 워케이션 특화 단지' 발전 제시",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958906"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -36450
+            }
+        ],
+        "huboid": "100153093",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5305/Hb100153093/junkwa/20240318171251228_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_익산시갑_신재용_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5305/003_100153093_20240329_1.pdf"
+    },
+    {
+        "id": "2530501-7",
+        "regionId": "2530501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530501-7.jpg",
+        "기호": 7,
+        "이름": "전권희",
+        "생년월일": "19710206",
+        "정당": "진보당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 경영학과 졸업",
+        "경력": "(현)진보당 익산시지역위원장\n(현)진보당 전북특별자치도당 정책위원장",
+        "재산": 645057,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Sun, 31 Mar 2024 17:56:00 +0900",
+                "title": "전권희 \"토론회 참여 거부 후보들, 선거 왜 나왔나\" 비판",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967376"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:46:00 +0900",
+                "title": "전권희 후보, \"이춘석 후보 주문 무시 오만한 태도 버리고 후보자 토론회 응하...",
+                "link": "http://www.domin.co.kr/news/articleView.html?idxno=1463755"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:58:00 +0900",
+                "title": "[총선] 전권희 “이춘석 토론회 거부…후보 자질 의심”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691762?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:30:00 +0900",
+                "title": "전권희 \"토론회 회피는 주민 무시 태도\"",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182074"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:45:00 +0900",
+                "title": "[총선] 전권희 “이춘석 토론회 거부…후보 자질 의심”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691678?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 645057
+            }
+        ],
+        "huboid": "100151184",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg5305/Hb100151184/junkwa/20231212110152863_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_익산시갑_전권희_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5305/003_100151184_20240329_2.pdf"
+    }
 ]

@@ -1,155 +1,158 @@
 [
-  {
-    "id": "2270501-1",
-    "regionId": "2270501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-1.jpg",
-    "기호": 1,
-    "이름": "박정희",
-    "생년월일": "19691109",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "고려대학교 대학원 졸업(체육학박사)",
-    "경력": "(전) 대구북구의회 의원(복지보건위원장)\n(전) 고려대학교 사회체육학과 전임강사",
-    "재산": 53832,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:42:00 +0900",
-        "title": "[4·10 총선] 민주 김준혁, '이대생 성상납·박정희 전 대통령 및 군 위안부 ...",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668107"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 22:23:00 +0900",
-        "title": "민주 김준혁 '이화여대-박정희' 발언 끝내 사과…\"의도치 않은 불편 드려\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816415?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 22:01:00 +0900",
-        "title": "\"과거 발언 경솔\"…김준혁, '박정희 위안부' '이대 성상납' 발언 사과",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454272?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:38:00 +0900",
-        "title": "[포토] 동성로서 지지호소하는 박정희 대구북갑 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200371.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:50:00 +0900",
-        "title": "(사)박정희와 대한민국 회원, 김준혁 후보 망언에 대한 규탄성명서 발표",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544318"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 53832
-      }
-    ],
-    "huboid": "100153020",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270501-1.jpg"
-  },
-  {
-    "id": "2270501-2",
-    "regionId": "2270501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-2.jpg",
-    "기호": 2,
-    "이름": "우재준",
-    "생년월일": "19880504",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "경북대학교 법학전문대학원 법학과 졸업(법무석사)",
-    "경력": "(현)대구광역시 감사위원회 위원\n(현)법무법인 이유 변호사",
-    "재산": 2575431,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:16:00 +0900",
-        "title": "국민추천제 공천 대구 북구갑 우재준 '아빠찬스'?…편법 증여 의혹",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278199?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:06:00 +0900",
-        "title": "[4·10 필드속으로] 우재준, 선대위 임명장 수여식…양금희 의원 명예위원장 ...",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240401010000170"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:48:00 +0900",
-        "title": "가족법인 비상장주 25억 북구갑 우재준, 편법증여 의혹",
-        "link": "https://www.newsmin.co.kr/news/101183/"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:12:00 +0900",
-        "title": "[4.10총선-158] 대구 북갑, 박정희vs우재준. 전의 불태우는 박정희",
-        "link": "http://www.mhj21.com/160199"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 15:14:00 +0900",
-        "title": "대구 북구갑 국민의힘 우재준 후보 \"청년 정치의 희망 보여드리겠다.\"",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149826"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2575431
-      }
-    ],
-    "huboid": "100153120",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270501-2.jpg"
-  },
-  {
-    "id": "2270501-7",
-    "regionId": "2270501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-7.jpg",
-    "기호": 7,
-    "이름": "박진재",
-    "생년월일": "19750404",
-    "정당": "자유통일당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고등학교 졸업학력 검정고시 합격",
-    "경력": "(전)22년 국회의원재선거 (청주시상당구) 출마\n",
-    "재산": 85386,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Fri, 22 Mar 2024 16:00:00 +0900",
-        "title": "대구경북 총선후보 중 20억이상 자산가 14명…與 최은석 110억원",
-        "link": "https://n.news.naver.com/mnews/article/001/0014582852?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 09:02:00 +0900",
-        "title": "[4·10총선 후보자 등록]대구(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007429074?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 21:54:00 +0900",
-        "title": "후보 등록 첫날 대구 31명·경북 32명",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 20:56:00 +0900",
-        "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 20:46:00 +0900",
-        "title": "후보 등록 앞두고 TK 본선 대진표 완성",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988764"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 85386
-      }
-    ],
-    "huboid": "100151230",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270501-7.jpg"
-  }
+    {
+        "id": "2270501-1",
+        "regionId": "2270501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-1.jpg",
+        "기호": 1,
+        "이름": "박정희",
+        "생년월일": "19691109",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "고려대학교 대학원 졸업(체육학박사)",
+        "경력": "(전) 대구북구의회 의원(복지보건위원장)\n(전) 고려대학교 사회체육학과 전임강사",
+        "재산": 53832,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:42:00 +0900",
+                "title": "[4·10 총선] 민주 김준혁, '이대생 성상납·박정희 전 대통령 및 군 위안부 ...",
+                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668107"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:23:00 +0900",
+                "title": "민주 김준혁 '이화여대-박정희' 발언 끝내 사과…\"의도치 않은 불편 드려\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816415?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 22:01:00 +0900",
+                "title": "\"과거 발언 경솔\"…김준혁, '박정희 위안부' '이대 성상납' 발언 사과",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454272?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:38:00 +0900",
+                "title": "[포토] 동성로서 지지호소하는 박정희 대구북갑 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200371.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:50:00 +0900",
+                "title": "(사)박정희와 대한민국 회원, 김준혁 후보 망언에 대한 규탄성명서 발표",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544318"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 53832
+            }
+        ],
+        "huboid": "100153020",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2705/Hb100153020/junkwa/20240312152300768_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_박정희_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2705/003_100153020_20240328_1.pdf"
+    },
+    {
+        "id": "2270501-2",
+        "regionId": "2270501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-2.jpg",
+        "기호": 2,
+        "이름": "우재준",
+        "생년월일": "19880504",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "경북대학교 법학전문대학원 법학과 졸업(법무석사)",
+        "경력": "(현)대구광역시 감사위원회 위원\n(현)법무법인 이유 변호사",
+        "재산": 2575431,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 17:16:00 +0900",
+                "title": "국민추천제 공천 대구 북구갑 우재준 '아빠찬스'?…편법 증여 의혹",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278199?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:06:00 +0900",
+                "title": "[4·10 필드속으로] 우재준, 선대위 임명장 수여식…양금희 의원 명예위원장 ...",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240401010000170"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:48:00 +0900",
+                "title": "가족법인 비상장주 25억 북구갑 우재준, 편법증여 의혹",
+                "link": "https://www.newsmin.co.kr/news/101183/"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:12:00 +0900",
+                "title": "[4.10총선-158] 대구 북갑, 박정희vs우재준. 전의 불태우는 박정희",
+                "link": "http://www.mhj21.com/160199"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 15:14:00 +0900",
+                "title": "대구 북구갑 국민의힘 우재준 후보 \"청년 정치의 희망 보여드리겠다.\"",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149826"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2575431
+            }
+        ],
+        "huboid": "100153120",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2705/Hb100153120/junkwa/20240320134849983_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_우재준_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2705/003_100153120_20240401_2.pdf"
+    },
+    {
+        "id": "2270501-7",
+        "regionId": "2270501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270501-7.jpg",
+        "기호": 7,
+        "이름": "박진재",
+        "생년월일": "19750404",
+        "정당": "자유통일당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고등학교 졸업학력 검정고시 합격",
+        "경력": "(전)22년 국회의원재선거 (청주시상당구) 출마\n",
+        "재산": 85386,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Fri, 22 Mar 2024 16:00:00 +0900",
+                "title": "대구경북 총선후보 중 20억이상 자산가 14명…與 최은석 110억원",
+                "link": "https://n.news.naver.com/mnews/article/001/0014582852?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:02:00 +0900",
+                "title": "[4·10총선 후보자 등록]대구(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429074?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 20:46:00 +0900",
+                "title": "후보 등록 앞두고 TK 본선 대진표 완성",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988764"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 85386
+            }
+        ],
+        "huboid": "100151230",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2705/Hb100151230/junkwa/20240318145451512_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_박진재_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2705/003_100151230_20240329_1.pdf"
+    }
 ]

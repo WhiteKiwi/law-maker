@@ -1,181 +1,184 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-1.jpg",
-    "id": "2415001-1",
-    "재산": 3002469,
-    "생년월일": "19721207",
-    "경력": "(전)청와대 민정수석실 비서관\n(전)대검찰청 검찰연구관",
-    "학력": "서울대학교 법과대학 공법학과 졸업",
-    "직업": "변호사(법무법인(유) 한빛 대표변호사)",
-    "성별": "남",
-    "regionId": "2415001",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:58:00 +0900",
-        "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-        "title": "[4·10 총선 여론조사] 부천을 김기표 48.5%… 3자 대결 구도서 오차범위 밖 ...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240403010000271"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:25:00 +0900",
-        "title": "[총선돋보기-부천을] 설훈 \"김기표, 투기의혹 진실 밝혀라\"",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109902"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:34:00 +0900",
-        "title": "'대장 변호사' 김기표, 광주 송정동 불법투기 의혹에...설훈 \"합당한 해명없을...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220188"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-        "title": "새로운미래 설훈 \"민주당 김기표 후보, 부동산투기 의혹 진실을 밝혀라\"",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315540"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김기표",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3002469
-      }
-    ],
-    "huboid": "100151278",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415001-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-2.jpg",
-    "id": "2415001-2",
-    "재산": 9503577,
-    "생년월일": "19580801",
-    "경력": "(현)제20대, 제21대 재선 국회의원\n(전)제20대 대통령직인수위원회 과학기술교육분과 간사",
-    "학력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "897",
-    "regionId": "2415001",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:58:00 +0900",
-        "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:42:00 +0900",
-        "title": "[경기 부천을] 민주당 김기표 50%, 국민의힘 박성중 31.3%, 새미래 설훈 9.9%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428411?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:20:00 +0900",
-        "title": "'부천을' 김기표-박성중 대결 … 두 후보 간 격차 10%p대로 좁혀져 [뉴데일리...",
-        "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100142.html"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:14:00 +0900",
-        "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:10:00 +0900",
-        "title": "한동훈 위원장, 부천 갑·을 김복덕·박성중 후보 지원 유세",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081082"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박성중",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 6400227
-      },
-      {
-        "연도": 2021,
-        "재산": 7931195
-      },
-      {
-        "연도": 2022,
-        "재산": 8444303
-      },
-      {
-        "연도": 2023,
-        "재산": 9503577
-      }
-    ],
-    "huboid": "100152966",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415001-2.jpg"
-  },
-  {
-    "전과건수": 3,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-6.jpg",
-    "id": "2415001-6",
-    "재산": 913075,
-    "생년월일": "19530423",
-    "경력": "(전)더불어민주당 최고위원\n(현)부천시을 국회의원",
-    "학력": "고려대학교 사학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "117",
-    "regionId": "2415001",
-    "기호": 6,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:58:00 +0900",
-        "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:25:00 +0900",
-        "title": "[총선돋보기-부천을] 설훈 \"김기표, 투기의혹 진실 밝혀라\"",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109902"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:34:00 +0900",
-        "title": "'대장 변호사' 김기표, 광주 송정동 불법투기 의혹에...설훈 \"합당한 해명없을...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220188"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-        "title": "새로운미래 설훈 \"민주당 김기표 후보, 부동산투기 의혹 진실을 밝혀라\"",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315540"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:14:00 +0900",
-        "title": "설훈, 더불어민주당 김기표 부천시을 국회의원 후보 투기의혹 기자회견",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959389"
-      }
-    ],
-    "정당": "새로운미래",
-    "이름": "설훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 762251
-      },
-      {
-        "연도": 2021,
-        "재산": 831899
-      },
-      {
-        "연도": 2022,
-        "재산": 827528
-      },
-      {
-        "연도": 2023,
-        "재산": 913075
-      }
-    ],
-    "huboid": "100152915",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2415001-6.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-1.jpg",
+        "id": "2415001-1",
+        "재산": 3002469,
+        "생년월일": "19721207",
+        "경력": "(전)청와대 민정수석실 비서관\n(전)대검찰청 검찰연구관",
+        "학력": "서울대학교 법과대학 공법학과 졸업",
+        "직업": "변호사(법무법인(유) 한빛 대표변호사)",
+        "성별": "남",
+        "regionId": "2415001",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:58:00 +0900",
+                "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "[4·10 총선 여론조사] 부천을 김기표 48.5%… 3자 대결 구도서 오차범위 밖 ...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240403010000271"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:25:00 +0900",
+                "title": "[총선돋보기-부천을] 설훈 \"김기표, 투기의혹 진실 밝혀라\"",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109902"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "'대장 변호사' 김기표, 광주 송정동 불법투기 의혹에...설훈 \"합당한 해명없을...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220188"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "새로운미래 설훈 \"민주당 김기표 후보, 부동산투기 의혹 진실을 밝혀라\"",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315540"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김기표",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3002469
+            }
+        ],
+        "huboid": "100151278",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4152/Hb100151278/junkwa/20231212144717351_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시을_김기표_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4150/003_100151278_20240329_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-2.jpg",
+        "id": "2415001-2",
+        "재산": 9503577,
+        "생년월일": "19580801",
+        "경력": "(현)제20대, 제21대 재선 국회의원\n(전)제20대 대통령직인수위원회 과학기술교육분과 간사",
+        "학력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "897",
+        "regionId": "2415001",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:58:00 +0900",
+                "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:42:00 +0900",
+                "title": "[경기 부천을] 민주당 김기표 50%, 국민의힘 박성중 31.3%, 새미래 설훈 9.9%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428411?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:20:00 +0900",
+                "title": "'부천을' 김기표-박성중 대결 … 두 후보 간 격차 10%p대로 좁혀져 [뉴데일리...",
+                "link": "https://gg.newdaily.co.kr/site/data/html/2024/04/01/2024040100142.html"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:14:00 +0900",
+                "title": "[포토] 우리동네 누가나와? 국민의힘 부천갑 김복덕, 을 박성중, 병 하종대 후...",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558680"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:10:00 +0900",
+                "title": "한동훈 위원장, 부천 갑·을 김복덕·박성중 후보 지원 유세",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081082"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박성중",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 6400227
+            },
+            {
+                "연도": 2021,
+                "재산": 7931195
+            },
+            {
+                "연도": 2022,
+                "재산": 8444303
+            },
+            {
+                "연도": 2023,
+                "재산": 9503577
+            }
+        ],
+        "huboid": "100152966",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4150/Hb100152966/junkwa/20240321131950380_11.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시을_박성중_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4150/003_100152966_20240329_1.pdf"
+    },
+    {
+        "전과건수": 3,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2415001-6.jpg",
+        "id": "2415001-6",
+        "재산": 913075,
+        "생년월일": "19530423",
+        "경력": "(전)더불어민주당 최고위원\n(현)부천시을 국회의원",
+        "학력": "고려대학교 사학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "117",
+        "regionId": "2415001",
+        "기호": 6,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:58:00 +0900",
+                "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:25:00 +0900",
+                "title": "[총선돋보기-부천을] 설훈 \"김기표, 투기의혹 진실 밝혀라\"",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109902"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:34:00 +0900",
+                "title": "'대장 변호사' 김기표, 광주 송정동 불법투기 의혹에...설훈 \"합당한 해명없을...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220188"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+                "title": "새로운미래 설훈 \"민주당 김기표 후보, 부동산투기 의혹 진실을 밝혀라\"",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315540"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:14:00 +0900",
+                "title": "설훈, 더불어민주당 김기표 부천시을 국회의원 후보 투기의혹 기자회견",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959389"
+            }
+        ],
+        "정당": "새로운미래",
+        "이름": "설훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 762251
+            },
+            {
+                "연도": 2021,
+                "재산": 831899
+            },
+            {
+                "연도": 2022,
+                "재산": 827528
+            },
+            {
+                "연도": 2023,
+                "재산": 913075
+            }
+        ],
+        "huboid": "100152915",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg4150/Hb100152915/junkwa/20240321164514806_8.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_부천시을_설훈_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4150/003_100152915_20240329_1.pdf"
+    }
 ]

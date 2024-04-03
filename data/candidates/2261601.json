@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2261601-1",
-    "regionId": "2261601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-1.jpg",
-    "기호": 1,
-    "이름": "배재정",
-    "생년월일": "19680216",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
-    "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
-    "재산": 289433,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:45:00 +0900",
-        "title": "“배재정 도우러 왔다” 文, 사상서 지지 호소",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070144?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:30:00 +0900",
-        "title": "배재정 후보 지원 나선 문재인 전 대통령",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603755?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:35:00 +0900",
-        "title": "文, 부산 사상 깜짝 방문해 배재정 후보 격려",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870472?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:16:00 +0900",
-        "title": "문재인 전 대통령, 부산 사상 배재정 후보 지원",
-        "link": "https://www.etoday.co.kr/news/view/2346542"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:06:00 +0900",
-        "title": "문재인 전 대통령, 김정숙 여사와 함께 ‘부산 사상 배재정’ 깜짝 지원",
-        "link": "https://vop.co.kr/A00001650712.html"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 289433
-      }
-    ],
-    "huboid": "100151549",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261601-1.jpg"
-  },
-  {
-    "id": "2261601-2",
-    "regionId": "2261601",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-2.jpg",
-    "기호": 2,
-    "이름": "김대식",
-    "생년월일": "19620811",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
-    "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
-    "재산": 2368023,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:48:00 +0900",
-        "title": "[포토] 전국 섬유·유통노동조합연맹, '친노동자' 사상 김대식 지지선언",
-        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515353"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:28:00 +0900",
-        "title": "[4.10총선-185] 부산 사상구, 배재정vs김대식. ‘사상이 수상하다’",
-        "link": "http://www.mhj21.com/160233"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-        "title": "[총선포토] 한동훈 \"중단없는 사상발전 김대식이 이룰 것\"",
-        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515351"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:04:00 +0900",
-        "title": "김대식 후보 지지 호소하는 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012463415?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:04:00 +0900",
-        "title": "김대식 후보 지지 호소하는 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/003/0012463411?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2368023
-      }
-    ],
-    "huboid": "100151954",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261601-2.jpg"
-  }
+    {
+        "id": "2261601-1",
+        "regionId": "2261601",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-1.jpg",
+        "기호": 1,
+        "이름": "배재정",
+        "생년월일": "19680216",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
+        "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
+        "재산": 289433,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 20:45:00 +0900",
+                "title": "“배재정 도우러 왔다” 文, 사상서 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070144?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:30:00 +0900",
+                "title": "배재정 후보 지원 나선 문재인 전 대통령",
+                "link": "https://n.news.naver.com/mnews/article/001/0014603755?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:35:00 +0900",
+                "title": "文, 부산 사상 깜짝 방문해 배재정 후보 격려",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870472?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:16:00 +0900",
+                "title": "문재인 전 대통령, 부산 사상 배재정 후보 지원",
+                "link": "https://www.etoday.co.kr/news/view/2346542"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:06:00 +0900",
+                "title": "문재인 전 대통령, 김정숙 여사와 함께 ‘부산 사상 배재정’ 깜짝 지원",
+                "link": "https://vop.co.kr/A00001650712.html"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 289433
+            }
+        ],
+        "huboid": "100151549",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2616/Hb100151549/junkwa/20231214165058195_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_사상구_배재정_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2616/003_100151549_20240401_2.pdf"
+    },
+    {
+        "id": "2261601-2",
+        "regionId": "2261601",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-2.jpg",
+        "기호": 2,
+        "이름": "김대식",
+        "생년월일": "19620811",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
+        "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
+        "재산": 2368023,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 18:48:00 +0900",
+                "title": "[포토] 전국 섬유·유통노동조합연맹, '친노동자' 사상 김대식 지지선언",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515353"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:28:00 +0900",
+                "title": "[4.10총선-185] 부산 사상구, 배재정vs김대식. ‘사상이 수상하다’",
+                "link": "http://www.mhj21.com/160233"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "[총선포토] 한동훈 \"중단없는 사상발전 김대식이 이룰 것\"",
+                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515351"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463415?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:04:00 +0900",
+                "title": "김대식 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012463411?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2368023
+            }
+        ],
+        "huboid": "100151954",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2616/Hb100151954/junkwa/20240103111947100_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_사상구_김대식_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2616/003_100151954_20240327_1.pdf"
+    }
 ]

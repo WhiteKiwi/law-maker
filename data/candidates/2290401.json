@@ -1,206 +1,210 @@
 [
-  {
-    "id": "2290401-1",
-    "regionId": "2290401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-1.jpg",
-    "기호": 1,
-    "이름": "정준호",
-    "생년월일": "19800503",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 법과대학 법학부 졸업",
-    "경력": "(전)더불어민주당 광주북구(갑) 지역위원장\n(전)제20대 더불어민주당 광주북구(갑) 국회의원 후보",
-    "재산": -479294,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:19:00 +0900",
-        "title": "'선거법 위반' 정준호 후보 측 2명 영장 청구...\"혐의 전면 부인\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002018231?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 21:42:00 +0900",
-        "title": "검찰, ‘불법전화방 의혹’ 정준호 후보 측 2명 사전영장",
-        "link": "https://n.news.naver.com/mnews/article/056/0011694004?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:36:00 +0900",
-        "title": "檢, ‘불법 전화홍보방’ 정준호 캠프 2명 영장 청구",
-        "link": "http://www.kjdaily.com/article.php?aid=1712056915626384005"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:34:00 +0900",
-        "title": "[간추린 단신] ‘불법전화방 의혹’ 정준호 후보 측 2명 사전영장 외",
-        "link": "https://n.news.naver.com/mnews/article/056/0011693833?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:57:00 +0900",
-        "title": "검찰, 정준호 후보 캠프 관계자 2명 영장",
-        "link": "https://kjmbc.co.kr/article/63BlMPspt59OwzKXT"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -479294
-      }
-    ],
-    "huboid": "100151135",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290401-1.jpg"
-  },
-  {
-    "id": "2290401-2",
-    "regionId": "2290401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-2.jpg",
-    "기호": 2,
-    "이름": "김정명",
-    "생년월일": "19660430",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "(주)케이솔라원대표",
-    "학력": "전남대학교 법과대학 행정학과 졸업",
-    "경력": "(현)국민의힘 광주시당 부위원장\n(전)한국자유총연맹 광주시지부 부지부회장",
-    "재산": 872184,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 25 Mar 2024 09:40:00 +0900",
-        "title": "<총선브리핑> 안도걸 강승철 김정명",
-        "link": "https://kjmbc.co.kr/article/ta1HEvqDOz_0ZQuLv9JR"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 16:48:00 +0900",
-        "title": "파이팅 외치는 광주 북구갑 김정명 후보",
-        "link": "https://n.news.naver.com/mnews/article/001/0014584057?sid=165"
-      },
-      {
-        "date": "Thu, 14 Mar 2024 19:34:00 +0900",
-        "title": "[2024총선]국민의힘 광주시 북구갑 김정명 후보,지게 지고 이색 선거운동 “눈...",
-        "link": "https://www.wikitree.co.kr/articles/934926"
-      },
-      {
-        "date": "Mon, 04 Mar 2024 11:18:00 +0900",
-        "title": "국민의힘 광주 8개 선거구 출격…16년 만에 전체 공천",
-        "link": "https://n.news.naver.com/mnews/article/421/0007388066?sid=165"
-      },
-      {
-        "date": "Mon, 04 Mar 2024 10:22:00 +0900",
-        "title": "16년 만에···국민의힘, 광주 모든 지역구 공천",
-        "link": "https://n.news.naver.com/mnews/article/009/0005266821?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 872184
-      }
-    ],
-    "huboid": "100152807",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290401-2.jpg"
-  },
-  {
-    "id": "2290401-7",
-    "regionId": "2290401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-7.jpg",
-    "기호": 7,
-    "이름": "김주업",
-    "생년월일": "19680525",
-    "정당": "진보당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "전남대학교 법과대학 행정학과 졸업",
-    "경력": "(전) 전국공무원노동조합 제8대,제9대 위원장\n(현) 진보당 광주광역시당 위원장",
-    "재산": 191282,
-    "군필여부": true,
-    "전과건수": 3,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 10:00:00 +0900",
-        "title": "<총선브리핑> 안태욱 김주업 정진욱",
-        "link": "https://kjmbc.co.kr/article/ca57wV2P2vJuc_wfhC9X"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:03:00 +0900",
-        "title": "거리 유세하는 김주업 진보당 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012455380?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:25:00 +0900",
-        "title": "김주업, 광주 북구갑 진보당 후보 등록 완료",
-        "link": "https://n.news.naver.com/mnews/article/277/0005395465?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:14:00 +0900",
-        "title": "진보당 광주 북구갑 김주업 후보 등록",
-        "link": "https://n.news.naver.com/mnews/article/421/0007427719?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:02:00 +0900",
-        "title": "진보당 김주업·윤민호, 4·10 총선 광주 북구갑·을 후보 등록",
-        "link": "https://n.news.naver.com/mnews/article/629/0000275320?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 191282
-      }
-    ],
-    "huboid": "100151243",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290401-7.jpg"
-  },
-  {
-    "id": "2290401-8",
-    "regionId": "2290401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-8.jpg",
-    "기호": 8,
-    "이름": "장경수",
-    "생년월일": "19540705",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "열린스타기획사 대표",
-    "학력": "조선대학교부속고등학교 제적(1970.3.~1971.11.)",
-    "경력": "(전)한국청년회의소 서광주JC 회장\n(전)북구주민참여예산위원회 총괄위원장",
-    "재산": 466500,
-    "군필여부": false,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Wed, 23 Mar 2016 17:18:00 +0900",
-        "title": "장경수 안산상록갑 예비후보의 양말 꿰매준 경로당 할머니 화제",
-        "link": "http://www.asiatoday.co.kr/view.php?key=20160323010014134"
-      },
-      {
-        "date": "Sun, 20 Mar 2016 19:47:00 +0900",
-        "title": "장경수 예비후보, 국민의당 탈당 무소속 출마 선언",
-        "link": "http://www.incheonilbo.com/?mod=news&act=articleView&idxno=698730"
-      },
-      {
-        "date": "Sun, 20 Mar 2016 16:38:00 +0900",
-        "title": "장경수 국민의당 안산상록갑 예비후보, 무소속 출마, 1여3야 구도",
-        "link": "http://www.asiatoday.co.kr/view.php?key=20160320010011996"
-      },
-      {
-        "date": "Fri, 18 Mar 2016 15:57:00 +0900",
-        "title": "장경수 안산상록갑 예비후보, 국민의당 탈당",
-        "link": "https://n.news.naver.com/mnews/article/003/0007106682?sid=102"
-      },
-      {
-        "date": "Tue, 16 Feb 2016 19:31:00 +0900",
-        "title": "안산시 '세월호 후폭풍'은 어느 정도?",
-        "link": "http://mediawatch.kr/news/article.html?no=249815"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 466500
-      }
-    ],
-    "huboid": "100153002",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290401-8.jpg"
-  }
+    {
+        "id": "2290401-1",
+        "regionId": "2290401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-1.jpg",
+        "기호": 1,
+        "이름": "정준호",
+        "생년월일": "19800503",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 법과대학 법학부 졸업",
+        "경력": "(전)더불어민주당 광주북구(갑) 지역위원장\n(전)제20대 더불어민주당 광주북구(갑) 국회의원 후보",
+        "재산": -479294,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:19:00 +0900",
+                "title": "'선거법 위반' 정준호 후보 측 2명 영장 청구...\"혐의 전면 부인\"",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018231?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:42:00 +0900",
+                "title": "검찰, ‘불법전화방 의혹’ 정준호 후보 측 2명 사전영장",
+                "link": "https://n.news.naver.com/mnews/article/056/0011694004?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:36:00 +0900",
+                "title": "檢, ‘불법 전화홍보방’ 정준호 캠프 2명 영장 청구",
+                "link": "http://www.kjdaily.com/article.php?aid=1712056915626384005"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:34:00 +0900",
+                "title": "[간추린 단신] ‘불법전화방 의혹’ 정준호 후보 측 2명 사전영장 외",
+                "link": "https://n.news.naver.com/mnews/article/056/0011693833?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:57:00 +0900",
+                "title": "검찰, 정준호 후보 캠프 관계자 2명 영장",
+                "link": "https://kjmbc.co.kr/article/63BlMPspt59OwzKXT"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -479294
+            }
+        ],
+        "huboid": "100151135",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2904/Hb100151135/junkwa/20231212152231301_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_정준호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2904/003_100151135_20240328_1.pdf"
+    },
+    {
+        "id": "2290401-2",
+        "regionId": "2290401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-2.jpg",
+        "기호": 2,
+        "이름": "김정명",
+        "생년월일": "19660430",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "(주)케이솔라원대표",
+        "학력": "전남대학교 법과대학 행정학과 졸업",
+        "경력": "(현)국민의힘 광주시당 부위원장\n(전)한국자유총연맹 광주시지부 부지부회장",
+        "재산": 872184,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 25 Mar 2024 09:40:00 +0900",
+                "title": "<총선브리핑> 안도걸 강승철 김정명",
+                "link": "https://kjmbc.co.kr/article/ta1HEvqDOz_0ZQuLv9JR"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 16:48:00 +0900",
+                "title": "파이팅 외치는 광주 북구갑 김정명 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014584057?sid=165"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 19:34:00 +0900",
+                "title": "[2024총선]국민의힘 광주시 북구갑 김정명 후보,지게 지고 이색 선거운동 “눈...",
+                "link": "https://www.wikitree.co.kr/articles/934926"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 11:18:00 +0900",
+                "title": "국민의힘 광주 8개 선거구 출격…16년 만에 전체 공천",
+                "link": "https://n.news.naver.com/mnews/article/421/0007388066?sid=165"
+            },
+            {
+                "date": "Mon, 04 Mar 2024 10:22:00 +0900",
+                "title": "16년 만에···국민의힘, 광주 모든 지역구 공천",
+                "link": "https://n.news.naver.com/mnews/article/009/0005266821?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 872184
+            }
+        ],
+        "huboid": "100152807",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2904/Hb100152807/junkwa/20240221144659260_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_김정명_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2904/003_100152807_20240328_1.pdf"
+    },
+    {
+        "id": "2290401-7",
+        "regionId": "2290401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-7.jpg",
+        "기호": 7,
+        "이름": "김주업",
+        "생년월일": "19680525",
+        "정당": "진보당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "전남대학교 법과대학 행정학과 졸업",
+        "경력": "(전) 전국공무원노동조합 제8대,제9대 위원장\n(현) 진보당 광주광역시당 위원장",
+        "재산": 191282,
+        "군필여부": true,
+        "전과건수": 3,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 10:00:00 +0900",
+                "title": "<총선브리핑> 안태욱 김주업 정진욱",
+                "link": "https://kjmbc.co.kr/article/ca57wV2P2vJuc_wfhC9X"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:03:00 +0900",
+                "title": "거리 유세하는 김주업 진보당 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455380?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:25:00 +0900",
+                "title": "김주업, 광주 북구갑 진보당 후보 등록 완료",
+                "link": "https://n.news.naver.com/mnews/article/277/0005395465?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:14:00 +0900",
+                "title": "진보당 광주 북구갑 김주업 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427719?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:02:00 +0900",
+                "title": "진보당 김주업·윤민호, 4·10 총선 광주 북구갑·을 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/629/0000275320?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 191282
+            }
+        ],
+        "huboid": "100151243",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2904/Hb100151243/junkwa/20231212152314095_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_김주업_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2904/003_100151243_20240328_1.pdf"
+    },
+    {
+        "id": "2290401-8",
+        "regionId": "2290401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290401-8.jpg",
+        "기호": 8,
+        "이름": "장경수",
+        "생년월일": "19540705",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "열린스타기획사 대표",
+        "학력": "조선대학교부속고등학교 제적(1970.3.~1971.11.)",
+        "경력": "(전)한국청년회의소 서광주JC 회장\n(전)북구주민참여예산위원회 총괄위원장",
+        "재산": 466500,
+        "군필여부": false,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Wed, 23 Mar 2016 17:18:00 +0900",
+                "title": "장경수 안산상록갑 예비후보의 양말 꿰매준 경로당 할머니 화제",
+                "link": "http://www.asiatoday.co.kr/view.php?key=20160323010014134"
+            },
+            {
+                "date": "Sun, 20 Mar 2016 19:47:00 +0900",
+                "title": "장경수 예비후보, 국민의당 탈당 무소속 출마 선언",
+                "link": "http://www.incheonilbo.com/?mod=news&act=articleView&idxno=698730"
+            },
+            {
+                "date": "Sun, 20 Mar 2016 16:38:00 +0900",
+                "title": "장경수 국민의당 안산상록갑 예비후보, 무소속 출마, 1여3야 구도",
+                "link": "http://www.asiatoday.co.kr/view.php?key=20160320010011996"
+            },
+            {
+                "date": "Fri, 18 Mar 2016 15:57:00 +0900",
+                "title": "장경수 안산상록갑 예비후보, 국민의당 탈당",
+                "link": "https://n.news.naver.com/mnews/article/003/0007106682?sid=102"
+            },
+            {
+                "date": "Tue, 16 Feb 2016 19:31:00 +0900",
+                "title": "안산시 '세월호 후폭풍'은 어느 정도?",
+                "link": "http://mediawatch.kr/news/article.html?no=249815"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 466500
+            }
+        ],
+        "huboid": "100153002",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2904/Hb100153002/junkwa/20240308182557055_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_북구갑_장경수_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2904/003_100153002_20240328_1.pdf"
+    }
 ]

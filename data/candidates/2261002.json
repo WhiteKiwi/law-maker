@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261002-1.jpg",
-    "id": "2261002-1",
-    "재산": 4215204,
-    "생년월일": "19680331",
-    "경력": "(전)더불어민주당 중앙당 대변인(SNS)\n(전)서울특별시 정무수석",
-    "학력": "부산대학교 환경대학원 도시계획학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2261002",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:50:00 +0900",
-        "title": "부산 기장군 정동만·최택용 ‘정관선 예타’로 공방",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469939"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:08:00 +0900",
-        "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[4.10총선-189] 부산 기장군, 최택용vs정동만. 판세 변화는",
-        "link": "http://www.mhj21.com/160237"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:22:00 +0900",
-        "title": "기장군 정관선 예타 논란, 정동만 \"문턱 닳도록 설득\"… 최택용 \"'때'가 돼서...",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000667"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:08:00 +0900",
-        "title": "기장군 정관선 예타 논란-정동만 “문턱 닳도록 설득”... 최택용 “‘때’가...",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851731"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "최택용",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 4215204
-      }
-    ],
-    "huboid": "100151119",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261002-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261002-2.jpg",
-    "id": "2261002-2",
-    "재산": 1564896,
-    "생년월일": "19650718",
-    "경력": "(현)제21대 국회의원\n(전)제7대 부산광역시의원",
-    "학력": "부산대학교 경영대학원 졸업(경영학 석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1069",
-    "regionId": "2261002",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:50:00 +0900",
-        "title": "부산 기장군 정동만·최택용 ‘정관선 예타’로 공방",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469939"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:08:00 +0900",
-        "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "[4.10총선-189] 부산 기장군, 최택용vs정동만. 판세 변화는",
-        "link": "http://www.mhj21.com/160237"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:22:00 +0900",
-        "title": "기장군 정관선 예타 논란, 정동만 \"문턱 닳도록 설득\"… 최택용 \"'때'가 돼서...",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000667"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:20:00 +0900",
-        "title": "정동만 후보 공약 \"품격있는 기장 만들겠다\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958283"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "정동만",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 888641
-      },
-      {
-        "연도": 2021,
-        "재산": 1044698
-      },
-      {
-        "연도": 2022,
-        "재산": 1230357
-      },
-      {
-        "연도": 2023,
-        "재산": 1564896
-      }
-    ],
-    "huboid": "100152631",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261002-2.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261002-1.jpg",
+        "id": "2261002-1",
+        "재산": 4215204,
+        "생년월일": "19680331",
+        "경력": "(전)더불어민주당 중앙당 대변인(SNS)\n(전)서울특별시 정무수석",
+        "학력": "부산대학교 환경대학원 도시계획학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2261002",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:50:00 +0900",
+                "title": "부산 기장군 정동만·최택용 ‘정관선 예타’로 공방",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469939"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+                "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4.10총선-189] 부산 기장군, 최택용vs정동만. 판세 변화는",
+                "link": "http://www.mhj21.com/160237"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "기장군 정관선 예타 논란, 정동만 \"문턱 닳도록 설득\"… 최택용 \"'때'가 돼서...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000667"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:08:00 +0900",
+                "title": "기장군 정관선 예타 논란-정동만 “문턱 닳도록 설득”... 최택용 “‘때’가...",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851731"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "최택용",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 4215204
+            }
+        ],
+        "huboid": "100151119",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2610/Hb100151119/junkwa/20231212175903422_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_기장군_최택용_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2610/003_100151119_20240329_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261002-2.jpg",
+        "id": "2261002-2",
+        "재산": 1564896,
+        "생년월일": "19650718",
+        "경력": "(현)제21대 국회의원\n(전)제7대 부산광역시의원",
+        "학력": "부산대학교 경영대학원 졸업(경영학 석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1069",
+        "regionId": "2261002",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:50:00 +0900",
+                "title": "부산 기장군 정동만·최택용 ‘정관선 예타’로 공방",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469939"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:08:00 +0900",
+                "title": "정동만·최택용 '한 개도 힘든데'…도시철도 '정관선·기장선' 동시 공약",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634370"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "[4.10총선-189] 부산 기장군, 최택용vs정동만. 판세 변화는",
+                "link": "http://www.mhj21.com/160237"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:22:00 +0900",
+                "title": "기장군 정관선 예타 논란, 정동만 \"문턱 닳도록 설득\"… 최택용 \"'때'가 돼서...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240401010000667"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:20:00 +0900",
+                "title": "정동만 후보 공약 \"품격있는 기장 만들겠다\"",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958283"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "정동만",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 888641
+            },
+            {
+                "연도": 2021,
+                "재산": 1044698
+            },
+            {
+                "연도": 2022,
+                "재산": 1230357
+            },
+            {
+                "연도": 2023,
+                "재산": 1564896
+            }
+        ],
+        "huboid": "100152631",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2610/Hb100152631/junkwa/20240206171002820_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_기장군_정동만_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2610/003_100152631_20240329_1.pdf"
+    }
 ]

@@ -1,155 +1,158 @@
 [
-  {
-    "id": "2270401-1",
-    "regionId": "2270401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-1.jpg",
-    "기호": 1,
-    "이름": "허소",
-    "생년월일": "19700204",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 법학과 졸업",
-    "경력": "(전) 노무현정부 청와대 행정관\n(현) 더불어민주당 중구남구지역위원장",
-    "재산": 492902,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:06:00 +0900",
-        "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:34:00 +0900",
-        "title": "[포토] 마이크 잡은 허소 대구중·남구 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200367.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:30:00 +0900",
-        "title": "대구 중-남구 TV토론회…허소 vs 김기웅 vs 도태우 설전",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240402010000324"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-        "title": "허소 후보, 선관위 주재 방송토론회서 '윤석열 정부 심판' 강조",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150856"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:46:00 +0900",
-        "title": "허소 후보, 이탄희 의원과 집중 유세. . .\"윤석열 정권에 대한 심판이야말로 ...",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486242"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 492902
-      }
-    ],
-    "huboid": "100152589",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270401-1.jpg"
-  },
-  {
-    "id": "2270401-2",
-    "regionId": "2270401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-2.jpg",
-    "기호": 2,
-    "이름": "김기웅",
-    "생년월일": "19610915",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "서울대학교 대학원 졸업 (전공: 정치학 석사)",
-    "경력": "(전) 대통령비서실 외교안보수석비서관실 통일비서관\n(전) 제27대 통일부차관",
-    "재산": 1547138,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:06:00 +0900",
-        "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:51:00 +0900",
-        "title": "ROTC 애국동지회 \"김기웅, 연평해전·천안함에서 희생된 장병에게 사죄하라\"",
-        "link": "https://n.news.naver.com/mnews/article/088/0000870695?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:24:00 +0900",
-        "title": "국민의힘 향한 색깔론? 도태우, 17년 전 김기웅 NLL 관련 기고 추궁",
-        "link": "https://www.newsmin.co.kr/news/101223/"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:30:00 +0900",
-        "title": "대구 중-남구 TV토론회…허소 vs 김기웅 vs 도태우 설전",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240402010000324"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:34:00 +0900",
-        "title": "ROTC애국동지회, \"대구 중남구 김기웅 후보는 연평해전과 천안함 전사 장병과...",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317473"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1547138
-      }
-    ],
-    "huboid": "100153122",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270401-2.jpg"
-  },
-  {
-    "id": "2270401-7",
-    "regionId": "2270401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-7.jpg",
-    "기호": 7,
-    "이름": "도태우",
-    "생년월일": "19690724",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 인문대학 국어국문학과 졸업",
-    "경력": "(현) 자유변호사협회 회장\n(현) 민주평화통일자문회의 상임위원",
-    "재산": 1201664,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:06:00 +0900",
-        "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-        "title": "도태우 \"尹 탈당 거론 함운경 후보, 집 싫으면 객이 떠나야\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455716"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:24:00 +0900",
-        "title": "국민의힘 향한 색깔론? 도태우, 17년 전 김기웅 NLL 관련 기고 추궁",
-        "link": "https://www.newsmin.co.kr/news/101223/"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:04:00 +0900",
-        "title": "도태우 후보, 함운경 국민의힘 후보 관련 규탄 성명",
-        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051221"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:04:00 +0900",
-        "title": "대구중남 도태우 후보, 尹 탈당요구한 함운경에 \"집이 싫으면 객이 떠나야\"",
-        "link": "http://www.breaknews.com/1024615"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1201664
-      }
-    ],
-    "huboid": "100151637",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270401-7.jpg"
-  }
+    {
+        "id": "2270401-1",
+        "regionId": "2270401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-1.jpg",
+        "기호": 1,
+        "이름": "허소",
+        "생년월일": "19700204",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 법학과 졸업",
+        "경력": "(전) 노무현정부 청와대 행정관\n(현) 더불어민주당 중구남구지역위원장",
+        "재산": 492902,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:34:00 +0900",
+                "title": "[포토] 마이크 잡은 허소 대구중·남구 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200367.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:30:00 +0900",
+                "title": "대구 중-남구 TV토론회…허소 vs 김기웅 vs 도태우 설전",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000324"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+                "title": "허소 후보, 선관위 주재 방송토론회서 '윤석열 정부 심판' 강조",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150856"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:46:00 +0900",
+                "title": "허소 후보, 이탄희 의원과 집중 유세. . .\"윤석열 정권에 대한 심판이야말로 ...",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486242"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 492902
+            }
+        ],
+        "huboid": "100152589",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2704/Hb100152589/junkwa/20240205115224584_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_중구남구_허소_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2704/003_100152589_20240401_4.pdf"
+    },
+    {
+        "id": "2270401-2",
+        "regionId": "2270401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-2.jpg",
+        "기호": 2,
+        "이름": "김기웅",
+        "생년월일": "19610915",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "서울대학교 대학원 졸업 (전공: 정치학 석사)",
+        "경력": "(전) 대통령비서실 외교안보수석비서관실 통일비서관\n(전) 제27대 통일부차관",
+        "재산": 1547138,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:51:00 +0900",
+                "title": "ROTC 애국동지회 \"김기웅, 연평해전·천안함에서 희생된 장병에게 사죄하라\"",
+                "link": "https://n.news.naver.com/mnews/article/088/0000870695?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:24:00 +0900",
+                "title": "국민의힘 향한 색깔론? 도태우, 17년 전 김기웅 NLL 관련 기고 추궁",
+                "link": "https://www.newsmin.co.kr/news/101223/"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:30:00 +0900",
+                "title": "대구 중-남구 TV토론회…허소 vs 김기웅 vs 도태우 설전",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240402010000324"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:34:00 +0900",
+                "title": "ROTC애국동지회, \"대구 중남구 김기웅 후보는 연평해전과 천안함 전사 장병과...",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317473"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1547138
+            }
+        ],
+        "huboid": "100153122",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2704/Hb100153122/junkwa/20240320154230162_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_중구남구_김기웅_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2704/003_100153122_20240403_1.pdf"
+    },
+    {
+        "id": "2270401-7",
+        "regionId": "2270401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270401-7.jpg",
+        "기호": 7,
+        "이름": "도태우",
+        "생년월일": "19690724",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 인문대학 국어국문학과 졸업",
+        "경력": "(현) 자유변호사협회 회장\n(현) 민주평화통일자문회의 상임위원",
+        "재산": 1201664,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:06:00 +0900",
+                "title": "허소 \"윤, 서민경제 최악\" 비판에, 김기웅 \"문재인 탓\"...도태우는 \"낙하산 안...",
+                "link": "https://www.pn.or.kr/news/articleView.html?idxno=30304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+                "title": "도태우 \"尹 탈당 거론 함운경 후보, 집 싫으면 객이 떠나야\"",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455716"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:24:00 +0900",
+                "title": "국민의힘 향한 색깔론? 도태우, 17년 전 김기웅 NLL 관련 기고 추궁",
+                "link": "https://www.newsmin.co.kr/news/101223/"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "도태우 후보, 함운경 국민의힘 후보 관련 규탄 성명",
+                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051221"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:04:00 +0900",
+                "title": "대구중남 도태우 후보, 尹 탈당요구한 함운경에 \"집이 싫으면 객이 떠나야\"",
+                "link": "http://www.breaknews.com/1024615"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1201664
+            }
+        ],
+        "huboid": "100151637",
+        "전과PdfUrl": "http://info.nec.go.kr/unielec_pdf_file/20240410/open/Gsg2704/Hb100151637/junkwa/20240321210128454_1.PDF",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_중구남구_도태우_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/2704/003_100151637_20240329_1.pdf"
+    }
 ]
