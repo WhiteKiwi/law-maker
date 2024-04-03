@@ -1,0 +1,117 @@
+[
+  {
+    "전과건수": 3,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-1.jpg",
+    "id": "2111502-1",
+    "재산": 1104551,
+    "생년월일": "19580212",
+    "경력": "(현)더불어민주당 국회의원\n(전)대통령비서실 시민사회수석",
+    "학력": "서울대학교 토목공학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1049",
+    "regionId": "2111502",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:50:00 +0900",
+        "title": "양천을 이용선 후보 \"상속 지분 11분의 2로 정정\"",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461784"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:04:00 +0900",
+        "title": "더불어민주당 양천을 이용선 후보, 신정네거리역서 선거운동 출정식",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850465"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 15:24:00 +0900",
+        "title": "양천을 이용선 후보, 강서양천학원운영협의회와 정책간담회 개최",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849438"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 07:06:00 +0900",
+        "title": "서울 양천을 이용선 후보, 양천구청노조와 정책간담회",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1849029"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:06:00 +0900",
+        "title": "[나는 후보자다] 양천을 더불어민주당 이용선 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460688"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이용선",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 733235
+      },
+      {
+        "연도": 2021,
+        "재산": 1033819
+      },
+      {
+        "연도": 2022,
+        "재산": 1051990
+      },
+      {
+        "연도": 2023,
+        "재산": 1104551
+      }
+    ],
+    "huboid": "100152304",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111502-1.jpg"
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-2.jpg",
+    "id": "2111502-2",
+    "재산": 1385042,
+    "생년월일": "19640308",
+    "경력": "(전)양천구을 국회의원\n(전)LG디스플레이 상임고문",
+    "학력": "서울대학교 사회과학대학 외교학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2111502",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Sat, 30 Mar 2024 20:20:00 +0900",
+        "title": "[포토] 손들어 인사하는 구자룡 양천갑,오경훈 양천을 후보",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000062.html"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 20:16:00 +0900",
+        "title": "[포토] 구자룡·오경훈 후보 지원 나선 한동훈",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000059.html"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 22:24:00 +0900",
+        "title": "\"지지부진한 숙원사업 확실하게 해결\"… 선대위 출정식 연 與오경훈 양천을 후...",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3123681"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 10:06:00 +0900",
+        "title": "[나는 후보자다] 양천을 국민의힘 오경훈 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460689"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 15:46:00 +0900",
+        "title": "[비대면 토론회] 양천을 이용선 vs 오경훈",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460676"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "오경훈",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1385042
+      }
+    ],
+    "huboid": "100152064",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111502-2.jpg"
+  }
+]
