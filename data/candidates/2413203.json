@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413203-1.jpg",
-        "id": "2413203-1",
-        "재산": 35170748,
-        "생년월일": "19621119",
-        "경력": "(전)더불어민주당 경기도당 위원장\n(현)국회 환경노동위원회 위원장",
-        "학력": "서울대학교 대학원 졸업(이학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "993",
-        "regionId": "2413203",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "'파주을' 민주 박정 vs 국힘 한길룡 공약 비교",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644843"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
-                "title": "파주시 'GTX-H 고속철도시대' 성큼…박정 후보, 대선때 'GTX-+ 공약' 창출",
-                "link": "http://www.joongang.tv/news/articleView.html?idxno=71232"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:16:00 +0900",
-                "title": "박정 후보, 경기도 GTX-H 노선안 “차질 없이 진행되도록 3선의 힘 다하겠다”",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401020363721"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 18:26:00 +0900",
-                "title": "박정 후보, 한길룡 후보 캠프 관계자 '고발'...송영길 전 의원에게 돈 봉투 받...",
-                "link": "http://www.joongang.tv/news/articleView.html?idxno=71205"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 16:36:00 +0900",
-                "title": "박정 후보 캠프, 한길룡 후보 총괄선대본부장 ‘허위사실 공포’ 고발",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240329025323202"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "박정",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 31410857
-            },
-            {
-                "연도": 2021,
-                "재산": 45311488
-            },
-            {
-                "연도": 2022,
-                "재산": 45814826
-            },
-            {
-                "연도": 2023,
-                "재산": 35170748
-            }
-        ],
-        "huboid": "100152044",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413203-1.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_파주시을_박정_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4132/003_100152044_20240326_1.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413203-2.jpg",
-        "id": "2413203-2",
-        "재산": 1946226,
-        "생년월일": "19610802",
-        "경력": "(전)국민의힘 파주시을 당협위원장\n(전)윤석열대통령후보 경기도선대위 공동종합상황실장",
-        "학력": "국민대학교 행정대학원 졸업(행정학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2413203",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-                "title": "한동훈 한길룡 후보 파주시을 3일 금릉역 지원유세",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226870"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:42:00 +0900",
-                "title": "'파주을' 민주 박정 vs 국힘 한길룡 공약 비교",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644843"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:32:00 +0900",
-                "title": "교통전문가 한길룡 후보 “문산·위례 GTX-H노선에 국가철도망구축 계획 반영...",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=226695"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 14:52:00 +0900",
-                "title": "'문산~위례 간 GTX-H 노선' 가시화…한길룡 후보, 북파주 교통혁신 공언",
-                "link": "http://www.joongang.tv/news/articleView.html?idxno=71233"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 10:12:00 +0900",
-                "title": "[4.10 총선] 한길룡 \"문산~위례 GTX-H 노선 강력 추진\"",
-                "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202404010948222288f0f3e23044_1/article.html"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "한길룡",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1946226
-            }
-        ],
-        "huboid": "100151845",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413203-2.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_파주시을_한길룡_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4132/003_100151845_20240326_1.pdf"
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413203-1.jpg",
+    "id": "2413203-1",
+    "재산": 35170748,
+    "생년월일": "19621119",
+    "경력": "(전)더불어민주당 경기도당 위원장\n(현)국회 환경노동위원회 위원장",
+    "학력": "서울대학교 대학원 졸업(이학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "993",
+    "regionId": "2413203",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "'파주을' 민주 박정 vs 국힘 한길룡 공약 비교",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644843"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+        "title": "파주시 'GTX-H 고속철도시대' 성큼…박정 후보, 대선때 'GTX-+ 공약' 창출",
+        "link": "http://www.joongang.tv/news/articleView.html?idxno=71232"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:16:00 +0900",
+        "title": "박정 후보, 경기도 GTX-H 노선안 “차질 없이 진행되도록 3선의 힘 다하겠다”",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401020363721"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 18:26:00 +0900",
+        "title": "박정 후보, 한길룡 후보 캠프 관계자 '고발'...송영길 전 의원에게 돈 봉투 받...",
+        "link": "http://www.joongang.tv/news/articleView.html?idxno=71205"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 16:36:00 +0900",
+        "title": "박정 후보 캠프, 한길룡 후보 총괄선대본부장 ‘허위사실 공포’ 고발",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240329025323202"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박정",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 31410857
+      },
+      {
+        "연도": 2021,
+        "재산": 45311488
+      },
+      {
+        "연도": 2022,
+        "재산": 45814826
+      },
+      {
+        "연도": 2023,
+        "재산": 35170748
+      }
+    ],
+    "huboid": "100152044",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413203-1.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_파주시을_박정_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4132/003_100152044_20240326_1.pdf"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413203-2.jpg",
+    "id": "2413203-2",
+    "재산": 1946226,
+    "생년월일": "19610802",
+    "경력": "(전)국민의힘 파주시을 당협위원장\n(전)윤석열대통령후보 경기도선대위 공동종합상황실장",
+    "학력": "국민대학교 행정대학원 졸업(행정학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2413203",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+        "title": "한동훈 한길룡 후보 파주시을 3일 금릉역 지원유세",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226870"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:42:00 +0900",
+        "title": "'파주을' 민주 박정 vs 국힘 한길룡 공약 비교",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644843"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:32:00 +0900",
+        "title": "교통전문가 한길룡 후보 “문산·위례 GTX-H노선에 국가철도망구축 계획 반영...",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=226695"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 14:52:00 +0900",
+        "title": "'문산~위례 간 GTX-H 노선' 가시화…한길룡 후보, 북파주 교통혁신 공언",
+        "link": "http://www.joongang.tv/news/articleView.html?idxno=71233"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:12:00 +0900",
+        "title": "[4.10 총선] 한길룡 \"문산~위례 GTX-H 노선 강력 추진\"",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202404010948222288f0f3e23044_1/article.html"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "한길룡",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1946226
+      }
+    ],
+    "huboid": "100151845",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413203-2.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_파주시을_한길룡_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4132/003_100151845_20240326_1.pdf"
+  }
 ]

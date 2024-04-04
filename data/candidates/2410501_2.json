@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410501-1.jpg",
-        "id": "2410501_2-1",
-        "재산": 961665,
-        "생년월일": "19650320",
-        "경력": "(현)제21대 국회의원(4선)\n(전)더불어민주당 원내대표",
-        "학력": "경희대학교 행정대학원 졸업(행정학 석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "359",
-        "regionId": "2410501",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
-                "title": "김태년 성남수정 후보, 위례동·산성동·단대동에 복합문화시설 공약 발표",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081491"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 19:51:00 +0900",
-                "title": "[뉴스하이킥] 김태년 \"여당 읍소한다고 민심 흐름 바뀔까?.. 효과 본 적 없어...",
-                "link": "https://n.news.naver.com/mnews/article/214/0001340021?sid=100"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:38:00 +0900",
-                "title": "성남수정 민주 김태년, ‘위례신사선 정상화’ 등 교통 공약 발표",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401020243888"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 17:32:00 +0900",
-                "title": "김태년·추미애·남인순 민주당 후보, 위례신사선 정상화 촉구 공동 기자회견",
-                "link": "https://www.nspna.com/news/?mode=view&newsid=691166"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:33:00 +0900",
-                "title": "추미애-김태년-남인순이 모인 이유",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428390?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김태년",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 820212
-            },
-            {
-                "연도": 2021,
-                "재산": 887789
-            },
-            {
-                "연도": 2022,
-                "재산": 956764
-            },
-            {
-                "연도": 2023,
-                "재산": 961665
-            }
-        ],
-        "huboid": "100152731",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410501-1.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_성남시수정구_김태년_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4105/003_100152731_20240328_1.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410501-2.jpg",
-        "id": "2410501_2-2",
-        "재산": 3291228,
-        "생년월일": "19580409",
-        "경력": "(전)성남법원 판사\n(현)성남시개인택시조합 고문변호사",
-        "학력": "단국대학교 법학과 졸업",
-        "직업": "법무법인 디지털 대표변호사",
-        "성별": "남",
-        "regionId": "2410501",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Mon, 01 Apr 2024 17:14:00 +0900",
-                "title": "[4·10 총선] 성남 수정 국힘 장영하, '뉴스타파 선거법위반' 고소",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242554"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:30:00 +0900",
-                "title": "성남수정 국힘 장영하·민주 김태년 ‘선거공보물 고발’ 놓고 충돌",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240401025503528"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 15:28:00 +0900",
-                "title": "장영하 후보 \"민심교란 거짓 선동 중단 요구\"",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=787839"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 13:50:00 +0900",
-                "title": "국힘 장영하 후보 \"민주당 지지자, 악당과 한 세력\"",
-                "link": "https://n.news.naver.com/mnews/article/003/0012461262?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 13:18:00 +0900",
-                "title": "[4·10 총선] 성남 수정 국힘 장영하, 민주당 김태년 고발…선거법위반 혐의",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242241"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "장영하",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3291228
-            }
-        ],
-        "huboid": "100151568",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410501-2.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_성남시수정구_장영하_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4105/003_100151568_20240328_1.pdf"
-    }
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410501-1.jpg",
+    "id": "2410501_2-1",
+    "재산": 961665,
+    "생년월일": "19650320",
+    "경력": "(현)제21대 국회의원(4선)\n(전)더불어민주당 원내대표",
+    "학력": "경희대학교 행정대학원 졸업(행정학 석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "359",
+    "regionId": "2410501_2",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+        "title": "김태년 성남수정 후보, 위례동·산성동·단대동에 복합문화시설 공약 발표",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081491"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 19:51:00 +0900",
+        "title": "[뉴스하이킥] 김태년 \"여당 읍소한다고 민심 흐름 바뀔까?.. 효과 본 적 없어...",
+        "link": "https://n.news.naver.com/mnews/article/214/0001340021?sid=100"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:38:00 +0900",
+        "title": "성남수정 민주 김태년, ‘위례신사선 정상화’ 등 교통 공약 발표",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401020243888"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 17:32:00 +0900",
+        "title": "김태년·추미애·남인순 민주당 후보, 위례신사선 정상화 촉구 공동 기자회견",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=691166"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:33:00 +0900",
+        "title": "추미애-김태년-남인순이 모인 이유",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428390?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김태년",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 820212
+      },
+      {
+        "연도": 2021,
+        "재산": 887789
+      },
+      {
+        "연도": 2022,
+        "재산": 956764
+      },
+      {
+        "연도": 2023,
+        "재산": 961665
+      }
+    ],
+    "huboid": "100152731",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410501-1.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_성남시수정구_김태년_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4105/003_100152731_20240328_1.pdf"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410501-2.jpg",
+    "id": "2410501_2-2",
+    "재산": 3291228,
+    "생년월일": "19580409",
+    "경력": "(전)성남법원 판사\n(현)성남시개인택시조합 고문변호사",
+    "학력": "단국대학교 법학과 졸업",
+    "직업": "법무법인 디지털 대표변호사",
+    "성별": "남",
+    "regionId": "2410501_2",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Mon, 01 Apr 2024 17:14:00 +0900",
+        "title": "[4·10 총선] 성남 수정 국힘 장영하, '뉴스타파 선거법위반' 고소",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242554"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:30:00 +0900",
+        "title": "성남수정 국힘 장영하·민주 김태년 ‘선거공보물 고발’ 놓고 충돌",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240401025503528"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 15:28:00 +0900",
+        "title": "장영하 후보 \"민심교란 거짓 선동 중단 요구\"",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=787839"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 13:50:00 +0900",
+        "title": "국힘 장영하 후보 \"민주당 지지자, 악당과 한 세력\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0012461262?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 13:18:00 +0900",
+        "title": "[4·10 총선] 성남 수정 국힘 장영하, 민주당 김태년 고발…선거법위반 혐의",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242241"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "장영하",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3291228
+      }
+    ],
+    "huboid": "100151568",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410501-2.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_성남시수정구_장영하_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4105/003_100151568_20240328_1.pdf"
+  }
 ]

@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2430601-1",
-        "regionId": "2430601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2430601-1.jpg",
-        "기호": 1,
-        "이름": "송재봉",
-        "생년월일": "19690925",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "충북대학교 대학원 행정학과 박사과정 수료",
-        "경력": "(전)더불어민주당 청주시장 후보\n(전)청와대 대통령비서실 행정관",
-        "재산": 453563,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 20:52:00 +0900",
-                "title": "오신손님/ 송재봉(더불어민주당 청주청원구 국회의원 후보)씨",
-                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746545"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-                "title": "신용한 전 석좌교수 청주청원 송재봉 유세 지원",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792649"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:58:00 +0900",
-                "title": "[충북 청주청원] 더불어민주당 송재봉 37%, 국민의힘 김수민 32%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428632?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 07:50:00 +0900",
-                "title": "민주당 송재봉 청원구 후보, 지역아동센터연합회와 간담회 진행",
-                "link": "http://www.breaknews.com/1024397"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 18:42:00 +0900",
-                "title": "충북 총선 후보자 밀착 인터뷰 - 3. 송재봉 민주당 청주청원 후보",
-                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430938"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 453563
-            }
-        ],
-        "huboid": "100151059",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2430601-1.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_청주시청원구_송재봉_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4306/003_100151059_20240329_2.pdf"
-    },
-    {
-        "id": "2430601-2",
-        "regionId": "2430601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2430601-2.jpg",
-        "기호": 2,
-        "이름": "김수민",
-        "생년월일": "19861225",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "숙명여자대학교 졸업(시각·영상디자인 학사)",
-        "경력": "(전)제20대 국회의원\n(현)국민의힘 홍보본부장",
-        "재산": 313326,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 21:40:00 +0900",
-                "title": "[여론조사] '청주 청원' 민주당 송재봉 37% vs 국민의힘 김수민 32%",
-                "link": "https://www.newspim.com/news/view/20240402001016"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:34:00 +0900",
-                "title": "[포토] 청주 집중유세 참석한 서승우-김수민",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200366.html"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-                "title": "청주청원 김수민 \"무상보육·교육 단계적 실현\"",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792650"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 19:58:00 +0900",
-                "title": "[충북 청주청원] 더불어민주당 송재봉 37%, 국민의힘 김수민 32%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428632?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:10:00 +0900",
-                "title": "김수민 후보, 보육·교육제도 개선 '충북어린이집연합회' 간담회",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220131"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 313326
-            }
-        ],
-        "huboid": "100152216",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2430601-2.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_청주시청원구_김수민_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4306/003_100152216_20240329_1.pdf"
-    }
+  {
+    "id": "2430601-1",
+    "regionId": "2430601",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2430601-1.jpg",
+    "기호": 1,
+    "이름": "송재봉",
+    "생년월일": "19690925",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "충북대학교 대학원 행정학과 박사과정 수료",
+    "경력": "(전)더불어민주당 청주시장 후보\n(전)청와대 대통령비서실 행정관",
+    "재산": 453563,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 20:52:00 +0900",
+        "title": "오신손님/ 송재봉(더불어민주당 청주청원구 국회의원 후보)씨",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746545"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+        "title": "신용한 전 석좌교수 청주청원 송재봉 유세 지원",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792649"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+        "title": "[충북 청주청원] 더불어민주당 송재봉 37%, 국민의힘 김수민 32%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428632?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 07:50:00 +0900",
+        "title": "민주당 송재봉 청원구 후보, 지역아동센터연합회와 간담회 진행",
+        "link": "http://www.breaknews.com/1024397"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 18:42:00 +0900",
+        "title": "충북 총선 후보자 밀착 인터뷰 - 3. 송재봉 민주당 청주청원 후보",
+        "link": "http://www.jbnews.com/news/articleView.html?idxno=1430938"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 453563
+      }
+    ],
+    "huboid": "100151059",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2430601-1.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_청주시청원구_송재봉_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4306/003_100151059_20240329_2.pdf"
+  },
+  {
+    "id": "2430601-2",
+    "regionId": "2430601",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2430601-2.jpg",
+    "기호": 2,
+    "이름": "김수민",
+    "생년월일": "19861225",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "숙명여자대학교 졸업(시각·영상디자인 학사)",
+    "경력": "(전)제20대 국회의원\n(현)국민의힘 홍보본부장",
+    "재산": 313326,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 21:40:00 +0900",
+        "title": "[여론조사] '청주 청원' 민주당 송재봉 37% vs 국민의힘 김수민 32%",
+        "link": "https://www.newspim.com/news/view/20240402001016"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:34:00 +0900",
+        "title": "[포토] 청주 집중유세 참석한 서승우-김수민",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200366.html"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
+        "title": "청주청원 김수민 \"무상보육·교육 단계적 실현\"",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792650"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 19:58:00 +0900",
+        "title": "[충북 청주청원] 더불어민주당 송재봉 37%, 국민의힘 김수민 32%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428632?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:10:00 +0900",
+        "title": "김수민 후보, 보육·교육제도 개선 '충북어린이집연합회' 간담회",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220131"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 313326
+      }
+    ],
+    "huboid": "100152216",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2430601-2.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_청주시청원구_김수민_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4306/003_100152216_20240329_1.pdf"
+  }
 ]

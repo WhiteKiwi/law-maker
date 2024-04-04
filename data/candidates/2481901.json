@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2481901-1",
-        "regionId": "2481901",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-1.jpg",
-        "기호": 1,
-        "이름": "김기태",
-        "생년월일": "19610628",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "순천향대학 국어국문학과 졸업",
-        "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
-        "재산": 144800,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
-                "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:06:00 +0900",
-                "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
-                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
-                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:22:00 +0900",
-                "title": "민주당 김기태 후보, 합천군 선거 출정식 진행",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388082"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 144800
-            }
-        ],
-        "huboid": "100152924",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481901-1.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_산청군함양군거창군합천군_김기태_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4819/003_100152924_20240328_1.pdf"
-    },
-    {
-        "id": "2481901-2",
-        "regionId": "2481901",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-2.jpg",
-        "기호": 2,
-        "이름": "신성범",
-        "생년월일": "19630601",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정치인",
-        "학력": "서울대학교 사회과학대학 인류학과 졸업",
-        "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
-        "재산": 1215065,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 01:48:00 +0900",
-                "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:06:00 +0900",
-                "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
-                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 17:23:00 +0900",
-                "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
-                "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 19:04:00 +0900",
-                "title": "신성범 “기업·실버산업 유치”·김기태 “국민행복기본법 추진”",
-                "link": "https://n.news.naver.com/mnews/article/421/0007446206?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:04:00 +0900",
-                "title": "김기태 \"윤석열 정권 조기종식\"... 신성범 \"소통 정치로 민심 제대로 전달\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428065?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1215065
-            }
-        ],
-        "huboid": "100152030",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481901-2.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_산청군함양군거창군합천군_신성범_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4819/003_100152030_20240328_2.pdf"
-    }
+  {
+    "id": "2481901-1",
+    "regionId": "2481901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-1.jpg",
+    "기호": 1,
+    "이름": "김기태",
+    "생년월일": "19610628",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "순천향대학 국어국문학과 졸업",
+    "경력": "(전)더불어민주당 산청함양거창합천지역위원장\n(전)민주평화통일자문회의 합천군협의회장",
+    "재산": 144800,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+        "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:06:00 +0900",
+        "title": "더불어민주당 (산청,함양,거창,합천) 김기태후보, 더불어민주당 중앙정치연수...",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267731242907"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:22:00 +0900",
+        "title": "민주당 김기태 후보, 합천군 선거 출정식 진행",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388082"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 144800
+      }
+    ],
+    "huboid": "100152924",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481901-1.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_산청군함양군거창군합천군_김기태_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4819/003_100152924_20240328_1.pdf"
+  },
+  {
+    "id": "2481901-2",
+    "regionId": "2481901",
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2481901-2.jpg",
+    "기호": 2,
+    "이름": "신성범",
+    "생년월일": "19630601",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정치인",
+    "학력": "서울대학교 사회과학대학 인류학과 졸업",
+    "경력": "(전)제18대, 제19대 국회의원\n(전)국회 교육문화체육관광위원회 간사",
+    "재산": 1215065,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 01:48:00 +0900",
+        "title": "산청·함양·거창·합천 민주당 김기태-국힘 신성범 양자대결",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549698"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:06:00 +0900",
+        "title": "김기태-신성범 의대 유치·일해공원 명칭 놓고 설전",
+        "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=549450"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 17:23:00 +0900",
+        "title": "산청함양거창합천 신성범-김기태, 의대 유치 두고 공방",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=388075"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 19:04:00 +0900",
+        "title": "신성범 “기업·실버산업 유치”·김기태 “국민행복기본법 추진”",
+        "link": "https://n.news.naver.com/mnews/article/421/0007446206?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:04:00 +0900",
+        "title": "김기태 \"윤석열 정권 조기종식\"... 신성범 \"소통 정치로 민심 제대로 전달\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428065?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1215065
+      }
+    ],
+    "huboid": "100152030",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2481901-2.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_산청군함양군거창군합천군_신성범_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4819/003_100152030_20240328_2.pdf"
+  }
 ]

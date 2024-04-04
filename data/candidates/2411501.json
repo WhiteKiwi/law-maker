@@ -1,132 +1,132 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-1.jpg",
-        "id": "2411501-1",
-        "재산": 2601236,
-        "생년월일": "19641213",
-        "경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
-        "학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1104",
-        "regionId": "2411501",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
-                "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-                "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
-                "title": "평택갑 홍기원·한무경 토론회서 서로 \"내가 적임자\"",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:11:00 +0900",
-                "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-                "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "홍기원",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1799557
-            },
-            {
-                "연도": 2021,
-                "재산": 1999107
-            },
-            {
-                "연도": 2022,
-                "재산": 2310933
-            },
-            {
-                "연도": 2023,
-                "재산": 2601236
-            }
-        ],
-        "huboid": "100152479",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411501-1.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시갑_홍기원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152479_20240325_1.pdf"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-2.jpg",
-        "id": "2411501-2",
-        "재산": 19183450,
-        "생년월일": "19580520",
-        "경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
-        "학력": "이화여자대학교 대학원 졸업(문학박사)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "1152",
-        "regionId": "2411501",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Tue, 02 Apr 2024 15:30:00 +0900",
-                "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-                "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:04:00 +0900",
-                "title": "평택갑 홍기원·한무경 토론회서 서로 \"내가 적임자\"",
-                "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 09:11:00 +0900",
-                "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 22:02:00 +0900",
-                "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "한무경",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 45208993
-            },
-            {
-                "연도": 2021,
-                "재산": 12923465
-            },
-            {
-                "연도": 2022,
-                "재산": 13866582
-            },
-            {
-                "연도": 2023,
-                "재산": 19183450
-            }
-        ],
-        "huboid": "100152679",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411501-2.jpg",
-        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시갑_한무경_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152679_20240325_1.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-1.jpg",
+    "id": "2411501-1",
+    "재산": 2601236,
+    "생년월일": "19641213",
+    "경력": "(현)더불어민주당 평택시갑 국회의원\n(현)더불어민주당 정책위원회 상임부의장",
+    "학력": "워싱턴대학교 대학원 졸업 경제학 석사 (1999.9~2001.6)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1104",
+    "regionId": "2411501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+        "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+        "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+        "title": "평택갑 홍기원·한무경 토론회서 서로 \"내가 적임자\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:11:00 +0900",
+        "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "홍기원",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1799557
+      },
+      {
+        "연도": 2021,
+        "재산": 1999107
+      },
+      {
+        "연도": 2022,
+        "재산": 2310933
+      },
+      {
+        "연도": 2023,
+        "재산": 2601236
+      }
+    ],
+    "huboid": "100152479",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411501-1.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시갑_홍기원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152479_20240325_1.pdf"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411501-2.jpg",
+    "id": "2411501-2",
+    "재산": 19183450,
+    "생년월일": "19580520",
+    "경력": "(현)국민의힘 국회의원\n(전)한국여성경제인협회 회장",
+    "학력": "이화여자대학교 대학원 졸업(문학박사)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "1152",
+    "regionId": "2411501",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Tue, 02 Apr 2024 15:30:00 +0900",
+        "title": "[경기 평택갑] 더불어민주당 홍기원 58%, 국민의힘 한무경 38.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428569?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
+        "title": "[4·10=평택갑 토론회] 홍기원·한무경, 언론사주관 토론회서 평택발전 이끌 ...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242647"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:04:00 +0900",
+        "title": "평택갑 홍기원·한무경 토론회서 서로 \"내가 적임자\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0012463199?sid=102"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 09:11:00 +0900",
+        "title": "[경기 평택갑] 더불어민주당 홍기원 51.2%, 국민의힘 한무경 37.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428270?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 22:02:00 +0900",
+        "title": "평택갑 홍기원 51.2% vs 한무경 37.1%",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081147"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "한무경",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 45208993
+      },
+      {
+        "연도": 2021,
+        "재산": 12923465
+      },
+      {
+        "연도": 2022,
+        "재산": 13866582
+      },
+      {
+        "연도": 2023,
+        "재산": 19183450
+      }
+    ],
+    "huboid": "100152679",
+    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411501-2.jpg",
+    "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시갑_한무경_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152679_20240325_1.pdf"
+  }
 ]
