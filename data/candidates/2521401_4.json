@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2521401-1.jpg",
-    "id": "2521401_4-1",
-    "재산": 458785,
-    "생년월일": "19640515",
-    "경력": "(전) 제4, 5대 홍천군의회 의원\n(전) 제5, 7기 홍천군수",
-    "학력": "강릉대학 회계학과 졸업(현 강릉원주대학교)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2521401_4",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:06:00 +0900",
-        "title": "[4.10 총선, 강원의 선택] 허필홍 후보 '보름달 유세' 이색 선거운동 눈길",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070560?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-        "title": "3郡 연합번영회, 유상범, 허필홍 국회의원 후보에 정책제안 전달",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852638"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 00:07:00 +0900",
-        "title": "허필홍 \"진짜 지역일꾼\" vs 유상범 \"힘있는 재선\"",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070315?sid=102"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 10:40:00 +0900",
-        "title": "허필홍 후보, TV토론회 홍천 방송안돼 재실시 요구",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850867"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:16:00 +0900",
-        "title": "홍·횡·영·평 허필홍(민) \"20년 이상 지역 전문가, 농촌문제 해결 적임자\"[...",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879764?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "허필홍",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 458785
-      }
-    ],
-    "huboid": "100151544",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2521401-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2521401-2.jpg",
-    "id": "2521401_4-2",
-    "재산": 3551093,
-    "생년월일": "19660604",
-    "경력": "(전)국민의힘 수석대변인\n(현)홍천군횡성군영월군평창군 국회의원",
-    "학력": "서울대학교 법과대학 사법학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1122",
-    "regionId": "2521401_4",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 15:02:00 +0900",
-        "title": "3郡 연합번영회, 유상범, 허필홍 국회의원 후보에 정책제안 전달",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852638"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 00:07:00 +0900",
-        "title": "허필홍 \"진짜 지역일꾼\" vs 유상범 \"힘있는 재선\"",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070315?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:14:00 +0900",
-        "title": "홍·횡·영·평 유상범(국) \"힘 있는 여당 재선 후보 공약은 현실로\"[영상]",
-        "link": "https://n.news.naver.com/mnews/article/079/0003879761?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 23:50:00 +0900",
-        "title": "[총선] ‘홍횡영평’, 허필홍·유상범 열띤 토론",
-        "link": "https://n.news.naver.com/mnews/article/056/0011691032?sid=102"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:42:00 +0900",
-        "title": "[총선] 홍횡영평, 허필홍·유상범 ‘날 선 공방’",
-        "link": "https://n.news.naver.com/mnews/article/056/0011690883?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "유상범",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2987703
-      },
-      {
-        "연도": 2021,
-        "재산": 3169855
-      },
-      {
-        "연도": 2022,
-        "재산": 3117796
-      },
-      {
-        "연도": 2023,
-        "재산": 3551093
-      }
-    ],
-    "huboid": "100153005",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2521401-2.jpg"
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2521401-1.jpg",
+        "id": "2521401_4-1",
+        "재산": 458785,
+        "생년월일": "19640515",
+        "경력": "(전) 제4, 5대 홍천군의회 의원\n(전) 제5, 7기 홍천군수",
+        "학력": "강릉대학 회계학과 졸업(현 강릉원주대학교)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2521401",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:06:00 +0900",
+                "title": "[4.10 총선, 강원의 선택] 허필홍 후보 '보름달 유세' 이색 선거운동 눈길",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070560?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+                "title": "3郡 연합번영회, 유상범, 허필홍 국회의원 후보에 정책제안 전달",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852638"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:07:00 +0900",
+                "title": "허필홍 \"진짜 지역일꾼\" vs 유상범 \"힘있는 재선\"",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070315?sid=102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 10:40:00 +0900",
+                "title": "허필홍 후보, TV토론회 홍천 방송안돼 재실시 요구",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850867"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:16:00 +0900",
+                "title": "홍·횡·영·평 허필홍(민) \"20년 이상 지역 전문가, 농촌문제 해결 적임자\"[...",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879764?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "허필홍",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 458785
+            }
+        ],
+        "huboid": "100151544",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2521401-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_홍천군횡성군영월군평창군_허필홍_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5214/003_100151544_20240329_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2521401-2.jpg",
+        "id": "2521401_4-2",
+        "재산": 3551093,
+        "생년월일": "19660604",
+        "경력": "(전)국민의힘 수석대변인\n(현)홍천군횡성군영월군평창군 국회의원",
+        "학력": "서울대학교 법과대학 사법학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1122",
+        "regionId": "2521401",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:02:00 +0900",
+                "title": "3郡 연합번영회, 유상범, 허필홍 국회의원 후보에 정책제안 전달",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1852638"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:07:00 +0900",
+                "title": "허필홍 \"진짜 지역일꾼\" vs 유상범 \"힘있는 재선\"",
+                "link": "https://n.news.naver.com/mnews/article/654/0000070315?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:14:00 +0900",
+                "title": "홍·횡·영·평 유상범(국) \"힘 있는 여당 재선 후보 공약은 현실로\"[영상]",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879761?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:50:00 +0900",
+                "title": "[총선] ‘홍횡영평’, 허필홍·유상범 열띤 토론",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691032?sid=102"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:42:00 +0900",
+                "title": "[총선] 홍횡영평, 허필홍·유상범 ‘날 선 공방’",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690883?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "유상범",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2987703
+            },
+            {
+                "연도": 2021,
+                "재산": 3169855
+            },
+            {
+                "연도": 2022,
+                "재산": 3117796
+            },
+            {
+                "연도": 2023,
+                "재산": 3551093
+            }
+        ],
+        "huboid": "100153005",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2521401-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_홍천군횡성군영월군평창군_유상범_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5214/003_100153005_20240329_1.pdf"
+    }
 ]

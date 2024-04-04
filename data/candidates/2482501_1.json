@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2482501_1-1",
-    "regionId": "2482501_1",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-1.jpg",
-    "기호": 1,
-    "이름": "황기철",
-    "생년월일": "19570315",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "국민대학교 석좌교수",
-    "학력": "한남대학교 대학원 졸업(정치학 박사)",
-    "경력": "(전)해군참모총장\n(전)국가보훈처장",
-    "재산": 2118856,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:48:00 +0900",
-        "title": "창원 진해 황기철, 그라운드 골프장 조성 약속",
-        "link": "https://n.news.naver.com/mnews/article/079/0003881125?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:00:00 +0900",
-        "title": "민주 황기철, 진해 어르신 그라운드 골프장 공약",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=388469"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-        "title": "진해 황기철, 어르신 위한 골프장 조성 공약",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125245"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:22:00 +0900",
-        "title": "진해 황기철 후보 \"진해시민 삶의 질 개선에 일조하겠다\"",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:12:00 +0900",
-        "title": "민주당 황기철 창원진해구 후보, \"그라운드·파크 골프장 추가 조성\" 공약",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959194"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2118856
-      }
-    ],
-    "huboid": "100152051",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482501-1.jpg"
-  },
-  {
-    "id": "2482501_1-2",
-    "regionId": "2482501_1",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-2.jpg",
-    "기호": 2,
-    "이름": "이종욱",
-    "생년월일": "19650315",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "미시간주립대학교 졸업(금융학 석사)(2002.8.~2004.5.)",
-    "경력": "(전)조달청장\n(전)기획재정부 기획조정실장",
-    "재산": 2909970,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:47:00 +0900",
-        "title": "창원 진해 이종욱, \"복지·주거·의료 갖춘 '컴팩트시티' 실현\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0003881124?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:00:00 +0900",
-        "title": "국민의힘 이종욱, 진해 '컴팩트시티' 공약",
-        "link": "http://www.gndomin.com/news/articleView.html?idxno=388468"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:54:00 +0900",
-        "title": "[4.10총선-204] 경남 창원진해, 황기철vs이종욱. 해군 도시",
-        "link": "http://www.mhj21.com/160261"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:24:00 +0900",
-        "title": "이종욱 진해를 교육·복지·주거·의료·산업 ‘컴팩트시티’ 실현",
-        "link": "https://pk.newdaily.co.kr/site/data/html/2024/04/02/2024040200187.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:32:00 +0900",
-        "title": "국힘 이종욱 창원진해구 후보 \"진해, 인구 30만 행복도시로 조성\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959082"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2909970
-      }
-    ],
-    "huboid": "100152902",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482501-2.jpg"
-  }
+    {
+        "id": "2482501_1-1",
+        "regionId": "2482501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-1.jpg",
+        "기호": 1,
+        "이름": "황기철",
+        "생년월일": "19570315",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "국민대학교 석좌교수",
+        "학력": "한남대학교 대학원 졸업(정치학 박사)",
+        "경력": "(전)해군참모총장\n(전)국가보훈처장",
+        "재산": 2118856,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:48:00 +0900",
+                "title": "창원 진해 황기철, 그라운드 골프장 조성 약속",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881125?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "민주 황기철, 진해 어르신 그라운드 골프장 공약",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388469"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+                "title": "진해 황기철, 어르신 위한 골프장 조성 공약",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125245"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:22:00 +0900",
+                "title": "진해 황기철 후보 \"진해시민 삶의 질 개선에 일조하겠다\"",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:12:00 +0900",
+                "title": "민주당 황기철 창원진해구 후보, \"그라운드·파크 골프장 추가 조성\" 공약",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959194"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2118856
+            }
+        ],
+        "huboid": "100152051",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482501-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_창원시진해구_황기철_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4825/003_100152051_20240325_1.pdf"
+    },
+    {
+        "id": "2482501_1-2",
+        "regionId": "2482501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482501-2.jpg",
+        "기호": 2,
+        "이름": "이종욱",
+        "생년월일": "19650315",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "미시간주립대학교 졸업(금융학 석사)(2002.8.~2004.5.)",
+        "경력": "(전)조달청장\n(전)기획재정부 기획조정실장",
+        "재산": 2909970,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 23:47:00 +0900",
+                "title": "창원 진해 이종욱, \"복지·주거·의료 갖춘 '컴팩트시티' 실현\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003881124?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:00:00 +0900",
+                "title": "국민의힘 이종욱, 진해 '컴팩트시티' 공약",
+                "link": "http://www.gndomin.com/news/articleView.html?idxno=388468"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "[4.10총선-204] 경남 창원진해, 황기철vs이종욱. 해군 도시",
+                "link": "http://www.mhj21.com/160261"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:24:00 +0900",
+                "title": "이종욱 진해를 교육·복지·주거·의료·산업 ‘컴팩트시티’ 실현",
+                "link": "https://pk.newdaily.co.kr/site/data/html/2024/04/02/2024040200187.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:32:00 +0900",
+                "title": "국힘 이종욱 창원진해구 후보 \"진해, 인구 30만 행복도시로 조성\"",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959082"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2909970
+            }
+        ],
+        "huboid": "100152902",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482501-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_창원시진해구_이종욱_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4825/003_100152902_20240325_1.pdf"
+    }
 ]

@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2461801_2-1",
-    "regionId": "2461801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-1.jpg",
-    "기호": 1,
-    "이름": "박지원",
-    "생년월일": "19420605",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "단국대학교 상학과 졸업",
-    "경력": "(전) 국가정보원 원장\n(전) 김대중 대통령비서실장",
-    "재산": 2933069,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:08:00 +0900",
-        "title": "[22대 총선 D-7] 박지원·유승민 출격… 지원사격 나선 중앙당",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645168"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:52:00 +0900",
-        "title": "동작갑 지원유세 나선 박지원 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816401?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:51:00 +0900",
-        "title": "악수하는 김병기 후보와 박지원 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816399?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:51:00 +0900",
-        "title": "박지원 후보, 김병기 더불어민주당 동작갑 후보 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816400?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:14:00 +0900",
-        "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2933069
-      }
-    ],
-    "huboid": "100151208",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2461801-1.jpg"
-  },
-  {
-    "id": "2461801_2-2",
-    "regionId": "2461801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-2.jpg",
-    "기호": 2,
-    "이름": "곽봉근",
-    "생년월일": "19450101",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "목포과학대학교 케어복지과 졸업",
-    "경력": "(전) 윤석열 대통령후보 직능본부 부본부장\n(현) 국민의힘 국책자문위원회 고문",
-    "재산": 10000,
-    "군필여부": true,
-    "전과건수": 4,
-    "news": [
-      {
-        "date": "Fri, 29 Mar 2024 16:54:00 +0900",
-        "title": "[나는후보자다]전남 해남완도진도 박지원·곽봉근 후보 공약은?",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461487"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 17:26:00 +0900",
-        "title": "[선거레이더] '해완진' 박지원·곽봉근 맞대결…표심은?",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=459877"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 13:02:00 +0900",
-        "title": "전남 민주당 현역 50% 물갈이...여야 본격 레이스",
-        "link": "https://www.ajunews.com/view/20240318123844313"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 11:31:00 +0900",
-        "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
-        "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 09:36:00 +0900",
-        "title": "국민의힘 '254개 지역구 공천 완료'...현역 교체 35%·나이 57.57세",
-        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317905"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 10000
-      }
-    ],
-    "huboid": "100151644",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2461801-2.jpg"
-  }
+    {
+        "id": "2461801_2-1",
+        "regionId": "2461801",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-1.jpg",
+        "기호": 1,
+        "이름": "박지원",
+        "생년월일": "19420605",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "단국대학교 상학과 졸업",
+        "경력": "(전) 국가정보원 원장\n(전) 김대중 대통령비서실장",
+        "재산": 2933069,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:08:00 +0900",
+                "title": "[22대 총선 D-7] 박지원·유승민 출격… 지원사격 나선 중앙당",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645168"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:52:00 +0900",
+                "title": "동작갑 지원유세 나선 박지원 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816401?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:51:00 +0900",
+                "title": "악수하는 김병기 후보와 박지원 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816399?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:51:00 +0900",
+                "title": "박지원 후보, 김병기 더불어민주당 동작갑 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816400?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:14:00 +0900",
+                "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2933069
+            }
+        ],
+        "huboid": "100151208",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2461801-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_해남군완도군진도군_박지원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4618/003_100151208_20240327_1.pdf"
+    },
+    {
+        "id": "2461801_2-2",
+        "regionId": "2461801",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2461801-2.jpg",
+        "기호": 2,
+        "이름": "곽봉근",
+        "생년월일": "19450101",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "목포과학대학교 케어복지과 졸업",
+        "경력": "(전) 윤석열 대통령후보 직능본부 부본부장\n(현) 국민의힘 국책자문위원회 고문",
+        "재산": 10000,
+        "군필여부": true,
+        "전과건수": 4,
+        "news": [
+            {
+                "date": "Fri, 29 Mar 2024 16:54:00 +0900",
+                "title": "[나는후보자다]전남 해남완도진도 박지원·곽봉근 후보 공약은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461487"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 17:26:00 +0900",
+                "title": "[선거레이더] '해완진' 박지원·곽봉근 맞대결…표심은?",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=459877"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:02:00 +0900",
+                "title": "전남 민주당 현역 50% 물갈이...여야 본격 레이스",
+                "link": "https://www.ajunews.com/view/20240318123844313"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:31:00 +0900",
+                "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 09:36:00 +0900",
+                "title": "국민의힘 '254개 지역구 공천 완료'...현역 교체 35%·나이 57.57세",
+                "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=317905"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 10000
+            }
+        ],
+        "huboid": "100151644",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2461801-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_해남군완도군진도군_곽봉근_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4618/003_100151644_20240327_1.pdf"
+    }
 ]

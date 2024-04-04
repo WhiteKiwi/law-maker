@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431002-1.jpg",
-    "id": "2431002_3-1",
-    "재산": 2890911,
-    "생년월일": "19640927",
-    "경력": "(전) 경찰청 본청 차장\n(현) 제21대 국회의원",
-    "학력": "경찰대학 행정학과 졸업(행정학사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1126",
-    "regionId": "2431002_3",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 22:28:00 +0900",
-        "title": "한국노총, 반노동 정부 심판 임호선 후보 지지선언",
-        "link": "http://www.breaknews.com/1024740"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:54:00 +0900",
-        "title": "총선/한국노총과 노총 충북지역본부, 民 임호선 후보 지지 선언",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746524"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:54:00 +0900",
-        "title": "한국노총, 민주당 임호선(중부3군) 후보 지지",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746496"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:05:00 +0900",
-        "title": "[충북 증평진천음성] 더불어민주당 임호선 43%, 국민의힘 경대수 33%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428634?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:58:00 +0900",
-        "title": "한국노총 \"노동자 삶 대변한 임호선 후보 지지\"",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431178"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "임호선",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2704826
-      },
-      {
-        "연도": 2021,
-        "재산": 2607225
-      },
-      {
-        "연도": 2022,
-        "재산": 2747716
-      },
-      {
-        "연도": 2023,
-        "재산": 2890911
-      }
-    ],
-    "huboid": "100152665",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431002-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431002-2.jpg",
-    "id": "2431002_3-2",
-    "재산": 1420379,
-    "생년월일": "19580318",
-    "경력": "(전)제19, 20대 국회의원\n(전)대검찰청 마약·조직범죄부장(검사장)",
-    "학력": "서울대학교 법과대학 법학과 졸업",
-    "직업": "변호사",
-    "성별": "남",
-    "regionId": "2431002_3",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:43:00 +0900",
-        "title": "[여론조사] '증평·진천·음성' 민주당 임호선 43% vs 국민의힘 경대수 33%",
-        "link": "https://www.newspim.com/news/view/20240402001021"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:05:00 +0900",
-        "title": "[충북 증평진천음성] 더불어민주당 임호선 43%, 국민의힘 경대수 33%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428634?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:06:00 +0900",
-        "title": "음성장날 민주당 임호선·국민의 힘 경대수 후보 유세",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431182"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "한동훈 혁신도시 방문 … 경대수 지원",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792482"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 23:04:00 +0900",
-        "title": "경대수 후보, 중부3군과 혁신도시 공약 발표",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265551"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "경대수",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1420379
-      }
-    ],
-    "huboid": "100152353",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431002-2.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431002-1.jpg",
+        "id": "2431002_3-1",
+        "재산": 2890911,
+        "생년월일": "19640927",
+        "경력": "(전) 경찰청 본청 차장\n(현) 제21대 국회의원",
+        "학력": "경찰대학 행정학과 졸업(행정학사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1126",
+        "regionId": "2431002",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 22:28:00 +0900",
+                "title": "한국노총, 반노동 정부 심판 임호선 후보 지지선언",
+                "link": "http://www.breaknews.com/1024740"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:54:00 +0900",
+                "title": "총선/한국노총과 노총 충북지역본부, 民 임호선 후보 지지 선언",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746524"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:54:00 +0900",
+                "title": "한국노총, 민주당 임호선(중부3군) 후보 지지",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746496"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:05:00 +0900",
+                "title": "[충북 증평진천음성] 더불어민주당 임호선 43%, 국민의힘 경대수 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:58:00 +0900",
+                "title": "한국노총 \"노동자 삶 대변한 임호선 후보 지지\"",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431178"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "임호선",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2704826
+            },
+            {
+                "연도": 2021,
+                "재산": 2607225
+            },
+            {
+                "연도": 2022,
+                "재산": 2747716
+            },
+            {
+                "연도": 2023,
+                "재산": 2890911
+            }
+        ],
+        "huboid": "100152665",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431002-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_증평군진천군음성군_임호선_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4310/003_100152665_20240328_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431002-2.jpg",
+        "id": "2431002_3-2",
+        "재산": 1420379,
+        "생년월일": "19580318",
+        "경력": "(전)제19, 20대 국회의원\n(전)대검찰청 마약·조직범죄부장(검사장)",
+        "학력": "서울대학교 법과대학 법학과 졸업",
+        "직업": "변호사",
+        "성별": "남",
+        "regionId": "2431002",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:43:00 +0900",
+                "title": "[여론조사] '증평·진천·음성' 민주당 임호선 43% vs 국민의힘 경대수 33%",
+                "link": "https://www.newspim.com/news/view/20240402001021"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 20:05:00 +0900",
+                "title": "[충북 증평진천음성] 더불어민주당 임호선 43%, 국민의힘 경대수 33%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428634?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "음성장날 민주당 임호선·국민의 힘 경대수 후보 유세",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431182"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "한동훈 혁신도시 방문 … 경대수 지원",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792482"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 23:04:00 +0900",
+                "title": "경대수 후보, 중부3군과 혁신도시 공약 발표",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2265551"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "경대수",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1420379
+            }
+        ],
+        "huboid": "100152353",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431002-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_증평군진천군음성군_경대수_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4310/003_100152353_20240328_1.pdf"
+    }
 ]
