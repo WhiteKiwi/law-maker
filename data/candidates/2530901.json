@@ -1,168 +1,171 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-1.jpg",
-    "id": "2530901-1",
-    "재산": 1259130,
-    "생년월일": "19700125",
-    "경력": "(전)전라북도 정무부지사\n(현)제21대 국회의원",
-    "학력": "전북대학교 화학공업공학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1132",
-    "regionId": "2530901",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:36:00 +0900",
-        "title": "이원택 후보 노동 사회분야 7대 핵심 입법 과제 협약(사진)",
-        "link": "http://sjbnews.com/news/news.php?number=811659"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:27:00 +0900",
-        "title": "이원택 후보, 노동이 만드는 정의 사회구현 위한 정책협약 체결",
-        "link": "https://n.news.naver.com/mnews/article/003/0012466382?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:28:00 +0900",
-        "title": "이원택 후보, 노동이 만드는 지속가능한 정의 사회구현을 위해 업무협약 맺어",
-        "link": "https://www.ibuan.com/news/articleView.html?idxno=51267"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:46:00 +0900",
-        "title": "이원택 후보, 김제·부안·군산 출정식서\"대한민국을 바로 세우겠다\"",
-        "link": "https://www.ibuan.com/news/articleView.html?idxno=51224"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:40:00 +0900",
-        "title": "이원택 의원, 출향 전북인들에게 민주당 후보 지지 호소",
-        "link": "https://www.ibuan.com/news/articleView.html?idxno=51215"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이원택",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 765151
-      },
-      {
-        "연도": 2021,
-        "재산": 772732
-      },
-      {
-        "연도": 2022,
-        "재산": 782437
-      },
-      {
-        "연도": 2023,
-        "재산": 1259130
-      }
-    ],
-    "huboid": "100152198",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-1.jpg"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-2.jpg",
-    "id": "2530901-2",
-    "재산": 3695360,
-    "생년월일": "19540322",
-    "경력": "(현)국민의힘 서울시당 홍보위원장\n(현)국민의힘 전국광역의원협의회 공동대표",
-    "학력": "수원대학교 체육학 학사",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2530901",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 26 Mar 2024 09:39:00 +0900",
-        "title": "[전북 군산김제부안을] 더불어민주당 이원택 80%, 국민의힘 최홍우 7%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427398?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:32:00 +0900",
-        "title": "(군산김제부안을)이원택 80%, 최홍우 7%, 김종훈 3%",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181939"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 20:02:00 +0900",
-        "title": "민주 이원택 '80%'·국힘 최홍우 '7%'·무소속 김종훈 '3%'",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725482"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 17:26:00 +0900",
-        "title": "한동훈, 호남 성적표 올리기 직접 나서",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965958"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 18:16:00 +0900",
-        "title": "한동훈 \"대한민국을 후진시키려는 세력들 총선에서 막아야\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002323687?sid=102"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "최홍우",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3695360
-      }
-    ],
-    "huboid": "100153130",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-2.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-7.jpg",
-    "id": "2530901-7",
-    "재산": 167032,
-    "생년월일": "19601110",
-    "경력": "(전)한국노동조합총연맹 부위원장\n(전)대한적십자사봉사회 부안지구협의회 귀농귀촌단위봉사회 회장",
-    "학력": "전북과학대학교(조경전공) 졸업",
-    "직업": "무직",
-    "성별": "남",
-    "regionId": "2530901",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 25 Mar 2024 21:32:00 +0900",
-        "title": "(군산김제부안을)이원택 80%, 최홍우 7%, 김종훈 3%",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181939"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 20:02:00 +0900",
-        "title": "민주 이원택 '80%'·국힘 최홍우 '7%'·무소속 김종훈 '3%'",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725482"
-      },
-      {
-        "date": "Mon, 08 Jan 2024 20:46:00 +0900",
-        "title": "국힘 6석 민주 3석 진보세력 1곳...울산 총선 목표 달성 어느 진영이 이룰까",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=519622"
-      },
-      {
-        "date": "Thu, 04 Jan 2024 20:54:00 +0900",
-        "title": "조선업 노동자 표심은?..동구 후보군",
-        "link": "http://web.ubc.co.kr/wp/archives/111855"
-      },
-      {
-        "date": "Thu, 04 Jan 2024 19:08:00 +0900",
-        "title": "[닻 올린 4·10 총선] 3. 민주당 후보들 난립, 공천=당선 셈법 여전",
-        "link": "https://www.jjan.kr/article/20240104580320"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "김종훈",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 167032
-      }
-    ],
-    "huboid": "100151694",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-7.jpg"
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-1.jpg",
+        "id": "2530901-1",
+        "재산": 1259130,
+        "생년월일": "19700125",
+        "경력": "(전)전라북도 정무부지사\n(현)제21대 국회의원",
+        "학력": "전북대학교 화학공업공학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1132",
+        "regionId": "2530901",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:36:00 +0900",
+                "title": "이원택 후보 노동 사회분야 7대 핵심 입법 과제 협약(사진)",
+                "link": "http://sjbnews.com/news/news.php?number=811659"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:27:00 +0900",
+                "title": "이원택 후보, 노동이 만드는 정의 사회구현 위한 정책협약 체결",
+                "link": "https://n.news.naver.com/mnews/article/003/0012466382?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:28:00 +0900",
+                "title": "이원택 후보, 노동이 만드는 지속가능한 정의 사회구현을 위해 업무협약 맺어",
+                "link": "https://www.ibuan.com/news/articleView.html?idxno=51267"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:46:00 +0900",
+                "title": "이원택 후보, 김제·부안·군산 출정식서\"대한민국을 바로 세우겠다\"",
+                "link": "https://www.ibuan.com/news/articleView.html?idxno=51224"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:40:00 +0900",
+                "title": "이원택 의원, 출향 전북인들에게 민주당 후보 지지 호소",
+                "link": "https://www.ibuan.com/news/articleView.html?idxno=51215"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이원택",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 765151
+            },
+            {
+                "연도": 2021,
+                "재산": 772732
+            },
+            {
+                "연도": 2022,
+                "재산": 782437
+            },
+            {
+                "연도": 2023,
+                "재산": 1259130
+            }
+        ],
+        "huboid": "100152198",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_군산시김제시부안군을_이원택_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5309/003_100152198_20240330_1.pdf"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-2.jpg",
+        "id": "2530901-2",
+        "재산": 3695360,
+        "생년월일": "19540322",
+        "경력": "(현)국민의힘 서울시당 홍보위원장\n(현)국민의힘 전국광역의원협의회 공동대표",
+        "학력": "수원대학교 체육학 학사",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2530901",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 26 Mar 2024 09:39:00 +0900",
+                "title": "[전북 군산김제부안을] 더불어민주당 이원택 80%, 국민의힘 최홍우 7%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427398?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "(군산김제부안을)이원택 80%, 최홍우 7%, 김종훈 3%",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181939"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "민주 이원택 '80%'·국힘 최홍우 '7%'·무소속 김종훈 '3%'",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725482"
+            },
+            {
+                "date": "Sun, 17 Mar 2024 17:26:00 +0900",
+                "title": "한동훈, 호남 성적표 올리기 직접 나서",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965958"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 18:16:00 +0900",
+                "title": "한동훈 \"대한민국을 후진시키려는 세력들 총선에서 막아야\"",
+                "link": "https://n.news.naver.com/mnews/article/002/0002323687?sid=102"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "최홍우",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3695360
+            }
+        ],
+        "huboid": "100153130",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_군산시김제시부안군을_최홍우_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5309/003_100153130_20240330_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530901-7.jpg",
+        "id": "2530901-7",
+        "재산": 167032,
+        "생년월일": "19601110",
+        "경력": "(전)한국노동조합총연맹 부위원장\n(전)대한적십자사봉사회 부안지구협의회 귀농귀촌단위봉사회 회장",
+        "학력": "전북과학대학교(조경전공) 졸업",
+        "직업": "무직",
+        "성별": "남",
+        "regionId": "2530901",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 25 Mar 2024 21:32:00 +0900",
+                "title": "(군산김제부안을)이원택 80%, 최홍우 7%, 김종훈 3%",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181939"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+                "title": "민주 이원택 '80%'·국힘 최홍우 '7%'·무소속 김종훈 '3%'",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725482"
+            },
+            {
+                "date": "Mon, 08 Jan 2024 20:46:00 +0900",
+                "title": "국힘 6석 민주 3석 진보세력 1곳...울산 총선 목표 달성 어느 진영이 이룰까",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=519622"
+            },
+            {
+                "date": "Thu, 04 Jan 2024 20:54:00 +0900",
+                "title": "조선업 노동자 표심은?..동구 후보군",
+                "link": "http://web.ubc.co.kr/wp/archives/111855"
+            },
+            {
+                "date": "Thu, 04 Jan 2024 19:08:00 +0900",
+                "title": "[닻 올린 4·10 총선] 3. 민주당 후보들 난립, 공천=당선 셈법 여전",
+                "link": "https://www.jjan.kr/article/20240104580320"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "김종훈",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 167032
+            }
+        ],
+        "huboid": "100151694",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530901-7.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_군산시김제시부안군을_김종훈_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/5309/003_100151694_20240330_1.pdf"
+    }
 ]

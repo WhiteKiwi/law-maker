@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-1.jpg",
-    "id": "2414002-1",
-    "재산": 2464744,
-    "생년월일": "19540603",
-    "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
-    "학력": "성균관대학교 철학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "997",
-    "regionId": "2414002",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:38:00 +0900",
-        "title": "소병훈 민주 광주갑 후보 \"경강선 증차하고 배차간격 줄이겠다\" 공약 발표",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:46:00 +0900",
-        "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 03:58:00 +0900",
-        "title": "소병훈‧안태준 ‘경기 광주’ 후보, 출정식…“광주의 발전‧미래 위해 총선...",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240331000348266"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 11:02:00 +0900",
-        "title": "민주당 광주갑 소병훈·광주을 안태준 후보 경안시장서 합동 출정식",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080870"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:38:00 +0900",
-        "title": "'경기 광주' 소병훈‧안태준, 출정식… \"초짜 아닌 실력 있고 검증된 일꾼\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325497?sid=102"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "소병훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2903756
-      },
-      {
-        "연도": 2021,
-        "재산": 3553330
-      },
-      {
-        "연도": 2022,
-        "재산": 3706520
-      },
-      {
-        "연도": 2023,
-        "재산": 2464744
-      }
-    ],
-    "huboid": "100152135",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414002-1.jpg"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
-    "id": "2414002-2",
-    "재산": 1505844,
-    "생년월일": "19740819",
-    "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
-    "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2414002",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 19:14:00 +0900",
-        "title": "함경우 국힘 광주갑 후보 \"복지 관련 종사자 처우 개선할 것\"",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:26:00 +0900",
-        "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:26:00 +0900",
-        "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:26:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 함경우, \"복지 관련 종사자 처우 개선할 것\"",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242436"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:32:00 +0900",
-        "title": "한동훈 비대위원장, 광주 찾아 황명주·함경우 후보 지원사격",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401023453529"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "함경우",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1505844
-      }
-    ],
-    "huboid": "100151367",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414002-2.jpg"
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-1.jpg",
+        "id": "2414002-1",
+        "재산": 2464744,
+        "생년월일": "19540603",
+        "경력": "(현)제20대·21대 국회의원\n(현)국회 농림축산식품해양수산위원회 위원장",
+        "학력": "성균관대학교 철학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "997",
+        "regionId": "2414002",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 19:38:00 +0900",
+                "title": "소병훈 민주 광주갑 후보 \"경강선 증차하고 배차간격 줄이겠다\" 공약 발표",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644834"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 03:58:00 +0900",
+                "title": "소병훈‧안태준 ‘경기 광주’ 후보, 출정식…“광주의 발전‧미래 위해 총선...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331000348266"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 11:02:00 +0900",
+                "title": "민주당 광주갑 소병훈·광주을 안태준 후보 경안시장서 합동 출정식",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080870"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:38:00 +0900",
+                "title": "'경기 광주' 소병훈‧안태준, 출정식… \"초짜 아닌 실력 있고 검증된 일꾼\"",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325497?sid=102"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "소병훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2903756
+            },
+            {
+                "연도": 2021,
+                "재산": 3553330
+            },
+            {
+                "연도": 2022,
+                "재산": 3706520
+            },
+            {
+                "연도": 2023,
+                "재산": 2464744
+            }
+        ],
+        "huboid": "100152135",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414002-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_광주시갑_소병훈_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4140/003_100152135_20240326_1.pdf"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
+        "id": "2414002-2",
+        "재산": 1505844,
+        "생년월일": "19740819",
+        "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
+        "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2414002",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 19:14:00 +0900",
+                "title": "함경우 국힘 광주갑 후보 \"복지 관련 종사자 처우 개선할 것\"",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644670"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:26:00 +0900",
+                "title": "함경우 광주갑 후보, 복지 종사자 처우 개선 공약 발표",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081216"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:26:00 +0900",
+                "title": "함경우 국민의힘 광주시갑 후보, 복지관련 종사자 처우 개선 공약 발표",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023163814"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:26:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 함경우, \"복지 관련 종사자 처우 개선할 것\"",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242436"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:32:00 +0900",
+                "title": "한동훈 비대위원장, 광주 찾아 황명주·함경우 후보 지원사격",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023453529"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "함경우",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1505844
+            }
+        ],
+        "huboid": "100151367",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414002-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_광주시갑_함경우_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4140/003_100151367_20240329_1.pdf"
+    }
 ]
