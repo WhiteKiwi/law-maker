@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2112002-1",
-    "regionId": "2112002",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-1.jpg",
-    "기호": 1,
-    "이름": "류삼영",
-    "생년월일": "19641009",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "동아대학교 대학원 법학박사",
-    "경력": "(전)부산경찰청 반부패 경제범죄 수사대장\n(현)더불어민주당 국민안전살리기 본부장",
-    "재산": 1745393,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:09:00 +0900",
-        "title": "이재명 \"尹심판 생각 강해져\"…동작 찾아 \"류삼영 평택 공천하려 했다\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453835?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:24:00 +0900",
-        "title": "류삼영 후보 지원 유세하는 이재명 대표",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454042?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:23:00 +0900",
-        "title": "류삼영 후보 지원 유세하는 이재명 대표",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454041?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:20:00 +0900",
-        "title": "류삼영 후보 지원 유세하는 이재명 대표",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454030?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:19:00 +0900",
-        "title": "재판 마친 이재명 대표, 류삼영 후보 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454028?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1745393
-      }
-    ],
-    "huboid": "100152944",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112002-1.jpg"
-  },
-  {
-    "id": "2112002-2",
-    "regionId": "2112002",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-2.jpg",
-    "기호": 2,
-    "이름": "나경원",
-    "생년월일": "19631206",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "서울대학교 대학원 법학과 박사과정 수료",
-    "경력": "(전)4선 국회의원(제17,18,19,20대)\n(전)자유한국당 원내대표",
-    "재산": 5831584,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:26:00 +0900",
-        "title": "또 동작을 찾은 이재명 “‘나베’ 별명일 정도로”… 나경원 “쓰러지지 않아...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920639?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:25:00 +0900",
-        "title": "옆동네 나경원의 '저출산 해법'이 왜 나와? [동작갑 TV토론]",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816433?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:15:00 +0900",
-        "title": "이재명, 동작을 6번 방문…나경원 \"민주·조국당이 짓밟아도 안쓰러져\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816431?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 00:08:00 +0900",
-        "title": "나경원 \"민주·조국혁신당, 나경원 죽이기 거세져\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002018256?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:53:00 +0900",
-        "title": "‘나베 심판’ 발언 들은 나경원 “민주·조국당, 나경원 죽이기 거세져… 쓰...",
-        "link": "https://n.news.naver.com/mnews/article/366/0000982789?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 5831584
-      }
-    ],
-    "huboid": "100152037",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112002-2.jpg"
-  }
+    {
+        "id": "2112002-1",
+        "regionId": "2112002",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-1.jpg",
+        "기호": 1,
+        "이름": "류삼영",
+        "생년월일": "19641009",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "동아대학교 대학원 법학박사",
+        "경력": "(전)부산경찰청 반부패 경제범죄 수사대장\n(현)더불어민주당 국민안전살리기 본부장",
+        "재산": 1745393,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 21:09:00 +0900",
+                "title": "이재명 \"尹심판 생각 강해져\"…동작 찾아 \"류삼영 평택 공천하려 했다\"",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453835?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:24:00 +0900",
+                "title": "류삼영 후보 지원 유세하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454042?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:23:00 +0900",
+                "title": "류삼영 후보 지원 유세하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454041?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:20:00 +0900",
+                "title": "류삼영 후보 지원 유세하는 이재명 대표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454030?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:19:00 +0900",
+                "title": "재판 마친 이재명 대표, 류삼영 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454028?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1745393
+            }
+        ],
+        "huboid": "100152944",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112002-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동작구을_류삼영_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1120/003_100152944_20240330_1.pdf"
+    },
+    {
+        "id": "2112002-2",
+        "regionId": "2112002",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112002-2.jpg",
+        "기호": 2,
+        "이름": "나경원",
+        "생년월일": "19631206",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "서울대학교 대학원 법학과 박사과정 수료",
+        "경력": "(전)4선 국회의원(제17,18,19,20대)\n(전)자유한국당 원내대표",
+        "재산": 5831584,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:26:00 +0900",
+                "title": "또 동작을 찾은 이재명 “‘나베’ 별명일 정도로”… 나경원 “쓰러지지 않아...",
+                "link": "https://n.news.naver.com/mnews/article/022/0003920639?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:25:00 +0900",
+                "title": "옆동네 나경원의 '저출산 해법'이 왜 나와? [동작갑 TV토론]",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816433?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:15:00 +0900",
+                "title": "이재명, 동작을 6번 방문…나경원 \"민주·조국당이 짓밟아도 안쓰러져\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816431?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:08:00 +0900",
+                "title": "나경원 \"민주·조국혁신당, 나경원 죽이기 거세져\"",
+                "link": "https://n.news.naver.com/mnews/article/052/0002018256?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 23:53:00 +0900",
+                "title": "‘나베 심판’ 발언 들은 나경원 “민주·조국당, 나경원 죽이기 거세져… 쓰...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000982789?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 5831584
+            }
+        ],
+        "huboid": "100152037",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112002-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동작구을_나경원_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1120/003_100152037_20240330_1.pdf"
+    }
 ]

@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2414003-1",
-    "regionId": "2414003",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414003-1.jpg",
-    "기호": 1,
-    "이름": "안태준",
-    "생년월일": "19691203",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "고려대학교 불어불문학과 졸업",
-    "경력": "(전)GH경기주택도시공사 사장 직무대행\n(현)더불어민주당 대변인",
-    "재산": 606932,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 15:53:00 +0900",
-        "title": "안태준 후보 선거운동원, '플로깅' 선거운동 눈길",
-        "link": "https://n.news.naver.com/mnews/article/002/0002326077?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:00:00 +0900",
-        "title": "민주당 광주을 안태준 후보 선거사무소 ‘플로깅’ 친환경 선거운동 눈길",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402024494042"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:46:00 +0900",
-        "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:27:00 +0900",
-        "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
-        "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 03:58:00 +0900",
-        "title": "소병훈‧안태준 ‘경기 광주’ 후보, 출정식…“광주의 발전‧미래 위해 총선...",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240331000348266"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 606932
-      }
-    ],
-    "huboid": "100151654",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414003-1.jpg"
-  },
-  {
-    "id": "2414003-2",
-    "regionId": "2414003",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414003-2.jpg",
-    "기호": 2,
-    "이름": "황명주",
-    "생년월일": "19720522",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "단국대학교 대학원 행정학과 졸업(행정학박사)",
-    "경력": "(현)국민의힘 광주시(을) 조직위원장\n(현)국민의힘 여의도 연구원 정책자문위원",
-    "재산": 751837,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 15:43:00 +0900",
-        "title": "황명주 후보 \"오포 1‧2동, 광주시 대변화의 중심 될 것\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002326074?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:24:00 +0900",
-        "title": "[유세장 직격인터뷰] 서영석·이혜숙·김주영·이원옥·김용만·황명주·전용...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:14:00 +0900",
-        "title": "[총선 동서남북] 광주을 황명주 후보 유세중 무갑리 산불현장 찾아",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644912"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:02:00 +0900",
-        "title": "[4·10=한다면 한다] 국힘 황명주, \"오포 1·2동 광주 대변화의 중심이 될 것...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242650"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:32:00 +0900",
-        "title": "한동훈 비대위원장, 광주 찾아 황명주·함경우 후보 지원사격",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240401023453529"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 751837
-      }
-    ],
-    "huboid": "100151537",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414003-2.jpg"
-  }
+    {
+        "id": "2414003-1",
+        "regionId": "2414003",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414003-1.jpg",
+        "기호": 1,
+        "이름": "안태준",
+        "생년월일": "19691203",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "고려대학교 불어불문학과 졸업",
+        "경력": "(전)GH경기주택도시공사 사장 직무대행\n(현)더불어민주당 대변인",
+        "재산": 606932,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:53:00 +0900",
+                "title": "안태준 후보 선거운동원, '플로깅' 선거운동 눈길",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326077?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:00:00 +0900",
+                "title": "민주당 광주을 안태준 후보 선거사무소 ‘플로깅’ 친환경 선거운동 눈길",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240402024494042"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:46:00 +0900",
+                "title": "김부겸 민주당 상임선대위원장, 광주서 안태준·소병훈 후보 지원유세",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401020423551"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:27:00 +0900",
+                "title": "경기광주 찾은 김부겸, 안태준 민주당 후보 지원 나서",
+                "link": "https://n.news.naver.com/mnews/article/003/0012461854?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 03:58:00 +0900",
+                "title": "소병훈‧안태준 ‘경기 광주’ 후보, 출정식…“광주의 발전‧미래 위해 총선...",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240331000348266"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 606932
+            }
+        ],
+        "huboid": "100151654",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414003-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_광주시을_안태준_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4140/003_100151654_20240328_2.pdf"
+    },
+    {
+        "id": "2414003-2",
+        "regionId": "2414003",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414003-2.jpg",
+        "기호": 2,
+        "이름": "황명주",
+        "생년월일": "19720522",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "단국대학교 대학원 행정학과 졸업(행정학박사)",
+        "경력": "(현)국민의힘 광주시(을) 조직위원장\n(현)국민의힘 여의도 연구원 정책자문위원",
+        "재산": 751837,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:43:00 +0900",
+                "title": "황명주 후보 \"오포 1‧2동, 광주시 대변화의 중심 될 것\"",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326074?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:24:00 +0900",
+                "title": "[유세장 직격인터뷰] 서영석·이혜숙·김주영·이원옥·김용만·황명주·전용...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644918"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:14:00 +0900",
+                "title": "[총선 동서남북] 광주을 황명주 후보 유세중 무갑리 산불현장 찾아",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644912"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:02:00 +0900",
+                "title": "[4·10=한다면 한다] 국힘 황명주, \"오포 1·2동 광주 대변화의 중심이 될 것...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242650"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:32:00 +0900",
+                "title": "한동훈 비대위원장, 광주 찾아 황명주·함경우 후보 지원사격",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240401023453529"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 751837
+            }
+        ],
+        "huboid": "100151537",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414003-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_광주시을_황명주_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4140/003_100151537_20240329_1.pdf"
+    }
 ]
