@@ -41,6 +41,14 @@ export type LawMaker = {
   }[];
 
   워드클라우드: { 단어: string; count: string }[];
+  대표법안목록: {
+    // yyyy-MM-dd
+    제안일: string;
+    의안명: string;
+    발의자: string;
+    상임위원회: string;
+    진행상황: string;
+  }[];
 };
 
 /**
@@ -97,6 +105,15 @@ export const LawMaker: z.Schema<LawMaker> = z.object({
     z.object({
       단어: z.string(),
       count: z.string(),
+    })
+  ),
+  대표법안목록: z.array(
+    z.object({
+      제안일: z.string(),
+      의안명: z.string(),
+      발의자: z.string(),
+      상임위원회: z.string(),
+      진행상황: z.string(),
     })
   ),
 });

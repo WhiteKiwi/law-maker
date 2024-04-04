@@ -24,8 +24,7 @@ export type LawMakerCadidate = {
   군필여부: boolean;
   전과건수: number;
   전과ImgUrl: string;
-  // TODO: 다넣고 떼기
-  공보PdfUrl?: string;
+  공보PdfUrl: string;
 };
 
 /**
@@ -55,5 +54,5 @@ export const LawMakerCadidate: z.Schema<LawMakerCadidate> = z.object({
   군필여부: z.boolean(),
   전과건수: z.number(),
   전과ImgUrl: z.string(),
-  공보PdfUrl: z.string().optional(),
+  공보PdfUrl: z.string(),
 });

@@ -44,4 +44,11 @@ exports.LawMaker = zod_1.z.object({
         단어: zod_1.z.string(),
         count: zod_1.z.string(),
     })),
+    대표법안목록: zod_1.z.array(zod_1.z.object({
+        제안일: zod_1.z.string(),
+        의안명: zod_1.z.string(),
+        발의자: zod_1.z.string(),
+        상임위원회: zod_1.z.string(),
+        진행상황: zod_1.z.string(),
+    })),
 });
