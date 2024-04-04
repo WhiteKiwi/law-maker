@@ -1,155 +1,158 @@
 [
-  {
-    "id": "2470702-1",
-    "regionId": "2470702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-1.jpg",
-    "기호": 1,
-    "이름": "김현권",
-    "생년월일": "19640517",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 천문학과 졸업",
-    "경력": "(전)제20대 국회의원(비례대표)\n(현)더불어민주당 구미시을지역위원장",
-    "재산": 1020850,
-    "군필여부": false,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:12:00 +0900",
-        "title": "구미을 선거구 집중유세 현장…민주당 김부겸 위원장, 김현권 후보 지원",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005313"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:40:00 +0900",
-        "title": "[포토] 공동선언식 참석한 구미갑을 김현권·김철호 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200337.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:40:00 +0900",
-        "title": "\"일잘하는 김현권 뽑아주십시요\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453863?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:40:00 +0900",
-        "title": "[포토] 인사하는 김현권 구미을 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200334.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:37:00 +0900",
-        "title": "\"김현권 최고\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453858?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1020850
-      }
-    ],
-    "huboid": "100151791",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-1.jpg"
-  },
-  {
-    "id": "2470702-2",
-    "regionId": "2470702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-2.jpg",
-    "기호": 2,
-    "이름": "강명구",
-    "생년월일": "19770607",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "맨체스터대학교 정치학-행정과 공공정책 석사(2008.09~2009.11)",
-    "경력": "(전)대통령비서실 국정기획비서관\n(전)대통령비서실 선임행정관",
-    "재산": 364387,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:02:00 +0900",
-        "title": "국힘 구미을 강명구 \"민주, 대통령 탄핵하고 싶어 안달 난 정당\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454007?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:55:00 +0900",
-        "title": "\"집권 여당 후보 강명구 뽑아주십시요\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453895?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:55:00 +0900",
-        "title": "\"강명구 한번 밀어 주십시요\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453894?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:55:00 +0900",
-        "title": "\"구미을에는 대통령실 출신 강명구가 있습니다'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453898?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:54:00 +0900",
-        "title": "\"구미을 강명구 후보를 부탁합니다\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007453884?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 364387
-      }
-    ],
-    "huboid": "100151851",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-2.jpg"
-  },
-  {
-    "id": "2470702-7",
-    "regionId": "2470702",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-7.jpg",
-    "기호": 7,
-    "이름": "김영확",
-    "생년월일": "19570530",
-    "정당": "자유통일당",
-    "성별": "남",
-    "직업": "무",
-    "학력": "경북대학교 통계학과 졸업",
-    "경력": "(전)대구중부소방서 삼덕119안전센터장\n",
-    "재산": 662070,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 14:38:00 +0900",
-        "title": "[4.10총선-166] 구미을, 김현권vs강명구vs김영확. 강명구 독주",
-        "link": "http://www.mhj21.com/160213"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 08:11:00 +0900",
-        "title": "[총선/여론조사] 구미을…강명구 57.4%·김현권 26%·김영확 2.7%",
-        "link": "https://n.news.naver.com/mnews/article/056/0011688477?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:46:00 +0900",
-        "title": "[총선/여론조사] 구미을…강명구 57.4%·김현권 26%·김영확 2.7%",
-        "link": "https://n.news.naver.com/mnews/article/056/0011688219?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:15:00 +0900",
-        "title": "[총선/여론조사] 구미을…강명구 57.4% 김현권 26% 김영확 2.7%",
-        "link": "https://n.news.naver.com/mnews/article/056/0011688063?sid=100"
-      },
-      {
-        "date": "Thu, 14 Mar 2024 16:38:00 +0900",
-        "title": "국힘, 의성·청송·영덕·울진 선거구 '박형수' 공천",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314414"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 662070
-      }
-    ],
-    "huboid": "100152232",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-7.jpg"
-  }
+    {
+        "id": "2470702-1",
+        "regionId": "2470702",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-1.jpg",
+        "기호": 1,
+        "이름": "김현권",
+        "생년월일": "19640517",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 천문학과 졸업",
+        "경력": "(전)제20대 국회의원(비례대표)\n(현)더불어민주당 구미시을지역위원장",
+        "재산": 1020850,
+        "군필여부": false,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:12:00 +0900",
+                "title": "구미을 선거구 집중유세 현장…민주당 김부겸 위원장, 김현권 후보 지원",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005313"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "[포토] 공동선언식 참석한 구미갑을 김현권·김철호 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200337.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "\"일잘하는 김현권 뽑아주십시요\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453863?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:40:00 +0900",
+                "title": "[포토] 인사하는 김현권 구미을 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200334.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:37:00 +0900",
+                "title": "\"김현권 최고\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453858?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1020850
+            }
+        ],
+        "huboid": "100151791",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_구미시을_김현권_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4707/003_100151791_20240322_1.pdf"
+    },
+    {
+        "id": "2470702-2",
+        "regionId": "2470702",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-2.jpg",
+        "기호": 2,
+        "이름": "강명구",
+        "생년월일": "19770607",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "맨체스터대학교 정치학-행정과 공공정책 석사(2008.09~2009.11)",
+        "경력": "(전)대통령비서실 국정기획비서관\n(전)대통령비서실 선임행정관",
+        "재산": 364387,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 19:02:00 +0900",
+                "title": "국힘 구미을 강명구 \"민주, 대통령 탄핵하고 싶어 안달 난 정당\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454007?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:55:00 +0900",
+                "title": "\"집권 여당 후보 강명구 뽑아주십시요\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453895?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:55:00 +0900",
+                "title": "\"강명구 한번 밀어 주십시요\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453894?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:55:00 +0900",
+                "title": "\"구미을에는 대통령실 출신 강명구가 있습니다'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453898?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:54:00 +0900",
+                "title": "\"구미을 강명구 후보를 부탁합니다\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007453884?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 364387
+            }
+        ],
+        "huboid": "100151851",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_구미시을_강명구_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4707/003_100151851_20240326_1.pdf"
+    },
+    {
+        "id": "2470702-7",
+        "regionId": "2470702",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470702-7.jpg",
+        "기호": 7,
+        "이름": "김영확",
+        "생년월일": "19570530",
+        "정당": "자유통일당",
+        "성별": "남",
+        "직업": "무",
+        "학력": "경북대학교 통계학과 졸업",
+        "경력": "(전)대구중부소방서 삼덕119안전센터장\n",
+        "재산": 662070,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 14:38:00 +0900",
+                "title": "[4.10총선-166] 구미을, 김현권vs강명구vs김영확. 강명구 독주",
+                "link": "http://www.mhj21.com/160213"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 08:11:00 +0900",
+                "title": "[총선/여론조사] 구미을…강명구 57.4%·김현권 26%·김영확 2.7%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688477?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:46:00 +0900",
+                "title": "[총선/여론조사] 구미을…강명구 57.4%·김현권 26%·김영확 2.7%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688219?sid=100"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:15:00 +0900",
+                "title": "[총선/여론조사] 구미을…강명구 57.4% 김현권 26% 김영확 2.7%",
+                "link": "https://n.news.naver.com/mnews/article/056/0011688063?sid=100"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 16:38:00 +0900",
+                "title": "국힘, 의성·청송·영덕·울진 선거구 '박형수' 공천",
+                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=314414"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 662070
+            }
+        ],
+        "huboid": "100152232",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470702-7.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_구미시을_김영확_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4707/003_100152232_20240327_1.pdf"
+    }
 ]

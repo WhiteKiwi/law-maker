@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2411502-1",
-    "regionId": "2411502",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-1.jpg",
-    "기호": 1,
-    "이름": "이병진",
-    "생년월일": "19641208",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "한국외국어대학교 중국연구소 정치외교분과 연구위원",
-    "학력": "북경대학교 대학원 졸업(법학 박사, 1994.9~1997.7)",
-    "경력": "(현)더불어민주당 당대표 외교안보특보\n(전)평택대학교 교수",
-    "재산": 1420275,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:48:00 +0900",
-        "title": "민주당 평택을 이병진 후보, 안중시장 5일장 유세… \"못살겠다 심판하자\"",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125304"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-        "title": "[포토]  평택 을 민주당 이병진·국힘 정우성 후보자 초청 간담회",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559096"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:34:00 +0900",
-        "title": "[경기 평택을] 더불어민주당 이병진 54.8%, 국민의힘 정우성 37.5%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428572?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "[4·10=평택을 토론회] 이병진 \"견제와 균형\"vs정우성 \"중요 지표는 공약\"",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242671"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:18:00 +0900",
-        "title": "민주당 평택을 이병진 후보, 평택시민건강걷기대회 참석해 시민들과 소통",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124488"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1420275
-      }
-    ],
-    "huboid": "100152959",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411502-1.jpg"
-  },
-  {
-    "id": "2411502-2",
-    "regionId": "2411502",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-2.jpg",
-    "기호": 2,
-    "이름": "정우성",
-    "생년월일": "19771021",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "교수",
-    "학력": "한국과학기술원(KAIST) 졸업(이학박사)",
-    "경력": "(현)포항공과대학교 교수\n(현)제22대 국회의원선거 국민의힘 공약개발본부 공동총괄본부장",
-    "재산": 750216,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-        "title": "[포토]  평택 을 민주당 이병진·국힘 정우성 후보자 초청 간담회",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559096"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:34:00 +0900",
-        "title": "[경기 평택을] 더불어민주당 이병진 54.8%, 국민의힘 정우성 37.5%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428572?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:16:00 +0900",
-        "title": "[4·10=평택을 토론회] 이병진 \"견제와 균형\"vs정우성 \"중요 지표는 공약\"",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242671"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:50:00 +0900",
-        "title": "[현장 한컷] 정우성 국힘 평택을 후보, 안중5일장 집중유세… \"새로운 평택 열...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644829"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 15:54:00 +0900",
-        "title": "정우성 국민의힘 평택을 후보 선대위 \"이병진 후보 '재산신고 누락'\"",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644500"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 750216
-      }
-    ],
-    "huboid": "100152988",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411502-2.jpg"
-  }
+    {
+        "id": "2411502-1",
+        "regionId": "2411502",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-1.jpg",
+        "기호": 1,
+        "이름": "이병진",
+        "생년월일": "19641208",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "한국외국어대학교 중국연구소 정치외교분과 연구위원",
+        "학력": "북경대학교 대학원 졸업(법학 박사, 1994.9~1997.7)",
+        "경력": "(현)더불어민주당 당대표 외교안보특보\n(전)평택대학교 교수",
+        "재산": 1420275,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:48:00 +0900",
+                "title": "민주당 평택을 이병진 후보, 안중시장 5일장 유세… \"못살겠다 심판하자\"",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3125304"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+                "title": "[포토]  평택 을 민주당 이병진·국힘 정우성 후보자 초청 간담회",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559096"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+                "title": "[경기 평택을] 더불어민주당 이병진 54.8%, 국민의힘 정우성 37.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428572?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "[4·10=평택을 토론회] 이병진 \"견제와 균형\"vs정우성 \"중요 지표는 공약\"",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242671"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:18:00 +0900",
+                "title": "민주당 평택을 이병진 후보, 평택시민건강걷기대회 참석해 시민들과 소통",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3124488"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1420275
+            }
+        ],
+        "huboid": "100152959",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411502-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시을_이병진_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152959_20240328_1.pdf"
+    },
+    {
+        "id": "2411502-2",
+        "regionId": "2411502",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411502-2.jpg",
+        "기호": 2,
+        "이름": "정우성",
+        "생년월일": "19771021",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "교수",
+        "학력": "한국과학기술원(KAIST) 졸업(이학박사)",
+        "경력": "(현)포항공과대학교 교수\n(현)제22대 국회의원선거 국민의힘 공약개발본부 공동총괄본부장",
+        "재산": 750216,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+                "title": "[포토]  평택 을 민주당 이병진·국힘 정우성 후보자 초청 간담회",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=559096"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+                "title": "[경기 평택을] 더불어민주당 이병진 54.8%, 국민의힘 정우성 37.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428572?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:16:00 +0900",
+                "title": "[4·10=평택을 토론회] 이병진 \"견제와 균형\"vs정우성 \"중요 지표는 공약\"",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242671"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:50:00 +0900",
+                "title": "[현장 한컷] 정우성 국힘 평택을 후보, 안중5일장 집중유세… \"새로운 평택 열...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644829"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:54:00 +0900",
+                "title": "정우성 국민의힘 평택을 후보 선대위 \"이병진 후보 '재산신고 누락'\"",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644500"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 750216
+            }
+        ],
+        "huboid": "100152988",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411502-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_평택시을_정우성_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/4115/003_100152988_20240325_1.pdf"
+    }
 ]

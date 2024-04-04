@@ -1,155 +1,158 @@
 [
-  {
-    "id": "2110902-1",
-    "regionId": "2110902",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-1.jpg",
-    "기호": 1,
-    "이름": "한민수",
-    "생년월일": "19690115",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 신문방송학과 졸업",
-    "경력": "(현)더불어민주당 대변인\n(전)국민일보 정치부장논설위원",
-    "재산": 1035423,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 14:34:00 +0900",
-        "title": "박진웅 \"진심어린 예우 차원\", 박용진에 사과…\"명수래공수거, 한민수는 빈손...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220088"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:16:00 +0900",
-        "title": "상인들 만난 한민수 \"강북구민 위해 유용한 도구 될 것\" [TF사진관]",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278077?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 06:30:00 +0900",
-        "title": "[현장] 김부겸 달래고 박지원 띄우고…민주, 강북을 한민수 지원 총력(종합)",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815983?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 00:36:00 +0900",
-        "title": "[4·10 총선 현장] 강북을 한민수 \"총선 시대정신은 尹 정권 심판\"···김부...",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107259"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 22:45:00 +0900",
-        "title": "'박용진 배제' 비판했던 김부겸…\"한민수는 죄가 없다, 도와달라\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815948?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1035423
-      }
-    ],
-    "huboid": "100153206",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-1.jpg"
-  },
-  {
-    "id": "2110902-2",
-    "regionId": "2110902",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-2.jpg",
-    "기호": 2,
-    "이름": "박진웅",
-    "생년월일": "19770119",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 사회과학대학 정치학과 졸업",
-    "경력": "(전)대통령실 행정관\n(전)대통령직인수위원회 기획위원회 자문위원",
-    "재산": 143565,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:36:00 +0900",
-        "title": "'박용진 사진 수록 논란' 강북을 박진웅 \"깊은 유감\" 거듭 읍소",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816330?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:09:00 +0900",
-        "title": "박진웅 \"타지역서 날아든 후보 보다 '일 잘하는 강북사람'\" [TF사진관]",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278135?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:34:00 +0900",
-        "title": "박진웅 \"진심어린 예우 차원\", 박용진에 사과…\"명수래공수거, 한민수는 빈손...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220088"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:16:00 +0900",
-        "title": "[일요서울TV] 박용진의 분노, 사과하는 박진웅",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486262"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:09:00 +0900",
-        "title": "'박용진 사진 도용' 박진웅, 결국 사과 \"깊은 유감\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325982?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 143565
-      }
-    ],
-    "huboid": "100152827",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-2.jpg"
-  },
-  {
-    "id": "2110902-6",
-    "regionId": "2110902",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-6.jpg",
-    "기호": 6,
-    "이름": "이석현",
-    "생년월일": "19510316",
-    "정당": "새로운미래",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "서울대학교 법과대학 법학과 졸업",
-    "경력": "(전)국회부의장\n(현)새로운미래 고문",
-    "재산": 1208265,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:16:00 +0900",
-        "title": "이석현 \"진짜 민주당은 우리\"…박용진 뜻 잇겠다? (B tv 서울뉴스)",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168490"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 06:20:00 +0900",
-        "title": "'텃밭' 한민수 대 '토박이' 박진웅…이석현 변수로 강북을 혼전",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815509?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:00:00 +0900",
-        "title": "[현장] \"이재명, 박용진 싫다고 송파주민 꽂다니\"…강북을 이석현, 분노의 출...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815448?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 18:06:00 +0900",
-        "title": "기호6번 이석현 “강북, 7번 선거에서 모두 민주당 선택...강북의 자존심 세워...",
-        "link": "http://www.breaknews.com/1024032"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 17:03:00 +0900",
-        "title": "'강북을 출마' 지지 호소하는 이석현 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007445999?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1208265
-      }
-    ],
-    "huboid": "100153399",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-6.jpg"
-  }
+    {
+        "id": "2110902-1",
+        "regionId": "2110902",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-1.jpg",
+        "기호": 1,
+        "이름": "한민수",
+        "생년월일": "19690115",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서강대학교 신문방송학과 졸업",
+        "경력": "(현)더불어민주당 대변인\n(전)국민일보 정치부장논설위원",
+        "재산": 1035423,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "박진웅 \"진심어린 예우 차원\", 박용진에 사과…\"명수래공수거, 한민수는 빈손...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220088"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:16:00 +0900",
+                "title": "상인들 만난 한민수 \"강북구민 위해 유용한 도구 될 것\" [TF사진관]",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278077?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 06:30:00 +0900",
+                "title": "[현장] 김부겸 달래고 박지원 띄우고…민주, 강북을 한민수 지원 총력(종합)",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815983?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:36:00 +0900",
+                "title": "[4·10 총선 현장] 강북을 한민수 \"총선 시대정신은 尹 정권 심판\"···김부...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107259"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 22:45:00 +0900",
+                "title": "'박용진 배제' 비판했던 김부겸…\"한민수는 죄가 없다, 도와달라\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815948?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1035423
+            }
+        ],
+        "huboid": "100153206",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강북구을_한민수_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1109/003_100153206_20240401_3.pdf"
+    },
+    {
+        "id": "2110902-2",
+        "regionId": "2110902",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-2.jpg",
+        "기호": 2,
+        "이름": "박진웅",
+        "생년월일": "19770119",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 사회과학대학 정치학과 졸업",
+        "경력": "(전)대통령실 행정관\n(전)대통령직인수위원회 기획위원회 자문위원",
+        "재산": 143565,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:36:00 +0900",
+                "title": "'박용진 사진 수록 논란' 강북을 박진웅 \"깊은 유감\" 거듭 읍소",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816330?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:09:00 +0900",
+                "title": "박진웅 \"타지역서 날아든 후보 보다 '일 잘하는 강북사람'\" [TF사진관]",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278135?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:34:00 +0900",
+                "title": "박진웅 \"진심어린 예우 차원\", 박용진에 사과…\"명수래공수거, 한민수는 빈손...",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220088"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:16:00 +0900",
+                "title": "[일요서울TV] 박용진의 분노, 사과하는 박진웅",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486262"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:09:00 +0900",
+                "title": "'박용진 사진 도용' 박진웅, 결국 사과 \"깊은 유감\"",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325982?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 143565
+            }
+        ],
+        "huboid": "100152827",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강북구을_박진웅_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1109/003_100152827_20240329_2.pdf"
+    },
+    {
+        "id": "2110902-6",
+        "regionId": "2110902",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110902-6.jpg",
+        "기호": 6,
+        "이름": "이석현",
+        "생년월일": "19510316",
+        "정당": "새로운미래",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "서울대학교 법과대학 법학과 졸업",
+        "경력": "(전)국회부의장\n(현)새로운미래 고문",
+        "재산": 1208265,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 18:16:00 +0900",
+                "title": "이석현 \"진짜 민주당은 우리\"…박용진 뜻 잇겠다? (B tv 서울뉴스)",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=57&p_no=168490"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 06:20:00 +0900",
+                "title": "'텃밭' 한민수 대 '토박이' 박진웅…이석현 변수로 강북을 혼전",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815509?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:00:00 +0900",
+                "title": "[현장] \"이재명, 박용진 싫다고 송파주민 꽂다니\"…강북을 이석현, 분노의 출...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815448?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 18:06:00 +0900",
+                "title": "기호6번 이석현 “강북, 7번 선거에서 모두 민주당 선택...강북의 자존심 세워...",
+                "link": "http://www.breaknews.com/1024032"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 17:03:00 +0900",
+                "title": "'강북을 출마' 지지 호소하는 이석현 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445999?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1208265
+            }
+        ],
+        "huboid": "100153399",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110902-6.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_강북구을_이석현_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1109/003_100153399_20240329_1.pdf"
+    }
 ]
