@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110602-1.jpg",
-    "id": "2110602-1",
-    "재산": 722317,
-    "생년월일": "19831012",
-    "경력": "(현)제21대 동대문구을 국회의원\n(현)더불어민주당 최고위원",
-    "학력": "성균관대학교 국정전문대학원 행정학과 수료(박사학위 과정)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1045",
-    "regionId": "2110602",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 15:39:00 +0900",
-        "title": "[410 출사표]장경태 “평생 살 동대문, 끝까지 챙길 것”",
-        "link": "https://n.news.naver.com/mnews/article/030/0003194598?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:01:00 +0900",
-        "title": "격차 좁혀진 김영주vs채현일, 김경진vs장경태 …민주 악재 영향?",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452720?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:18:00 +0900",
-        "title": "서울 동대문을 장경태 47.5% VS 김경진 44.0%…격차 3.5%p 초박빙 접전",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220038"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:32:00 +0900",
-        "title": "정진석 49.4% vs 박수현 44.5% ... 장경태 47.5% vs 김경진 44.0%",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409435"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:32:00 +0900",
-        "title": "[서울 동대문을] 더불어민주당 장경태 47.5%, 국민의힘 김경진 44%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428478?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "장경태",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 307905
-      },
-      {
-        "연도": 2021,
-        "재산": 456848
-      },
-      {
-        "연도": 2022,
-        "재산": 549148
-      },
-      {
-        "연도": 2023,
-        "재산": 722317
-      }
-    ],
-    "huboid": "100152721",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110602-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110602-2.jpg",
-    "id": "2110602-2",
-    "재산": 1858612,
-    "생년월일": "19660714",
-    "경력": "(전)제20대 국회의원(광주 북구갑)\n(현)변호사",
-    "학력": "고려대학교 법학과 졸업",
-    "직업": "변호사",
-    "성별": "남",
-    "regionId": "2110602",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:56:00 +0900",
-        "title": "[포토] 동대문구을 김경진 지원사격 나선 인요한",
-        "link": "https://www.ilyosisa.co.kr/news/article.html?no=243039"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:01:00 +0900",
-        "title": "격차 좁혀진 김영주vs채현일, 김경진vs장경태 …민주 악재 영향?",
-        "link": "https://n.news.naver.com/mnews/article/421/0007452720?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:18:00 +0900",
-        "title": "서울 동대문을 장경태 47.5% VS 김경진 44.0%…격차 3.5%p 초박빙 접전",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220038"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:32:00 +0900",
-        "title": "정진석 49.4% vs 박수현 44.5% ... 장경태 47.5% vs 김경진 44.0%",
-        "link": "http://www.queen.co.kr/news/articleView.html?idxno=409435"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:32:00 +0900",
-        "title": "[서울 동대문을] 더불어민주당 장경태 47.5%, 국민의힘 김경진 44%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428478?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김경진",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1858612
-      }
-    ],
-    "huboid": "100152084",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110602-2.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110602-1.jpg",
+        "id": "2110602-1",
+        "재산": 722317,
+        "생년월일": "19831012",
+        "경력": "(현)제21대 동대문구을 국회의원\n(현)더불어민주당 최고위원",
+        "학력": "성균관대학교 국정전문대학원 행정학과 수료(박사학위 과정)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1045",
+        "regionId": "2110602",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 15:39:00 +0900",
+                "title": "[410 출사표]장경태 “평생 살 동대문, 끝까지 챙길 것”",
+                "link": "https://n.news.naver.com/mnews/article/030/0003194598?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "격차 좁혀진 김영주vs채현일, 김경진vs장경태 …민주 악재 영향?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452720?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:18:00 +0900",
+                "title": "서울 동대문을 장경태 47.5% VS 김경진 44.0%…격차 3.5%p 초박빙 접전",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220038"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:32:00 +0900",
+                "title": "정진석 49.4% vs 박수현 44.5% ... 장경태 47.5% vs 김경진 44.0%",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409435"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:32:00 +0900",
+                "title": "[서울 동대문을] 더불어민주당 장경태 47.5%, 국민의힘 김경진 44%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428478?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "장경태",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 307905
+            },
+            {
+                "연도": 2021,
+                "재산": 456848
+            },
+            {
+                "연도": 2022,
+                "재산": 549148
+            },
+            {
+                "연도": 2023,
+                "재산": 722317
+            }
+        ],
+        "huboid": "100152721",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110602-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동대문구을_장경태_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1106/003_100152721_20240327_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110602-2.jpg",
+        "id": "2110602-2",
+        "재산": 1858612,
+        "생년월일": "19660714",
+        "경력": "(전)제20대 국회의원(광주 북구갑)\n(현)변호사",
+        "학력": "고려대학교 법학과 졸업",
+        "직업": "변호사",
+        "성별": "남",
+        "regionId": "2110602",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:56:00 +0900",
+                "title": "[포토] 동대문구을 김경진 지원사격 나선 인요한",
+                "link": "https://www.ilyosisa.co.kr/news/article.html?no=243039"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 12:01:00 +0900",
+                "title": "격차 좁혀진 김영주vs채현일, 김경진vs장경태 …민주 악재 영향?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007452720?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 11:18:00 +0900",
+                "title": "서울 동대문을 장경태 47.5% VS 김경진 44.0%…격차 3.5%p 초박빙 접전",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220038"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:32:00 +0900",
+                "title": "정진석 49.4% vs 박수현 44.5% ... 장경태 47.5% vs 김경진 44.0%",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409435"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:32:00 +0900",
+                "title": "[서울 동대문을] 더불어민주당 장경태 47.5%, 국민의힘 김경진 44%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428478?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김경진",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1858612
+            }
+        ],
+        "huboid": "100152084",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110602-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_동대문구을_김경진_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/1106/003_100152084_20240327_1.pdf"
+    }
 ]

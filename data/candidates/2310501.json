@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
-    "id": "2310501-1",
-    "재산": 698882,
-    "생년월일": "19601004",
-    "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
-    "학력": "울산대학교 행정학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2310501",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-        "title": "민주 이선호\"지역경제 살릴 마중물\" - 국힘 김기현 \"중단없는 발전 가속화\"",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995934"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:20:00 +0900",
-        "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
-        "link": "http://www.mhj21.com/160256"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "[총선기획]서범수 \"어린이·노인 버스 무료화\" 이선호 \"전지역 전기료 절반 감...",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:43:00 +0900",
-        "title": "울주군 서범수 \"획기적 변화·발전\" vs 이선호 \"군민 목소리 귀담을 것\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-        "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이선호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 698882
-      }
-    ],
-    "huboid": "100151574",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310501-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-2.jpg",
-    "id": "2310501-2",
-    "재산": 3243383,
-    "생년월일": "19630917",
-    "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
-    "학력": "서울대학교 농과대학 농경제학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1091",
-    "regionId": "2310501",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 13:20:00 +0900",
-        "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
-        "link": "http://www.mhj21.com/160256"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:46:00 +0900",
-        "title": "[총선기획]서범수 \"어린이·노인 버스 무료화\" 이선호 \"전지역 전기료 절반 감...",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:43:00 +0900",
-        "title": "울주군 서범수 \"획기적 변화·발전\" vs 이선호 \"군민 목소리 귀담을 것\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 00:12:00 +0900",
-        "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:36:00 +0900",
-        "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
-        "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "서범수",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2627457
-      },
-      {
-        "연도": 2021,
-        "재산": 3164282
-      },
-      {
-        "연도": 2022,
-        "재산": 3529495
-      },
-      {
-        "연도": 2023,
-        "재산": 3243383
-      }
-    ],
-    "huboid": "100152767",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310501-2.jpg"
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
+        "id": "2310501-1",
+        "재산": 698882,
+        "생년월일": "19601004",
+        "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
+        "학력": "울산대학교 행정학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2310501",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+                "title": "민주 이선호\"지역경제 살릴 마중물\" - 국힘 김기현 \"중단없는 발전 가속화\"",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995934"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+                "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
+                "link": "http://www.mhj21.com/160256"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "[총선기획]서범수 \"어린이·노인 버스 무료화\" 이선호 \"전지역 전기료 절반 감...",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:43:00 +0900",
+                "title": "울주군 서범수 \"획기적 변화·발전\" vs 이선호 \"군민 목소리 귀담을 것\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+                "title": "[4·10 울산의 선택]더불어민주당 이선호 후보, UNIST 500병상 대학병원 설립",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995674"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이선호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 698882
+            }
+        ],
+        "huboid": "100151574",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310501-1.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_울주군_이선호_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/3105/003_100151574_20240328_1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-2.jpg",
+        "id": "2310501-2",
+        "재산": 3243383,
+        "생년월일": "19630917",
+        "경력": "(현)울주군 국회의원\n(전)울산지방경찰청장",
+        "학력": "서울대학교 농과대학 농경제학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1091",
+        "regionId": "2310501",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 13:20:00 +0900",
+                "title": "[4.10총선-199] 울산 울주, 이선호vs서범수. 페어플레이 속 지역발전vs정권심...",
+                "link": "http://www.mhj21.com/160256"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:46:00 +0900",
+                "title": "[총선기획]서범수 \"어린이·노인 버스 무료화\" 이선호 \"전지역 전기료 절반 감...",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344974"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:43:00 +0900",
+                "title": "울주군 서범수 \"획기적 변화·발전\" vs 이선호 \"군민 목소리 귀담을 것\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449404?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:12:00 +0900",
+                "title": "[4·10 울산의 선택]국민의힘 서범수 후보, 청량 등 그린벨트 해제 가속도",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995673"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:36:00 +0900",
+                "title": "울주 서범수 vs 이선호 첫 TV토론… '공약 실현 가능성' 날선 공방",
+                "link": "https://n.news.naver.com/mnews/article/421/0007443751?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "서범수",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2627457
+            },
+            {
+                "연도": 2021,
+                "재산": 3164282
+            },
+            {
+                "연도": 2022,
+                "재산": 3529495
+            },
+            {
+                "연도": 2023,
+                "재산": 3243383
+            }
+        ],
+        "huboid": "100152767",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310501-2.jpg",
+        "공보PdfUrl": "https://policy.nec.go.kr/plc/common/downloadFile.do?requestedFileName=20240410_울주군_서범수_선거공보.pdf&requestedFullPath=20240410/PDF/PBINFO/3105/003_100152767_20240329_2.pdf"
+    }
 ]
