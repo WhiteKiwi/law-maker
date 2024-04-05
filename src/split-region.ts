@@ -34,6 +34,7 @@ async function main() {
             ...c,
             id: `${regionId}-${c.기호}`,
             regionId,
+            공보PdfUrl: c.공보PdfUrl.replace(region.id, regionId),
           })),
           { spaces: 2 }
         );
