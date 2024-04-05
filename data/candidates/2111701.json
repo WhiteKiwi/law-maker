@@ -1,119 +1,119 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111701-1.jpg",
-    "id": "2111701-1",
-    "재산": 1353915,
-    "생년월일": "19640628",
-    "경력": "(전)더불어민주당 원내대표\n(전)제41대 통일부 장관",
-    "학력": "고려대학교 언론대학원 정보통신학과 졸업(언론학 석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "438",
-    "regionId": "2111701",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Thu, 28 Mar 2024 21:17:00 +0900",
-        "title": "'용산' 강태웅 42% 권영세 41% 접전…'구로갑' 이인영 52% 호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007444160?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:21:00 +0900",
-        "title": "용산, 강태웅 42% 권영세 41%…구로갑, 이인영 52% 호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457796?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:55:00 +0900",
-        "title": "[MBC여론조사③] 용산 강태웅 42%·권영세 41%‥구로갑 이인영 52%·호준석 3...",
-        "link": "https://n.news.naver.com/mnews/article/214/0001339348?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:46:00 +0900",
-        "title": "[서울 구로갑] 더불어민주당 이인영 55%, 국민의힘 호준석 21%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427907?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:19:00 +0900",
-        "title": "[MBC여론조사] 용산 강태웅 42%·권영세 41%‥구로갑 이인영 52%·호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/214/0001339305?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이인영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1009391
-      },
-      {
-        "연도": 2021,
-        "재산": 1052530
-      },
-      {
-        "연도": 2022,
-        "재산": 1175996
-      },
-      {
-        "연도": 2023,
-        "재산": 1353915
-      }
-    ],
-    "huboid": "100152973",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111701-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111701-1.pdf"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111701-2.jpg",
-    "id": "2111701-2",
-    "재산": 281644,
-    "생년월일": "19690804",
-    "경력": "(전)YTN 앵커\n(현)국민의힘 대변인",
-    "학력": "연세대학교 정치외교학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111701",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Thu, 28 Mar 2024 21:17:00 +0900",
-        "title": "'용산' 강태웅 42% 권영세 41% 접전…'구로갑' 이인영 52% 호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007444160?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 20:21:00 +0900",
-        "title": "용산, 강태웅 42% 권영세 41%…구로갑, 이인영 52% 호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457796?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:55:00 +0900",
-        "title": "[MBC여론조사③] 용산 강태웅 42%·권영세 41%‥구로갑 이인영 52%·호준석 3...",
-        "link": "https://n.news.naver.com/mnews/article/214/0001339348?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:46:00 +0900",
-        "title": "[서울 구로갑] 더불어민주당 이인영 55%, 국민의힘 호준석 21%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427907?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:19:00 +0900",
-        "title": "[MBC여론조사] 용산 강태웅 42%·권영세 41%‥구로갑 이인영 52%·호준석 34%",
-        "link": "https://n.news.naver.com/mnews/article/214/0001339305?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "호준석",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 281644
-      }
-    ],
-    "huboid": "100152236",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111701-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111701-2.pdf"
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111701-1.jpg",
+        "id": "2111701-1",
+        "재산": 1353915,
+        "생년월일": "19640628",
+        "경력": "(전)더불어민주당 원내대표\n(전)제41대 통일부 장관",
+        "학력": "고려대학교 언론대학원 정보통신학과 졸업(언론학 석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "438",
+        "regionId": "2111701",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 16:34:00 +0900",
+                "title": "[4·10 총선 Who] 구로갑 이인영 더불어민주당 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519200&seq_800=20511981"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:17:00 +0900",
+                "title": "'용산' 강태웅 42% 권영세 41% 접전…'구로갑' 이인영 52% 호준석 34%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444160?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:21:00 +0900",
+                "title": "용산, 강태웅 42% 권영세 41%…구로갑, 이인영 52% 호준석 34%",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457796?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:55:00 +0900",
+                "title": "[MBC여론조사③] 용산 강태웅 42%·권영세 41%‥구로갑 이인영 52%·호준석 3...",
+                "link": "https://n.news.naver.com/mnews/article/214/0001339348?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:46:00 +0900",
+                "title": "[서울 구로갑] 더불어민주당 이인영 55%, 국민의힘 호준석 21%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427907?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이인영",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1009391
+            },
+            {
+                "연도": 2021,
+                "재산": 1052530
+            },
+            {
+                "연도": 2022,
+                "재산": 1175996
+            },
+            {
+                "연도": 2023,
+                "재산": 1353915
+            }
+        ],
+        "huboid": "100152973",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111701-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111701-1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111701-2.jpg",
+        "id": "2111701-2",
+        "재산": 281644,
+        "생년월일": "19690804",
+        "경력": "(전)YTN 앵커\n(현)국민의힘 대변인",
+        "학력": "연세대학교 정치외교학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2111701",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+                "title": "[포토] 호준석 구로갑·태영호 구로을 후보 지지호소 하는 한동훈",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500270.html"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+                "title": "[포토] 호준석·태영호 지원유세 나선 한동훈 위원장",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500269.html"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:05:00 +0900",
+                "title": "[4·10 총선 Who] 구로갑 호준석 국민의힘 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519109&seq_800=20511890"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:17:00 +0900",
+                "title": "'용산' 강태웅 42% 권영세 41% 접전…'구로갑' 이인영 52% 호준석 34%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444160?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:21:00 +0900",
+                "title": "용산, 강태웅 42% 권영세 41%…구로갑, 이인영 52% 호준석 34%",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457796?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "호준석",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 281644
+            }
+        ],
+        "huboid": "100152236",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111701-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111701-2.pdf"
+    }
 ]

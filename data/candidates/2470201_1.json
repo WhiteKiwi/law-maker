@@ -1,106 +1,106 @@
 [
-  {
-    "id": "2470201_1-1",
-    "regionId": "2470201_1",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470201-1.jpg",
-    "기호": 1,
-    "이름": "김상헌",
-    "생년월일": "19750923",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "단국대학교 졸업(제1전공 : 영어영문학전공, 제2전공 : 법학전공)",
-    "경력": "(전)경상북도의회의원\n(현)더불어민주당 포항시남구울릉군지역위원장",
-    "재산": -24714,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 18:40:00 +0900",
-        "title": "민주당 이탄희 의원 \"정권 심판\"… 김상헌 지원 유세 '총력전'",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544422"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:56:00 +0900",
-        "title": "더불어민주당 이탄희 의원, 포항에서 오중기 ·김상헌 지원 유세",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990712"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:25:00 +0900",
-        "title": "이탄희 의원 \"정권 심판 오중기·김상헌 지지\" 호소",
-        "link": "https://n.news.naver.com/mnews/article/079/0003881035?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:52:00 +0900",
-        "title": "[총선 현장] 포항 남·울릉 민주당 김상헌 후보, \"노동자의 권리 향상 앞장설...",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990515"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:02:00 +0900",
-        "title": "[4.10총선-168] 포항남울릉, 김상헌vs이상휘. 대세론",
-        "link": "http://www.mhj21.com/160215"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -24714
-      }
-    ],
-    "huboid": "100152261",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470201-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470201_1-1.pdf"
-  },
-  {
-    "id": "2470201_1-2",
-    "regionId": "2470201_1",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470201-2.jpg",
-    "기호": 2,
-    "이름": "이상휘",
-    "생년월일": "19631006",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정치시사 평론가",
-    "학력": "성균관대학교 대학원 신문방송학과 졸업(언론학박사)",
-    "경력": "(전)대통령실 춘추관장\n(전)대통령실 홍보기획비서관",
-    "재산": 1452911,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 15:02:00 +0900",
-        "title": "[4.10총선-168] 포항남울릉, 김상헌vs이상휘. 대세론",
-        "link": "http://www.mhj21.com/160215"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 21:56:00 +0900",
-        "title": "이상휘, 축구장·시장 돌며 \"저에게 한표를\"",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436748"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:40:00 +0900",
-        "title": "이상휘 “울릉도 관광특구 지정에 최선 다할 것”",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=475392"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:52:00 +0900",
-        "title": "이상휘 \"관광특구 지정해 국가적 차원으로 울릉도 보호해야\"",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544145"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:32:00 +0900",
-        "title": "이상휘 후보 “울릉도 살리기 위해 관광특구 지정해야”",
-        "link": "https://tk.newdaily.co.kr/site/data/html/2024/03/31/2024033100050.html"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1452911
-      }
-    ],
-    "huboid": "100151399",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470201-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470201_1-2.pdf"
-  }
+    {
+        "id": "2470201_1-1",
+        "regionId": "2470201_1",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470201-1.jpg",
+        "기호": 1,
+        "이름": "김상헌",
+        "생년월일": "19750923",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "단국대학교 졸업(제1전공 : 영어영문학전공, 제2전공 : 법학전공)",
+        "경력": "(전)경상북도의회의원\n(현)더불어민주당 포항시남구울릉군지역위원장",
+        "재산": -24714,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 20:48:00 +0900",
+                "title": "김상헌 “울릉 공항시대 대비해 관광 인프라 구축”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=476283"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:50:00 +0900",
+                "title": "김상헌, HCN '총선 선거대담프로그램'서 구체적 공약 발표",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544691"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:49:00 +0900",
+                "title": "[포항 총선] 김상헌(더민주, 포항남·울릉) 후보, 유은혜 전 교육부 장관, 우...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326477?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:30:00 +0900",
+                "title": "유은혜 전 교육부장관, 포항서 김상헌 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012472130?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:54:00 +0900",
+                "title": "유은혜 전 교육부장관, 김상헌 후보 지원 유세",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456035"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -24714
+            }
+        ],
+        "huboid": "100152261",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470201-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470201_1-1.pdf"
+    },
+    {
+        "id": "2470201_1-2",
+        "regionId": "2470201_1",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470201-2.jpg",
+        "기호": 2,
+        "이름": "이상휘",
+        "생년월일": "19631006",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정치시사 평론가",
+        "학력": "성균관대학교 대학원 신문방송학과 졸업(언론학박사)",
+        "경력": "(전)대통령실 춘추관장\n(전)대통령실 홍보기획비서관",
+        "재산": 1452911,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+                "title": "포항시 남구·울릉군 국민의 힘 이상휘 후보 선거운동 화보",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=991281"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:24:00 +0900",
+                "title": "포항 남구·울릉 이상휘 후보, 환경이 쾌적한 ‘클린 에너지 포항’ 만들 것",
+                "link": "http://www.metroseoul.co.kr/article/20240405500117"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:13:00 +0900",
+                "title": "이상휘 포항 남구·울릉 후보 “환경이 쾌적한 ‘클린 에너지 포항 만들겠다”",
+                "link": "https://n.news.naver.com/mnews/article/016/0002291308?sid=102"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:52:00 +0900",
+                "title": "이상휘 포항남울릉 후보 \"SRF 이전으로 깨끗한 포항 주민에게 돌려 주겠다\"",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634846"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:32:00 +0900",
+                "title": "이상휘 후보\"고향에서 꽃 피우겠다\", 사전투표 독려",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=991236"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1452911
+            }
+        ],
+        "huboid": "100151399",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470201-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470201_1-2.pdf"
+    }
 ]
