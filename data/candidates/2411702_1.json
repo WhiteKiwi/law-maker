@@ -1,119 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411702-1.jpg",
-    "id": "2411702_1-1",
-    "재산": 422000,
-    "생년월일": "19580416",
-    "경력": "(전)경기북부경찰청 차장\n(현)신한대학교 석좌교수",
-    "학력": "충남대학교 대학원 졸업(법학박사)",
-    "직업": "석좌교수",
-    "성별": "남",
-    "regionId": "2411702_1",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:46:00 +0900",
-        "title": "이재명, 남병근 후보 온라인 지원유세",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959466"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:54:00 +0900",
-        "title": "[총선 D-8] 이재명 재판 참석 전 유튜브로 동두천·양주·연천 남병근 후보 선...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242731"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:28:00 +0900",
-        "title": "남병근 \"지역 경제 파탄 현역 심판\" vs 김성원 \"힘 있는 3선 국회의원\"",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461794"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:11:00 +0900",
-        "title": "이재명, '대장동 재판' 가는 길에 남병근 후보 원격 지원",
-        "link": "https://n.news.naver.com/mnews/article/057/0001809664?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:10:00 +0900",
-        "title": "총선에 뜨거운 감자된 ‘연천산업폐기물 매립장’···남병근·김광철 “공동...",
-        "link": "https://www.viva100.com/main/view.php?key=20240402010000468"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "남병근",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 422000
-      }
-    ],
-    "huboid": "100151460",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411702-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2411702_1-1.pdf"
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411702-2.jpg",
-    "id": "2411702_1-2",
-    "재산": 870200,
-    "생년월일": "19731015",
-    "경력": "(현)국회의원(제20·21대)\n(전)여의도연구원장",
-    "학력": "고려대학교 대학원 졸업(공학박사)",
-    "직업": "(현)국회의원",
-    "성별": "남",
-    "id_21th": "985",
-    "regionId": "2411702_1",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 14:28:00 +0900",
-        "title": "남병근 \"지역 경제 파탄 현역 심판\" vs 김성원 \"힘 있는 3선 국회의원\"",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461794"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 12:00:00 +0900",
-        "title": "이재명, '수해 망언' 與 김성원 공천 비판…\"웃기는 사람들\"",
-        "link": "https://n.news.naver.com/mnews/article/002/0002326005?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:50:00 +0900",
-        "title": "'김성원' 향해 이재명 \"파면 마땅한 사람, 여전히 살아남아\"",
-        "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=748709"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:13:00 +0900",
-        "title": "이재명 “민주당 후보였으면 제명”…‘수해 막말’ 김성원 저격",
-        "link": "https://n.news.naver.com/mnews/article/032/0003288155?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 14:16:00 +0900",
-        "title": "국힘 김성원 \"3선 질주, 성과와 능력으로 압도적 승리 이루겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007448015?sid=165"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김성원",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 699085
-      },
-      {
-        "연도": 2021,
-        "재산": 780509
-      },
-      {
-        "연도": 2022,
-        "재산": 769045
-      },
-      {
-        "연도": 2023,
-        "재산": 870200
-      }
-    ],
-    "huboid": "100152698",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411702-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2411702_1-2.pdf"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411702-1.jpg",
+        "id": "2411702_1-1",
+        "재산": 422000,
+        "생년월일": "19580416",
+        "경력": "(전)경기북부경찰청 차장\n(현)신한대학교 석좌교수",
+        "학력": "충남대학교 대학원 졸업(법학박사)",
+        "직업": "석좌교수",
+        "성별": "남",
+        "regionId": "2411702_1",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:56:00 +0900",
+                "title": "남병근 후보, 보산동 관광특구 활성화 추진 MOU체결",
+                "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=66261"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:06:00 +0900",
+                "title": "남병근 후보, 보산동 관광특구 활성화 추진 업무협약",
+                "link": "https://www.geconomy.co.kr/news/article.html?no=283508"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:06:00 +0900",
+                "title": "남병근 후보, 보산동 관광특구 활성화 추진… 국제문화교류 프로그램 개발",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317870"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+                "title": "[위클리오늘] 김성원 후보, \"지지율 격차 부정 공표했다\"··남병근 후보 고소",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=618151"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+                "title": "남병근, 연천출신 정성호·박지혜 후보와 경원선 연대 벨트 구축",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854538"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "남병근",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 422000
+            }
+        ],
+        "huboid": "100151460",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411702-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2411702_1-1.pdf"
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411702-2.jpg",
+        "id": "2411702_1-2",
+        "재산": 870200,
+        "생년월일": "19731015",
+        "경력": "(현)국회의원(제20·21대)\n(전)여의도연구원장",
+        "학력": "고려대학교 대학원 졸업(공학박사)",
+        "직업": "(현)국회의원",
+        "성별": "남",
+        "id_21th": "985",
+        "regionId": "2411702_1",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+                "title": "[위클리오늘] 김성원 후보, \"지지율 격차 부정 공표했다\"··남병근 후보 고소",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=618151"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:44:00 +0900",
+                "title": "동두천·연천 국힘 김성원,민주 남병근 고소…\"여론조사 왜곡 공표\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462512?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:58:00 +0900",
+                "title": "김성원 후보, 연천서 사전투표… \"제2의 연천의 기적 시작\"",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126643"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:22:00 +0900",
+                "title": "김성원 후보, 연천에서 사전투표 마쳐 “제2의 연천의 기적 시작”",
+                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404051008589220337"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:12:00 +0900",
+                "title": "김성원 후보, 연천에서 사전투표 마쳐...적극적인 사전투표 독려",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962008"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김성원",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 699085
+            },
+            {
+                "연도": 2021,
+                "재산": 780509
+            },
+            {
+                "연도": 2022,
+                "재산": 769045
+            },
+            {
+                "연도": 2023,
+                "재산": 870200
+            }
+        ],
+        "huboid": "100152698",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411702-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2411702_1-2.pdf"
+    }
 ]
