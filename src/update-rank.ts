@@ -2,7 +2,12 @@ import { readJSON, readdir, writeJson } from "fs-extra";
 import path from "path";
 import { LawMaker } from "./law-maker";
 import { LawMakerCadidate } from "./law-maker-candidate";
-import { 재산RankItem } from "./ranking";
+import {
+  대표발의법안RankItem,
+  본회의출석률RankItem,
+  재산RankItem,
+  재산증가율RankItem,
+} from "./ranking";
 import { RegionsJson } from "./region";
 import { 등수 } from "./등수";
 
@@ -22,36 +27,154 @@ async function main() {
 
   const lawMakerDir = path.join(__dirname, "../data/21th-law-makers");
   const files = await readdir(lawMakerDir);
-  const lawMakers = [];
+  const lawMakers: (LawMaker & { candidate: LawMakerCadidate })[] = [];
   for (const file of files) {
     const lawMaker: LawMaker = await readJSON(path.join(lawMakerDir, file));
-    lawMakers.push(lawMaker);
+    const candidate = matchCandidate(lawMaker, candidates);
+    if (candidate) {
+      lawMakers.push({ ...lawMaker, candidate });
+    }
   }
+  // money.json
   {
     const rankItems: 재산RankItem[] = [];
-    const 정렬 = lawMakers.sort(
-      (a, b) =>
-        b.연도별_재산.sort((a, b) => b.재산 - a.재산)[0].재산! -
-        a.연도별_재산.sort((a, b) => b.재산 - a.재산)[0].재산!
-    );
-    const ranks = 등수(정렬.map((maker) => maker.본회의_출석률));
+
+    const 정렬 = candidates.sort((a, b) => b.재산 - a.재산);
+    const ranks = 등수(정렬.map((c) => c.재산));
     for (let i = 0; i < 정렬.length; i++) {
-      const lawMaker = 정렬[i];
-      const candidate = matchCandidate(lawMaker, candidates);
+      const candidate = 정렬[i];
       rankItems.push({
-        id: lawMaker.id,
-        imageUrl: candidate?.imageUrl,
-        이름: lawMaker.이름,
-        지역구: candidate ? 지역구(candidate.regionId) : undefined,
-        정당: lawMaker.정당,
-        재산: lawMaker.연도별_재산.sort((a, b) => b.재산 - a.재산)[0].재산!,
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        재산: candidate.재산,
         rank: ranks[i],
+        총원: 정렬.length,
       });
     }
 
     await writeJson(
       path.join(__dirname, "../data/ranking/money.json"),
-      rankItems
+      rankItems.sort((a, b) => a.rank - b.rank)
+    );
+  }
+  // money-increase.json
+  {
+    const rankItems: 재산증가율RankItem[] = [];
+    function 연평균재산증가율(candidate: LawMakerCadidate): number | null {
+      if (candidate.연도별_재산.length < 2) {
+        return null;
+      }
+      const sorted재산 = candidate.연도별_재산.sort((a, b) => a.연도 - b.연도);
+      // 최근꺼 - 옛날거
+      return (
+        ((sorted재산.at(-1)!.재산 - sorted재산[0].재산) / sorted재산.length) *
+        100
+      );
+    }
+    function 연평균재산증가량(candidate: LawMakerCadidate): number | null {
+      if (candidate.연도별_재산.length < 2) {
+        return null;
+      }
+      const sorted재산 = candidate.연도별_재산.sort((a, b) => a.연도 - b.연도);
+      // 최근꺼 - 옛날거
+      return (sorted재산.at(-1)!.재산 - sorted재산[0].재산) / sorted재산.length;
+    }
+
+    const 정렬 = candidates
+      .filter((c) => 연평균재산증가율(c) !== null)
+      .sort((a, b) => 연평균재산증가율(b)! - 연평균재산증가율(a)!);
+    const ranks = 등수(정렬.map((c) => 연평균재산증가율(c)!));
+    for (let i = 0; i < 정렬.length; i++) {
+      const candidate = 정렬[i];
+      rankItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        재산증가율: 연평균재산증가율(candidate)!,
+        재산증가량: 연평균재산증가량(candidate)!,
+        rank: ranks[i],
+        총원: 정렬.length,
+      });
+    }
+
+    await writeJson(
+      path.join(__dirname, "../data/ranking/money-increase.json"),
+      rankItems.sort((a, b) => a.rank - b.rank)
+    );
+  }
+
+  // attendance.json
+  {
+    const rankItems: 본회의출석률RankItem[] = [];
+    function 출석률(candidate: LawMakerCadidate): number | null {
+      const lawMaker = lawMakers.find((lm) => lm.id === candidate.id_21th);
+      if (!lawMaker) {
+        return null;
+      }
+      return lawMaker.본회의_출석률;
+    }
+
+    const 정렬 = candidates
+      .filter((c) => 출석률(c) !== null)
+      .sort((a, b) => 출석률(b)! - 출석률(a)!);
+    const ranks = 등수(정렬.map((c) => 출석률(c)!));
+    for (let i = 0; i < 정렬.length; i++) {
+      const candidate = 정렬[i];
+      rankItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        본회의출석률: 출석률(candidate)!,
+        rank: ranks[i],
+        총원: 정렬.length,
+      });
+    }
+
+    await writeJson(
+      path.join(__dirname, "../data/ranking/attendance.json"),
+      rankItems.sort((a, b) => a.rank - b.rank)
+    );
+  }
+
+  // initiative.json
+  {
+    const rankItems: 대표발의법안RankItem[] = [];
+    function 대표발의법안(candidate: LawMakerCadidate): number | null {
+      const lawMaker = lawMakers.find((lm) => lm.id === candidate.id_21th);
+      if (!lawMaker?.상임위원회_출석률.length) {
+        return null;
+      }
+      return lawMaker.대표발의법안;
+    }
+
+    const 정렬 = candidates
+      .filter((c) => 대표발의법안(c) !== null)
+      .sort((a, b) => 대표발의법안(b)! - 대표발의법안(a)!);
+    const ranks = 등수(정렬.map((c) => 대표발의법안(c)!));
+    for (let i = 0; i < 정렬.length; i++) {
+      const candidate = 정렬[i];
+      rankItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        대표발의법안: 대표발의법안(candidate)!,
+        rank: ranks[i],
+        총원: 정렬.length,
+      });
+    }
+
+    await writeJson(
+      path.join(__dirname, "../data/ranking/initiative.json"),
+      rankItems.sort((a, b) => a.rank - b.rank)
     );
   }
 }
@@ -61,7 +184,9 @@ function matchCandidate(
   lawMaker: LawMaker,
   candidates: LawMakerCadidate[]
 ): LawMakerCadidate | undefined {
-  return candidates.find((candidate) => candidate.id_21th === lawMaker.id);
+  return candidates
+    .filter((c) => !c.regionId.includes("_"))
+    .find((candidate) => candidate.id_21th === lawMaker.id);
 }
 
 async function loadUnitedCandidates(): Promise<LawMakerCadidate[]> {
