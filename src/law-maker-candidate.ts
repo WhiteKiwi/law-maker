@@ -25,11 +25,6 @@ export type LawMakerCadidate = {
   전과건수: number;
   전과ImgUrl: string;
   공보PdfUrl: string;
-  공약이행률: {
-    이름: string;
-    총공약수: number | null;
-    공약이행수: number | null;
-  };
 };
 
 /**
@@ -60,9 +55,4 @@ export const LawMakerCadidate: z.Schema<LawMakerCadidate> = z.object({
   전과건수: z.number(),
   전과ImgUrl: z.string(),
   공보PdfUrl: z.string(),
-  공약이행률: z.object({
-    이름: z.string(),
-    총공약수: z.number().nullable(),
-    공약이행수: z.number().nullable(),
-  }),
 });
