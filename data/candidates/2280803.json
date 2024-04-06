@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2280803-1",
-        "regionId": "2280803",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280803-1.jpg",
-        "기호": 1,
-        "이름": "이용우",
-        "생년월일": "19740716",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "인하대학교 법학전문대학원 졸업(법무석사)",
-        "경력": "(전) 직장갑질119 법률스탭\n(전) 교육부 시민감사관",
-        "재산": 1430186,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
-                "title": "시민단체 \"성폭력 가해자 변호 이용우 후보 사과하라\"",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220557"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 03:03:00 +0900",
-                "title": "‘노동인권 변호사’ 내세운 민주 이용우, 2021년 노조동료 성폭행 가해자 변...",
-                "link": "https://n.news.naver.com/mnews/article/020/0003557403?sid=102"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 20:00:00 +0900",
-                "title": "[4·10 총선-서구 을 맞수] 더불어민주당 이용우",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243356"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:09:00 +0900",
-                "title": "이용우, 노조동료 성폭행한 피고인 변호인단에 이름 올려",
-                "link": "https://n.news.naver.com/mnews/article/020/0003557316?sid=102"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:00:00 +0900",
-                "title": "[단독] ‘직장갑질119’ 창립 멤버 이용우, ‘사내 성폭력’ 가해자 변호인단...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003921268?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1430186
-            }
-        ],
-        "huboid": "100152981",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280803-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280803-1.pdf"
-    },
-    {
-        "id": "2280803-2",
-        "regionId": "2280803",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280803-2.jpg",
-        "기호": 2,
-        "이름": "박종진",
-        "생년월일": "19670420",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "동아방송예술대학교 초빙교수",
-        "학력": "고려대학교 영어영문학과 졸업",
-        "경력": "(전)'박종진의 쾌도난마' 메인앵커\n(전)'강적들' 메인진행",
-        "재산": 1774594,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:14:00 +0900",
-                "title": "박종진 인천 서구을 후보 \"청라국제도시를 수상레저도시로 만들겠다\"",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1108741"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:58:00 +0900",
-                "title": "박종진 “청라국제도시를 수상레저도시로 만들겠다”",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854463"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 20:00:00 +0900",
-                "title": "[4·10 총선-서구 을 맞수] 국민의힘 박종진",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243355"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:46:00 +0900",
-                "title": "박종진 \"청라국제도시, 수상레저도시로 만든다\"",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645696"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:44:00 +0900",
-                "title": "국힘 박종진 인천 서구을 후보, “청라국제도시를 국제 수상레저도시로 조성”",
-                "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91181"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1774594
-            }
-        ],
-        "huboid": "100152335",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280803-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280803-2.pdf"
-    }
+  {
+    "id": "2280803-1",
+    "regionId": "2280803",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280803-1.jpg",
+    "기호": 1,
+    "이름": "이용우",
+    "생년월일": "19740716",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "인하대학교 법학전문대학원 졸업(법무석사)",
+    "경력": "(전) 직장갑질119 법률스탭\n(전) 교육부 시민감사관",
+    "재산": 1430186,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+        "title": "시민단체 \"성폭력 가해자 변호 이용우 후보 사과하라\"",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220557"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 03:03:00 +0900",
+        "title": "‘노동인권 변호사’ 내세운 민주 이용우, 2021년 노조동료 성폭행 가해자 변...",
+        "link": "https://n.news.naver.com/mnews/article/020/0003557403?sid=102"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:00:00 +0900",
+        "title": "[4·10 총선-서구 을 맞수] 더불어민주당 이용우",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243356"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:09:00 +0900",
+        "title": "이용우, 노조동료 성폭행한 피고인 변호인단에 이름 올려",
+        "link": "https://n.news.naver.com/mnews/article/020/0003557316?sid=102"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:00:00 +0900",
+        "title": "[단독] ‘직장갑질119’ 창립 멤버 이용우, ‘사내 성폭력’ 가해자 변호인단...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003921268?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1430186
+      }
+    ],
+    "huboid": "100152981",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280803-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280803-1.pdf"
+  },
+  {
+    "id": "2280803-2",
+    "regionId": "2280803",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280803-2.jpg",
+    "기호": 2,
+    "이름": "박종진",
+    "생년월일": "19670420",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "동아방송예술대학교 초빙교수",
+    "학력": "고려대학교 영어영문학과 졸업",
+    "경력": "(전)'박종진의 쾌도난마' 메인앵커\n(전)'강적들' 메인진행",
+    "재산": 1774594,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:14:00 +0900",
+        "title": "박종진 인천 서구을 후보 \"청라국제도시를 수상레저도시로 만들겠다\"",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1108741"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:58:00 +0900",
+        "title": "박종진 “청라국제도시를 수상레저도시로 만들겠다”",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854463"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:00:00 +0900",
+        "title": "[4·10 총선-서구 을 맞수] 국민의힘 박종진",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243355"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:46:00 +0900",
+        "title": "박종진 \"청라국제도시, 수상레저도시로 만든다\"",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645696"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:44:00 +0900",
+        "title": "국힘 박종진 인천 서구을 후보, “청라국제도시를 국제 수상레저도시로 조성”",
+        "link": "https://www.weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=91181"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1774594
+      }
+    ],
+    "huboid": "100152335",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280803-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280803-2.pdf"
+  }
 ]

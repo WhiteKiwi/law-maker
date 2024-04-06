@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480801-1.jpg",
-        "id": "2480801-1",
-        "재산": 2384275,
-        "생년월일": "19610418",
-        "경력": "(현)제21대 더불어민주당 국회의원\n(전)국방부 고등군사법원 법원장(육군준장)",
-        "학력": "부산대학교 대학원 법학과 졸업(법학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "id_21th": "778",
-        "regionId": "2480801",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 15:00:00 +0900",
-                "title": "민주당 김해갑·을 민홍철·김정호 후보, 사전투표 참여",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002753"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 21:34:00 +0900",
-                "title": "[격전지를 가다- 김해갑] 민홍철 “윤석열 정권 심판” - 박성호 “민주당 12...",
-                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429326"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:14:00 +0900",
-                "title": "인사하는 김부겸·민홍철",
-                "link": "https://n.news.naver.com/mnews/article/001/0014609009?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:14:00 +0900",
-                "title": "인사하는 김부겸·민홍철",
-                "link": "https://n.news.naver.com/mnews/article/001/0014609010?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:13:00 +0900",
-                "title": "김부겸 '민홍철 후보 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014609003?sid=100"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "민홍철",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1785981
-            },
-            {
-                "연도": 2021,
-                "재산": 2047022
-            },
-            {
-                "연도": 2022,
-                "재산": 2449569
-            },
-            {
-                "연도": 2023,
-                "재산": 2384275
-            }
-        ],
-        "huboid": "100152622",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480801-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480801-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480801-2.jpg",
-        "id": "2480801-2",
-        "재산": 1371698,
-        "생년월일": "19661213",
-        "경력": "(전)경상남도 행정부지사\n(전)김해의생명산업진흥원장",
-        "학력": "경찰대학 법학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2480801",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:03:00 +0900",
-                "title": "경남 민주당 \"경로당에 냉장고 기부, 선거법 위반\" - 박성호 \"사실 아냐\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429313?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:40:00 +0900",
-                "title": "박성호 후보 \"진영을 e-스포츠산업 메카로\" 약속",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003491"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:00:00 +0900",
-                "title": "국힘 박성호 김해갑 후보 \"진영, e-스포츠산업 대한민국 메카도시로 육성\"",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962322"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:08:00 +0900",
-                "title": "국힘 김해갑 박성호 \"진영읍, e-스포츠산업 메카로 육성”",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474803?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:58:00 +0900",
-                "title": "박성호 \"김해 진영, e-스포츠산업 메카로 육성하겠다\"",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326619?sid=102"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박성호",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1371698
-            }
-        ],
-        "huboid": "100151286",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480801-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480801-2.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2480801-1.jpg",
+    "id": "2480801-1",
+    "재산": 2384275,
+    "생년월일": "19610418",
+    "경력": "(현)제21대 더불어민주당 국회의원\n(전)국방부 고등군사법원 법원장(육군준장)",
+    "학력": "부산대학교 대학원 법학과 졸업(법학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "id_21th": "778",
+    "regionId": "2480801",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 15:00:00 +0900",
+        "title": "민주당 김해갑·을 민홍철·김정호 후보, 사전투표 참여",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002753"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 21:34:00 +0900",
+        "title": "[격전지를 가다- 김해갑] 민홍철 “윤석열 정권 심판” - 박성호 “민주당 12...",
+        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429326"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:14:00 +0900",
+        "title": "인사하는 김부겸·민홍철",
+        "link": "https://n.news.naver.com/mnews/article/001/0014609009?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:14:00 +0900",
+        "title": "인사하는 김부겸·민홍철",
+        "link": "https://n.news.naver.com/mnews/article/001/0014609010?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:13:00 +0900",
+        "title": "김부겸 '민홍철 후보 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014609003?sid=100"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "민홍철",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1785981
+      },
+      {
+        "연도": 2021,
+        "재산": 2047022
+      },
+      {
+        "연도": 2022,
+        "재산": 2449569
+      },
+      {
+        "연도": 2023,
+        "재산": 2384275
+      }
+    ],
+    "huboid": "100152622",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2480801-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480801-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2480801-2.jpg",
+    "id": "2480801-2",
+    "재산": 1371698,
+    "생년월일": "19661213",
+    "경력": "(전)경상남도 행정부지사\n(전)김해의생명산업진흥원장",
+    "학력": "경찰대학 법학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2480801",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:03:00 +0900",
+        "title": "경남 민주당 \"경로당에 냉장고 기부, 선거법 위반\" - 박성호 \"사실 아냐\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429313?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:40:00 +0900",
+        "title": "박성호 후보 \"진영을 e-스포츠산업 메카로\" 약속",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003491"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:00:00 +0900",
+        "title": "국힘 박성호 김해갑 후보 \"진영, e-스포츠산업 대한민국 메카도시로 육성\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962322"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:08:00 +0900",
+        "title": "국힘 김해갑 박성호 \"진영읍, e-스포츠산업 메카로 육성”",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474803?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:58:00 +0900",
+        "title": "박성호 \"김해 진영, e-스포츠산업 메카로 육성하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326619?sid=102"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박성호",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1371698
+      }
+    ],
+    "huboid": "100151286",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2480801-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480801-2.pdf"
+  }
 ]

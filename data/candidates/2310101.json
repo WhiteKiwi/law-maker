@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-1.jpg",
-        "id": "2310101-1",
-        "재산": 1225035,
-        "생년월일": "19801128",
-        "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
-        "학력": "성균관대학교 대학원 졸업(정치학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2310101",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 20:53:00 +0900",
-                "title": "울산 중구 박성민vs오상택 TV 토론, 상대 공약 허점 집중 공격",
-                "link": "https://n.news.naver.com/mnews/article/421/0007457102?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 22:00:00 +0900",
-                "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
-                "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:09:00 +0900",
-                "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원[2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005165770?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:02:00 +0900",
-                "title": "‘선거 등판’ 문재인, 울산서 尹 향해 “이렇게 못하는 정부는 처음봐”",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021637591260229"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 17:00:00 +0900",
-                "title": "문재인, 울산서 '민주당 후보' 지원···\"이번 총선, 대한민국 운명 좌우\"",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1107624"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "오상택",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1225035
-            }
-        ],
-        "huboid": "100151512",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310101-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310101-1.pdf"
-    },
-    {
-        "전과건수": 2,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310101-2.jpg",
-        "id": "2310101-2",
-        "재산": 1180741,
-        "생년월일": "19590419",
-        "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
-        "학력": "울산대학교 정책대학원 졸업(행정학석사)",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1089",
-        "regionId": "2310101",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 00:04:00 +0900",
-                "title": "울산 중구 박성민 \"중앙정부서 큰 예산 가져올 것\"",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=470057"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 20:53:00 +0900",
-                "title": "울산 중구 박성민vs오상택 TV 토론, 상대 공약 허점 집중 공격",
-                "link": "https://n.news.naver.com/mnews/article/421/0007457102?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 13:58:00 +0900",
-                "title": "정치분석가 박성민 \"'부산 수영' 단일화 당이 받겠나…장예찬 결단해야\"",
-                "link": "https://n.news.naver.com/mnews/article/008/0005020969?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 09:53:00 +0900",
-                "title": "박성민 \"부산 수영, 보수 분열로 패하면 장예찬이 더 타격…결단할 순간\"",
-                "link": "https://n.news.naver.com/mnews/article/421/0007454891?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 09:41:00 +0900",
-                "title": "[일타 박성민] 잊히고 싶다던 文, 왜 '파란 점퍼' 입었나",
-                "link": "https://n.news.naver.com/mnews/article/079/0003881215?sid=100"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박성민",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 890741
-            },
-            {
-                "연도": 2021,
-                "재산": 911873
-            },
-            {
-                "연도": 2022,
-                "재산": 880255
-            },
-            {
-                "연도": 2023,
-                "재산": 1180741
-            }
-        ],
-        "huboid": "100152554",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310101-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310101-2.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310101-1.jpg",
+    "id": "2310101-1",
+    "재산": 1225035,
+    "생년월일": "19801128",
+    "경력": "(전)문재인 대통령 청와대 행정관 \n(전)울산대학교 겸임교수",
+    "학력": "성균관대학교 대학원 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2310101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 20:53:00 +0900",
+        "title": "울산 중구 박성민vs오상택 TV 토론, 상대 공약 허점 집중 공격",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457102?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 22:00:00 +0900",
+        "title": "오상택 윤종오 후보, 노동·청년 공약 발표",
+        "link": "http://www.ujeil.com/news/articleView.html?idxno=345060"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:09:00 +0900",
+        "title": "강원·충북·TK '험지' 집중 공략한 민주…文도 깜짝 유세 지원[2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005165770?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:02:00 +0900",
+        "title": "‘선거 등판’ 문재인, 울산서 尹 향해 “이렇게 못하는 정부는 처음봐”",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404021637591260229"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 17:00:00 +0900",
+        "title": "문재인, 울산서 '민주당 후보' 지원···\"이번 총선, 대한민국 운명 좌우\"",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107624"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "오상택",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1225035
+      }
+    ],
+    "huboid": "100151512",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310101-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310101-1.pdf"
+  },
+  {
+    "전과건수": 2,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310101-2.jpg",
+    "id": "2310101-2",
+    "재산": 1180741,
+    "생년월일": "19590419",
+    "경력": "(현)제21대 국회의원(울산 중구)\n(전)민선5.6대 울산 중구청장",
+    "학력": "울산대학교 정책대학원 졸업(행정학석사)",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1089",
+    "regionId": "2310101",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 00:04:00 +0900",
+        "title": "울산 중구 박성민 \"중앙정부서 큰 예산 가져올 것\"",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=470057"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 20:53:00 +0900",
+        "title": "울산 중구 박성민vs오상택 TV 토론, 상대 공약 허점 집중 공격",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457102?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 13:58:00 +0900",
+        "title": "정치분석가 박성민 \"'부산 수영' 단일화 당이 받겠나…장예찬 결단해야\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005020969?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 09:53:00 +0900",
+        "title": "박성민 \"부산 수영, 보수 분열로 패하면 장예찬이 더 타격…결단할 순간\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0007454891?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 09:41:00 +0900",
+        "title": "[일타 박성민] 잊히고 싶다던 文, 왜 '파란 점퍼' 입었나",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881215?sid=100"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박성민",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 890741
+      },
+      {
+        "연도": 2021,
+        "재산": 911873
+      },
+      {
+        "연도": 2022,
+        "재산": 880255
+      },
+      {
+        "연도": 2023,
+        "재산": 1180741
+      }
+    ],
+    "huboid": "100152554",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310101-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310101-2.pdf"
+  }
 ]

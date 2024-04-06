@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460201-1.jpg",
-        "id": "2460201-1",
-        "재산": 3245376,
-        "생년월일": "19590312",
-        "경력": "국회의원(현)\n민선6기 여수시장(전)",
-        "학력": "성균관대학교 법과대학 졸업",
-        "직업": "제21대 국회의원",
-        "성별": "남",
-        "id_21th": "1134",
-        "regionId": "2460201",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 17:10:00 +0900",
-                "title": "[4.10총선-225] 여수시갑, 주철현vs박정숙. '여순사건' 소환",
-                "link": "http://www.mhj21.com/160311"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 20:42:00 +0900",
-                "title": "주철현 “여순사건 망언 박정숙 사퇴해야”",
-                "link": "http://www.kjdaily.com/article.php?aid=1712142778626508246"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:42:00 +0900",
-                "title": "[총선브리핑] 주철현 여수갑 후보 “여순사건 희생자 명예훼손한 박정숙 후보...",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1712137200766556359"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:14:00 +0900",
-                "title": "[부고] 박지현 주철현 의원실 비서관 조부상",
-                "link": "https://www.gokorea.kr/news/articleView.html?idxno=752296"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:12:00 +0900",
-                "title": "[부고] 박지현 주철현 의원실 비서관 조부상",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014320"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "주철현",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2207385
-            },
-            {
-                "연도": 2021,
-                "재산": 2335264
-            },
-            {
-                "연도": 2022,
-                "재산": 3130128
-            },
-            {
-                "연도": 2023,
-                "재산": 3245376
-            }
-        ],
-        "huboid": "100152228",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460201-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460201-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460201-2.jpg",
-        "id": "2460201-2",
-        "재산": 361000,
-        "생년월일": "19660609",
-        "경력": "(현) 국민의힘 전남도당 산림환경분과 위원장\n(현) 민주평통 여수시협의회 간사",
-        "학력": "여수중앙여자고등학교 졸업",
-        "직업": "사)환경보전대응본부 광주전남지부 지부장",
-        "성별": "여",
-        "regionId": "2460201",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 20:46:00 +0900",
-                "title": "여순사건유족·시민단체 \"박정숙 후보 망언 사죄 촉구\"",
-                "link": "https://ysmbc.co.kr/article/NA_5w2BDumdhkJq2CQ_D"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:10:00 +0900",
-                "title": "[4.10총선-225] 여수시갑, 주철현vs박정숙. '여순사건' 소환",
-                "link": "http://www.mhj21.com/160311"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:44:00 +0900",
-                "title": "시민단체, \"박정숙 후보, 희생자 원혼마저 분노하게 할 망언\" 비판",
-                "link": "http://www.netongs.com/news/articleView.html?idxno=318827"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:20:00 +0900",
-                "title": "[2024 총선]여수갑 박정숙 후보 \"여순사건, '14연대 반란 사건으로 바꾸어야'...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765657"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:38:00 +0900",
-                "title": "조국혁신당, '여순 사건 망언' 국힘 박정숙 후보 비판",
-                "link": "http://www.mdilbo.com/detail/Z0UE6f/717036"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "박정숙",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 361000
-            }
-        ],
-        "huboid": "100152343",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460201-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460201-2.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460201-1.jpg",
+    "id": "2460201-1",
+    "재산": 3245376,
+    "생년월일": "19590312",
+    "경력": "국회의원(현)\n민선6기 여수시장(전)",
+    "학력": "성균관대학교 법과대학 졸업",
+    "직업": "제21대 국회의원",
+    "성별": "남",
+    "id_21th": "1134",
+    "regionId": "2460201",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 17:10:00 +0900",
+        "title": "[4.10총선-225] 여수시갑, 주철현vs박정숙. '여순사건' 소환",
+        "link": "http://www.mhj21.com/160311"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 20:42:00 +0900",
+        "title": "주철현 “여순사건 망언 박정숙 사퇴해야”",
+        "link": "http://www.kjdaily.com/article.php?aid=1712142778626508246"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:42:00 +0900",
+        "title": "[총선브리핑] 주철현 여수갑 후보 “여순사건 희생자 명예훼손한 박정숙 후보...",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1712137200766556359"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:14:00 +0900",
+        "title": "[부고] 박지현 주철현 의원실 비서관 조부상",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=752296"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:12:00 +0900",
+        "title": "[부고] 박지현 주철현 의원실 비서관 조부상",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014320"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "주철현",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2207385
+      },
+      {
+        "연도": 2021,
+        "재산": 2335264
+      },
+      {
+        "연도": 2022,
+        "재산": 3130128
+      },
+      {
+        "연도": 2023,
+        "재산": 3245376
+      }
+    ],
+    "huboid": "100152228",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460201-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460201-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460201-2.jpg",
+    "id": "2460201-2",
+    "재산": 361000,
+    "생년월일": "19660609",
+    "경력": "(현) 국민의힘 전남도당 산림환경분과 위원장\n(현) 민주평통 여수시협의회 간사",
+    "학력": "여수중앙여자고등학교 졸업",
+    "직업": "사)환경보전대응본부 광주전남지부 지부장",
+    "성별": "여",
+    "regionId": "2460201",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 20:46:00 +0900",
+        "title": "여순사건유족·시민단체 \"박정숙 후보 망언 사죄 촉구\"",
+        "link": "https://ysmbc.co.kr/article/NA_5w2BDumdhkJq2CQ_D"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:10:00 +0900",
+        "title": "[4.10총선-225] 여수시갑, 주철현vs박정숙. '여순사건' 소환",
+        "link": "http://www.mhj21.com/160311"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:44:00 +0900",
+        "title": "시민단체, \"박정숙 후보, 희생자 원혼마저 분노하게 할 망언\" 비판",
+        "link": "http://www.netongs.com/news/articleView.html?idxno=318827"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:20:00 +0900",
+        "title": "[2024 총선]여수갑 박정숙 후보 \"여순사건, '14연대 반란 사건으로 바꾸어야'...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765657"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:38:00 +0900",
+        "title": "조국혁신당, '여순 사건 망언' 국힘 박정숙 후보 비판",
+        "link": "http://www.mdilbo.com/detail/Z0UE6f/717036"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "박정숙",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 361000
+      }
+    ],
+    "huboid": "100152343",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460201-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460201-2.pdf"
+  }
 ]

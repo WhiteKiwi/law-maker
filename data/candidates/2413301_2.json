@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2413301_2-1",
-        "regionId": "2413301_2",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413301-1.jpg",
-        "기호": 1,
-        "이름": "최재관",
-        "생년월일": "19681218",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 농생물학과 졸업",
-        "경력": "(전) 대통령비서실 농어업비서관\n(전) 더불어민주당 여주시양평군 지역위원장",
-        "재산": 210799,
-        "군필여부": true,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 15:56:00 +0900",
-                "title": "민주당 최재관 후보 \"서울이 부러워하는 여주‧양평 만들겠다\"",
-                "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104818"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:58:00 +0900",
-                "title": "총선 공약 중 603개는 추계조차 못해… 여주양평 지역구, 최재관 후보만 매니...",
-                "link": "https://www.ypsori.com/news/articleView.html?idxno=34983"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 22:46:00 +0900",
-                "title": "'여주·양평 선거구' 김선교·최재관 후보, TV토론 열띤 공방",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645461"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:22:00 +0900",
-                "title": "김선교 ·최재관 여주·양평 후보 TV토론회 열띤 공방 [열전 25시]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000038167?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:43:00 +0900",
-                "title": "[경기 여주양평] 국민의힘 김선교 48.5%, 더불어민주당 최재관 45.5%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428376?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 210799
-            }
-        ],
-        "huboid": "100151355",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413301-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413301_2-1.pdf"
-    },
-    {
-        "id": "2413301_2-2",
-        "regionId": "2413301_2",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413301-2.jpg",
-        "기호": 2,
-        "이름": "김선교",
-        "생년월일": "19600918",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 정책대학원 졸업(경제학석사)",
-        "경력": "(전) 여주시·양평군 국회의원\n(전) 양평군수(민선4,5,6기)",
-        "재산": 495043,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 22:46:00 +0900",
-                "title": "'여주·양평 선거구' 김선교·최재관 후보, TV토론 열띤 공방",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645461"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:22:00 +0900",
-                "title": "김선교 ·최재관 여주·양평 후보 TV토론회 열띤 공방 [열전 25시]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000038167?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 15:43:00 +0900",
-                "title": "[경기 여주양평] 국민의힘 김선교 48.5%, 더불어민주당 최재관 45.5%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428376?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:02:00 +0900",
-                "title": "최재관 45.5%, 김선교 48.5% 오차범위 내 초접전… 여주양평도 조국혁신당 바...",
-                "link": "https://www.ypsori.com/news/articleView.html?idxno=34955"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 10:08:00 +0900",
-                "title": "[총선 D-10] 국민의힘 김선교 여주·양평 후보 \"다양한 공직과 현장 경험 명품...",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025383"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 495043
-            }
-        ],
-        "huboid": "100151371",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413301-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413301_2-2.pdf"
-    }
+  {
+    "id": "2413301_2-1",
+    "regionId": "2413301_2",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2413301-1.jpg",
+    "기호": 1,
+    "이름": "최재관",
+    "생년월일": "19681218",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 농생물학과 졸업",
+    "경력": "(전) 대통령비서실 농어업비서관\n(전) 더불어민주당 여주시양평군 지역위원장",
+    "재산": 210799,
+    "군필여부": true,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 15:56:00 +0900",
+        "title": "민주당 최재관 후보 \"서울이 부러워하는 여주‧양평 만들겠다\"",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104818"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:58:00 +0900",
+        "title": "총선 공약 중 603개는 추계조차 못해… 여주양평 지역구, 최재관 후보만 매니...",
+        "link": "https://www.ypsori.com/news/articleView.html?idxno=34983"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 22:46:00 +0900",
+        "title": "'여주·양평 선거구' 김선교·최재관 후보, TV토론 열띤 공방",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645461"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:22:00 +0900",
+        "title": "김선교 ·최재관 여주·양평 후보 TV토론회 열띤 공방 [열전 25시]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000038167?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:43:00 +0900",
+        "title": "[경기 여주양평] 국민의힘 김선교 48.5%, 더불어민주당 최재관 45.5%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428376?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 210799
+      }
+    ],
+    "huboid": "100151355",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2413301-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413301_2-1.pdf"
+  },
+  {
+    "id": "2413301_2-2",
+    "regionId": "2413301_2",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2413301-2.jpg",
+    "기호": 2,
+    "이름": "김선교",
+    "생년월일": "19600918",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 정책대학원 졸업(경제학석사)",
+    "경력": "(전) 여주시·양평군 국회의원\n(전) 양평군수(민선4,5,6기)",
+    "재산": 495043,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 22:46:00 +0900",
+        "title": "'여주·양평 선거구' 김선교·최재관 후보, TV토론 열띤 공방",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645461"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:22:00 +0900",
+        "title": "김선교 ·최재관 여주·양평 후보 TV토론회 열띤 공방 [열전 25시]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000038167?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 15:43:00 +0900",
+        "title": "[경기 여주양평] 국민의힘 김선교 48.5%, 더불어민주당 최재관 45.5%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428376?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:02:00 +0900",
+        "title": "최재관 45.5%, 김선교 48.5% 오차범위 내 초접전… 여주양평도 조국혁신당 바...",
+        "link": "https://www.ypsori.com/news/articleView.html?idxno=34955"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 10:08:00 +0900",
+        "title": "[총선 D-10] 국민의힘 김선교 여주·양평 후보 \"다양한 공직과 현장 경험 명품...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025383"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 495043
+      }
+    ],
+    "huboid": "100151371",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2413301-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413301_2-2.pdf"
+  }
 ]

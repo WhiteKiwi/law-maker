@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-1.jpg",
-        "id": "2414801-1",
-        "재산": 973658,
-        "생년월일": "19651220",
-        "경력": "(현)제21대 국회의원(화성시갑선거구)\n(전)제21대 국회 환경노동위원회 위원장",
-        "학력": "연세대학교 행정대학원 졸업(행정학 석사)",
-        "직업": "국회의원",
-        "성별": "여",
-        "id_21th": "938",
-        "regionId": "2414801",
-        "기호": 1,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Wed, 03 Apr 2024 20:38:00 +0900",
-                "title": "[유세장 직격 인터뷰] 남병근·김명연·이소영·최영근·송옥주·염태영·정필...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645375"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:03:00 +0900",
-                "title": "송옥주 \"윤 정부 심판론\" vs 홍형선 \"민주당 무용론\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428700?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 12:39:00 +0900",
-                "title": "화성시갑 민주당 송옥주ㆍ국힘 홍형선 후보, 노인대학서 지지호소 [포토뉴스]",
-                "link": "https://n.news.naver.com/mnews/article/666/0000037903?sid=102"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 06:00:00 +0900",
-                "title": "[총선 격전지] '화성갑' 송옥주 \"진보 수성\" vs 홍형선 \"보수 탈환\"",
-                "link": "https://www.newspim.com/news/view/20240321001008"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 16:25:00 +0900",
-                "title": "[총선 격전지] 개발 더딘 화성갑…'송옥주 vs 홍형선' 발전방안 앞다퉈",
-                "link": "https://www.newspim.com/news/view/20240321000644"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "송옥주",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 709865
-            },
-            {
-                "연도": 2021,
-                "재산": 886569
-            },
-            {
-                "연도": 2022,
-                "재산": 928728
-            },
-            {
-                "연도": 2023,
-                "재산": 973658
-            }
-        ],
-        "huboid": "100152297",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414801-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414801-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414801-2.jpg",
-        "id": "2414801-2",
-        "재산": 2005842,
-        "생년월일": "19680127",
-        "경력": "(전)국회사무처 사무차장\n(전)국회예산정책처 조세분석심의관",
-        "학력": "연세대학교 대학원 졸업(행정학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2414801",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:53:00 +0900",
-                "title": "홍형선 후보 측, 김경희 화성시의장 관용차량 사적 이용 주장…김 의장 \"통상...",
-                "link": "https://n.news.naver.com/mnews/article/666/0000038396?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
-                "title": "국민의힘 화성시갑 홍형선 후보, 삼대가 함께한 사전투표",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854575"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:24:00 +0900",
-                "title": "홍형선 화성갑 후보, '장기요양기관 시설 협회' 간담회 가져",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081994"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:03:00 +0900",
-                "title": "진보당 화성 \"홍형선 후보 새빨간 거짓말 사과하라!\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428986?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:56:00 +0900",
-                "title": "화성서부지역 청년들 국힘 홍형선 화성갑 후보 지지선언",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240403024364518"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "홍형선",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2005842
-            }
-        ],
-        "huboid": "100151053",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414801-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414801-2.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2414801-1.jpg",
+    "id": "2414801-1",
+    "재산": 973658,
+    "생년월일": "19651220",
+    "경력": "(현)제21대 국회의원(화성시갑선거구)\n(전)제21대 국회 환경노동위원회 위원장",
+    "학력": "연세대학교 행정대학원 졸업(행정학 석사)",
+    "직업": "국회의원",
+    "성별": "여",
+    "id_21th": "938",
+    "regionId": "2414801",
+    "기호": 1,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Wed, 03 Apr 2024 20:38:00 +0900",
+        "title": "[유세장 직격 인터뷰] 남병근·김명연·이소영·최영근·송옥주·염태영·정필...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645375"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:03:00 +0900",
+        "title": "송옥주 \"윤 정부 심판론\" vs 홍형선 \"민주당 무용론\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428700?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:39:00 +0900",
+        "title": "화성시갑 민주당 송옥주ㆍ국힘 홍형선 후보, 노인대학서 지지호소 [포토뉴스]",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037903?sid=102"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 06:00:00 +0900",
+        "title": "[총선 격전지] '화성갑' 송옥주 \"진보 수성\" vs 홍형선 \"보수 탈환\"",
+        "link": "https://www.newspim.com/news/view/20240321001008"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 16:25:00 +0900",
+        "title": "[총선 격전지] 개발 더딘 화성갑…'송옥주 vs 홍형선' 발전방안 앞다퉈",
+        "link": "https://www.newspim.com/news/view/20240321000644"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "송옥주",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 709865
+      },
+      {
+        "연도": 2021,
+        "재산": 886569
+      },
+      {
+        "연도": 2022,
+        "재산": 928728
+      },
+      {
+        "연도": 2023,
+        "재산": 973658
+      }
+    ],
+    "huboid": "100152297",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2414801-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414801-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2414801-2.jpg",
+    "id": "2414801-2",
+    "재산": 2005842,
+    "생년월일": "19680127",
+    "경력": "(전)국회사무처 사무차장\n(전)국회예산정책처 조세분석심의관",
+    "학력": "연세대학교 대학원 졸업(행정학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2414801",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:53:00 +0900",
+        "title": "홍형선 후보 측, 김경희 화성시의장 관용차량 사적 이용 주장…김 의장 \"통상...",
+        "link": "https://n.news.naver.com/mnews/article/666/0000038396?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+        "title": "국민의힘 화성시갑 홍형선 후보, 삼대가 함께한 사전투표",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854575"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:24:00 +0900",
+        "title": "홍형선 화성갑 후보, '장기요양기관 시설 협회' 간담회 가져",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081994"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:03:00 +0900",
+        "title": "진보당 화성 \"홍형선 후보 새빨간 거짓말 사과하라!\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428986?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:56:00 +0900",
+        "title": "화성서부지역 청년들 국힘 홍형선 화성갑 후보 지지선언",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240403024364518"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "홍형선",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2005842
+      }
+    ],
+    "huboid": "100151053",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2414801-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414801-2.pdf"
+  }
 ]

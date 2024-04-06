@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-1.jpg",
-        "id": "2440501_1-1",
-        "재산": 1555462,
-        "생년월일": "19660925",
-        "경력": "(전) 문재인정부 청와대 의전비서관\n(전) 문재인정부 청와대 제1부속비서관",
-        "학력": "연세대학교 문과대학 영어영문학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2440501_1",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
-                "title": "與 지방의원들, 野 조한기에 '태양광 괴담' 정조준",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220555"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:13:00 +0900",
-                "title": "[총선 사전투표]조한기 서산·태안 후보 \"간절한 마음으로 최선\"",
-                "link": "https://n.news.naver.com/mnews/article/656/0000085807?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:01:00 +0900",
-                "title": "충남 서산·태안 출마한 국힘 성일종, 민주 조한기 사전투표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474545?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:16:00 +0900",
-                "title": "[충청 총선] 국민의힘 성일종, 더불어민주당 조한기 후보 사전투표 완료",
-                "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001862"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:20:00 +0900",
-                "title": "조한기 서산·태안 국회의원 후보 사전투표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474236?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "조한기",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1555462
-            }
-        ],
-        "huboid": "100151030",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2440501-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2440501_1-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2440501-2.jpg",
-        "id": "2440501_1-2",
-        "재산": 6659602,
-        "생년월일": "19630319",
-        "경력": "(전) 국민의힘 정책위의장\n(전) 독도사랑운동본부 총재",
-        "학력": "광운대학교 대학원 환경공학과 졸업(공학박사)",
-        "직업": "서산·태안 국회의원",
-        "성별": "남",
-        "id_21th": "1006",
-        "regionId": "2440501_1",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:11:00 +0900",
-                "title": "[총선 사전투표]성일종 서산·태안 후보 \"변함없는 주민들의 비서실장\"",
-                "link": "https://n.news.naver.com/mnews/article/656/0000085805?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:01:00 +0900",
-                "title": "충남 서산·태안 출마한 국힘 성일종, 민주 조한기 사전투표",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474545?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:16:00 +0900",
-                "title": "[충청 총선] 국민의힘 성일종, 더불어민주당 조한기 후보 사전투표 완료",
-                "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001862"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:26:00 +0900",
-                "title": "성일종 국민의힘 서산·태안 국회의원 후보, 사전투표 완료",
-                "link": "http://www.newstnt.com/news/articleView.html?idxno=360371"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:19:00 +0900",
-                "title": "사전투표 마친 성일종 국회의원 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474230?sid=102"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "성일종",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 20954999
-            },
-            {
-                "연도": 2021,
-                "재산": 7679557
-            },
-            {
-                "연도": 2022,
-                "재산": 6668370
-            },
-            {
-                "연도": 2023,
-                "재산": 6659602
-            }
-        ],
-        "huboid": "100152908",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2440501-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2440501_1-2.pdf"
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2440501-1.jpg",
+    "id": "2440501_1-1",
+    "재산": 1555462,
+    "생년월일": "19660925",
+    "경력": "(전) 문재인정부 청와대 의전비서관\n(전) 문재인정부 청와대 제1부속비서관",
+    "학력": "연세대학교 문과대학 영어영문학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2440501_1",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+        "title": "與 지방의원들, 野 조한기에 '태양광 괴담' 정조준",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220555"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:13:00 +0900",
+        "title": "[총선 사전투표]조한기 서산·태안 후보 \"간절한 마음으로 최선\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085807?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:01:00 +0900",
+        "title": "충남 서산·태안 출마한 국힘 성일종, 민주 조한기 사전투표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474545?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:16:00 +0900",
+        "title": "[충청 총선] 국민의힘 성일종, 더불어민주당 조한기 후보 사전투표 완료",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001862"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:20:00 +0900",
+        "title": "조한기 서산·태안 국회의원 후보 사전투표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474236?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "조한기",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1555462
+      }
+    ],
+    "huboid": "100151030",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2440501-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2440501_1-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2440501-2.jpg",
+    "id": "2440501_1-2",
+    "재산": 6659602,
+    "생년월일": "19630319",
+    "경력": "(전) 국민의힘 정책위의장\n(전) 독도사랑운동본부 총재",
+    "학력": "광운대학교 대학원 환경공학과 졸업(공학박사)",
+    "직업": "서산·태안 국회의원",
+    "성별": "남",
+    "id_21th": "1006",
+    "regionId": "2440501_1",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:11:00 +0900",
+        "title": "[총선 사전투표]성일종 서산·태안 후보 \"변함없는 주민들의 비서실장\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085805?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:01:00 +0900",
+        "title": "충남 서산·태안 출마한 국힘 성일종, 민주 조한기 사전투표",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474545?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:16:00 +0900",
+        "title": "[충청 총선] 국민의힘 성일종, 더불어민주당 조한기 후보 사전투표 완료",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001862"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:26:00 +0900",
+        "title": "성일종 국민의힘 서산·태안 국회의원 후보, 사전투표 완료",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=360371"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:19:00 +0900",
+        "title": "사전투표 마친 성일종 국회의원 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474230?sid=102"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "성일종",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 20954999
+      },
+      {
+        "연도": 2021,
+        "재산": 7679557
+      },
+      {
+        "연도": 2022,
+        "재산": 6668370
+      },
+      {
+        "연도": 2023,
+        "재산": 6659602
+      }
+    ],
+    "huboid": "100152908",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2440501-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2440501_1-2.pdf"
+  }
 ]

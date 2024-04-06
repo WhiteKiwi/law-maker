@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2260501-1",
-        "regionId": "2260501",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-1.jpg",
-        "기호": 1,
-        "이름": "서은숙",
-        "생년월일": "19670925",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
-        "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
-        "재산": 106303,
-        "군필여부": false,
-        "전과건수": 1,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 18:44:00 +0900",
-                "title": "서은숙 ‘교통’ 정성국 ‘교육’… 여야 모두 “경합 우세” [PK 막판 승부처...",
-                "link": "https://n.news.naver.com/mnews/article/082/0001263810?sid=100"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:02:00 +0900",
-                "title": "서은숙 지지발언하는 이재명 대표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007458456?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 12:55:00 +0900",
-                "title": "이재명 대표, 서은숙 후보 지원유세",
-                "link": "https://n.news.naver.com/mnews/article/001/0014610264?sid=100"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 12:55:00 +0900",
-                "title": "이재명 대표, 서은숙 후보 지원유세",
-                "link": "https://n.news.naver.com/mnews/article/001/0014610266?sid=100"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 12:55:00 +0900",
-                "title": "이재명 대표, 서은숙 후보 지원유세",
-                "link": "https://n.news.naver.com/mnews/article/001/0014610265?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 106303
-            }
-        ],
-        "huboid": "100151103",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260501-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260501-1.pdf"
-    },
-    {
-        "id": "2260501-2",
-        "regionId": "2260501",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260501-2.jpg",
-        "기호": 2,
-        "이름": "정성국",
-        "생년월일": "19710403",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
-        "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
-        "재산": 305797,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 10:35:00 +0900",
-                "title": "국힘 정성국 부산진구갑 후보, 사전투표 마쳐··· \"압도적 지지 부탁\"",
-                "link": "http://www.seoulfn.com/news/articleView.html?idxno=515880"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:44:00 +0900",
-                "title": "서은숙 ‘교통’ 정성국 ‘교육’… 여야 모두 “경합 우세” [PK 막판 승부처...",
-                "link": "https://n.news.naver.com/mnews/article/082/0001263810?sid=100"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:34:00 +0900",
-                "title": "정성국 후보 후원회장에 휴병원 권영진 원장 취임",
-                "link": "https://pk.newdaily.co.kr/site/data/html/2024/04/04/2024040400062.html"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 21:00:00 +0900",
-                "title": "휴병원 권영진 원장, 정성국 후보 후원회장 취임",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317643"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 19:43:00 +0900",
-                "title": "[총선브리핑] 정성국 후보 후원회장에 휴병원 권영진 원장 취임",
-                "link": "https://n.news.naver.com/mnews/article/082/0001263597?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 305797
-            }
-        ],
-        "huboid": "100152623",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260501-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260501-2.pdf"
-    }
+  {
+    "id": "2260501-1",
+    "regionId": "2260501",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2260501-1.jpg",
+    "기호": 1,
+    "이름": "서은숙",
+    "생년월일": "19670925",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "부산대학교 대학원 국민윤리학과 박사과정 수료",
+    "경력": "(전)민선7기 부산진구 구청장\n(현)더불어민주당 최고위원",
+    "재산": 106303,
+    "군필여부": false,
+    "전과건수": 1,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 18:44:00 +0900",
+        "title": "서은숙 ‘교통’ 정성국 ‘교육’… 여야 모두 “경합 우세” [PK 막판 승부처...",
+        "link": "https://n.news.naver.com/mnews/article/082/0001263810?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:02:00 +0900",
+        "title": "서은숙 지지발언하는 이재명 대표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007458456?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 12:55:00 +0900",
+        "title": "이재명 대표, 서은숙 후보 지원유세",
+        "link": "https://n.news.naver.com/mnews/article/001/0014610264?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 12:55:00 +0900",
+        "title": "이재명 대표, 서은숙 후보 지원유세",
+        "link": "https://n.news.naver.com/mnews/article/001/0014610266?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 12:55:00 +0900",
+        "title": "이재명 대표, 서은숙 후보 지원유세",
+        "link": "https://n.news.naver.com/mnews/article/001/0014610265?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 106303
+      }
+    ],
+    "huboid": "100151103",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2260501-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260501-1.pdf"
+  },
+  {
+    "id": "2260501-2",
+    "regionId": "2260501",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2260501-2.jpg",
+    "기호": 2,
+    "이름": "정성국",
+    "생년월일": "19710403",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "부산교육대학교 교육대학원 졸업(교육학석사)",
+    "경력": "(전)한국교원단체총연합회 회장\n(전)대통령소속 국가교육위원회 위원",
+    "재산": 305797,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 10:35:00 +0900",
+        "title": "국힘 정성국 부산진구갑 후보, 사전투표 마쳐··· \"압도적 지지 부탁\"",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=515880"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:44:00 +0900",
+        "title": "서은숙 ‘교통’ 정성국 ‘교육’… 여야 모두 “경합 우세” [PK 막판 승부처...",
+        "link": "https://n.news.naver.com/mnews/article/082/0001263810?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:34:00 +0900",
+        "title": "정성국 후보 후원회장에 휴병원 권영진 원장 취임",
+        "link": "https://pk.newdaily.co.kr/site/data/html/2024/04/04/2024040400062.html"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 21:00:00 +0900",
+        "title": "휴병원 권영진 원장, 정성국 후보 후원회장 취임",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317643"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 19:43:00 +0900",
+        "title": "[총선브리핑] 정성국 후보 후원회장에 휴병원 권영진 원장 취임",
+        "link": "https://n.news.naver.com/mnews/article/082/0001263597?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 305797
+      }
+    ],
+    "huboid": "100152623",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2260501-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260501-2.pdf"
+  }
 ]

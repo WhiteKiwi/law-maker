@@ -1,171 +1,171 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280501-1.jpg",
-        "id": "2280501-1",
-        "재산": 1835458,
-        "생년월일": "19620516",
-        "경력": "(현)제21대 국회의원(남동구갑)\n(전)국토교통부 제2차관",
-        "학력": "한국항공대학교 대학원 졸업(법학 박사)",
-        "직업": "제21대 국회의원",
-        "성별": "남",
-        "id_21th": "1028",
-        "regionId": "2280501",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:06:00 +0900",
-                "title": "맹성규 남동갑 후보 , 사전투표 첫날 투표권 행사",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447965"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 10:40:00 +0900",
-                "title": "[4·10 총선현장] 맹성규·손범규 남동갑 국회의원 후보, 차례로 사전투표 완...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243398"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 10:08:00 +0900",
-                "title": "맹성규 남동갑 후보 , 사전투표 첫날 투표권 행사",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854390"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:12:00 +0900",
-                "title": "맹성규 더불어민주당 인천남동갑 후보, 정세균 전 국무총리와 함께하는 소상공...",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447701"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:52:00 +0900",
-                "title": "맹성규 후보, 인천발 KTX 논현역 정차 기술적으로 가능한지부터 먼저 살펴야",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447698"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "맹성규",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1796692
-            },
-            {
-                "연도": 2021,
-                "재산": 1813591
-            },
-            {
-                "연도": 2022,
-                "재산": 1949595
-            },
-            {
-                "연도": 2023,
-                "재산": 1835458
-            }
-        ],
-        "huboid": "100152557",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280501-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-1.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280501-2.jpg",
-        "id": "2280501-2",
-        "재산": 2325799,
-        "생년월일": "19681207",
-        "경력": "(전)SBS아나운서\n",
-        "학력": "홍익대학교 대학원 국어국문학과 졸업(문학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2280501",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 10:40:00 +0900",
-                "title": "[4·10 총선현장] 맹성규·손범규 남동갑 국회의원 후보, 차례로 사전투표 완...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243398"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:56:00 +0900",
-                "title": "국민의힘 남동갑 손범규 후보, 유정복시장ㆍ박종효청장과 함께 사전ㆍ본투표 ...",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447713"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:56:00 +0900",
-                "title": "국민의힘 남동갑 손범규 후보, 인천발 KTX 논현역 정차 '가능' 다시 한번 밝혀",
-                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447719"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:48:00 +0900",
-                "title": "손범규 인천 남동갑 후보, 5일 사전투표 한다",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645706"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:48:00 +0900",
-                "title": "[남동갑] 맹성규·손범규, 인천KTX 논현역 정차 두고 '2라운드'",
-                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244531"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "손범규",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2325799
-            }
-        ],
-        "huboid": "100151408",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280501-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-2.pdf"
-    },
-    {
-        "전과건수": 3,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280501-7.jpg",
-        "id": "2280501-7",
-        "재산": 4137158,
-        "생년월일": "19550908",
-        "경력": "(전)인천광역시 남동구청장\n(전)자유한국당 남동갑 당협위원장",
-        "학력": "남서울대학교 대학원 졸업(산업경영공학 박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2280501",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 17:50:00 +0900",
-                "title": "장석현 인천 남동구갑 후보, 구민 맞춤형 공약 제시",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=788618"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 14:04:00 +0900",
-                "title": "[4·10 총선현장] 개혁신당 장석현 남동갑 후보, 주민 맞춤형 공약 제시",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243183"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:46:00 +0900",
-                "title": "[총선 D-6] 개혁신당 장석현 인천 남동구갑 후보, 주민 맞춤형 공약 발표",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027198"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:00:00 +0900",
-                "title": "인천 남동갑 장석현 후보, 손범규 후보 향해 ‘술자리 의혹’ 해명 제기",
-                "link": "https://www.skyedaily.com/news/news_view.html?ID=227026"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 14:04:00 +0900",
-                "title": "[남동갑] 맹성규 \"철도전문가\" 손범규 \"재개발\" 장석현 \"서민은행\"",
-                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244412"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "장석현",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 4137158
-            }
-        ],
-        "huboid": "100151617",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280501-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-7.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280501-1.jpg",
+    "id": "2280501-1",
+    "재산": 1835458,
+    "생년월일": "19620516",
+    "경력": "(현)제21대 국회의원(남동구갑)\n(전)국토교통부 제2차관",
+    "학력": "한국항공대학교 대학원 졸업(법학 박사)",
+    "직업": "제21대 국회의원",
+    "성별": "남",
+    "id_21th": "1028",
+    "regionId": "2280501",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:06:00 +0900",
+        "title": "맹성규 남동갑 후보 , 사전투표 첫날 투표권 행사",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447965"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 10:40:00 +0900",
+        "title": "[4·10 총선현장] 맹성규·손범규 남동갑 국회의원 후보, 차례로 사전투표 완...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243398"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 10:08:00 +0900",
+        "title": "맹성규 남동갑 후보 , 사전투표 첫날 투표권 행사",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854390"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:12:00 +0900",
+        "title": "맹성규 더불어민주당 인천남동갑 후보, 정세균 전 국무총리와 함께하는 소상공...",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447701"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:52:00 +0900",
+        "title": "맹성규 후보, 인천발 KTX 논현역 정차 기술적으로 가능한지부터 먼저 살펴야",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447698"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "맹성규",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1796692
+      },
+      {
+        "연도": 2021,
+        "재산": 1813591
+      },
+      {
+        "연도": 2022,
+        "재산": 1949595
+      },
+      {
+        "연도": 2023,
+        "재산": 1835458
+      }
+    ],
+    "huboid": "100152557",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280501-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-1.pdf"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280501-2.jpg",
+    "id": "2280501-2",
+    "재산": 2325799,
+    "생년월일": "19681207",
+    "경력": "(전)SBS아나운서\n",
+    "학력": "홍익대학교 대학원 국어국문학과 졸업(문학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2280501",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 10:40:00 +0900",
+        "title": "[4·10 총선현장] 맹성규·손범규 남동갑 국회의원 후보, 차례로 사전투표 완...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243398"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:56:00 +0900",
+        "title": "국민의힘 남동갑 손범규 후보, 유정복시장ㆍ박종효청장과 함께 사전ㆍ본투표 ...",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447713"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:56:00 +0900",
+        "title": "국민의힘 남동갑 손범규 후보, 인천발 KTX 논현역 정차 '가능' 다시 한번 밝혀",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447719"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:48:00 +0900",
+        "title": "손범규 인천 남동갑 후보, 5일 사전투표 한다",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645706"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:48:00 +0900",
+        "title": "[남동갑] 맹성규·손범규, 인천KTX 논현역 정차 두고 '2라운드'",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244531"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "손범규",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2325799
+      }
+    ],
+    "huboid": "100151408",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280501-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-2.pdf"
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280501-7.jpg",
+    "id": "2280501-7",
+    "재산": 4137158,
+    "생년월일": "19550908",
+    "경력": "(전)인천광역시 남동구청장\n(전)자유한국당 남동갑 당협위원장",
+    "학력": "남서울대학교 대학원 졸업(산업경영공학 박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2280501",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 17:50:00 +0900",
+        "title": "장석현 인천 남동구갑 후보, 구민 맞춤형 공약 제시",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=788618"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 14:04:00 +0900",
+        "title": "[4·10 총선현장] 개혁신당 장석현 남동갑 후보, 주민 맞춤형 공약 제시",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243183"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:46:00 +0900",
+        "title": "[총선 D-6] 개혁신당 장석현 인천 남동구갑 후보, 주민 맞춤형 공약 발표",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027198"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:00:00 +0900",
+        "title": "인천 남동갑 장석현 후보, 손범규 후보 향해 ‘술자리 의혹’ 해명 제기",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=227026"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 14:04:00 +0900",
+        "title": "[남동갑] 맹성규 \"철도전문가\" 손범규 \"재개발\" 장석현 \"서민은행\"",
+        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244412"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "장석현",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4137158
+      }
+    ],
+    "huboid": "100151617",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280501-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280501-7.pdf"
+  }
 ]

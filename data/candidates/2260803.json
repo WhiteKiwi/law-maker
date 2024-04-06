@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2260803-1",
-        "regionId": "2260803",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-1.jpg",
-        "기호": 1,
-        "이름": "정명희",
-        "생년월일": "19660502",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정치인",
-        "학력": "부산대학교 약학대학 제약학과 졸업",
-        "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
-        "재산": 5271041,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 15:46:00 +0900",
-                "title": "정명희 “지역 잘 아는 구청장 출신” vs 박성훈 “경제 잘 아는 정부관료 출...",
-                "link": "https://n.news.naver.com/mnews/article/023/0003826705?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:42:00 +0900",
-                "title": "“정명희 후보, 공약 베끼기·허위공약 행위 중단해야”",
-                "link": "https://n.news.naver.com/mnews/article/031/0000826345?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:24:00 +0900",
-                "title": "북구을 '정명희 vs 박성훈'...교통·복지 해결책은 (B tv 부산뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168631"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:28:00 +0900",
-                "title": "부산 북구을 3차 여론조사도 정명희 후보 48.7% 1위",
-                "link": "https://www.kpanews.co.kr/article/show.asp?idx=249815&category=C"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:04:00 +0900",
-                "title": "정명희 후보 \"아이 키우기 좋은 도시, 교육과 보육이 가장 중요\"",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2961214"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 5271041
-            }
-        ],
-        "huboid": "100152938",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260803-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260803-1.pdf"
-    },
-    {
-        "id": "2260803-2",
-        "regionId": "2260803",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260803-2.jpg",
-        "기호": 2,
-        "이름": "박성훈",
-        "생년월일": "19710118",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
-        "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
-        "재산": 4342023,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:24:00 +0900",
-                "title": "박성훈 북구을 \"교통공약 폄하하곤 지역 반응 좋으니 베껴가\"",
-                "link": "http://www.newsprime.co.kr/news/article.html?no=634905"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:46:00 +0900",
-                "title": "부산 학부모연합회, 국민의힘 박성훈 후보 교육 공약·정책 지지",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3126694"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:21:00 +0900",
-                "title": "박성훈 북구을 후보, 사전투표소 방문…\"죽을 각오를 다해 뛰겠다\"",
-                "link": "https://www.newspim.com/news/view/20240405001026"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:46:00 +0900",
-                "title": "정명희 “지역 잘 아는 구청장 출신” vs 박성훈 “경제 잘 아는 정부관료 출...",
-                "link": "https://n.news.naver.com/mnews/article/023/0003826705?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:42:00 +0900",
-                "title": "박성훈 부산 북구을 후보 “남은 기간 죽을 각오 다해 뛸 것”",
-                "link": "https://n.news.naver.com/mnews/article/031/0000826347?sid=102"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 4342023
-            }
-        ],
-        "huboid": "100152979",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260803-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260803-2.pdf"
-    }
+  {
+    "id": "2260803-1",
+    "regionId": "2260803",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2260803-1.jpg",
+    "기호": 1,
+    "이름": "정명희",
+    "생년월일": "19660502",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정치인",
+    "학력": "부산대학교 약학대학 제약학과 졸업",
+    "경력": "(전) 제17대 민선 7기 부산광역시 북구청장\n(전) 제7대 부산광역시의회 의원",
+    "재산": 5271041,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 15:46:00 +0900",
+        "title": "정명희 “지역 잘 아는 구청장 출신” vs 박성훈 “경제 잘 아는 정부관료 출...",
+        "link": "https://n.news.naver.com/mnews/article/023/0003826705?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:42:00 +0900",
+        "title": "“정명희 후보, 공약 베끼기·허위공약 행위 중단해야”",
+        "link": "https://n.news.naver.com/mnews/article/031/0000826345?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:24:00 +0900",
+        "title": "북구을 '정명희 vs 박성훈'...교통·복지 해결책은 (B tv 부산뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=54&p_no=168631"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:28:00 +0900",
+        "title": "부산 북구을 3차 여론조사도 정명희 후보 48.7% 1위",
+        "link": "https://www.kpanews.co.kr/article/show.asp?idx=249815&category=C"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:04:00 +0900",
+        "title": "정명희 후보 \"아이 키우기 좋은 도시, 교육과 보육이 가장 중요\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2961214"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 5271041
+      }
+    ],
+    "huboid": "100152938",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2260803-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260803-1.pdf"
+  },
+  {
+    "id": "2260803-2",
+    "regionId": "2260803",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2260803-2.jpg",
+    "기호": 2,
+    "이름": "박성훈",
+    "생년월일": "19710118",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "하버드대학교 존 피츠제날드 케네디행정대학원 행정학 석사(2009.7~2010.5)",
+    "경력": "(전) 부산광역시 경제부시장\n(전) 해양수산부 차관",
+    "재산": 4342023,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:24:00 +0900",
+        "title": "박성훈 북구을 \"교통공약 폄하하곤 지역 반응 좋으니 베껴가\"",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=634905"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:46:00 +0900",
+        "title": "부산 학부모연합회, 국민의힘 박성훈 후보 교육 공약·정책 지지",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3126694"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:21:00 +0900",
+        "title": "박성훈 북구을 후보, 사전투표소 방문…\"죽을 각오를 다해 뛰겠다\"",
+        "link": "https://www.newspim.com/news/view/20240405001026"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:46:00 +0900",
+        "title": "정명희 “지역 잘 아는 구청장 출신” vs 박성훈 “경제 잘 아는 정부관료 출...",
+        "link": "https://n.news.naver.com/mnews/article/023/0003826705?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:42:00 +0900",
+        "title": "박성훈 부산 북구을 후보 “남은 기간 죽을 각오 다해 뛸 것”",
+        "link": "https://n.news.naver.com/mnews/article/031/0000826347?sid=102"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 4342023
+      }
+    ],
+    "huboid": "100152979",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2260803-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260803-2.pdf"
+  }
 ]

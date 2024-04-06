@@ -1,171 +1,171 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280402-1.jpg",
-        "id": "2280402-1",
-        "재산": 2765467,
-        "생년월일": "19670510",
-        "경력": "(현) 제20·21대 연수구갑 국회의원\n(현) 더불어민주당 최고위원",
-        "학력": "서울대학교 대학원 경영학 석사",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "913",
-        "regionId": "2280402",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 15:00:00 +0900",
-                "title": "더불어민주당 박찬대 연수구갑 후보, '사전투표' 참여",
-                "link": "http://www.asiaa.co.kr/news/articleView.html?idxno=166400"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:12:00 +0900",
-                "title": "[4·10 총선현장] 박남춘 전 인천시장, 박찬대 연수 갑 후보와 사전투표",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243429"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:44:00 +0900",
-                "title": "[포토]사전투표하는 박찬대 인천 연수구갑 후보와 박남춘 전 인천시장",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240405029065023"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 08:48:00 +0900",
-                "title": "[리얼미터] 인천 연수갑, 민주 박찬대 47.3% 국힘 정승연 44.1% 경합",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:25:00 +0900",
-                "title": "'세 번째 리턴매치' 초박빙…박찬대 45.6% 정승연 42.8% [D-6 연수갑]",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817329?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "박찬대",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1706908
-            },
-            {
-                "연도": 2021,
-                "재산": 2025510
-            },
-            {
-                "연도": 2022,
-                "재산": 2244734
-            },
-            {
-                "연도": 2023,
-                "재산": 2765467
-            }
-        ],
-        "huboid": "100152610",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280402-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280402-2.jpg",
-        "id": "2280402-2",
-        "재산": 2638116,
-        "생년월일": "19660910",
-        "경력": "(전) 국민의힘 연수구갑 당협위원장\n(현) 인하대학교 국제통상학과 교수",
-        "학력": "교토대학 대학원 경제학연구과 박사과정 졸업(경제학 박사, 1995. 4.~1999. 3.)",
-        "직업": "인하대학교 경영대학 교수",
-        "성별": "남",
-        "regionId": "2280402",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:34:00 +0900",
-                "title": "[포토] 정승연·김기흥 지지 호소하는 한동훈 위원장",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243447"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:29:00 +0900",
-                "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461780?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:28:00 +0900",
-                "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461771?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:23:00 +0900",
-                "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461741?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:23:00 +0900",
-                "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461744?sid=165"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "정승연",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2638116
-            }
-        ],
-        "huboid": "100151633",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280402-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-2.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280402-7.jpg",
-        "id": "2280402-7",
-        "재산": 91600,
-        "생년월일": "19620710",
-        "경력": "(전) 인천대학교 겸임교수\n(전) 한국가족상담교육연구소 선임연구원",
-        "학력": "성신여자대학교 대학원 가정관리학과 졸업(이학박사)",
-        "직업": "정치인",
-        "성별": "여",
-        "regionId": "2280402",
-        "기호": 7,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Sun, 10 Jun 2018 21:05:00 +0900",
-                "title": "`꼼꼼함 무장' 진천군의원 도전 여성후보 4인방 화제",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=533375"
-            },
-            {
-                "date": "Sun, 27 May 2018 11:02:00 +0900",
-                "title": "충북 6·13지방선거 출마자 명단",
-                "link": "http://www.ggilbo.com/news/articleView.html?idxno=512206"
-            },
-            {
-                "date": "Fri, 25 May 2018 23:42:00 +0900",
-                "title": "[기초의원 후보 명단] 충북(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0010108711?sid=100"
-            },
-            {
-                "date": "Fri, 25 May 2018 22:07:00 +0900",
-                "title": "[기초의원 후보 명단] 충북",
-                "link": "https://n.news.naver.com/mnews/article/001/0010108557?sid=100"
-            },
-            {
-                "date": "Thu, 10 May 2018 00:30:00 +0900",
-                "title": "고성 양양 동정",
-                "link": "http://www.kado.net/?mod=news&act=articleView&idxno=911119"
-            }
-        ],
-        "정당": "무소속",
-        "이름": "이영자",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 91600
-            }
-        ],
-        "huboid": "100152661",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280402-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-7.pdf"
-    }
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280402-1.jpg",
+    "id": "2280402-1",
+    "재산": 2765467,
+    "생년월일": "19670510",
+    "경력": "(현) 제20·21대 연수구갑 국회의원\n(현) 더불어민주당 최고위원",
+    "학력": "서울대학교 대학원 경영학 석사",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "913",
+    "regionId": "2280402",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 15:00:00 +0900",
+        "title": "더불어민주당 박찬대 연수구갑 후보, '사전투표' 참여",
+        "link": "http://www.asiaa.co.kr/news/articleView.html?idxno=166400"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:12:00 +0900",
+        "title": "[4·10 총선현장] 박남춘 전 인천시장, 박찬대 연수 갑 후보와 사전투표",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243429"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:44:00 +0900",
+        "title": "[포토]사전투표하는 박찬대 인천 연수구갑 후보와 박남춘 전 인천시장",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240405029065023"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 08:48:00 +0900",
+        "title": "[리얼미터] 인천 연수갑, 민주 박찬대 47.3% 국힘 정승연 44.1% 경합",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:25:00 +0900",
+        "title": "'세 번째 리턴매치' 초박빙…박찬대 45.6% 정승연 42.8% [D-6 연수갑]",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817329?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "박찬대",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1706908
+      },
+      {
+        "연도": 2021,
+        "재산": 2025510
+      },
+      {
+        "연도": 2022,
+        "재산": 2244734
+      },
+      {
+        "연도": 2023,
+        "재산": 2765467
+      }
+    ],
+    "huboid": "100152610",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280402-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280402-2.jpg",
+    "id": "2280402-2",
+    "재산": 2638116,
+    "생년월일": "19660910",
+    "경력": "(전) 국민의힘 연수구갑 당협위원장\n(현) 인하대학교 국제통상학과 교수",
+    "학력": "교토대학 대학원 경제학연구과 박사과정 졸업(경제학 박사, 1995. 4.~1999. 3.)",
+    "직업": "인하대학교 경영대학 교수",
+    "성별": "남",
+    "regionId": "2280402",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:34:00 +0900",
+        "title": "[포토] 정승연·김기흥 지지 호소하는 한동훈 위원장",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243447"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:29:00 +0900",
+        "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461780?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:28:00 +0900",
+        "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461771?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:23:00 +0900",
+        "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461741?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:23:00 +0900",
+        "title": "정승연·김기흥 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461744?sid=165"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "정승연",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2638116
+      }
+    ],
+    "huboid": "100151633",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280402-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-2.pdf"
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280402-7.jpg",
+    "id": "2280402-7",
+    "재산": 91600,
+    "생년월일": "19620710",
+    "경력": "(전) 인천대학교 겸임교수\n(전) 한국가족상담교육연구소 선임연구원",
+    "학력": "성신여자대학교 대학원 가정관리학과 졸업(이학박사)",
+    "직업": "정치인",
+    "성별": "여",
+    "regionId": "2280402",
+    "기호": 7,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Sun, 10 Jun 2018 21:05:00 +0900",
+        "title": "`꼼꼼함 무장' 진천군의원 도전 여성후보 4인방 화제",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=533375"
+      },
+      {
+        "date": "Sun, 27 May 2018 11:02:00 +0900",
+        "title": "충북 6·13지방선거 출마자 명단",
+        "link": "http://www.ggilbo.com/news/articleView.html?idxno=512206"
+      },
+      {
+        "date": "Fri, 25 May 2018 23:42:00 +0900",
+        "title": "[기초의원 후보 명단] 충북(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0010108711?sid=100"
+      },
+      {
+        "date": "Fri, 25 May 2018 22:07:00 +0900",
+        "title": "[기초의원 후보 명단] 충북",
+        "link": "https://n.news.naver.com/mnews/article/001/0010108557?sid=100"
+      },
+      {
+        "date": "Thu, 10 May 2018 00:30:00 +0900",
+        "title": "고성 양양 동정",
+        "link": "http://www.kado.net/?mod=news&act=articleView&idxno=911119"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "이영자",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 91600
+      }
+    ],
+    "huboid": "100152661",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280402-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-7.pdf"
+  }
 ]

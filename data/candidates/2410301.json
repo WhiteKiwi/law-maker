@@ -1,119 +1,119 @@
 [
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-1.jpg",
-        "id": "2410301-1",
-        "재산": 1096525,
-        "생년월일": "19670910",
-        "경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
-        "학력": "중앙대학교 경영학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "982",
-        "regionId": "2410301",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
-                "title": "민주 김영진 51% … 오차범위 밖 우세",
-                "link": "https://n.news.naver.com/mnews/article/009/0005284239?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:33:00 +0900",
-                "title": "경기 수원병, 김영진 51% vs 방문규 37% [매경·MBN 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/009/0005284128?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:19:00 +0900",
-                "title": "격차 넓히는 수원병…'친명' 김영진 52.1% 對 '친윤' 방문규 40.1%",
-                "link": "https://n.news.naver.com/mnews/article/586/0000076028?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:06:00 +0900",
-                "title": "[경기 수원병] 더불어민주당 김영진 52.1%, 국민의힘 방문규 40.1%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429155?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 05:02:00 +0900",
-                "title": "'尹·李 대리전' 수원병…김영진 52.1% vs 방문규 40.1%",
-                "link": "https://n.news.naver.com/mnews/article/079/0003882108?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김영진",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 995203
-            },
-            {
-                "연도": 2021,
-                "재산": 1054584
-            },
-            {
-                "연도": 2022,
-                "재산": 1103283
-            },
-            {
-                "연도": 2023,
-                "재산": 1096525
-            }
-        ],
-        "huboid": "100152714",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410301-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410301-1.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410301-2.jpg",
-        "id": "2410301-2",
-        "재산": 7747562,
-        "생년월일": "19620226",
-        "경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
-        "학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2410301",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:39:00 +0900",
-                "title": "[2024총선] 방문규 수원 병 후보, \"철도지하화로 인한 생긴 새로운 땅...대규...",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051735"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:18:00 +0900",
-                "title": "방문규 국힘 수원병 후보, “철도지하화 새로운 땅 만들어 돌려 드리겠다”",
-                "link": "https://www.nspna.com/news/?mode=view&newsid=692192"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:33:00 +0900",
-                "title": "경기 수원병, 김영진 51% vs 방문규 37% [매경·MBN 여론조사]",
-                "link": "https://n.news.naver.com/mnews/article/009/0005284128?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:19:00 +0900",
-                "title": "격차 넓히는 수원병…'친명' 김영진 52.1% 對 '친윤' 방문규 40.1%",
-                "link": "https://n.news.naver.com/mnews/article/586/0000076028?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:14:00 +0900",
-                "title": "[4·10 총선] 국민의힘 수원병 방문규 \"오늘과 내일 투표장으로 향해달라\"",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243406"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "방문규",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 7747562
-            }
-        ],
-        "huboid": "100152070",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410301-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410301-2.pdf"
-    }
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2410301-1.jpg",
+    "id": "2410301-1",
+    "재산": 1096525,
+    "생년월일": "19670910",
+    "경력": "(전) 더불어민주당 사무총장\n(현) 국회의원",
+    "학력": "중앙대학교 경영학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "982",
+    "regionId": "2410301",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+        "title": "민주 김영진 51% … 오차범위 밖 우세",
+        "link": "https://n.news.naver.com/mnews/article/009/0005284239?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:33:00 +0900",
+        "title": "경기 수원병, 김영진 51% vs 방문규 37% [매경·MBN 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005284128?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:19:00 +0900",
+        "title": "격차 넓히는 수원병…'친명' 김영진 52.1% 對 '친윤' 방문규 40.1%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000076028?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:06:00 +0900",
+        "title": "[경기 수원병] 더불어민주당 김영진 52.1%, 국민의힘 방문규 40.1%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429155?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 05:02:00 +0900",
+        "title": "'尹·李 대리전' 수원병…김영진 52.1% vs 방문규 40.1%",
+        "link": "https://n.news.naver.com/mnews/article/079/0003882108?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김영진",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 995203
+      },
+      {
+        "연도": 2021,
+        "재산": 1054584
+      },
+      {
+        "연도": 2022,
+        "재산": 1103283
+      },
+      {
+        "연도": 2023,
+        "재산": 1096525
+      }
+    ],
+    "huboid": "100152714",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2410301-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410301-1.pdf"
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2410301-2.jpg",
+    "id": "2410301-2",
+    "재산": 7747562,
+    "생년월일": "19620226",
+    "경력": "(전) 산업통상자원부 장관\n(전) 기획재정부 예산실장",
+    "학력": "성균관대학교 국정관리대학원 졸업(행정학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2410301",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:39:00 +0900",
+        "title": "[2024총선] 방문규 수원 병 후보, \"철도지하화로 인한 생긴 새로운 땅...대규...",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051735"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:18:00 +0900",
+        "title": "방문규 국힘 수원병 후보, “철도지하화 새로운 땅 만들어 돌려 드리겠다”",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=692192"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:33:00 +0900",
+        "title": "경기 수원병, 김영진 51% vs 방문규 37% [매경·MBN 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005284128?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:19:00 +0900",
+        "title": "격차 넓히는 수원병…'친명' 김영진 52.1% 對 '친윤' 방문규 40.1%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000076028?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:14:00 +0900",
+        "title": "[4·10 총선] 국민의힘 수원병 방문규 \"오늘과 내일 투표장으로 향해달라\"",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243406"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "방문규",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 7747562
+      }
+    ],
+    "huboid": "100152070",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2410301-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410301-2.pdf"
+  }
 ]

@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2410401-1",
-        "regionId": "2410401",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-1.jpg",
-        "기호": 1,
-        "이름": "김준혁",
-        "생년월일": "19690307",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "대학교수",
-        "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
-        "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
-        "재산": 1386423,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 19:06:00 +0900",
-                "title": "[단독]\"한국유치원총연합회 뿌리는 친일파\"…김준혁이 쓴 '역사책' 봤더니",
-                "link": "https://n.news.naver.com/mnews/article/586/0000076099?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 19:05:00 +0900",
-                "title": "한동훈 \"김준혁 생각이 민주당 대표\" 사전투표 4년전보다 ↑[영상]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003882537?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:58:00 +0900",
-                "title": "“‘할머니, 성상납했어?’라는데… 민주당 내 ‘이화인’들, 김준혁 사퇴 요...",
-                "link": "https://www.christiantoday.co.kr/news/360905"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:54:00 +0900",
-                "title": "육사 총동창회, 김준혁 민주당 후보 향해 \"즉각 사퇴하라\"",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003643"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:46:00 +0900",
-                "title": "여성단체, '이대 성상납' 망언 김준혁 항의 집회",
-                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1437292"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1386423
-            }
-        ],
-        "huboid": "100151690",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410401-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410401-1.pdf"
-    },
-    {
-        "id": "2410401-2",
-        "regionId": "2410401",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410401-2.jpg",
-        "기호": 2,
-        "이름": "이수정",
-        "생년월일": "19640219",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "대학 교수",
-        "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
-        "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
-        "재산": 8551450,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:11:00 +0900",
-                "title": "[사전투표] \"다음에\" 문답없이 자리 피한 김준혁 …이수정 \"변화 원한다면 투...",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817640?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:51:00 +0900",
-                "title": "사전투표하는 더불어민주당 김준혁, 국민의힘 이수정 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474745?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:43:00 +0900",
-                "title": "사전투표 소감 말하는 윤재옥-이수정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474666?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:43:00 +0900",
-                "title": "사전투표 소감 말하는 윤재옥-이수정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474692?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:43:00 +0900",
-                "title": "사전투표 소감 말하는 이수정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474695?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 8551450
-            }
-        ],
-        "huboid": "100151496",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410401-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410401-2.pdf"
-    }
+  {
+    "id": "2410401-1",
+    "regionId": "2410401",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2410401-1.jpg",
+    "기호": 1,
+    "이름": "김준혁",
+    "생년월일": "19690307",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "대학교수",
+    "학력": "중앙대학교 대학원 사학과 졸업(문학박사)",
+    "경력": "(현)한신대학교 부교수\n(현)더불어민주당 전략기획위원회 부위원장",
+    "재산": 1386423,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 19:06:00 +0900",
+        "title": "[단독]\"한국유치원총연합회 뿌리는 친일파\"…김준혁이 쓴 '역사책' 봤더니",
+        "link": "https://n.news.naver.com/mnews/article/586/0000076099?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 19:05:00 +0900",
+        "title": "한동훈 \"김준혁 생각이 민주당 대표\" 사전투표 4년전보다 ↑[영상]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003882537?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:58:00 +0900",
+        "title": "“‘할머니, 성상납했어?’라는데… 민주당 내 ‘이화인’들, 김준혁 사퇴 요...",
+        "link": "https://www.christiantoday.co.kr/news/360905"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:54:00 +0900",
+        "title": "육사 총동창회, 김준혁 민주당 후보 향해 \"즉각 사퇴하라\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003643"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:46:00 +0900",
+        "title": "여성단체, '이대 성상납' 망언 김준혁 항의 집회",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1437292"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1386423
+      }
+    ],
+    "huboid": "100151690",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2410401-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410401-1.pdf"
+  },
+  {
+    "id": "2410401-2",
+    "regionId": "2410401",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2410401-2.jpg",
+    "기호": 2,
+    "이름": "이수정",
+    "생년월일": "19640219",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "대학 교수",
+    "학력": "연세대학교 대학원 심리학 박사(사회 및 성격 심리 전공)",
+    "경력": "(현)경기대학교 범죄교정심리학과 정교수\n(전)2019 BBC '올해의 여성 100인'",
+    "재산": 8551450,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:11:00 +0900",
+        "title": "[사전투표] \"다음에\" 문답없이 자리 피한 김준혁 …이수정 \"변화 원한다면 투...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817640?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:51:00 +0900",
+        "title": "사전투표하는 더불어민주당 김준혁, 국민의힘 이수정 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474745?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:43:00 +0900",
+        "title": "사전투표 소감 말하는 윤재옥-이수정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474666?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:43:00 +0900",
+        "title": "사전투표 소감 말하는 윤재옥-이수정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474692?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:43:00 +0900",
+        "title": "사전투표 소감 말하는 이수정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474695?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 8551450
+      }
+    ],
+    "huboid": "100151496",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2410401-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410401-2.pdf"
+  }
 ]
