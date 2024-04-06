@@ -51,14 +51,10 @@ export type LawMaker = {
   }[];
   공약이행률:
     | {
-        이름: string;
-        총공약수: number | null;
-        공약이행수: number | null;
+        총공약수: number;
+        공약이행수: number;
       }
-    | {
-        총공약수: number | null;
-        공약이행수: number | null;
-      };
+    | null;
 };
 
 /**
