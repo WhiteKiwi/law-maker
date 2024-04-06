@@ -17,7 +17,6 @@ async function main() {
         const lawMaker = await (0, fs_extra_1.readJSON)(path_1.default.join(lawMakerDir, file));
         lawMakers.push(lawMaker);
     }
-    await 주요법안표결(lawMakers);
     const map = new Map();
     for (const lawMaker of lawMakers) {
         for (const 위원회 of lawMaker.상임위원회_출석률) {
@@ -56,7 +55,6 @@ async function main() {
         });
     }
     await print동명이인(lawMakers);
-    await createRanking(lawMakers);
     await set연도별재산(lawMakers);
     await sortCandidates();
     await createSearchItems();
@@ -142,6 +140,7 @@ async function createSearchItems() {
             const region = await getRegion(candidate.regionId);
             searchItems.push({
                 id: candidate.id,
+                is21th: Boolean(candidate["21th"]),
                 imageUrl: candidate.imageUrl,
                 이름: candidate.이름,
                 splitted이름: (0, search_1.splitHangul)(candidate.이름),
