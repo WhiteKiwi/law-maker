@@ -1,6 +1,4 @@
 import axios from "axios";
-import { writeJsonSync } from "fs-extra";
-import path from "path";
 import { LawMaker } from "./law-maker";
 import { loadLawMakers, patchLawMaker } from "./util-law-maker";
 
@@ -22,46 +20,43 @@ async function main() {
   for (const 의안번호 of 의안) {
     const 법안표결 = await get주요법안표결(의안번호);
     for (const 찬성 of 법안표결.찬성) {
-      const lawMaker = lawMakers.find((l) => l.이름 === 찬성);
-      if (!lawMaker) {
-        continue;
-      }
-      await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
-        lawMaker.주요법안표결.find((v) => v.의안번호 === 의안번호)!.찬반여부 =
-          "찬성";
-        return lawMaker;
-      });
+      lawMakers
+        .filter((l) => l.이름 === 찬성)
+        .forEach(async (lawMaker) => {
+          await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
+            lawMaker.주요법안표결.find(
+              (v) => v.의안번호 === 의안번호
+            )!.찬반여부 = "찬성";
+            return lawMaker;
+          });
+        });
     }
 
     for (const 반대 of 법안표결.반대) {
-      const lawMaker = lawMakers.find((l) => l.이름 === 반대);
-      if (!lawMaker) {
-        continue;
-      }
-      await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
-        lawMaker.주요법안표결.find((v) => v.의안번호 === 의안번호)!.찬반여부 =
-          "반대";
-        return lawMaker;
-      });
+      lawMakers
+        .filter((l) => l.이름 === 반대)
+        .forEach(async (lawMaker) => {
+          await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
+            lawMaker.주요법안표결.find(
+              (v) => v.의안번호 === 의안번호
+            )!.찬반여부 = "반대";
+            return lawMaker;
+          });
+        });
     }
 
     for (const 기권 of 법안표결.기권) {
-      const lawMaker = lawMakers.find((l) => l.이름 === 기권);
-      if (!lawMaker) {
-        continue;
-      }
-      await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
-        lawMaker.주요법안표결.find((v) => v.의안번호 === 의안번호)!.찬반여부 =
-          "기권";
-        return lawMaker;
-      });
+      lawMakers
+        .filter((l) => l.이름 === 기권)
+        .forEach(async (lawMaker) => {
+          await patchLawMaker(lawMaker!.id, (lawMaker: LawMaker) => {
+            lawMaker.주요법안표결.find(
+              (v) => v.의안번호 === 의안번호
+            )!.찬반여부 = "기권";
+            return lawMaker;
+          });
+        });
     }
-
-    writeJsonSync(
-      path.join(__dirname, `../data/주요법안표결/${의안번호}.json`),
-      법안표결,
-      { spaces: 2 }
-    );
     법안표결List.push(법안표결);
   }
   console.log(JSON.stringify(법안표결List));

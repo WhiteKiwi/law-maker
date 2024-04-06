@@ -1,6 +1,7 @@
 import { readJSON, readdir, writeJsonSync } from "fs-extra";
 import path from "path";
 import { LawMaker } from "./law-maker";
+import { LawMakerCadidate } from "./law-maker-candidate";
 
 async function main() {
   {
@@ -8,7 +9,7 @@ async function main() {
     const files = await readdir(candidateDir);
     for (const file of files) {
       const filePath = path.join(candidateDir, file);
-      const candidates = await readJSON(filePath);
+      const candidates: LawMakerCadidate[] = await readJSON(filePath);
       // sync-detail
       for (const candidate of candidates) {
         writeJsonSync(
