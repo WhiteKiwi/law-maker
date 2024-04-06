@@ -1,0 +1,57 @@
+{
+  "전과건수": 3,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280702-1.jpg",
+  "id": "2280702-1",
+  "재산": 3117956,
+  "생년월일": "19641222",
+  "경력": "(현)더불어민주당 대표\n(현)제21대 인천계양을 국회의원",
+  "학력": "중앙대학교 법과대학 법학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "id_21th": "1201",
+  "regionId": "2280702",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 19:02:00 +0900",
+      "title": "[포토] 이재명 더불어민주당 대표, 충북 청주 총선 후보 지지 유세",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=220577"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 19:00:00 +0900",
+      "title": "사전투표 첫날, 한동훈은 '신촌'으로 이재명은 '대전'으로",
+      "link": "https://n.news.naver.com/mnews/article/437/0000387293?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 18:58:00 +0900",
+      "title": "이재명은 KAIST, 한동훈 이대앞서 투표…상대방 네거티브 정조준",
+      "link": "https://n.news.naver.com/mnews/article/015/0004969512?sid=100"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 18:58:00 +0900",
+      "title": "[총선현장] 이재명, 사전투표 첫날 '중원'서 막판 호소...\"투표하면 이기고 포...",
+      "link": "https://www.newspim.com/news/view/20240405001137"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 18:56:00 +0900",
+      "title": "윤 대통령, ‘이재명 헬기 이송 논란’ 부산대병원 권역외상센터 방문···“...",
+      "link": "https://n.news.naver.com/mnews/article/032/0003289024?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "이재명",
+  "연도별_재산": [
+    {
+      "연도": 2022,
+      "재산": 3499878
+    },
+    {
+      "연도": 2023,
+      "재산": 3117956
+    }
+  ],
+  "huboid": "100153041",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280702-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280702-1.pdf"
+}

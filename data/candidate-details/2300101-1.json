@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300101-1.jpg",
+  "id": "2300101-1",
+  "재산": 890783,
+  "생년월일": "19830516",
+  "경력": "(전)더불어민주당 원내부대표\n(현)제21대 국회의원",
+  "학력": "서울대학교 정치학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1086",
+  "regionId": "2300101",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 14:51:00 +0900",
+      "title": "[4.10총선 격전지] 대전 동구, 국힘 윤창현 vs 민주 장철민 현역의원간 '한판...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642029"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:54:00 +0900",
+      "title": "윤창현-장철민 '대전 동구 승자는?'",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817324?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:46:00 +0900",
+      "title": "지지 호소하는 장철민 더불어민주당 대전동구 후보",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817323?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:45:00 +0900",
+      "title": "유세 차량 올라 지지 호소하는 장철민 더불어민주당 대전동구 후보",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817322?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:44:00 +0900",
+      "title": "율동하는 장철민 더불어민주당 대전동구 후보",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817321?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "장철민",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 338767
+    },
+    {
+      "연도": 2021,
+      "재산": 433229
+    },
+    {
+      "연도": 2022,
+      "재산": 743318
+    },
+    {
+      "연도": 2023,
+      "재산": 890783
+    }
+  ],
+  "huboid": "100152306",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2300101-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300101-1.pdf"
+}

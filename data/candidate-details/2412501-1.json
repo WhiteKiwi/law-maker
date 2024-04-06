@@ -1,0 +1,65 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412501-1.jpg",
+  "id": "2412501-1",
+  "재산": 2016428,
+  "생년월일": "19630327",
+  "경력": "(현)제21대 구리시 국회의원\n(전)더불어민주당 원내대표",
+  "학력": "서울대학교 철학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "418",
+  "regionId": "2412501",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:12:00 +0900",
+      "title": "[총선] 구리시, 윤호중 후보 '토평동 데이터센터' 공약에 주민들 반응 냉랭",
+      "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014454"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:46:00 +0900",
+      "title": "윤호중 후보 ‘국가통합데이터센터 토평동 K1기지 설치 공약' 구리시민 반응 ...",
+      "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854256"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 09:48:00 +0900",
+      "title": "나태근 후보 선대위, 윤호중 후보 공직선거법 위반 혐의 검찰 고발",
+      "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082123"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 09:39:00 +0900",
+      "title": "[총선] 윤호중 '토평동 데이터센터' 공약에 주민들 반응 냉랭",
+      "link": "https://n.news.naver.com/mnews/article/417/0000994430?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:54:00 +0900",
+      "title": "윤호중 후보, 거리 유세 [포토뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/666/0000038326?sid=102"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "윤호중",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1604597
+    },
+    {
+      "연도": 2021,
+      "재산": 1785254
+    },
+    {
+      "연도": 2022,
+      "재산": 1941383
+    },
+    {
+      "연도": 2023,
+      "재산": 2016428
+    }
+  ],
+  "huboid": "100152590",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412501-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412501-1.pdf"
+}

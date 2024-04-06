@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2411002-2.jpg",
+  "id": "2411002_1-2",
+  "재산": 4146737,
+  "생년월일": "19580118",
+  "경력": "(전)국회부의장\n(전)1980년 서울대 총학생회장",
+  "학력": "서울대학교 사범대학 외국어교육학과(영어전공) 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2411002_1",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 14:38:00 +0900",
+      "title": "[410 격전지] 안양 동안을…민주 ‘이재정’ 47.9% vs 국힘 ‘심재철’ 38.1%",
+      "link": "https://www.cnbnews.com/news/article.html?no=652759"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 16:55:00 +0900",
+      "title": "[영상] 심재철 \"유세차 막고 선거운동 방해\"…이재정 \"전혀 사실 아냐\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0014611296?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 15:03:00 +0900",
+      "title": "안양동안을 심재철 “유세방해” vs 이재정 “허위사실공표” 서로 고발",
+      "link": "https://n.news.naver.com/mnews/article/421/0007458981?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 14:00:00 +0900",
+      "title": "[KSOI] 안양 동안을, 민주 이재정 47.9% 국힘 심재철 38.1%",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348082"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 12:08:00 +0900",
+      "title": "[안양 동안을] 이재정 47.9%-심재철 38.1%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428976?sid=165"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "심재철",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 4146737
+    }
+  ],
+  "huboid": "100151704",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2411002-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2411002_1-2.pdf"
+}

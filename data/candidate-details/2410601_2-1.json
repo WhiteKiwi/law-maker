@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410601-1.jpg",
+  "id": "2410601_2-1",
+  "재산": 779544,
+  "생년월일": "19690514",
+  "경력": "(현)제21대 국회 환경노동위원회 간사\n(전)더불어민주당 최고위원",
+  "학력": "연세대학교 행정대학원 졸업(정책학석사)",
+  "직업": "제21대 국회의원(비례대표)",
+  "성별": "여",
+  "id_21th": "1180",
+  "regionId": "2410601_2",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 14:04:00 +0900",
+      "title": "[KSOI] 성남 중원, 민주 이수진 47.6%로 국힘 윤용근 32.8%에 우세",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348083"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 13:52:00 +0900",
+      "title": "성남중원 민주 이수진 ‘지지선언 조작·유포’ 관련 잇따라 고발당해",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240404023334702"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 12:07:00 +0900",
+      "title": "[성남 중원] 이수진 47.6%-윤용근 32.8%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428974?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 08:58:00 +0900",
+      "title": "[4·10 총선] 한국노총, 성남 중원 민주당 이수진 지지 선언",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243120"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 09:26:00 +0900",
+      "title": "성남중원 민주 이수진, 특정단체 지지선언 조작·유포 ‘논란’",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240403024484285"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "이수진",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1195678
+    },
+    {
+      "연도": 2021,
+      "재산": 690902
+    },
+    {
+      "연도": 2022,
+      "재산": 815100
+    },
+    {
+      "연도": 2023,
+      "재산": 779544
+    }
+  ],
+  "huboid": "100152344",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410601-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410601_2-1.pdf"
+}

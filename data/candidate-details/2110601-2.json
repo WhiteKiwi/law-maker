@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110601-2.jpg",
+  "id": "2110601-2",
+  "재산": 1222769,
+  "생년월일": "19670120",
+  "경력": "(전)제18·19·20대 국회의원\n(전)YTN 기자",
+  "학력": "고려대학교 대학원 석사 (정치외교학) 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110601",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 19:26:00 +0900",
+      "title": "[포토] 한동훈, 기호 2번 김영우·김경진 지지 호소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126280"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:24:00 +0900",
+      "title": "[포토] 한동훈 위원장, 기호 2번 김영우·김경진 지원유세",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126279"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:24:00 +0900",
+      "title": "[포토] 한동훈 위원장, 김영우·김경진 후보 지지 호소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126278"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:24:00 +0900",
+      "title": "[포토] 한동훈 비대위원장, 김영우·김경진 후보 지지 호소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126277"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:22:00 +0900",
+      "title": "[포토] 김영우·김경진 후보 지지 호소하는 한동훈 위원장",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126275"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "김영우",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 1222769
+    }
+  ],
+  "huboid": "100151969",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110601-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110601-2.pdf"
+}

@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110201-1.jpg",
+  "id": "2110201-1",
+  "재산": 3059697,
+  "생년월일": "19690423",
+  "경력": "(현)서울 중구성동구을 국회의원(21대 국회)\n(현)더불어민주당 대변인",
+  "학력": "성균관대학교 대학원 정치외교학과 정치학박사",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1043",
+  "regionId": "2110201",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 14:04:00 +0900",
+      "title": "[총선핫스팟] 서울 중성동을 치열하다, ‘중진 도약’ 민주 박성준 vs ‘정치...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348243"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:02:00 +0900",
+      "title": "서울 중성동을, 박성준-이혜훈 격전 속 무당층 향배가 판세 좌우",
+      "link": "http://www.hg-times.com/news/articleView.html?idxno=260190"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 16:33:00 +0900",
+      "title": "[4·10 총선 Who] 중·성동을 박성준 더불어민주당 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519199&seq_800=20511980"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 11:59:00 +0900",
+      "title": "[서울 중구성동을] 더불어민주당 박성준 43%, 국민의힘 이혜훈 41%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428968?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 11:36:00 +0900",
+      "title": "중·성동갑, 전현희 48%·윤희숙 36%…박성준 43%·이혜훈 41%, 접전",
+      "link": "https://n.news.naver.com/mnews/article/123/0002331276?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "박성준",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 2466127
+    },
+    {
+      "연도": 2021,
+      "재산": 2538990
+    },
+    {
+      "연도": 2022,
+      "재산": 2762938
+    },
+    {
+      "연도": 2023,
+      "재산": 3059697
+    }
+  ],
+  "huboid": "100152664",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110201-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110201-1.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310301-1.jpg",
+  "id": "2310301-1",
+  "재산": 565568,
+  "생년월일": "19790828",
+  "경력": "(전) 대통령 비서실 행정관\n(전) 울산광역시청 정무수석",
+  "학력": "한국외국어대학교 대학원 정치외교학과 수료(석사학위 과정)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2310301",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 17:30:00 +0900",
+      "title": "김태선 후보 지원 유세하는 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/001/0014611536?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:30:00 +0900",
+      "title": "김태선 후보 지원 유세하는 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/001/0014611535?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:05:00 +0900",
+      "title": "김태선 후보 지지유세에 나선 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012472572?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:05:00 +0900",
+      "title": "김태선 후보 지지유세에 나선 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012472570?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:05:00 +0900",
+      "title": "김태선 후보 지지유세에 나선 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012472576?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김태선",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 565568
+    }
+  ],
+  "huboid": "100151177",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310301-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310301-1.pdf"
+}

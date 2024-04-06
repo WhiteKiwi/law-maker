@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111701-2.jpg",
+  "id": "2111701-2",
+  "재산": 281644,
+  "생년월일": "19690804",
+  "경력": "(전)YTN 앵커\n(현)국민의힘 대변인",
+  "학력": "연세대학교 정치외교학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2111701",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+      "title": "[포토] 호준석 구로갑·태영호 구로을 후보 지지호소 하는 한동훈",
+      "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500270.html"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+      "title": "[포토] 호준석·태영호 지원유세 나선 한동훈 위원장",
+      "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500269.html"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:05:00 +0900",
+      "title": "[4·10 총선 Who] 구로갑 호준석 국민의힘 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519109&seq_800=20511890"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 21:17:00 +0900",
+      "title": "'용산' 강태웅 42% 권영세 41% 접전…'구로갑' 이인영 52% 호준석 34%",
+      "link": "https://n.news.naver.com/mnews/article/421/0007444160?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 20:21:00 +0900",
+      "title": "용산, 강태웅 42% 권영세 41%…구로갑, 이인영 52% 호준석 34%",
+      "link": "https://n.news.naver.com/mnews/article/003/0012457796?sid=165"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "호준석",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 281644
+    }
+  ],
+  "huboid": "100152236",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111701-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111701-2.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270502-1.jpg",
+  "id": "2270502-1",
+  "재산": 2002208,
+  "생년월일": "19710725",
+  "경력": "(현)더불어민주당 북구을 지역위원장\n(현)영진전문대학교 겸임조교수",
+  "학력": "대구가톨릭대학교 사회적경제경영대학원 졸업(경영학석사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2270502",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Wed, 03 Apr 2024 21:54:00 +0900",
+      "title": "대구 북구을 TV토론회, 김승수 \"매천시장 이전\" vs 신동환 \"관광시장으로\"",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455966"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:14:00 +0900",
+      "title": "'농수산물도매시장' 이전 공방...신동환 \"1조 가치, 존치\" vs 김승수 \"이전, ...",
+      "link": "https://www.pn.or.kr/news/articleView.html?idxno=30310"
+    },
+    {
+      "date": "Thu, 14 Mar 2024 17:40:00 +0900",
+      "title": "신동환,\"북구 10년 이상 거주한 다자녀 가정에 아파트 무상 제공\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3148360"
+    },
+    {
+      "date": "Thu, 14 Mar 2024 15:30:00 +0900",
+      "title": "(4·10 총선 현장)민주당 신동환 “북구 10년 거주 가정에 20평 아파트 제공”",
+      "link": "https://www.idaegu.com/newsView/idg202403140048"
+    },
+    {
+      "date": "Wed, 06 Mar 2024 16:26:00 +0900",
+      "title": "범야권 3개 정당 대구시당, 선거연합 합의 서명…\"尹 정권 심판하겠다\"",
+      "link": "http://www.kbsm.net/news/view.php?idx=425074"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "신동환",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 2002208
+    }
+  ],
+  "huboid": "100152404",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270502-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270502-1.pdf"
+}

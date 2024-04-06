@@ -1,0 +1,65 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261101-1.jpg",
+  "id": "2261101-1",
+  "재산": 1770370,
+  "생년월일": "19661015",
+  "경력": "(전)제20대 국회의원\n(전)대통령비서실 국내언론비서관",
+  "학력": "부산대학교 대학원 정치외교학과 정치외교학전공 박사과정 수료",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "901",
+  "regionId": "2261101",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 18:28:00 +0900",
+      "title": "최인호, \"이성권 후보 선거법 위반 의혹에 사과하라\"",
+      "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262816"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:20:00 +0900",
+      "title": "최인호 \"부정관권선거 무릎 꿇고 사죄\"...이성권 \"불순한 의도 허위사실 유포...",
+      "link": "http://www.breaknews.com/1025150"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:05:00 +0900",
+      "title": "최인호 “부정관권선거 개입 의혹” vs 이성권 “본인 허물부터 보라”",
+      "link": "https://n.news.naver.com/mnews/article/382/0001117882?sid=102"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:03:00 +0900",
+      "title": "최인호 후보 \"부정관권선거 개입 의혹\" vs 이성권 후보 \"본인 허물부터 보라\"",
+      "link": "http://www.seoulfn.com/news/articleView.html?idxno=515813"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 14:07:00 +0900",
+      "title": "최인호 \"구청장 선거 개입 뻔뻔\", 이성권 \"본인 허물부터 보라\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0012471657?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "최인호",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1084692
+    },
+    {
+      "연도": 2021,
+      "재산": 1233564
+    },
+    {
+      "연도": 2022,
+      "재산": 1271282
+    },
+    {
+      "연도": 2023,
+      "재산": 1770370
+    }
+  ],
+  "huboid": "100151256",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261101-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261101-1.pdf"
+}

@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280402-1.jpg",
+  "id": "2280402-1",
+  "재산": 2765467,
+  "생년월일": "19670510",
+  "경력": "(현) 제20·21대 연수구갑 국회의원\n(현) 더불어민주당 최고위원",
+  "학력": "서울대학교 대학원 경영학 석사",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "913",
+  "regionId": "2280402",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:00:00 +0900",
+      "title": "더불어민주당 박찬대 연수구갑 후보, '사전투표' 참여",
+      "link": "http://www.asiaa.co.kr/news/articleView.html?idxno=166400"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 13:12:00 +0900",
+      "title": "[4·10 총선현장] 박남춘 전 인천시장, 박찬대 연수 갑 후보와 사전투표",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243429"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 11:44:00 +0900",
+      "title": "[포토]사전투표하는 박찬대 인천 연수구갑 후보와 박남춘 전 인천시장",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240405029065023"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 08:48:00 +0900",
+      "title": "[리얼미터] 인천 연수갑, 민주 박찬대 47.3% 국힘 정승연 44.1% 경합",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 21:25:00 +0900",
+      "title": "'세 번째 리턴매치' 초박빙…박찬대 45.6% 정승연 42.8% [D-6 연수갑]",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817329?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "박찬대",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1706908
+    },
+    {
+      "연도": 2021,
+      "재산": 2025510
+    },
+    {
+      "연도": 2022,
+      "재산": 2244734
+    },
+    {
+      "연도": 2023,
+      "재산": 2765467
+    }
+  ],
+  "huboid": "100152610",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280402-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280402-1.pdf"
+}

@@ -1,0 +1,65 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111002-1.jpg",
+  "id": "2111002-1",
+  "재산": 1840120,
+  "생년월일": "19661125",
+  "경력": "(현) 도봉(을) 국회의원\n(현) 더불어민주당 서울시당 정책위원장",
+  "학력": "서울대학교 법과대학 공법학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1048",
+  "regionId": "2111002",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 12:09:00 +0900",
+      "title": "[총선 격전지] 방어냐 설욕이냐…도봉을, 오기형 vs 김선동 '3차전 리턴매치'",
+      "link": "https://www.newspim.com/news/view/20240405000603"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+      "title": "[제22대 총선 빅매치 치역] ‘도봉을’ 젊은 경제-김선동, 정권 심판-오기형의...",
+      "link": "http://www.m-economynews.com/news/article.html?no=42783"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 11:06:00 +0900",
+      "title": "오기형 민주당 후보 유세 중 유리병 투척...경찰 수사 중",
+      "link": "https://n.news.naver.com/mnews/article/014/0005166824?sid=102"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 08:31:00 +0900",
+      "title": "오기형 후보 선거운동원 향해 유리병 날아와… 警, 수사 착수",
+      "link": "https://n.news.naver.com/mnews/article/417/0000994080?sid=102"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 05:50:00 +0900",
+      "title": "오기형·김선동 토론 중 오세훈 소환…'경전철 조기착공' 책임공방 [도봉을 T...",
+      "link": "https://n.news.naver.com/mnews/article/119/0002816895?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "오기형",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1775517
+    },
+    {
+      "연도": 2021,
+      "재산": 1822890
+    },
+    {
+      "연도": 2022,
+      "재산": 1844975
+    },
+    {
+      "연도": 2023,
+      "재산": 1840120
+    }
+  ],
+  "huboid": "100152438",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111002-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111002-1.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111902-7.jpg",
+  "id": "2111902-7",
+  "재산": -84050,
+  "생년월일": "19670311",
+  "경력": "(전)한양대학교 총학생회장\n(전)기후민생당 대표",
+  "학력": "한양대학교 독어독문학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2111902",
+  "기호": 7,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Wed, 17 May 2023 16:46:00 +0900",
+      "title": "민생당, 5.18정신계승과 대통합‧대화합을 위한 결의문 채택",
+      "link": "http://www.breaknews.com/965666"
+    },
+    {
+      "date": "Mon, 27 Feb 2023 15:38:00 +0900",
+      "title": "민생당 “일본 후쿠시마 원전 방사능 오염수 해양 방류 즉각 철회하라” 촉구",
+      "link": "http://www.breaknews.com/950680"
+    },
+    {
+      "date": "Wed, 25 Aug 2021 09:40:00 +0900",
+      "title": "원내외 진보정당들 대선전략 뭘까",
+      "link": "https://n.news.naver.com/mnews/article/033/0000043023?sid=100"
+    },
+    {
+      "date": "Sat, 21 Aug 2021 09:03:00 +0900",
+      "title": "“더 이상 단일화는 없다” 원내외 진보정당들의 대선전략은",
+      "link": "https://n.news.naver.com/mnews/article/032/0003093194?sid=100"
+    },
+    {
+      "date": "Tue, 27 Oct 2020 15:16:00 +0900",
+      "title": "김정기 민생당 비상대책위원 ‘기후변화 위기대응 간담회’ 개최",
+      "link": "http://www.breaknews.com/763418"
+    }
+  ],
+  "정당": "기후민생당",
+  "이름": "김정기",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": -84050
+    }
+  ],
+  "huboid": "100153173",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111902-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111902-7.pdf"
+}

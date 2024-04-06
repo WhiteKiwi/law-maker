@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110101-8.jpg",
+  "id": "2110101-8",
+  "재산": 20000,
+  "생년월일": "19600901",
+  "경력": "(전) 제19대 국회의원선거 종로구 국민의힘 후보자\n",
+  "학력": "부산대학교 사범대학 교육학과 2학년 제적(1980.03.~1986.08)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110101",
+  "기호": 8,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+      "title": "[4·10총선 후보자 등록] 서울",
+      "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 22:08:00 +0900",
+      "title": "22대 총선 등록마감, 경쟁률 2.4대 1…최연소 27세·최고령 85세",
+      "link": "https://n.news.naver.com/mnews/article/031/0000822684?sid=100"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+      "title": "22대 총선 전체 후보 경쟁률 2.4대 1…최고 경쟁지는 종로(종합)",
+      "link": "https://n.news.naver.com/mnews/article/003/0012445504?sid=165"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+      "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+      "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 18:44:00 +0900",
+      "title": "제3지대 등판에 총선 지역구 10개 중 4개꼴 '다자구도' 혼전",
+      "link": "https://n.news.naver.com/mnews/article/001/0014583272?sid=165"
+    }
+  ],
+  "정당": "가락특권폐지당",
+  "이름": "김준수",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 20000
+    }
+  ],
+  "huboid": "100153126",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110101-8.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110101-8.pdf"
+}

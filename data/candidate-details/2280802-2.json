@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280802-2.jpg",
+  "id": "2280802-2",
+  "재산": 886529,
+  "생년월일": "19790411",
+  "경력": "(전) 대한변호사협회 부협회장\n(전) 인천광역시 행정심판위원",
+  "학력": "서울대학교 법과대학 법학부 졸업(법학사)",
+  "직업": "변호사",
+  "성별": "남",
+  "regionId": "2280802",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Wed, 03 Apr 2024 10:16:00 +0900",
+      "title": "[서구갑] 민주 김교흥 \"인천 공공의대\" 국힘 박상수 \"공립학원 개설\"",
+      "link": "http://www.incheontoday.com/news/articleView.html?idxno=244307"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 07:02:00 +0900",
+      "title": "[4.10 총선] '베테랑' 김교흥 vs '신인' 박상수...인천 서구갑 민심은 어디로",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150826"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 19:00:00 +0900",
+      "title": "[4·10 총선-서구 갑 맞수] 국민의힘 박상수",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242831"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 19:48:00 +0900",
+      "title": "[인천 서구갑] 김교흥 \"현안 마무리할 것\" VS 박상수 \"서구는 변화 없어\"",
+      "link": "http://www.incheontoday.com/news/articleView.html?idxno=244170"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 13:48:00 +0900",
+      "title": "[인천 서갑 여론조사] 민주 김교흥 57%-국힘 박상수 33.9%",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=2955536"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "박상수",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 886529
+    }
+  ],
+  "huboid": "100152464",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280802-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280802-2.pdf"
+}

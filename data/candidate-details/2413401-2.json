@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413401-2.jpg",
+  "id": "2413401-2",
+  "재산": 1538172,
+  "생년월일": "19640310",
+  "경력": "(현)국회의원(20, 21대)\n(전)서울지방국토관리청 청장",
+  "학력": "미국 미주리대학교 경제학 박사 (2002. 8. ~ 2005. 5.)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "994",
+  "regionId": "2413401",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 09:50:00 +0900",
+      "title": "국민의힘 송석준 후보, \"사전투표 첫날 투표권 행사…함께 가면 길이 된다\"",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=220484"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 16:36:00 +0900",
+      "title": "경기 이천, 민주 엄태준 50.3% 국힘 송석준 42.2%, 경합 [여론조사꽃]",
+      "link": "https://n.news.naver.com/mnews/article/123/0002331322?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 11:54:00 +0900",
+      "title": "[여론조사꽃] 경기 이천, 민주 엄태준 50.3% 국힘 송석준 42.2% 경합",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348066"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 11:41:00 +0900",
+      "title": "[경기 이천] 더불어민주당 엄태준 50.3%, 국민의힘 송석준 42.2%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428958?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:02:00 +0900",
+      "title": "국민의힘 송석준 후보, 시민유권자운동본부 4.10 총선 ‘좋은 후보’ 선정",
+      "link": "https://n.news.naver.com/mnews/article/031/0000825741?sid=004"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "송석준",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 945950
+    },
+    {
+      "연도": 2021,
+      "재산": 1065502
+    },
+    {
+      "연도": 2022,
+      "재산": 1305045
+    },
+    {
+      "연도": 2023,
+      "재산": 1538172
+    }
+  ],
+  "huboid": "100152824",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413401-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413401-2.pdf"
+}

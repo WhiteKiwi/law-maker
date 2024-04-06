@@ -1,0 +1,52 @@
+{
+  "전과건수": 8,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2482201-5.jpg",
+  "id": "2482201_1-5",
+  "재산": 248157,
+  "생년월일": "19641226",
+  "경력": "(전)국회의원\n(전)정의당 당대표",
+  "학력": "창원대학교 산업비즈니스학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2482201_1",
+  "기호": 5,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 19:09:00 +0900",
+      "title": "[포토] 사전투표 마친 여영국 후보",
+      "link": "https://n.news.naver.com/mnews/article/031/0000826452?sid=102"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 12:28:00 +0900",
+      "title": "[포토] 녹색정의당 여영국 후보, 사파동 사전투표소서 '한 표'",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=560023"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 12:07:00 +0900",
+      "title": "여영국 녹색정의당 후보, 창원서 사전투표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012474437?sid=102"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 19:44:00 +0900",
+      "title": "금속노조 경남지부, 창원 성산 여영국 후보 지지선언",
+      "link": "https://www.idomin.com/news/articleView.html?idxno=907959"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 18:46:00 +0900",
+      "title": "허성무 38%, 강기윤 27%, 여영국 7% ...창원성산 KBS창원 지난달 여론조사",
+      "link": "https://www.viva100.com/main/view.php?key=20240402010000885"
+    }
+  ],
+  "정당": "녹색정의당",
+  "이름": "여영국",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 248157
+    }
+  ],
+  "huboid": "100151264",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2482201-5.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2482201_1-5.pdf"
+}

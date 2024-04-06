@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414002-2.jpg",
+  "id": "2414002-2",
+  "재산": 1505844,
+  "생년월일": "19740819",
+  "경력": "(전)대통령당선인 비서실 상근보좌역\n(전)국민의힘 조직부총장(사무부총장)",
+  "학력": "고려대학교 대학원 북한학과 졸업(문학박사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2414002",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 11:16:00 +0900",
+      "title": "국민의힘 광주시갑 함경우 후보 부부 한표 행사",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240405025195006"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 09:52:00 +0900",
+      "title": "함경우 후보 “소병훈 S-BRT 공약, 성의 없는 공약”",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240405026474971"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:20:00 +0900",
+      "title": "[4·10 총선 여론조사] 광주갑 소병훈 52.7%… 함경우에 오차범위 밖 '우세'",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240405010000599"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 18:01:00 +0900",
+      "title": "[경기 광주갑] 더불어민주당 소병훈 52.7%, 국민의힘 함경우 38.1%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429081?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:02:00 +0900",
+      "title": "[4·10 총선 여론조사] 광주갑, 소병훈 52.7% vs 함경우 38.1%…오차범위 밖 ...",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240404024174737"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "함경우",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 1505844
+    }
+  ],
+  "huboid": "100151367",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414002-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414002-2.pdf"
+}

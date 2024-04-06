@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280403-1.jpg",
+  "id": "2280403-1",
+  "재산": 2489926,
+  "생년월일": "19570814",
+  "경력": "(현) 제21대 국회의원(더불어민주당 인천연수을)\n(전) 인천국제공항공사 사장",
+  "학력": "영국 옥스퍼드대 발전경제학 석사(1987.10.~1988.07.)",
+  "직업": "제21대 국회의원(더불어민주당 인천연수을)",
+  "성별": "남",
+  "id_21th": "1077",
+  "regionId": "2280403",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:08:00 +0900",
+      "title": "[4·10 총선 현장] 민주당 정일영 후보·국민의힘 김기흥 후보, 송도 5동 아파...",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243455"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 18:10:00 +0900",
+      "title": "정일영 인천 연수을 후보, '반려동물과 행복한 송도국제도시' 공약 발표",
+      "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082027"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:36:00 +0900",
+      "title": "[4·10 총선현장] 민주당 연수을 정일영 후보, \"송도국제도시를 반려동물과 행...",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243297"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 16:20:00 +0900",
+      "title": "[인천TV] 연수을 여론, 정일영 49.8% 김기흥 40.0% 오차밖 9.8%p 격차",
+      "link": "http://www.incheontoday.com/news/articleView.html?idxno=244513"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 14:40:00 +0900",
+      "title": "정일영 연수을 후보, 반려동물 공공진료센터 건립 공약",
+      "link": "http://www.incheonin.com/news/articleView.html?idxno=100715"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "정일영",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1640853
+    },
+    {
+      "연도": 2021,
+      "재산": 1800931
+    },
+    {
+      "연도": 2022,
+      "재산": 2062070
+    },
+    {
+      "연도": 2023,
+      "재산": 2489926
+    }
+  ],
+  "huboid": "100151810",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280403-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280403-1.pdf"
+}

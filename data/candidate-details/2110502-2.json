@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110502-2.jpg",
+  "id": "2110502-2",
+  "재산": 5841876,
+  "생년월일": "19710207",
+  "경력": "(전)제19, 20대 국회의원\n(전)서울특별시 정무부시장",
+  "학력": "건국대학교 행정대학원 도시 및 지역계획학과 석사과정 재학중",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110502",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:12:00 +0900",
+      "title": "서울 광진을 막판 민심은? 고민정 48% 對 오신환 43%",
+      "link": "https://n.news.naver.com/mnews/article/586/0000076064?sid=100"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 12:28:00 +0900",
+      "title": "[사전투표] '광진을' 오신환 \"초박빙이라고 다들 얘기…마지막까지 최선\"",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817596?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:42:00 +0900",
+      "title": "고민정·오신환, 남편-아들과 사전투표 인증샷",
+      "link": "https://n.news.naver.com/mnews/article/421/0007461210?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:41:00 +0900",
+      "title": "오신환 후보, 아들과 함께 사전투표 인증샷",
+      "link": "https://n.news.naver.com/mnews/article/421/0007461188?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:40:00 +0900",
+      "title": "가족과 함께 사전투표 나선 고민정·오신환",
+      "link": "https://n.news.naver.com/mnews/article/421/0007461185?sid=165"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "오신환",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 5841876
+    }
+  ],
+  "huboid": "100151429",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110502-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110502-2.pdf"
+}

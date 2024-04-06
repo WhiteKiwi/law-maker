@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110301-7.jpg",
+  "id": "2110301-7",
+  "재산": 2000,
+  "생년월일": "19930703",
+  "경력": "(전)대안대학 청춘의지성 전국대표\n(현)자주민주평화통일민족위원회 선전위원장",
+  "학력": "이화여자대학교 사회학과 졸업",
+  "직업": "사회운동가",
+  "성별": "여",
+  "regionId": "2110301",
+  "기호": 7,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+      "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+      "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+    },
+    {
+      "date": "Sun, 10 Mar 2024 12:58:00 +0900",
+      "title": "[80차 촛불집회 현장 르포] 노골적인 집회 방해에도 식지 않는 집회 열기",
+      "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306061"
+    },
+    {
+      "date": "Sun, 03 Mar 2024 13:08:00 +0900",
+      "title": "[79차 촛불집회 현장 르포] 거듭된 친일 외교, '김건희 방탄' 성토한 촛불집회",
+      "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=305634"
+    },
+    {
+      "date": "Sat, 02 Mar 2024 18:26:00 +0900",
+      "title": "[현장] 촛불행동 \"국힘, 쌍특검법 부결로 김 여사 방탄 정당 확인\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3114091"
+    },
+    {
+      "date": "Wed, 28 Feb 2024 11:24:00 +0900",
+      "title": "경찰, 국민주권당 구산하 후보 선거운동 방해 논란",
+      "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=305442"
+    }
+  ],
+  "정당": "국민주권당",
+  "이름": "구산하",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 2000
+    }
+  ],
+  "huboid": "100152848",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110301-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110301-7.pdf"
+}

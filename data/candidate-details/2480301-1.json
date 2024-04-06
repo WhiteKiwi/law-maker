@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480301-1.jpg",
+  "id": "2480301-1",
+  "재산": 923783,
+  "생년월일": "19640825",
+  "경력": "(현)더불어민주당 진주시갑 지역위원장\n(전)더불어민주당 진주시장 후보",
+  "학력": "고려대학교 대학원 정치외교학과 박사과정 졸업(정치학박사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2480301",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 11:26:00 +0900",
+      "title": "성평등 질의응답한 후보는 갈상돈 한 명 뿐",
+      "link": "http://www.dandinews.com/news/articleView.html?idxno=13309"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:23:00 +0900",
+      "title": "진주 농민단체, 갈상돈-한경호 후보와 '농정대전환 정책 협약'",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428844?sid=100"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 13:16:00 +0900",
+      "title": "'경남 진주갑' 민주 갈상돈·국힘 박대출 후보 공약 비교",
+      "link": "https://n.news.naver.com/mnews/article/079/0003880873?sid=165"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 19:20:00 +0900",
+      "title": "남부내륙철도 사업 연기는 '네 탓'…진주갑 박대출·갈상돈 공방",
+      "link": "https://n.news.naver.com/mnews/article/421/0007451447?sid=165"
+    },
+    {
+      "date": "Fri, 29 Mar 2024 18:36:00 +0900",
+      "title": "민주당 진주갑 갈상돈 후보 선거대책위 출범식",
+      "link": "https://n.news.naver.com/mnews/article/003/0012459863?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "갈상돈",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 923783
+    }
+  ],
+  "huboid": "100151422",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480301-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480301-1.pdf"
+}

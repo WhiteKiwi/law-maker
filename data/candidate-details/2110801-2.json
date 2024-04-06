@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110801-2.jpg",
+  "id": "2110801-2",
+  "재산": 939479,
+  "생년월일": "19720930",
+  "경력": "(전)제18대 대통령직인수위원회 국민대통합위원회 위원\n(전)고려대학교 총학생회장",
+  "학력": "고려대학교 일반대학원 정치외교학과 박사과정 졸업",
+  "직업": "대학강사",
+  "성별": "남",
+  "regionId": "2110801",
+  "기호": 2,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 17:49:00 +0900",
+      "title": "[4·10 총선 Who] 성북갑 이종철 국민의힘 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519221&seq_800=20512002"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 18:59:00 +0900",
+      "title": "유승민, 한동훈 ‘정치 개같이…’ 발언에 “보수는 품격”",
+      "link": "https://n.news.naver.com/mnews/article/028/0002683006?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 18:34:00 +0900",
+      "title": "서울 성북갑, 고대 운동권 출신들에 재선 후보까지 '3파전'",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3518757&seq_800=20511536"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 18:19:00 +0900",
+      "title": "與, 지도부 난색에도 ‘유승민 등판론’ 솔솔",
+      "link": "https://n.news.naver.com/mnews/article/022/0003919002?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 18:13:00 +0900",
+      "title": "첫날 서울·경기 12곳부터 공략한 한동훈 “이·조 범죄세력 심판”",
+      "link": "https://n.news.naver.com/mnews/article/081/0003440572?sid=100"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "이종철",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 939479
+    }
+  ],
+  "huboid": "100152658",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110801-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110801-2.pdf"
+}

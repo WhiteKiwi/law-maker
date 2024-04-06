@@ -1,0 +1,52 @@
+{
+  "전과건수": 5,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111402-2.jpg",
+  "id": "2111402-2",
+  "재산": 10000,
+  "생년월일": "19640318",
+  "경력": "(현)주식회사 네모선장 대표\n(현)국민의힘 제22대 총선 영입인재",
+  "학력": "서울대학교 자연과학대학 물리학과 졸업",
+  "직업": "도소매업(생선장수)",
+  "성별": "남",
+  "regionId": "2111402",
+  "기호": 2,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:49:00 +0900",
+      "title": "[인터뷰 전문] 함운경 \"조국은 허당…윤 대통령에 대한 일시적 불만 때문에 일...",
+      "link": "https://n.news.naver.com/mnews/article/437/0000387263?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 16:36:00 +0900",
+      "title": "[4·10 총선 Who] 마포을 함운경 국민의힘 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519201&seq_800=20511982"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:45:00 +0900",
+      "title": "이재명 “4·3 학살 후예 국힘”…함운경 반격 “‘민주당 기원’ 조병옥이 폭...",
+      "link": "https://n.news.naver.com/mnews/article/029/0002865403?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 07:30:00 +0900",
+      "title": "함운경, 尹 탈당 요구 철회… “본뜻 모르고 성급했다”",
+      "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=19436&Newsnumb=20240419436"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 05:01:00 +0900",
+      "title": "[사설] 함운경, 선거판 열세는 남 탓할 일 아니다",
+      "link": "https://n.news.naver.com/mnews/article/088/0000870736?sid=110"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "함운경",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 10000
+    }
+  ],
+  "huboid": "100153115",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111402-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111402-2.pdf"
+}

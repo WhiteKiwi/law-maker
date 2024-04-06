@@ -1,0 +1,52 @@
+{
+  "전과건수": 3,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110101-9.jpg",
+  "id": "2110101-9",
+  "재산": 270000,
+  "생년월일": "19450731",
+  "경력": "(전) (사)한국유엔봉사단 총재\n(현) 한미일동맹국민운동기구",
+  "학력": "한국방송통신대학교 중어중문학과 1학년 제적(91.03~92.03)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110101",
+  "기호": 9,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 22 Mar 2024 22:08:00 +0900",
+      "title": "22대 총선 등록마감, 경쟁률 2.4대 1…최연소 27세·최고령 85세",
+      "link": "https://n.news.naver.com/mnews/article/031/0000822684?sid=100"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+      "title": "22대 총선 전체 후보 경쟁률 2.4대 1…최고 경쟁지는 종로(종합)",
+      "link": "https://n.news.naver.com/mnews/article/003/0012445504?sid=165"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+      "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+      "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+    },
+    {
+      "date": "Wed, 21 Sep 2022 10:02:00 +0900",
+      "title": "[피플&포커스] 일제강제징용 보상 논란… 김종필·정주영 등과 함께한 김종갑...",
+      "link": "http://www.newscj.com/article/20220919580385"
+    },
+    {
+      "date": "Thu, 25 Jul 2013 13:36:00 +0900",
+      "title": "鄭淳台의 6·25 南侵전쟁이야기(8)/ 맥아더가 알고 싶었던 한국군의 戰意",
+      "link": "http://www.konas.net/article/article.asp?idx=31726"
+    }
+  ],
+  "정당": "대한국민당",
+  "이름": "김종갑",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 270000
+    }
+  ],
+  "huboid": "100153265",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110101-9.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110101-9.pdf"
+}

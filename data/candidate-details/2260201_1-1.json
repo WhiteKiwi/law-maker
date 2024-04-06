@@ -1,0 +1,52 @@
+{
+  "id": "2260201_1-1",
+  "regionId": "2260201_1",
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2260201-1.jpg",
+  "기호": 1,
+  "이름": "최형욱",
+  "생년월일": "19571119",
+  "정당": "더불어민주당",
+  "성별": "남",
+  "직업": "정당인",
+  "학력": "동아대학교 대학원 신문방송학과 수료",
+  "경력": "(전)5대, 6대 부산광역시의회의원\n(전)부산광역시 동구청장",
+  "재산": 387850,
+  "군필여부": true,
+  "전과건수": 1,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 12:01:00 +0900",
+      "title": "최형욱 후보와 인사 하는 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012471308?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 22:36:00 +0900",
+      "title": "[포토] 서면 집중유세 참석한 최형욱 부산서·동 후보",
+      "link": "https://www.newdaily.co.kr/site/data/html/2024/04/03/2024040300399.html"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+      "title": "[4.10총선-193] 부산 서·동구, 최형욱vs곽규택",
+      "link": "http://www.mhj21.com/160241"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 18:00:00 +0900",
+      "title": "부산 서구동구 최형욱 VS 곽규택, \"적임자는 바로 나\"",
+      "link": "https://www.ajunews.com/view/20240328160707305"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 14:26:00 +0900",
+      "title": "[4·10 총선-공약 톺아보기]부산 서동구…최형욱 vs 곽규택 \"동상이몽\"",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1025004"
+    }
+  ],
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 387850
+    }
+  ],
+  "huboid": "100151326",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2260201-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2260201_1-1.pdf"
+}
