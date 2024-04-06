@@ -49,11 +49,16 @@ export type LawMaker = {
     상임위원회: string;
     진행상황: string;
   }[];
-  공약이행률: {
-    이름: string;
-    총공약수: number | null;
-    공약이행수: number | null;
-  };
+  공약이행률:
+    | {
+        이름: string;
+        총공약수: number | null;
+        공약이행수: number | null;
+      }
+    | {
+        총공약수: number | null;
+        공약이행수: number | null;
+      };
 };
 
 /**
@@ -122,7 +127,7 @@ export const LawMaker: z.Schema<LawMaker> = z.object({
     })
   ),
   공약이행률: z.object({
-    이름: z.string(),
+    이름: z.string().optional(),
     총공약수: z.number().nullable(),
     공약이행수: z.number().nullable(),
   }),
