@@ -1,0 +1,65 @@
+{
+  "전과건수": 4,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111902-1.jpg",
+  "id": "2111902-1",
+  "재산": -59320,
+  "생년월일": "19640529",
+  "경력": "(현)국회의원\n(전)더불어민주당 정책위의장",
+  "학력": "하버드대학교 케네디정치행정대학원 공공행정학석사(1994.9~1995.5)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "276",
+  "regionId": "2111902",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:08:00 +0900",
+      "title": "[단독]김민석 “접전 험지 자동응답 여론조사 초박빙, 전화 면접선 뒤져”",
+      "link": "https://n.news.naver.com/mnews/article/020/0003557512?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:00:00 +0900",
+      "title": "[단독]김민석 “접전 험지 자동응답 여론조사 초박빙, 전화 면접선 뒤져”",
+      "link": "https://n.news.naver.com/mnews/article/020/0003557502?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 09:01:00 +0900",
+      "title": "'추징금' 설전…김민석 \"내가 갚지 않고 미납? 사과하라\" vs 박용찬 \"적반하장...",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817415?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 01:03:00 +0900",
+      "title": "김민석 43%·박용찬 42%…'1%p차' 오차범위내 초접전 [D-6 영등포을]",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817348?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 22:14:00 +0900",
+      "title": "[서울 영등포을] 더불어민주당 김민석 43%, 국민의힘 박용찬 42%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429130?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김민석",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 580957
+    },
+    {
+      "연도": 2021,
+      "재산": 372274
+    },
+    {
+      "연도": 2022,
+      "재산": 264758
+    },
+    {
+      "연도": 2023,
+      "재산": -59320
+    }
+  ],
+  "huboid": "100152475",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111902-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111902-1.pdf"
+}

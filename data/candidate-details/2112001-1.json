@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112001-1.jpg",
+  "id": "2112001-1",
+  "재산": 3269538,
+  "생년월일": "19610710",
+  "경력": "(전)국가정보원 인사처장\n(현)제21대 국회의원",
+  "학력": "건국대학교 안보ㆍ재난관리학과 국가안보전략전공 박사과정 수료",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "895",
+  "regionId": "2112001",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 21:25:00 +0900",
+      "title": "[서울 동작갑] 더불어민주당 김병기 44%, 국민의힘 장진영 34%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429120?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 15:24:00 +0900",
+      "title": "'한강벨트' 요충지 서울 동작갑, 김병기 46.4% 對 장진영 35.0%",
+      "link": "https://n.news.naver.com/mnews/article/586/0000075851?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 15:07:00 +0900",
+      "title": "[서울 동작갑] 더불어민주당 김병기 46.4%, 국민의힘 장진영 35%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428778?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 12:02:00 +0900",
+      "title": "[동작갑] 김병기 46.4%-장진영 35.0%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428719?sid=165"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 20:53:00 +0900",
+      "title": "김병기 더불어민주당 동작갑 후보 '시민과의 대화'",
+      "link": "https://n.news.naver.com/mnews/article/119/0002816403?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김병기",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 2297303
+    },
+    {
+      "연도": 2021,
+      "재산": 2885079
+    },
+    {
+      "연도": 2022,
+      "재산": 3300253
+    },
+    {
+      "연도": 2023,
+      "재산": 3269538
+    }
+  ],
+  "huboid": "100152775",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112001-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112001-1.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-6.jpg",
+  "id": "2462202-6",
+  "재산": 50000,
+  "생년월일": "19651115",
+  "경력": "(전)복지TV사장\n(현)대한노인회 중앙회 정책위원",
+  "학력": "고려대학교 신문방송학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2462202",
+  "기호": 6,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 14:36:00 +0900",
+      "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
+      "link": "http://www.mhj21.com/160323"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 13:28:00 +0900",
+      "title": "김선우 후보, 92세 노모와 사전투표",
+      "link": "http://www.mdilbo.com/detail/Z0UE6f/717178"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 12:48:00 +0900",
+      "title": "김선우 후보, 92세 노모와 함께 사전투표",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003288"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 16:10:00 +0900",
+      "title": "김선우 후보 '4개군 연합 정책실현 협의회 구성' 제안",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20240403010002190"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 11:30:00 +0900",
+      "title": "[2024 총선]새로운미래 김선우 후보, 92세 노모와 함께 선거운동 '눈길'",
+      "link": "http://www.namdonews.com/news/articleView.html?idxno=765288"
+    }
+  ],
+  "정당": "새로운미래",
+  "이름": "김선우",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 50000
+    }
+  ],
+  "huboid": "100153275",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-6.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202-6.pdf"
+}

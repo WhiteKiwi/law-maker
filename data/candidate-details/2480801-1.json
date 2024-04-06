@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2480801-1.jpg",
+  "id": "2480801-1",
+  "재산": 2384275,
+  "생년월일": "19610418",
+  "경력": "(현)제21대 더불어민주당 국회의원\n(전)국방부 고등군사법원 법원장(육군준장)",
+  "학력": "부산대학교 대학원 법학과 졸업(법학석사)",
+  "직업": "정당인",
+  "성별": "남",
+  "id_21th": "778",
+  "regionId": "2480801",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 15:00:00 +0900",
+      "title": "민주당 김해갑·을 민홍철·김정호 후보, 사전투표 참여",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002753"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 21:34:00 +0900",
+      "title": "[격전지를 가다- 김해갑] 민홍철 “윤석열 정권 심판” - 박성호 “민주당 12...",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1429326"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:14:00 +0900",
+      "title": "인사하는 김부겸·민홍철",
+      "link": "https://n.news.naver.com/mnews/article/001/0014609009?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:14:00 +0900",
+      "title": "인사하는 김부겸·민홍철",
+      "link": "https://n.news.naver.com/mnews/article/001/0014609010?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:13:00 +0900",
+      "title": "김부겸 '민홍철 후보 지지 호소'",
+      "link": "https://n.news.naver.com/mnews/article/001/0014609003?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "민홍철",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1785981
+    },
+    {
+      "연도": 2021,
+      "재산": 2047022
+    },
+    {
+      "연도": 2022,
+      "재산": 2449569
+    },
+    {
+      "연도": 2023,
+      "재산": 2384275
+    }
+  ],
+  "huboid": "100152622",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2480801-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2480801-1.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "2111202-1",
+  "regionId": "2111202",
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111202-1.jpg",
+  "기호": 1,
+  "이름": "김우영",
+  "생년월일": "19690805",
+  "정당": "더불어민주당",
+  "성별": "남",
+  "직업": "정당인",
+  "학력": "한국과학기술원(KAIST) 미래전략대학원 프로그램 졸업(경영학석사)",
+  "경력": "(전)은평구청장\n(전)서울특별시정무부시장",
+  "재산": 431189,
+  "군필여부": true,
+  "전과건수": 0,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 16:31:00 +0900",
+      "title": "[4·10 총선 Who] 은평을 김우영 더불어민주당 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519198&seq_800=20511979"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 13:06:00 +0900",
+      "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
+    },
+    {
+      "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+      "title": "김우영 후보 \"무능한 정부 투표로 심판... 혁신 민주당 만들어 나갈 것\"",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428571?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 20:08:00 +0900",
+      "title": "은평구을 김우영 후보, 구파발역서 선거 출정식",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=461363"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 18:58:00 +0900",
+      "title": "[나는 후보자다]은평구을 김우영ㆍ장성호ㆍ김종민 후보",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=460816"
+    }
+  ],
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 431189
+    }
+  ],
+  "huboid": "100152264",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111202-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-1.pdf"
+}

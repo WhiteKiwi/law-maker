@@ -1,0 +1,52 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520101-7.jpg",
+  "id": "2520101-7",
+  "재산": 63000,
+  "생년월일": "19670517",
+  "경력": "(현)전기 기술사\n(전)한국공학교육인증원 대학평가위원",
+  "학력": "전남대학교 정밀화학과 졸업",
+  "직업": "자영업",
+  "성별": "남",
+  "regionId": "2520101",
+  "기호": 7,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 10:22:00 +0900",
+      "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=462105"
+    },
+    {
+      "date": "Fri, 29 Mar 2024 00:04:00 +0900",
+      "title": "[포토뉴스] 춘천갑 오정규 무소속 후보 공식선거운동 첫날",
+      "link": "https://n.news.naver.com/mnews/article/087/0001035008?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 00:06:00 +0900",
+      "title": "[4·10총선 발언대] 조일현·오정규 \"무소속·군소정당 방송토론 기회 줘야\"",
+      "link": "https://n.news.naver.com/mnews/article/654/0000069976?sid=100"
+    },
+    {
+      "date": "Wed, 27 Mar 2024 16:32:00 +0900",
+      "title": "[4·10총선 발언대] 새미래 조일현·무소속 오정규 \"방송토론, 전 후보 참여시...",
+      "link": "https://n.news.naver.com/mnews/article/654/0000069946?sid=100"
+    },
+    {
+      "date": "Wed, 27 Mar 2024 16:08:00 +0900",
+      "title": "[나는 후보자다]춘천시철원군화천군양구군 갑 허영·김혜란·조일현·오정규 ...",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=461062"
+    }
+  ],
+  "정당": "무소속",
+  "이름": "오정규",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 63000
+    }
+  ],
+  "huboid": "100151616",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520101-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2520101-7.pdf"
+}

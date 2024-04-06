@@ -1,0 +1,65 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413203-1.jpg",
+  "id": "2413203-1",
+  "재산": 35170748,
+  "생년월일": "19621119",
+  "경력": "(전)더불어민주당 경기도당 위원장\n(현)국회 환경노동위원회 위원장",
+  "학력": "서울대학교 대학원 졸업(이학석사)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "993",
+  "regionId": "2413203",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:21:00 +0900",
+      "title": "민주 박정 후보, 임진각서 사전투표 독려 릴레이 캠페인",
+      "link": "https://n.news.naver.com/mnews/article/421/0007462677?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:50:00 +0900",
+      "title": "파주을 박정 \"문산지역 경기북부 중심도시 만들 것\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0014613824?sid=101"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 21:56:00 +0900",
+      "title": "박정 후보 유세장에 배우 유동근氏 지원...'몰빵'으로 꼭 3선에 당선시켜 달라...",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=71412"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 15:18:00 +0900",
+      "title": "박정 민주당 파주을 후보 ‘재산축소 의혹’ 반박… “주식평가방법 달라져”",
+      "link": "http://www.kyeongin.com/main/view.php?key=20240404026524780"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 14:04:00 +0900",
+      "title": "박정, 한길룡 '의혹 부풀리기' 정면 반박…'모르면 가만히 있으면 중간은 간다...",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=71378"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "박정",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 31410857
+    },
+    {
+      "연도": 2021,
+      "재산": 45311488
+    },
+    {
+      "연도": 2022,
+      "재산": 45814826
+    },
+    {
+      "연도": 2023,
+      "재산": 35170748
+    }
+  ],
+  "huboid": "100152044",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413203-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413203-1.pdf"
+}

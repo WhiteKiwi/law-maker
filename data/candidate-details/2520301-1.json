@@ -1,0 +1,52 @@
+{
+  "전과건수": 3,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2520301-1.jpg",
+  "id": "2520301-1",
+  "재산": 868199,
+  "생년월일": "19620810",
+  "경력": "(현) 더불어민주당 탄소중립위원회 부위원장\n(현) 더불어민주당 부대변인",
+  "학력": "강릉원주대학교 일반대학원 행정학과 박사과정 수료",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2520301",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:58:00 +0900",
+      "title": "강릉 이번엔 폐기물매립장 '쟁점'…김중남·권성동 사전투표 첫날 '공방'",
+      "link": "https://n.news.naver.com/mnews/article/079/0003882480?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:38:00 +0900",
+      "title": "[4.10총선-248] 강원 강릉시, 김중남vs권성동vs이영랑. 권성동 5선 고지",
+      "link": "http://www.mhj21.com/160345"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:48:00 +0900",
+      "title": "민주 김중남 후보, 사전투표 첫날 강릉초교서 투표",
+      "link": "https://n.news.naver.com/mnews/article/003/0012474986?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:28:00 +0900",
+      "title": "강릉 김중남·권성동·이영랑 후보 전원 사전투표 완료",
+      "link": "https://n.news.naver.com/mnews/article/654/0000070920?sid=102"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 13:49:00 +0900",
+      "title": "[포토뉴스]김중남 더불어민주당 강릉 후보 사전투표",
+      "link": "https://n.news.naver.com/mnews/article/087/0001036443?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김중남",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 868199
+    }
+  ],
+  "huboid": "100151927",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2520301-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2520301-1.pdf"
+}

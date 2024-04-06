@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112501-1.jpg",
+  "id": "2112501-1",
+  "재산": -894600,
+  "생년월일": "19670514",
+  "경력": "(전)국회 국토교통위원회 위원장\n(현)제21대 국회의원(강동구갑)",
+  "학력": "성균관대학교 법학과 졸업",
+  "직업": "국회의원",
+  "성별": "여",
+  "id_21th": "829",
+  "regionId": "2112501",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:20:00 +0900",
+      "title": "[서울 강동갑] 더불어민주당 진선미 44.1%, 국민의힘 전주혜 35.6%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429275?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 13:40:00 +0900",
+      "title": "서울 강동갑, 민주 진선미 44.1% vs 국힘 전주혜 35.6%, 경합 [여론조사꽃]",
+      "link": "https://n.news.naver.com/mnews/article/123/0002331413?sid=100"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 11:22:00 +0900",
+      "title": "[여론조사꽃] 서울 강동갑, 민주 진선미 44.1% 국힘 전주혜 35.6% 경합",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348229"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:28:00 +0900",
+      "title": "[총선 여론조사-서울 강동갑] '민주 진선미 44.1% vs 국힘 전주혜 35.6%'",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=247129"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 07:02:00 +0900",
+      "title": "[격전지 민심] ‘강동댁’ 진선미 vs ‘與 스피커’ 전주혜…강동갑 ‘율사 대...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202404030224010000330"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "진선미",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1145566
+    },
+    {
+      "연도": 2021,
+      "재산": 1028552
+    },
+    {
+      "연도": 2022,
+      "재산": 986300
+    },
+    {
+      "연도": 2023,
+      "재산": -894600
+    }
+  ],
+  "huboid": "100152762",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112501-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112501-1.pdf"
+}

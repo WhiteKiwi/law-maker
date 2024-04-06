@@ -1,0 +1,65 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414902-7.jpg",
+  "id": "2414902-7",
+  "재산": 1496462,
+  "생년월일": "19630320",
+  "경력": "(현) 제21대 국회의원(3선)\n(현) 노무현재단 기획위원",
+  "학력": "고려대학교 법학과 졸업",
+  "직업": "제21대 국회의원",
+  "성별": "남",
+  "id_21th": "794",
+  "regionId": "2414902",
+  "기호": 7,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 23:10:00 +0900",
+      "title": "개혁신당 이준석,이원욱 후보 지원 나선 김종인",
+      "link": "https://ilyo.co.kr/?ac=article_view&entry_id=470098"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 09:50:00 +0900",
+      "title": "이원욱 \"국힘과 후보 단일화? 헛소리 마라!\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151126"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 09:32:00 +0900",
+      "title": "유경준 \"이원욱과 단일화? 대화해볼 것...내가 사퇴할 일은 없다\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151125"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:42:00 +0900",
+      "title": "이원욱 후보, 대한상공인당과 정치개혁·정책빅텐트 발표",
+      "link": "http://www.newstnt.com/news/articleView.html?idxno=359640"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:38:00 +0900",
+      "title": "(인터뷰)이원욱 \"3지대 정당은 실패…어려운 길 개척자 되고파\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1225832&inflow=N"
+    }
+  ],
+  "정당": "개혁신당",
+  "이름": "이원욱",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1320431
+    },
+    {
+      "연도": 2021,
+      "재산": 1403290
+    },
+    {
+      "연도": 2022,
+      "재산": 1493125
+    },
+    {
+      "연도": 2023,
+      "재산": 1496462
+    }
+  ],
+  "huboid": "100152753",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414902-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414902-7.pdf"
+}

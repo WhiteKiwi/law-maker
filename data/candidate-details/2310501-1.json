@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2310501-1.jpg",
+  "id": "2310501-1",
+  "재산": 698882,
+  "생년월일": "19601004",
+  "경력": "(전)울주군수\n(현)더불어민주당 울산시당위원장",
+  "학력": "울산대학교 행정학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2310501",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 18:24:00 +0900",
+      "title": "이선호 지지 나선 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/421/0007459838?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 18:24:00 +0900",
+      "title": "이선호 지지 나선 이재명 대표",
+      "link": "https://n.news.naver.com/mnews/article/421/0007459839?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 18:24:00 +0900",
+      "title": "이재명, 울산서 이선호 지원 유세",
+      "link": "https://n.news.naver.com/mnews/article/421/0007459841?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:19:00 +0900",
+      "title": "[총선 D-7] \"울주 발전 맡겨달라\"…현직 의원 vs 전직 군수 '우중 유세전'",
+      "link": "https://n.news.naver.com/mnews/article/001/0014608899?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 14:41:00 +0900",
+      "title": "[D-7] 울산지역 더불어민주당 후보들의 주요 공약은?",
+      "link": "https://n.news.naver.com/mnews/article/421/0007456086?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "이선호",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 698882
+    }
+  ],
+  "huboid": "100151574",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2310501-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310501-1.pdf"
+}

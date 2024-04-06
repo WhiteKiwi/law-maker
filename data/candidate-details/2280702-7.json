@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280702-7.jpg",
+  "id": "2280702-7",
+  "재산": 1300,
+  "생년월일": "19640217",
+  "경력": "(현)내일로미래로 대표\n(전)직능자영업당 대표",
+  "학력": "중앙신학대학원대학교 졸업(사회복지학석사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2280702",
+  "기호": 7,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 29 Mar 2024 13:58:00 +0900",
+      "title": "[나는 후보자다] 인천 계양구을 이재명·원희룡·최창원·안정권 후보",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=461018"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 18:20:00 +0900",
+      "title": "[총선] 22대 총선 대진표 완성…인천 경쟁률 '2.79대 1'",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=383911"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 15:22:00 +0900",
+      "title": "[케이스탯리서치] 인천 계양을, 민주 이재명 48.9% 국힘 원희룡 37.3%",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346591"
+    },
+    {
+      "date": "Thu, 21 Mar 2024 22:35:00 +0900",
+      "title": "[인천 계양을] 더불어민주당 이재명 48.9%, 국민의힘 원희룡 37.3%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002426888?sid=165"
+    },
+    {
+      "date": "Thu, 21 Mar 2024 20:38:00 +0900",
+      "title": "[OBS 여론조사1] 이재명 48.9% vs 원희룡 37.3%…조국혁신당 돌풍",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1435451"
+    }
+  ],
+  "정당": "내일로미래로",
+  "이름": "최창원",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 1300
+    }
+  ],
+  "huboid": "100153034",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280702-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280702-7.pdf"
+}

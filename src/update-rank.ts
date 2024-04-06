@@ -13,6 +13,13 @@ import { 등수 } from "./등수";
 
 async function main() {
   const candidates = await loadUnitedCandidates();
+  const 남자수 = candidates.filter((c) => c.성별 === "남");
+  const 군필수 = 남자수.filter((c) => c.군필여부).length;
+  console.log("candidates", candidates.length);
+  console.log("남자수", 남자수.length);
+  console.log("군필수", 군필수);
+  const 전과자수 = candidates.filter((c) => c.전과건수 > 0).length;
+  console.log("전과자수", 전과자수);
 
   const filePath = path.join(__dirname, "../data/regions.json");
   const regionsJson: RegionsJson = await readJSON(filePath);

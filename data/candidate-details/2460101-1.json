@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-1.jpg",
+  "id": "2460101-1",
+  "재산": 1410880,
+  "생년월일": "19681111",
+  "경력": "(현)더불어민주당 목포시 국회의원\n(전)서울특별시 정무부시장",
+  "학력": "성균관대학교 인문대학 사학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1133",
+  "regionId": "2460101",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 11:26:00 +0900",
+      "title": "이윤석 후보, 전남 의대 공모…김영록 지사·김원이 후보 동반 사퇴 요구",
+      "link": "https://n.news.naver.com/mnews/article/277/0005402242?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 09:42:00 +0900",
+      "title": "[포토] 사진투표 인증샷 찍는 김원이 후보 부부",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126465"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 09:48:00 +0900",
+      "title": "이윤석 후보 \"목포의대 유치 파탄 책임, 김원이 후보 사퇴\" 촉구",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48358"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 07:50:00 +0900",
+      "title": "최대집 후보, \"목포의대 사실상 파탄, 김원이 후보 책임지고 사퇴하라\" 촉구",
+      "link": "http://www.mdilbo.com/detail/Z0UE6f/717011"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 16:30:00 +0900",
+      "title": "김원이 의원 “전남 국립의대 공모방식에 유감”",
+      "link": "https://n.news.naver.com/mnews/article/382/0001117617?sid=102"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김원이",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 581888
+    },
+    {
+      "연도": 2021,
+      "재산": 1005646
+    },
+    {
+      "연도": 2022,
+      "재산": 1290560
+    },
+    {
+      "연도": 2023,
+      "재산": 1410880
+    }
+  ],
+  "huboid": "100152120",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-1.pdf"
+}

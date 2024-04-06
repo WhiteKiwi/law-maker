@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-8.jpg",
+  "id": "2270602-8",
+  "재산": 347447,
+  "생년월일": "19750620",
+  "경력": "(현)새진보연합(구 기본소득당) 공동대표\n(전)기본소득당 제20대 대통령선거 후보",
+  "학력": "서울대학교 인문대학 국어국문학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2270602",
+  "기호": 8,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 21:34:00 +0900",
+      "title": "대구경북 교수·연구자 41인, 오준호 후보 지지 선언",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456118"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 18:58:00 +0900",
+      "title": "(4.10 총선 현장)TK 교수 연구자, 오준호 공개 지지 선언",
+      "link": "https://www.idaegu.com/newsView/idg202404040114"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 17:22:00 +0900",
+      "title": "대구경북 교수·연구자, 새진보연합 오준호 후보 공개 지지선언",
+      "link": "http://www.breaknews.com/1025190"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 14:34:00 +0900",
+      "title": "[4.10 필드 속으로] 오준호 후보, 투표 독려 퍼포먼즈",
+      "link": "https://www.yeongnam.com/web/view.php?key=20240404010000661"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 22:08:00 +0900",
+      "title": "[열전 4.10 총선] 오준호, 4.3항쟁 76주기 맞아 과거사 공약발표",
+      "link": "http://www.kbsm.net/news/view.php?idx=428657"
+    }
+  ],
+  "정당": "새진보연합",
+  "이름": "오준호",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 347447
+    }
+  ],
+  "huboid": "100153019",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-8.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-8.pdf"
+}

@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111102-1.jpg",
+  "id": "2111102-1",
+  "재산": 1012801,
+  "생년월일": "19651015",
+  "경력": "(전) 민선5,6기 노원구청장\n(현) 제21대 국회의원",
+  "학력": "연세대학교 행정대학원 도시및지방행정전공 졸업(행정학 석사)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1026",
+  "regionId": "2111102",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 14:42:00 +0900",
+      "title": "[4.10총선-217] 광주 동남구을, 안도걸vs박은식vs장도국vs김미화vs김성환",
+      "link": "http://www.mhj21.com/160303"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 09:52:00 +0900",
+      "title": "안도걸·김성환, 대선 패배 원인 두고 '공방'",
+      "link": "http://www.mdilbo.com/detail/RHfGUG/717024"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 22:49:00 +0900",
+      "title": "[광주 동구남구을] 민주당 안도걸 51.2%, 무소속 김성환 25.3%, 국민의힘 박은...",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428877?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 20:36:00 +0900",
+      "title": "안도걸 “실력·성과 승부” vs 김성환 “주민 선택 받을 것”",
+      "link": "http://www.kjdaily.com/article.php?aid=1712142775626513245"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:22:00 +0900",
+      "title": "[총선 여론조사]민주당 안도걸 51.2%·무소속 김성환 25.3%…“조국혁신당 40...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002290257?sid=102"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김성환",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 670058
+    },
+    {
+      "연도": 2021,
+      "재산": 1067292
+    },
+    {
+      "연도": 2022,
+      "재산": 1003179
+    },
+    {
+      "연도": 2023,
+      "재산": 1012801
+    }
+  ],
+  "huboid": "100152795",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111102-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111102-1.pdf"
+}

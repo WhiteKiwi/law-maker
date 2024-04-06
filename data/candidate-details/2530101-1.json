@@ -1,0 +1,65 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530101-1.jpg",
+  "id": "2530101-1",
+  "재산": 1199622,
+  "생년월일": "19660523",
+  "경력": "(현)제21대 전주시갑국회의원\n(현)더불어민주당 조직사무부총장",
+  "학력": "전북대학교 회계학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "761",
+  "regionId": "2530101",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:26:00 +0900",
+      "title": "김윤덕 후보, 사전투표 첫날 투표…“많은 시민 사전투표 기쁜 소식”",
+      "link": "http://www.kukinews.com/newsView/kuk202404050191"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:20:00 +0900",
+      "title": "[4.10총선-234] 전북 전주시갑, 김윤덕vs양정무vs신원식vs방수형. 독무대",
+      "link": "http://www.mhj21.com/160328"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:06:00 +0900",
+      "title": "사전투표하는 김윤덕 한병도",
+      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=395237"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 12:01:00 +0900",
+      "title": "사전투표 하는 김윤덕 후보",
+      "link": "https://n.news.naver.com/mnews/article/003/0012474420?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 11:54:00 +0900",
+      "title": "사전투표하는 김윤덕 민주당 전주갑 후보",
+      "link": "https://n.news.naver.com/mnews/article/421/0007461657?sid=165"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "김윤덕",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 825791
+    },
+    {
+      "연도": 2021,
+      "재산": 905555
+    },
+    {
+      "연도": 2022,
+      "재산": 1025621
+    },
+    {
+      "연도": 2023,
+      "재산": 1199622
+    }
+  ],
+  "huboid": "100152930",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530101-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530101-1.pdf"
+}

@@ -1,0 +1,57 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270602-2.jpg",
+  "id": "2270602-2",
+  "재산": 6868360,
+  "생년월일": "19590502",
+  "경력": "(현)제21대 국회의원\n(전)경상북도 경제부지사",
+  "학력": "영남대학교 대학원 졸업(이학박사)",
+  "직업": "국회의원",
+  "성별": "여",
+  "id_21th": "1200",
+  "regionId": "2270602",
+  "기호": 2,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 17:28:00 +0900",
+      "title": "총선 특집-국힘 이인선 수성을 후보, 사전투표 참여 호소",
+      "link": "http://www.kbmaeil.com/news/articleView.html?idxno=991277"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:08:00 +0900",
+      "title": "이인선 후보, 사전투표 첫 날 수성2·3가동에서 투표권 행사",
+      "link": "http://www.breaknews.com/1025400"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:20:00 +0900",
+      "title": "대구 수성을 국민의힘 이인선 후보, 사전투표 동참",
+      "link": "https://n.news.naver.com/mnews/article/088/0000871244?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:14:00 +0900",
+      "title": "이인선 후보, 사전투표 마치고 유권자 적극적인 참여 호소",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456224"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:06:00 +0900",
+      "title": "수성구을 이인선, 사전투표 마치고 유권자 참여 호소",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151402"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "이인선",
+  "연도별_재산": [
+    {
+      "연도": 2022,
+      "재산": 6751930
+    },
+    {
+      "연도": 2023,
+      "재산": 6868360
+    }
+  ],
+  "huboid": "100152826",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270602-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-2.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "전과건수": 3,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111502-2.jpg",
+  "id": "2111502-2",
+  "재산": 1385042,
+  "생년월일": "19640308",
+  "경력": "(전)양천구을 국회의원\n(전)LG디스플레이 상임고문",
+  "학력": "서울대학교 사회과학대학 외교학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2111502",
+  "기호": 2,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 08:32:00 +0900",
+      "title": "양천을 토론회 이용선 vs 오경훈 설전",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=462117"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 16:27:00 +0900",
+      "title": "[4·10 총선 Who] 양천을 오경훈 국민의힘 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519108&seq_800=20511889"
+    },
+    {
+      "date": "Sat, 30 Mar 2024 20:20:00 +0900",
+      "title": "[포토] 손들어 인사하는 구자룡 양천갑,오경훈 양천을 후보",
+      "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000062.html"
+    },
+    {
+      "date": "Sat, 30 Mar 2024 20:16:00 +0900",
+      "title": "[포토] 구자룡·오경훈 후보 지원 나선 한동훈",
+      "link": "https://www.newdaily.co.kr/site/data/html/2024/03/30/2024033000059.html"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 22:24:00 +0900",
+      "title": "\"지지부진한 숙원사업 확실하게 해결\"… 선대위 출정식 연 與오경훈 양천을 후...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3123681"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "오경훈",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 1385042
+    }
+  ],
+  "huboid": "100152064",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111502-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111502-2.pdf"
+}

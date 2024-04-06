@@ -1,0 +1,65 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2300501-6.jpg",
+  "id": "2300501-6",
+  "재산": 760195,
+  "생년월일": "19641207",
+  "경력": "(전)대전광역시 정무부시장\n(현)제21대 국회의원(대전 대덕구)",
+  "학력": "충남대학교 대학원 석사과정 수료(동양철학 전공)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1088",
+  "regionId": "2300501",
+  "기호": 6,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Wed, 03 Apr 2024 20:24:00 +0900",
+      "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
+      "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 18:21:00 +0900",
+      "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
+      "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+      "title": "대덕구 박정현 41.9% vs 박경호 28.8% vs 박영순 5.2%",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=792456"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 16:51:00 +0900",
+      "title": "박영순 후보 '선거운동원과 함께'",
+      "link": "https://n.news.naver.com/mnews/article/421/0007451032?sid=165"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 16:50:00 +0900",
+      "title": "지지 호소하는 박영순 새로운 미래 후보",
+      "link": "https://n.news.naver.com/mnews/article/421/0007451031?sid=165"
+    }
+  ],
+  "정당": "새로운미래",
+  "이름": "박영순",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 473004
+    },
+    {
+      "연도": 2021,
+      "재산": 516548
+    },
+    {
+      "연도": 2022,
+      "재산": 635712
+    },
+    {
+      "연도": 2023,
+      "재산": 760195
+    }
+  ],
+  "huboid": "100152601",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2300501-6.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-6.pdf"
+}

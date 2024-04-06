@@ -1,0 +1,65 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530502-1.jpg",
+  "id": "2530502-1",
+  "재산": 1237427,
+  "생년월일": "19671207",
+  "경력": "(현)제21대 국회의원\n(현)더불어민주당 전북특별자치도당위원장",
+  "학력": "원광대학교 신문방송학과 졸업",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "474",
+  "regionId": "2530502",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 18:08:00 +0900",
+      "title": "한병도 의원, 전북 익산 용안면 현장서 '어르신·농촌' 공약 발표",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=25276"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 17:36:00 +0900",
+      "title": "한병도 후보, 용안서 '어르신·농촌' 공약 발표",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003544"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+      "title": "한병도 후보, 용안면 현장에서 '어르신•농촌' 공약 발표",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962432"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:10:00 +0900",
+      "title": "[4.10총선-240] 전북 익산시을, 한병도vs문용회vs이은재. 한병도 대세론",
+      "link": "http://www.mhj21.com/160336"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:10:00 +0900",
+      "title": "한병도 익산을 후보, 농촌·어르신 공약 발표",
+      "link": "https://www.jjan.kr/article/20240405580113"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "한병도",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 532854
+    },
+    {
+      "연도": 2021,
+      "재산": 738661
+    },
+    {
+      "연도": 2022,
+      "재산": 875209
+    },
+    {
+      "연도": 2023,
+      "재산": 1237427
+    }
+  ],
+  "huboid": "100153012",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530502-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530502-1.pdf"
+}

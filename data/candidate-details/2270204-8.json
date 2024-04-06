@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270204-8.jpg",
+  "id": "2270204-8",
+  "재산": 101184,
+  "생년월일": "19800824",
+  "경력": "(전)6대 대구 동구의회 의원\n(현)진보당 대구시당 위원장",
+  "학력": "경북대학교 신문방송학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2270204",
+  "기호": 8,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+      "title": "'노동자' 말조차 찾기 힘든 대구 총선 후보들의 선거공보...최영오·황순규·...",
+      "link": "https://www.pn.or.kr/news/articleView.html?idxno=30323"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 18:56:00 +0900",
+      "title": "'동군위을' 키워드는?...강대식 \"개발\" vs 정은실 \"보수강화\" vs 황순규 \"민생...",
+      "link": "https://www.pn.or.kr/news/articleView.html?idxno=30293"
+    },
+    {
+      "date": "Fri, 29 Mar 2024 15:38:00 +0900",
+      "title": "[4.10총선-157] 동·군위을, (무공천)강대식vs정은실vs황순규. 전선 이상무?",
+      "link": "http://www.mhj21.com/160187"
+    },
+    {
+      "date": "Wed, 27 Mar 2024 20:24:00 +0900",
+      "title": "국힘, TV토론 같이 좀 하면 안됩니까? 강대식·이인선 '나홀로' 대담...황순규...",
+      "link": "https://www.pn.or.kr/news/articleView.html?idxno=30263"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 15:06:00 +0900",
+      "title": "진보당 TK 총선 후보 3명 출마...동군위을 황순규·달서병 최영오·경산 남수...",
+      "link": "https://www.pn.or.kr/news/articleView.html?idxno=30249"
+    }
+  ],
+  "정당": "진보당",
+  "이름": "황순규",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 101184
+    }
+  ],
+  "huboid": "100151336",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270204-8.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270204-8.pdf"
+}

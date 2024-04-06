@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2413801-1.jpg",
+  "id": "2413801-1",
+  "재산": 295239,
+  "생년월일": "19720909",
+  "경력": "(전)문재인 대통령 비서실 행정관\n(전)이재명 경기도지사 정무수석",
+  "학력": "경기대학교 대학원 졸업(직업학박사)",
+  "직업": "(재)민주연구원 부원장",
+  "성별": "남",
+  "regionId": "2413801",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 10:14:00 +0900",
+      "title": "경기 안성시 '초접전'…윤종군 46.6% vs 김학용 45.2%",
+      "link": "http://www.mhj21.com/160317"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:34:00 +0900",
+      "title": "[경기 안성] 더불어민주당 윤종군 46.6%, 국민의힘 김학용 45.2%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429107?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:46:00 +0900",
+      "title": "[4·10 총선 여론조사-안성] 윤종군 46.6% vs 김학용 45.2%",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363645669"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 15:58:00 +0900",
+      "title": "[410 총선] 민주당 안성 윤종군, 서인사 거리 집중 유세",
+      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243215"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:26:00 +0900",
+      "title": "더불어민주당 윤종군 후보, 서인사거리서 집중 유세 펼쳐",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363645362"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "윤종군",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 295239
+    }
+  ],
+  "huboid": "100151573",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2413801-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2413801-1.pdf"
+}

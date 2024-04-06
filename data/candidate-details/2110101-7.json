@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110101-7.jpg",
+  "id": "2110101-7",
+  "재산": 9150132,
+  "생년월일": "19670929",
+  "경력": "(전) 제20대 국회의원\n(현) 개혁신당 최고위원",
+  "학력": "서울대학교 대학원 법학과 박사과정 수료",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110101",
+  "기호": 7,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 21:17:00 +0900",
+      "title": "'정치 1번지' 서울 종로구…민주 곽상언 vs 국힘 최재형 vs 개혁 금태섭 [격전...",
+      "link": "https://n.news.naver.com/mnews/article/055/0001144631?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 22:34:00 +0900",
+      "title": "[서울 종로] 민주당 곽상언 50%, 국민의힘 최재형 38%, 개혁신당 금태섭 4%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002428873?sid=165"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 17:40:00 +0900",
+      "title": "총선 D-7, '정치 1번지' 종로는? 곽상언 50% 對 최재형 38% 對 금태섭 4%",
+      "link": "https://n.news.naver.com/mnews/article/586/0000075886?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 16:28:00 +0900",
+      "title": "금태섭 “尹정부 의료대란, 文정부 부동산 난맥상 떠올라”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002290187?sid=100"
+    },
+    {
+      "date": "Wed, 03 Apr 2024 16:01:00 +0900",
+      "title": "[4·10 총선 Who] 종로 금태섭 개혁신당 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519100&seq_800=20511881"
+    }
+  ],
+  "정당": "개혁신당",
+  "이름": "금태섭",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 9150132
+    }
+  ],
+  "huboid": "100152829",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110101-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110101-7.pdf"
+}

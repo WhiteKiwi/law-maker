@@ -1,0 +1,52 @@
+{
+  "전과건수": 2,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530701-2.jpg",
+  "id": "2530701_2-2",
+  "재산": 373160,
+  "생년월일": "19620910",
+  "경력": "(전) 인천관내 중.고교교사 31년 역임\n(현) 국민의힘 정읍.고창 조직강화위원장",
+  "학력": "서남대학교 일반대학원 사회체육학과 졸업(체육학박사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2530701_2",
+  "기호": 2,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+      "title": "[4.10총선-241] 전북 정읍·고창, 윤준병vs 최용운vs정후영",
+      "link": "http://www.mhj21.com/160337"
+    },
+    {
+      "date": "Wed, 27 Mar 2024 10:38:00 +0900",
+      "title": "[전북 정읍고창] 더불어민주당 윤준병 78%, 국민의힘 최용운 7%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002427592?sid=165"
+    },
+    {
+      "date": "Tue, 26 Mar 2024 21:32:00 +0900",
+      "title": "(정읍고창) 윤준병 78%, 최용운 7%, 정후영 2%",
+      "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181972"
+    },
+    {
+      "date": "Tue, 26 Mar 2024 20:02:00 +0900",
+      "title": "윤준병 78%, 최용운 7%, 정후영 2%",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725661"
+    },
+    {
+      "date": "Tue, 19 Mar 2024 13:10:00 +0900",
+      "title": "'비례 0명' 호남 홀대론에 \"시정 안하면 후보 전원 사퇴\"",
+      "link": "https://n.news.naver.com/mnews/article/057/0001806684?sid=100"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "최용운",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 373160
+    }
+  ],
+  "huboid": "100151481",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530701-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530701_2-2.pdf"
+}

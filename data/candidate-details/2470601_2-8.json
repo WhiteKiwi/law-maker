@@ -1,0 +1,52 @@
+{
+  "전과건수": 3,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470601-8.jpg",
+  "id": "2470601_2-8",
+  "재산": 15000,
+  "생년월일": "19581205",
+  "경력": "(전) 영남일보 기자\n(현) 한국문화경제연구원 대표",
+  "학력": "중앙대학교 신문방송학과 졸업",
+  "직업": "정치인",
+  "성별": "남",
+  "regionId": "2470601_2",
+  "기호": 8,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Mon, 25 Mar 2024 19:52:00 +0900",
+      "title": "김윤한 안동·예천 후보 \"도청중심 메가시티, KTX 노선 건설\" 총선 공약",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20240325010014650"
+    },
+    {
+      "date": "Fri, 13 Nov 2015 10:31:00 +0900",
+      "title": "반기문 지지자들 친반(親潘)연대 결성, 장기만·김윤한 공동 대표? '공식적 세...",
+      "link": "http://www.starseoultv.com/news/articleView.html?idxno=361752"
+    },
+    {
+      "date": "Wed, 02 Apr 2008 10:08:00 +0900",
+      "title": "<안동 접전5인 릴레이인터뷰>김윤한 \"살기 좋은 유교적 유토피아 건설\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0002030807?sid=102"
+    },
+    {
+      "date": "Tue, 06 Apr 2004 10:13:00 +0900",
+      "title": "총선시민연대 낙선대상자 208명 발표",
+      "link": "https://n.news.naver.com/mnews/article/018/0000146737?sid=101"
+    },
+    {
+      "date": "Tue, 06 Apr 2004 09:58:00 +0900",
+      "title": "<총선연대 낙선대상자 명단>-2",
+      "link": "https://n.news.naver.com/mnews/article/001/0000613462?sid=116"
+    }
+  ],
+  "정당": "무소속",
+  "이름": "김윤한",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 15000
+    }
+  ],
+  "huboid": "100153044",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470601-8.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470601_2-8.pdf"
+}

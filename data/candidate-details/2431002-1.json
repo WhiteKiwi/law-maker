@@ -1,0 +1,65 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431002-1.jpg",
+  "id": "2431002-1",
+  "재산": 2890911,
+  "생년월일": "19640927",
+  "경력": "(전) 경찰청 본청 차장\n(현) 제21대 국회의원",
+  "학력": "경찰대학 행정학과 졸업(행정학사)",
+  "직업": "국회의원",
+  "성별": "남",
+  "id_21th": "1126",
+  "regionId": "2431002",
+  "기호": 1,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:16:00 +0900",
+      "title": "총선/민주당 임호선 후보 부부 사전투표",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746920"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:14:00 +0900",
+      "title": "사전투표 하는 민주당 임호선 후보 부부",
+      "link": "https://n.news.naver.com/mnews/article/003/0012474831?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 14:08:00 +0900",
+      "title": "임호선 민주당 중부3군 후보, 22대 총선 사전투표",
+      "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193946"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 11:18:00 +0900",
+      "title": "충북 중부3군 임호선·경대수 후보, 5일 사전 투표",
+      "link": "http://www.jbnews.com/news/articleView.html?idxno=1431574"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 22:08:00 +0900",
+      "title": "총선/김부겸 위원장 진천서 임호선 지원유세",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746784"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "임호선",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 2704826
+    },
+    {
+      "연도": 2021,
+      "재산": 2607225
+    },
+    {
+      "연도": 2022,
+      "재산": 2747716
+    },
+    {
+      "연도": 2023,
+      "재산": 2890911
+    }
+  ],
+  "huboid": "100152665",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431002-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2431002-1.pdf"
+}

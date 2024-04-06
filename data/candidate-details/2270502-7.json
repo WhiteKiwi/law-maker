@@ -1,0 +1,52 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270502-7.jpg",
+  "id": "2270502-7",
+  "재산": 110610,
+  "생년월일": "19651009",
+  "경력": "(전)kt 연구소 상무보\n(현)개혁신당 중앙당 정책위원회 부의장",
+  "학력": "서울대학교 대학원 졸업(공학박사)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2270502",
+  "기호": 7,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Fri, 29 Mar 2024 08:56:00 +0900",
+      "title": "개혁신당 황영헌 \"전문성과 희생·봉사의 자세로 최고의 정치인 되겠다\"",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3150275"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 23:46:00 +0900",
+      "title": "[22대 총선 누가 뛰나] 황영헌 후보, 선거사무소 개소식 성료",
+      "link": "http://www.kbsm.net/news/view.php?idx=427408"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 20:02:00 +0900",
+      "title": "[총선] 황영헌 \"창의교육·혁신경제 이루겠다\"",
+      "link": "https://n.news.naver.com/mnews/article/417/0000991487?sid=165"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 17:48:00 +0900",
+      "title": "개혁신당 황영헌 대구 북구을 후보, 선거사무소 개소",
+      "link": "http://www.breaknews.com/1022972"
+    },
+    {
+      "date": "Mon, 25 Mar 2024 09:13:00 +0900",
+      "title": "황영헌 북구을 후보, 선거사무소 개소식 성료",
+      "link": "https://n.news.naver.com/mnews/article/031/0000822890?sid=102"
+    }
+  ],
+  "정당": "개혁신당",
+  "이름": "황영헌",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 110610
+    }
+  ],
+  "huboid": "100152460",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270502-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270502-7.pdf"
+}

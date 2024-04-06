@@ -1,0 +1,53 @@
+{
+  "전과건수": 5,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530102-7.jpg",
+  "id": "2530102-7",
+  "재산": 701895,
+  "생년월일": "19720907",
+  "경력": "(현)제21대 국회의원\n(현)진보당 원내대표",
+  "학력": "한국외국어대학교 언어인지과학과 졸업",
+  "직업": "정치인",
+  "성별": "남",
+  "id_21th": "1206",
+  "regionId": "2530102",
+  "기호": 7,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 15:32:00 +0900",
+      "title": "[4.10총선-235] 전북 전주시을, 이성윤vs정운천vs강성희vs전기엽vs김광종",
+      "link": "http://www.mhj21.com/160329"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 10:09:00 +0900",
+      "title": "전주을, 검찰개혁 강성희 “자격 없다” vs 이성윤 “정치공세”",
+      "link": "https://n.news.naver.com/mnews/article/421/0007460988?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 06:37:00 +0900",
+      "title": "강성희 “이성윤, 검수완박 반대…특활비 몰아쓰기 의혹에 답하라”",
+      "link": "https://n.news.naver.com/mnews/article/021/0002630528?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 21:43:00 +0900",
+      "title": "[총선] 강성희 “‘검수완박 반대’ 이성윤, 검찰개혁 자격 없어”",
+      "link": "https://n.news.naver.com/mnews/article/056/0011695714?sid=100"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 21:32:00 +0900",
+      "title": "\"가장 힘있게 싸울 강성희가 적임자\"",
+      "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182232"
+    }
+  ],
+  "정당": "진보당",
+  "이름": "강성희",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 701895
+    }
+  ],
+  "huboid": "100152652",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530102-7.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530102-7.pdf"
+}

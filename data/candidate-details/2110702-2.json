@@ -1,0 +1,52 @@
+{
+  "전과건수": 0,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110702-2.jpg",
+  "id": "2110702-2",
+  "재산": 265820,
+  "생년월일": "19830121",
+  "경력": "(전)국민의힘 서울 중랑구(을) 당협위원장\n(전)대통령실 행정관 (인사기획관실·정무수석실)",
+  "학력": "한양대학교 대학원 정치외교학과 석사(수료)",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2110702",
+  "기호": 2,
+  "군필여부": true,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 19:30:00 +0900",
+      "title": "[포토] 국민의힘 선거운동원, 김삼화·이승환 지지 호소",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126285"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:30:00 +0900",
+      "title": "[포토] 김삼화·이승환 지지 호소하는 선거운동원",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126284"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 19:28:00 +0900",
+      "title": "[포토] 김삼화·이승환 후보 지지 호소하는 한동훈 위원장",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3126283"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 15:21:00 +0900",
+      "title": "[현장] 사전투표 D-1…한동훈, 격전지 도봉·중랑서 김재섭·이승환 힘싣기",
+      "link": "https://n.news.naver.com/mnews/article/119/0002817219?sid=165"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+      "title": "김삼화-이승환 후보 지원 유세 나선 한동훈 위원장",
+      "link": "https://n.news.naver.com/mnews/article/003/0012471519?sid=165"
+    }
+  ],
+  "정당": "국민의힘",
+  "이름": "이승환",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 265820
+    }
+  ],
+  "huboid": "100152342",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110702-2.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110702-2.pdf"
+}

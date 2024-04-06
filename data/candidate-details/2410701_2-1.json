@@ -1,0 +1,52 @@
+{
+  "전과건수": 4,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410701-1.jpg",
+  "id": "2410701_2-1",
+  "재산": 2239926,
+  "생년월일": "19650228",
+  "경력": "(전) 대통령비서실 국정상황실장\n(전) 제35대 강원도지사",
+  "학력": "연세대학교 법과대학 법학과 졸업",
+  "직업": "정당인",
+  "성별": "남",
+  "regionId": "2410701_2",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 17:04:00 +0900",
+      "title": "성남 분당갑 이광재 \"예측 가능한 대한민국으로\"",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=71429"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 16:12:00 +0900",
+      "title": "[경기 성남분당갑] 더불어민주당 이광재 45.8%, 국민의힘 안철수 40.4%",
+      "link": "https://n.news.naver.com/mnews/article/047/0002429270?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:38:00 +0900",
+      "title": "수도권 격전지 ‘분당갑’ 이광재·안철수도 사전투표",
+      "link": "https://n.news.naver.com/mnews/article/366/0000983593?sid=165"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:33:00 +0900",
+      "title": "'분당갑' 이광재·안철수 사전투표…\"기적의 드라마\" \"적임자 누군가\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0012475245?sid=102"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:13:00 +0900",
+      "title": "[4.10총선 여론조사] 혼돈의 성남 분당갑, 여야 대선주자 이광재-안철수 대접...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642058"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "이광재",
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 2239926
+    }
+  ],
+  "huboid": "100152869",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410701-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410701_2-1.pdf"
+}

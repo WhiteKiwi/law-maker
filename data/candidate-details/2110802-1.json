@@ -1,0 +1,52 @@
+{
+  "id": "2110802-1",
+  "regionId": "2110802",
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110802-1.jpg",
+  "기호": 1,
+  "이름": "김남근",
+  "생년월일": "19630826",
+  "정당": "더불어민주당",
+  "성별": "남",
+  "직업": "변호사",
+  "학력": "고려대학교 대학원 법학과 법학박사",
+  "경력": "(전)고려대학교 법학전문대학원 겸임교수\n(전)민주사회를 위한 변호사모임 부회장",
+  "재산": 3517479,
+  "군필여부": false,
+  "전과건수": 1,
+  "news": [
+    {
+      "date": "Thu, 04 Apr 2024 17:38:00 +0900",
+      "title": "[4·10 총선 Who] 성북을 김남근 더불어민주당 후보",
+      "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519215&seq_800=20511996"
+    },
+    {
+      "date": "Mon, 01 Apr 2024 12:38:00 +0900",
+      "title": "김남근 후보 지원유세 나선 김부겸 위원장 [TF사진관]",
+      "link": "https://n.news.naver.com/mnews/article/629/0000277767?sid=165"
+    },
+    {
+      "date": "Thu, 28 Mar 2024 10:22:00 +0900",
+      "title": "[총선 뛰는 경제통-14] 민생경제 전문가 김남근 \"소셜 디자이너 되겠다\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4303697"
+    },
+    {
+      "date": "Sun, 24 Mar 2024 08:01:00 +0900",
+      "title": "\"혁신 플랫폼이 혁신 걸림돌\"…김남근 '시즌2' 예고편은 [경제를 뽑는다]",
+      "link": "https://n.news.naver.com/mnews/article/374/0000375931?sid=165"
+    },
+    {
+      "date": "Fri, 22 Mar 2024 14:16:00 +0900",
+      "title": "더불어민주당 김남근 서울 성북을 후보, 제22대 총선 후보 등록",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3121267"
+    }
+  ],
+  "연도별_재산": [
+    {
+      "연도": 2023,
+      "재산": 3517479
+    }
+  ],
+  "huboid": "100152967",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110802-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110802-1.pdf"
+}

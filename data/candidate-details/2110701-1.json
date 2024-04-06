@@ -1,0 +1,65 @@
+{
+  "전과건수": 1,
+  "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110701-1.jpg",
+  "id": "2110701-1",
+  "재산": 2841683,
+  "생년월일": "19641111",
+  "경력": "(전)국회 행정안전위원회 위원장\n(현)더불어민주당 최고위원",
+  "학력": "이화여자대학교대학원 동아시아학연구 비교정치경제전공 수료(박사학위과정)",
+  "직업": "중랑구(갑)국회의원",
+  "성별": "여",
+  "id_21th": "709",
+  "regionId": "2110701",
+  "기호": 1,
+  "군필여부": false,
+  "news": [
+    {
+      "date": "Fri, 05 Apr 2024 17:31:00 +0900",
+      "title": "[4·10 총선 격전지] 중랑갑 '중진' 서영교 VS '새로움' 김삼화",
+      "link": "https://n.news.naver.com/mnews/article/310/0000115635?sid=100"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 15:09:00 +0900",
+      "title": "野 서영교에 가방 휘두르며 욕설한 60대男…\"국회의원인 줄 몰랐다\"",
+      "link": "https://n.news.naver.com/mnews/article/586/0000076063?sid=102"
+    },
+    {
+      "date": "Fri, 05 Apr 2024 13:46:00 +0900",
+      "title": "서영교 향해 욕하며 난동 부린 60대 \"의원인 줄 몰랐다\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0012474696?sid=102"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:32:00 +0900",
+      "title": "[정면승부] 이대 출신 서영교 \"김준혁 '김활란 성상납' 발언, 경고한다\"",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=95089&s_mcd=0263&s_hcd=01"
+    },
+    {
+      "date": "Thu, 04 Apr 2024 20:27:00 +0900",
+      "title": "이대 출신 서영교 \"김준혁 '김활란 성상납' 발언, 경고한다\"",
+      "link": "https://n.news.naver.com/mnews/article/052/0002019215?sid=100"
+    }
+  ],
+  "정당": "더불어민주당",
+  "이름": "서영교",
+  "연도별_재산": [
+    {
+      "연도": 2020,
+      "재산": 1888174
+    },
+    {
+      "연도": 2021,
+      "재산": 2330836
+    },
+    {
+      "연도": 2022,
+      "재산": 2693150
+    },
+    {
+      "연도": 2023,
+      "재산": 2841683
+    }
+  ],
+  "huboid": "100152577",
+  "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110701-1.jpg",
+  "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110701-1.pdf"
+}
