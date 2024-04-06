@@ -25,7 +25,6 @@ export type LawMakerCadidate = {
   전과건수: number;
   전과ImgUrl: string;
   공보PdfUrl: string;
-  공약이행률: { 이름: string; 총공약수: number; 공약이행수: number };
 };
 
 /**
