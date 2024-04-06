@@ -78,7 +78,7 @@ async function main() {
   }
 
   await print동명이인(lawMakers);
-  await createRanking(lawMakers);
+  // await createRanking(lawMakers);
   await set연도별재산(lawMakers);
   await sortCandidates();
   await createSearchItems();
@@ -175,14 +175,14 @@ async function sortRegions() {
   const filePath = path.join(__dirname, "../data/regions.json");
   const regionsJson: RegionsJson = await readJSON(filePath);
   for (const region of regionsJson) {
-    region.regions = region.regions.sort((a, b) =>
-      a.시군구.localeCompare(b.시군구)
-    );
     // region.regions.forEach((region) => {
     //   region.시군구 = region.시군구.split("시").join("시/").replace(/\/$/, "");
     //   region.시군구 = region.시군구.split("군").join("군/").replace(/\/$/, "");
     //   region.시군구 = region.시군구.split("구").join("구/").replace(/\/$/, "");
     // });
+    region.regions = region.regions.sort((a, b) =>
+      a.시군구.localeCompare(b.시군구)
+    );
   }
   await writeJSON(filePath, regionsJson, { spaces: 2 });
 }

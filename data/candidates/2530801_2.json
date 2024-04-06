@@ -1,206 +1,210 @@
 [
-  {
-    "id": "2530801_2-1",
-    "regionId": "2530801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-1.jpg",
-    "기호": 1,
-    "이름": "박희승",
-    "생년월일": "19630928",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "한양대학교 대학원 법학과 석.박사학위통합과정 연구등록 6기 과정 수료",
-    "경력": "(현) 더불어민주당 남원장수임실순창 지역위원장\n(전) 수원지방법원 안양지원장",
-    "재산": 2882597,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 20:52:00 +0900",
-        "title": "[포토] 남원·임실·순창·장수 출마한 박희승 후보 위해 더불어민주당 의원 ...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958544"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "댄스팀과 함께 춤추는 박희승 후보 '눈길'",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=100094"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:46:00 +0900",
-        "title": "민주당 박희승 후보, 공천 경쟁 예비후보 지지 받으며 세 결집",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=100102"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 14:06:00 +0900",
-        "title": "박희승 후보, \"주민 여러분 일할 수 있는 허락을 구합니다\"",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99907"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:34:00 +0900",
-        "title": "남원,장수,임실,순창 박희승 후보, 출정식 성료!",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=726016"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2882597
-      }
-    ],
-    "huboid": "100151108",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-1.jpg"
-  },
-  {
-    "id": "2530801_2-2",
-    "regionId": "2530801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-2.jpg",
-    "기호": 2,
-    "이름": "강병무",
-    "생년월일": "19520729",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "축산업(삼천리농장 대표)",
-    "학력": "한일장신대학교 사회복지대학원 졸업(사회복지학석사)",
-    "경력": "(전) 남원축산업협동조합장(5선, 22년 재임)\n(현) 축산업(삼천리농장 대표)",
-    "재산": 1287256,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Sun, 31 Mar 2024 15:50:00 +0900",
-        "title": "국힘 강병무 선거운동 \"힘있는 여당, 부자 농촌 만들것\"",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967364"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:12:00 +0900",
-        "title": "5선 조합장 출신 강병무 후보, \"지역경제 반드시 살리겠습니다\"",
-        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99759"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 10:43:00 +0900",
-        "title": "[전북 남원장수임실순창] 더불어민주당 박희승 78%, 국민의힘 강병무 10%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427594?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 21:32:00 +0900",
-        "title": "(남장임순) 박희승 78% vs 강병무 10%",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181978"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 20:02:00 +0900",
-        "title": "박희승 '78%'-강병무 '10%'-한기대·황의돈 '1%'",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725648"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1287256
-      }
-    ],
-    "huboid": "100152895",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-2.jpg"
-  },
-  {
-    "id": "2530801_2-6",
-    "regionId": "2530801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-6.jpg",
-    "기호": 6,
-    "이름": "한기대",
-    "생년월일": "19590926",
-    "정당": "새로운미래",
-    "성별": "남",
-    "직업": "갤러리 관장",
-    "학력": "전북대학교 경영대학원 졸업(경영학 석사)",
-    "경력": "(전) 한국투자증권 전무 \n(현) 새로운미래 금융혁신 특별위원장",
-    "재산": 1594739,
-    "군필여부": true,
-    "전과건수": 4,
-    "news": [
-      {
-        "date": "Fri, 29 Mar 2024 05:00:00 +0900",
-        "title": "유길상 한기대 총장 \"산재 전문 의대 추진…생성형 AI, 교육에 적극 활용\"",
-        "link": "https://n.news.naver.com/mnews/article/025/0003350726?sid=102"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 20:02:00 +0900",
-        "title": "박희승 '78%'-강병무 '10%'-한기대·황의돈 '1%'",
-        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725648"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:04:00 +0900",
-        "title": "[4.10 총선 기획]나는 후보자다-남원·장수·임실·순창 새로운미래 한기대 후...",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460965"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 17:08:00 +0900",
-        "title": "새로운미래 한기대 예비후보 선거사무소 개소식",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966366"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 16:26:00 +0900",
-        "title": "한기대 \"안정 금융 만들어야\" 새미래소속 총선 출마선언",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=965991"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1594739
-      }
-    ],
-    "huboid": "100153022",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-6.jpg"
-  },
-  {
-    "id": "2530801_2-7",
-    "regionId": "2530801_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-7.jpg",
-    "기호": 7,
-    "이름": "황의돈",
-    "생년월일": "19570320",
-    "정당": "한국농어민당",
-    "성별": "남",
-    "직업": "농업",
-    "학력": "미기재",
-    "경력": "(전) 제17.18대 국회의원선거 후보자\n(현) 한국농어민당 전북특별자치도당 창당준비위원장",
-    "재산": 49010,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:06:00 +0900",
-        "title": "한국농어민당 황의돈, 농민-서민 살리는 공약 발표",
-        "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967617"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:04:00 +0900",
-        "title": "[4·10 총선 이색 출마자] \"농민의 한(恨) 풀겠다\"…황의돈 후보 이색경력 '눈...",
-        "link": "https://www.jjan.kr/article/20240401580124"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:56:00 +0900",
-        "title": "[4.10 총선 기획]나는 후보자다-남원·장수·임실·순창 한국농어민당 황의돈...",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461686"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:32:00 +0900",
-        "title": "한국농어민당 남장임순 황의돈 후보 출마 선언",
-        "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182006"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 17:32:00 +0900",
-        "title": "황의돈 후보 \"비료·사료 반값\" 공약",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461146"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 49010
-      }
-    ],
-    "huboid": "100152760",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-7.jpg"
-  }
+    {
+        "id": "2530801_2-1",
+        "regionId": "2530801_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-1.jpg",
+        "기호": 1,
+        "이름": "박희승",
+        "생년월일": "19630928",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "한양대학교 대학원 법학과 석.박사학위통합과정 연구등록 6기 과정 수료",
+        "경력": "(현) 더불어민주당 남원장수임실순창 지역위원장\n(전) 수원지방법원 안양지원장",
+        "재산": 2882597,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-243] 전북 남원·장수·임실·순창, 박희승vs강병무vs한기대vs황의...",
+                "link": "http://www.mhj21.com/160339"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:52:00 +0900",
+                "title": "[포토] 남원·임실·순창·장수 출마한 박희승 후보 위해 더불어민주당 의원 ...",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958544"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "댄스팀과 함께 춤추는 박희승 후보 '눈길'",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=100094"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:46:00 +0900",
+                "title": "민주당 박희승 후보, 공천 경쟁 예비후보 지지 받으며 세 결집",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=100102"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:06:00 +0900",
+                "title": "박희승 후보, \"주민 여러분 일할 수 있는 허락을 구합니다\"",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99907"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2882597
+            }
+        ],
+        "huboid": "100151108",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530801_2-1.pdf"
+    },
+    {
+        "id": "2530801_2-2",
+        "regionId": "2530801_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-2.jpg",
+        "기호": 2,
+        "이름": "강병무",
+        "생년월일": "19520729",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "축산업(삼천리농장 대표)",
+        "학력": "한일장신대학교 사회복지대학원 졸업(사회복지학석사)",
+        "경력": "(전) 남원축산업협동조합장(5선, 22년 재임)\n(현) 축산업(삼천리농장 대표)",
+        "재산": 1287256,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-243] 전북 남원·장수·임실·순창, 박희승vs강병무vs한기대vs황의...",
+                "link": "http://www.mhj21.com/160339"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 15:50:00 +0900",
+                "title": "국힘 강병무 선거운동 \"힘있는 여당, 부자 농촌 만들것\"",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967364"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:12:00 +0900",
+                "title": "5선 조합장 출신 강병무 후보, \"지역경제 반드시 살리겠습니다\"",
+                "link": "https://www.job-post.co.kr/news/articleView.html?idxno=99759"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 10:43:00 +0900",
+                "title": "[전북 남원장수임실순창] 더불어민주당 박희승 78%, 국민의힘 강병무 10%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002427594?sid=165"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 21:32:00 +0900",
+                "title": "(남장임순) 박희승 78% vs 강병무 10%",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2181978"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1287256
+            }
+        ],
+        "huboid": "100152895",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530801_2-2.pdf"
+    },
+    {
+        "id": "2530801_2-6",
+        "regionId": "2530801_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-6.jpg",
+        "기호": 6,
+        "이름": "한기대",
+        "생년월일": "19590926",
+        "정당": "새로운미래",
+        "성별": "남",
+        "직업": "갤러리 관장",
+        "학력": "전북대학교 경영대학원 졸업(경영학 석사)",
+        "경력": "(전) 한국투자증권 전무 \n(현) 새로운미래 금융혁신 특별위원장",
+        "재산": 1594739,
+        "군필여부": true,
+        "전과건수": 4,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-243] 전북 남원·장수·임실·순창, 박희승vs강병무vs한기대vs황의...",
+                "link": "http://www.mhj21.com/160339"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+                "title": "유길상 한기대 총장 \"산재 전문 의대 추진…생성형 AI, 교육에 적극 활용\"",
+                "link": "https://n.news.naver.com/mnews/article/025/0003350726?sid=102"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 20:02:00 +0900",
+                "title": "박희승 '78%'-강병무 '10%'-한기대·황의돈 '1%'",
+                "link": "http://www.jeollailbo.com/news/articleView.html?idxno=725648"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:04:00 +0900",
+                "title": "[4.10 총선 기획]나는 후보자다-남원·장수·임실·순창 새로운미래 한기대 후...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460965"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:08:00 +0900",
+                "title": "새로운미래 한기대 예비후보 선거사무소 개소식",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=966366"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1594739
+            }
+        ],
+        "huboid": "100153022",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-6.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530801_2-6.pdf"
+    },
+    {
+        "id": "2530801_2-7",
+        "regionId": "2530801_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2530801-7.jpg",
+        "기호": 7,
+        "이름": "황의돈",
+        "생년월일": "19570320",
+        "정당": "한국농어민당",
+        "성별": "남",
+        "직업": "농업",
+        "학력": "미기재",
+        "경력": "(전) 제17.18대 국회의원선거 후보자\n(현) 한국농어민당 전북특별자치도당 창당준비위원장",
+        "재산": 49010,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 16:06:00 +0900",
+                "title": "한국농어민당 황의돈, 농민-서민 살리는 공약 발표",
+                "link": "http://www.jjn.co.kr/news/articleView.html?idxno=967617"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:04:00 +0900",
+                "title": "[4·10 총선 이색 출마자] \"농민의 한(恨) 풀겠다\"…황의돈 후보 이색경력 '눈...",
+                "link": "https://www.jjan.kr/article/20240401580124"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:56:00 +0900",
+                "title": "[4.10 총선 기획]나는 후보자다-남원·장수·임실·순창 한국농어민당 황의돈...",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461686"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:32:00 +0900",
+                "title": "한국농어민당 남장임순 황의돈 후보 출마 선언",
+                "link": "https://jtv.co.kr/2021/?c=3/10&uid=2182006"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 17:32:00 +0900",
+                "title": "황의돈 후보 \"비료·사료 반값\" 공약",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461146"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 49010
+            }
+        ],
+        "huboid": "100152760",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2530801-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2530801_2-7.pdf"
+    }
 ]

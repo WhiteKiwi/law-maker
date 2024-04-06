@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270301-2.jpg",
-    "id": "2270301-2",
-    "재산": 1751937,
-    "생년월일": "19630125",
-    "경력": "(현)제21대 국회의원\n(현)국회 기획재정위원장",
-    "학력": "미국 오리건대학교 행정대학원 졸업(행정학 석사, 2004.08~2006.06)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "732",
-    "regionId": "2270301",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 21:34:00 +0900",
-        "title": "김상훈 \"서대구역 이용객 290만명 돌파\"...\"KTX 정차 편수 확대 노력\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455610"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:12:00 +0900",
-        "title": "[4.10총선-160] 대구 서구, (무공천)김상훈vs서중현. 보수초강세",
-        "link": "http://www.mhj21.com/160201"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:14:00 +0900",
-        "title": "김상훈 의원 \"서대구역 개통 2주년 앞두고 이용객 290만명 돌파\"",
-        "link": "http://www.kbsm.net/news/view.php?idx=428114"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:24:00 +0900",
-        "title": "지지 세력 결집 본격 레이스 돌입",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454513"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:08:00 +0900",
-        "title": "강대식 “통합신공항의 성공적 건설 반드시 완수”",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=474100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "김상훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 895520
-      },
-      {
-        "연도": 2021,
-        "재산": 972704
-      },
-      {
-        "연도": 2022,
-        "재산": 1226844
-      },
-      {
-        "연도": 2023,
-        "재산": 1751937
-      }
-    ],
-    "huboid": "100152337",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270301-2.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270301-7.jpg",
-    "id": "2270301-7",
-    "재산": -16994,
-    "생년월일": "19510914",
-    "경력": "(전)대구광역시 시의원\n(전)서구청장",
-    "학력": "경북대학교 대학원 철학과 박사과정 수료",
-    "직업": "정치인",
-    "성별": "남",
-    "regionId": "2270301",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 10:12:00 +0900",
-        "title": "[4.10총선-160] 대구 서구, (무공천)김상훈vs서중현. 보수초강세",
-        "link": "http://www.mhj21.com/160201"
-      },
-      {
-        "date": "Sat, 23 Mar 2024 10:40:00 +0900",
-        "title": "대구 서구 무소속 서중현 16번 공직선거 출마 이력...최다 출마 기록",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989345"
-      },
-      {
-        "date": "Mon, 08 Jan 2024 17:31:00 +0900",
-        "title": "1988년부터 18번째... 서중현 또 출마했다",
-        "link": "https://n.news.naver.com/mnews/article/469/0000779268?sid=102"
-      },
-      {
-        "date": "Thu, 30 Jun 2022 11:02:00 +0900",
-        "title": "[만나보니] 17전 3승 14패 '선거 한평생' 서중현",
-        "link": "https://n.news.naver.com/mnews/article/657/0000004523?sid=102"
-      },
-      {
-        "date": "Tue, 07 Jun 2022 21:24:00 +0900",
-        "title": "서구청장 낙선 서중현 \"당선될 때까지 도전\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=384666"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "서중현",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -16994
-      }
-    ],
-    "huboid": "100151864",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270301-7.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270301-2.jpg",
+        "id": "2270301-2",
+        "재산": 1751937,
+        "생년월일": "19630125",
+        "경력": "(현)제21대 국회의원\n(현)국회 기획재정위원장",
+        "학력": "미국 오리건대학교 행정대학원 졸업(행정학 석사, 2004.08~2006.06)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "732",
+        "regionId": "2270301",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 18:02:00 +0900",
+                "title": "[R]영양군 도의원 재보궐..김상훈·윤철남 '맞대결'",
+                "link": "http://andongmbc.co.kr/adboard/NewsView69700"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 21:34:00 +0900",
+                "title": "김상훈 \"서대구역 이용객 290만명 돌파\"...\"KTX 정차 편수 확대 노력\"",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455610"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:12:00 +0900",
+                "title": "[4.10총선-160] 대구 서구, (무공천)김상훈vs서중현. 보수초강세",
+                "link": "http://www.mhj21.com/160201"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:14:00 +0900",
+                "title": "김상훈 의원 \"서대구역 개통 2주년 앞두고 이용객 290만명 돌파\"",
+                "link": "http://www.kbsm.net/news/view.php?idx=428114"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:30:00 +0900",
+                "title": "강대식 의원, 군위군 선거연락소 개소식 ‘성료’",
+                "link": "https://www.cnbnews.com/news/article.html?no=650595"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "김상훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 895520
+            },
+            {
+                "연도": 2021,
+                "재산": 972704
+            },
+            {
+                "연도": 2022,
+                "재산": 1226844
+            },
+            {
+                "연도": 2023,
+                "재산": 1751937
+            }
+        ],
+        "huboid": "100152337",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270301-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270301-2.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270301-7.jpg",
+        "id": "2270301-7",
+        "재산": -16994,
+        "생년월일": "19510914",
+        "경력": "(전)대구광역시 시의원\n(전)서구청장",
+        "학력": "경북대학교 대학원 철학과 박사과정 수료",
+        "직업": "정치인",
+        "성별": "남",
+        "regionId": "2270301",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 10:12:00 +0900",
+                "title": "[4.10총선-160] 대구 서구, (무공천)김상훈vs서중현. 보수초강세",
+                "link": "http://www.mhj21.com/160201"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:40:00 +0900",
+                "title": "대구 서구 무소속 서중현 16번 공직선거 출마 이력...최다 출마 기록",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989345"
+            },
+            {
+                "date": "Mon, 08 Jan 2024 17:31:00 +0900",
+                "title": "1988년부터 18번째... 서중현 또 출마했다",
+                "link": "https://n.news.naver.com/mnews/article/469/0000779268?sid=102"
+            },
+            {
+                "date": "Thu, 30 Jun 2022 11:02:00 +0900",
+                "title": "[만나보니] 17전 3승 14패 '선거 한평생' 서중현",
+                "link": "https://n.news.naver.com/mnews/article/657/0000004523?sid=102"
+            },
+            {
+                "date": "Tue, 07 Jun 2022 21:24:00 +0900",
+                "title": "서구청장 낙선 서중현 \"당선될 때까지 도전\"",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=384666"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "서중현",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -16994
+            }
+        ],
+        "huboid": "100151864",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270301-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270301-7.pdf"
+    }
 ]

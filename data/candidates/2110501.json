@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2110501-1",
-    "regionId": "2110501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-1.jpg",
-    "기호": 1,
-    "이름": "이정헌",
-    "생년월일": "19710505",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 영어영문학과 졸업",
-    "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
-    "재산": 748792,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 14:09:00 +0900",
-        "title": "[단독]민주 광진갑 이정헌, 선관위에 고발당해…동부지검 이관",
-        "link": "https://n.news.naver.com/mnews/article/014/0005165606?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:40:00 +0900",
-        "title": "이정헌 더불어민주당 광진갑 후보 '유권자들에게 지지 호소'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815772?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:39:00 +0900",
-        "title": "신성시장에서 지지 호소하는 이정헌 더불어민주당 광진갑 후보 '",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815770?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:39:00 +0900",
-        "title": "이정헌 더불어민주당 광진갑 후보 '시민들 속에서'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815771?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 14:38:00 +0900",
-        "title": "이정헌 더불어민주당 광진갑 후보 '지원 유세'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815768?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 748792
-      }
-    ],
-    "huboid": "100151442",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-1.jpg"
-  },
-  {
-    "id": "2110501-2",
-    "regionId": "2110501",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-2.jpg",
-    "기호": 2,
-    "이름": "김병민",
-    "생년월일": "19820204",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "경희대학교 행정학과 객원교수",
-    "학력": "경희대학교 대학원 행정학 박사",
-    "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
-    "재산": 1018304,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 18:37:00 +0900",
-        "title": "김병민 국민의힘 광진갑 후보 '신성시장에서 지지 호소'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815920?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:36:00 +0900",
-        "title": "가수 박상민 손 들어 올리는 김병민 국민의힘 광진갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815918?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:35:00 +0900",
-        "title": "김병민 국민의힘 광진갑 후보 '지지 호소'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815914?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:35:00 +0900",
-        "title": "김병민 국민의힘 광진갑 후보 '가수 박상민과 포옹'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815916?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:34:00 +0900",
-        "title": "지지 호소하는 김병민 국민의힘 광진갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815912?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1018304
-      }
-    ],
-    "huboid": "100152210",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-2.jpg"
-  }
+    {
+        "id": "2110501-1",
+        "regionId": "2110501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-1.jpg",
+        "기호": 1,
+        "이름": "이정헌",
+        "생년월일": "19710505",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서강대학교 영어영문학과 졸업",
+        "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
+        "재산": 748792,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 15:30:00 +0900",
+                "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:20:00 +0900",
+                "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:39:00 +0900",
+                "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:00:00 +0900",
+                "title": "[총선 격전지] 서울 광진갑 초박빙…'친명' 이정헌 vs '친윤' 김병민 격돌",
+                "link": "https://www.newspim.com/news/view/20240404000698"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 15:02:00 +0900",
+                "title": "[서울 광진갑] 더불어민주당 이정헌 44.7%, 국민의힘 김병민 38.8%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428776?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 748792
+            }
+        ],
+        "huboid": "100151442",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-1.pdf"
+    },
+    {
+        "id": "2110501-2",
+        "regionId": "2110501",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110501-2.jpg",
+        "기호": 2,
+        "이름": "김병민",
+        "생년월일": "19820204",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "경희대학교 행정학과 객원교수",
+        "학력": "경희대학교 대학원 행정학 박사",
+        "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
+        "재산": 1018304,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 15:30:00 +0900",
+                "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:20:00 +0900",
+                "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:15:00 +0900",
+                "title": "[사전투표] '광진갑' 김병민 \"수도권 표심, 마지막까지 알 수 없는 일\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817590?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:39:00 +0900",
+                "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 05:00:00 +0900",
+                "title": "[현장] 한동훈, '김병민·오신환' 손 세번째 번쩍…\"광진 위해 몸 바치게 해달...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817351?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1018304
+            }
+        ],
+        "huboid": "100152210",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110501-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-2.pdf"
+    }
 ]

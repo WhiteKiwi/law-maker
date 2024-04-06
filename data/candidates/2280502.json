@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2280502-1",
-    "regionId": "2280502",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280502-1.jpg",
-    "기호": 1,
-    "이름": "이훈기",
-    "생년월일": "19651130",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "인하대학교 정책대학원 언론·홍보학과 석사 졸업",
-    "경력": "(전)진실화해를위한과거사정리위원회 대외협력담당관\n(전)OBS경인TV 방송정책국장",
-    "재산": 978181,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 19:18:00 +0900",
-        "title": "이훈기 민주당 남동을 후보 “제2경인선, GTX-B 조기 착공”",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240402029374247"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 23:22:00 +0900",
-        "title": "인천 남동을 이훈기·신재경... 토론회서 제2경인선 등 교통 현안 놓고 열띤 ...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644895"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:18:00 +0900",
-        "title": "[남동구을 TV토론] 인천대공원 활성화 어떻게…이훈기 '자연 친화' vs 신재경...",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=168431"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:18:00 +0900",
-        "title": "[4·10 총선…인천 TV 토론회] 남동구을, ‘인천대공원’ 공약…이훈기 “자연...",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=787876"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 22:10:00 +0900",
-        "title": "신재경 \"2호선 안양 연장 현실성 없어\" vs 이훈기 \"무조건 용적률 상향, 답 아...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644601"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 978181
-      }
-    ],
-    "huboid": "100152914",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280502-1.jpg"
-  },
-  {
-    "id": "2280502-2",
-    "regionId": "2280502",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280502-2.jpg",
-    "기호": 2,
-    "이름": "신재경",
-    "생년월일": "19690517",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "숭실대학교 대학원 정치외교학과 졸업(정치학 석사)",
-    "경력": "(전)대통령비서실 선임행정관\n(전)제20대 대통령직인수위원회 전문위원",
-    "재산": 413097,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 20:34:00 +0900",
-        "title": "[4·10 총선 현장] 신재경 \"경로당 보조금 통합 관리\"",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240403010000261"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:12:00 +0900",
-        "title": "신재경 남동구을 국회의원 후보, 경로당 보조금 관리개선 공약 발표",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447235"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:04:00 +0900",
-        "title": "[총선] 신재경 남동을 후보, '경로당 보조금 관리개선 공약' 발표",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=384843"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 11:52:00 +0900",
-        "title": "[총선 D-8] 국민의힘 신재경 인천 남동을 후보 '이승훈 역사공원 인근 주차장...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026283"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 08:00:00 +0900",
-        "title": "신재경 인천 남동구을 국회의원 후보, '이승훈 역사공원 인근 주차장 확보' 공...",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1107263"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 413097
-      }
-    ],
-    "huboid": "100151407",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280502-2.jpg"
-  }
+    {
+        "id": "2280502-1",
+        "regionId": "2280502",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280502-1.jpg",
+        "기호": 1,
+        "이름": "이훈기",
+        "생년월일": "19651130",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "인하대학교 정책대학원 언론·홍보학과 석사 졸업",
+        "경력": "(전)진실화해를위한과거사정리위원회 대외협력담당관\n(전)OBS경인TV 방송정책국장",
+        "재산": 978181,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 14:22:00 +0900",
+                "title": "이훈기 인천 남동을 후보, 사전투표 참여 \"남동구민들의 주권 행사 꼭 부탁드...",
+                "link": "http://www.m-i.kr/news/articleView.html?idxno=1108750"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:38:00 +0900",
+                "title": "[포토]사전투표하는 민주당 이훈기 인천 남동구을 후보",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240405024185020"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:22:00 +0900",
+                "title": "[4·10 총선현장] 민주당 이훈기 남동을 후보·국힘 신재경 남동을 후보 \"막판...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243408"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:56:00 +0900",
+                "title": "남동을 이훈기, 정청래와 '대파 들고' 모래내시장 유세...\"남동의 위대한 발전...",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417588"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:40:00 +0900",
+                "title": "[4·10 총선현장] 모래내시장 찾은 정청래 최고위원, \"민주당 이훈기 남동을 ...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243156"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 978181
+            }
+        ],
+        "huboid": "100152914",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280502-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280502-1.pdf"
+    },
+    {
+        "id": "2280502-2",
+        "regionId": "2280502",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2280502-2.jpg",
+        "기호": 2,
+        "이름": "신재경",
+        "생년월일": "19690517",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "숭실대학교 대학원 정치외교학과 졸업(정치학 석사)",
+        "경력": "(전)대통령비서실 선임행정관\n(전)제20대 대통령직인수위원회 전문위원",
+        "재산": 413097,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:56:00 +0900",
+                "title": "신재경 후보, 첫날 사전투표 완료",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447957"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:22:00 +0900",
+                "title": "[4·10 총선현장] 민주당 이훈기 남동을 후보·국힘 신재경 남동을 후보 \"막판...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243408"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:00:00 +0900",
+                "title": "[이렇게 하겠습니다] 신재경 남동을 후보 \"아이 키우기 좋은 환경 만들겠습니...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645677"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:46:00 +0900",
+                "title": "[총선] 신재경 남동을 후보, \"아이 키우기 좋은 환경 만들겠다\" 공약 발표",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385136"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:06:00 +0900",
+                "title": "[4·10 총선현장] 국힘 신재경 남동을 후보, '어린이 안전 서명' 동참",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243275"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 413097
+            }
+        ],
+        "huboid": "100151407",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2280502-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280502-2.pdf"
+    }
 ]

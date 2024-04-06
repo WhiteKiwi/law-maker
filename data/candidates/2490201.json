@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490201-1.jpg",
-    "id": "2490201-1",
-    "재산": 562752,
-    "생년월일": "19680120",
-    "경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
-    "학력": "제주대학교 농과대학 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "966",
-    "regionId": "2490201",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:48:00 +0900",
-        "title": "위성곤 \"전정 파쇄기 등 임대 물량 두 배 확대\"",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=225234"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:12:00 +0900",
-        "title": "[총선 안테나]위성곤 \"감귤농가 찾아 현안 해결 약속\"",
-        "link": "http://www.jemin.com/news/articleView.html?idxno=770478"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:18:00 +0900",
-        "title": "위성곤 후보 \"제주농수산식품유통공사 설립 추진\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959498"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:50:00 +0900",
-        "title": "[제주 총선] 위성곤 후보, 감귤 관련 현안 해결 약속",
-        "link": "http://www.jejunews.com/news/articleView.html?idxno=2210025"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:38:00 +0900",
-        "title": "감귤밭 전정작업 현장 찾은 위성곤 \"제주 감귤 농업 혁신\"",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=425509"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "위성곤",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 488497
-      },
-      {
-        "연도": 2021,
-        "재산": 430378
-      },
-      {
-        "연도": 2022,
-        "재산": 364979
-      },
-      {
-        "연도": 2023,
-        "재산": 562752
-      }
-    ],
-    "huboid": "100152374",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490201-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490201-2.jpg",
-    "id": "2490201-2",
-    "재산": 624713,
-    "생년월일": "19620806",
-    "경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
-    "학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2490201",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:48:00 +0900",
-        "title": "고기철 \"변화 열망 실현 위해 시민 캠프 전환\"",
-        "link": "http://www.jejuilbo.net/news/articleView.html?idxno=225235"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:02:00 +0900",
-        "title": "[총선 안테나]고기철 \"현장속으로! 시민캠프 전환 선언\"",
-        "link": "http://www.jemin.com/news/articleView.html?idxno=770477"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:32:00 +0900",
-        "title": "고기철 후보 \"캠프 벗어나 민심 속으로 달려간다\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959505"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:24:00 +0900",
-        "title": "고기철 후보 \"마을공동목장 보전 방안 마련할 터\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959500"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:52:00 +0900",
-        "title": "고기철 후보 \"한동훈 위원장, 제2공항 건설-특별법 제정 약속했다\"",
-        "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540283"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "고기철",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 624713
-      }
-    ],
-    "huboid": "100151000",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490201-2.jpg"
-  }
+    {
+        "전과건수": 1,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490201-1.jpg",
+        "id": "2490201-1",
+        "재산": 562752,
+        "생년월일": "19680120",
+        "경력": "(현) 국회의원(제20·21대)\n(전) 제주대학교 총학생회장",
+        "학력": "제주대학교 농과대학 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "966",
+        "regionId": "2490201",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 18:46:00 +0900",
+                "title": "위성곤 TV토론회 4.3발언 \"제주선관위 자체조사 착수\"",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425657"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:54:00 +0900",
+                "title": "마라도 찾은 위성곤 \"정권심판 국민승리 투표\"",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425649"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:08:00 +0900",
+                "title": "위성곤 후보 \"윤석열 정권 심판 위해 사전투표 참여해달라\"",
+                "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=540587"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:56:00 +0900",
+                "title": "위성곤 \"정권 심판 국민승리 투표가 답이다\"",
+                "link": "http://www.jemin.com/news/articleView.html?idxno=770612"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:52:00 +0900",
+                "title": "[4.10총선-254] 제주 서귀포시, 위성곤vs고기철",
+                "link": "http://www.mhj21.com/160353"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "위성곤",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 488497
+            },
+            {
+                "연도": 2021,
+                "재산": 430378
+            },
+            {
+                "연도": 2022,
+                "재산": 364979
+            },
+            {
+                "연도": 2023,
+                "재산": 562752
+            }
+        ],
+        "huboid": "100152374",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490201-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2490201-1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2490201-2.jpg",
+        "id": "2490201-2",
+        "재산": 624713,
+        "생년월일": "19620806",
+        "경력": "(전)제주경찰청장\n(현)제주제2공항추진범시민포럼 명예대표",
+        "학력": "숭실대학교 대학원 IT정책경영학과 졸업(공학박사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2490201",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:36:00 +0900",
+                "title": "고기철 \"영어교육도시 교통문제 해결, 맞춤형 개선\"",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425644"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:52:00 +0900",
+                "title": "[4.10총선-254] 제주 서귀포시, 위성곤vs고기철",
+                "link": "http://www.mhj21.com/160353"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:34:00 +0900",
+                "title": "사전투표 첫날 서귀포시 '위성곤 vs 고기철' 선대위 난타전",
+                "link": "http://www.jejusori.net/news/articleView.html?idxno=425630"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:54:00 +0900",
+                "title": "민주당 \"고기철, 공보물 거짓정보 바로잡고 재산 축소 의혹 해명하라\"",
+                "link": "http://www.jejunews.com/news/articleView.html?idxno=2210124"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:32:00 +0900",
+                "title": "고기철 후보, 제주영어교육도시 교통인프라 개선 약속",
+                "link": "https://n.news.naver.com/mnews/article/031/0000826340?sid=102"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "고기철",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 624713
+            }
+        ],
+        "huboid": "100151000",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2490201-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2490201-2.pdf"
+    }
 ]

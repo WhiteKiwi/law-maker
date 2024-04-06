@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2441301_2-1",
-    "regionId": "2441301_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-1.jpg",
-    "기호": 1,
-    "이름": "양승조",
-    "생년월일": "19590321",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
-    "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
-    "재산": 784712,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:24:00 +0900",
-        "title": "강승규 후보 선대위, 2일 양승조 후보 ‘맞고발’ [22총선]",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/03/2024040300005.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:17:00 +0900",
-        "title": "양승조, 청년주거타운 등 10대 청년공약 발표",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085432?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:56:00 +0900",
-        "title": "양승조-강승규 후보, 방송토론 놓고 맞고발",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022772"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:06:00 +0900",
-        "title": "양승조 \"5선 성공해 청년에 희망 선물\"",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307436"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:00:00 +0900",
-        "title": "[총선 D-8] 홍성·예산 양승조·강승규 토론회 발언 놓고 고발전",
-        "link": "https://n.news.naver.com/mnews/article/001/0014605482?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 784712
-      }
-    ],
-    "huboid": "100152842",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2441301-1.jpg"
-  },
-  {
-    "id": "2441301_2-2",
-    "regionId": "2441301_2",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-2.jpg",
-    "기호": 2,
-    "이름": "강승규",
-    "생년월일": "19630920",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
-    "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
-    "재산": 1921919,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:24:00 +0900",
-        "title": "강승규 후보 선대위, 2일 양승조 후보 ‘맞고발’ [22총선]",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/03/2024040300005.html"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:56:00 +0900",
-        "title": "양승조-강승규 후보, 방송토론 놓고 맞고발",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022772"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:00:00 +0900",
-        "title": "[총선 D-8] 홍성·예산 양승조·강승규 토론회 발언 놓고 고발전",
-        "link": "https://n.news.naver.com/mnews/article/001/0014605482?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:58:00 +0900",
-        "title": "양승조, 강승규 겨냥 \"비열하고 야비해\"",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307433"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:19:00 +0900",
-        "title": "[4·10 총선 레이더] 충남 홍성·예산 선거구, 양승조·강승규 '맞고발'",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085339?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1921919
-      }
-    ],
-    "huboid": "100151782",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2441301-2.jpg"
-  }
+    {
+        "id": "2441301_2-1",
+        "regionId": "2441301_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-1.jpg",
+        "기호": 1,
+        "이름": "양승조",
+        "생년월일": "19590321",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "단국대학교 정책경영대학원 특수법무학과 졸업(법학석사)",
+        "경력": "(전)제38대 충청남도지사\n(전)제17·18·19·20대 국회의원(4선)",
+        "재산": 784712,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:30:00 +0900",
+                "title": "양승조 \"소상공인 전담차관 신설\"… 강승규 \"덕산온천 힐링타운 발전\"",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085839?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:22:00 +0900",
+                "title": "허태정 \"윤석열 정권 심판, 양승조는 충청도 큰 정치인\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307634"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:42:00 +0900",
+                "title": "양승조vs강승규…선거 앞두고 날 선 '공방'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=462315"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:41:00 +0900",
+                "title": "‘홍성·예산’ 양승조 후보 사전투표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462259?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:33:00 +0900",
+                "title": "[홍성예산] 양승조·강승규 사전투표... 전국 보다 8% 높아",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429220?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 784712
+            }
+        ],
+        "huboid": "100152842",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2441301-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2441301_2-1.pdf"
+    },
+    {
+        "id": "2441301_2-2",
+        "regionId": "2441301_2",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2441301-2.jpg",
+        "기호": 2,
+        "이름": "강승규",
+        "생년월일": "19630920",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서강대학교 영상대학원 졸업(광고홍보학 박사)",
+        "경력": "(전)윤석열대통령비서실 시민사회수석비서관\n(전)국회의원",
+        "재산": 1921919,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:30:00 +0900",
+                "title": "양승조 \"소상공인 전담차관 신설\"… 강승규 \"덕산온천 힐링타운 발전\"",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085839?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:42:00 +0900",
+                "title": "양승조vs강승규…선거 앞두고 날 선 '공방'",
+                "link": "http://news.lghellovision.net/news/articleView.html?idxno=462315"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:33:00 +0900",
+                "title": "[홍성예산] 양승조·강승규 사전투표... 전국 보다 8% 높아",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429220?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:14:00 +0900",
+                "title": "양승조 \"노인복지청\" vs 강승규 \"통합지원 플랫폼\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307566"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:18:00 +0900",
+                "title": "국민의힘 홍성·예산 강승규 후보 사전투표",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193927"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1921919
+            }
+        ],
+        "huboid": "100151782",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2441301-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2441301_2-2.pdf"
+    }
 ]

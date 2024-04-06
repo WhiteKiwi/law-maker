@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111801-1.jpg",
-    "id": "2111801-1",
-    "재산": 1713688,
-    "생년월일": "19691007",
-    "경력": "(현)금천구 국회의원\n(전)서울중앙지방법원 부장판사",
-    "학력": "서울대학교 경영학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1052",
-    "regionId": "2111801",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:38:00 +0900",
-        "title": "[격전지 분석] ⑤서울 금천구 4년 만의 '리턴매치'... 최기상vs강성만",
-        "link": "https://www.ltn.kr/news/articleView.html?idxno=42494"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 17:24:00 +0900",
-        "title": "[4·10총선-금천구] 최기상 민주당 후보 \"약한 자 힘있게! 강한 자 바르게!\"",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557189"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 21:21:00 +0900",
-        "title": "서울 동작을 '초접전'..금천, 최기상 현 국회의원 우위",
-        "link": "https://n.news.naver.com/mnews/article/660/0000057765?sid=165"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 18:06:00 +0900",
-        "title": "[22대총선] 금천 최기상VS강성만 리벤지 매치...'아직은' 최기상",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=578366"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 14:40:00 +0900",
-        "title": "[리서치뷰] 서울 금천, 민주 최기상 56.2%로 국힘 강성만 32.1%에 앞서",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=346087"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "최기상",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1484955
-      },
-      {
-        "연도": 2021,
-        "재산": 1577361
-      },
-      {
-        "연도": 2022,
-        "재산": 1739905
-      },
-      {
-        "연도": 2023,
-        "재산": 1713688
-      }
-    ],
-    "huboid": "100152572",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111801-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111801-2.jpg",
-    "id": "2111801-2",
-    "재산": 1624388,
-    "생년월일": "19610317",
-    "경력": "(현)국민의힘 금천구 당협위원장\n(전)국립박물관문화재단 사장",
-    "학력": "서강대학교 영어영문학과 졸업",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2111801",
-    "기호": 2,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 16:38:00 +0900",
-        "title": "[격전지 분석] ⑤서울 금천구 4년 만의 '리턴매치'... 최기상vs강성만",
-        "link": "https://www.ltn.kr/news/articleView.html?idxno=42494"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 21:26:00 +0900",
-        "title": "인요한, 與 금천구 강성만 우회지원...비례후보 총출동",
-        "link": "http://www.pennmike.com/news/articleView.html?idxno=78765"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 20:20:00 +0900",
-        "title": "[포토] 강성만 금천구 후보 지원유세 나선 인요한 선대위원장",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/29/2024032900315.html"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:47:00 +0900",
-        "title": "與 금천 후보 강성만 출정식…\"이번에는 바꿔야\"",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864260?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 22:44:00 +0900",
-        "title": "\"낙후된 금천, 이번만큼은 바꿔야\"… 與강성만 금천구 후보, 출정식 개최",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123686"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "강성만",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1624388
-      }
-    ],
-    "huboid": "100152128",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111801-2.jpg"
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111801-1.jpg",
+        "id": "2111801-1",
+        "재산": 1713688,
+        "생년월일": "19691007",
+        "경력": "(현)금천구 국회의원\n(전)서울중앙지방법원 부장판사",
+        "학력": "서울대학교 경영학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1052",
+        "regionId": "2111801",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 12:41:00 +0900",
+                "title": "시니어노동조합 등, 최기상 후보와 사회취약층 지원 논의",
+                "link": "https://n.news.naver.com/mnews/article/030/0003195270?sid=105"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:21:00 +0900",
+                "title": "[4·10 총선 Who] 금천 최기상 더불어민주당 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519111&seq_800=20511892"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "[격전지 분석] ⑤서울 금천구 4년 만의 '리턴매치'... 최기상vs강성만",
+                "link": "https://www.ltn.kr/news/articleView.html?idxno=42494"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 17:24:00 +0900",
+                "title": "[4·10총선-금천구] 최기상 민주당 후보 \"약한 자 힘있게! 강한 자 바르게!\"",
+                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=557189"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 21:21:00 +0900",
+                "title": "서울 동작을 '초접전'..금천, 최기상 현 국회의원 우위",
+                "link": "https://n.news.naver.com/mnews/article/660/0000057765?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "최기상",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1484955
+            },
+            {
+                "연도": 2021,
+                "재산": 1577361
+            },
+            {
+                "연도": 2022,
+                "재산": 1739905
+            },
+            {
+                "연도": 2023,
+                "재산": 1713688
+            }
+        ],
+        "huboid": "100152572",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111801-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111801-1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2111801-2.jpg",
+        "id": "2111801-2",
+        "재산": 1624388,
+        "생년월일": "19610317",
+        "경력": "(현)국민의힘 금천구 당협위원장\n(전)국립박물관문화재단 사장",
+        "학력": "서강대학교 영어영문학과 졸업",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2111801",
+        "기호": 2,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 18:26:00 +0900",
+                "title": "벤처기업협회, 금천구 강성만 국회의원 후보자 초청 대담",
+                "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=214474"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:25:00 +0900",
+                "title": "벤기협, 금천구 강성만 국민의힘 후보 초청 'G밸리 활성화' 대담",
+                "link": "https://n.news.naver.com/mnews/article/421/0007459842?sid=101"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 16:35:00 +0900",
+                "title": "벤처기업협회, 제22대 금천구 강성만 국회의원 후보자 초청 대담회 개최",
+                "link": "https://www.newspim.com/news/view/20240404001059"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:29:00 +0900",
+                "title": "[4·10 총선 Who] 금천 강성만 국민의힘 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519112&seq_800=20511893"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:38:00 +0900",
+                "title": "[격전지 분석] ⑤서울 금천구 4년 만의 '리턴매치'... 최기상vs강성만",
+                "link": "https://www.ltn.kr/news/articleView.html?idxno=42494"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "강성만",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1624388
+            }
+        ],
+        "huboid": "100152128",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2111801-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111801-2.pdf"
+    }
 ]

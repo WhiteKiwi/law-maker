@@ -23,4 +23,5 @@ exports.LawMakerCadidate = zod_1.z.object({
     군필여부: zod_1.z.boolean(),
     전과건수: zod_1.z.number(),
     전과ImgUrl: zod_1.z.string(),
+    공보PdfUrl: zod_1.z.string(),
 });

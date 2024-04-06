@@ -1,117 +1,119 @@
 [
-  {
-    "전과건수": 2,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110702-1.jpg",
-    "id": "2110702-1",
-    "재산": 595498,
-    "생년월일": "19691008",
-    "경력": "(전)더불어민주당 원내대표\n(현)국회의원(제19,20,21대)",
-    "학력": "경희대학교 행정대학원 환경행정학과 졸업(행정학석사)",
-    "직업": "제21대 국회의원",
-    "성별": "남",
-    "id_21th": "710",
-    "regionId": "2110702",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 11:24:00 +0900",
-        "title": "이승환, 박홍근의 '초보운전자' 비유에 \"수준 낮은 레토릭\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815685?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:10:00 +0900",
-        "title": "[현장] 박홍근 \"초보운전자 안돼\" vs 이승환 \"중랑 주민만 모시겠다\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815281?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 15:10:00 +0900",
-        "title": "박홍근 \"차별금지법에 대한 교회의 우려 잘 알고 있다\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815213?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 14:23:00 +0900",
-        "title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 17:32:00 +0900",
-        "title": "[선택4·10] 이승환 \"총선, 중랑 발전 지연시킨 민주당·박홍근 심판해야\"",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1061582"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "박홍근",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 409172
-      },
-      {
-        "연도": 2021,
-        "재산": 507509
-      },
-      {
-        "연도": 2022,
-        "재산": 480516
-      },
-      {
-        "연도": 2023,
-        "재산": 595498
-      }
-    ],
-    "huboid": "100152749",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110702-1.jpg"
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110702-2.jpg",
-    "id": "2110702-2",
-    "재산": 265820,
-    "생년월일": "19830121",
-    "경력": "(전)국민의힘 서울 중랑구(을) 당협위원장\n(전)대통령실 행정관 (인사기획관실·정무수석실)",
-    "학력": "한양대학교 대학원 정치외교학과 석사(수료)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2110702",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 11:24:00 +0900",
-        "title": "이승환, 박홍근의 '초보운전자' 비유에 \"수준 낮은 레토릭\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815685?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 05:10:00 +0900",
-        "title": "[현장] 박홍근 \"초보운전자 안돼\" vs 이승환 \"중랑 주민만 모시겠다\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815281?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 01:00:00 +0900",
-        "title": "[현장] 중랑을 토박이 이승환의 '벽치기 유세'…시민들은 승리의 'V'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815278?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 14:23:00 +0900",
-        "title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165"
-      },
-      {
-        "date": "Sat, 30 Mar 2024 11:33:00 +0900",
-        "title": "가수 이승환 '9 그리고 9'… 이번엔 조국혁신당 지지?",
-        "link": "https://n.news.naver.com/mnews/article/022/0003919502?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "이승환",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 265820
-      }
-    ],
-    "huboid": "100152342",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110702-2.jpg"
-  }
+    {
+        "전과건수": 2,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110702-1.jpg",
+        "id": "2110702-1",
+        "재산": 595498,
+        "생년월일": "19691008",
+        "경력": "(전)더불어민주당 원내대표\n(현)국회의원(제19,20,21대)",
+        "학력": "경희대학교 행정대학원 환경행정학과 졸업(행정학석사)",
+        "직업": "제21대 국회의원",
+        "성별": "남",
+        "id_21th": "710",
+        "regionId": "2110702",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 01 Apr 2024 11:24:00 +0900",
+                "title": "이승환, 박홍근의 '초보운전자' 비유에 \"수준 낮은 레토릭\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815685?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 05:10:00 +0900",
+                "title": "[현장] 박홍근 \"초보운전자 안돼\" vs 이승환 \"중랑 주민만 모시겠다\"(종합)",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815281?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 15:10:00 +0900",
+                "title": "박홍근 \"차별금지법에 대한 교회의 우려 잘 알고 있다\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815213?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 14:23:00 +0900",
+                "title": "'오세훈과 협력' 이승환 vs '구청장과 호흡' 박홍근…중랑 발전 적임자 경쟁",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815206?sid=165"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 17:32:00 +0900",
+                "title": "[선택4·10] 이승환 \"총선, 중랑 발전 지연시킨 민주당·박홍근 심판해야\"",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1061582"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "박홍근",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 409172
+            },
+            {
+                "연도": 2021,
+                "재산": 507509
+            },
+            {
+                "연도": 2022,
+                "재산": 480516
+            },
+            {
+                "연도": 2023,
+                "재산": 595498
+            }
+        ],
+        "huboid": "100152749",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110702-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110702-1.pdf"
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2110702-2.jpg",
+        "id": "2110702-2",
+        "재산": 265820,
+        "생년월일": "19830121",
+        "경력": "(전)국민의힘 서울 중랑구(을) 당협위원장\n(전)대통령실 행정관 (인사기획관실·정무수석실)",
+        "학력": "한양대학교 대학원 정치외교학과 석사(수료)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2110702",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 19:30:00 +0900",
+                "title": "[포토] 국민의힘 선거운동원, 김삼화·이승환 지지 호소",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126285"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:30:00 +0900",
+                "title": "[포토] 김삼화·이승환 지지 호소하는 선거운동원",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126284"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:28:00 +0900",
+                "title": "[포토] 김삼화·이승환 후보 지지 호소하는 한동훈 위원장",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126283"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:21:00 +0900",
+                "title": "[현장] 사전투표 D-1…한동훈, 격전지 도봉·중랑서 김재섭·이승환 힘싣기",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817219?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "김삼화-이승환 후보 지원 유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471519?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "이승환",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 265820
+            }
+        ],
+        "huboid": "100152342",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2110702-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110702-2.pdf"
+    }
 ]

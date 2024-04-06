@@ -1,155 +1,158 @@
 [
-  {
-    "id": "2414901-1",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-1.jpg",
-    "기호": 1,
-    "이름": "공영운",
-    "생년월일": "19640820",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 경영학과 졸업",
-    "경력": "(전) 현대자동차 사장\n(현) 더불어민주당 경제대변인",
-    "재산": 12964861,
-    "군필여부": false,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 03:02:00 +0900",
-        "title": "이준석 “공영운 딸 22억 집 갭투자”… 孔 “영끌, 많이 하지 않나”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003556919?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 01:05:00 +0900",
-        "title": "이준석 “공영운 딸도 성수동 부동산” vs 孔 “규정 문제없는 것 가지고 문제...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920641?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:11:00 +0900",
-        "title": "이준석 \"공영운, 딸도 성수동에 22억 집 갭투자 의혹\"",
-        "link": "https://n.news.naver.com/mnews/article/053/0000042612?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 22:02:00 +0900",
-        "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:37:00 +0900",
-        "title": "민주 공영운 딸, 재개발구역 아파트 갭투자 논란",
-        "link": "https://n.news.naver.com/mnews/article/449/0000271638?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 12964861
-      }
-    ],
-    "huboid": "100152943",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-1.jpg"
-  },
-  {
-    "id": "2414901-2",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-2.jpg",
-    "기호": 2,
-    "이름": "한정민",
-    "생년월일": "19840929",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "삼성전자 DS부문 연구원",
-    "학력": "고려대학교 대학원 신소재공학과 졸업(공학석사)",
-    "경력": "(전) 한국과학기술연구원 스핀융합연구센터 연구원\n(전) 삼성전자 노사협의회 지역구위원",
-    "재산": 229266,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 22:02:00 +0900",
-        "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 15:35:00 +0900",
-        "title": "'화성을 후보 3자 토론' 이준석·한정민, 공영운 향해 '아빠찬스' 협공",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331118?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:05:00 +0900",
-        "title": "한정민·이준석, 민주 공영운에 \"폰영운\"\"딸 갭투자\" 협공",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453747?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:55:00 +0900",
-        "title": "공영운에 “폰영운” “딸 갭투자” 협공한 이준석·한정민",
-        "link": "https://n.news.naver.com/mnews/article/009/0005282026?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 09:59:00 +0900",
-        "title": "[화성 을] 공영운·한정민·이준석 3자토론 \"아빠찬스 vs 분탕질\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0003880748?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 229266
-      }
-    ],
-    "huboid": "100152642",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-2.jpg"
-  },
-  {
-    "id": "2414901-7",
-    "regionId": "2414901",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-7.jpg",
-    "기호": 7,
-    "이름": "이준석",
-    "생년월일": "19850331",
-    "정당": "개혁신당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "하버드대학교 Computer Science / Economics AB 졸업 (2003.09.~2007.06.)",
-    "경력": "(전) 국민의힘 당대표\n(현) 개혁신당 당대표",
-    "재산": 1927353,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 03:02:00 +0900",
-        "title": "이준석 “공영운 딸 22억 집 갭투자”… 孔 “영끌, 많이 하지 않나”",
-        "link": "https://n.news.naver.com/mnews/article/020/0003556919?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 01:05:00 +0900",
-        "title": "이준석 “공영운 딸도 성수동 부동산” vs 孔 “규정 문제없는 것 가지고 문제...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003920641?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:11:00 +0900",
-        "title": "이준석 \"공영운, 딸도 성수동에 22억 집 갭투자 의혹\"",
-        "link": "https://n.news.naver.com/mnews/article/053/0000042612?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 22:02:00 +0900",
-        "title": "화성을 공영운 44.7% 독주… 이준석 29.1%·한정민 20.2%",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081638"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 21:30:00 +0900",
-        "title": "공영운·이준석, 토론회서 '부동산' 설전…\"아들 이어 딸도 아빠 찬스\"↔\"문제...",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453844?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1927353
-      }
-    ],
-    "huboid": "100152972",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-7.jpg"
-  }
+    {
+        "id": "2414901-1",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-1.jpg",
+        "기호": 1,
+        "이름": "공영운",
+        "생년월일": "19640820",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 경영학과 졸업",
+        "경력": "(전) 현대자동차 사장\n(현) 더불어민주당 경제대변인",
+        "재산": 12964861,
+        "군필여부": false,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+                "title": "공영운 40%·이준석 31%·한정민 19% … 李 막판 추격전",
+                "link": "https://n.news.naver.com/mnews/article/009/0005284237?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:46:00 +0900",
+                "title": "'명룡대전' 이재명 53% 원희룡 40%…화성을 공영운 40% 이준석 31%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462860?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:42:00 +0900",
+                "title": "[총선] 이준석, '의혹 리스크' 공영운 9%p 차 맹추격…'역전 드라마 쓰나'",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385155"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:24:00 +0900",
+                "title": "사전 투표하는 공영운-한정민-이준석",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475538?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:49:00 +0900",
+                "title": "이준석, 공영운 9%p차 맹추격...\"표 몰아달라, 천 배 보답하겠다\"",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642195"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 12964861
+            }
+        ],
+        "huboid": "100152943",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414901-1.pdf"
+    },
+    {
+        "id": "2414901-2",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-2.jpg",
+        "기호": 2,
+        "이름": "한정민",
+        "생년월일": "19840929",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "삼성전자 DS부문 연구원",
+        "학력": "고려대학교 대학원 신소재공학과 졸업(공학석사)",
+        "경력": "(전) 한국과학기술연구원 스핀융합연구센터 연구원\n(전) 삼성전자 노사협의회 지역구위원",
+        "재산": 229266,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+                "title": "공영운 40%·이준석 31%·한정민 19% … 李 막판 추격전",
+                "link": "https://n.news.naver.com/mnews/article/009/0005284237?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:24:00 +0900",
+                "title": "사전 투표하는 공영운-한정민-이준석",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475538?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:10:00 +0900",
+                "title": "사전 투표하는 한정민 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475357?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:02:00 +0900",
+                "title": "경기 화성을, 공영운 40% vs 한정민 19% vs 이준석 31% [매경·MBN 여론조사]",
+                "link": "https://n.news.naver.com/mnews/article/009/0005284100?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:04:00 +0900",
+                "title": "與 화성을 한정민 후보, 투표소 인근 '선거운동복 착용' 선거법 위반 논란",
+                "link": "http://www.metroseoul.co.kr/article/20240405500167"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 229266
+            }
+        ],
+        "huboid": "100152642",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414901-2.pdf"
+    },
+    {
+        "id": "2414901-7",
+        "regionId": "2414901",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2414901-7.jpg",
+        "기호": 7,
+        "이름": "이준석",
+        "생년월일": "19850331",
+        "정당": "개혁신당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "하버드대학교 Computer Science / Economics AB 졸업 (2003.09.~2007.06.)",
+        "경력": "(전) 국민의힘 당대표\n(현) 개혁신당 당대표",
+        "재산": 1927353,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 18:19:00 +0900",
+                "title": "사전 투표하는 이재명-한동훈-김준우-이낙연-이준석-조국",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475604?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+                "title": "공영운 40%·이준석 31%·한정민 19% … 李 막판 추격전",
+                "link": "https://n.news.naver.com/mnews/article/009/0005284237?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:46:00 +0900",
+                "title": "'명룡대전' 이재명 53% 원희룡 40%…화성을 공영운 40% 이준석 31%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462860?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:42:00 +0900",
+                "title": "[총선] 이준석, '의혹 리스크' 공영운 9%p 차 맹추격…'역전 드라마 쓰나'",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385155"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:24:00 +0900",
+                "title": "사전 투표하는 공영운-한정민-이준석",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475538?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1927353
+            }
+        ],
+        "huboid": "100152972",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2414901-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2414901-7.pdf"
+    }
 ]

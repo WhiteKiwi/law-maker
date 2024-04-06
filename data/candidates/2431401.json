@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2431401-1",
-    "regionId": "2431401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431401-1.jpg",
-    "기호": 1,
-    "이름": "이광희",
-    "생년월일": "19631009",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "충북대학교 대학원 졸업(농학박사)",
-    "경력": "(전)제9대 제10대 충청북도의회의원\n(현)더불어민주당 교육연수원 부원장",
-    "재산": 343040,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 21:16:00 +0900",
-        "title": "[충청총선]더불어민주당 청주 서원 이광희 후보, \"서원구민의 열망을 담아 더...",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240402010000903"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-        "title": "청주서원 이광희 \"낮은 자세로 시민목소리 청취\"",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792647"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:06:00 +0900",
-        "title": "충북 총선 후보자 밀착 인터뷰 - 7. 이광희 민주당 청주서원 후보",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431123"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:48:00 +0900",
-        "title": "[4·10총선] 민주당 이광희 \"시민 열망 담아 더 열심히 뛰겠다\"",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959421"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:58:00 +0900",
-        "title": "청주 서원구, '이광희 37%, 김진모 33%'… 부동층 표심 '승패' 가를 변수",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085308?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 343040
-      }
-    ],
-    "huboid": "100152150",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431401-1.jpg"
-  },
-  {
-    "id": "2431401-2",
-    "regionId": "2431401",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431401-2.jpg",
-    "기호": 2,
-    "이름": "김진모",
-    "생년월일": "19660125",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "변호사",
-    "학력": "서울대학교 법과대학 사법학과 졸업",
-    "경력": "(전)대통령실 민정2비서관\n(전)서울남부지방검찰청 검사장",
-    "재산": 9904779,
-    "군필여부": true,
-    "전과건수": 1,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 23:50:00 +0900",
-        "title": "김진모, 노인요양 종사가 처우개선 등 제도정비 약속",
-        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266197"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:52:00 +0900",
-        "title": "노인장기요양기관협회, 국민의힘 청주서원 김진모와 소통",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746537"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:24:00 +0900",
-        "title": "청주서원 김진모 \"요양기관 종사자 처우 개선\"",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792653"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:10:00 +0900",
-        "title": "한동훈, 김진모 후보 지지 호소",
-        "link": "https://n.news.naver.com/mnews/article/421/0007454111?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:08:00 +0900",
-        "title": "[포토] 지지호소하는 김진모 청주서원구 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200359.html"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 9904779
-      }
-    ],
-    "huboid": "100151788",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431401-2.jpg"
-  }
+    {
+        "id": "2431401-1",
+        "regionId": "2431401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431401-1.jpg",
+        "기호": 1,
+        "이름": "이광희",
+        "생년월일": "19631009",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "충북대학교 대학원 졸업(농학박사)",
+        "경력": "(전)제9대 제10대 충청북도의회의원\n(현)더불어민주당 교육연수원 부원장",
+        "재산": 343040,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 12:34:00 +0900",
+                "title": "선택 D-5/ 민주당 이광희 청주서원 후보 사전투표 인증샷",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746877"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 06:00:00 +0900",
+                "title": "이재명, 충청권서 표밭 갈이…사전투표도 참여",
+                "link": "https://n.news.naver.com/mnews/article/001/0014612057?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 06:00:00 +0900",
+                "title": "'중원' 민심 공략 나서는 이재명…오늘 대전·충청 현장 유세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007460109?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 05:38:00 +0900",
+                "title": "사전투표 첫날, 여야 지도부 투표…한동훈은 서울신촌·이재명은 대전",
+                "link": "https://n.news.naver.com/mnews/article/018/0005707556?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 05:27:00 +0900",
+                "title": "사전투표 첫날…한동훈 '신촌 이화여대' 이재명 '대전 카이스트' 공략",
+                "link": "https://n.news.naver.com/mnews/article/421/0007460079?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 343040
+            }
+        ],
+        "huboid": "100152150",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431401-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2431401-1.pdf"
+    },
+    {
+        "id": "2431401-2",
+        "regionId": "2431401",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2431401-2.jpg",
+        "기호": 2,
+        "이름": "김진모",
+        "생년월일": "19660125",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "변호사",
+        "학력": "서울대학교 법과대학 사법학과 졸업",
+        "경력": "(전)대통령실 민정2비서관\n(전)서울남부지방검찰청 검사장",
+        "재산": 9904779,
+        "군필여부": true,
+        "전과건수": 1,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 13:56:00 +0900",
+                "title": "[2024 총선] 김진모 후보, 충북장기요양기관 대표자 간담회 개최",
+                "link": "http://www.srtimes.kr/news/articleView.html?idxno=154285"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 09:54:00 +0900",
+                "title": "선택 D-5/ 국민의힘 청주서원 김진모·강선희 부부 투표",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746863"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 22:09:00 +0900",
+                "title": "선택 D-5/ 국민의힘 김진모 후보, 충북장기요양기관 대표자 간담회",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746845"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+                "title": "청주서원 김진모-장기요양기관협 간담회 … 규칙 개정 등 청취",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793014"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:52:00 +0900",
+                "title": "김진모, 요양기관 재무회계규칙 개선 약속",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266773"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 9904779
+            }
+        ],
+        "huboid": "100151788",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2431401-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2431401-2.pdf"
+    }
 ]

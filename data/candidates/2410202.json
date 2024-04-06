@@ -1,104 +1,106 @@
 [
-  {
-    "id": "2410202-1",
-    "regionId": "2410202",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-1.jpg",
-    "기호": 1,
-    "이름": "염태영",
-    "생년월일": "19600725",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서울대학교 농과대학 농화학과 졸업",
-    "경력": "(전)수원시장\n(전)경기도 경제부지사",
-    "재산": 2095143,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 01:34:00 +0900",
-        "title": "[과수원 사람들] 김현준 수원갑·김승원 수원갑·염태영 수원무 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816436?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 22:16:00 +0900",
-        "title": "'권선구 동별 공약 발표' 염태영 후보 \"새롭고 풍요로운 권선 건설\" 다짐",
-        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48307"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 21:06:00 +0900",
-        "title": "민주당 염태영 수원무 국회의원 후보 \"더 새롭고 더 풍요로운 권선 만들 것\" ...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125418"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:30:00 +0900",
-        "title": "염태영 수원무 후보, 세류·권선·곡선동 발전 구상 밝혀",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645181"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:00:00 +0900",
-        "title": "염태영 수원무 후보, 세류·권선·곡선동 발전 구상 발표",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081576"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2095143
-      }
-    ],
-    "huboid": "100152149",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410202-1.jpg"
-  },
-  {
-    "id": "2410202-2",
-    "regionId": "2410202",
-    "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-2.jpg",
-    "기호": 2,
-    "이름": "박재순",
-    "생년월일": "19620129",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "(사)한국지방발전연구원 이사장",
-    "학력": "아주대학교 경영대학원 졸업(경영학석사)",
-    "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
-    "재산": 10658416,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Mon, 01 Apr 2024 09:08:00 +0900",
-        "title": "박재순 수원시 무 후보, 국민의힘 수원지역 후보들과 민주당 규탄",
-        "link": "https://www.viva100.com/main/view.php?key=20240331010010476"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:52:00 +0900",
-        "title": "수원무 박재순 후보, 더불어민주당 규탄 \"수원발전 저해하는 민주당 염태영이...",
-        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687046"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:24:00 +0900",
-        "title": "박재순 “수원, 세계가 놀랄만한 반도체 메카로 재탄생시킬 것”",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=787883"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:44:00 +0900",
-        "title": "국민의힘 박재순 수원시(무) 후보, 수원지역 후보들과 민주당 규탄",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124496"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:10:00 +0900",
-        "title": "박재순 수원무 후보 \"국회의원 세비 6억 환원·불체포특권 폐지\" 공약",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081080"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 10658416
-      }
-    ],
-    "huboid": "100151333",
-    "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410202-2.jpg"
-  }
+    {
+        "id": "2410202-1",
+        "regionId": "2410202",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-1.jpg",
+        "기호": 1,
+        "이름": "염태영",
+        "생년월일": "19600725",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서울대학교 농과대학 농화학과 졸업",
+        "경력": "(전)수원시장\n(전)경기도 경제부지사",
+        "재산": 2095143,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 17:50:00 +0900",
+                "title": "염태영 수원무 후보 “사전투표, 시민의 완벽한 승리 위한 주춧돌”",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240405025245169"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:48:00 +0900",
+                "title": "'수원무' 염태영 민주당 후보, 사전투표…\"함께 나서 달라\"",
+                "link": "https://www.newspim.com/news/view/20240405001117"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:09:00 +0900",
+                "title": "[사전투표] '수원무' 염태영 \"국격 회복할 소중한 기회\" 투표 인증 셀카도",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817678?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:38:00 +0900",
+                "title": "[22 총선] 염태영 후보, \"사전투표, 4월 10일 시민의 완벽한 승리 위한 주춧돌...",
+                "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=304398"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:34:00 +0900",
+                "title": "[4·10 총선] 민주당 염태영 후보, 부인과 사전 투표…\"민주주의 바로 세울 것...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243432"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2095143
+            }
+        ],
+        "huboid": "100152149",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410202-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410202-1.pdf"
+    },
+    {
+        "id": "2410202-2",
+        "regionId": "2410202",
+        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2410202-2.jpg",
+        "기호": 2,
+        "이름": "박재순",
+        "생년월일": "19620129",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "(사)한국지방발전연구원 이사장",
+        "학력": "아주대학교 경영대학원 졸업(경영학석사)",
+        "경력": "(전)국민의힘 수원시무당원협의회위원장\n(전)윤석열 대통령후보 경기도공동선대위원장",
+        "재산": 10658416,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 18:02:00 +0900",
+                "title": "국민의힘 박재순 수원시 무 후보, 첫날 사전투표 완료",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447963"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:10:00 +0900",
+                "title": "박재순 후보 \"수원 발전을 위해 소중한 한표 꼭 행사해야\"",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003556"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:06:00 +0900",
+                "title": "국민의힘 박재순 수원시 무 후보, 5일 사전투표 앞장",
+                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1042095"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:28:00 +0900",
+                "title": "박재순 국민의힘 수원시 무 후보, 수원 발전 위해 소중한 한표 꼭 행사 당부",
+                "link": "https://www.viva100.com/main/view.php?key=20240405010001994"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 22:30:00 +0900",
+                "title": "수원무 박재순, \"12년 내리막 재정, 시민들 분노 부를 것\"...염태영 후보 세외...",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=687937"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 10658416
+            }
+        ],
+        "huboid": "100151333",
+        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2410202-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2410202-2.pdf"
+    }
 ]
