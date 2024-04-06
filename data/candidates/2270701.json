@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2270701-1",
-        "regionId": "2270701",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-1.jpg",
-        "기호": 1,
-        "이름": "권택흥",
-        "생년월일": "19690319",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "영남대학교 대학원 공법학과 사회법전공 석사 졸업",
-        "경력": "(전) 대통령직속 일자리위원회 청년TF위원\n(전) 제21대 국회의원선거 달서구갑 후보자",
-        "재산": 898393,
-        "군필여부": true,
-        "전과건수": 8,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 17:42:00 +0900",
-                "title": "권택흥, \"유영하 경산 지원유세...공천뒷거래 이행인가?\"",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151286"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 08:32:00 +0900",
-                "title": "권택흥 후보, \"유영하, 박 전 대통령 이용말고 본인 실력으로 경쟁하라\"",
-                "link": "http://www.breaknews.com/1025005"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 22:00:00 +0900",
-                "title": "[열전 4.10 총선] 권택흥, 사회복지유권자연맹 사회복지 공약 간담회",
-                "link": "http://www.kbsm.net/news/view.php?idx=428656"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 22:00:00 +0900",
-                "title": "[열전 4.10 총선] 권택흥 \"유영하, 공천뒷거래 의혹 해명하라\"",
-                "link": "http://www.kbsm.net/news/view.php?idx=428655"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:56:00 +0900",
-                "title": "대구 달서구갑 민주당 권택흥 \"유영하 '공천 뒷거래' 의혹 해명하라\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278477?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 898393
-            }
-        ],
-        "huboid": "100151678",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270701-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270701-1.pdf"
-    },
-    {
-        "id": "2270701-2",
-        "regionId": "2270701",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2270701-2.jpg",
-        "기호": 2,
-        "이름": "유영하",
-        "생년월일": "19621019",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "연세대학교 사회과학대학 행정학과 졸업",
-        "경력": "(전) 박근혜 전 대통령 변호인\n(전) 국가인권위원회 상임위원(차관급)",
-        "재산": 2353561,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 21:36:00 +0900",
-                "title": "조지연, 박근혜 최측근 유영하와 공동 유세",
-                "link": "https://www.dkilbo.com/news/articleView.html?idxno=437494"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 20:54:00 +0900",
-                "title": "유영하 경산지원유세에 \"공천뒷거래 이행?\"",
-                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=991174"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 20:36:00 +0900",
-                "title": "유영하, 조지연 후보 지지유세 나서",
-                "link": "http://www.ksmnews.co.kr/news/view.php?idx=476279"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:38:00 +0900",
-                "title": "조지연 경산 후보-유영하, 경산하양공설시장서 집중 유세",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005590"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:18:00 +0900",
-                "title": "박근혜 전 대통령 측근 유영하, 경산 조지연 후보 지원 유세",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240404010000721"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2353561
-            }
-        ],
-        "huboid": "100152311",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2270701-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270701-2.pdf"
-    }
+  {
+    "id": "2270701-1",
+    "regionId": "2270701",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2270701-1.jpg",
+    "기호": 1,
+    "이름": "권택흥",
+    "생년월일": "19690319",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "영남대학교 대학원 공법학과 사회법전공 석사 졸업",
+    "경력": "(전) 대통령직속 일자리위원회 청년TF위원\n(전) 제21대 국회의원선거 달서구갑 후보자",
+    "재산": 898393,
+    "군필여부": true,
+    "전과건수": 8,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 17:42:00 +0900",
+        "title": "권택흥, \"유영하 경산 지원유세...공천뒷거래 이행인가?\"",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151286"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 08:32:00 +0900",
+        "title": "권택흥 후보, \"유영하, 박 전 대통령 이용말고 본인 실력으로 경쟁하라\"",
+        "link": "http://www.breaknews.com/1025005"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 22:00:00 +0900",
+        "title": "[열전 4.10 총선] 권택흥, 사회복지유권자연맹 사회복지 공약 간담회",
+        "link": "http://www.kbsm.net/news/view.php?idx=428656"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 22:00:00 +0900",
+        "title": "[열전 4.10 총선] 권택흥 \"유영하, 공천뒷거래 의혹 해명하라\"",
+        "link": "http://www.kbsm.net/news/view.php?idx=428655"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:56:00 +0900",
+        "title": "대구 달서구갑 민주당 권택흥 \"유영하 '공천 뒷거래' 의혹 해명하라\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278477?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 898393
+      }
+    ],
+    "huboid": "100151678",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2270701-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270701-1.pdf"
+  },
+  {
+    "id": "2270701-2",
+    "regionId": "2270701",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2270701-2.jpg",
+    "기호": 2,
+    "이름": "유영하",
+    "생년월일": "19621019",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "연세대학교 사회과학대학 행정학과 졸업",
+    "경력": "(전) 박근혜 전 대통령 변호인\n(전) 국가인권위원회 상임위원(차관급)",
+    "재산": 2353561,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 21:36:00 +0900",
+        "title": "조지연, 박근혜 최측근 유영하와 공동 유세",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=437494"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:54:00 +0900",
+        "title": "유영하 경산지원유세에 \"공천뒷거래 이행?\"",
+        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=991174"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:36:00 +0900",
+        "title": "유영하, 조지연 후보 지지유세 나서",
+        "link": "http://www.ksmnews.co.kr/news/view.php?idx=476279"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:38:00 +0900",
+        "title": "조지연 경산 후보-유영하, 경산하양공설시장서 집중 유세",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005590"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:18:00 +0900",
+        "title": "박근혜 전 대통령 측근 유영하, 경산 조지연 후보 지원 유세",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240404010000721"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2353561
+      }
+    ],
+    "huboid": "100152311",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2270701-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270701-2.pdf"
+  }
 ]

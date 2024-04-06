@@ -1,106 +1,106 @@
 [
-    {
-        "id": "2112302-1",
-        "regionId": "2112302",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112302-1.jpg",
-        "기호": 1,
-        "이름": "강청희",
-        "생년월일": "19640629",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "의사",
-        "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
-        "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
-        "재산": 3182848,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:07:00 +0900",
-                "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:47:00 +0900",
-                "title": "민주 “강남을 강청희 공보물 누락사고 발견…선관위, 진상 조사하라”",
-                "link": "https://n.news.naver.com/mnews/article/016/0002291350?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:10:00 +0900",
-                "title": "강청희 \"숫자에 목맨 의대 증원은 실패한 정책...국회서 추진 배경 조사해야\"",
-                "link": "https://www.rapportian.com/news/articleView.html?idxno=205480"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 07:05:00 +0900",
-                "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 06:10:00 +0900",
-                "title": "'강남 닥터' 강청희 \"강남을과 대한민국 살리는 의사될 것\"[인터뷰]",
-                "link": "https://n.news.naver.com/mnews/article/008/0005021886?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3182848
-            }
-        ],
-        "huboid": "100152859",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112302-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-1.pdf"
-    },
-    {
-        "id": "2112302-2",
-        "regionId": "2112302",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2112302-2.jpg",
-        "기호": 2,
-        "이름": "박수민",
-        "생년월일": "19671203",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "AI 스타트업 대표",
-        "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
-        "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
-        "재산": 31562262,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:07:00 +0900",
-                "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 07:05:00 +0900",
-                "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:17:00 +0900",
-                "title": "[서울 강남을] 국민의힘 박수민 43%, 더불어민주당 강청희 41%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429119?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:23:00 +0900",
-                "title": "강남을 與 박수민 \"이재명 '기본소득' 보고 출마…경제 해법 보여줄 것\"",
-                "link": "https://n.news.naver.com/mnews/article/015/0004968880?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:17:00 +0900",
-                "title": "[4·10 총선 Who] 강남을 박수민 국민의힘 후보",
-                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519206&seq_800=20511987"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 31562262
-            }
-        ],
-        "huboid": "100153108",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2112302-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-2.pdf"
-    }
+  {
+    "id": "2112302-1",
+    "regionId": "2112302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-1.jpg",
+    "기호": 1,
+    "이름": "강청희",
+    "생년월일": "19640629",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "의사",
+    "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
+    "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
+    "재산": 3182848,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:07:00 +0900",
+        "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:47:00 +0900",
+        "title": "민주 “강남을 강청희 공보물 누락사고 발견…선관위, 진상 조사하라”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002291350?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:10:00 +0900",
+        "title": "강청희 \"숫자에 목맨 의대 증원은 실패한 정책...국회서 추진 배경 조사해야\"",
+        "link": "https://www.rapportian.com/news/articleView.html?idxno=205480"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 07:05:00 +0900",
+        "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 06:10:00 +0900",
+        "title": "'강남 닥터' 강청희 \"강남을과 대한민국 살리는 의사될 것\"[인터뷰]",
+        "link": "https://n.news.naver.com/mnews/article/008/0005021886?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3182848
+      }
+    ],
+    "huboid": "100152859",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-1.pdf"
+  },
+  {
+    "id": "2112302-2",
+    "regionId": "2112302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-2.jpg",
+    "기호": 2,
+    "이름": "박수민",
+    "생년월일": "19671203",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "AI 스타트업 대표",
+    "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
+    "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
+    "재산": 31562262,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:07:00 +0900",
+        "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 07:05:00 +0900",
+        "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:17:00 +0900",
+        "title": "[서울 강남을] 국민의힘 박수민 43%, 더불어민주당 강청희 41%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429119?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:23:00 +0900",
+        "title": "강남을 與 박수민 \"이재명 '기본소득' 보고 출마…경제 해법 보여줄 것\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0004968880?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:17:00 +0900",
+        "title": "[4·10 총선 Who] 강남을 박수민 국민의힘 후보",
+        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519206&seq_800=20511987"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 31562262
+      }
+    ],
+    "huboid": "100153108",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-2.pdf"
+  }
 ]
