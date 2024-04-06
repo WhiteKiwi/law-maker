@@ -123,8 +123,7 @@ export const LawMaker: z.Schema<LawMaker> = z.object({
     })
   ),
   공약이행률: z.object({
-    이름: z.string().optional(),
-    총공약수: z.number().nullable(),
-    공약이행수: z.number().nullable(),
-  }),
+    총공약수: z.number(),
+    공약이행수: z.number(),
+  }).nullable(),
 });
