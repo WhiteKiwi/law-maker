@@ -27,6 +27,7 @@ export type LawMakerCadidate = {
   전과건수: number;
   전과ImgUrl: string;
   공보PdfUrl: string;
+  공보ImgUrls: string[];
 };
 
 /**
@@ -128,4 +129,5 @@ export const LawMakerCadidate: z.Schema<LawMakerCadidate> = z.object({
   전과건수: z.number(),
   전과ImgUrl: z.string(),
   공보PdfUrl: z.string(),
+  공보ImgUrls: z.array(z.string()),
 });

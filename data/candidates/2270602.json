@@ -316,7 +316,21 @@
         "총공약수": 10,
         "공약이행수": 5
       }
-    }
+    },
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-2-9.jpg"
+    ]
   },
   {
     "전과건수": 1,
@@ -368,7 +382,13 @@
     ],
     "huboid": "100152761",
     "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2270602-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-7.pdf"
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-7-3.jpg"
+    ]
   },
   {
     "전과건수": 1,
@@ -420,7 +440,21 @@
     ],
     "huboid": "100153019",
     "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2270602-8.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-8.pdf"
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-8.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-8-9.jpg"
+    ]
   },
   {
     "전과건수": 0,
@@ -472,6 +506,16 @@
     ],
     "huboid": "100151328",
     "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2270602-9.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-9.pdf"
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2270602-9.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2270602-9-7.jpg"
+    ]
   }
 ]
