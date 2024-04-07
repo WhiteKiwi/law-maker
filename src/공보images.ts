@@ -16,7 +16,7 @@ async function main() {
         .filter((image) => {
           // /{id}-\d*.jpg{}/
           const regex = new RegExp(candidate.id + "-\\d*.jpg");
-          return regex.test(image);
+          return regex.test(image) || image === `${candidate.id}.jpg`;
         })
         .map(
           (image) =>
