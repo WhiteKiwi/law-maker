@@ -11,12 +11,6 @@ async function main() {
     for (const file of files) {
       const filePath = path.join(lawMakerDir, file);
       const lawMaker: LawMaker = await readJSON(filePath);
-      if (lawMaker.공약이행률등수 === undefined) {
-        lawMaker.공약이행률등수 = null;
-      }
-      if (lawMaker.공약이행수등수 === undefined) {
-        lawMaker.공약이행수등수 = null;
-      }
       const 의안번호정렬 = [
         2122268, 2102500, 2120877, 2107249, 2121515, 2123038, 2125809, 2119727,
         2119142, 2126369, 2125837, 2120933,
@@ -35,6 +29,7 @@ async function main() {
     for (const file of files) {
       const filePath = path.join(candidateDir, file);
       const candidates: LawMakerCadidate[] = await readJSON(filePath);
+      // set lawMaker
       for (const candidate of candidates) {
         if (candidate.id_21th) {
           candidate["21th"] = lawMakers.find(
