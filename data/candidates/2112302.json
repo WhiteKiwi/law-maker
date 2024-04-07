@@ -1,284 +1,284 @@
 [
-    {
-        "id": "2112302-1",
-        "regionId": "2112302",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-1.jpg",
-        "기호": 1,
-        "이름": "강청희",
-        "생년월일": "19640629",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "의사",
-        "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
-        "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
-        "재산": 3182848,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 16:08:00 +0900",
-                "title": "[오마이포토] 강남을 민주당 강청희 후보 '큰절'",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429446?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:07:00 +0900",
-                "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:47:00 +0900",
-                "title": "민주 “강남을 강청희 공보물 누락사고 발견…선관위, 진상 조사하라”",
-                "link": "https://n.news.naver.com/mnews/article/016/0002291350?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:28:00 +0900",
-                "title": "선관위 ‘투표소 내 대파 반입 금지’에 이재명 “참 해괴한 일”",
-                "link": "https://n.news.naver.com/mnews/article/655/0000017685?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:22:00 +0900",
-                "title": "이재명 \"선관위, 투표소 '대파' 반입 금지…해괴한 이야기\"",
-                "link": "https://n.news.naver.com/mnews/article/031/0000826405?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:20:00 +0900",
-                "title": "이재명, 투표소 내 ‘대파 반입 금지’에 “기가 찬다”",
-                "link": "https://www.etoday.co.kr/news/view/2348191"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:16:00 +0900",
-                "title": "선관위, '투표소 내 대파 금지'에…이재명 \"참 해괴한 일\"",
-                "link": "http://www.metroseoul.co.kr/article/20240405500236"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:12:00 +0900",
-                "title": "충청 민심 호소한 이재명, \"與, 가짜 사과 작전 시작됐다\"",
-                "link": "http://www.metroseoul.co.kr/article/20240405500233"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:10:00 +0900",
-                "title": "강청희 \"숫자에 목맨 의대 증원은 실패한 정책...국회서 추진 배경 조사해야\"",
-                "link": "https://www.rapportian.com/news/articleView.html?idxno=205480"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:06:00 +0900",
-                "title": "이재명, \"국정원 선거 개입 가능성\" 음모론 설파",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500242.html"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:47:00 +0900",
-                "title": "이재명, 선관위 '투표소 내 대파 금지' 안내… \"해괴한 일\"",
-                "link": "https://n.news.naver.com/mnews/article/417/0000994582?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:45:00 +0900",
-                "title": "이재명 \"대파 들고 투표 금지? 기가 찬다\"",
-                "link": "https://n.news.naver.com/mnews/article/057/0001810529?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:43:00 +0900",
-                "title": "이재명, 선관위 '대파 금지'에 \"그럼 디올백도 못 들어가나\"",
-                "link": "https://n.news.naver.com/mnews/article/437/0000387261?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:38:00 +0900",
-                "title": "이재명 대표, 투표소 대파 반입 금지에 \"참 해괴한 일\"",
-                "link": "http://www.breaknews.com/1025396"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:31:00 +0900",
-                "title": "[뉴스1 PICK]이재명, 투표소 대파 반입 금지에 \"참 해괴하다\"",
-                "link": "https://n.news.naver.com/mnews/article/421/0007462450?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:31:00 +0900",
-                "title": "[총선] 야권 “대파가 정치적 상징성? 해괴한 얘기”…“선관위가 대통령 심기...",
-                "link": "https://n.news.naver.com/mnews/article/056/0011696290?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:30:00 +0900",
-                "title": "선관위, 투표소에 '대파 반입' 금지?…이재명 \"해괴한 얘기\"",
-                "link": "https://n.news.naver.com/mnews/article/008/0005022149?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:11:00 +0900",
-                "title": "이재명 \"'대파 들고 투표 금지'…참 해괴한 일, 기가 찬다\"",
-                "link": "https://n.news.naver.com/mnews/article/088/0000871238?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:08:00 +0900",
-                "title": "마지막 여론조사, 이재명 54% vs 원희룡 37%…이광재 51% vs 안철수 38%[여론...",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326651?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:47:00 +0900",
-                "title": "이재명, 선관위 '투표소 내 대파 반입 금지'에 \"참 해괴한 일\"",
-                "link": "https://n.news.naver.com/mnews/article/003/0012474984?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3182848
-            }
-        ],
-        "huboid": "100152859",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2112302-2",
-        "regionId": "2112302",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-2.jpg",
-        "기호": 2,
-        "이름": "박수민",
-        "생년월일": "19671203",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "AI 스타트업 대표",
-        "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
-        "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
-        "재산": 31562262,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:07:00 +0900",
-                "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 07:05:00 +0900",
-                "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:17:00 +0900",
-                "title": "[서울 강남을] 국민의힘 박수민 43%, 더불어민주당 강청희 41%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429119?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:23:00 +0900",
-                "title": "강남을 與 박수민 \"이재명 '기본소득' 보고 출마…경제 해법 보여줄 것\"",
-                "link": "https://n.news.naver.com/mnews/article/015/0004968880?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:17:00 +0900",
-                "title": "[4·10 총선 Who] 강남을 박수민 국민의힘 후보",
-                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519206&seq_800=20511987"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:38:00 +0900",
-                "title": "격전지 된 '與 텃밭' 강남을…민주 강청희 41% 對 국민의힘 박수민 43%",
-                "link": "https://n.news.naver.com/mnews/article/586/0000075958?sid=100"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:01:00 +0900",
-                "title": "[여기2024] 강남을도 '팽팽' 민주당 강청희 41% 국민의힘 박수민 43%…장예찬...",
-                "link": "https://n.news.naver.com/mnews/article/437/0000387072?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:10:00 +0900",
-                "title": "봄맞이 대청소하는 박수민·박경미 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007451971?sid=165"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:52:00 +0900",
-                "title": "다섯 아이 아빠 與박수민 “4050대 어려움, 내가 잘 안다”[총선人]",
-                "link": "https://n.news.naver.com/mnews/article/018/0005703728?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 08:00:00 +0900",
-                "title": "박수민 강남을 후보 “강남 재도약 위해 ‘도시문제 해결사’…강남에서 압승...",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240330000752316"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 07:30:00 +0900",
-                "title": "'에이스 공무원→AI 창업가' 박수민 \"강남을에 필요한 건 진짜 일꾼\"",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019207?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:37:00 +0900",
-                "title": "[전문] 박수민 \"이재명 '25만원 지원금'은 선심성…필요한 분 찾아내는 선별복...",
-                "link": "https://n.news.naver.com/mnews/article/437/0000386051?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:31:00 +0900",
-                "title": "총선 후보자 10명 중 3명 전과자...재산 1위는 '1446억' 국힘 김복덕",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427841?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 09:58:00 +0900",
-                "title": "'다섯 아이 아빠'의 정치개혁 도전이 시작됐다",
-                "link": "https://n.news.naver.com/mnews/article/047/0002427795?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 03:01:00 +0900",
-                "title": "與 “의료혼란 장기화에 의사들 싸늘, 강남-해운대도 안심 못해”",
-                "link": "https://n.news.naver.com/mnews/article/020/0003555748?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 22:30:00 +0900",
-                "title": "이준석, 업비트·빗썸에 코인 없이 현금만 6억 육박…총선 후보들 가상자산 ‘...",
-                "link": "https://www.ekn.kr/web/view.php?key=20240327028503729"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 17:56:00 +0900",
-                "title": "총선 후보자 63명 가상자산 보유...비트코인 29명 최다",
-                "link": "https://www.delighti.co.kr/news/articleView.html?idxno=77581"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 17:17:00 +0900",
-                "title": "“의사들, 與 안찍겠다며 명함 거부”…강남-해운대 등 텃밭 흔들",
-                "link": "https://n.news.naver.com/mnews/article/020/0003555701?sid=165"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 15:50:00 +0900",
-                "title": "패색 짙어진 與에 애타는 조중동",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307081"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 14:24:00 +0900",
-                "title": "총선 후보 63명,7% 가상자산 보유…비트코인부터 도지코인까지",
-                "link": "http://www.seouleconews.com/news/articleView.html?idxno=76767"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 31562262
-            }
-        ],
-        "huboid": "100153108",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-9.jpg"
-        ]
-    }
+  {
+    "id": "2112302-1",
+    "regionId": "2112302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-1.jpg",
+    "기호": 1,
+    "이름": "강청희",
+    "생년월일": "19640629",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "의사",
+    "학력": "연세대학교 대학원 의과학과 졸업(의학석사)",
+    "경력": "(전)한국공공조직은행 은행장 \n(전)국민건강보험공단 급여상임이사",
+    "재산": 3182848,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 16:08:00 +0900",
+        "title": "[오마이포토] 강남을 민주당 강청희 후보 '큰절'",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429446?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:07:00 +0900",
+        "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:47:00 +0900",
+        "title": "민주 “강남을 강청희 공보물 누락사고 발견…선관위, 진상 조사하라”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002291350?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:28:00 +0900",
+        "title": "선관위 ‘투표소 내 대파 반입 금지’에 이재명 “참 해괴한 일”",
+        "link": "https://n.news.naver.com/mnews/article/655/0000017685?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:22:00 +0900",
+        "title": "이재명 \"선관위, 투표소 '대파' 반입 금지…해괴한 이야기\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0000826405?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:20:00 +0900",
+        "title": "이재명, 투표소 내 ‘대파 반입 금지’에 “기가 찬다”",
+        "link": "https://www.etoday.co.kr/news/view/2348191"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:16:00 +0900",
+        "title": "선관위, '투표소 내 대파 금지'에…이재명 \"참 해괴한 일\"",
+        "link": "http://www.metroseoul.co.kr/article/20240405500236"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:12:00 +0900",
+        "title": "충청 민심 호소한 이재명, \"與, 가짜 사과 작전 시작됐다\"",
+        "link": "http://www.metroseoul.co.kr/article/20240405500233"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:10:00 +0900",
+        "title": "강청희 \"숫자에 목맨 의대 증원은 실패한 정책...국회서 추진 배경 조사해야\"",
+        "link": "https://www.rapportian.com/news/articleView.html?idxno=205480"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:06:00 +0900",
+        "title": "이재명, \"국정원 선거 개입 가능성\" 음모론 설파",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500242.html"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:47:00 +0900",
+        "title": "이재명, 선관위 '투표소 내 대파 금지' 안내… \"해괴한 일\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0000994582?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:45:00 +0900",
+        "title": "이재명 \"대파 들고 투표 금지? 기가 찬다\"",
+        "link": "https://n.news.naver.com/mnews/article/057/0001810529?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:43:00 +0900",
+        "title": "이재명, 선관위 '대파 금지'에 \"그럼 디올백도 못 들어가나\"",
+        "link": "https://n.news.naver.com/mnews/article/437/0000387261?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:38:00 +0900",
+        "title": "이재명 대표, 투표소 대파 반입 금지에 \"참 해괴한 일\"",
+        "link": "http://www.breaknews.com/1025396"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:31:00 +0900",
+        "title": "[뉴스1 PICK]이재명, 투표소 대파 반입 금지에 \"참 해괴하다\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0007462450?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:31:00 +0900",
+        "title": "[총선] 야권 “대파가 정치적 상징성? 해괴한 얘기”…“선관위가 대통령 심기...",
+        "link": "https://n.news.naver.com/mnews/article/056/0011696290?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:30:00 +0900",
+        "title": "선관위, 투표소에 '대파 반입' 금지?…이재명 \"해괴한 얘기\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005022149?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:11:00 +0900",
+        "title": "이재명 \"'대파 들고 투표 금지'…참 해괴한 일, 기가 찬다\"",
+        "link": "https://n.news.naver.com/mnews/article/088/0000871238?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:08:00 +0900",
+        "title": "마지막 여론조사, 이재명 54% vs 원희룡 37%…이광재 51% vs 안철수 38%[여론...",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326651?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:47:00 +0900",
+        "title": "이재명, 선관위 '투표소 내 대파 반입 금지'에 \"참 해괴한 일\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0012474984?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3182848
+      }
+    ],
+    "huboid": "100152859",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2112302-2",
+    "regionId": "2112302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112302-2.jpg",
+    "기호": 2,
+    "이름": "박수민",
+    "생년월일": "19671203",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "AI 스타트업 대표",
+    "학력": "서울대학교 대학원 경영학과 졸업(경영학 석사)",
+    "경력": "(전)유럽부흥개발은행(EBRD) 이사 \n(현)AI 스타트업((주)아이넥스 코퍼레이션) 대표",
+    "재산": 31562262,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:07:00 +0900",
+        "title": "서울 강남에 다시 파란색? 민주 강청희 41%, 국힘 박수민 43% 접전",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630725?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 07:05:00 +0900",
+        "title": "강남을 강청희 41% 박수민 43%…충남 공주 박수현 42% 정진석 44% 접전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007460227?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:17:00 +0900",
+        "title": "[서울 강남을] 국민의힘 박수민 43%, 더불어민주당 강청희 41%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429119?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:23:00 +0900",
+        "title": "강남을 與 박수민 \"이재명 '기본소득' 보고 출마…경제 해법 보여줄 것\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0004968880?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:17:00 +0900",
+        "title": "[4·10 총선 Who] 강남을 박수민 국민의힘 후보",
+        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519206&seq_800=20511987"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:38:00 +0900",
+        "title": "격전지 된 '與 텃밭' 강남을…민주 강청희 41% 對 국민의힘 박수민 43%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075958?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:01:00 +0900",
+        "title": "[여기2024] 강남을도 '팽팽' 민주당 강청희 41% 국민의힘 박수민 43%…장예찬...",
+        "link": "https://n.news.naver.com/mnews/article/437/0000387072?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:10:00 +0900",
+        "title": "봄맞이 대청소하는 박수민·박경미 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007451971?sid=165"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:52:00 +0900",
+        "title": "다섯 아이 아빠 與박수민 “4050대 어려움, 내가 잘 안다”[총선人]",
+        "link": "https://n.news.naver.com/mnews/article/018/0005703728?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 08:00:00 +0900",
+        "title": "박수민 강남을 후보 “강남 재도약 위해 ‘도시문제 해결사’…강남에서 압승...",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240330000752316"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 07:30:00 +0900",
+        "title": "'에이스 공무원→AI 창업가' 박수민 \"강남을에 필요한 건 진짜 일꾼\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019207?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:37:00 +0900",
+        "title": "[전문] 박수민 \"이재명 '25만원 지원금'은 선심성…필요한 분 찾아내는 선별복...",
+        "link": "https://n.news.naver.com/mnews/article/437/0000386051?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:31:00 +0900",
+        "title": "총선 후보자 10명 중 3명 전과자...재산 1위는 '1446억' 국힘 김복덕",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427841?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 09:58:00 +0900",
+        "title": "'다섯 아이 아빠'의 정치개혁 도전이 시작됐다",
+        "link": "https://n.news.naver.com/mnews/article/047/0002427795?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 03:01:00 +0900",
+        "title": "與 “의료혼란 장기화에 의사들 싸늘, 강남-해운대도 안심 못해”",
+        "link": "https://n.news.naver.com/mnews/article/020/0003555748?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 22:30:00 +0900",
+        "title": "이준석, 업비트·빗썸에 코인 없이 현금만 6억 육박…총선 후보들 가상자산 ‘...",
+        "link": "https://www.ekn.kr/web/view.php?key=20240327028503729"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 17:56:00 +0900",
+        "title": "총선 후보자 63명 가상자산 보유...비트코인 29명 최다",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=77581"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 17:17:00 +0900",
+        "title": "“의사들, 與 안찍겠다며 명함 거부”…강남-해운대 등 텃밭 흔들",
+        "link": "https://n.news.naver.com/mnews/article/020/0003555701?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 15:50:00 +0900",
+        "title": "패색 짙어진 與에 애타는 조중동",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307081"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 14:24:00 +0900",
+        "title": "총선 후보 63명,7% 가상자산 보유…비트코인부터 도지코인까지",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=76767"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 31562262
+      }
+    ],
+    "huboid": "100153108",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112302-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112302-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112302-2-9.jpg"
+    ]
+  }
 ]

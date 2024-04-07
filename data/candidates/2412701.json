@@ -1,273 +1,273 @@
 [
-    {
-        "id": "2412701-1",
-        "regionId": "2412701",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412701-1.jpg",
-        "기호": 1,
-        "이름": "차지호",
-        "생년월일": "19800718",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "카이스트 문술미래전략대학원 부교수",
-        "학력": "존스홉킨스대학교 대학원 국제보건 박사(2011.08.~2017.05.)",
-        "경력": "(현) 카이스트 문술미래전략대학원 부교수\n(전) 맨체스터대학교 인도주의학 및 평화학 부교수",
-        "재산": -64671,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 09:58:00 +0900",
-                "title": "민주당 차지호, 오산 중고생 위한 ‘카이스트 여름학기 프로그램’ 추진",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854815"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 11:28:00 +0900",
-                "title": "차지호 오산 후보측, 공직선거법 위반 선관위 경고 조치",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082147"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 03:57:00 +0900",
-                "title": "차지호 민주당 오산시 후보, 오산 중고생 위한 `카이스트 여름학기 프로그램`...",
-                "link": "https://n.news.naver.com/mnews/article/029/0002865843?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:08:00 +0900",
-                "title": "차지호 민주당 오산시 후보, (가칭)카이스트 여름학기 프로그램 등 추진 약속",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=560161"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:00:00 +0900",
-                "title": "차지호 민주당 후보 \"오산시 KAIST 여름캠프 추진\"",
-                "link": "https://n.news.naver.com/mnews/article/092/0002327107?sid=105"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:12:00 +0900",
-                "title": "[4·10 총선] 오산시 선관위 차지호 후보부인 경고 조치",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243424"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:58:00 +0900",
-                "title": "민주당 차지호 \"오산에 AI 클러스터 만들 것…서울대·KAIST도 찾게 하겠다\"",
-                "link": "https://n.news.naver.com/mnews/article/015/0004968765?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:08:00 +0900",
-                "title": "오산시 '차지호vs김효은' 대표 공약은? (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168541"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 13:49:00 +0900",
-                "title": "오산 민주 차지호 44.9%·국힘 김효은 42.3%…2.6%p차 초접전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007455820?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 12:47:00 +0900",
-                "title": "수도권 격전지 오산, '초접전' 중…차지호 44.9% 對 김효은 42.3%",
-                "link": "https://n.news.naver.com/mnews/article/586/0000075828?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:06:00 +0900",
-                "title": "[경기 오산] 더불어민주당 차지호 44.9%, 국민의힘 김효은 42.3%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428686?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:06:00 +0900",
-                "title": "차지호 \"오산-경기남부에 'AI 미래 벨트'구축하겠습니다\"",
-                "link": "https://n.news.naver.com/mnews/article/092/0002326744?sid=105"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:04:00 +0900",
-                "title": "[경기 오산 여론조사] 차지호 44.9%·김효은 42.3% 지지율",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959904"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 06:02:00 +0900",
-                "title": "[4·10 격전지 여론조사] 오산시, 민주 차지호 44.9%·국힘 김효은 42.3%…초...",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=788143"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-                "title": "오산 경제 활성화, 차지호vs김효은 \"내가 적임자\" (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168496"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:30:00 +0900",
-                "title": "[화보] 선거유세중 만난 차지호-김효은 오산 후보들",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240402000000238"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 21:32:00 +0900",
-                "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 07:17:00 +0900",
-                "title": "오산으로 간 '미래학자' 차지호 \"대한민국 골든타임, 이제 6년 남았다\"",
-                "link": "https://n.news.naver.com/mnews/article/008/0005019204?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 21:58:00 +0900",
-                "title": "[마이크를 빌려드립니다⑥] 더불어민주당 차지호 오산시 후보 편",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558415"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 17:02:00 +0900",
-                "title": "민주당 차지호, \"오산 시민 자부심 되겠다\"",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850831"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -64671
-            }
-        ],
-        "huboid": "100152999",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412701-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412701-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-5.jpg"
-        ]
-    },
-    {
-        "id": "2412701-2",
-        "regionId": "2412701",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412701-2.jpg",
-        "기호": 2,
-        "이름": "김효은",
-        "생년월일": "19830916",
-        "정당": "국민의힘",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "고려대학교 대학원 영어교육학과 석사과정 수료",
-        "경력": "(현)국민의힘 한동훈 비상대책위원장 22대총선 국민인재\n(전) EBSi 영어강사",
-        "재산": 6378721,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 09:50:00 +0900",
-                "title": "김효은 \"사교육·공교육 강사이자 워킹맘…정책과 현장 잘 알아\" [동행인터뷰...",
-                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
-                "title": "오산 김효은 후보에 힘 실어준 한동훈 위원장, 세 번째 방문",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854570"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:22:00 +0900",
-                "title": "[총선] 한동훈 위원장 \"오산 김효은 대표로 내세운다면 자부심·자긍심 느낄 ...",
-                "link": "https://news.ifm.kr/news/articleView.html?idxno=385238"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 10:28:00 +0900",
-                "title": "한동훈 위원장, 오산 세 번째 방문 김효은 후보에 힘 실어주기",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082134"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:58:00 +0900",
-                "title": "오산시 국민의힘 김효은 후보에 힘 실어준 한동훈 위원장…세 번째 방문",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1108577"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:53:00 +0900",
-                "title": "[총선] 세 번째 오산 찾은 한동훈 \"김효은 선택해 자긍심 되찾자\"",
-                "link": "https://n.news.naver.com/mnews/article/417/0000994438?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 14:00:00 +0900",
-                "title": "시민들에게 지지 호소하며 거리유세하는 김효은 국민의힘 오산시 후보 [포토오...",
-                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160066"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:08:00 +0900",
-                "title": "오산시 '차지호vs김효은' 대표 공약은? (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168541"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 13:49:00 +0900",
-                "title": "오산 민주 차지호 44.9%·국힘 김효은 42.3%…2.6%p차 초접전",
-                "link": "https://n.news.naver.com/mnews/article/421/0007455820?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 12:47:00 +0900",
-                "title": "수도권 격전지 오산, '초접전' 중…차지호 44.9% 對 김효은 42.3%",
-                "link": "https://n.news.naver.com/mnews/article/586/0000075828?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:06:00 +0900",
-                "title": "[경기 오산] 더불어민주당 차지호 44.9%, 국민의힘 김효은 42.3%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428686?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:04:00 +0900",
-                "title": "[경기 오산 여론조사] 차지호 44.9%·김효은 42.3% 지지율",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959904"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 06:02:00 +0900",
-                "title": "[4·10 격전지 여론조사] 오산시, 민주 차지호 44.9%·국힘 김효은 42.3%…초...",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=788143"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-                "title": "오산 경제 활성화, 차지호vs김효은 \"내가 적임자\" (B tv 수원뉴스)",
-                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168496"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:30:00 +0900",
-                "title": "[화보] 선거유세중 만난 차지호-김효은 오산 후보들",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240402000000238"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 07:38:00 +0900",
-                "title": "한동훈 국민의힘 비상대책위원장, 두 번째 오산 방문…김효은 후보 지원 유세",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1106664"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 17:10:00 +0900",
-                "title": "한동훈, 격전지 오산 방문 \"김효은 같은 정치인이 대한민국 발전시킬 것\"",
-                "link": "https://n.news.naver.com/mnews/article/417/0000992977?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 14:10:00 +0900",
-                "title": "오산 재방문한 한동훈, \"김효은 같은 정치인이 대한민국 발전시킬 것\"",
-                "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=28067"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 20:08:00 +0900",
-                "title": "[4.10총선 경기남부] 오산 두번 방문한 한동훈 위원장, 김효은 오산시 후보 집...",
-                "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558409"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:00:00 +0900",
-                "title": "'레이나' 김효은 \"오산 바뀔 때가 됐다…동료시민이 행복한 오산 만들 것\"",
-                "link": "https://n.news.naver.com/mnews/article/003/0012456298?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 6378721
-            }
-        ],
-        "huboid": "100152888",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412701-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412701-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-6.jpg"
-        ]
-    }
+  {
+    "id": "2412701-1",
+    "regionId": "2412701",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412701-1.jpg",
+    "기호": 1,
+    "이름": "차지호",
+    "생년월일": "19800718",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "카이스트 문술미래전략대학원 부교수",
+    "학력": "존스홉킨스대학교 대학원 국제보건 박사(2011.08.~2017.05.)",
+    "경력": "(현) 카이스트 문술미래전략대학원 부교수\n(전) 맨체스터대학교 인도주의학 및 평화학 부교수",
+    "재산": -64671,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 09:58:00 +0900",
+        "title": "민주당 차지호, 오산 중고생 위한 ‘카이스트 여름학기 프로그램’ 추진",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854815"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 11:28:00 +0900",
+        "title": "차지호 오산 후보측, 공직선거법 위반 선관위 경고 조치",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082147"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 03:57:00 +0900",
+        "title": "차지호 민주당 오산시 후보, 오산 중고생 위한 `카이스트 여름학기 프로그램`...",
+        "link": "https://n.news.naver.com/mnews/article/029/0002865843?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:08:00 +0900",
+        "title": "차지호 민주당 오산시 후보, (가칭)카이스트 여름학기 프로그램 등 추진 약속",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=560161"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:00:00 +0900",
+        "title": "차지호 민주당 후보 \"오산시 KAIST 여름캠프 추진\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002327107?sid=105"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:12:00 +0900",
+        "title": "[4·10 총선] 오산시 선관위 차지호 후보부인 경고 조치",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243424"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:58:00 +0900",
+        "title": "민주당 차지호 \"오산에 AI 클러스터 만들 것…서울대·KAIST도 찾게 하겠다\"",
+        "link": "https://n.news.naver.com/mnews/article/015/0004968765?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:08:00 +0900",
+        "title": "오산시 '차지호vs김효은' 대표 공약은? (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168541"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 13:49:00 +0900",
+        "title": "오산 민주 차지호 44.9%·국힘 김효은 42.3%…2.6%p차 초접전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007455820?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 12:47:00 +0900",
+        "title": "수도권 격전지 오산, '초접전' 중…차지호 44.9% 對 김효은 42.3%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075828?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:06:00 +0900",
+        "title": "[경기 오산] 더불어민주당 차지호 44.9%, 국민의힘 김효은 42.3%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428686?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:06:00 +0900",
+        "title": "차지호 \"오산-경기남부에 'AI 미래 벨트'구축하겠습니다\"",
+        "link": "https://n.news.naver.com/mnews/article/092/0002326744?sid=105"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:04:00 +0900",
+        "title": "[경기 오산 여론조사] 차지호 44.9%·김효은 42.3% 지지율",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959904"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 06:02:00 +0900",
+        "title": "[4·10 격전지 여론조사] 오산시, 민주 차지호 44.9%·국힘 김효은 42.3%…초...",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=788143"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+        "title": "오산 경제 활성화, 차지호vs김효은 \"내가 적임자\" (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168496"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:30:00 +0900",
+        "title": "[화보] 선거유세중 만난 차지호-김효은 오산 후보들",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240402000000238"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 21:32:00 +0900",
+        "title": "[유세장 직격 인터뷰] 한동훈·박해철·김학용·김현정·장석환·차지호·한길...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644502"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 07:17:00 +0900",
+        "title": "오산으로 간 '미래학자' 차지호 \"대한민국 골든타임, 이제 6년 남았다\"",
+        "link": "https://n.news.naver.com/mnews/article/008/0005019204?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 21:58:00 +0900",
+        "title": "[마이크를 빌려드립니다⑥] 더불어민주당 차지호 오산시 후보 편",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558415"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 17:02:00 +0900",
+        "title": "민주당 차지호, \"오산 시민 자부심 되겠다\"",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1850831"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -64671
+      }
+    ],
+    "huboid": "100152999",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412701-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412701-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-1-5.jpg"
+    ]
+  },
+  {
+    "id": "2412701-2",
+    "regionId": "2412701",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412701-2.jpg",
+    "기호": 2,
+    "이름": "김효은",
+    "생년월일": "19830916",
+    "정당": "국민의힘",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "고려대학교 대학원 영어교육학과 석사과정 수료",
+    "경력": "(현)국민의힘 한동훈 비상대책위원장 22대총선 국민인재\n(전) EBSi 영어강사",
+    "재산": 6378721,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 09:50:00 +0900",
+        "title": "김효은 \"사교육·공교육 강사이자 워킹맘…정책과 현장 잘 알아\" [동행인터뷰...",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+        "title": "오산 김효은 후보에 힘 실어준 한동훈 위원장, 세 번째 방문",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854570"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:22:00 +0900",
+        "title": "[총선] 한동훈 위원장 \"오산 김효은 대표로 내세운다면 자부심·자긍심 느낄 ...",
+        "link": "https://news.ifm.kr/news/articleView.html?idxno=385238"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 10:28:00 +0900",
+        "title": "한동훈 위원장, 오산 세 번째 방문 김효은 후보에 힘 실어주기",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082134"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:58:00 +0900",
+        "title": "오산시 국민의힘 김효은 후보에 힘 실어준 한동훈 위원장…세 번째 방문",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1108577"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:53:00 +0900",
+        "title": "[총선] 세 번째 오산 찾은 한동훈 \"김효은 선택해 자긍심 되찾자\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0000994438?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 14:00:00 +0900",
+        "title": "시민들에게 지지 호소하며 거리유세하는 김효은 국민의힘 오산시 후보 [포토오...",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160066"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:08:00 +0900",
+        "title": "오산시 '차지호vs김효은' 대표 공약은? (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168541"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 13:49:00 +0900",
+        "title": "오산 민주 차지호 44.9%·국힘 김효은 42.3%…2.6%p차 초접전",
+        "link": "https://n.news.naver.com/mnews/article/421/0007455820?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 12:47:00 +0900",
+        "title": "수도권 격전지 오산, '초접전' 중…차지호 44.9% 對 김효은 42.3%",
+        "link": "https://n.news.naver.com/mnews/article/586/0000075828?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:06:00 +0900",
+        "title": "[경기 오산] 더불어민주당 차지호 44.9%, 국민의힘 김효은 42.3%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428686?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:04:00 +0900",
+        "title": "[경기 오산 여론조사] 차지호 44.9%·김효은 42.3% 지지율",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959904"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 06:02:00 +0900",
+        "title": "[4·10 격전지 여론조사] 오산시, 민주 차지호 44.9%·국힘 김효은 42.3%…초...",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=788143"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
+        "title": "오산 경제 활성화, 차지호vs김효은 \"내가 적임자\" (B tv 수원뉴스)",
+        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=61&p_no=168496"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:30:00 +0900",
+        "title": "[화보] 선거유세중 만난 차지호-김효은 오산 후보들",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240402000000238"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 07:38:00 +0900",
+        "title": "한동훈 국민의힘 비상대책위원장, 두 번째 오산 방문…김효은 후보 지원 유세",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1106664"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 17:10:00 +0900",
+        "title": "한동훈, 격전지 오산 방문 \"김효은 같은 정치인이 대한민국 발전시킬 것\"",
+        "link": "https://n.news.naver.com/mnews/article/417/0000992977?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 14:10:00 +0900",
+        "title": "오산 재방문한 한동훈, \"김효은 같은 정치인이 대한민국 발전시킬 것\"",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=28067"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 20:08:00 +0900",
+        "title": "[4.10총선 경기남부] 오산 두번 방문한 한동훈 위원장, 김효은 오산시 후보 집...",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=558409"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:00:00 +0900",
+        "title": "'레이나' 김효은 \"오산 바뀔 때가 됐다…동료시민이 행복한 오산 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/003/0012456298?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 6378721
+      }
+    ],
+    "huboid": "100152888",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412701-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412701-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412701-2-6.jpg"
+    ]
+  }
 ]

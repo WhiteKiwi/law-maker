@@ -13,6 +13,86 @@
   "군필여부": true,
   "news": [
     {
+      "date": "Fri, 25 Mar 2016 15:52:00 +0900",
+      "title": "[제 20대 국회의원 선거 지역구 후보자 서울지역 명단]",
+      "link": "https://n.news.naver.com/mnews/article/469/0000134599?sid=100"
+    },
+    {
+      "date": "Fri, 25 Mar 2016 00:29:00 +0900",
+      "title": "<4·13 총선 후보자 등록> 서울(24일 마감)(종합2보)",
+      "link": "https://n.news.naver.com/mnews/article/001/0008280149?sid=100"
+    },
+    {
+      "date": "Fri, 25 Mar 2016 00:19:00 +0900",
+      "title": "<4·13 총선 후보자 등록> 서울(24일 마감)(종합)-2",
+      "link": "https://n.news.naver.com/mnews/article/001/0008280144?sid=100"
+    },
+    {
+      "date": "Thu, 04 Feb 2016 11:42:00 +0900",
+      "title": "4·13 총선 국회의원 출마 예상자 명단",
+      "link": "https://n.news.naver.com/mnews/article/021/0002265299?sid=100"
+    },
+    {
+      "date": "Wed, 03 Feb 2016 10:10:00 +0900",
+      "title": "[총선격전지-서울 양천 갑]예비후보 13명…서울 최고 혼전지",
+      "link": "https://n.news.naver.com/mnews/article/033/0000032273?sid=100"
+    },
+    {
+      "date": "Thu, 28 Jan 2016 21:28:00 +0900",
+      "title": "[20대 총선]서울 양천구 ‘갑’ 길정우, “섬기는 정치로 주민 모시겠다”",
+      "link": "http://www.nspna.com/news/?mode=view&newsid=157762"
+    },
+    {
+      "date": "Mon, 04 Jan 2016 00:42:00 +0900",
+      "title": "[신년기획-20대 국회의원 누구 뽑을까] 4·13 총선 출마 예상자 명단 (246개 ...",
+      "link": "https://n.news.naver.com/mnews/article/081/0002657721?sid=100"
+    },
+    {
+      "date": "Thu, 31 Dec 2015 12:21:00 +0900",
+      "title": "20대 국회의원 선거 출마 예상자",
+      "link": "http://www.naeil.com/news_view/?id_art=179471"
+    },
+    {
+      "date": "Wed, 30 Dec 2015 14:00:00 +0900",
+      "title": "<4·13 총선 출마예상자 명단> 서울",
+      "link": "https://n.news.naver.com/mnews/article/001/0008085076?sid=100"
+    },
+    {
+      "date": "Tue, 15 Dec 2015 19:49:00 +0900",
+      "title": "[예비후보] 서울 출마자 면면…잠룡·거물 즐비, 與 치열",
+      "link": "https://n.news.naver.com/mnews/article/421/0001788745?sid=100"
+    },
+    {
+      "date": "Thu, 05 Jun 2014 16:41:00 +0900",
+      "title": "[6·4지방선거]서울 기초단체장 당선인·후보자 득표율(최종)",
+      "link": "https://n.news.naver.com/mnews/article/003/0005890443?sid=102"
+    },
+    {
+      "date": "Thu, 05 Jun 2014 09:18:00 +0900",
+      "title": "[6·4지선-화제 당선자]서울 양천구청장 김수영...\"여보 해냈어요\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0000858964?sid=102"
+    },
+    {
+      "date": "Thu, 05 Jun 2014 01:34:00 +0900",
+      "title": "[6·4 지방선거] 서울 기초단체장 득표현황",
+      "link": "http://www.ajunews.com/view/20140605013209909"
+    },
+    {
+      "date": "Thu, 05 Jun 2014 01:02:00 +0900",
+      "title": "<기초단체장 득표현황> 서울(5일 오전 1시)",
+      "link": "https://n.news.naver.com/mnews/article/001/0006944594?sid=100"
+    },
+    {
+      "date": "Wed, 04 Jun 2014 23:48:00 +0900",
+      "title": "[6·4 지방선거] 양천구청장 개표 12%…김수영 vs 오경훈 접전",
+      "link": "http://www.ajunews.com/view/20140604234543991"
+    },
+    {
+      "date": "Wed, 04 Jun 2014 23:23:00 +0900",
+      "title": "[6·4지방선거]11시 현재 서울 기초단체장 득표현황",
+      "link": "http://www.newsway.co.kr/view.php?tp=1&ud=2014060423170176717"
+    },
+    {
       "date": "Wed, 04 Jun 2014 21:00:00 +0900",
       "title": "[6·4지방선거]서울 양천구청장 선거 개표 시작… 새정치 김수영 우세",
       "link": "http://www.newsway.co.kr/view.php?tp=1&ud=2014060420570399758"
@@ -31,11 +111,6 @@
       "date": "Thu, 22 May 2014 08:54:00 +0900",
       "title": "[선택6·4-서울 양천구]오경훈-김수영-설창일-염동옥",
       "link": "https://n.news.naver.com/mnews/article/003/0005859060?sid=102"
-    },
-    {
-      "date": "Sat, 17 May 2014 12:51:00 +0900",
-      "title": "[표][6·4지방선거]서울 구청장 후보자 명단(최종)",
-      "link": "https://n.news.naver.com/mnews/article/003/0005849942?sid=162"
     }
   ],
   "정당": "무소속",

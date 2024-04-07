@@ -1,421 +1,421 @@
 [
-    {
-        "id": "2111202-1",
-        "regionId": "2111202",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-1.jpg",
-        "기호": 1,
-        "이름": "김우영",
-        "생년월일": "19690805",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "한국과학기술원(KAIST) 미래전략대학원 프로그램 졸업(경영학석사)",
-        "경력": "(전)은평구청장\n(전)서울특별시정무부시장",
-        "재산": 431189,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 16:31:00 +0900",
-                "title": "[4·10 총선 Who] 은평을 김우영 더불어민주당 후보",
-                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519198&seq_800=20511979"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:06:00 +0900",
-                "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 15:34:00 +0900",
-                "title": "김우영 후보 \"무능한 정부 투표로 심판... 혁신 민주당 만들어 나갈 것\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428571?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:08:00 +0900",
-                "title": "은평구을 김우영 후보, 구파발역서 선거 출정식",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461363"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 18:58:00 +0900",
-                "title": "[나는 후보자다]은평구을 김우영ㆍ장성호ㆍ김종민 후보",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460816"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 14:28:00 +0900",
-                "title": "[헬로이슈토크]은평구을 김우영 후보를 만나다",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460515"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 13:56:00 +0900",
-                "title": "[고하승 칼럼] 野, 석연치 않은 공천 과정들…왜?",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283260118233"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 12:19:00 +0900",
-                "title": "민주당, '막말 파문'에도 총선 목표 '151석'…\"지역+비례로 1당\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002810918?sid=165"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 12:01:00 +0900",
-                "title": "‘중도층 이탈 리스크’ 커지는 與野",
-                "link": "https://n.news.naver.com/mnews/article/021/0002627266?sid=165"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 12:01:00 +0900",
-                "title": "‘윤한갈등·비명횡사’ 여도 야도 내홍… ‘표심’ 둘 곳 없는 중도층",
-                "link": "https://n.news.naver.com/mnews/article/021/0002627268?sid=165"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 11:46:00 +0900",
-                "title": "민주 공관위, 공천 심사 과정에서 '수상한 조짐' 의혹",
-                "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160275466422164"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 07:32:00 +0900",
-                "title": "한민수 \"양문석 盧 비판, 표현 과하나 공천 자격까진 아냐\" [한판승부]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003875209?sid=100"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 07:02:00 +0900",
-                "title": "서정욱 \"尹, 한동훈 공천 격노…장예찬 무소속 출마 尹의 뜻\" [한판승부]",
-                "link": "https://n.news.naver.com/mnews/article/079/0003875207?sid=100"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 06:03:00 +0900",
-                "title": "김부겸 “막말 후보 약한 고리 돼…공천 끝났으니 넘어가자는 건 안 돼”",
-                "link": "https://n.news.naver.com/mnews/article/028/0002681477?sid=165"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 00:00:00 +0900",
-                "title": "눈물 훔친 정봉주 \"과거 발언, 발목 잡는 건 제가 마지막이길”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003348168?sid=100"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 22:55:00 +0900",
-                "title": "‘공천 취소’ 정봉주 “과거 발언으로 발목 잡는 건 제가 마지막이길”",
-                "link": "https://n.news.naver.com/mnews/article/021/0002627126?sid=100"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 22:34:00 +0900",
-                "title": "서울 강북구 후보가 호남에 “날 뽑아달라” 진풍경…野 공천, 원내대표까지 ...",
-                "link": "https://www.ekn.kr/web/view.php?key=20240318023477250"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 20:30:00 +0900",
-                "title": "정봉주 \"과거 발언 발목잡기, 제가 마지막이었으면\"",
-                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1434965"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 20:13:00 +0900",
-                "title": "정봉주, '공천 취소' 수용…\"20년 만의 재도전 멈추려 한다\"",
-                "link": "https://n.news.naver.com/mnews/article/448/0000451889?sid=165"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 19:24:00 +0900",
-                "title": "눈물 흘린 정봉주, ‘공천취소’ 수용…“과거가 발목 잡는 건 제가 마지막이...",
-                "link": "https://n.news.naver.com/mnews/article/009/0005274241?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 431189
-            }
-        ],
-        "huboid": "100152264",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2111202-2",
-        "regionId": "2111202",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-2.jpg",
-        "기호": 2,
-        "이름": "장성호",
-        "생년월일": "19630811",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "학교법인 일곡학원 이사장",
-        "학력": "건국대학교 대학원 정치학과 비교정치전공(정치학박사)",
-        "경력": "(전)건국대학교 행정대학원장\n(현)학교법인 일곡학원 이사장",
-        "재산": 1746470,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 15:42:00 +0900",
-                "title": "장성호 후보, 제22대 총선 제4호 공약 발표.. \"노인장기요양보험제도의 현안 ...",
-                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1042103"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:06:00 +0900",
-                "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 14:44:00 +0900",
-                "title": "장성호 후보 \"도시 리모델링 필요한 은평, 교통문제 해결 시급\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428769?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 09:27:00 +0900",
-                "title": "[22대 총선] 장성호 국민의힘 은평을 국회의원 후보, '은평을, 서울 대표 교육...",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503380"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 17:24:00 +0900",
-                "title": "은평구을 국민의힘 장성호 후보 \"제22대 총선 출정식 성료\"",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461524"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:54:00 +0900",
-                "title": "[22대 총선] 장성호 국민의힘 은평을 후보, 총선 출정식 개최...본격 선거운동...",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503329"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:28:00 +0900",
-                "title": "[헬로이슈토크]장성호 후보 \"교육가치 바로 세워진 은평 만들 것\"",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461396"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:20:00 +0900",
-                "title": "국민의힘 은평 을 장성호 후보, 자문위원회 출범식 갖고 본격 선거운동 나서",
-                "link": "https://www.onews.tv/news/articleView.html?idxno=201876"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 08:35:00 +0900",
-                "title": "[22대 총선] 장성호 국민의힘 은평을 후보, 자문위원회 출범식 개최...본격 선...",
-                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503276"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 01:34:00 +0900",
-                "title": "국민의힘 은평(을) 장성호 후보, 300여명 구민과 자문위원회 출범식 갖고 본격...",
-                "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041676"
-            },
-            {
-                "date": "Tue, 26 Mar 2024 11:20:00 +0900",
-                "title": "남동갑 손범규, 한미옥･김송 탈북민위원회･장성호 장애인위원회 '캠프 공동...",
-                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417247"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 18:58:00 +0900",
-                "title": "[나는 후보자다]은평구을 김우영ㆍ장성호ㆍ김종민 후보",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=460816"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 17:00:00 +0900",
-                "title": "[4.10총선-41] 은평을 김우영vs장성호. 승패 윤곽 '3월 말경'",
-                "link": "http://www.mhj21.com/159841"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 10:46:00 +0900",
-                "title": "LG헬로비전, 은평구을 장성호 예비후보에 '우리동네 희망공약' 전달",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=458968"
-            },
-            {
-                "date": "Tue, 20 Feb 2024 09:26:00 +0900",
-                "title": "與 단수공천 13명 추가 발표, 김기현·이철규 등 경선",
-                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=304914"
-            },
-            {
-                "date": "Tue, 20 Feb 2024 07:39:00 +0900",
-                "title": "親尹 이철규도 경선…與 '단수 공천' 대상자는?",
-                "link": "https://n.news.naver.com/mnews/article/586/0000073106?sid=100"
-            },
-            {
-                "date": "Tue, 20 Feb 2024 05:03:00 +0900",
-                "title": "與, 최재형·윤희숙 등 13곳 추가 단수추천… 김기현·박맹우 ‘리턴 매치’ ...",
-                "link": "https://n.news.naver.com/mnews/article/081/0003431462?sid=100"
-            },
-            {
-                "date": "Mon, 19 Feb 2024 23:46:00 +0900",
-                "title": "국민의힘, 은평구갑 '3인 경선'·은평구을 '장성호' 공천",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=456282"
-            },
-            {
-                "date": "Mon, 19 Feb 2024 22:36:00 +0900",
-                "title": "''윤핵관' 이철규도 용핵관 '김은혜'도 경선…최재형 등 13명 단수공천",
-                "link": "http://www.newstomato.com/ReadNews.aspx?no=1220256&inflow=N"
-            },
-            {
-                "date": "Mon, 19 Feb 2024 21:46:00 +0900",
-                "title": "국민의힘, 6차공천… '최재형 윤희숙 등 단수 13명‧이철규 김은혜 김기현 등...",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=635690"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1746470
-            }
-        ],
-        "huboid": "100152814",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-9.jpg"
-        ]
-    },
-    {
-        "id": "2111202-5",
-        "regionId": "2111202",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-5.jpg",
-        "기호": 5,
-        "이름": "김종민",
-        "생년월일": "19701118",
-        "정당": "녹색정의당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서강대학교 생명과학과 졸업",
-        "경력": "(전)2018년 서울시장 후보\n(현)녹색정의당 중앙당 정책위의장",
-        "재산": 823597,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 06:00:00 +0900",
-                "title": "조국 돌풍 속 제3지대 의석수는?…자유통일 원내 입성, 김종민 변수",
-                "link": "https://n.news.naver.com/mnews/article/421/0007464220?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:06:00 +0900",
-                "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 12:28:00 +0900",
-                "title": "[세종 세종갑] 새로운미래 김종민 46%, 국민의힘 류제화 30%",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428734?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:59:00 +0900",
-                "title": "녹색정의당 김종민 \"녹색으로 정권심판, 노동으로 정권심판\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428698?sid=165"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:00:00 +0900",
-                "title": "김종민 \"녹색·노동·성평등으로 윤석열 정권 심판해야\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002428502?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 17:40:00 +0900",
-                "title": "[헬로이슈토크]김종민 은평구을 녹색정의당 국회의원 후보",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461527"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:21:00 +0900",
-                "title": "아동·청소년 공약 낸 녹색정의당…양육비 대지급·비양육자 양육비 이행 강제...",
-                "link": "https://n.news.naver.com/mnews/article/310/0000115514?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 12:16:00 +0900",
-                "title": "[포토] 녹색정의당, 총선장애인차별철폐연대와 정책협약 맺어",
-                "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33540"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 12:02:00 +0900",
-                "title": "새미래 \"민주·조국당과 다르다\"…'도덕성' 차별화 성공할까",
-                "link": "https://n.news.naver.com/mnews/article/421/0007445056?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 07:08:00 +0900",
-                "title": "[오늘의 정치일정] 3월 29일(금)",
-                "link": "https://www.newspim.com/news/view/20240329000024"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 05:00:00 +0900",
-                "title": "[오늘의 주요일정] 정치·정부(29일,금)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007444246?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:26:00 +0900",
-                "title": "4.10 총선 선거전 개막.. 전북 표심 공략 시동",
-                "link": "https://n.news.naver.com/mnews/article/659/0000020121?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 20:14:00 +0900",
-                "title": "군소정당 \"제3지대에도 눈길 달라\"",
-                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792101"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 18:24:00 +0900",
-                "title": "'각자도생' 군소정당도 선거운동 개시…\"제3지대에 눈길 달라\"(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:08:00 +0900",
-                "title": "[이슈체크] '심판' 경쟁...총선 공식 선거운동 개시, 국힘-민주당-제3지대 '형...",
-                "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=208751"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:48:00 +0900",
-                "title": "녹색정의당 김종민, \"녹색으로 노동으로 정권 심판\"",
-                "link": "http://news.lghellovision.net/news/articleView.html?idxno=461297"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:45:00 +0900",
-                "title": "국회 세종 이전을 위해 국민의힘이 먼저 답해야 할 것들",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287418?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 16:17:00 +0900",
-                "title": "한동훈발 국회 세종 이전 ‘받고 더블로’···“대통령실, 검찰청도” 판 키...",
-                "link": "https://n.news.naver.com/mnews/article/032/0003287403?sid=100"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 15:42:00 +0900",
-                "title": "녹색정의당·개혁신당·새로운미래·조국혁신당 등 제3지대 정당 선거운동 개...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241836"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 14:52:00 +0900",
-                "title": "제 3지대 정당 선거운동 개시…“윤석열 정권 심판, 거대 양당 구조 변화해야...",
-                "link": "https://www.ekn.kr/web/view.php?key=20240328023044520"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 823597
-            }
-        ],
-        "huboid": "100151515",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-5.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-5.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-7.jpg"
-        ]
-    }
+  {
+    "id": "2111202-1",
+    "regionId": "2111202",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-1.jpg",
+    "기호": 1,
+    "이름": "김우영",
+    "생년월일": "19690805",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "한국과학기술원(KAIST) 미래전략대학원 프로그램 졸업(경영학석사)",
+    "경력": "(전)은평구청장\n(전)서울특별시정무부시장",
+    "재산": 431189,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 16:31:00 +0900",
+        "title": "[4·10 총선 Who] 은평을 김우영 더불어민주당 후보",
+        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519198&seq_800=20511979"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:06:00 +0900",
+        "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 15:34:00 +0900",
+        "title": "김우영 후보 \"무능한 정부 투표로 심판... 혁신 민주당 만들어 나갈 것\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428571?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:08:00 +0900",
+        "title": "은평구을 김우영 후보, 구파발역서 선거 출정식",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461363"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 18:58:00 +0900",
+        "title": "[나는 후보자다]은평구을 김우영ㆍ장성호ㆍ김종민 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460816"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 14:28:00 +0900",
+        "title": "[헬로이슈토크]은평구을 김우영 후보를 만나다",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460515"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 13:56:00 +0900",
+        "title": "[고하승 칼럼] 野, 석연치 않은 공천 과정들…왜?",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283260118233"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 12:19:00 +0900",
+        "title": "민주당, '막말 파문'에도 총선 목표 '151석'…\"지역+비례로 1당\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002810918?sid=165"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 12:01:00 +0900",
+        "title": "‘중도층 이탈 리스크’ 커지는 與野",
+        "link": "https://n.news.naver.com/mnews/article/021/0002627266?sid=165"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 12:01:00 +0900",
+        "title": "‘윤한갈등·비명횡사’ 여도 야도 내홍… ‘표심’ 둘 곳 없는 중도층",
+        "link": "https://n.news.naver.com/mnews/article/021/0002627268?sid=165"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 11:46:00 +0900",
+        "title": "민주 공관위, 공천 심사 과정에서 '수상한 조짐' 의혹",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160275466422164"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 07:32:00 +0900",
+        "title": "한민수 \"양문석 盧 비판, 표현 과하나 공천 자격까진 아냐\" [한판승부]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003875209?sid=100"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 07:02:00 +0900",
+        "title": "서정욱 \"尹, 한동훈 공천 격노…장예찬 무소속 출마 尹의 뜻\" [한판승부]",
+        "link": "https://n.news.naver.com/mnews/article/079/0003875207?sid=100"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 06:03:00 +0900",
+        "title": "김부겸 “막말 후보 약한 고리 돼…공천 끝났으니 넘어가자는 건 안 돼”",
+        "link": "https://n.news.naver.com/mnews/article/028/0002681477?sid=165"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 00:00:00 +0900",
+        "title": "눈물 훔친 정봉주 \"과거 발언, 발목 잡는 건 제가 마지막이길”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003348168?sid=100"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 22:55:00 +0900",
+        "title": "‘공천 취소’ 정봉주 “과거 발언으로 발목 잡는 건 제가 마지막이길”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002627126?sid=100"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 22:34:00 +0900",
+        "title": "서울 강북구 후보가 호남에 “날 뽑아달라” 진풍경…野 공천, 원내대표까지 ...",
+        "link": "https://www.ekn.kr/web/view.php?key=20240318023477250"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 20:30:00 +0900",
+        "title": "정봉주 \"과거 발언 발목잡기, 제가 마지막이었으면\"",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1434965"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 20:13:00 +0900",
+        "title": "정봉주, '공천 취소' 수용…\"20년 만의 재도전 멈추려 한다\"",
+        "link": "https://n.news.naver.com/mnews/article/448/0000451889?sid=165"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 19:24:00 +0900",
+        "title": "눈물 흘린 정봉주, ‘공천취소’ 수용…“과거가 발목 잡는 건 제가 마지막이...",
+        "link": "https://n.news.naver.com/mnews/article/009/0005274241?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 431189
+      }
+    ],
+    "huboid": "100152264",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2111202-2",
+    "regionId": "2111202",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-2.jpg",
+    "기호": 2,
+    "이름": "장성호",
+    "생년월일": "19630811",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "학교법인 일곡학원 이사장",
+    "학력": "건국대학교 대학원 정치학과 비교정치전공(정치학박사)",
+    "경력": "(전)건국대학교 행정대학원장\n(현)학교법인 일곡학원 이사장",
+    "재산": 1746470,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 15:42:00 +0900",
+        "title": "장성호 후보, 제22대 총선 제4호 공약 발표.. \"노인장기요양보험제도의 현안 ...",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1042103"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:06:00 +0900",
+        "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 14:44:00 +0900",
+        "title": "장성호 후보 \"도시 리모델링 필요한 은평, 교통문제 해결 시급\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428769?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 09:27:00 +0900",
+        "title": "[22대 총선] 장성호 국민의힘 은평을 국회의원 후보, '은평을, 서울 대표 교육...",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503380"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 17:24:00 +0900",
+        "title": "은평구을 국민의힘 장성호 후보 \"제22대 총선 출정식 성료\"",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461524"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:54:00 +0900",
+        "title": "[22대 총선] 장성호 국민의힘 은평을 후보, 총선 출정식 개최...본격 선거운동...",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503329"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:28:00 +0900",
+        "title": "[헬로이슈토크]장성호 후보 \"교육가치 바로 세워진 은평 만들 것\"",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461396"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:20:00 +0900",
+        "title": "국민의힘 은평 을 장성호 후보, 자문위원회 출범식 갖고 본격 선거운동 나서",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=201876"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 08:35:00 +0900",
+        "title": "[22대 총선] 장성호 국민의힘 은평을 후보, 자문위원회 출범식 개최...본격 선...",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503276"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 01:34:00 +0900",
+        "title": "국민의힘 은평(을) 장성호 후보, 300여명 구민과 자문위원회 출범식 갖고 본격...",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1041676"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 11:20:00 +0900",
+        "title": "남동갑 손범규, 한미옥･김송 탈북민위원회･장성호 장애인위원회 '캠프 공동...",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417247"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 18:58:00 +0900",
+        "title": "[나는 후보자다]은평구을 김우영ㆍ장성호ㆍ김종민 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=460816"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 17:00:00 +0900",
+        "title": "[4.10총선-41] 은평을 김우영vs장성호. 승패 윤곽 '3월 말경'",
+        "link": "http://www.mhj21.com/159841"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 10:46:00 +0900",
+        "title": "LG헬로비전, 은평구을 장성호 예비후보에 '우리동네 희망공약' 전달",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=458968"
+      },
+      {
+        "date": "Tue, 20 Feb 2024 09:26:00 +0900",
+        "title": "與 단수공천 13명 추가 발표, 김기현·이철규 등 경선",
+        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=304914"
+      },
+      {
+        "date": "Tue, 20 Feb 2024 07:39:00 +0900",
+        "title": "親尹 이철규도 경선…與 '단수 공천' 대상자는?",
+        "link": "https://n.news.naver.com/mnews/article/586/0000073106?sid=100"
+      },
+      {
+        "date": "Tue, 20 Feb 2024 05:03:00 +0900",
+        "title": "與, 최재형·윤희숙 등 13곳 추가 단수추천… 김기현·박맹우 ‘리턴 매치’ ...",
+        "link": "https://n.news.naver.com/mnews/article/081/0003431462?sid=100"
+      },
+      {
+        "date": "Mon, 19 Feb 2024 23:46:00 +0900",
+        "title": "국민의힘, 은평구갑 '3인 경선'·은평구을 '장성호' 공천",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=456282"
+      },
+      {
+        "date": "Mon, 19 Feb 2024 22:36:00 +0900",
+        "title": "''윤핵관' 이철규도 용핵관 '김은혜'도 경선…최재형 등 13명 단수공천",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1220256&inflow=N"
+      },
+      {
+        "date": "Mon, 19 Feb 2024 21:46:00 +0900",
+        "title": "국민의힘, 6차공천… '최재형 윤희숙 등 단수 13명‧이철규 김은혜 김기현 등...",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=635690"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1746470
+      }
+    ],
+    "huboid": "100152814",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-2-9.jpg"
+    ]
+  },
+  {
+    "id": "2111202-5",
+    "regionId": "2111202",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111202-5.jpg",
+    "기호": 5,
+    "이름": "김종민",
+    "생년월일": "19701118",
+    "정당": "녹색정의당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서강대학교 생명과학과 졸업",
+    "경력": "(전)2018년 서울시장 후보\n(현)녹색정의당 중앙당 정책위의장",
+    "재산": 823597,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 06:00:00 +0900",
+        "title": "조국 돌풍 속 제3지대 의석수는?…자유통일 원내 입성, 김종민 변수",
+        "link": "https://n.news.naver.com/mnews/article/421/0007464220?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:06:00 +0900",
+        "title": "은평구을 선거구 김우영·장성호·김종민 3자 토론",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=462144"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 12:28:00 +0900",
+        "title": "[세종 세종갑] 새로운미래 김종민 46%, 국민의힘 류제화 30%",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428734?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:59:00 +0900",
+        "title": "녹색정의당 김종민 \"녹색으로 정권심판, 노동으로 정권심판\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428698?sid=165"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:00:00 +0900",
+        "title": "김종민 \"녹색·노동·성평등으로 윤석열 정권 심판해야\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002428502?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 17:40:00 +0900",
+        "title": "[헬로이슈토크]김종민 은평구을 녹색정의당 국회의원 후보",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461527"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:21:00 +0900",
+        "title": "아동·청소년 공약 낸 녹색정의당…양육비 대지급·비양육자 양육비 이행 강제...",
+        "link": "https://n.news.naver.com/mnews/article/310/0000115514?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 12:16:00 +0900",
+        "title": "[포토] 녹색정의당, 총선장애인차별철폐연대와 정책협약 맺어",
+        "link": "http://www.laborplus.co.kr/news/articleView.html?idxno=33540"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 12:02:00 +0900",
+        "title": "새미래 \"민주·조국당과 다르다\"…'도덕성' 차별화 성공할까",
+        "link": "https://n.news.naver.com/mnews/article/421/0007445056?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 07:08:00 +0900",
+        "title": "[오늘의 정치일정] 3월 29일(금)",
+        "link": "https://www.newspim.com/news/view/20240329000024"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 05:00:00 +0900",
+        "title": "[오늘의 주요일정] 정치·정부(29일,금)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007444246?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:26:00 +0900",
+        "title": "4.10 총선 선거전 개막.. 전북 표심 공략 시동",
+        "link": "https://n.news.naver.com/mnews/article/659/0000020121?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 20:14:00 +0900",
+        "title": "군소정당 \"제3지대에도 눈길 달라\"",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792101"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 18:24:00 +0900",
+        "title": "'각자도생' 군소정당도 선거운동 개시…\"제3지대에 눈길 달라\"(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:08:00 +0900",
+        "title": "[이슈체크] '심판' 경쟁...총선 공식 선거운동 개시, 국힘-민주당-제3지대 '형...",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=208751"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:48:00 +0900",
+        "title": "녹색정의당 김종민, \"녹색으로 노동으로 정권 심판\"",
+        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461297"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:45:00 +0900",
+        "title": "국회 세종 이전을 위해 국민의힘이 먼저 답해야 할 것들",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287418?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 16:17:00 +0900",
+        "title": "한동훈발 국회 세종 이전 ‘받고 더블로’···“대통령실, 검찰청도” 판 키...",
+        "link": "https://n.news.naver.com/mnews/article/032/0003287403?sid=100"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 15:42:00 +0900",
+        "title": "녹색정의당·개혁신당·새로운미래·조국혁신당 등 제3지대 정당 선거운동 개...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1241836"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 14:52:00 +0900",
+        "title": "제 3지대 정당 선거운동 개시…“윤석열 정권 심판, 거대 양당 구조 변화해야...",
+        "link": "https://www.ekn.kr/web/view.php?key=20240328023044520"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 823597
+      }
+    ],
+    "huboid": "100151515",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111202-5.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111202-5.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111202-5-7.jpg"
+    ]
+  }
 ]

@@ -1,276 +1,276 @@
 [
-    {
-        "id": "2290302-1",
-        "regionId": "2290302",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290302-1.jpg",
-        "기호": 1,
-        "이름": "정진욱",
-        "생년월일": "19641020",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "서울대학교 정치학과 졸업",
-        "경력": "(전)한국경제신문 기자\n(현)더불어민주당 당대표 정무특보",
-        "재산": 1827244,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 17:52:00 +0900",
-                "title": "[2024 총선]정진욱 \"고싸움놀이를 청소년 공동체문화 체험 관광자원으로 개발...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765991"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 20:00:00 +0900",
-                "title": "정진욱 후보, 사전 투표 마쳐... 광주지역 사전 투표율 전국 세번째(38%) 높아",
-                "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182475"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:18:00 +0900",
-                "title": "정진욱 후보 “5일 오전 배우자와 사전투표 마쳐”",
-                "link": "https://www.viva100.com/main/view.php?key=20240405010002013"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:00:00 +0900",
-                "title": "정진욱 “스마트경로당 시스템 구축”",
-                "link": "http://www.kjdaily.com/article.php?aid=1712230162626644245"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 12:28:00 +0900",
-                "title": "정진욱 광주 동남갑 후보 \"남구 관내 경로당에 '스마트경로당 시스템' 구축\" ...",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668340"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:30:00 +0900",
-                "title": "'동남갑' 정진욱 \"관내 경로당, IoT의료기기 설치할 것\"",
-                "link": "http://www.mdilbo.com/detail/RHfGUG/717034"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:20:00 +0900",
-                "title": "정진욱 후보 “남구 관내 경로당에 ‘스마트경로당 시스템’ 구축” 약속",
-                "link": "https://www.viva100.com/main/view.php?key=20240404010001459"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 21:04:00 +0900",
-                "title": "정진욱 “남구, 도시형 웰니스 산업 중심으로”",
-                "link": "http://www.kjdaily.com/article.php?aid=1711971689626278245"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 13:02:00 +0900",
-                "title": "정진욱 광주 동남갑 후보, 메디컬·웰니스 융복합벨트 특구 추진",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667761"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:10:00 +0900",
-                "title": "하이파이브하는 광주 동남갑 정진욱 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014600560?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:08:00 +0900",
-                "title": "광주 동남갑 정진욱·강현구 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014600537?sid=165"
-            },
-            {
-                "date": "Sat, 30 Mar 2024 18:20:00 +0900",
-                "title": "정진욱 광주 동남갑 후보 “국립민속박물관 호남관, 광주 대촌·나주시 경계지...",
-                "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182325"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:36:00 +0900",
-                "title": "정진욱 광주 동남갑 후보, 국립민속박물관 호남관 남구 유치 추진",
-                "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667474"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:28:00 +0900",
-                "title": "정진욱 후보 “‘국립민속박물관 호남관’ 남구 유치”추진 약속",
-                "link": "https://www.viva100.com/main/view.php?key=20240329010010093"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:20:00 +0900",
-                "title": "정진욱 광주동남갑 후보, \"4월 10일은 심판의 날\"... 민생캠프 출정식",
-                "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182298"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 10:02:00 +0900",
-                "title": "정진욱 후보 28일 \"'민생 민생 캠프' 시민출정식\" 개최",
-                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325448"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 21:22:00 +0900",
-                "title": "[총선 브리핑] 정진욱 “호남 정치 복원에 힘 쏟겠다”",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1711628400766324358"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 19:06:00 +0900",
-                "title": "정진욱 후보 ‘민생 민생 캠프’ 시민 출정식",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1711620300766296004"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 17:22:00 +0900",
-                "title": "[2024 총선]정진욱 '민생 민생 캠프' 시민출정식",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=764820"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 10:44:00 +0900",
-                "title": "[총선 D-13] 더불어민주당 광주시당, 공동·후보별 공약 발표",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024919"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1827244
-            }
-        ],
-        "huboid": "100151143",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290302-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290302-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2290302-2",
-        "regionId": "2290302",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290302-2.jpg",
-        "기호": 2,
-        "이름": "강현구",
-        "생년월일": "19551212",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "건축사",
-        "학력": "조선대학교 산업대학원 산업공학과(건축전공) 졸업(공학석사)",
-        "경력": "(전) 대한건축사협회 광주광역시 건축사회 회장\n(현) 민주평화통일자문회의 운영위원 광주부의장",
-        "재산": 318088,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 14:22:00 +0900",
-                "title": "[4.10총선-216] 광주 동남구갑, 정진욱vs강현구. 양당 지지율 '60% : 5%'",
-                "link": "http://www.mhj21.com/160302"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 10:05:00 +0900",
-                "title": "<총선브리핑> 강현구 이낙연 이석형",
-                "link": "https://kjmbc.co.kr/article/ixY2pve9qySqbOeT5xoBE"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:11:00 +0900",
-                "title": "유세하는 광주 동남갑 강현구 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014600561?sid=100"
-            },
-            {
-                "date": "Sun, 31 Mar 2024 14:08:00 +0900",
-                "title": "광주 동남갑 정진욱·강현구 후보",
-                "link": "https://n.news.naver.com/mnews/article/001/0014600537?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 16:42:00 +0900",
-                "title": "[서울총회 1신] 강현구 회장, “임기 2년차, 가시적인 성과 내는 한해로”",
-                "link": "http://www.dentalnews.or.kr/news/article.html?no=40416"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 17:40:00 +0900",
-                "title": "[무등 M-브리핑] MZ 핫플 '동명동' 로컬브랜드로 탈바꿈",
-                "link": "http://www.mdilbo.com/detail/MeMRWB/715719"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 17:33:00 +0900",
-                "title": "국민의힘 광주 예비후보 6명 \"비례대표 공천 시정해야\"",
-                "link": "https://n.news.naver.com/mnews/article/001/0014577167?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 17:08:00 +0900",
-                "title": "국민의힘 광주 후보들, 공약 발표 “광주 미래 바꾼다”",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1710921900765910358"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 16:23:00 +0900",
-                "title": "제22대 총선 광주 대진표 완성…'민주' vs '反민주' 구도",
-                "link": "https://n.news.naver.com/mnews/article/079/0003876095?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 16:04:00 +0900",
-                "title": "국민의힘 광주 후보들, \"호남 배려없는 비례\" 규탄",
-                "link": "https://kjmbc.co.kr/article/ErYTxE9g5FTJZy2ASwh"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 15:54:00 +0900",
-                "title": "[22대 총선 대진표] ⑦호남…민주당 아성 현역 대폭 물갈이",
-                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468931"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 14:58:00 +0900",
-                "title": "국민의힘 광주 총선 후보들 \"비례 공천 전면 무효화하라\"",
-                "link": "http://www.mdilbo.com/detail/RHfGUG/715684"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 13:41:00 +0900",
-                "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
-                "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 03:18:00 +0900",
-                "title": "총선 3주 앞으로…광주 지역 선거구 여야 본선 대진표 확정",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=763229"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 13:38:00 +0900",
-                "title": "총선 3주 앞…광주·전남 여야 본선 대진표 확정",
-                "link": "https://n.news.naver.com/mnews/article/081/0003437876?sid=102"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 11:31:00 +0900",
-                "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
-                "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
-            },
-            {
-                "date": "Mon, 18 Mar 2024 05:22:00 +0900",
-                "title": "‘금배지’ 도전하는 건축계 인사 누구 있나",
-                "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403131431228740068"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 21:40:00 +0900",
-                "title": "[총선 D-26] '광주 찾은' 한동훈 비대위원장 \"5・18 헌법 전문 수록 찬성\"",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1021366"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 18:07:00 +0900",
-                "title": "광주 간 한동훈 \"민주당이 뭘 했나…호남이 견제해야\"",
-                "link": "https://n.news.naver.com/mnews/article/031/0000820742?sid=100"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 18:06:00 +0900",
-                "title": "한동훈, “정말 호남에서 당선되고 싶다”광주·순천서 지지 호소",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1710493500765710358"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 318088
-            }
-        ],
-        "huboid": "100152545",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290302-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290302-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-3.jpg"
-        ]
-    }
+  {
+    "id": "2290302-1",
+    "regionId": "2290302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290302-1.jpg",
+    "기호": 1,
+    "이름": "정진욱",
+    "생년월일": "19641020",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전)한국경제신문 기자\n(현)더불어민주당 당대표 정무특보",
+    "재산": 1827244,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 17:52:00 +0900",
+        "title": "[2024 총선]정진욱 \"고싸움놀이를 청소년 공동체문화 체험 관광자원으로 개발...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765991"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 20:00:00 +0900",
+        "title": "정진욱 후보, 사전 투표 마쳐... 광주지역 사전 투표율 전국 세번째(38%) 높아",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182475"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:18:00 +0900",
+        "title": "정진욱 후보 “5일 오전 배우자와 사전투표 마쳐”",
+        "link": "https://www.viva100.com/main/view.php?key=20240405010002013"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:00:00 +0900",
+        "title": "정진욱 “스마트경로당 시스템 구축”",
+        "link": "http://www.kjdaily.com/article.php?aid=1712230162626644245"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 12:28:00 +0900",
+        "title": "정진욱 광주 동남갑 후보 \"남구 관내 경로당에 '스마트경로당 시스템' 구축\" ...",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=668340"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:30:00 +0900",
+        "title": "'동남갑' 정진욱 \"관내 경로당, IoT의료기기 설치할 것\"",
+        "link": "http://www.mdilbo.com/detail/RHfGUG/717034"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:20:00 +0900",
+        "title": "정진욱 후보 “남구 관내 경로당에 ‘스마트경로당 시스템’ 구축” 약속",
+        "link": "https://www.viva100.com/main/view.php?key=20240404010001459"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 21:04:00 +0900",
+        "title": "정진욱 “남구, 도시형 웰니스 산업 중심으로”",
+        "link": "http://www.kjdaily.com/article.php?aid=1711971689626278245"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:02:00 +0900",
+        "title": "정진욱 광주 동남갑 후보, 메디컬·웰니스 융복합벨트 특구 추진",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667761"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:10:00 +0900",
+        "title": "하이파이브하는 광주 동남갑 정진욱 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600560?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:08:00 +0900",
+        "title": "광주 동남갑 정진욱·강현구 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600537?sid=165"
+      },
+      {
+        "date": "Sat, 30 Mar 2024 18:20:00 +0900",
+        "title": "정진욱 광주 동남갑 후보 “국립민속박물관 호남관, 광주 대촌·나주시 경계지...",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182325"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:36:00 +0900",
+        "title": "정진욱 광주 동남갑 후보, 국립민속박물관 호남관 남구 유치 추진",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=667474"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:28:00 +0900",
+        "title": "정진욱 후보 “‘국립민속박물관 호남관’ 남구 유치”추진 약속",
+        "link": "https://www.viva100.com/main/view.php?key=20240329010010093"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:20:00 +0900",
+        "title": "정진욱 광주동남갑 후보, \"4월 10일은 심판의 날\"... 민생캠프 출정식",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=182298"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 10:02:00 +0900",
+        "title": "정진욱 후보 28일 \"'민생 민생 캠프' 시민출정식\" 개최",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=325448"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 21:22:00 +0900",
+        "title": "[총선 브리핑] 정진욱 “호남 정치 복원에 힘 쏟겠다”",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1711628400766324358"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 19:06:00 +0900",
+        "title": "정진욱 후보 ‘민생 민생 캠프’ 시민 출정식",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1711620300766296004"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 17:22:00 +0900",
+        "title": "[2024 총선]정진욱 '민생 민생 캠프' 시민출정식",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=764820"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 10:44:00 +0900",
+        "title": "[총선 D-13] 더불어민주당 광주시당, 공동·후보별 공약 발표",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024919"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1827244
+      }
+    ],
+    "huboid": "100151143",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290302-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290302-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2290302-2",
+    "regionId": "2290302",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290302-2.jpg",
+    "기호": 2,
+    "이름": "강현구",
+    "생년월일": "19551212",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "건축사",
+    "학력": "조선대학교 산업대학원 산업공학과(건축전공) 졸업(공학석사)",
+    "경력": "(전) 대한건축사협회 광주광역시 건축사회 회장\n(현) 민주평화통일자문회의 운영위원 광주부의장",
+    "재산": 318088,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 14:22:00 +0900",
+        "title": "[4.10총선-216] 광주 동남구갑, 정진욱vs강현구. 양당 지지율 '60% : 5%'",
+        "link": "http://www.mhj21.com/160302"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 10:05:00 +0900",
+        "title": "<총선브리핑> 강현구 이낙연 이석형",
+        "link": "https://kjmbc.co.kr/article/ixY2pve9qySqbOeT5xoBE"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:11:00 +0900",
+        "title": "유세하는 광주 동남갑 강현구 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600561?sid=100"
+      },
+      {
+        "date": "Sun, 31 Mar 2024 14:08:00 +0900",
+        "title": "광주 동남갑 정진욱·강현구 후보",
+        "link": "https://n.news.naver.com/mnews/article/001/0014600537?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 16:42:00 +0900",
+        "title": "[서울총회 1신] 강현구 회장, “임기 2년차, 가시적인 성과 내는 한해로”",
+        "link": "http://www.dentalnews.or.kr/news/article.html?no=40416"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 17:40:00 +0900",
+        "title": "[무등 M-브리핑] MZ 핫플 '동명동' 로컬브랜드로 탈바꿈",
+        "link": "http://www.mdilbo.com/detail/MeMRWB/715719"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 17:33:00 +0900",
+        "title": "국민의힘 광주 예비후보 6명 \"비례대표 공천 시정해야\"",
+        "link": "https://n.news.naver.com/mnews/article/001/0014577167?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 17:08:00 +0900",
+        "title": "국민의힘 광주 후보들, 공약 발표 “광주 미래 바꾼다”",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1710921900765910358"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 16:23:00 +0900",
+        "title": "제22대 총선 광주 대진표 완성…'민주' vs '反민주' 구도",
+        "link": "https://n.news.naver.com/mnews/article/079/0003876095?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 16:04:00 +0900",
+        "title": "국민의힘 광주 후보들, \"호남 배려없는 비례\" 규탄",
+        "link": "https://kjmbc.co.kr/article/ErYTxE9g5FTJZy2ASwh"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 15:54:00 +0900",
+        "title": "[22대 총선 대진표] ⑦호남…민주당 아성 현역 대폭 물갈이",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468931"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 14:58:00 +0900",
+        "title": "국민의힘 광주 총선 후보들 \"비례 공천 전면 무효화하라\"",
+        "link": "http://www.mdilbo.com/detail/RHfGUG/715684"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 13:41:00 +0900",
+        "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
+        "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 03:18:00 +0900",
+        "title": "총선 3주 앞으로…광주 지역 선거구 여야 본선 대진표 확정",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=763229"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 13:38:00 +0900",
+        "title": "총선 3주 앞…광주·전남 여야 본선 대진표 확정",
+        "link": "https://n.news.naver.com/mnews/article/081/0003437876?sid=102"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 11:31:00 +0900",
+        "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
+        "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
+      },
+      {
+        "date": "Mon, 18 Mar 2024 05:22:00 +0900",
+        "title": "‘금배지’ 도전하는 건축계 인사 누구 있나",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403131431228740068"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 21:40:00 +0900",
+        "title": "[총선 D-26] '광주 찾은' 한동훈 비대위원장 \"5・18 헌법 전문 수록 찬성\"",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1021366"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 18:07:00 +0900",
+        "title": "광주 간 한동훈 \"민주당이 뭘 했나…호남이 견제해야\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0000820742?sid=100"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 18:06:00 +0900",
+        "title": "한동훈, “정말 호남에서 당선되고 싶다”광주·순천서 지지 호소",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1710493500765710358"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 318088
+      }
+    ],
+    "huboid": "100152545",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290302-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290302-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290302-2-3.jpg"
+    ]
+  }
 ]
