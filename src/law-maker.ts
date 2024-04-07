@@ -53,6 +53,8 @@ export type LawMaker = {
     총공약수: number;
     공약이행수: number;
   } | null;
+  공약이행률등수: number | null;
+  공약이행수등수: number | null;
 };
 
 /**
@@ -127,4 +129,6 @@ export const LawMaker: z.Schema<LawMaker> = z.object({
     }),
     z.literal(null),
   ]),
+  공약이행률등수: z.union([z.number(), z.literal(null)]),
+  공약이행수등수: z.union([z.number(), z.literal(null)]),
 });

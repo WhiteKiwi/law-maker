@@ -106,6 +106,8 @@ export const LawMakerCadidate: z.Schema<LawMakerCadidate> = z.object({
         }),
         z.literal(null),
       ]),
+      공약이행률등수: z.union([z.number(), z.literal(null)]),
+      공약이행수등수: z.union([z.number(), z.literal(null)]),
     })
     .optional(),
   regionId: z.string(),

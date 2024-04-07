@@ -62,6 +62,8 @@ exports.LawMakerCadidate = zod_1.z.object({
             }),
             zod_1.z.literal(null),
         ]),
+        공약이행률등수: zod_1.z.union([zod_1.z.number(), zod_1.z.literal(null)]),
+        공약이행수등수: zod_1.z.union([zod_1.z.number(), zod_1.z.literal(null)]),
     })
         .optional(),
     regionId: zod_1.z.string(),

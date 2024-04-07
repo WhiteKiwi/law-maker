@@ -18,5 +18,10 @@
   },
   "devDependencies": {
     "typescript": "^5.4.3"
+  },
+  "codegen": {
+    "active": [
+      "zod"
+    ]
   }
 }

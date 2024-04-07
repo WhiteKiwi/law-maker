@@ -14,7 +14,10 @@ async function main() {
         const candidates = await (0, fs_extra_1.readJSON)(filePath);
         for (const candidate of candidates) {
             candidate.공보ImgUrls = images
-                .filter((image) => image.startsWith(candidate.id))
+                .filter((image) => {
+                const regex = new RegExp(candidate.id + "-\\d*.jpg");
+                return regex.test(image) || image === `${candidate.id}.jpg`;
+            })
                 .map((image) => `https://s3.whitekiwi.link/vote-for.kr/공보/images/${image}`);
         }
         (0, fs_extra_1.writeJsonSync)(filePath, candidates, { spaces: 2 });

@@ -31,7 +31,6 @@ export const RegionsJson: z.Schema<RegionsJson> = z.array(
     ),
   })
 );
-
 export type 시도Region = {
   id: string;
   name: string;
