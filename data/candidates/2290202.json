@@ -1,327 +1,676 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-1.jpg",
-        "id": "2290202-1",
-        "재산": 8385006,
-        "생년월일": "19610323",
-        "경력": "(전)광주지방검찰청 검사장\n(현)더불어민주당 법률위원회 공동위원장",
-        "학력": "전남대학교 법과대학 법학과 졸업",
-        "직업": "변호사",
-        "성별": "남",
-        "regionId": "2290202",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 19:01:00 +0900",
-                "title": "사전투표 첫 날, 양부남은 오늘도 \"정권 심판\" 연일 유세 강행에도 정책선거 ...",
-                "link": "https://n.news.naver.com/mnews/article/011/0004324202?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:20:00 +0900",
-                "title": "[선택4·10] 양부남 후보, 광주광역시간호사회와 정책협약 가져",
-                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071021"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:03:00 +0900",
-                "title": "양부남 '간호 사각지대 해소' 광주간호사회와 머리 맞대",
-                "link": "https://n.news.naver.com/mnews/article/277/0005402397?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:50:00 +0900",
-                "title": "참여연대 \"양문석·공영운·양부남·장진영, 부동산 의혹 국회 입성 부적절\"",
-                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642168"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:07:00 +0900",
-                "title": "참여연대 “양문석·공영운·양부남·장진영, 국회입성 부적절”",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630690?sid=165"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "양부남",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 8385006
-            }
-        ],
-        "huboid": "100151615",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-1.pdf"
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-1.jpg",
+    "id": "2290202-1",
+    "재산": 8385006,
+    "생년월일": "19610323",
+    "경력": "(전)광주지방검찰청 검사장\n(현)더불어민주당 법률위원회 공동위원장",
+    "학력": "전남대학교 법과대학 법학과 졸업",
+    "직업": "변호사",
+    "성별": "남",
+    "regionId": "2290202",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 19:01:00 +0900",
+        "title": "사전투표 첫 날, 양부남은 오늘도 \"정권 심판\" 연일 유세 강행에도 정책선거 ...",
+        "link": "https://n.news.naver.com/mnews/article/011/0004324202?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:20:00 +0900",
+        "title": "[선택4·10] 양부남 후보, 광주광역시간호사회와 정책협약 가져",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071021"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:03:00 +0900",
+        "title": "양부남 '간호 사각지대 해소' 광주간호사회와 머리 맞대",
+        "link": "https://n.news.naver.com/mnews/article/277/0005402397?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:50:00 +0900",
+        "title": "참여연대 \"양문석·공영운·양부남·장진영, 부동산 의혹 국회 입성 부적절\"",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642168"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:07:00 +0900",
+        "title": "참여연대 “양문석·공영운·양부남·장진영, 국회입성 부적절”",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630690?sid=165"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "양부남",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 8385006
+      }
+    ],
+    "huboid": "100151615",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-1-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-2.jpg",
+    "id": "2290202-2",
+    "재산": 1011892,
+    "생년월일": "19631003",
+    "경력": "(전)대우자동차 세계경영기획단장\n(현)북촌학당 학장",
+    "학력": "서울대학교 서양사학과 졸업",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2290202",
+    "기호": 2,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 19:06:00 +0900",
+        "title": "대한물리치료사협회, 더불어민주연합 비례대표 김윤 후보와 정책협약 外",
+        "link": "http://www.newsmp.com/news/articleView.html?idxno=240227"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:38:00 +0900",
+        "title": "의사 후보 재산보니, 안철수 1401억·김윤 33억·최대집 -2억원",
+        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154158"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:22:00 +0900",
+        "title": "국민의힘 김윤(광주서구을) 후보,금호2동 서구문화센터에서 사전투표",
+        "link": "https://www.wikitree.co.kr/articles/940944"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 06:02:00 +0900",
+        "title": "의료계와 '악연' 김윤 후보, 정치권 도전에서도 이어져",
+        "link": "http://www.medicopharma.co.kr/news/articleView.html?idxno=61982"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:22:00 +0900",
+        "title": "더불어민주연합 김윤·전종덕 비례대표 후보, 간호협회와 정책협약",
+        "link": "http://www.bokuennews.com/news/article.html?no=242382"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김윤",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1011892
+      }
+    ],
+    "huboid": "100152945",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-2-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-5.jpg",
+    "id": "2290202-5",
+    "재산": 248151,
+    "생년월일": "19700906",
+    "경력": "(현)제21대 국회의원(녹색정의당)\n(현)광주전남김대중재단 서구지회 추진위원장",
+    "학력": "전남대학교 해양학과 졸업",
+    "직업": "국회의원(비례대표)",
+    "성별": "여",
+    "id_21th": "1187",
+    "regionId": "2290202",
+    "기호": 5,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 16:41:00 +0900",
+        "title": "강은미, 고령화 사회 대비 간호·돌봄 체계 변화에 구슬땀",
+        "link": "https://n.news.naver.com/mnews/article/277/0005402392?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:04:00 +0900",
+        "title": "강은미 녹색정의당 광주 서구을 후보 사전 투표",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461678?sid=102"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:30:00 +0900",
+        "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
+        "link": "http://www.mhj21.com/160305"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:16:00 +0900",
+        "title": "강은미 후보, 기후와 생태를 살리는 녹색교통으로 전환 시급",
+        "link": "http://www.mdilbo.com/detail/RHfGUG/717088"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 14:50:00 +0900",
+        "title": "강은미 \"기후ㆍ생태 살리는 녹색교통으로 전환 시급\"",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=642099"
+      }
+    ],
+    "정당": "녹색정의당",
+    "이름": "강은미",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 213288
+      },
+      {
+        "연도": 2021,
+        "재산": 239088
+      },
+      {
+        "연도": 2022,
+        "재산": 259183
+      },
+      {
+        "연도": 2023,
+        "재산": 248151
+      }
+    ],
+    "huboid": "100152089",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-5.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-5.pdf",
+    "21th": {
+      "연락처": "의원회관 514호 | 전화 02-784-4162 | 팩스 02-6788-6040",
+      "당선횟수": 1,
+      "본회의_출석률": 96.41,
+      "소속위원회": "보건복지위원회\n연금개혁특별위원회\n대법원장조희대임명동의에관한인사청문특별위원회",
+      "id": "1187",
+      "주요경력": "전남대학교 해양학과 졸업",
+      "본회의_출석률_등수": 71,
+      "재산등수": 239,
+      "상임위원회_출석률": [
+        {
+          "위원회": "대법원장(조희대) 임명동의에 관한 인사청문특별위원회",
+          "출석률": 100,
+          "등수": 1,
+          "총원": 13
+        },
+        {
+          "위원회": "보건복지위원회",
+          "출석률": 95.65,
+          "등수": 15,
+          "총원": 24
+        },
+        {
+          "위원회": "연금개혁특별위원회",
+          "출석률": 90,
+          "등수": 5,
+          "총원": 15
+        }
+      ],
+      "이름": "강은미",
+      "정당": "녹색정의당",
+      "위원회별_발의법안": [
+        {
+          "발의수": 46,
+          "위원회": "환경노동위원회"
+        },
+        {
+          "발의수": 21,
+          "위원회": "보건복지위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "법제사법위원회"
+        },
+        {
+          "발의수": 4,
+          "위원회": "농림축산식품해양수산위원회"
+        },
+        {
+          "발의수": 4,
+          "위원회": "교육위원회"
+        },
+        {
+          "발의수": 3,
+          "위원회": "행정안전위원회"
+        },
+        {
+          "발의수": 3,
+          "위원회": "정무위원회"
+        },
+        {
+          "발의수": 2,
+          "위원회": "산업통상자원중소벤처기업위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "기획재정위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "국회운영위원회"
+        }
+      ],
+      "대표발의법안_등수": 89,
+      "연도별_재산": [
+        {
+          "연도": 2020,
+          "재산": 213288
+        },
+        {
+          "연도": 2021,
+          "재산": 239088
+        },
+        {
+          "연도": 2022,
+          "재산": 259183
+        }
+      ],
+      "대표발의법안": 90,
+      "주요법안표결": [
+        {
+          "별칭": "전세사기피해자 지원 특별법",
+          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2122268,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "임대차 보호법",
+          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+          "의안번호": 2102500,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "간호법",
+          "의안명": "간호법안(대안)",
+          "의안번호": 2120877,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "중대재해법",
+          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+          "의안번호": 2107249,
+          "찬반여부": "기권"
+        },
+        {
+          "별칭": "이태원 참사 특별법",
+          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+          "의안번호": 2121515,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "노란봉투법",
+          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+          "의안번호": 2123038,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "학자금 무이자 대출",
+          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+          "의안번호": 2125809,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "양곡관리법",
+          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+          "의안번호": 2119727,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+          "의안번호": 2119142,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+          "의안번호": 2126369,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "1기 신도시 특별법",
+          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2125837,
+          "찬반여부": "기권"
+        },
+        {
+          "별칭": "신공항 특별법",
+          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+          "의안번호": 2120933,
+          "찬반여부": "반대"
+        }
+      ],
+      "워드클라우드": [
+        {
+          "단어": "노동자",
+          "count": "535"
+        },
+        {
+          "단어": "정의당",
+          "count": "239"
+        },
+        {
+          "단어": "국가",
+          "count": "178"
+        },
+        {
+          "단어": "피해",
+          "count": "168"
+        },
+        {
+          "단어": "조사",
+          "count": "143"
+        },
+        {
+          "단어": "환경부",
+          "count": "137"
+        },
+        {
+          "단어": "안전",
+          "count": "133"
+        },
+        {
+          "단어": "기후",
+          "count": "127"
+        },
+        {
+          "단어": "노조",
+          "count": "125"
+        },
+        {
+          "단어": "코로나",
+          "count": "122"
+        }
+      ],
+      "대표법안목록": [
+        {
+          "제안일": "2023-11-27",
+          "의안명": "지방의료원의 설립 및 운영에 관한 법률 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-11-23",
+          "의안명": "노인장기요양보험법 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-11-21",
+          "의안명": "대리점거래의 공정화에 관한 법률 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "정무위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-11-21",
+          "의안명": "가맹사업거래의 공정화에 관한 법률 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "정무위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-25",
+          "의안명": "학교급식법 일부개정법률안(강은미의원 등 12인) ",
+          "발의자": "강은미",
+          "상임위원회": "교육위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-25",
+          "의안명": "식품 등의 표시ㆍ광고에 관한 법률 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-04",
+          "의안명": "구강보건법 일부개정법률안(강은미의원 등 13인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-07-27",
+          "의안명": "공공의과대학 및 공공의학전문대학원 설립ㆍ운영에 관한 법률안(강은미의원 등 17인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-07-26",
+          "의안명": "공공보건의료에 관한 법률 일부개정법률안(강은미의원 등 17인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-07-19",
+          "의안명": "노인장기요양보험법 일부개정법률안(강은미의원 등 10인) ",
+          "발의자": "강은미",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        }
+      ],
+      "공약이행률": null,
+      "공약이행률등수": null,
+      "공약이행수등수": null
     },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-2.jpg",
-        "id": "2290202-2",
-        "재산": 1011892,
-        "생년월일": "19631003",
-        "경력": "(전)대우자동차 세계경영기획단장\n(현)북촌학당 학장",
-        "학력": "서울대학교 서양사학과 졸업",
-        "직업": "정치인",
-        "성별": "남",
-        "regionId": "2290202",
-        "기호": 2,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 19:06:00 +0900",
-                "title": "대한물리치료사협회, 더불어민주연합 비례대표 김윤 후보와 정책협약 外",
-                "link": "http://www.newsmp.com/news/articleView.html?idxno=240227"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:38:00 +0900",
-                "title": "의사 후보 재산보니, 안철수 1401억·김윤 33억·최대집 -2억원",
-                "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154158"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:22:00 +0900",
-                "title": "국민의힘 김윤(광주서구을) 후보,금호2동 서구문화센터에서 사전투표",
-                "link": "https://www.wikitree.co.kr/articles/940944"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 06:02:00 +0900",
-                "title": "의료계와 '악연' 김윤 후보, 정치권 도전에서도 이어져",
-                "link": "http://www.medicopharma.co.kr/news/articleView.html?idxno=61982"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:22:00 +0900",
-                "title": "더불어민주연합 김윤·전종덕 비례대표 후보, 간호협회와 정책협약",
-                "link": "http://www.bokuennews.com/news/article.html?no=242382"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김윤",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1011892
-            }
-        ],
-        "huboid": "100152945",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-2.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-5.jpg",
-        "id": "2290202-5",
-        "재산": 248151,
-        "생년월일": "19700906",
-        "경력": "(현)제21대 국회의원(녹색정의당)\n(현)광주전남김대중재단 서구지회 추진위원장",
-        "학력": "전남대학교 해양학과 졸업",
-        "직업": "국회의원(비례대표)",
-        "성별": "여",
-        "id_21th": "1187",
-        "regionId": "2290202",
-        "기호": 5,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 16:41:00 +0900",
-                "title": "강은미, 고령화 사회 대비 간호·돌봄 체계 변화에 구슬땀",
-                "link": "https://n.news.naver.com/mnews/article/277/0005402392?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:04:00 +0900",
-                "title": "강은미 녹색정의당 광주 서구을 후보 사전 투표",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461678?sid=102"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:30:00 +0900",
-                "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
-                "link": "http://www.mhj21.com/160305"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:16:00 +0900",
-                "title": "강은미 후보, 기후와 생태를 살리는 녹색교통으로 전환 시급",
-                "link": "http://www.mdilbo.com/detail/RHfGUG/717088"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 14:50:00 +0900",
-                "title": "강은미 \"기후ㆍ생태 살리는 녹색교통으로 전환 시급\"",
-                "link": "http://www.gjdream.com/news/articleView.html?idxno=642099"
-            }
-        ],
-        "정당": "녹색정의당",
-        "이름": "강은미",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 213288
-            },
-            {
-                "연도": 2021,
-                "재산": 239088
-            },
-            {
-                "연도": 2022,
-                "재산": 259183
-            },
-            {
-                "연도": 2023,
-                "재산": 248151
-            }
-        ],
-        "huboid": "100152089",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-5.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-5.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-7.jpg",
-        "id": "2290202-7",
-        "재산": 25185,
-        "생년월일": "19760730",
-        "경력": "(현)개혁신당 정책위원회 부의장\n(현)광주시민회 사무총장",
-        "학력": "동신대학교 이공학부 2학년 제적(1995.03.~2001.01.)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2290202",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 15:30:00 +0900",
-                "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
-                "link": "http://www.mhj21.com/160305"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 16:04:00 +0900",
-                "title": "개혁신당 최현수 \"광주 개혁 DNA 이제 경제부분도 뿌리 내려야\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278157?sid=165"
-            },
-            {
-                "date": "Fri, 15 Mar 2024 09:56:00 +0900",
-                "title": "<총선브리핑> 박은식*최현수*김용재 외",
-                "link": "https://kjmbc.co.kr/article/tUkni1EJg0RinF"
-            },
-            {
-                "date": "Mon, 11 Mar 2024 15:28:00 +0900",
-                "title": "판 커진 '반도체 벨트'···개혁신당, 이준석·이원욱·유시진 등 공천",
-                "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=221789"
-            },
-            {
-                "date": "Mon, 11 Mar 2024 14:48:00 +0900",
-                "title": "개혁신당 '경북' 제외 전 지역 공천…\"경북 지원자 없어\"",
-                "link": "https://www.yeongnam.com/web/view.php?key=20240311010001351"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "최현수",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 25185
-            }
-        ],
-        "huboid": "100152717",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-7.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-8.jpg",
-        "id": "2290202-8",
-        "재산": 471048,
-        "생년월일": "19770428",
-        "경력": "(전)제21대 국회의원선거 민중당 비례대표 후보1번\n(현)진보당 광주시당 서구을 지역위원장",
-        "학력": "조선대학교 공과대학 화학공학과 졸업",
-        "직업": "송정서초등학교 조리사",
-        "성별": "여",
-        "regionId": "2290202",
-        "기호": 8,
-        "군필여부": false,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 10:57:00 +0900",
-                "title": "'부모님과 함께' 김해정 진보당 광주 서구을 후보",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461321?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:30:00 +0900",
-                "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
-                "link": "http://www.mhj21.com/160305"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 11:02:00 +0900",
-                "title": "<총선브리핑> 장도국 김해정 신정훈",
-                "link": "https://kjmbc.co.kr/article/GOTQqIQGOPA37UH5yF7RdG"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 13:48:00 +0900",
-                "title": "진보당 김해정 '자전거 천리길 선거 운동'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007442889?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 10:03:00 +0900",
-                "title": "거리 유세하는 김해정 진보당 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012455366?sid=165"
-            }
-        ],
-        "정당": "진보당",
-        "이름": "김해정",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 471048
-            }
-        ],
-        "huboid": "100151310",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-8.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-8.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2290202-9.jpg",
-        "id": "2290202-9",
-        "재산": 368433,
-        "생년월일": "19420103",
-        "경력": "(전)제21대 국회의원선거 후보(담양군,함평군,영광군,장성군)\n(전)공무원",
-        "학력": "한국방송통신대학교 법학과 1학년 제적(2008.3~2009.4)",
-        "직업": "정치인",
-        "성별": "남",
-        "regionId": "2290202",
-        "기호": 9,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 15:30:00 +0900",
-                "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
-                "link": "http://www.mhj21.com/160305"
-            },
-            {
-                "date": "Sun, 24 Mar 2024 15:28:00 +0900",
-                "title": "광주·전남 최고령 후보 기독당 김천식 후보 등록",
-                "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/23/2024032300045.html"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 23:00:00 +0900",
-                "title": "광주전남 최고령 후보는 박지원 아니였네…광주 서구을 김천식 82세",
-                "link": "https://n.news.naver.com/mnews/article/002/0002324663?sid=102"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:19:00 +0900",
-                "title": "22대 총선 광주 출마자 최고령은 서구을 김천식 '82세'",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430929?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:10:00 +0900",
-                "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
-            }
-        ],
-        "정당": "기독당",
-        "이름": "김천식",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 368433
-            }
-        ],
-        "huboid": "100153129",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2290202-9.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-9.pdf"
-    }
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-5-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-7.jpg",
+    "id": "2290202-7",
+    "재산": 25185,
+    "생년월일": "19760730",
+    "경력": "(현)개혁신당 정책위원회 부의장\n(현)광주시민회 사무총장",
+    "학력": "동신대학교 이공학부 2학년 제적(1995.03.~2001.01.)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2290202",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 15:30:00 +0900",
+        "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
+        "link": "http://www.mhj21.com/160305"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 16:04:00 +0900",
+        "title": "개혁신당 최현수 \"광주 개혁 DNA 이제 경제부분도 뿌리 내려야\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278157?sid=165"
+      },
+      {
+        "date": "Fri, 15 Mar 2024 09:56:00 +0900",
+        "title": "<총선브리핑> 박은식*최현수*김용재 외",
+        "link": "https://kjmbc.co.kr/article/tUkni1EJg0RinF"
+      },
+      {
+        "date": "Mon, 11 Mar 2024 15:28:00 +0900",
+        "title": "판 커진 '반도체 벨트'···개혁신당, 이준석·이원욱·유시진 등 공천",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=221789"
+      },
+      {
+        "date": "Mon, 11 Mar 2024 14:48:00 +0900",
+        "title": "개혁신당 '경북' 제외 전 지역 공천…\"경북 지원자 없어\"",
+        "link": "https://www.yeongnam.com/web/view.php?key=20240311010001351"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "최현수",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 25185
+      }
+    ],
+    "huboid": "100152717",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-7-7.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-8.jpg",
+    "id": "2290202-8",
+    "재산": 471048,
+    "생년월일": "19770428",
+    "경력": "(전)제21대 국회의원선거 민중당 비례대표 후보1번\n(현)진보당 광주시당 서구을 지역위원장",
+    "학력": "조선대학교 공과대학 화학공학과 졸업",
+    "직업": "송정서초등학교 조리사",
+    "성별": "여",
+    "regionId": "2290202",
+    "기호": 8,
+    "군필여부": false,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 10:57:00 +0900",
+        "title": "'부모님과 함께' 김해정 진보당 광주 서구을 후보",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461321?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:30:00 +0900",
+        "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
+        "link": "http://www.mhj21.com/160305"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 11:02:00 +0900",
+        "title": "<총선브리핑> 장도국 김해정 신정훈",
+        "link": "https://kjmbc.co.kr/article/GOTQqIQGOPA37UH5yF7RdG"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 13:48:00 +0900",
+        "title": "진보당 김해정 '자전거 천리길 선거 운동'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007442889?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 10:03:00 +0900",
+        "title": "거리 유세하는 김해정 진보당 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012455366?sid=165"
+      }
+    ],
+    "정당": "진보당",
+    "이름": "김해정",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 471048
+      }
+    ],
+    "huboid": "100151310",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-8.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-8.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-8-7.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290202-9.jpg",
+    "id": "2290202-9",
+    "재산": 368433,
+    "생년월일": "19420103",
+    "경력": "(전)제21대 국회의원선거 후보(담양군,함평군,영광군,장성군)\n(전)공무원",
+    "학력": "한국방송통신대학교 법학과 1학년 제적(2008.3~2009.4)",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2290202",
+    "기호": 9,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 15:30:00 +0900",
+        "title": "[4.10총선-219] 광주 서구을, 양부남vs김윤vs강은미vs최현수vs김해정vs김천식",
+        "link": "http://www.mhj21.com/160305"
+      },
+      {
+        "date": "Sun, 24 Mar 2024 15:28:00 +0900",
+        "title": "광주·전남 최고령 후보 기독당 김천식 후보 등록",
+        "link": "https://gj.newdaily.co.kr/site/data/html/2024/03/23/2024032300045.html"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 23:00:00 +0900",
+        "title": "광주전남 최고령 후보는 박지원 아니였네…광주 서구을 김천식 82세",
+        "link": "https://n.news.naver.com/mnews/article/002/0002324663?sid=102"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:19:00 +0900",
+        "title": "22대 총선 광주 출마자 최고령은 서구을 김천식 '82세'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430929?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:10:00 +0900",
+        "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
+      }
+    ],
+    "정당": "기독당",
+    "이름": "김천식",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 368433
+      }
+    ],
+    "huboid": "100153129",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290202-9.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290202-9.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-9-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-9-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-9-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290202-9-3.jpg"
+    ]
+  }
 ]

@@ -1,106 +1,134 @@
 [
-    {
-        "id": "2470803_1-1",
-        "regionId": "2470803_1",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-1.jpg",
-        "기호": 1,
-        "이름": "박규환",
-        "생년월일": "19680604",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "지역활동가(봉화지역사연구소 소장)",
-        "학력": "숭실대학교 대학원 기독교학과 졸업(기독교학박사)",
-        "경력": "(전)숭실대학교 초빙교수\n(현)봉화 지역사 연구소 소장",
-        "재산": 638430,
-        "군필여부": false,
-        "전과건수": 3,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:02:00 +0900",
-                "title": "[데스크/R]박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
-                "link": "http://andongmbc.co.kr/adboard/NewsView69699"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:44:00 +0900",
-                "title": "'영주·영양·봉화 토론회' 민주당 박규환·국민의힘 임종득 후보 날 선 공방",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005644"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:18:00 +0900",
-                "title": "박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
-                "link": "http://andongmbc.co.kr/adboard/NewsView69683"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:34:00 +0900",
-                "title": "영주·영양·봉화 TV토론회, 박규환 \"일당 독점 정치 오명\"…임종득 \"이민청 ...",
-                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456127"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:04:00 +0900",
-                "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
-                "link": "http://www.mhj21.com/160220"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 638430
-            }
-        ],
-        "huboid": "100153030",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470803-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470803_1-1.pdf"
-    },
-    {
-        "id": "2470803_1-2",
-        "regionId": "2470803_1",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2470803-2.jpg",
-        "기호": 2,
-        "이름": "임종득",
-        "생년월일": "19640808",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "경남대학교 대학원 정치외교학과 국제정치전공 졸업(정치학박사)",
-        "경력": "(전) 대통령비서실 국가안보실 제2차장\n(전) 대통령비서실 외교안보수석실 국방비서관",
-        "재산": 1359647,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:02:00 +0900",
-                "title": "[데스크/R]박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
-                "link": "http://andongmbc.co.kr/adboard/NewsView69699"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:44:00 +0900",
-                "title": "'영주·영양·봉화 토론회' 민주당 박규환·국민의힘 임종득 후보 날 선 공방",
-                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005644"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:18:00 +0900",
-                "title": "박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
-                "link": "http://andongmbc.co.kr/adboard/NewsView69683"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:34:00 +0900",
-                "title": "영주·영양·봉화 TV토론회, 박규환 \"일당 독점 정치 오명\"…임종득 \"이민청 ...",
-                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456127"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:58:00 +0900",
-                "title": "'채상병' 쏙 빠진 TV토론... 외압의혹 당사자 임종득 지역구 \"시끌\"",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429079?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1359647
-            }
-        ],
-        "huboid": "100151085",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2470803-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470803_1-2.pdf"
-    }
+  {
+    "id": "2470803_1-1",
+    "regionId": "2470803_1",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470803-1.jpg",
+    "기호": 1,
+    "이름": "박규환",
+    "생년월일": "19680604",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "지역활동가(봉화지역사연구소 소장)",
+    "학력": "숭실대학교 대학원 기독교학과 졸업(기독교학박사)",
+    "경력": "(전)숭실대학교 초빙교수\n(현)봉화 지역사 연구소 소장",
+    "재산": 638430,
+    "군필여부": false,
+    "전과건수": 3,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:02:00 +0900",
+        "title": "[데스크/R]박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
+        "link": "http://andongmbc.co.kr/adboard/NewsView69699"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:44:00 +0900",
+        "title": "'영주·영양·봉화 토론회' 민주당 박규환·국민의힘 임종득 후보 날 선 공방",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005644"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:18:00 +0900",
+        "title": "박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
+        "link": "http://andongmbc.co.kr/adboard/NewsView69683"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:34:00 +0900",
+        "title": "영주·영양·봉화 TV토론회, 박규환 \"일당 독점 정치 오명\"…임종득 \"이민청 ...",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456127"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:04:00 +0900",
+        "title": "[4.10총선-173] 영주·영양·봉화, 박규환vs임종득. 고 채상병 논란 진원지",
+        "link": "http://www.mhj21.com/160220"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 638430
+      }
+    ],
+    "huboid": "100153030",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470803-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470803_1-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2470803_1-2",
+    "regionId": "2470803_1",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470803-2.jpg",
+    "기호": 2,
+    "이름": "임종득",
+    "생년월일": "19640808",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "경남대학교 대학원 정치외교학과 국제정치전공 졸업(정치학박사)",
+    "경력": "(전) 대통령비서실 국가안보실 제2차장\n(전) 대통령비서실 외교안보수석실 국방비서관",
+    "재산": 1359647,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:02:00 +0900",
+        "title": "[데스크/R]박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
+        "link": "http://andongmbc.co.kr/adboard/NewsView69699"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:44:00 +0900",
+        "title": "'영주·영양·봉화 토론회' 민주당 박규환·국민의힘 임종득 후보 날 선 공방",
+        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4005644"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:18:00 +0900",
+        "title": "박규환 \"40년간 뭐했나\" VS 임종득 \"발목잡기 멈춰야\"",
+        "link": "http://andongmbc.co.kr/adboard/NewsView69683"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:34:00 +0900",
+        "title": "영주·영양·봉화 TV토론회, 박규환 \"일당 독점 정치 오명\"…임종득 \"이민청 ...",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456127"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:58:00 +0900",
+        "title": "'채상병' 쏙 빠진 TV토론... 외압의혹 당사자 임종득 지역구 \"시끌\"",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429079?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1359647
+      }
+    ],
+    "huboid": "100151085",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470803-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470803_1-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470803_1-2-9.jpg"
+    ]
+  }
 ]

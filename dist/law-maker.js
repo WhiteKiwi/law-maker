@@ -51,4 +51,13 @@ exports.LawMaker = zod_1.z.object({
         상임위원회: zod_1.z.string(),
         진행상황: zod_1.z.string(),
     })),
+    공약이행률: zod_1.z.union([
+        zod_1.z.object({
+            총공약수: zod_1.z.number(),
+            공약이행수: zod_1.z.number(),
+        }),
+        zod_1.z.literal(null),
+    ]),
+    공약이행률등수: zod_1.z.union([zod_1.z.number(), zod_1.z.literal(null)]),
+    공약이행수등수: zod_1.z.union([zod_1.z.number(), zod_1.z.literal(null)]),
 });

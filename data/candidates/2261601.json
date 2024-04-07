@@ -1,106 +1,130 @@
 [
-    {
-        "id": "2261601-1",
-        "regionId": "2261601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-1.jpg",
-        "기호": 1,
-        "이름": "배재정",
-        "생년월일": "19680216",
-        "정당": "더불어민주당",
-        "성별": "여",
-        "직업": "정당인",
-        "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
-        "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
-        "재산": 289433,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 11:55:00 +0900",
-                "title": "“文 전 대통령이 추천… 배재정 선택” “장제원 불출마 희생… 김대식 지지...",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630666?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:50:00 +0900",
-                "title": "문재인·장제원 지원 업고… 부산 사상 ‘배재정’ vs ‘김대식’ [심층기획-...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003921283?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 11:46:00 +0900",
-                "title": "부산 사상, 김대식 54.1% 배재정 39.7%…장제원 지원 힘받는다",
-                "link": "https://n.news.naver.com/mnews/article/421/0007458182?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 11:32:00 +0900",
-                "title": "[총선 여론조사]...사상 배재정 39.7 김대식 54.1%...수영 유동철 35.8 정연욱...",
-                "link": "http://www.kukinews.com/newsView/kuk202404040119"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:36:00 +0900",
-                "title": "부산 사상구 김대식 54% - 배재정 39.7%, 격차 벌어져",
-                "link": "https://n.news.naver.com/mnews/article/005/0001686180?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 289433
-            }
-        ],
-        "huboid": "100151549",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261601-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261601-1.pdf"
-    },
-    {
-        "id": "2261601-2",
-        "regionId": "2261601",
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2261601-2.jpg",
-        "기호": 2,
-        "이름": "김대식",
-        "생년월일": "19620811",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
-        "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
-        "재산": 2368023,
-        "군필여부": false,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:51:00 +0900",
-                "title": "[포토] 김대식 부산 사상구 후보, 사전투표 완료",
-                "link": "https://n.news.naver.com/mnews/article/031/0000826355?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:55:00 +0900",
-                "title": "“文 전 대통령이 추천… 배재정 선택” “장제원 불출마 희생… 김대식 지지...",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630666?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:50:00 +0900",
-                "title": "문재인·장제원 지원 업고… 부산 사상 ‘배재정’ vs ‘김대식’ [심층기획-...",
-                "link": "https://n.news.naver.com/mnews/article/022/0003921283?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 11:46:00 +0900",
-                "title": "부산 사상, 김대식 54.1% 배재정 39.7%…장제원 지원 힘받는다",
-                "link": "https://n.news.naver.com/mnews/article/421/0007458182?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 11:32:00 +0900",
-                "title": "[총선 여론조사]...사상 배재정 39.7 김대식 54.1%...수영 유동철 35.8 정연욱...",
-                "link": "http://www.kukinews.com/newsView/kuk202404040119"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2368023
-            }
-        ],
-        "huboid": "100151954",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2261601-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261601-2.pdf"
-    }
+  {
+    "id": "2261601-1",
+    "regionId": "2261601",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261601-1.jpg",
+    "기호": 1,
+    "이름": "배재정",
+    "생년월일": "19680216",
+    "정당": "더불어민주당",
+    "성별": "여",
+    "직업": "정당인",
+    "학력": "부산대학교 대학원 예술·문화와영상매체협동과정 석사과정 수료",
+    "경력": "(전) 제19대 비례대표 국회의원\n(전) 대통령 비서실 정무비서관",
+    "재산": 289433,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 11:55:00 +0900",
+        "title": "“文 전 대통령이 추천… 배재정 선택” “장제원 불출마 희생… 김대식 지지...",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630666?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:50:00 +0900",
+        "title": "문재인·장제원 지원 업고… 부산 사상 ‘배재정’ vs ‘김대식’ [심층기획-...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003921283?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:46:00 +0900",
+        "title": "부산 사상, 김대식 54.1% 배재정 39.7%…장제원 지원 힘받는다",
+        "link": "https://n.news.naver.com/mnews/article/421/0007458182?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:32:00 +0900",
+        "title": "[총선 여론조사]...사상 배재정 39.7 김대식 54.1%...수영 유동철 35.8 정연욱...",
+        "link": "http://www.kukinews.com/newsView/kuk202404040119"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:36:00 +0900",
+        "title": "부산 사상구 김대식 54% - 배재정 39.7%, 격차 벌어져",
+        "link": "https://n.news.naver.com/mnews/article/005/0001686180?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 289433
+      }
+    ],
+    "huboid": "100151549",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261601-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261601-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-1-7.jpg"
+    ]
+  },
+  {
+    "id": "2261601-2",
+    "regionId": "2261601",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261601-2.jpg",
+    "기호": 2,
+    "이름": "김대식",
+    "생년월일": "19620811",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "일본 오타니대학 대학원 문학박사(문학연구과 박사 후기과정, 1995. 4.~2000. 3.)",
+    "경력": "(전) 경남정보대학교 총장\n(전) 국민권익위원회 부위원장",
+    "재산": 2368023,
+    "군필여부": false,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:51:00 +0900",
+        "title": "[포토] 김대식 부산 사상구 후보, 사전투표 완료",
+        "link": "https://n.news.naver.com/mnews/article/031/0000826355?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:55:00 +0900",
+        "title": "“文 전 대통령이 추천… 배재정 선택” “장제원 불출마 희생… 김대식 지지...",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630666?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:50:00 +0900",
+        "title": "문재인·장제원 지원 업고… 부산 사상 ‘배재정’ vs ‘김대식’ [심층기획-...",
+        "link": "https://n.news.naver.com/mnews/article/022/0003921283?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:46:00 +0900",
+        "title": "부산 사상, 김대식 54.1% 배재정 39.7%…장제원 지원 힘받는다",
+        "link": "https://n.news.naver.com/mnews/article/421/0007458182?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:32:00 +0900",
+        "title": "[총선 여론조사]...사상 배재정 39.7 김대식 54.1%...수영 유동철 35.8 정연욱...",
+        "link": "http://www.kukinews.com/newsView/kuk202404040119"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2368023
+      }
+    ],
+    "huboid": "100151954",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261601-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261601-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261601-2-9.jpg"
+    ]
+  }
 ]

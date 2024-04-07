@@ -1,5 +1,6 @@
 export type SearchItem = {
   id: string; // candidateId
+  is21th: boolean;
   imageUrl: string;
   이름: string;
   splitted이름: string;

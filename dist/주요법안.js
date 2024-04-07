@@ -18,14 +18,14 @@ async function main() {
 }
 async function get주요법안표결(의안번호) {
     console.log("의안번호", 의안번호);
-    const res = await axios_1.default.post("https://www.assembly.go.kr/portal/cnts/cntsBill/findBpmBillVoteDtl.json", `billNo=${의안번호}&_csrf=c4585f1e-fb30-4419-9491-e70fc56e3b23`, {
+    const res = await axios_1.default.post("https://www.assembly.go.kr/portal/cnts/cntsBill/findBpmBillVoteDtl.json", `billNo=${의안번호}&_csrf=2ad09d1d-821a-4122-a9a6-a30fc9ad7558`, {
         headers: {
             Accept: "*/*",
             "Accept-Encoding": "gzip, deflate, br, zstd",
             "Accept-Language": "en-US,en;q=0.9,ko;q=0.8",
             "Content-Length": "57",
             "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-            Cookie: "PHAROSVISITOR=000031ae018e9e9f26e135ec0ac965a5; JSESSIONID=f11Rhbv3brdZ5mDM6Bwo19tDXeOY6NTNZfyH5KF7DDcntSTfzpJZK4mfa8pFZ3jH.amV1c19kb21haW4vbmFob21lMQ==",
+            Cookie: "PHAROSVISITOR=000031ae018e9e9f217435940ac965a5; PHAROSVISITOR=000031ae018e9e9f26e135ec0ac965a5; PCID=7049d560-05df-ba54-98d1-1873cf0665ae-1712258885270; JSESSIONID=uXTkSZSDQDHD6d5M1HKo0ZtNtVBlqsy1XKG41pcV8kwg386dzn3wbDUnTYhuKe0r.amV1c19kb21haW4vbmFob21lMQ==",
             DNT: "1",
             Host: "www.assembly.go.kr",
             Origin: "https://www.assembly.go.kr",

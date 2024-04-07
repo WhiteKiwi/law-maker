@@ -16,7 +16,7 @@ async function main() {
     const lawMaker = await readJSON(path.join(lawMakerDir, file));
     lawMakers.push(lawMaker);
   }
-  await 주요법안표결(lawMakers);
+  // await 주요법안표결(lawMakers);
 
   const map = new Map<
     string,
@@ -202,6 +202,7 @@ async function createSearchItems() {
       const region = await getRegion(candidate.regionId);
       searchItems.push({
         id: candidate.id,
+        is21th: Boolean(candidate["21th"]),
         imageUrl: candidate.imageUrl,
         이름: candidate.이름,
         splitted이름: splitHangul(candidate.이름),

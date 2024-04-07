@@ -1,171 +1,480 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412602-1.jpg",
-        "id": "2412602-1",
-        "재산": 1167235,
-        "생년월일": "19620207",
-        "경력": "(전)육군대장(한미연합사 부사령관)\n(현)비례대표 국회의원",
-        "학력": "경기대학교 정치전문대학원 졸업(국제정치학박사)",
-        "직업": "비례대표 국회의원",
-        "성별": "남",
-        "id_21th": "1179",
-        "regionId": "2412602",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:28:00 +0900",
-                "title": "김병주 \"군사시설보호 구역 해제 '남양주 패싱' 직접 나서겠다\"",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3126704"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:40:00 +0900",
-                "title": "“남양주 패싱 불쾌” 김병주 후보, 군사시설 해제 국방부 발표에 유감",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240405026165103"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:46:00 +0900",
-                "title": "김병주 “군사시설보호 구역 해제 ‘남양주 패싱’ 불쾌… 직접 나서겠다”",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854527"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 10:08:00 +0900",
-                "title": "김병주 남양주을, 경기도지사에게 지하철 4-8호선 연결 건의..'김동연, 긍정적...",
-                "link": "https://www.onews.tv/news/articleView.html?idxno=202615"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:18:00 +0900",
-                "title": "김병주 국회의원 후보, 김동연 경기도지사에 지하철 4-8호선 연결 건의",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854239"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김병주",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 1019944
-            },
-            {
-                "연도": 2021,
-                "재산": 1149676
-            },
-            {
-                "연도": 2022,
-                "재산": 1402235
-            },
-            {
-                "연도": 2023,
-                "재산": 1167235
-            }
-        ],
-        "huboid": "100151618",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412602-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-1.pdf"
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412602-1.jpg",
+    "id": "2412602-1",
+    "재산": 1167235,
+    "생년월일": "19620207",
+    "경력": "(전)육군대장(한미연합사 부사령관)\n(현)비례대표 국회의원",
+    "학력": "경기대학교 정치전문대학원 졸업(국제정치학박사)",
+    "직업": "비례대표 국회의원",
+    "성별": "남",
+    "id_21th": "1179",
+    "regionId": "2412602",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:28:00 +0900",
+        "title": "김병주 \"군사시설보호 구역 해제 '남양주 패싱' 직접 나서겠다\"",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3126704"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:40:00 +0900",
+        "title": "“남양주 패싱 불쾌” 김병주 후보, 군사시설 해제 국방부 발표에 유감",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240405026165103"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:46:00 +0900",
+        "title": "김병주 “군사시설보호 구역 해제 ‘남양주 패싱’ 불쾌… 직접 나서겠다”",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854527"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 10:08:00 +0900",
+        "title": "김병주 남양주을, 경기도지사에게 지하철 4-8호선 연결 건의..'김동연, 긍정적...",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=202615"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:18:00 +0900",
+        "title": "김병주 국회의원 후보, 김동연 경기도지사에 지하철 4-8호선 연결 건의",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854239"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김병주",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 1019944
+      },
+      {
+        "연도": 2021,
+        "재산": 1149676
+      },
+      {
+        "연도": 2022,
+        "재산": 1402235
+      },
+      {
+        "연도": 2023,
+        "재산": 1167235
+      }
+    ],
+    "huboid": "100151618",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412602-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-1.pdf",
+    "21th": {
+      "연락처": "의원회관 447호 | 전화 02-784-4177 | 팩스 02-6788-6185",
+      "당선횟수": 1,
+      "본회의_출석률": 92.22,
+      "소속위원회": "국방위원회\n국회운영위원회",
+      "id": "1179",
+      "주요경력": "경기대학교 정치전문대학원 국제정치학 박사(외교안보학과 전공)",
+      "본회의_출석률_등수": 158,
+      "재산등수": 219,
+      "상임위원회_출석률": [
+        {
+          "위원회": "국방위원회",
+          "출석률": 93.07,
+          "등수": 9,
+          "총원": 17
+        },
+        {
+          "위원회": "국회운영위원회",
+          "출석률": 80.65,
+          "등수": 14,
+          "총원": 28
+        }
+      ],
+      "이름": "김병주",
+      "정당": "더불어민주당",
+      "위원회별_발의법안": [
+        {
+          "발의수": 26,
+          "위원회": "국방위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "법제사법위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "행정안전위원회"
+        },
+        {
+          "발의수": 2,
+          "위원회": "정무위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "과학기술정보방송통신위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "기획재정위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "교육위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "보건복지위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "국회운영위원회"
+        }
+      ],
+      "대표발의법안_등수": 241,
+      "연도별_재산": [
+        {
+          "연도": 2020,
+          "재산": 1019944
+        },
+        {
+          "연도": 2021,
+          "재산": 1149676
+        },
+        {
+          "연도": 2022,
+          "재산": 1402235
+        }
+      ],
+      "대표발의법안": 43,
+      "주요법안표결": [
+        {
+          "별칭": "전세사기피해자 지원 특별법",
+          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2122268,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "임대차 보호법",
+          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+          "의안번호": 2102500,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "간호법",
+          "의안명": "간호법안(대안)",
+          "의안번호": 2120877,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "중대재해법",
+          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+          "의안번호": 2107249,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "이태원 참사 특별법",
+          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+          "의안번호": 2121515,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "노란봉투법",
+          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+          "의안번호": 2123038,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "학자금 무이자 대출",
+          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+          "의안번호": 2125809,
+          "찬반여부": "불참"
+        },
+        {
+          "별칭": "양곡관리법",
+          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+          "의안번호": 2119727,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+          "의안번호": 2119142,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+          "의안번호": 2126369,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "1기 신도시 특별법",
+          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2125837,
+          "찬반여부": "불참"
+        },
+        {
+          "별칭": "신공항 특별법",
+          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+          "의안번호": 2120933,
+          "찬반여부": "찬성"
+        }
+      ],
+      "워드클라우드": [
+        {
+          "단어": "국방부",
+          "count": "601"
+        },
+        {
+          "단어": "북한",
+          "count": "420"
+        },
+        {
+          "단어": "안보",
+          "count": "371"
+        },
+        {
+          "단어": "국방위원회",
+          "count": "346"
+        },
+        {
+          "단어": "부대",
+          "count": "330"
+        },
+        {
+          "단어": "훈련",
+          "count": "316"
+        },
+        {
+          "단어": "국가",
+          "count": "238"
+        },
+        {
+          "단어": "미사일",
+          "count": "219"
+        },
+        {
+          "단어": "수사",
+          "count": "205"
+        },
+        {
+          "단어": "군사",
+          "count": "191"
+        }
+      ],
+      "대표법안목록": [
+        {
+          "제안일": "2023-07-04",
+          "의안명": "군인 재해보상법 일부개정법률안(김병주의원 등 11인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-05-31",
+          "의안명": "방위사업법 일부개정법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-04-25",
+          "의안명": "군수품관리법 일부개정법률안(김병주의원 등 29인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-04-25",
+          "의안명": "방위사업법 일부개정법률안(김병주의원 등 32인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-04-20",
+          "의안명": "지뢰의 제거 등 지뢰대응활동에 관한 법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-04-11",
+          "의안명": "군인공제회법 일부개정법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-04-11",
+          "의안명": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률 일부개정법률안(김병주의원 등 11인) ",
+          "발의자": "김병주",
+          "상임위원회": "법제사법위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-04-11",
+          "의안명": "병역법 일부개정법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-03-10",
+          "의안명": "우주개발 진흥법 일부개정법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "과학기술정보방송통신위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-03-09",
+          "의안명": "군인의 지위 및 복무에 관한 기본법 일부개정법률안(김병주의원 등 10인) ",
+          "발의자": "김병주",
+          "상임위원회": "국방위원회",
+          "진행상황": "대안반영폐기"
+        }
+      ],
+      "공약이행률": null,
+      "공약이행률등수": null,
+      "공약이행수등수": null
     },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412602-2.jpg",
-        "id": "2412602-2",
-        "재산": 539431,
-        "생년월일": "19861213",
-        "경력": "(전)국민의힘 남양주시을 당원협의회 운영위원장\n(전)민선 8기 남양주시장직 인수위원회 부위원장",
-        "학력": "성균관대학교 대학원 정치외교학과 졸업(정치학박사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2412602",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 18:20:00 +0900",
-                "title": "“별내역, 복합터미날화로 만들겠다”… 곽관용 후보, 별내지역 미래비전 제시",
-                "link": "http://www.kyeongin.com/main/view.php?key=20240405026585176"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:18:00 +0900",
-                "title": "국민의힘 남양주시(을) 곽관용 후보, 강변북로 지하화 합동 공약 발표",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854565"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:44:00 +0900",
-                "title": "조광한·유낙준·곽관용·나태근 국민의힘 구리남양주 국회의원 후보, 강변북...",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854484"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:32:00 +0900",
-                "title": "[총선] 남양주을, 곽관용후보 체인지로드(3보1배)를 통한 시민과의 약속 다짐",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014376"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 13:40:00 +0900",
-                "title": "엄·당·소 일부 학부모, 남양주(을) 곽관용 후보에 장미꽃 전달하며 체인지로...",
-                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1853932"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "곽관용",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 539431
-            }
-        ],
-        "huboid": "100151778",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412602-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-2.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2412602-7.jpg",
-        "id": "2412602-7",
-        "재산": 3924954,
-        "생년월일": "19541230",
-        "경력": "(전)국민의힘 경기도당 국토교통위원장\n(현)이준석 개혁신당 당대표 정무특보",
-        "학력": "한양대학교 공공정책대학원 지방자치학과 졸업 (행정학석사)",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2412602",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Sun, 17 Mar 2024 23:28:00 +0900",
-                "title": "개혁신당 안만규(남양주을), 개소식 성료..'이준석, 안만규는 개혁의 성봉장이...",
-                "link": "https://www.onews.tv/news/articleView.html?idxno=200599"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 14:54:00 +0900",
-                "title": "개혁신당 안만규 남양주을 예비후보 선거사무소 개소식 개최",
-                "link": "https://www.kgnews.co.kr/news/article.html?no=785750"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 14:16:00 +0900",
-                "title": "[4·10=한다면 한다] 개혁신당 안만규, 토박이가 하면 다르다",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239371"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 07:58:00 +0900",
-                "title": "남양주.을, 안만규 개혁신당 국회의원 후보 공천 확정",
-                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=315890"
-            },
-            {
-                "date": "Mon, 11 Mar 2024 17:18:00 +0900",
-                "title": "개혁신당, 안만규 남양주을 공천 확정…4호 공약 발표",
-                "link": "http://www.m-i.kr/news/articleView.html?idxno=1100519"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "안만규",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3924954
-            }
-        ],
-        "huboid": "100152463",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2412602-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-7.pdf"
-    }
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-1-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412602-2.jpg",
+    "id": "2412602-2",
+    "재산": 539431,
+    "생년월일": "19861213",
+    "경력": "(전)국민의힘 남양주시을 당원협의회 운영위원장\n(전)민선 8기 남양주시장직 인수위원회 부위원장",
+    "학력": "성균관대학교 대학원 정치외교학과 졸업(정치학박사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2412602",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 18:20:00 +0900",
+        "title": "“별내역, 복합터미날화로 만들겠다”… 곽관용 후보, 별내지역 미래비전 제시",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240405026585176"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:18:00 +0900",
+        "title": "국민의힘 남양주시(을) 곽관용 후보, 강변북로 지하화 합동 공약 발표",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854565"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:44:00 +0900",
+        "title": "조광한·유낙준·곽관용·나태근 국민의힘 구리남양주 국회의원 후보, 강변북...",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1854484"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:32:00 +0900",
+        "title": "[총선] 남양주을, 곽관용후보 체인지로드(3보1배)를 통한 시민과의 약속 다짐",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014376"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 13:40:00 +0900",
+        "title": "엄·당·소 일부 학부모, 남양주(을) 곽관용 후보에 장미꽃 전달하며 체인지로...",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1853932"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "곽관용",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 539431
+      }
+    ],
+    "huboid": "100151778",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412602-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-2-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412602-7.jpg",
+    "id": "2412602-7",
+    "재산": 3924954,
+    "생년월일": "19541230",
+    "경력": "(전)국민의힘 경기도당 국토교통위원장\n(현)이준석 개혁신당 당대표 정무특보",
+    "학력": "한양대학교 공공정책대학원 지방자치학과 졸업 (행정학석사)",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2412602",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Sun, 17 Mar 2024 23:28:00 +0900",
+        "title": "개혁신당 안만규(남양주을), 개소식 성료..'이준석, 안만규는 개혁의 성봉장이...",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=200599"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 14:54:00 +0900",
+        "title": "개혁신당 안만규 남양주을 예비후보 선거사무소 개소식 개최",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=785750"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 14:16:00 +0900",
+        "title": "[4·10=한다면 한다] 개혁신당 안만규, 토박이가 하면 다르다",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1239371"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 07:58:00 +0900",
+        "title": "남양주.을, 안만규 개혁신당 국회의원 후보 공천 확정",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=315890"
+      },
+      {
+        "date": "Mon, 11 Mar 2024 17:18:00 +0900",
+        "title": "개혁신당, 안만규 남양주을 공천 확정…4호 공약 발표",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1100519"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "안만규",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3924954
+      }
+    ],
+    "huboid": "100152463",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412602-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412602-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412602-7-7.jpg"
+    ]
+  }
 ]

@@ -1,327 +1,687 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-1.jpg",
-        "id": "2460101-1",
-        "재산": 1410880,
-        "생년월일": "19681111",
-        "경력": "(현)더불어민주당 목포시 국회의원\n(전)서울특별시 정무부시장",
-        "학력": "성균관대학교 인문대학 사학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "1133",
-        "regionId": "2460101",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 11:26:00 +0900",
-                "title": "이윤석 후보, 전남 의대 공모…김영록 지사·김원이 후보 동반 사퇴 요구",
-                "link": "https://n.news.naver.com/mnews/article/277/0005402242?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:42:00 +0900",
-                "title": "[포토] 사진투표 인증샷 찍는 김원이 후보 부부",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3126465"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 09:48:00 +0900",
-                "title": "이윤석 후보 \"목포의대 유치 파탄 책임, 김원이 후보 사퇴\" 촉구",
-                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48358"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 07:50:00 +0900",
-                "title": "최대집 후보, \"목포의대 사실상 파탄, 김원이 후보 책임지고 사퇴하라\" 촉구",
-                "link": "http://www.mdilbo.com/detail/Z0UE6f/717011"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:30:00 +0900",
-                "title": "김원이 의원 “전남 국립의대 공모방식에 유감”",
-                "link": "https://n.news.naver.com/mnews/article/382/0001117617?sid=102"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "김원이",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 581888
-            },
-            {
-                "연도": 2021,
-                "재산": 1005646
-            },
-            {
-                "연도": 2022,
-                "재산": 1290560
-            },
-            {
-                "연도": 2023,
-                "재산": 1410880
-            }
-        ],
-        "huboid": "100152120",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-1.pdf"
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-1.jpg",
+    "id": "2460101-1",
+    "재산": 1410880,
+    "생년월일": "19681111",
+    "경력": "(현)더불어민주당 목포시 국회의원\n(전)서울특별시 정무부시장",
+    "학력": "성균관대학교 인문대학 사학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "1133",
+    "regionId": "2460101",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 11:26:00 +0900",
+        "title": "이윤석 후보, 전남 의대 공모…김영록 지사·김원이 후보 동반 사퇴 요구",
+        "link": "https://n.news.naver.com/mnews/article/277/0005402242?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:42:00 +0900",
+        "title": "[포토] 사진투표 인증샷 찍는 김원이 후보 부부",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3126465"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 09:48:00 +0900",
+        "title": "이윤석 후보 \"목포의대 유치 파탄 책임, 김원이 후보 사퇴\" 촉구",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48358"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 07:50:00 +0900",
+        "title": "최대집 후보, \"목포의대 사실상 파탄, 김원이 후보 책임지고 사퇴하라\" 촉구",
+        "link": "http://www.mdilbo.com/detail/Z0UE6f/717011"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:30:00 +0900",
+        "title": "김원이 의원 “전남 국립의대 공모방식에 유감”",
+        "link": "https://n.news.naver.com/mnews/article/382/0001117617?sid=102"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "김원이",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 581888
+      },
+      {
+        "연도": 2021,
+        "재산": 1005646
+      },
+      {
+        "연도": 2022,
+        "재산": 1290560
+      },
+      {
+        "연도": 2023,
+        "재산": 1410880
+      }
+    ],
+    "huboid": "100152120",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-1.pdf",
+    "21th": {
+      "연락처": "의원회관 923호 | 전화 02-784-5080 | 팩스 02-6788-6290",
+      "당선횟수": 1,
+      "본회의_출석률": 97.6,
+      "소속위원회": "보건복지위원회",
+      "id": "1133",
+      "주요경력": "성균관대학교 인문대학 사학과 졸업",
+      "본회의_출석률_등수": 40,
+      "재산등수": 51,
+      "상임위원회_출석률": [
+        {
+          "위원회": "보건복지위원회",
+          "출석률": 99.01,
+          "등수": 6,
+          "총원": 24
+        }
+      ],
+      "이름": "김원이",
+      "정당": "더불어민주당",
+      "위원회별_발의법안": [
+        {
+          "발의수": 48,
+          "위원회": "보건복지위원회"
+        },
+        {
+          "발의수": 7,
+          "위원회": "기획재정위원회"
+        },
+        {
+          "발의수": 7,
+          "위원회": "농림축산식품해양수산위원회"
+        },
+        {
+          "발의수": 6,
+          "위원회": "환경노동위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "정무위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "교육위원회"
+        },
+        {
+          "발의수": 5,
+          "위원회": "국토교통위원회"
+        },
+        {
+          "발의수": 4,
+          "위원회": "행정안전위원회"
+        },
+        {
+          "발의수": 3,
+          "위원회": "산업통상자원중소벤처기업위원회"
+        },
+        {
+          "발의수": 3,
+          "위원회": "문화체육관광위원회"
+        },
+        {
+          "발의수": 2,
+          "위원회": "국회운영위원회"
+        },
+        {
+          "발의수": 2,
+          "위원회": "법제사법위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "과학기술정보방송통신위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "여성가족위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": ""
+        }
+      ],
+      "대표발의법안_등수": 65,
+      "연도별_재산": [
+        {
+          "연도": 2020,
+          "재산": 581888
+        },
+        {
+          "연도": 2021,
+          "재산": 1005646
+        },
+        {
+          "연도": 2022,
+          "재산": 1290560
+        }
+      ],
+      "대표발의법안": 100,
+      "주요법안표결": [
+        {
+          "별칭": "전세사기피해자 지원 특별법",
+          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2122268,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "임대차 보호법",
+          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+          "의안번호": 2102500,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "간호법",
+          "의안명": "간호법안(대안)",
+          "의안번호": 2120877,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "중대재해법",
+          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+          "의안번호": 2107249,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "이태원 참사 특별법",
+          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+          "의안번호": 2121515,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "노란봉투법",
+          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+          "의안번호": 2123038,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "학자금 무이자 대출",
+          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+          "의안번호": 2125809,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "양곡관리법",
+          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+          "의안번호": 2119727,
+          "찬반여부": "불참"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+          "의안번호": 2119142,
+          "찬반여부": "기권"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+          "의안번호": 2126369,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "1기 신도시 특별법",
+          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2125837,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "신공항 특별법",
+          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+          "의안번호": 2120933,
+          "찬반여부": "찬성"
+        }
+      ],
+      "워드클라우드": [
+        {
+          "단어": "병원",
+          "count": "230"
+        },
+        {
+          "단어": "코로나19",
+          "count": "219"
+        },
+        {
+          "단어": "의료",
+          "count": "172"
+        },
+        {
+          "단어": "환자",
+          "count": "153"
+        },
+        {
+          "단어": "보건복지부",
+          "count": "117"
+        },
+        {
+          "단어": "목포",
+          "count": "92"
+        },
+        {
+          "단어": "조사",
+          "count": "84"
+        },
+        {
+          "단어": "국가",
+          "count": "77"
+        },
+        {
+          "단어": "복지부",
+          "count": "75"
+        },
+        {
+          "단어": "대한민국",
+          "count": "71"
+        }
+      ],
+      "대표법안목록": [
+        {
+          "제안일": "2023-09-27",
+          "의안명": "국가재정법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "기획재정위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-27",
+          "의안명": "일본 원전오염수 해양방류에 따른 피해 어업인등 지원 및 피해지역 복원 등에 관한 특별법안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "농림축산식품해양수산위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-27",
+          "의안명": "공휴일에 관한 법률 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "행정안전위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-27",
+          "의안명": "해양폐기물 및 해양오염퇴적물 관리법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "농림축산식품해양수산위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-09-04",
+          "의안명": "모자보건법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-08-28",
+          "의안명": "아동복지법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "보건복지위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-08-28",
+          "의안명": "영유아보육법 일부개정법률안(김원이의원 등 11인) ",
+          "발의자": "김원이",
+          "상임위원회": "보건복지위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-08-28",
+          "의안명": "청년기본법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "정무위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-08-28",
+          "의안명": "농어촌 등 보건의료를 위한 특별조치법 일부개정법률안(김원이의원 등 10인) ",
+          "발의자": "김원이",
+          "상임위원회": "보건복지위원회",
+          "진행상황": "수정가결"
+        },
+        {
+          "제안일": "2023-05-10",
+          "의안명": "지방대학 및 지역균형인재 육성에 관한 법률 일부개정법률안(김원이의원 등 13인) ",
+          "발의자": "김원이",
+          "상임위원회": "교육위원회",
+          "진행상황": ""
+        }
+      ],
+      "공약이행률": {
+        "총공약수": 30,
+        "공약이행수": 16
+      },
+      "공약이행률등수": 110,
+      "공약이행수등수": 120
     },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-2.jpg",
-        "id": "2460101-2",
-        "재산": 97235,
-        "생년월일": "19761013",
-        "경력": "(현)목포시 새마을문고 이사\n(전)국민의힘 목포시 당원협의회 위원장",
-        "학력": "목포대학교 일반대학원 졸업(경영학 박사)",
-        "직업": "기업인",
-        "성별": "남",
-        "regionId": "2460101",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 11:28:00 +0900",
-                "title": "윤선웅 목포시 국민의힘 후보 \"목포 발전 20년 멈춰, '사즉생' 각오\"",
-                "link": "https://n.news.naver.com/mnews/article/079/0003882320?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:58:00 +0900",
-                "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
-                "link": "http://www.mhj21.com/160310"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 20:52:00 +0900",
-                "title": "윤선웅 국민의힘 목포 총선 후보 '목포를 산업경제도시로'",
-                "link": "https://www.mpmbc.co.kr/article/DO5n0r0Nb-ukymay8"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 23:46:00 +0900",
-                "title": "광주·전남 더불어민주당 경선 결과 나와… 조인철·김원이·문금주·손훈모 ...",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3117665"
-            },
-            {
-                "date": "Tue, 12 Mar 2024 23:02:00 +0900",
-                "title": "'비명' 공천 탈락 이어져… 송갑석·도종환·이용우 낙천",
-                "link": "https://www.newscj.com/news/articleView.html?idxno=3117637"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "윤선웅",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 97235
-            }
-        ],
-        "huboid": "100151878",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-2.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-5.jpg",
-        "id": "2460101-5",
-        "재산": 272896,
-        "생년월일": "19690915",
-        "경력": "(현)녹색정의당 전남도당 위원장\n(전)목포지역주거정책연대 공동대표",
-        "학력": "목포대학교 경영대학 금융보험학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2460101",
-        "기호": 5,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 11:28:00 +0900",
-                "title": "박명기 목포시 녹색정의당 후보 \"정치를 정치답게, 목포를 목포답게\"",
-                "link": "https://n.news.naver.com/mnews/article/079/0003882319?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:58:00 +0900",
-                "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
-                "link": "http://www.mhj21.com/160310"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 08:24:00 +0900",
-                "title": "녹색정의당 목포 박명기 후보 전남 의대 공모계획 철회 촉구",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058743?sid=102"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 17:36:00 +0900",
-                "title": "녹색정의당 박명기 후보, 김영록 도지사에 목포대 의대 설립 결단 촉구",
-                "link": "https://n.news.naver.com/mnews/article/079/0003881547?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 15:06:00 +0900",
-                "title": "녹색정의당 박명기 후보, \"목포대 의과대학 설립, 결단해야\" 주장",
-                "link": "http://www.mdilbo.com/detail/Z0UE6f/716948"
-            }
-        ],
-        "정당": "녹색정의당",
-        "이름": "박명기",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 272896
-            }
-        ],
-        "huboid": "100152791",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-5.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-5.pdf"
-    },
-    {
-        "전과건수": 4,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-7.jpg",
-        "id": "2460101-7",
-        "재산": 229021,
-        "생년월일": "19710715",
-        "경력": "(전)목포칼갈이봉사단 단장\n(현)진보당 목포시 지역위원회 공동위원장",
-        "학력": "목포대학교 자연과학대학 원예육종학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2460101",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 16:58:00 +0900",
-                "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
-                "link": "http://www.mhj21.com/160310"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 20:52:00 +0900",
-                "title": "최국진 진보당 목포 총선 후보 선거사무소 개소",
-                "link": "https://www.mpmbc.co.kr/article/yyOv9jdDpmgX_H4L"
-            },
-            {
-                "date": "Sat, 16 Mar 2024 20:57:00 +0900",
-                "title": "진보당 목포 최국진 국회의원 후보 선거사무소 개소",
-                "link": "https://n.news.naver.com/mnews/article/660/0000057571?sid=102"
-            },
-            {
-                "date": "Sat, 16 Mar 2024 18:09:00 +0900",
-                "title": "진보당 최국진, 선거사무소 개소식…선거운동 본격화",
-                "link": "https://n.news.naver.com/mnews/article/277/0005392952?sid=165"
-            },
-            {
-                "date": "Thu, 14 Mar 2024 11:50:00 +0900",
-                "title": "목포 최국진 진보당 후보, 김원이 민주당 후보 향해 \"진검승부 펼치겠다\"",
-                "link": "https://www.nbnews.kr/news/articleView.html?idxno=89078"
-            }
-        ],
-        "정당": "진보당",
-        "이름": "최국진",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 229021
-            }
-        ],
-        "huboid": "100151217",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-7.pdf"
-    },
-    {
-        "전과건수": 3,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-8.jpg",
-        "id": "2460101-8",
-        "재산": -273409,
-        "생년월일": "19720727",
-        "경력": "(전)제40대 대한의사협회 회장\n(현)소나무당 의료보건특별위원장",
-        "학력": "서울대학교 의과대학 의학과졸업",
-        "직업": "의사",
-        "성별": "남",
-        "regionId": "2460101",
-        "기호": 8,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 17:38:00 +0900",
-                "title": "의사 후보 재산보니, 안철수 1401억·김윤 33억·최대집 -2억원",
-                "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154158"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 18:46:00 +0900",
-                "title": "최대집 후보, 전남도 '의대 공모' 편법 꼼수 비판",
-                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48407"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:58:00 +0900",
-                "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
-                "link": "http://www.mhj21.com/160310"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:32:00 +0900",
-                "title": "[2024 총선]최대집 후보, 新목포의대 추진 공약…\"전남권 의대 공모 철회해야...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765750"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:22:00 +0900",
-                "title": "최대집 소나무당 후보, 전남의대 공모방식 중단…新목포의대 추진 약속",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002901"
-            }
-        ],
-        "정당": "소나무당",
-        "이름": "최대집",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -273409
-            }
-        ],
-        "huboid": "100153157",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-8.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-8.pdf"
-    },
-    {
-        "전과건수": 1,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2460101-9.jpg",
-        "id": "2460101-9",
-        "재산": 2906614,
-        "생년월일": "19600411",
-        "경력": "(전)더불어민주당 제19대 국회의원·민주통합당 제18대 국회의원\n(전)디지털서울문화예술대학교 총장",
-        "학력": "경남대학교 대학원 졸업(정치학 박사)",
-        "직업": "회사원",
-        "성별": "남",
-        "regionId": "2460101",
-        "기호": 9,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 11:26:00 +0900",
-                "title": "이윤석 후보, 전남 의대 공모…김영록 지사·김원이 후보 동반 사퇴 요구",
-                "link": "https://n.news.naver.com/mnews/article/277/0005402242?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 09:48:00 +0900",
-                "title": "이윤석 후보 \"목포의대 유치 파탄 책임, 김원이 후보 사퇴\" 촉구",
-                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48358"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:22:00 +0900",
-                "title": "이윤석 후보, “목포를 해양수산산업의 세계적 중심지로 만들겠다”",
-                "link": "https://www.cnbnews.com/news/article.html?no=652320"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 15:38:00 +0900",
-                "title": "이윤석 후보 \"목포 해양수산업 메카로 육성\"",
-                "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48339"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 21:16:00 +0900",
-                "title": "무소속 이윤석 후보, \"통합 목포시에 삼성반도체 유치\" 공약",
-                "link": "https://www.mpmbc.co.kr/article/cbo1AE1bmJ"
-            }
-        ],
-        "정당": "무소속",
-        "이름": "이윤석",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2906614
-            }
-        ],
-        "huboid": "100152296",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2460101-9.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-9.pdf"
-    }
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-1-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-2.jpg",
+    "id": "2460101-2",
+    "재산": 97235,
+    "생년월일": "19761013",
+    "경력": "(현)목포시 새마을문고 이사\n(전)국민의힘 목포시 당원협의회 위원장",
+    "학력": "목포대학교 일반대학원 졸업(경영학 박사)",
+    "직업": "기업인",
+    "성별": "남",
+    "regionId": "2460101",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 11:28:00 +0900",
+        "title": "윤선웅 목포시 국민의힘 후보 \"목포 발전 20년 멈춰, '사즉생' 각오\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003882320?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:58:00 +0900",
+        "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
+        "link": "http://www.mhj21.com/160310"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 20:52:00 +0900",
+        "title": "윤선웅 국민의힘 목포 총선 후보 '목포를 산업경제도시로'",
+        "link": "https://www.mpmbc.co.kr/article/DO5n0r0Nb-ukymay8"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 23:46:00 +0900",
+        "title": "광주·전남 더불어민주당 경선 결과 나와… 조인철·김원이·문금주·손훈모 ...",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3117665"
+      },
+      {
+        "date": "Tue, 12 Mar 2024 23:02:00 +0900",
+        "title": "'비명' 공천 탈락 이어져… 송갑석·도종환·이용우 낙천",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3117637"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "윤선웅",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 97235
+      }
+    ],
+    "huboid": "100151878",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-2-3.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-5.jpg",
+    "id": "2460101-5",
+    "재산": 272896,
+    "생년월일": "19690915",
+    "경력": "(현)녹색정의당 전남도당 위원장\n(전)목포지역주거정책연대 공동대표",
+    "학력": "목포대학교 경영대학 금융보험학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2460101",
+    "기호": 5,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 11:28:00 +0900",
+        "title": "박명기 목포시 녹색정의당 후보 \"정치를 정치답게, 목포를 목포답게\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003882319?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:58:00 +0900",
+        "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
+        "link": "http://www.mhj21.com/160310"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 08:24:00 +0900",
+        "title": "녹색정의당 목포 박명기 후보 전남 의대 공모계획 철회 촉구",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058743?sid=102"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 17:36:00 +0900",
+        "title": "녹색정의당 박명기 후보, 김영록 도지사에 목포대 의대 설립 결단 촉구",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881547?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 15:06:00 +0900",
+        "title": "녹색정의당 박명기 후보, \"목포대 의과대학 설립, 결단해야\" 주장",
+        "link": "http://www.mdilbo.com/detail/Z0UE6f/716948"
+      }
+    ],
+    "정당": "녹색정의당",
+    "이름": "박명기",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 272896
+      }
+    ],
+    "huboid": "100152791",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-5.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-5.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-5-7.jpg"
+    ]
+  },
+  {
+    "전과건수": 4,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-7.jpg",
+    "id": "2460101-7",
+    "재산": 229021,
+    "생년월일": "19710715",
+    "경력": "(전)목포칼갈이봉사단 단장\n(현)진보당 목포시 지역위원회 공동위원장",
+    "학력": "목포대학교 자연과학대학 원예육종학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2460101",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 16:58:00 +0900",
+        "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
+        "link": "http://www.mhj21.com/160310"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 20:52:00 +0900",
+        "title": "최국진 진보당 목포 총선 후보 선거사무소 개소",
+        "link": "https://www.mpmbc.co.kr/article/yyOv9jdDpmgX_H4L"
+      },
+      {
+        "date": "Sat, 16 Mar 2024 20:57:00 +0900",
+        "title": "진보당 목포 최국진 국회의원 후보 선거사무소 개소",
+        "link": "https://n.news.naver.com/mnews/article/660/0000057571?sid=102"
+      },
+      {
+        "date": "Sat, 16 Mar 2024 18:09:00 +0900",
+        "title": "진보당 최국진, 선거사무소 개소식…선거운동 본격화",
+        "link": "https://n.news.naver.com/mnews/article/277/0005392952?sid=165"
+      },
+      {
+        "date": "Thu, 14 Mar 2024 11:50:00 +0900",
+        "title": "목포 최국진 진보당 후보, 김원이 민주당 후보 향해 \"진검승부 펼치겠다\"",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=89078"
+      }
+    ],
+    "정당": "진보당",
+    "이름": "최국진",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 229021
+      }
+    ],
+    "huboid": "100151217",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-7-7.jpg"
+    ]
+  },
+  {
+    "전과건수": 3,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-8.jpg",
+    "id": "2460101-8",
+    "재산": -273409,
+    "생년월일": "19720727",
+    "경력": "(전)제40대 대한의사협회 회장\n(현)소나무당 의료보건특별위원장",
+    "학력": "서울대학교 의과대학 의학과졸업",
+    "직업": "의사",
+    "성별": "남",
+    "regionId": "2460101",
+    "기호": 8,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 17:38:00 +0900",
+        "title": "의사 후보 재산보니, 안철수 1401억·김윤 33억·최대집 -2억원",
+        "link": "http://www.doctorsnews.co.kr/news/articleView.html?idxno=154158"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 18:46:00 +0900",
+        "title": "최대집 후보, 전남도 '의대 공모' 편법 꼼수 비판",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48407"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:58:00 +0900",
+        "title": "[4.10총선-224] 전남 목포시, 김원이vs윤선웅vs박명기vs최국진vs최대집vs이윤...",
+        "link": "http://www.mhj21.com/160310"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:32:00 +0900",
+        "title": "[2024 총선]최대집 후보, 新목포의대 추진 공약…\"전남권 의대 공모 철회해야...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765750"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:22:00 +0900",
+        "title": "최대집 소나무당 후보, 전남의대 공모방식 중단…新목포의대 추진 약속",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002901"
+      }
+    ],
+    "정당": "소나무당",
+    "이름": "최대집",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -273409
+      }
+    ],
+    "huboid": "100153157",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-8.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-8.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-8-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 1,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2460101-9.jpg",
+    "id": "2460101-9",
+    "재산": 2906614,
+    "생년월일": "19600411",
+    "경력": "(전)더불어민주당 제19대 국회의원·민주통합당 제18대 국회의원\n(전)디지털서울문화예술대학교 총장",
+    "학력": "경남대학교 대학원 졸업(정치학 박사)",
+    "직업": "회사원",
+    "성별": "남",
+    "regionId": "2460101",
+    "기호": 9,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 11:26:00 +0900",
+        "title": "이윤석 후보, 전남 의대 공모…김영록 지사·김원이 후보 동반 사퇴 요구",
+        "link": "https://n.news.naver.com/mnews/article/277/0005402242?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 09:48:00 +0900",
+        "title": "이윤석 후보 \"목포의대 유치 파탄 책임, 김원이 후보 사퇴\" 촉구",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48358"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:22:00 +0900",
+        "title": "이윤석 후보, “목포를 해양수산산업의 세계적 중심지로 만들겠다”",
+        "link": "https://www.cnbnews.com/news/article.html?no=652320"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 15:38:00 +0900",
+        "title": "이윤석 후보 \"목포 해양수산업 메카로 육성\"",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=48339"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 21:16:00 +0900",
+        "title": "무소속 이윤석 후보, \"통합 목포시에 삼성반도체 유치\" 공약",
+        "link": "https://www.mpmbc.co.kr/article/cbo1AE1bmJ"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "이윤석",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2906614
+      }
+    ],
+    "huboid": "100152296",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2460101-9.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2460101-9.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2460101-9-9.jpg"
+    ]
+  }
 ]

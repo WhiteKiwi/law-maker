@@ -1,275 +1,599 @@
 [
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-1.jpg",
-        "id": "2462202_2-1",
-        "재산": 3145860,
-        "생년월일": "19590623",
-        "경력": "(전)농림축산식품부 장관\n(현)제21대 국회의원",
-        "학력": "전남대학교 경영학과 졸업",
-        "직업": "국회의원",
-        "성별": "남",
-        "id_21th": "874",
-        "regionId": "2462202_2",
-        "기호": 1,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 16:33:00 +0900",
-                "title": "전남 담양·함평·영광·장성 여론조사…이개호 52%·이석형 35%",
-                "link": "https://n.news.naver.com/mnews/article/629/0000279062?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:56:00 +0900",
-                "title": "이개호, 함평군 시민단체와 정책 협약 체결",
-                "link": "http://www.gjdream.com/news/articleView.html?idxno=642151"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:40:00 +0900",
-                "title": "이개호 후보, 윤석열 정권 심판 및 지역발전 약속",
-                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 15:28:00 +0900",
-                "title": "이개호 후보, “‘반드시 윤석열 정권 심판하고 지역발전 이뤄내겠디”",
-                "link": "http://www.breaknews.com/1025392"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 14:36:00 +0900",
-                "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
-                "link": "http://www.mhj21.com/160323"
-            }
-        ],
-        "정당": "더불어민주당",
-        "이름": "이개호",
-        "연도별_재산": [
-            {
-                "연도": 2020,
-                "재산": 2643751
-            },
-            {
-                "연도": 2021,
-                "재산": 2936318
-            },
-            {
-                "연도": 2022,
-                "재산": 2837345
-            },
-            {
-                "연도": 2023,
-                "재산": 3145860
-            }
-        ],
-        "huboid": "100152994",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-1.pdf"
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2462202-1.jpg",
+    "id": "2462202_2-1",
+    "재산": 3145860,
+    "생년월일": "19590623",
+    "경력": "(전)농림축산식품부 장관\n(현)제21대 국회의원",
+    "학력": "전남대학교 경영학과 졸업",
+    "직업": "국회의원",
+    "성별": "남",
+    "id_21th": "874",
+    "regionId": "2462202_2",
+    "기호": 1,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 16:33:00 +0900",
+        "title": "전남 담양·함평·영광·장성 여론조사…이개호 52%·이석형 35%",
+        "link": "https://n.news.naver.com/mnews/article/629/0000279062?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:56:00 +0900",
+        "title": "이개호, 함평군 시민단체와 정책 협약 체결",
+        "link": "http://www.gjdream.com/news/articleView.html?idxno=642151"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:40:00 +0900",
+        "title": "이개호 후보, 윤석열 정권 심판 및 지역발전 약속",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 15:28:00 +0900",
+        "title": "이개호 후보, “‘반드시 윤석열 정권 심판하고 지역발전 이뤄내겠디”",
+        "link": "http://www.breaknews.com/1025392"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 14:36:00 +0900",
+        "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
+        "link": "http://www.mhj21.com/160323"
+      }
+    ],
+    "정당": "더불어민주당",
+    "이름": "이개호",
+    "연도별_재산": [
+      {
+        "연도": 2020,
+        "재산": 2643751
+      },
+      {
+        "연도": 2021,
+        "재산": 2936318
+      },
+      {
+        "연도": 2022,
+        "재산": 2837345
+      },
+      {
+        "연도": 2023,
+        "재산": 3145860
+      }
+    ],
+    "huboid": "100152994",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2462202-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-1.pdf",
+    "21th": {
+      "연락처": "의원회관 719호 | 전화 02-784-2165 | 팩스 02-6788-6915",
+      "당선횟수": 3,
+      "본회의_출석률": 97.01,
+      "소속위원회": "문화체육관광위원회",
+      "id": "874",
+      "주요경력": "전남대학교 상과대학 경영학과 졸업",
+      "본회의_출석률_등수": 56,
+      "재산등수": 113,
+      "상임위원회_출석률": [
+        {
+          "위원회": "문화체육관광위원회",
+          "출석률": 100,
+          "등수": 1,
+          "총원": 14
+        }
+      ],
+      "이름": "이개호",
+      "정당": "더불어민주당",
+      "위원회별_발의법안": [
+        {
+          "발의수": 34,
+          "위원회": "농림축산식품해양수산위원회"
+        },
+        {
+          "발의수": 16,
+          "위원회": "행정안전위원회"
+        },
+        {
+          "발의수": 7,
+          "위원회": "산업통상자원중소벤처기업위원회"
+        },
+        {
+          "발의수": 6,
+          "위원회": "문화체육관광위원회"
+        },
+        {
+          "발의수": 4,
+          "위원회": "법제사법위원회"
+        },
+        {
+          "발의수": 2,
+          "위원회": "정무위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "국회운영위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "과학기술정보방송통신위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "국토교통위원회"
+        },
+        {
+          "발의수": 1,
+          "위원회": "기획재정위원회"
+        }
+      ],
+      "대표발의법안_등수": 144,
+      "연도별_재산": [
+        {
+          "연도": 2020,
+          "재산": 2643751
+        },
+        {
+          "연도": 2021,
+          "재산": 2936318
+        },
+        {
+          "연도": 2022,
+          "재산": 2837345
+        }
+      ],
+      "대표발의법안": 73,
+      "주요법안표결": [
+        {
+          "별칭": "전세사기피해자 지원 특별법",
+          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2122268,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "임대차 보호법",
+          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+          "의안번호": 2102500,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "간호법",
+          "의안명": "간호법안(대안)",
+          "의안번호": 2120877,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "중대재해법",
+          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+          "의안번호": 2107249,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "이태원 참사 특별법",
+          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+          "의안번호": 2121515,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "노란봉투법",
+          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+          "의안번호": 2123038,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "학자금 무이자 대출",
+          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+          "의안번호": 2125809,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "양곡관리법",
+          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+          "의안번호": 2119727,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+          "의안번호": 2119142,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "개망신법",
+          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+          "의안번호": 2126369,
+          "찬반여부": "찬성"
+        },
+        {
+          "별칭": "1기 신도시 특별법",
+          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+          "의안번호": 2125837,
+          "찬반여부": "불참"
+        },
+        {
+          "별칭": "신공항 특별법",
+          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+          "의안번호": 2120933,
+          "찬반여부": "찬성"
+        }
+      ],
+      "워드클라우드": [
+        {
+          "단어": "이만희",
+          "count": "193"
+        },
+        {
+          "단어": "신문",
+          "count": "131"
+        },
+        {
+          "단어": "정점식",
+          "count": "127"
+        },
+        {
+          "단어": "기관",
+          "count": "110"
+        },
+        {
+          "단어": "권성동",
+          "count": "96"
+        },
+        {
+          "단어": "홍문표",
+          "count": "92"
+        },
+        {
+          "단어": "김영진",
+          "count": "73"
+        },
+        {
+          "단어": "의사진행",
+          "count": "73"
+        },
+        {
+          "단어": "최인호",
+          "count": "72"
+        },
+        {
+          "단어": "일본",
+          "count": "66"
+        }
+      ],
+      "대표법안목록": [
+        {
+          "제안일": "2024-02-26",
+          "의안명": "전기통신사업법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "과학기술정보방송통신위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-08-10",
+          "의안명": "농어촌정비법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "농림축산식품해양수산위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-08-08",
+          "의안명": "공항시설법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "국토교통위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-06-29",
+          "의안명": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "산업통상자원중소벤처기업위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-06-13",
+          "의안명": "국가유공자 등 예우 및 지원에 관한 법률 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "정무위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-06-13",
+          "의안명": "도시가스사업법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "산업통상자원중소벤처기업위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-05-30",
+          "의안명": "가정폭력범죄의 처벌 등에 관한 특례법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "법제사법위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-04-26",
+          "의안명": "농어업인 삶의 질 향상 및 농어촌지역 개발촉진에 관한 특별법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "농림축산식품해양수산위원회",
+          "진행상황": "대안반영폐기"
+        },
+        {
+          "제안일": "2023-04-26",
+          "의안명": "지방세법 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "행정안전위원회",
+          "진행상황": ""
+        },
+        {
+          "제안일": "2023-04-17",
+          "의안명": "전통사찰의 보존 및 지원에 관한 법률 일부개정법률안(이개호의원 등 10인) ",
+          "발의자": "이개호",
+          "상임위원회": "문화체육관광위원회",
+          "진행상황": ""
+        }
+      ],
+      "공약이행률": {
+        "총공약수": 25,
+        "공약이행수": 14
+      },
+      "공약이행률등수": 97,
+      "공약이행수등수": 128
     },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-2.jpg",
-        "id": "2462202_2-2",
-        "재산": -41084,
-        "생년월일": "19600520",
-        "경력": "(전)공무원 33년\n(현)대한탐정연합회 전라남도회장",
-        "학력": "조선대학교 법학과 석사과정 수료",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2462202_2",
-        "기호": 2,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:36:00 +0900",
-                "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
-                "link": "http://www.mhj21.com/160323"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:58:00 +0900",
-                "title": "김유성 담양‧함평‧영광‧장성 후보 \"낙후된 지역, 잘사는 동네 만들 것\"",
-                "link": "https://n.news.naver.com/mnews/article/079/0003880859?sid=165"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 10:06:00 +0900",
-                "title": "김유성 후보 \"지역발전 매진할 것\"…선거사무소 개소",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016489"
-            },
-            {
-                "date": "Wed, 27 Mar 2024 09:47:00 +0900",
-                "title": "<총선브리핑> 박병석 안태욱 김유성",
-                "link": "https://kjmbc.co.kr/article/92tsDpObmXsK"
-            },
-            {
-                "date": "Tue, 19 Mar 2024 03:18:00 +0900",
-                "title": "총선 3주 앞으로…전남 지역 선거구 여야 본선 대진표 확정",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=763230"
-            }
-        ],
-        "정당": "국민의힘",
-        "이름": "김유성",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -41084
-            }
-        ],
-        "huboid": "100153205",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-2.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-6.jpg",
-        "id": "2462202_2-6",
-        "재산": 50000,
-        "생년월일": "19651115",
-        "경력": "(전)복지TV사장\n(현)대한노인회 중앙회 정책위원",
-        "학력": "고려대학교 신문방송학과 졸업",
-        "직업": "정당인",
-        "성별": "남",
-        "regionId": "2462202_2",
-        "기호": 6,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 14:36:00 +0900",
-                "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
-                "link": "http://www.mhj21.com/160323"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 13:28:00 +0900",
-                "title": "김선우 후보, 92세 노모와 사전투표",
-                "link": "http://www.mdilbo.com/detail/Z0UE6f/717178"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:48:00 +0900",
-                "title": "김선우 후보, 92세 노모와 함께 사전투표",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003288"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:10:00 +0900",
-                "title": "김선우 후보 '4개군 연합 정책실현 협의회 구성' 제안",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240403010002190"
-            },
-            {
-                "date": "Tue, 02 Apr 2024 11:30:00 +0900",
-                "title": "[2024 총선]새로운미래 김선우 후보, 92세 노모와 함께 선거운동 '눈길'",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=765288"
-            }
-        ],
-        "정당": "새로운미래",
-        "이름": "김선우",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 50000
-            }
-        ],
-        "huboid": "100153275",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-6.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-6.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-7.jpg",
-        "id": "2462202_2-7",
-        "재산": 1250701,
-        "생년월일": "19621110",
-        "경력": "(전)고려대학교 연구교수\n(전)동북아역사재단 독도연구소장",
-        "학력": "영국 헐대학교 정치학박사 취득(96. 09. ~ 99. 07.)",
-        "직업": "배재대학교 연구교수",
-        "성별": "남",
-        "regionId": "2462202_2",
-        "기호": 7,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 29 Mar 2024 10:33:00 +0900",
-                "title": "<총선브리핑> 박은식*정희성*곽진오",
-                "link": "https://kjmbc.co.kr/article/qCdKhgC8RvNbC"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 18:44:00 +0900",
-                "title": "‘이개호 42.9%·이석형 41.9%’ 오차범위 초박빙 승부",
-                "link": "http://www.jndn.com/article.php?aid=1710668471381925001"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 18:02:00 +0900",
-                "title": "4선 도전 이개호·3선 군수 출신 맞대결 양상…'지민비조' 현실화",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=762975"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 18:02:00 +0900",
-                "title": "이개호 42.9%·이석형 41.9% '초접전'…조국혁신당 40.1% 돌풍",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=762963"
-            },
-            {
-                "date": "Sun, 17 Mar 2024 18:02:00 +0900",
-                "title": "담양·함평·영광·장성 이개호 42.9% vs 이석형 41.9% ‘초접전’",
-                "link": "http://www.kjdaily.com/article.php?aid=1710665766624875246"
-            }
-        ],
-        "정당": "개혁신당",
-        "이름": "곽진오",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1250701
-            }
-        ],
-        "huboid": "100152884",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-7.pdf"
-    },
-    {
-        "전과건수": 0,
-        "imageUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/candidates/2462202-8.jpg",
-        "id": "2462202_2-8",
-        "재산": 1339232,
-        "생년월일": "19581107",
-        "경력": "(전)함평군수\n(전)산림조합중앙회장",
-        "학력": "전남대학교 행정대학원 행정학과 졸업(행정학 석사)",
-        "직업": "정치인",
-        "성별": "남",
-        "regionId": "2462202_2",
-        "기호": 8,
-        "군필여부": true,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 16:33:00 +0900",
-                "title": "전남 담양·함평·영광·장성 여론조사…이개호 52%·이석형 35%",
-                "link": "https://n.news.naver.com/mnews/article/629/0000279062?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 08:40:00 +0900",
-                "title": "이석형 후보, 영산강살리기네트워크와 정책협약식",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003158"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 07:48:00 +0900",
-                "title": "이석형 후보-영산강살리기네트워크, 정책협약식 개최",
-                "link": "http://www.mdilbo.com/detail/Z0UE6f/717151"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 21:00:00 +0900",
-                "title": "이석형, 농업단체와 잇따라 정책협약",
-                "link": "http://www.kjdaily.com/article.php?aid=1712230163626642246"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:14:00 +0900",
-                "title": "이석형 후보 \"농어촌 기본소득·변동직불금 재도입 추진할 것\"",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002899"
-            }
-        ],
-        "정당": "무소속",
-        "이름": "이석형",
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1339232
-            }
-        ],
-        "huboid": "100151643",
-        "전과ImgUrl": "https://raw.githubusercontent.com/WhiteKiwi/law-maker/main/data/images/jeon-gwa/2462202-8.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-8.pdf"
-    }
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-1-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2462202-2.jpg",
+    "id": "2462202_2-2",
+    "재산": -41084,
+    "생년월일": "19600520",
+    "경력": "(전)공무원 33년\n(현)대한탐정연합회 전라남도회장",
+    "학력": "조선대학교 법학과 석사과정 수료",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2462202_2",
+    "기호": 2,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:36:00 +0900",
+        "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
+        "link": "http://www.mhj21.com/160323"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:58:00 +0900",
+        "title": "김유성 담양‧함평‧영광‧장성 후보 \"낙후된 지역, 잘사는 동네 만들 것\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003880859?sid=165"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 10:06:00 +0900",
+        "title": "김유성 후보 \"지역발전 매진할 것\"…선거사무소 개소",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010016489"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 09:47:00 +0900",
+        "title": "<총선브리핑> 박병석 안태욱 김유성",
+        "link": "https://kjmbc.co.kr/article/92tsDpObmXsK"
+      },
+      {
+        "date": "Tue, 19 Mar 2024 03:18:00 +0900",
+        "title": "총선 3주 앞으로…전남 지역 선거구 여야 본선 대진표 확정",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=763230"
+      }
+    ],
+    "정당": "국민의힘",
+    "이름": "김유성",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -41084
+      }
+    ],
+    "huboid": "100153205",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2462202-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-2-3.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2462202-6.jpg",
+    "id": "2462202_2-6",
+    "재산": 50000,
+    "생년월일": "19651115",
+    "경력": "(전)복지TV사장\n(현)대한노인회 중앙회 정책위원",
+    "학력": "고려대학교 신문방송학과 졸업",
+    "직업": "정당인",
+    "성별": "남",
+    "regionId": "2462202_2",
+    "기호": 6,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 14:36:00 +0900",
+        "title": "[4.10총선-230] 전남 담양·함평·영광·장성군. 이개호vs김유성vs김선우vs곽...",
+        "link": "http://www.mhj21.com/160323"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:28:00 +0900",
+        "title": "김선우 후보, 92세 노모와 사전투표",
+        "link": "http://www.mdilbo.com/detail/Z0UE6f/717178"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:48:00 +0900",
+        "title": "김선우 후보, 92세 노모와 함께 사전투표",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003288"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:10:00 +0900",
+        "title": "김선우 후보 '4개군 연합 정책실현 협의회 구성' 제안",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240403010002190"
+      },
+      {
+        "date": "Tue, 02 Apr 2024 11:30:00 +0900",
+        "title": "[2024 총선]새로운미래 김선우 후보, 92세 노모와 함께 선거운동 '눈길'",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=765288"
+      }
+    ],
+    "정당": "새로운미래",
+    "이름": "김선우",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 50000
+      }
+    ],
+    "huboid": "100153275",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2462202-6.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-6.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-6-9.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2462202-7.jpg",
+    "id": "2462202_2-7",
+    "재산": 1250701,
+    "생년월일": "19621110",
+    "경력": "(전)고려대학교 연구교수\n(전)동북아역사재단 독도연구소장",
+    "학력": "영국 헐대학교 정치학박사 취득(96. 09. ~ 99. 07.)",
+    "직업": "배재대학교 연구교수",
+    "성별": "남",
+    "regionId": "2462202_2",
+    "기호": 7,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 29 Mar 2024 10:33:00 +0900",
+        "title": "<총선브리핑> 박은식*정희성*곽진오",
+        "link": "https://kjmbc.co.kr/article/qCdKhgC8RvNbC"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 18:44:00 +0900",
+        "title": "‘이개호 42.9%·이석형 41.9%’ 오차범위 초박빙 승부",
+        "link": "http://www.jndn.com/article.php?aid=1710668471381925001"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 18:02:00 +0900",
+        "title": "4선 도전 이개호·3선 군수 출신 맞대결 양상…'지민비조' 현실화",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=762975"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 18:02:00 +0900",
+        "title": "이개호 42.9%·이석형 41.9% '초접전'…조국혁신당 40.1% 돌풍",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=762963"
+      },
+      {
+        "date": "Sun, 17 Mar 2024 18:02:00 +0900",
+        "title": "담양·함평·영광·장성 이개호 42.9% vs 이석형 41.9% ‘초접전’",
+        "link": "http://www.kjdaily.com/article.php?aid=1710665766624875246"
+      }
+    ],
+    "정당": "개혁신당",
+    "이름": "곽진오",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1250701
+      }
+    ],
+    "huboid": "100152884",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2462202-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-7-1.jpg"
+    ]
+  },
+  {
+    "전과건수": 0,
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2462202-8.jpg",
+    "id": "2462202_2-8",
+    "재산": 1339232,
+    "생년월일": "19581107",
+    "경력": "(전)함평군수\n(전)산림조합중앙회장",
+    "학력": "전남대학교 행정대학원 행정학과 졸업(행정학 석사)",
+    "직업": "정치인",
+    "성별": "남",
+    "regionId": "2462202_2",
+    "기호": 8,
+    "군필여부": true,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 16:33:00 +0900",
+        "title": "전남 담양·함평·영광·장성 여론조사…이개호 52%·이석형 35%",
+        "link": "https://n.news.naver.com/mnews/article/629/0000279062?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 08:40:00 +0900",
+        "title": "이석형 후보, 영산강살리기네트워크와 정책협약식",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240405010003158"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 07:48:00 +0900",
+        "title": "이석형 후보-영산강살리기네트워크, 정책협약식 개최",
+        "link": "http://www.mdilbo.com/detail/Z0UE6f/717151"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:00:00 +0900",
+        "title": "이석형, 농업단체와 잇따라 정책협약",
+        "link": "http://www.kjdaily.com/article.php?aid=1712230163626642246"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:14:00 +0900",
+        "title": "이석형 후보 \"농어촌 기본소득·변동직불금 재도입 추진할 것\"",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002899"
+      }
+    ],
+    "정당": "무소속",
+    "이름": "이석형",
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1339232
+      }
+    ],
+    "huboid": "100151643",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2462202-8.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2462202_2-8.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2462202_2-8-9.jpg"
+    ]
+  }
 ]
