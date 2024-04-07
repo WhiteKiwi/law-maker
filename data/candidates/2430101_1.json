@@ -1,251 +1,551 @@
 [
-  {
-    "id": "2430101_1-1",
-    "regionId": "2430101_1",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-1.jpg",
-    "기호": 1,
-    "이름": "이강일",
-    "생년월일": "19670430",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "사) 행복가정재단 상임이사",
-    "학력": "연세대학교 행정대학원 졸업(정책학석사)",
-    "경력": "(현)더불어민주당 청주상당지역위원장\n(현)사)민생경제지원단 상임위원장",
-    "재산": 2265112,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 15:16:00 +0900",
-        "title": "청주서 민주당 이강일 후보 선거벽보 훼손",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431625"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:40:00 +0900",
-        "title": "충북 청주상당 이강일·서승우 후보, 사전투표 완료",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431596"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:52:00 +0900",
-        "title": "선택 D-5/ 더불어민주당 청주 상당 이강일·지혜연 부부 투표",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746869"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
-        "title": "청주상당 이강일 \"특색있는 역사문화특구 지정\" 등 공약",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793012"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:34:00 +0900",
-        "title": "[충청총선]민주당 청주 상당구 이강일 후보, 지역공약 발표",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240404010001746"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 2265112
-      }
-    ],
-    "huboid": "100151169",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-9.jpg"
-    ]
-  },
-  {
-    "id": "2430101_1-2",
-    "regionId": "2430101_1",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-2.jpg",
-    "기호": 2,
-    "이름": "서승우",
-    "생년월일": "19681106",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "한국개발연구원(KDI) 국제정책대학원(정책학석사)",
-    "경력": "(전)대통령실 자치행정비서관\n(전)충청북도 행정부지사",
-    "재산": 1622959,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 19:02:00 +0900",
-        "title": "[포토] 서승우 후보, 상당신협본점 사전투표소 방문… 총선 사전투표",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220588"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:40:00 +0900",
-        "title": "충북 청주상당 이강일·서승우 후보, 사전투표 완료",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431596"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:46:00 +0900",
-        "title": "선택 D-5/ 국민의힘 청주 상당 서승우·한정복 부부 투표",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746868"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 22:08:00 +0900",
-        "title": "4.10 총선 / 윤재옥 국민의힘 원내대표, 서승우 후보 지원 유세",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746804"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 22:08:00 +0900",
-        "title": "선택 D-5/ 육거리 시장서 큰절하는 서승우 국민의힘 후보",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746839"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1622959
-      }
-    ],
-    "huboid": "100153100",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-9.jpg"
-    ]
-  },
-  {
-    "id": "2430101_1-5",
-    "regionId": "2430101_1",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-5.jpg",
-    "기호": 5,
-    "이름": "송상호",
-    "생년월일": "19720103",
-    "정당": "녹색정의당",
-    "성별": "남",
-    "직업": "사회운동가",
-    "학력": "충북대학교 천문우주학과 졸업",
-    "경력": "(현)충북장애인차별철폐연대 공동대표\n(현)충북기후위기비상행동 공동대표",
-    "재산": 392969,
-    "군필여부": true,
-    "전과건수": 3,
-    "news": [
-      {
-        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
-        "title": "청주상당 송상호, 노동당충북도당·충북녹색당과 정책 연대",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793011"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:49:00 +0900",
-        "title": "녹색정의당 송상호, 노동당·충북녹색당 선거 정책연대 선언",
-        "link": "https://n.news.naver.com/mnews/article/079/0003882044?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:00:00 +0900",
-        "title": "노동당·녹색당, 녹색정의당 송상호 청주상당 후보 지지",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431529"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 13:52:00 +0900",
-        "title": "청주 상당 송상호, 충북 노동당·녹색당 선거정책 연대",
-        "link": "https://n.news.naver.com/mnews/article/031/0000825975?sid=102"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 10:59:00 +0900",
-        "title": "충북 '정치 1번지' 청주 상당, '이강일 42%, 서승우 34%, 송상호·우근헌 1%'",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085309?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 392969
-      }
-    ],
-    "huboid": "100152534",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-5.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-5.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-7.jpg"
-    ]
-  },
-  {
-    "id": "2430101_1-7",
-    "regionId": "2430101_1",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-7.jpg",
-    "기호": 7,
-    "이름": "우근헌",
-    "생년월일": "19660107",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "정보통신기술사",
-    "학력": "고려대학교 산업대학원 졸업(전파공학석사)",
-    "경력": "(전)제너럴시티주식회사 대표이사\n(현)무영씨엠건축사사무소 상무이사",
-    "재산": 595691,
-    "군필여부": true,
-    "전과건수": 2,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 10:59:00 +0900",
-        "title": "충북 '정치 1번지' 청주 상당, '이강일 42%, 서승우 34%, 송상호·우근헌 1%'",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085309?sid=100"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 11:26:00 +0900",
-        "title": "정우택 국회부의장, 청주상당 총선 불출마 선언",
-        "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/20/2024032000113.html"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 11:20:00 +0900",
-        "title": "‘공천 취소’ 정우택 불출마 선언…“당에 남아 명예회복”",
-        "link": "https://www.etoday.co.kr/news/view/2342134"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 11:07:00 +0900",
-        "title": "'공천 취소' 정우택 불출마 선언…\"당에 남아 명예회복\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0014575466?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 11:03:00 +0900",
-        "title": "'공천 취소' 충북 청주상당 정우택, 총선 불출마 선언",
-        "link": "https://n.news.naver.com/mnews/article/003/0012438129?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 595691
-      }
-    ],
-    "huboid": "100151784",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-7.jpg"
-    ]
-  }
+    {
+        "id": "2430101_1-1",
+        "regionId": "2430101_1",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-1.jpg",
+        "기호": 1,
+        "이름": "이강일",
+        "생년월일": "19670430",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "사) 행복가정재단 상임이사",
+        "학력": "연세대학교 행정대학원 졸업(정책학석사)",
+        "경력": "(현)더불어민주당 청주상당지역위원장\n(현)사)민생경제지원단 상임위원장",
+        "재산": 2265112,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 19:06:00 +0900",
+                "title": "청주상당 이강일 \"벽보 훼손 계획된 범죄행위\" 엄중 조사 촉구",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793180"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 14:56:00 +0900",
+                "title": "청주서 이강일 후보 선거벽보·이연희 후보 현수막 훼손",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431744"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 08:52:00 +0900",
+                "title": "[충청총선]민주당 이강일 청주 상당 국회의원 후보, 벽보훼손 조사 촉구",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240407010002098"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 01:00:00 +0900",
+                "title": "[현장] \"바쁘다 바빠\"…이강일·서승우, 청주상당 바닥표 다지기 총력전",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817937?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:16:00 +0900",
+                "title": "청주서 민주당 이강일 후보 선거벽보 훼손",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431625"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:40:00 +0900",
+                "title": "충북 청주상당 이강일·서승우 후보, 사전투표 완료",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431596"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:52:00 +0900",
+                "title": "선택 D-5/ 더불어민주당 청주 상당 이강일·지혜연 부부 투표",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746869"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 09:02:00 +0900",
+                "title": "지금, 충청 민심 “젊은 사람 살라믄 공업을 일으키야 혀”",
+                "link": "https://n.news.naver.com/mnews/article/262/0000017346?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 21:28:00 +0900",
+                "title": "[총선] 충북지역 민주당 , 국힘 후보들 사전 투표 일정 발표",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580971"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:54:00 +0900",
+                "title": "여야 지도부 잇단 충북 지원 유세...격전지 표심공략 화력집중",
+                "link": "https://n.news.naver.com/mnews/article/655/0000017664?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+                "title": "청주상당 이강일 \"특색있는 역사문화특구 지정\" 등 공약",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793012"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+                "title": "오늘 사전투표 … 여야 지도부 `청주대첩'",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793053"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:53:00 +0900",
+                "title": "사전투표 앞두고 여야 지도부, 충북서 선거 지원 유세",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969211"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:52:00 +0900",
+                "title": "더불어민주당 청주권 후보, 공명선거감시단 발족",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969279"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:44:00 +0900",
+                "title": "이재명 vs 한동훈, 선거 막판 '충청표심' 호소",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431560"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:56:00 +0900",
+                "title": "김부겸 \"민주당 후보들이 충북의 미래를 책임지겠다\"",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307588"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:52:00 +0900",
+                "title": "사전투표 D-1…여야 지도부, 충북에서 총력전",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2266776"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:44:00 +0900",
+                "title": "충청권 격전지 찾은 김부겸 \"휘청거리는 대한민국 똑바로 세우겠다\"",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085721?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:36:00 +0900",
+                "title": "여야 지도부, 사전투표 하루 전 충북서 유세 지원 사격",
+                "link": "https://www.inews365.com/news/article.html?no=808871"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:34:00 +0900",
+                "title": "[충청총선]민주당 청주 상당구 이강일 후보, 지역공약 발표",
+                "link": "https://www.joongdo.co.kr/web/view.php?key=20240404010001746"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 2265112
+            }
+        ],
+        "huboid": "100151169",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-1-9.jpg"
+        ]
+    },
+    {
+        "id": "2430101_1-2",
+        "regionId": "2430101_1",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-2.jpg",
+        "기호": 2,
+        "이름": "서승우",
+        "생년월일": "19681106",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "한국개발연구원(KDI) 국제정책대학원(정책학석사)",
+        "경력": "(전)대통령실 자치행정비서관\n(전)충청북도 행정부지사",
+        "재산": 1622959,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 21:06:00 +0900",
+                "title": "[포토] 한동훈·김진모·서승우, 청주시민과 ‘벚꽃엔딩’",
+                "link": "https://n.news.naver.com/mnews/article/031/0000826617?sid=102"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 21:02:00 +0900",
+                "title": "4.10 총선 / 한동훈 위원장, 김진모·서승우 후보 지원 유세",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=747092"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:22:00 +0900",
+                "title": "서승우 후보·윤갑근 공동선대위원장, 첫 공동 거리유세",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2267029"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 19:06:00 +0900",
+                "title": "청주상당 서승우, 윤갑근 선대위원장과 첫 거리유세 … 지지 호소",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793179"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 12:16:00 +0900",
+                "title": "한동훈, 청주 재방문… 김수민·김동원·김진모·서승우 지지호소 예정",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085911?sid=100"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 01:00:00 +0900",
+                "title": "[현장] \"바쁘다 바빠\"…이강일·서승우, 청주상당 바닥표 다지기 총력전",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817937?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 18:34:00 +0900",
+                "title": "서승우·윤갑근 주말 맞아 청주 육거리시장서 공동 거리유세",
+                "link": "https://www.newspim.com/news/view/20240406000129"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 13:18:00 +0900",
+                "title": "[현장] 총선 D-4…서승우, 윤갑근과 육거리시장 찾아 \"주민들 하늘같이 모시겠...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817859?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 19:02:00 +0900",
+                "title": "[포토] 서승우 후보, 상당신협본점 사전투표소 방문… 총선 사전투표",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220588"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:40:00 +0900",
+                "title": "충북 청주상당 이강일·서승우 후보, 사전투표 완료",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431596"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:46:00 +0900",
+                "title": "선택 D-5/ 국민의힘 청주 상당 서승우·한정복 부부 투표",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746868"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 22:08:00 +0900",
+                "title": "4.10 총선 / 윤재옥 국민의힘 원내대표, 서승우 후보 지원 유세",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746804"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 22:08:00 +0900",
+                "title": "선택 D-5/ 육거리 시장서 큰절하는 서승우 국민의힘 후보",
+                "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746839"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:02:00 +0900",
+                "title": "윤재옥 국민의힘 원내대표, 충북 청주상당 서승우 후보 지지 호소",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220441"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:37:00 +0900",
+                "title": "서승우 후보 지지 호소하는 윤재옥",
+                "link": "https://n.news.naver.com/mnews/article/001/0014610969?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:37:00 +0900",
+                "title": "서승우 후보 지지 호소하는 윤재옥",
+                "link": "https://n.news.naver.com/mnews/article/001/0014610972?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:37:00 +0900",
+                "title": "서승우 후보 지지 호소하는 윤재옥",
+                "link": "https://n.news.naver.com/mnews/article/001/0014610967?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:58:00 +0900",
+                "title": "청주 찾은 윤재옥 \"反대한민국 세력 국회 입성 막아야\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014610719?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:39:00 +0900",
+                "title": "[4.10 총선 지역별 판세] ‘스윙보터’ 충북… 민주 우세 2곳, 6곳은 경합",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331302?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:46:00 +0900",
+                "title": "[오늘의 주요 정치 일정] 정치(4월4일 목요일)",
+                "link": "http://www.econonews.co.kr/news/articleView.html?idxno=333390"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1622959
+            }
+        ],
+        "huboid": "100153100",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-2-9.jpg"
+        ]
+    },
+    {
+        "id": "2430101_1-5",
+        "regionId": "2430101_1",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-5.jpg",
+        "기호": 5,
+        "이름": "송상호",
+        "생년월일": "19720103",
+        "정당": "녹색정의당",
+        "성별": "남",
+        "직업": "사회운동가",
+        "학력": "충북대학교 천문우주학과 졸업",
+        "경력": "(현)충북장애인차별철폐연대 공동대표\n(현)충북기후위기비상행동 공동대표",
+        "재산": 392969,
+        "군필여부": true,
+        "전과건수": 3,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+                "title": "청주상당 송상호, 노동당충북도당·충북녹색당과 정책 연대",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=793011"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:49:00 +0900",
+                "title": "녹색정의당 송상호, 노동당·충북녹색당 선거 정책연대 선언",
+                "link": "https://n.news.naver.com/mnews/article/079/0003882044?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 16:00:00 +0900",
+                "title": "노동당·녹색당, 녹색정의당 송상호 청주상당 후보 지지",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1431529"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:52:00 +0900",
+                "title": "청주 상당 송상호, 충북 노동당·녹색당 선거정책 연대",
+                "link": "https://n.news.naver.com/mnews/article/031/0000825975?sid=102"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "충북 '정치 1번지' 청주 상당, '이강일 42%, 서승우 34%, 송상호·우근헌 1%'",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085309?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "송상호 육거리시장 유권자 표심 공략",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792485"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:08:00 +0900",
+                "title": "'충북 유일 진보정당' 송상호 후보, '기후 정치' 내걸고 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428401?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:00:00 +0900",
+                "title": "녹색정의당, 송상호 청주상당 총선 후보 지지 행보",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219958"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 13:44:00 +0900",
+                "title": "송상호 후보 지원 유세에 나선 김찬휘 녹색정의당 공동대표",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968346"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 19:44:00 +0900",
+                "title": "녹색정의당 송상호 후보 공룡분장 선거운동 눈길",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1430843"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 17:55:00 +0900",
+                "title": "청주 상당 녹색정의당 송상호 ‘이색 선거운동’",
+                "link": "https://n.news.naver.com/mnews/article/031/0000824677?sid=102"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 12:52:00 +0900",
+                "title": "22대 국회의원선거 후보자 토론회 - 청주 상당",
+                "link": "https://www.inews365.com/news/article.html?no=807932"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 10:38:00 +0900",
+                "title": "[22대 총선] 충북 정치 1번지 ‘물갈이’ 중…‘2强2弱’",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/31/2024033100022.html"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:41:00 +0900",
+                "title": "충북 정치1번지 청주 상당 '2강 2약' 승부 예측 불허",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447246?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 17:00:00 +0900",
+                "title": "선거운동 첫 주말…청주권 후보들 유세 경쟁 치열",
+                "link": "https://n.news.naver.com/mnews/article/421/0007446870?sid=165"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 16:05:00 +0900",
+                "title": "공식 선거운동 첫 주말…충북 후보들 표심공략 '동분서주'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014599658?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 21:44:00 +0900",
+                "title": "[총선] ‘청주 상당’ 법정 토론회…공약 선명·정쟁 치열",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691740?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 19:45:00 +0900",
+                "title": "[총선] ‘청주 상당·청원’ 토론회, KBS서 열려",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691660?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:32:00 +0900",
+                "title": "치솟는 물가 두고 이강일 \"尹정권 심판\" vs 서승우 \"文정권 때문\" [청주상당 ...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815015?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 14:52:00 +0900",
+                "title": "청주 상당 여야 후보들, 토론회 격돌…의대증원 등 갑론을박",
+                "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=968052"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 392969
+            }
+        ],
+        "huboid": "100152534",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-5.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-5.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-5-7.jpg"
+        ]
+    },
+    {
+        "id": "2430101_1-7",
+        "regionId": "2430101_1",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2430101-7.jpg",
+        "기호": 7,
+        "이름": "우근헌",
+        "생년월일": "19660107",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "정보통신기술사",
+        "학력": "고려대학교 산업대학원 졸업(전파공학석사)",
+        "경력": "(전)제너럴시티주식회사 대표이사\n(현)무영씨엠건축사사무소 상무이사",
+        "재산": 595691,
+        "군필여부": true,
+        "전과건수": 2,
+        "news": [
+            {
+                "date": "Tue, 02 Apr 2024 10:59:00 +0900",
+                "title": "충북 '정치 1번지' 청주 상당, '이강일 42%, 서승우 34%, 송상호·우근헌 1%'",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085309?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:58:00 +0900",
+                "title": "22대 총선 후보자 등록 첫날 충청권 70명 접수…경쟁률 2.5대 1",
+                "link": "http://www.jbnews.com/news/articleView.html?idxno=1429667"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:57:00 +0900",
+                "title": "충북 4·10총선 후보등록 첫날 19명 출사표…22일 대진표 완성",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876654?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:39:00 +0900",
+                "title": "총선 후보등록 첫날 충북 19명 출사표…경쟁률 2.37대 1",
+                "link": "https://n.news.naver.com/mnews/article/003/0012442958?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:22:00 +0900",
+                "title": "총선 후보 등록 첫날 충북 19명 출사표",
+                "link": "https://www.inews365.com/news/article.html?no=806691"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:56:00 +0900",
+                "title": "4·10 총선 후보 등록 첫날, 충북지역 19명 신청",
+                "link": "https://n.news.naver.com/mnews/article/031/0000822342?sid=102"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 12:00:00 +0900",
+                "title": "충북 여야 동석, '과반 차지' 혈전 돌입",
+                "link": "https://www.ccreview.co.kr/news/articleView.html?idxno=317316"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:57:00 +0900",
+                "title": "'돈 봉투 의혹' 정우택 총선 불출마 선언 \"당에 남아 서승우 후보 지지하겠다...",
+                "link": "https://n.news.naver.com/mnews/article/655/0000017296?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:54:00 +0900",
+                "title": "`공천 취소' 정우택 총선 불출마 선언",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=791092"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:10:00 +0900",
+                "title": "정우택, 불출마 선언…\"당에 남아 명예회복\"",
+                "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2263707"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:20:00 +0900",
+                "title": "'공천 취소' 정우택 총선 불출마 선언…\"당에 남아 명예·신뢰 회복\"",
+                "link": "https://www.inews365.com/news/article.html?no=806388"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:20:00 +0900",
+                "title": "'공천 취소' 정우택, 총선 불출마…\"정치공작 만행엔 끝까지 싸울 것\"(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012439678?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:26:00 +0900",
+                "title": "정우택 청주상당 불출마 선언, 총선 영향은?",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=306678"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 15:22:00 +0900",
+                "title": "‘공천 취소’ 정우택 총선 불출마 선언···“당에 남아 명예회복 할 것”",
+                "link": "https://n.news.naver.com/mnews/article/021/0002627579?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:34:00 +0900",
+                "title": "'공천 취소' 정우택 불출마 결정…\"당원 동지 적극 돕겠다\"",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454147"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:52:00 +0900",
+                "title": "'공천 취소' 정우택 불출마...\"당에 남아 명예 회복\"",
+                "link": "https://www.kpinews.kr/newsView/1065581051011804"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:30:00 +0900",
+                "title": "'공천 취소' 국힘 정우택 부의장 불출마 선언",
+                "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20240320&SEQUENCE=3346"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:26:00 +0900",
+                "title": "정우택 국회부의장, 청주상당 총선 불출마 선언",
+                "link": "https://cc.newdaily.co.kr/site/data/html/2024/03/20/2024032000113.html"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:20:00 +0900",
+                "title": "‘공천 취소’ 정우택 불출마 선언…“당에 남아 명예회복”",
+                "link": "https://www.etoday.co.kr/news/view/2342134"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 11:07:00 +0900",
+                "title": "'공천 취소' 정우택 불출마 선언…\"당에 남아 명예회복\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014575466?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 595691
+            }
+        ],
+        "huboid": "100151784",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2430101-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2430101_1-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2430101_1-7.jpg"
+        ]
+    }
 ]

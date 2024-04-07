@@ -1,134 +1,284 @@
 [
-  {
-    "id": "2110501-1",
-    "regionId": "2110501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2110501-1.jpg",
-    "기호": 1,
-    "이름": "이정헌",
-    "생년월일": "19710505",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "서강대학교 영어영문학과 졸업",
-    "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
-    "재산": 748792,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 15:30:00 +0900",
-        "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:20:00 +0900",
-        "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
-        "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:39:00 +0900",
-        "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
-        "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:00:00 +0900",
-        "title": "[총선 격전지] 서울 광진갑 초박빙…'친명' 이정헌 vs '친윤' 김병민 격돌",
-        "link": "https://www.newspim.com/news/view/20240404000698"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 15:02:00 +0900",
-        "title": "[서울 광진갑] 더불어민주당 이정헌 44.7%, 국민의힘 김병민 38.8%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428776?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 748792
-      }
-    ],
-    "huboid": "100151442",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2110501-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-9.jpg"
-    ]
-  },
-  {
-    "id": "2110501-2",
-    "regionId": "2110501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2110501-2.jpg",
-    "기호": 2,
-    "이름": "김병민",
-    "생년월일": "19820204",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "경희대학교 행정학과 객원교수",
-    "학력": "경희대학교 대학원 행정학 박사",
-    "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
-    "재산": 1018304,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 15:30:00 +0900",
-        "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:20:00 +0900",
-        "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
-        "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:15:00 +0900",
-        "title": "[사전투표] '광진갑' 김병민 \"수도권 표심, 마지막까지 알 수 없는 일\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817590?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:39:00 +0900",
-        "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
-        "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 05:00:00 +0900",
-        "title": "[현장] 한동훈, '김병민·오신환' 손 세번째 번쩍…\"광진 위해 몸 바치게 해달...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817351?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1018304
-      }
-    ],
-    "huboid": "100152210",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2110501-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-9.jpg"
-    ]
-  }
+    {
+        "id": "2110501-1",
+        "regionId": "2110501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2110501-1.jpg",
+        "기호": 1,
+        "이름": "이정헌",
+        "생년월일": "19710505",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "서강대학교 영어영문학과 졸업",
+        "경력": "(전)JTBC 뉴스앵커\n(전)제20대 대통령선거 더불어민주당 선대위 대변인",
+        "재산": 748792,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 12:02:00 +0900",
+                "title": "초박빙 서울 광진갑...‘정권심판’ 이정헌 vs ‘지역밀착’ 김병민[배틀필드...",
+                "link": "https://www.etoday.co.kr/news/view/2348250"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:30:00 +0900",
+                "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:20:00 +0900",
+                "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:39:00 +0900",
+                "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:00:00 +0900",
+                "title": "[총선 격전지] 서울 광진갑 초박빙…'친명' 이정헌 vs '친윤' 김병민 격돌",
+                "link": "https://www.newspim.com/news/view/20240404000698"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 15:02:00 +0900",
+                "title": "[서울 광진갑] 더불어민주당 이정헌 44.7%, 국민의힘 김병민 38.8%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428776?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 14:51:00 +0900",
+                "title": "[서울 광진갑] 더불어민주당 이정헌 45.5%, 국민의힘 김병민 45%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428770?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 12:46:00 +0900",
+                "title": "[4·10 총선 지지율 여론조사] 서울 광진갑 민주당 이정헌 45.5%·국민의힘 김...",
+                "link": "https://www.cbci.co.kr/news/articleView.html?idxno=463787"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 12:02:00 +0900",
+                "title": "[광진갑] 민주당 이정헌 44.7%-국민의힘 김병민 38.8%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428720?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 11:44:00 +0900",
+                "title": "[서울 광진갑 여론조사] 민주 이정헌 45.5%·국힘 김병민 45.0%",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2960092"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 11:12:00 +0900",
+                "title": "서울 광진갑, '이정헌 45.5% vs 김병민 45.0%' … 0.5%p 초접전",
+                "link": "http://www.queen.co.kr/news/articleView.html?idxno=409510"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:56:00 +0900",
+                "title": "[단독] 민주당 이정헌 후보, 광진서 나홀로 '월세살이' … 가족은 투표권 없이...",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/03/2024040300100.html"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:47:00 +0900",
+                "title": "서울 광진갑, 이정헌 45.5% 김병민 45.0%…0.5%p 초접전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007455162?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:39:00 +0900",
+                "title": "이정헌 45.5% 對 김병민 45.0%…광진갑 '살얼음판 승부'",
+                "link": "https://n.news.naver.com/mnews/article/586/0000075813?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:24:00 +0900",
+                "title": "'한강 벨트' 광진갑 초박빙 접전…이정헌 45.5% vs 김병민 45%",
+                "link": "https://n.news.naver.com/mnews/article/008/0005020835?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 08:48:00 +0900",
+                "title": "[공정] '광진갑' 이정헌 45.5% vs 김병민 45%",
+                "link": "http://www.viewsnnews.com/article?q=218889"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 07:00:00 +0900",
+                "title": "이정헌 45.5% vs 김병민 45.0%…광진갑 '소수점' 초박빙 [데일리안 격전지 여...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816458?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 06:20:00 +0900",
+                "title": "김병민 \"이정헌, 전주 대변인인가? 광진 대변인인가?…연고 논쟁 '활활' [광진...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816452?sid=165"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:09:00 +0900",
+                "title": "[단독]민주 광진갑 이정헌, 선관위에 고발당해…동부지검 이관",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165606?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 14:40:00 +0900",
+                "title": "이정헌 더불어민주당 광진갑 후보 '유권자들에게 지지 호소'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002815772?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 748792
+            }
+        ],
+        "huboid": "100151442",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2110501-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-1-9.jpg"
+        ]
+    },
+    {
+        "id": "2110501-2",
+        "regionId": "2110501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2110501-2.jpg",
+        "기호": 2,
+        "이름": "김병민",
+        "생년월일": "19820204",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "경희대학교 행정학과 객원교수",
+        "학력": "경희대학교 대학원 행정학 박사",
+        "경력": "(전)국민의힘 최고위원\n(현)경희대학교 행정학과 객원교수",
+        "재산": 1018304,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 12:02:00 +0900",
+                "title": "초박빙 서울 광진갑...‘정권심판’ 이정헌 vs ‘지역밀착’ 김병민[배틀필드...",
+                "link": "https://www.etoday.co.kr/news/view/2348250"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 07:40:00 +0900",
+                "title": "[현장] \"접전을 뚫어라\"…마지막 토요일 '읍소 전략' 나선 오신환·김병민",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817957?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:30:00 +0900",
+                "title": "[4.10총선 여론조사] 한강벨트 서울 광진갑, 국힘 김병민(45%) 민주 이정헌(4...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642170"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:20:00 +0900",
+                "title": "[총선 격전지] '한강 벨트' 광진갑…이정헌 vs 김병민",
+                "link": "https://www.natv.go.kr/natv/news/newsView.do?newsId=507928"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:15:00 +0900",
+                "title": "[사전투표] '광진갑' 김병민 \"수도권 표심, 마지막까지 알 수 없는 일\"",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817590?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:39:00 +0900",
+                "title": "[격전지를가다] 지역발전 두고 '한판 승부'…광진갑 김병민 vs 이정헌",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653571?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 05:00:00 +0900",
+                "title": "[현장] 한동훈, '김병민·오신환' 손 세번째 번쩍…\"광진 위해 몸 바치게 해달...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817351?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:49:00 +0900",
+                "title": "[포토] 오신환 김병민 후보 지원유세하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/009/0005283602?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:00:00 +0900",
+                "title": "[총선 격전지] 서울 광진갑 초박빙…'친명' 이정헌 vs '친윤' 김병민 격돌",
+                "link": "https://www.newspim.com/news/view/20240404000698"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:50:00 +0900",
+                "title": "[포토10컷] 초선도전! 김병민-오신환후보 지지 호소하는 한동훈",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=114265"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:44:00 +0900",
+                "title": "[영상] 광진구 김병민∙오신환후보 지원 유세 나선 한동훈위원장",
+                "link": "http://www.dailyimpact.co.kr/news/articleView.html?idxno=114264"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:57:00 +0900",
+                "title": "한동훈 위원장, 김병민·오신환 후보와 어깨동무",
+                "link": "https://n.news.naver.com/mnews/article/421/0007458674?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:49:00 +0900",
+                "title": "김병민·오신환 후보 지원 나선 한동훈",
+                "link": "https://n.news.naver.com/mnews/article/421/0007458654?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:48:00 +0900",
+                "title": "광진구서 유세하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/421/0007458648?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471523?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471524?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "광진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471536?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "광진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471530?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "지지 호소하는 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471521?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:39:00 +0900",
+                "title": "광진구 지원유세 나선 한동훈 위원장",
+                "link": "https://n.news.naver.com/mnews/article/003/0012471542?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1018304
+            }
+        ],
+        "huboid": "100152210",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2110501-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2110501-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2110501-2-9.jpg"
+        ]
+    }
 ]

@@ -1,134 +1,284 @@
 [
-  {
-    "id": "2261401-2",
-    "regionId": "2261401",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261401-2.jpg",
-    "기호": 2,
-    "이름": "김희정",
-    "생년월일": "19710413",
-    "정당": "국민의힘",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "연세대학교 대학원 정치학과 박사과정 수료",
-    "경력": "(전)제17·19대 국회의원\n(전)여성가족부 장관",
-    "재산": 4626761,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 16:20:00 +0900",
-        "title": "자유시민연합 \"제 2의 건국전쟁\"...국힘 연제구 김희정 후보 지지 선언",
-        "link": "http://www.newsprime.co.kr/news/article.html?no=634898"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:17:00 +0900",
-        "title": "노정현 선전, 김희정 추격…보수세 강한 연제 무슨 일이",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070482?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:17:00 +0900",
-        "title": "“통진당 후신에 연제 내줄 수 없다” 이주환 의원, 김희정과 원팀 과시",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070481?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 14:32:00 +0900",
-        "title": "[총선 격전지를 가다] 부산 연제… ‘텃밭 지키기’ 김희정 vs ‘진보깃발 꽂...",
-        "link": "https://www.viva100.com/main/view.php?key=20240404010001567"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 13:54:00 +0900",
-        "title": "한국노총 부산지역본부, 노동의 새로운 미래비전 함께 할 김희정 후보 ’지지...",
-        "link": "https://www.news2day.co.kr/article/20240404500143"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 4626761
-      }
-    ],
-    "huboid": "100152163",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261401-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261401-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-9.jpg"
-    ]
-  },
-  {
-    "id": "2261401-7",
-    "regionId": "2261401",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261401-7.jpg",
-    "기호": 7,
-    "이름": "노정현",
-    "생년월일": "19780128",
-    "정당": "진보당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "부산대학교 상과대학 경영학부 졸업",
-    "경력": "(현)진보당 부산광역시당 위원장\n(전)제6, 7대 부산광역시 연제구의회 의원",
-    "재산": -21575,
-    "군필여부": true,
-    "전과건수": 3,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 16:20:00 +0900",
-        "title": "노정현 연제구 후보, 부인과 사전투표…\"청년 미래 위해 투표해 달라\"",
-        "link": "https://www.newspim.com/news/view/20240405001012"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:40:00 +0900",
-        "title": "노정현 국회의원 후보 부부 사전투표 참여...부산 연제구",
-        "link": "http://www.kukinews.com/newsView/kuk202404050116"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:18:00 +0900",
-        "title": "[김혜영의 뉴스공감] 노정현 \"부산 연제 이변, 민주당-진보당의 아름다운 단결...",
-        "link": "https://news.cpbc.co.kr/article/1156365?division=NAVER"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:17:00 +0900",
-        "title": "노정현 선전, 김희정 추격…보수세 강한 연제 무슨 일이",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070482?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:00:00 +0900",
-        "title": "국민의힘, 진보당 노정현-무소속 장예찬 때리기...보수 집결 노림수?",
-        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151268"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": -21575
-      }
-    ],
-    "huboid": "100151144",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261401-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261401-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-9.jpg"
-    ]
-  }
+    {
+        "id": "2261401-2",
+        "regionId": "2261401",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261401-2.jpg",
+        "기호": 2,
+        "이름": "김희정",
+        "생년월일": "19710413",
+        "정당": "국민의힘",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "연세대학교 대학원 정치학과 박사과정 수료",
+        "경력": "(전)제17·19대 국회의원\n(전)여성가족부 장관",
+        "재산": 4626761,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sat, 06 Apr 2024 19:54:00 +0900",
+                "title": "국민의힘 김희정 vs 진보당 노정현, 주말 집중유세 돌입",
+                "link": "https://n.news.naver.com/mnews/article/421/0007464112?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:20:00 +0900",
+                "title": "자유시민연합 \"제 2의 건국전쟁\"...국힘 연제구 김희정 후보 지지 선언",
+                "link": "http://www.newsprime.co.kr/news/article.html?no=634898"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:17:00 +0900",
+                "title": "“통진당 후신에 연제 내줄 수 없다” 이주환 의원, 김희정과 원팀 과시",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070481?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:17:00 +0900",
+                "title": "노정현 선전, 김희정 추격…보수세 강한 연제 무슨 일이",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070482?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:32:00 +0900",
+                "title": "[총선 격전지를 가다] 부산 연제… ‘텃밭 지키기’ 김희정 vs ‘진보깃발 꽂...",
+                "link": "https://www.viva100.com/main/view.php?key=20240404010001567"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 13:54:00 +0900",
+                "title": "한국노총 부산지역본부, 노동의 새로운 미래비전 함께 할 김희정 후보 ’지지...",
+                "link": "https://www.news2day.co.kr/article/20240404500143"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:22:00 +0900",
+                "title": "부산 연제구 노정현 56.7%, 김희정 37.5%...격차 더 벌어져",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326401?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:11:00 +0900",
+                "title": "부산 연제구 노정현 56.7% - 김희정 37.5%, 격차 벌어져",
+                "link": "https://n.news.naver.com/mnews/article/005/0001686190?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 10:18:00 +0900",
+                "title": "한국노총 부산지역본부 \"김희정 연제구 후보 지지\" 선언",
+                "link": "https://n.news.naver.com/mnews/article/014/0005166781?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 07:31:00 +0900",
+                "title": "부산, 진보당 지역구 의원 진짜 나오나…노정현 56.7%-김희정 37.5%, 격차 벌...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002630297?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 00:15:00 +0900",
+                "title": "[부산 연제] 진보당 노정현 56.7%, 국민의힘 김희정 37.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428890?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 19:10:00 +0900",
+                "title": "부산 연제 진보당 노정현 56.7%, 국힘 김희정 37.5%...격차 20%p 육박",
+                "link": "https://vop.co.kr/A00001650885.html"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:56:00 +0900",
+                "title": "부산 연제 진보당 노정현 56.7%, 국힘 김희정 37.5%…오차범위 밖 우세",
+                "link": "https://n.news.naver.com/mnews/article/421/0007456985?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:39:00 +0900",
+                "title": "[부산 연제] 더욱 확연히 벌어진 격차… 노정현, 김희정에 20%P 가까이 앞서 ...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263587?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:36:00 +0900",
+                "title": "한국노총 부산지역본부, 김희정 연제구 후보 지지선언",
+                "link": "https://www.viva100.com/main/view.php?key=20240403010001295"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:35:00 +0900",
+                "title": "수영 유동철 35.8 정연욱 31.1 장예찬 28.2% 사상 배재정 39.7 김대식 54.1%[...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263582?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:34:00 +0900",
+                "title": "부정이 긍정보다 높은 곳 수두룩… 여 후보 경쟁력 약화 [4·10 총선 여론조사...",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263580?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:54:00 +0900",
+                "title": "한국노총 부산지역본부, 김희정 후보 지지선언",
+                "link": "http://www.m-economynews.com/news/article.html?no=42759"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:23:00 +0900",
+                "title": "PK서 '우세' 혹은 '경합우세' 국힘은 29곳, 민주는 18곳",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070358?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 14:09:00 +0900",
+                "title": "도시철도망 구축계획 조정 앞둔 부산, 후보들 너도나도 도시철도 공약",
+                "link": "https://n.news.naver.com/mnews/article/421/0007455934?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 4626761
+            }
+        ],
+        "huboid": "100152163",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261401-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261401-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-2-9.jpg"
+        ]
+    },
+    {
+        "id": "2261401-7",
+        "regionId": "2261401",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2261401-7.jpg",
+        "기호": 7,
+        "이름": "노정현",
+        "생년월일": "19780128",
+        "정당": "진보당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "부산대학교 상과대학 경영학부 졸업",
+        "경력": "(현)진보당 부산광역시당 위원장\n(전)제6, 7대 부산광역시 연제구의회 의원",
+        "재산": -21575,
+        "군필여부": true,
+        "전과건수": 3,
+        "news": [
+            {
+                "date": "Sat, 06 Apr 2024 19:54:00 +0900",
+                "title": "국민의힘 김희정 vs 진보당 노정현, 주말 집중유세 돌입",
+                "link": "https://n.news.naver.com/mnews/article/421/0007464112?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:20:00 +0900",
+                "title": "노정현 연제구 후보, 부인과 사전투표…\"청년 미래 위해 투표해 달라\"",
+                "link": "https://www.newspim.com/news/view/20240405001012"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:40:00 +0900",
+                "title": "노정현 국회의원 후보 부부 사전투표 참여...부산 연제구",
+                "link": "http://www.kukinews.com/newsView/kuk202404050116"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:18:00 +0900",
+                "title": "[김혜영의 뉴스공감] 노정현 \"부산 연제 이변, 민주당-진보당의 아름다운 단결...",
+                "link": "https://news.cpbc.co.kr/article/1156365?division=NAVER"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:17:00 +0900",
+                "title": "노정현 선전, 김희정 추격…보수세 강한 연제 무슨 일이",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070482?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:00:00 +0900",
+                "title": "국민의힘, 진보당 노정현-무소속 장예찬 때리기...보수 집결 노림수?",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151268"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:22:00 +0900",
+                "title": "부산 연제구 노정현 56.7%, 김희정 37.5%...격차 더 벌어져",
+                "link": "https://n.news.naver.com/mnews/article/002/0002326401?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:18:00 +0900",
+                "title": "노정현, 김희정에 19.2%P 큰 차이로 앞서…부산 최대 격차",
+                "link": "https://www.cnbnews.com/news/article.html?no=652500"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:11:00 +0900",
+                "title": "부산 연제구 노정현 56.7% - 김희정 37.5%, 격차 벌어져",
+                "link": "https://n.news.naver.com/mnews/article/005/0001686190?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 07:31:00 +0900",
+                "title": "부산, 진보당 지역구 의원 진짜 나오나…노정현 56.7%-김희정 37.5%, 격차 벌...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002630297?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 00:15:00 +0900",
+                "title": "[부산 연제] 진보당 노정현 56.7%, 국민의힘 김희정 37.5%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428890?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 22:28:00 +0900",
+                "title": "[포토] 마이크 잡은 노정현 부산연제 후보",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/03/2024040300393.html"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 22:00:00 +0900",
+                "title": "대파·해병대 등장한 부산 유세장, 이재명 \"투표하면 이긴다\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428864?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:08:00 +0900",
+                "title": "이재명 부산 서면서 “확 뒤집을 준비 됐나”",
+                "link": "https://n.news.naver.com/mnews/article/082/0001263602?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:01:00 +0900",
+                "title": "이재명, '낙동강 벨트' 화력 집중 \"이제부턴 백병전…표 모아달라\" (종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012470122?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 20:58:00 +0900",
+                "title": "D-7, 여야 지도부 PK 표심 공략",
+                "link": "https://news.knn.co.kr/news/article/155273"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 20:54:00 +0900",
+                "title": "격차 벌어진 지역구, 국정 운영 평가 흐름은?",
+                "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=262782"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 19:52:00 +0900",
+                "title": "부산 고발만 3건…상대측 비판성명도 빗발",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070367?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 19:51:00 +0900",
+                "title": "[D-7 총선판세] 전문가 \"국힘 100~130, 민주 140~199\".. 각 당 자체 국힘 '10...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641798"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 19:10:00 +0900",
+                "title": "부산 연제 진보당 노정현 56.7%, 국힘 김희정 37.5%...격차 20%p 육박",
+                "link": "https://vop.co.kr/A00001650885.html"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": -21575
+            }
+        ],
+        "huboid": "100151144",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2261401-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2261401-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2261401-7-9.jpg"
+        ]
+    }
 ]

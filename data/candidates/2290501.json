@@ -1,308 +1,683 @@
 [
-  {
-    "id": "2290501-1",
-    "regionId": "2290501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-1.jpg",
-    "기호": 1,
-    "이름": "박균택",
-    "생년월일": "19660612",
-    "정당": "더불어민주당",
-    "성별": "남",
-    "직업": "법무법인 광산 대표 변호사",
-    "학력": "서울대학교 법과대학 사법학과 졸업",
-    "경력": "(현) 더불어민주당 당대표 법률특보\n(전) 광주고등검찰청 검사장",
-    "재산": 1878345,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 15:41:00 +0900",
-        "title": "<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 ...",
-        "link": "https://n.news.naver.com/mnews/article/607/0000001950?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:44:00 +0900",
-        "title": "박균택 민주당 광산갑 후보 사전 투표",
-        "link": "https://n.news.naver.com/mnews/article/421/0007461223?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:42:00 +0900",
-        "title": "박균택 민주당 광주 광산갑 후보 '소중한 한표 행사'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007461213?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:29:00 +0900",
-        "title": "<총선브리핑> 박은식 송영길 박균택",
-        "link": "https://kjmbc.co.kr/article/bRGVTLUX7y"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:26:00 +0900",
-        "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
-        "link": "http://www.mhj21.com/160308"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1878345
-      }
-    ],
-    "huboid": "100151468",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-7.jpg"
-    ]
-  },
-  {
-    "id": "2290501-2",
-    "regionId": "2290501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-2.jpg",
-    "기호": 2,
-    "이름": "김정현",
-    "생년월일": "19670826",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "행복노인전문요양원 대표이사",
-    "학력": "광신대학교 사회복지대학원 사회복지학과 졸업 (사회복지학 석사)",
-    "경력": "(전)국민의힘 광주시당위원장\n(전)국민의힘 광산구갑당협위원장",
-    "재산": 3822522,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 08:05:00 +0900",
-        "title": "[총선 돋보기] 김정현 후보 \"사전투표 국민의힘 후보 지지해달라\"",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2111047"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:26:00 +0900",
-        "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
-        "link": "http://www.mhj21.com/160308"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 19:14:00 +0900",
-        "title": "[총선브리핑] 국민의힘 김정현 광산갑 예비후보, “예산확보 선봉장 되겠다”",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1712139000766557358"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 10:24:00 +0900",
-        "title": "<총선브리핑>김정현 전주연 김성환",
-        "link": "https://kjmbc.co.kr/article/fXh1Qo4ja3rt5DJRUq"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 18:22:00 +0900",
-        "title": "총선 후보 등록한 국민의힘 김정현",
-        "link": "https://n.news.naver.com/mnews/article/001/0014580430?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3822522
-      }
-    ],
-    "huboid": "100152298",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-7.jpg"
-    ]
-  },
-  {
-    "id": "2290501-6",
-    "regionId": "2290501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-6.jpg",
-    "기호": 6,
-    "이름": "정형호",
-    "생년월일": "19560205",
-    "정당": "새로운미래",
-    "성별": "남",
-    "직업": "세무법인로엘 대표",
-    "학력": "백석대학교 기독교전문대학원 졸업(행정학박사)",
-    "경력": "(현)세무법인로엘 대표\n(전)민주당 사무총장",
-    "재산": 8320114,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Thu, 04 Apr 2024 16:26:00 +0900",
-        "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
-        "link": "http://www.mhj21.com/160308"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 09:31:00 +0900",
-        "title": "<총선브리핑> 윤민호 전진숙 정형호",
-        "link": "https://kjmbc.co.kr/article/gtM6ZuFedCov5Gsy"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 16:18:00 +0900",
-        "title": "새로운미래 광주 이낙연·정형호·박병석 후보, 굵은 비 맞으며 5·18묘지서 ...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=764782"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 14:18:00 +0900",
-        "title": "'이낙연·정형호·박병석' 새미래 후보들, 본격 선거운동 돌입",
-        "link": "http://www.mdilbo.com/detail/0kIA7d/716442"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 01:54:00 +0900",
-        "title": "새로운미래 광주 광산구갑·을 정형호·이낙연 후보, 개인택시조합 조기축구회...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=764509"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 8320114
-      }
-    ],
-    "huboid": "100153276",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-6.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-6.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-7.jpg"
-    ]
-  },
-  {
-    "id": "2290501-7",
-    "regionId": "2290501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-7.jpg",
-    "기호": 7,
-    "이름": "정희성",
-    "생년월일": "19701124",
-    "정당": "진보당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "조선대학교 기계공학과 졸업",
-    "경력": "(현)진보당 공동대표\n(현)광주은행대출금리인하 광산구갑운동본부장",
-    "재산": 56700,
-    "군필여부": false,
-    "전과건수": 4,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 07:24:00 +0900",
-        "title": "투표하는 정희성 진보당 광산갑 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007460296?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 10:33:00 +0900",
-        "title": "<총선브리핑> 박은식*정희성*곽진오",
-        "link": "https://kjmbc.co.kr/article/qCdKhgC8RvNbC"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 10:03:00 +0900",
-        "title": "거리 유세하는 정희성 진보당 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012455375?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:36:00 +0900",
-        "title": "정희성 진보당 광주 광산갑 후보 등록",
-        "link": "https://n.news.naver.com/mnews/article/421/0007427843?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:00:00 +0900",
-        "title": "후보 등록하는 진보당 정희성",
-        "link": "https://n.news.naver.com/mnews/article/001/0014579893?sid=100"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 56700
-      }
-    ],
-    "huboid": "100151020",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-7.jpg"
-    ]
-  },
-  {
-    "id": "2290501-8",
-    "regionId": "2290501",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-8.jpg",
-    "기호": 8,
-    "이름": "양윤열",
-    "생년월일": "19830728",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "무직",
-    "학력": "체육학사(경호비서학전공)",
-    "경력": "(전)세종소방본부 조치원소방서 소방공무원\n(전)서울소방재난본부 서초소방서 소방공무원",
-    "재산": 75378,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Thu, 04 Apr 2024 16:26:00 +0900",
-        "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
-        "link": "http://www.mhj21.com/160308"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:32:00 +0900",
-        "title": "[2024총선 나도 뛴다]③무소속 양윤열 (광주 광산갑)-\"열정과 긍정의 에너지로...",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=765233"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:23:00 +0900",
-        "title": "제22대 총선 광주 대진표 완성…'민주' vs '反민주' 구도",
-        "link": "https://n.news.naver.com/mnews/article/079/0003876095?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 13:41:00 +0900",
-        "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 03:18:00 +0900",
-        "title": "총선 3주 앞으로…광주 지역 선거구 여야 본선 대진표 확정",
-        "link": "http://www.namdonews.com/news/articleView.html?idxno=763229"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 75378
-      }
-    ],
-    "huboid": "100153039",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-8.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-8.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-3.jpg"
-    ]
-  }
+    {
+        "id": "2290501-1",
+        "regionId": "2290501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-1.jpg",
+        "기호": 1,
+        "이름": "박균택",
+        "생년월일": "19660612",
+        "정당": "더불어민주당",
+        "성별": "남",
+        "직업": "법무법인 광산 대표 변호사",
+        "학력": "서울대학교 법과대학 사법학과 졸업",
+        "경력": "(현) 더불어민주당 당대표 법률특보\n(전) 광주고등검찰청 검사장",
+        "재산": 1878345,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 17:32:00 +0900",
+                "title": "박균택 후보, 마이크 잠시 내려놓고 환경 정화 선거운동",
+                "link": "https://n.news.naver.com/mnews/article/277/0005402712?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:44:00 +0900",
+                "title": "박균택 후보, 풍영정천 정화활동",
+                "link": "https://n.news.naver.com/mnews/article/421/0007465293?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:44:00 +0900",
+                "title": "풍영정천 정화활동 나선 박균택 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007465294?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:44:00 +0900",
+                "title": "박균택 후보 이색 선거운동, 풍영정천 정화활동",
+                "link": "https://n.news.naver.com/mnews/article/421/0007465292?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:41:00 +0900",
+                "title": "<22대 총선 후보 검증> 검사 출신 박균택·주진우, 퇴임 직후 소득세 수십배 ...",
+                "link": "https://n.news.naver.com/mnews/article/607/0000001950?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:44:00 +0900",
+                "title": "박균택 민주당 광산갑 후보 사전 투표",
+                "link": "https://n.news.naver.com/mnews/article/421/0007461223?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:42:00 +0900",
+                "title": "박균택 민주당 광주 광산갑 후보 '소중한 한표 행사'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007461213?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:29:00 +0900",
+                "title": "<총선브리핑> 박은식 송영길 박균택",
+                "link": "https://kjmbc.co.kr/article/bRGVTLUX7y"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
+                "link": "http://www.mhj21.com/160308"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 15:14:00 +0900",
+                "title": "광주 대한주택관리사협회, 박균택 광산구갑 후보 지지 선언",
+                "link": "https://n.news.naver.com/mnews/article/277/0005401809?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:20:00 +0900",
+                "title": "민주당 후보들 '막말', '갭투기', '대장동 변호' 비판한 국민의힘",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=219598"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:08:00 +0900",
+                "title": "[선택4·10] 與, 민주 후보들 의혹 조목조목 비판 \"지금이라도 공천 취소해야...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1067527"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 11:01:00 +0900",
+                "title": "굵은 빗줄기도 막지 못했다…광주서도 총선 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/079/0003879042?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:58:00 +0900",
+                "title": "與, '늑장신고' 이용우·'갭투기' 김기표에 \"민주당 후보 자질미달\"",
+                "link": "https://n.news.naver.com/mnews/article/018/0005701911?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:54:00 +0900",
+                "title": "[4·10총선]민형배 \" 검찰독재 심판하고 민생회복에 매진할 것 \"",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764709"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:44:00 +0900",
+                "title": "[총선 D-13] 더불어민주당 광주시당, 공동·후보별 공약 발표",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1024919"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:34:00 +0900",
+                "title": "고개숙여 인사하는 박균택",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441226?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:34:00 +0900",
+                "title": "'율동과 함께 지지호소'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441223?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:34:00 +0900",
+                "title": "시민들에게 손흔드는 박균택 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441227?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 08:34:00 +0900",
+                "title": "선거운동 시작한 박균택",
+                "link": "https://n.news.naver.com/mnews/article/421/0007441225?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1878345
+            }
+        ],
+        "huboid": "100151468",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-1-7.jpg"
+        ]
+    },
+    {
+        "id": "2290501-2",
+        "regionId": "2290501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-2.jpg",
+        "기호": 2,
+        "이름": "김정현",
+        "생년월일": "19670826",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "행복노인전문요양원 대표이사",
+        "학력": "광신대학교 사회복지대학원 사회복지학과 졸업 (사회복지학 석사)",
+        "경력": "(전)국민의힘 광주시당위원장\n(전)국민의힘 광산구갑당협위원장",
+        "재산": 3822522,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 08:05:00 +0900",
+                "title": "[총선 돋보기] 김정현 후보 \"사전투표 국민의힘 후보 지지해달라\"",
+                "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2111047"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
+                "link": "http://www.mhj21.com/160308"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 19:14:00 +0900",
+                "title": "[총선브리핑] 국민의힘 김정현 광산갑 예비후보, “예산확보 선봉장 되겠다”",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1712139000766557358"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:31:00 +0900",
+                "title": "광주전남 22대 총선 후보 10명 중 4명 전과",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877098?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:24:00 +0900",
+                "title": "[4·10총선 후보자 등록] 광주",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430840?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:10:00 +0900",
+                "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:07:00 +0900",
+                "title": "[4·10총선 후보 등록] 광주(22일·최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445431?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:00:00 +0900",
+                "title": "제22대 총선 후보자 등록 첫날, 광산 갑·을 선거구 각 3명·4명 후보 등록",
+                "link": "http://www.cmbkj.co.kr/ab-991-31179"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 12:32:00 +0900",
+                "title": "대신·유안타·키움·KB증권·삼성자산·신한자산운용 [Daily Pick 증권]",
+                "link": "https://www.ngetnews.com/news/articleView.html?idxno=503672"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:27:00 +0900",
+                "title": "총선 후보등록 첫날 광주·전남 문금주 후보 등 61명 등록",
+                "link": "https://n.news.naver.com/mnews/article/417/0000990868?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 10:24:00 +0900",
+                "title": "<총선브리핑>김정현 전주연 김성환",
+                "link": "https://kjmbc.co.kr/article/fXh1Qo4ja3rt5DJRUq"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 23:26:00 +0900",
+                "title": "총선 후보 등록 첫날 광주·전남 18개 선거구에 61명 등록",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1711030872766011358"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+                "title": "[4·10총선 광주 지역구 후보 등록 현황] (21일 오후 10시 현재)",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763844"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:56:00 +0900",
+                "title": "\"국민의 삶을 평화롭게 하는 진짜 평화를 선택하자\"",
+                "link": "http://www.tongilnews.com/news/articleView.html?idxno=210278"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:29:00 +0900",
+                "title": "총선 후보 등록 첫날 광주·전남 18곳 61명 신청(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428554?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:08:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 광주(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580886?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:39:00 +0900",
+                "title": "총선 후보 등록 첫날 광주 8개 선거구에 27명 신청(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428413?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:07:00 +0900",
+                "title": "[4·10총선 후보 등록] 광주(21일 오후 8시 현재)(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443075?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 19:53:00 +0900",
+                "title": "[4·10총선 후보 등록] 광주(21일 오후 19시 50분 현재)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012443060?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 18:37:00 +0900",
+                "title": "총선 후보 등록 첫날 광주 24명 신청…민주당 8명 최다",
+                "link": "https://n.news.naver.com/mnews/article/421/0007428185?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3822522
+            }
+        ],
+        "huboid": "100152298",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-2-7.jpg"
+        ]
+    },
+    {
+        "id": "2290501-6",
+        "regionId": "2290501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-6.jpg",
+        "기호": 6,
+        "이름": "정형호",
+        "생년월일": "19560205",
+        "정당": "새로운미래",
+        "성별": "남",
+        "직업": "세무법인로엘 대표",
+        "학력": "백석대학교 기독교전문대학원 졸업(행정학박사)",
+        "경력": "(현)세무법인로엘 대표\n(전)민주당 사무총장",
+        "재산": 8320114,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
+                "link": "http://www.mhj21.com/160308"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 09:31:00 +0900",
+                "title": "<총선브리핑> 윤민호 전진숙 정형호",
+                "link": "https://kjmbc.co.kr/article/gtM6ZuFedCov5Gsy"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:18:00 +0900",
+                "title": "새로운미래 광주 이낙연·정형호·박병석 후보, 굵은 비 맞으며 5·18묘지서 ...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764782"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 14:18:00 +0900",
+                "title": "'이낙연·정형호·박병석' 새미래 후보들, 본격 선거운동 돌입",
+                "link": "http://www.mdilbo.com/detail/0kIA7d/716442"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 01:54:00 +0900",
+                "title": "새로운미래 광주 광산구갑·을 정형호·이낙연 후보, 개인택시조합 조기축구회...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764509"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 18:48:00 +0900",
+                "title": "새로운미래 정형호 광주 광산갑 국회의원 후보 선거사무소 개소",
+                "link": "http://www.breaknews.com/1023028"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:00:00 +0900",
+                "title": "정형호 새로운미래 광산갑 후보, 24일 개소식과 함께 본격 선거운동 돌입",
+                "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=324720"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:58:00 +0900",
+                "title": "[2024 총선]정형호, 선거사무소 개소식 및 선대위 출범식",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=764104"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 09:01:00 +0900",
+                "title": "광주·전남 등록 후보 중 재산 1위는 검사 출신 양부남...83억여원 신고[2024...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160543?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 07:16:00 +0900",
+                "title": "광주 총선후보 납세 최고액 새미래 정형호 55억 납부",
+                "link": "https://www.tfmedia.co.kr/news/article.html?no=160369"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 01:27:00 +0900",
+                "title": "5년 내 세금 체납 후보 83명… 9명은 여전히 세금 체납",
+                "link": "https://n.news.naver.com/mnews/article/022/0003917052?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:17:00 +0900",
+                "title": "세금 체납한 총선 후보 9명…83명은 5년내 체납 이력(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583558?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:33:00 +0900",
+                "title": "[이슈] 4·10총선 총 686명 후보등록 마감, 평균 2.7대1.. 비례정당 38곳 등록...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=640217"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:16:00 +0900",
+                "title": "총선 후보 평균 재산 28억…김복덕·안철수 1400억대(종합)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430973?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:04:00 +0900",
+                "title": "국민대표 뽑는데… 22대 총선 후보, 전과자·체납자 多",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121457"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:00:00 +0900",
+                "title": "광주전남 최고령 후보는 박지원 아니였네…광주 서구을 김천식 82세",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324663?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:28:00 +0900",
+                "title": "총선 후보 9명, 등록 때까지 세금 체납… 5년내 체납 이력 후보는 83명",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980131?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:17:00 +0900",
+                "title": "[후보분석] 납세 1위 '갤럭시 신화' 고동진…체납 1위 현역 주철현",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430959?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:04:00 +0900",
+                "title": "[선택 4·10 총선]광주·전남 '검사 출신' 후보 재산 1위…양부남 83억·주철...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763935"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 8320114
+            }
+        ],
+        "huboid": "100153276",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-6.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-6.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-6-7.jpg"
+        ]
+    },
+    {
+        "id": "2290501-7",
+        "regionId": "2290501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-7.jpg",
+        "기호": 7,
+        "이름": "정희성",
+        "생년월일": "19701124",
+        "정당": "진보당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "조선대학교 기계공학과 졸업",
+        "경력": "(현)진보당 공동대표\n(현)광주은행대출금리인하 광산구갑운동본부장",
+        "재산": 56700,
+        "군필여부": false,
+        "전과건수": 4,
+        "news": [
+            {
+                "date": "Fri, 05 Apr 2024 07:24:00 +0900",
+                "title": "투표하는 정희성 진보당 광산갑 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007460296?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 10:33:00 +0900",
+                "title": "<총선브리핑> 박은식*정희성*곽진오",
+                "link": "https://kjmbc.co.kr/article/qCdKhgC8RvNbC"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 10:03:00 +0900",
+                "title": "거리 유세하는 정희성 진보당 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012455375?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:36:00 +0900",
+                "title": "정희성 진보당 광주 광산갑 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427843?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:00:00 +0900",
+                "title": "후보 등록하는 진보당 정희성",
+                "link": "https://n.news.naver.com/mnews/article/001/0014579893?sid=100"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 15:59:00 +0900",
+                "title": "후보 등록하는 진보당 정희성",
+                "link": "https://n.news.naver.com/mnews/article/001/0014579887?sid=100"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 13:38:00 +0900",
+                "title": "총선 3주 앞…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/081/0003437876?sid=102"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:52:00 +0900",
+                "title": "진보당 \"광주 북구을 전략구 선정, 윤민호에 집중\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014570251?sid=165"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 11:31:00 +0900",
+                "title": "총선 3주 앞으로…광주·전남 여야 본선 대진표 확정",
+                "link": "https://n.news.naver.com/mnews/article/003/0012432973?sid=165"
+            },
+            {
+                "date": "Fri, 15 Mar 2024 00:03:00 +0900",
+                "title": "자주·반미 인사 국회 진출 논란… 옛 통진당 관련 후보 최소 3명 당선 가능 ...",
+                "link": "https://n.news.naver.com/mnews/article/005/0001681095?sid=100"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 00:14:00 +0900",
+                "title": "\"총선, 우리도 뛰고 있어요\"",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641083"
+            },
+            {
+                "date": "Tue, 12 Mar 2024 23:46:00 +0900",
+                "title": "광주·전남 더불어민주당 경선 결과 나와… 조인철·김원이·문금주·손훈모 ...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3117665"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 20:44:00 +0900",
+                "title": "여야 경남 대진표 사실상 확정…본격 선거 모드",
+                "link": "http://www.gnnews.co.kr/news/articleView.html?idxno=547724"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 18:08:00 +0900",
+                "title": "‘비명계’ 핵심 서구갑 송갑석 생존 최대 관심",
+                "link": "http://www.jndn.com/article.php?aid=1710061514381451001"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 18:02:00 +0900",
+                "title": "[총선 D-30] 광주·전남 본선 대진표 '윤곽'···'민주 대 비민주'",
+                "link": "http://www.mdilbo.com/detail/RHfGUG/714793"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 13:24:00 +0900",
+                "title": "[총선 D-30]광주·전남, 여야 총선 대표진 속속 확정...민주당, 광주 경선 '서...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=761901"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 09:00:00 +0900",
+                "title": "[총선 D-30]광주·전남, 공천 후유증속 본선 채비 착착…제3지대 변수",
+                "link": "https://n.news.naver.com/mnews/article/003/0012416969?sid=165"
+            },
+            {
+                "date": "Sun, 10 Mar 2024 08:05:00 +0900",
+                "title": "[총선 D-30] 민주당 텃밭 광주 '친명계' 재편…여야 대진표 윤곽",
+                "link": "https://n.news.naver.com/mnews/article/421/0007400670?sid=165"
+            },
+            {
+                "date": "Thu, 07 Mar 2024 23:34:00 +0900",
+                "title": "[2024 총선]'더불어민주당 후보 간 진흙탕 싸움' 진보당 후보의 충고",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=761715"
+            },
+            {
+                "date": "Thu, 07 Mar 2024 14:38:00 +0900",
+                "title": "'민주당 후보 간 진흙탕 싸움' 진보당 후보의 충고",
+                "link": "https://n.news.naver.com/mnews/article/003/0012413095?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 56700
+            }
+        ],
+        "huboid": "100151020",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-7-7.jpg"
+        ]
+    },
+    {
+        "id": "2290501-8",
+        "regionId": "2290501",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290501-8.jpg",
+        "기호": 8,
+        "이름": "양윤열",
+        "생년월일": "19830728",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "무직",
+        "학력": "체육학사(경호비서학전공)",
+        "경력": "(전)세종소방본부 조치원소방서 소방공무원\n(전)서울소방재난본부 서초소방서 소방공무원",
+        "재산": 75378,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 16:26:00 +0900",
+                "title": "[4.10총선-222] 광주 광산구갑, 박균택vs김정현vs정형호s정희성vs양윤열",
+                "link": "http://www.mhj21.com/160308"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 19:32:00 +0900",
+                "title": "[2024총선 나도 뛴다]③무소속 양윤열 (광주 광산갑)-\"열정과 긍정의 에너지로...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765233"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:48:00 +0900",
+                "title": "\"튀어야 산다\" 광주·전남 총선 후보들 이색 선거운동 행렬",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765215"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:55:00 +0900",
+                "title": "\"튀어야 산다\" 광주·전남 이색 선거운동 행렬",
+                "link": "https://n.news.naver.com/mnews/article/003/0012464049?sid=165"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 21:49:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑦ 광주 광산갑, 3지대에 무소속까지 5파전",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690039?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 19:04:00 +0900",
+                "title": "[총선/22대 총선 누가 뛰나]⑦ 광주 광산갑, 3지대에 무소속까지 5파전",
+                "link": "https://n.news.naver.com/mnews/article/056/0011689876?sid=100"
+            },
+            {
+                "date": "Wed, 27 Mar 2024 18:36:00 +0900",
+                "title": "제22대 총선 광주지역 대진표 완성...36명 출사표",
+                "link": "http://www.cmbkj.co.kr/ab-991-31224"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 00:08:00 +0900",
+                "title": "[4·10 총선 후보] 광주 광산갑",
+                "link": "http://www.gjdream.com/news/articleView.html?idxno=641611"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 18:14:00 +0900",
+                "title": "광주·전남 4·10 총선 후보자",
+                "link": "http://www.jndn.com/article.php?aid=1711271460382466003"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 17:36:00 +0900",
+                "title": "[전남일보]총선 후보 등록>광주·전남 후보별 재산·병역·체납액·전과 현황",
+                "link": "http://www.jnilbo.com/73103720156"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+                "title": "[표] 22대 총선 전국 지역구 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:26:00 +0900",
+                "title": "광주·전남 18개 선거구에 72명 후보 등록…4대 1 경쟁율",
+                "link": "https://n.news.naver.com/mnews/article/002/0002324662?sid=102"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:36:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 광주(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583337?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:24:00 +0900",
+                "title": "[4·10총선 후보자 등록] 광주",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430840?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:10:00 +0900",
+                "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:07:00 +0900",
+                "title": "[4·10총선 후보 등록] 광주(22일·최종)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445431?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 20:14:00 +0900",
+                "title": "여야 대진표 확정…후보 등록 시작",
+                "link": "http://www.kwangju.co.kr/article.php?aid=1710933000765937004"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:23:00 +0900",
+                "title": "제22대 총선 광주 대진표 완성…'민주' vs '反민주' 구도",
+                "link": "https://n.news.naver.com/mnews/article/079/0003876095?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 13:41:00 +0900",
+                "title": "광주·전남지역 여·야 본선 대결 구도 마무리[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005159017?sid=165"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 03:18:00 +0900",
+                "title": "총선 3주 앞으로…광주 지역 선거구 여야 본선 대진표 확정",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=763229"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 75378
+            }
+        ],
+        "huboid": "100153039",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290501-8.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290501-8.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290501-8-3.jpg"
+        ]
+    }
 ]
