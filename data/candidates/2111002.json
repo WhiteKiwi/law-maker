@@ -318,7 +318,21 @@
         "총공약수": 20,
         "공약이행수": 6
       }
-    }
+    },
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-1-9.jpg"
+    ]
   },
   {
     "전과건수": 0,
@@ -370,6 +384,20 @@
     ],
     "huboid": "100152292",
     "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111002-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111002-2.pdf"
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111002-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111002-2-9.jpg"
+    ]
   }
 ]

@@ -83,4 +83,5 @@ exports.LawMakerCadidate = zod_1.z.object({
     전과건수: zod_1.z.number(),
     전과ImgUrl: zod_1.z.string(),
     공보PdfUrl: zod_1.z.string(),
+    공보ImgUrls: zod_1.z.array(zod_1.z.string()),
 });
