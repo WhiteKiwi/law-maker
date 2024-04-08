@@ -3,6 +3,8 @@ import path from "path";
 import { LawMaker } from "./law-maker";
 import { LawMakerCadidate } from "./law-maker-candidate";
 import {
+  공약이행률RankItem,
+  공약이행수RankItem,
   대표발의법안RankItem,
   본회의출석률RankItem,
   재산RankItem,
@@ -181,6 +183,68 @@ async function main() {
 
     await writeJson(
       path.join(__dirname, "../data/ranking/initiative.json"),
+      rankItems.sort((a, b) => a.rank - b.rank)
+    );
+  }
+
+  // promise-count.json
+  {
+    const rankItems: 공약이행수RankItem[] = [];
+    function 공약이행수(candidate: LawMakerCadidate): number {
+      return candidate["21th"]!.공약이행수등수 || 999;
+    }
+
+    const 정렬 = candidates
+      .filter((c) => c["21th"])
+      .sort((a, b) => 공약이행수(b)! - 공약이행수(a)!);
+    const ranks = 등수(정렬.map((c) => 공약이행수(c)!));
+    for (let i = 0; i < 정렬.length; i++) {
+      const candidate = 정렬[i];
+      rankItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        공약이행수: candidate["21th"]!.공약이행수등수 || null,
+        rank: ranks[i],
+        총원: 정렬.length,
+      });
+    }
+
+    await writeJson(
+      path.join(__dirname, "../data/ranking/promise-count.json"),
+      rankItems.sort((a, b) => a.rank - b.rank)
+    );
+  }
+
+  // promise-rate.json
+  {
+    const rankItems: 공약이행률RankItem[] = [];
+    function 공약이행률(candidate: LawMakerCadidate): number {
+      return candidate["21th"]!.공약이행률등수 || 999;
+    }
+
+    const 정렬 = candidates
+      .filter((c) => c["21th"])
+      .sort((a, b) => 공약이행률(b)! - 공약이행률(a)!);
+    const ranks = 등수(정렬.map((c) => 공약이행률(c)!));
+    for (let i = 0; i < 정렬.length; i++) {
+      const candidate = 정렬[i];
+      rankItems.push({
+        id: candidate.id,
+        imageUrl: candidate.imageUrl,
+        이름: candidate.이름,
+        지역구: 지역구(candidate.regionId),
+        정당: candidate.정당,
+        공약이행률: candidate["21th"]!.공약이행률등수 || null,
+        rank: ranks[i],
+        총원: 정렬.length,
+      });
+    }
+
+    await writeJson(
+      path.join(__dirname, "../data/ranking/promise-rate.json"),
       rankItems.sort((a, b) => a.rank - b.rank)
     );
   }

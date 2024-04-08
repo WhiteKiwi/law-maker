@@ -34,3 +34,17 @@ export type 대표발의법안RankItem = {
   대표발의법안: number;
   총원: number;
 } & RankItemCommon;
+
+// /data/ranking/promise-count.json
+export type 공약이행수RankItem = {
+  rank: number;
+  공약이행수: number | null; // null은 제공안한넘
+  총원: number;
+} & RankItemCommon;
+
+// /data/ranking/promise-rate.json
+export type 공약이행률RankItem = {
+  rank: number;
+  공약이행률: number | null; // 단위: %, null은 제공안한넘
+  총원: number;
+} & RankItemCommon;
