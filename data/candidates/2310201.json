@@ -1,695 +1,695 @@
 [
-  {
-    "id": "2310201-1",
-    "regionId": "2310201",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-1.jpg",
-    "기호": 1,
-    "이름": "전은수",
-    "생년월일": "19841017",
-    "정당": "더불어민주당",
-    "성별": "여",
-    "직업": "변호사",
-    "학력": "부산대학교 법학전문대학원 법무석사(법학) 졸업",
-    "경력": "(현)더불어민주당 중앙당 부대변인\n(전)한국에너지공단 상임감사",
-    "재산": 367377,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 20:42:00 +0900",
-        "title": "민주당 전은수 울산 남구갑 후보 9일까지 72시간 집중 유세",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525493"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 20:42:00 +0900",
-        "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 17:56:00 +0900",
-        "title": "울산서 전은수 후보와 만난 조국",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037603"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 17:31:00 +0900",
-        "title": "국힘 인요한 울산행…민주당 전은수·박성진 \"72시간 유세\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007465319?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:52:00 +0900",
-        "title": "울산 남구갑 전은수 \"보수 후보 단일화, 구태정치 답습\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0003882511?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:59:00 +0900",
-        "title": "울산 남갑 민주당 전은수 \"허언욱 사퇴, 전형적 구태정치 답습\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007462315?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:35:00 +0900",
-        "title": "[울산 남구갑] 전은수 \"예견된 무소속 후보 사퇴, 투표로 심판을\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429240?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:42:00 +0900",
-        "title": "\"구태정치 심판\" 울산 남갑 민주 전은수, 보수 후보 단일화 직격",
-        "link": "https://n.news.naver.com/mnews/article/003/0012474617?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:39:00 +0900",
-        "title": "민주당 전은수 후보와 손 잡은 조국",
-        "link": "https://n.news.naver.com/mnews/article/421/0007461997?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:05:00 +0900",
-        "title": "울산 남구갑 허언욱 돌연 사퇴.. 민주당 전은수 \"정치 야합\" 비판 [2024 총선...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005167511?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 19:36:00 +0900",
-        "title": "이재명 당 대표, 울산 남구갑 전은수 후보 지원사격",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037515"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:40:00 +0900",
-        "title": "이재명 대표, 전은수 후보 지원유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007459870?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:40:00 +0900",
-        "title": "이재명, 전은수 지원유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007459869?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:42:00 +0900",
-        "title": "울산 지역구 국회의원 후보자 17명 중 4명만 기후공약 제시",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037467"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:24:00 +0900",
-        "title": "이재명, 부울경 찾아 \"여론조사 속지마라...박빙 지역, 투표해야 이긴다\"",
-        "link": "https://www.newspim.com/news/view/20240404001117"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:22:00 +0900",
-        "title": "이재명, '與 과반 되면 나라 더 빠르게 낭떠러지'...\"투표하는 쪽이 이긴다\"",
-        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=104783"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:16:00 +0900",
-        "title": "[포토] 울산서 지지호소하는 이재명 대표",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/04/2024040400357.html"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:14:00 +0900",
-        "title": "[포토] 전은수 울산남갑 후보 손든 이재명 대표",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/04/2024040400353.html"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:12:00 +0900",
-        "title": "[포토] 박수치는 전은수 울산남갑 후보",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/04/2024040400351.html"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:59:00 +0900",
-        "title": "한동훈 \"1표로 범죄자 응징해야\"…이재명 \"잘못된 권력 책임 물어야\"(종합2보...",
-        "link": "https://n.news.naver.com/mnews/article/421/0007459646?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 367377
-      }
-    ],
-    "huboid": "100152783",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-9.jpg"
-    ]
-  },
-  {
-    "id": "2310201-2",
-    "regionId": "2310201",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-2.jpg",
-    "기호": 2,
-    "이름": "김상욱",
-    "생년월일": "19800101",
-    "정당": "국민의힘",
-    "성별": "남",
-    "직업": "법무법인 더정성 대표변호사",
-    "학력": "고려대학교 법과대학 법학과 졸업",
-    "경력": "(현)법무법인 더정성 대표변호사\n(전)국민의힘 울산광역시당 법률자문위원장",
-    "재산": 1243697,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 20:42:00 +0900",
-        "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 18:02:00 +0900",
-        "title": "울산 후보 재산 수정...김상욱 3억3,210만원, 이선호 9,994만원 늘어",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037600"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 18:02:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지(종합)",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037591"
-      },
-      {
-        "date": "Sat, 06 Apr 2024 12:51:00 +0900",
-        "title": "민주 \"'부동산 투기' 의혹 국힘 김상욱, 스스로 자격 없음 드러내\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012476238?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:01:00 +0900",
-        "title": "<22대 총선 후보 검증> 김상욱 국민의힘 후보 ‘부동산 투기’ 의혹, 재산 허...",
-        "link": "https://n.news.naver.com/mnews/article/607/0000001951?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:08:00 +0900",
-        "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…\"국힘 김상욱 지지\"",
-        "link": "https://n.news.naver.com/mnews/article/586/0000076047?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:42:00 +0900",
-        "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…국힘 김상욱으로 단일화",
-        "link": "https://n.news.naver.com/mnews/article/003/0012474337?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:38:00 +0900",
-        "title": "무소속 허언욱 후보, 사전 투표 첫날 후보직 사퇴…국민의힘 김상욱 후보 공식...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996192"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:09:00 +0900",
-        "title": "무소속 허언욱 울산 남구갑 후보 전격 사퇴…\"국힘 김상욱 지지\"",
-        "link": "https://www.kpinews.kr/newsView/1065578405851142"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:40:00 +0900",
-        "title": "울산 남갑 무소속 허언욱, 후보 사퇴...국힘 김상욱으로 단일화",
-        "link": "https://www.etoday.co.kr/news/view/2348039"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:28:00 +0900",
-        "title": "울산 남갑 무소속 허언욱 후보 사퇴…\"김상욱 지지\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012473923?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:18:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지 뜻",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037542"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 09:51:00 +0900",
-        "title": "무소속 허언욱, 울산 남구갑 후보 사퇴 \"김상욱 적극지지\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007460897?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:06:00 +0900",
-        "title": "[유세장 직격 인터뷰] 이재정·고석·소병훈·김상욱·염태영·전희경·김승원...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645658"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 21:46:00 +0900",
-        "title": "울산 남구갑 '국힘 김상욱·민주 전은수' 청년 정치신인 '깨끗한 선거' 화제",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=345170"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 20:56:00 +0900",
-        "title": "경제·교육·복지..남구갑 후보들의 답변은?",
-        "link": "http://web.ubc.co.kr/wp/archives/113178"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 20:42:00 +0900",
-        "title": "여야, 울산 접전지 중앙당 지원사격 세결집 총력",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525301"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 19:51:00 +0900",
-        "title": "[D-7 총선판세] 전문가 \"국힘 100~130, 민주 140~199\".. 각 당 자체 국힘 '10...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641798"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 19:02:00 +0900",
-        "title": "총선 자체 전망은?… 국민의힘 '90~100석'· 민주 '110석+α'",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037442"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:56:00 +0900",
-        "title": "하루 유세 일정 공개하는 후보들…“4·3사건을 기억합니다” 추념 나서기도 ...",
-        "link": "https://n.news.naver.com/mnews/article/666/0000038203?sid=165"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1243697
-      }
-    ],
-    "huboid": "100152036",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-9.jpg"
-    ]
-  },
-  {
-    "id": "2310201-6",
-    "regionId": "2310201",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-6.jpg",
-    "기호": 6,
-    "이름": "이미영",
-    "생년월일": "19710713",
-    "정당": "새로운미래",
-    "성별": "여",
-    "직업": "정당인",
-    "학력": "고려대학교 행정전문대학원 행정학박사 수료",
-    "경력": "(전)제6대 울산남구의회 의원\n(전)제7대 울산광역시의회 부의장",
-    "재산": 277603,
-    "군필여부": false,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-        "title": "[후보별 공약 돋보기 (6·끝)남구갑]새로운미래 이미영 후보, 남구를 '새로운...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995867"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:06:00 +0900",
-        "title": "[4.10총선-194] 울산 남구갑, 전은수vs김상욱vs이미영. 영입인재 대결",
-        "link": "http://www.mhj21.com/160242"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "5자 대결 울산 남구갑 이미영, 오호정, 허언욱 민생·보수 표심 공약 [2024 총...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005165050?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:34:00 +0900",
-        "title": "새로운미래 이미영(울산 남구갑) 후보, 건강보험 본인부담률 10%로 낮춰",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995716"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 10:38:00 +0900",
-        "title": "새미래 울산남갑 이미영 \"의료서비스 부담금 10%로\"… 노인복지 공약",
-        "link": "https://n.news.naver.com/mnews/article/421/0007449391?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:54:00 +0900",
-        "title": "출근길 인사하는 이미영 후보",
-        "link": "https://n.news.naver.com/mnews/article/001/0014595370?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 13:54:00 +0900",
-        "title": "출근길 인사하는 이미영 후보",
-        "link": "https://n.news.naver.com/mnews/article/001/0014595367?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 12:06:00 +0900",
-        "title": "울산 6개 선거구 총선 후보 주요 3대 공약",
-        "link": "https://n.news.naver.com/mnews/article/658/0000069843?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 06:00:00 +0900",
-        "title": "[총선 D-13] 울산 여야, 합동출정식 열고 본격 선거레이스 돌입",
-        "link": "https://n.news.naver.com/mnews/article/421/0007440952?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 00:12:00 +0900",
-        "title": "[4·10 울산의 선택]공식 선거운동 시작…13일간 열전",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995440"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:41:00 +0900",
-        "title": "오늘부터 13일간 공식선거운동…여야 출정식 필승 결의",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524862"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 21:38:00 +0900",
-        "title": "4·10 총선 공식 선거운동 막 올라",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344752"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 19:22:00 +0900",
-        "title": "총선 공식 선거운동 막 올라...울산 출정식, 본격 '선거 레이스'",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1036980"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 15:26:00 +0900",
-        "title": "인천시교육청,28일부터 8박10일 일정 '2024 교육정책탐방 국외연수' 진행",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1080331"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 12:12:00 +0900",
-        "title": "[이토록 유익한 인터뷰] 별처럼 시처럼, 과학을 노래하다 - 이명현 천문학자",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1711509030766223339"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 07:37:00 +0900",
-        "title": "[총선] 남구갑 경쟁률 5대 1…정치신인 각축장",
-        "link": "https://n.news.naver.com/mnews/article/056/0011689308?sid=100"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 01:00:00 +0900",
-        "title": "인천시교육청, '교육정책탐방 국외연수(아시아3개국)' 실시",
-        "link": "https://www.cstimes.com/news/articleView.html?idxno=585143"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 23:14:00 +0900",
-        "title": "[총선] 남구갑 경쟁률 5대 1…정치신인 각축장",
-        "link": "https://n.news.naver.com/mnews/article/056/0011689182?sid=100"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 21:56:00 +0900",
-        "title": "[총선기획]정치신인에 신당·무소속… 오리무중 다자구도",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344647"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 20:34:00 +0900",
-        "title": "거대 양당 변호사 출신 젊은 정치 신인 대결 최대 격전지",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524723"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 277603
-      }
-    ],
-    "huboid": "100152855",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-6.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-6.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-9.jpg"
-    ]
-  },
-  {
-    "id": "2310201-7",
-    "regionId": "2310201",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-7.jpg",
-    "기호": 7,
-    "이름": "오호정",
-    "생년월일": "19900706",
-    "정당": "우리공화당",
-    "성별": "남",
-    "직업": "정당인",
-    "학력": "인디애나대학교영어학사졸업(2013.09.~2019.05.)",
-    "경력": "(전)상신브레이크멕시코엔지니어\n(현)우리공화당울산남구갑당협위원장",
-    "재산": 51167,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 00:12:00 +0900",
-        "title": "[후보별 공약 돋보기 (6·끝)남구갑]우리공화당 오호정 후보, 울산을 더욱 매...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995868"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:18:00 +0900",
-        "title": "5자 대결 울산 남구갑 이미영, 오호정, 허언욱 민생·보수 표심 공약 [2024 총...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005165050?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 23:04:00 +0900",
-        "title": "국민대표 뽑는데… 22대 총선 후보, 전과자·체납자 多",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3121457"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:32:00 +0900",
-        "title": "울산 총선후보 최고 자산가 70억7천만원 김기현…납세액도 최다",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583517?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:28:00 +0900",
-        "title": "총선 후보 9명, 등록 때까지 세금 체납… 5년내 체납 이력 후보는 83명",
-        "link": "https://n.news.naver.com/mnews/article/366/0000980131?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 22:11:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 울산(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583509?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:56:00 +0900",
-        "title": "[총선 D-19] 4·10 총선 후보 18명..경쟁률 3대 1",
-        "link": "https://www.usmbc.co.kr/article/ccTZfUdVwCzeJ1_NWk"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:27:00 +0900",
-        "title": "총선후보 9명, 등록 때까지 세금체납…82명은 5년내 체납 이력",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583485?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:12:00 +0900",
-        "title": "울산 18명 후보 등록.. 4년 전보다 10명 줄어",
-        "link": "http://web.ubc.co.kr/wp/archives/112996"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:07:00 +0900",
-        "title": "5년내 세금 체납 후보 82명…체납액 1위 민주 주철현 1억1662만원(종합)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445538?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:23:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 울산(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583318?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:08:00 +0900",
-        "title": "울산 후보자 중 김기현 재산 70억 1위…후보 44% 전과 '음주 운전' 가장 많아",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430831?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 18:45:00 +0900",
-        "title": "5년내 세금 체납 후보 69명…체납액 1위 민주 주철현 1억1662만원",
-        "link": "https://n.news.naver.com/mnews/article/003/0012445424?sid=100"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 18:07:00 +0900",
-        "title": "[4·10총선 후보자 등록] 울산",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430764?sid=102"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 11:40:00 +0900",
-        "title": "울산 남구갑 허언욱, 국민의힘 탈당해 무소속 출마",
-        "link": "https://n.news.naver.com/mnews/article/047/0002426938?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 00:12:00 +0900",
-        "title": "[4·10 울산의 선택]후보등록 첫날 울산 16명 등록…본격 선거전 준비 완료(종...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994962"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 00:12:00 +0900",
-        "title": "[사진뉴스]울산 후보등록 첫날 표정",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994931"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 00:12:00 +0900",
-        "title": "[4·10 울산의 선택/ ⑤남구갑]평균연령 45.6세…5명의 후보 금배지 대결",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=994937"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 22:31:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 울산(21일 마감)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014581182?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 22:30:00 +0900",
-        "title": "울산, 후보등록 첫날 16명 출사표… '금배지 쟁탈전' 막올라",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=344403"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 51167
-      }
-    ],
-    "huboid": "100152256",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-3.jpg"
-    ]
-  },
-  {
-    "id": "2310201-8",
-    "regionId": "2310201",
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-8.jpg",
-    "기호": 8,
-    "이름": "허언욱",
-    "생년월일": "19640312",
-    "정당": "무소속",
-    "성별": "남",
-    "직업": "정치인",
-    "학력": "한양대학교 행정대학원 행정학과 졸업",
-    "경력": "(전)울산광역시 행정부시장\n(전)행정안전부 안전정책실장",
-    "재산": 1811740,
-    "군필여부": true,
-    "전과건수": 0,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 21:02:00 +0900",
-        "title": "울산, 허언욱 후보 사퇴… \"남구갑 보수 승리 총력\"",
-        "link": "http://www.ujeil.com/news/articleView.html?idxno=345396"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 20:42:00 +0900",
-        "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
-        "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 18:02:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지(종합)",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037591"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:16:00 +0900",
-        "title": "남구갑 허언욱 후보 사퇴…\"기표하면 무효\"",
-        "link": "https://www.usmbc.co.kr/article/yjyAA9sF_npBd"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 16:06:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 후보 5일 전격 사퇴",
-        "link": "https://n.news.naver.com/mnews/article/658/0000070557?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:32:00 +0900",
-        "title": "울산남구갑 선거구 4자구도로 재편…무소속 허언욱 후보직 사퇴로 보수단일화",
-        "link": "https://www.ajunews.com/view/20240405145735839"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:59:00 +0900",
-        "title": "울산 남갑 민주당 전은수 \"허언욱 사퇴, 전형적 구태정치 답습\"",
-        "link": "https://n.news.naver.com/mnews/article/421/0007462315?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:08:00 +0900",
-        "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…\"국힘 김상욱 지지\"",
-        "link": "https://n.news.naver.com/mnews/article/586/0000076047?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:05:00 +0900",
-        "title": "울산 남구갑 허언욱 돌연 사퇴.. 민주당 전은수 \"정치 야합\" 비판 [2024 총선...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005167511?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:42:00 +0900",
-        "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…국힘 김상욱으로 단일화",
-        "link": "https://n.news.naver.com/mnews/article/003/0012474337?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:38:00 +0900",
-        "title": "무소속 허언욱 후보, 사전 투표 첫날 후보직 사퇴…국민의힘 김상욱 후보 공식...",
-        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996192"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:18:00 +0900",
-        "title": "허언욱 울산 남구갑 후보 사퇴 수리…\"기표하면 무효\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012474228?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:18:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 사퇴...\"보수 승리 위해 수용\"",
-        "link": "https://www.pennmike.com/news/articleView.html?idxno=79083"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:09:00 +0900",
-        "title": "무소속 허언욱 울산 남구갑 후보 전격 사퇴…\"국힘 김상욱 지지\"",
-        "link": "https://www.kpinews.kr/newsView/1065578405851142"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:57:00 +0900",
-        "title": "\"사퇴자에 기표하면 무효\" 울산시선관위, 남구갑 무소속 허언욱 사퇴 수리",
-        "link": "https://n.news.naver.com/mnews/article/421/0007461300?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:41:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 후보 사퇴…\"보수 승리 노력\"",
-        "link": "https://n.news.naver.com/mnews/article/079/0003882276?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:41:00 +0900",
-        "title": "울산선관위, 남구갑 허언욱 후보 사퇴 수리…\"기표하면 무효\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0014612816?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:40:00 +0900",
-        "title": "울산 남갑 무소속 허언욱, 후보 사퇴...국힘 김상욱으로 단일화",
-        "link": "https://www.etoday.co.kr/news/view/2348039"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:28:00 +0900",
-        "title": "울산 남갑 무소속 허언욱 후보 사퇴…\"김상욱 지지\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012473923?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:18:00 +0900",
-        "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지 뜻",
-        "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037542"
-      }
-    ],
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1811740
-      }
-    ],
-    "huboid": "100151331",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-8.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-8.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-7.jpg"
-    ]
-  }
+    {
+        "id": "2310201-1",
+        "regionId": "2310201",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-1.jpg",
+        "기호": 1,
+        "이름": "전은수",
+        "생년월일": "19841017",
+        "정당": "더불어민주당",
+        "성별": "여",
+        "직업": "변호사",
+        "학력": "부산대학교 법학전문대학원 법무석사(법학) 졸업",
+        "경력": "(현)더불어민주당 중앙당 부대변인\n(전)한국에너지공단 상임감사",
+        "재산": 367377,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 20:25:00 +0900",
+                "title": "홍익표, 김재섭, 박은식, 전은수…험지서 길닦는 후보들",
+                "link": "https://n.news.naver.com/mnews/article/028/0002684522?sid=100"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 17:21:00 +0900",
+                "title": "'예측불허 초접전' 김상욱 vs 전은수 막바지 유세…'젊은 피' 격돌",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467797?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:42:00 +0900",
+                "title": "민주당 전은수 울산 남구갑 후보 9일까지 72시간 집중 유세",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525493"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:42:00 +0900",
+                "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 17:56:00 +0900",
+                "title": "울산서 전은수 후보와 만난 조국",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037603"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 17:31:00 +0900",
+                "title": "국힘 인요한 울산행…민주당 전은수·박성진 \"72시간 유세\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007465319?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 06:33:00 +0900",
+                "title": "울산 여야 후보들, 본투표 전 마지막 주말유세 '총력'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475966?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 18:38:00 +0900",
+                "title": "4.10 총선, 울산 1일차 사전투표율 14.8%.. 관전포인트는?",
+                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151445"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:52:00 +0900",
+                "title": "울산 남구갑 전은수 \"보수 후보 단일화, 구태정치 답습\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003882511?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:01:00 +0900",
+                "title": "울산 찾은 조국 \"尹 정권 들어선 뒤 정치하기로 마음 먹어\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462751?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:15:00 +0900",
+                "title": "'사전투표 첫날' 울산 기관장·총선 후보도 소중한 한 표",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475380?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:58:00 +0900",
+                "title": "여야 후보 단일화 '희비' 울산 '3인3색'…동구서 국힘 또 어부지리?",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462571?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:32:00 +0900",
+                "title": "울산남구갑 선거구 4자구도로 재편…무소속 허언욱 후보직 사퇴로 보수단일화",
+                "link": "https://www.ajunews.com/view/20240405145735839"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:59:00 +0900",
+                "title": "울산 남갑 민주당 전은수 \"허언욱 사퇴, 전형적 구태정치 답습\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462315?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:35:00 +0900",
+                "title": "[울산 남구갑] 전은수 \"예견된 무소속 후보 사퇴, 투표로 심판을\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429240?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:28:00 +0900",
+                "title": "문재인·조국, PK서 단결…'범야권 바람' 뭉쳤다",
+                "link": "https://n.news.naver.com/mnews/article/031/0000826338?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:05:00 +0900",
+                "title": "사전투표 마친 文 전 대통령 \"투표해야 심판할 수 있다\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003882385?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:42:00 +0900",
+                "title": "\"구태정치 심판\" 울산 남갑 민주 전은수, 보수 후보 단일화 직격",
+                "link": "https://n.news.naver.com/mnews/article/003/0012474617?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:39:00 +0900",
+                "title": "민주당 전은수 후보와 손 잡은 조국",
+                "link": "https://n.news.naver.com/mnews/article/421/0007461997?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:08:00 +0900",
+                "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…\"국힘 김상욱 지지\"",
+                "link": "https://n.news.naver.com/mnews/article/586/0000076047?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 367377
+            }
+        ],
+        "huboid": "100152783",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-1-9.jpg"
+        ]
+    },
+    {
+        "id": "2310201-2",
+        "regionId": "2310201",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-2.jpg",
+        "기호": 2,
+        "이름": "김상욱",
+        "생년월일": "19800101",
+        "정당": "국민의힘",
+        "성별": "남",
+        "직업": "법무법인 더정성 대표변호사",
+        "학력": "고려대학교 법과대학 법학과 졸업",
+        "경력": "(현)법무법인 더정성 대표변호사\n(전)국민의힘 울산광역시당 법률자문위원장",
+        "재산": 1243697,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 23:21:00 +0900",
+                "title": "[총선] “김상욱 부동산투기 의혹·재산 허위축소 신고…사퇴해야”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011698341?sid=100"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 23:06:00 +0900",
+                "title": "민주 \"김상욱 후보 부동산 투기 정황 드러나\"-국힘 \"막판 보수 결집에 네거티...",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345430"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 20:02:00 +0900",
+                "title": "민주당 \"김상욱 부동산 투기, 재산축소\"...국민의힘 \"무차별 흠집 내기\"",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037710"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 17:21:00 +0900",
+                "title": "'예측불허 초접전' 김상욱 vs 전은수 막바지 유세…'젊은 피' 격돌",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467797?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 16:05:00 +0900",
+                "title": "민주 울산시당 \"투기 의혹 김상욱 사퇴하라\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012479711?sid=102"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 14:23:00 +0900",
+                "title": "울산시민단체 \"국민의힘 김상욱 후보, 부동산 투기 의혹 해명하라\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429563?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 00:12:00 +0900",
+                "title": "울산 남갑 무소속 허언욱 사퇴 \"김상욱 지지\"(종합)",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996261"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:42:00 +0900",
+                "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 18:02:00 +0900",
+                "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지(종합)",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037591"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 18:02:00 +0900",
+                "title": "울산 후보 재산 수정...김상욱 3억3,210만원, 이선호 9,994만원 늘어",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037600"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 22:47:00 +0900",
+                "title": "[총선D-4 부울경 판세] 총 40석 중 국민의힘 27석, 민주당 11석, 진보당 2석 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642315"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 19:02:00 +0900",
+                "title": "한동훈 \"이제 후반전...기적 이뤘던 울산이 나서야\"",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037551"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 18:46:00 +0900",
+                "title": "국민의힘 한동훈 비상대책위원장, 울산지역 후보 지원 유세",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996217"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 18:30:00 +0900",
+                "title": "사전투표율 역대 최고 31.28%…與 \"보수의 새로운 시대, 투표 흐름 생겼다\"",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240406010003739"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 13:36:00 +0900",
+                "title": "민주당 \"장진영 대출 의혹 · 이원모 이해충돌 의혹도 조사하라\"",
+                "link": "https://n.news.naver.com/mnews/article/055/0001145056?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 12:55:00 +0900",
+                "title": "민주 \"이복현 금감원장, 이원모 반도체 주식 이해충돌도 조사해야\"",
+                "link": "https://n.news.naver.com/mnews/article/277/0005402527?sid=100"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 12:51:00 +0900",
+                "title": "민주 \"'부동산 투기' 의혹 국힘 김상욱, 스스로 자격 없음 드러내\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012476238?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 12:14:00 +0900",
+                "title": "[총선 D-4] 민주 \"이복현, 이원모 반도체 주식 이해충돌 의혹도 조사하라\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014615143?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 11:14:00 +0900",
+                "title": "한동훈, 엎치락뒤치락 'PK 접전지' 지원사격…저녁엔 경산·대구 동성로 유세",
+                "link": "https://n.news.naver.com/mnews/article/088/0000871337?sid=100"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 09:16:00 +0900",
+                "title": "4.10총선 '마지막 주말' 울산 여야 후보 표심잡기 총력전",
+                "link": "https://n.news.naver.com/mnews/article/421/0007463379?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1243697
+            }
+        ],
+        "huboid": "100152036",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-2-9.jpg"
+        ]
+    },
+    {
+        "id": "2310201-6",
+        "regionId": "2310201",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-6.jpg",
+        "기호": 6,
+        "이름": "이미영",
+        "생년월일": "19710713",
+        "정당": "새로운미래",
+        "성별": "여",
+        "직업": "정당인",
+        "학력": "고려대학교 행정전문대학원 행정학박사 수료",
+        "경력": "(전)제6대 울산남구의회 의원\n(전)제7대 울산광역시의회 부의장",
+        "재산": 277603,
+        "군필여부": false,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 20:48:00 +0900",
+                "title": "새로운미래 이미영 후보 \"진정으로 지역 발전시킬 사람에게 한 표를\"",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525539"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:22:00 +0900",
+                "title": "새로운미래 이미영 후보 \"정당이 아닌 사람을 보고 투표해달라\"",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996310"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+                "title": "[후보별 공약 돋보기 (6·끝)남구갑]새로운미래 이미영 후보, 남구를 '새로운...",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995867"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:06:00 +0900",
+                "title": "[4.10총선-194] 울산 남구갑, 전은수vs김상욱vs이미영. 영입인재 대결",
+                "link": "http://www.mhj21.com/160242"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "5자 대결 울산 남구갑 이미영, 오호정, 허언욱 민생·보수 표심 공약 [2024 총...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165050?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:34:00 +0900",
+                "title": "새로운미래 이미영(울산 남구갑) 후보, 건강보험 본인부담률 10%로 낮춰",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995716"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 10:38:00 +0900",
+                "title": "새미래 울산남갑 이미영 \"의료서비스 부담금 10%로\"… 노인복지 공약",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449391?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:14:00 +0900",
+                "title": "[총선 D-10] 울산 최다 5명 각축 남구갑…표심잡기 '열전'",
+                "link": "https://n.news.naver.com/mnews/article/001/0014600832?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:55:00 +0900",
+                "title": "부산·경남 '파란 바람' 울산까지? \"표심 집결에 달렸다\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428233?sid=165"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 07:00:00 +0900",
+                "title": "[D-10] 22대 총선 울산 '보수 강세' 전망 속 동구·북구 경합",
+                "link": "https://n.news.naver.com/mnews/article/421/0007447226?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 20:58:00 +0900",
+                "title": "5파전 남구갑..세대교체 주자는?",
+                "link": "http://web.ubc.co.kr/wp/archives/113086"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:59:00 +0900",
+                "title": "4·10 총선 울산 남구갑 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014598595?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:59:00 +0900",
+                "title": "4·10 총선 울산 남구갑 후보들",
+                "link": "https://n.news.naver.com/mnews/article/001/0014598596?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:36:00 +0900",
+                "title": "김형석 교수, 세종시에서 '행복나눔' 강연",
+                "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=73212"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+                "title": "[4·10 울산의 선택]후보들 주요 길목에서 열정적인 지지 호소",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995544"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 00:12:00 +0900",
+                "title": "[4·10 울산의 선택]\"힘있는 여당\"vs\"무능정권 심판\" 우중 격돌",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995576"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 23:21:00 +0900",
+                "title": "[총선] ‘필승 각오’…13일 간의 표심얻기 레이스 시작",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691014?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:00:00 +0900",
+                "title": "'표밭 전쟁' 울산 여야, 13일간의 열전 돌입",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=344815"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:32:00 +0900",
+                "title": "\"경제폭망 무능정권 심판\" vs \"민생발목 입법폭주 저지\"",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=524941"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:10:00 +0900",
+                "title": "\"정권 심판\" vs \"야권 폭주\" 울산 여야 출정식 열고 본격 총선 레이스",
+                "link": "https://n.news.naver.com/mnews/article/421/0007444004?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 277603
+            }
+        ],
+        "huboid": "100152855",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-6.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-6.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-6-9.jpg"
+        ]
+    },
+    {
+        "id": "2310201-7",
+        "regionId": "2310201",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-7.jpg",
+        "기호": 7,
+        "이름": "오호정",
+        "생년월일": "19900706",
+        "정당": "우리공화당",
+        "성별": "남",
+        "직업": "정당인",
+        "학력": "인디애나대학교영어학사졸업(2013.09.~2019.05.)",
+        "경력": "(전)상신브레이크멕시코엔지니어\n(현)우리공화당울산남구갑당협위원장",
+        "재산": 51167,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 00:12:00 +0900",
+                "title": "[후보별 공약 돋보기 (6·끝)남구갑]우리공화당 오호정 후보, 울산을 더욱 매...",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=995868"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:18:00 +0900",
+                "title": "5자 대결 울산 남구갑 이미영, 오호정, 허언욱 민생·보수 표심 공약 [2024 총...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005165050?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 10:12:00 +0900",
+                "title": "22대 총선 부울경 경쟁률 2.45대 1…50대 45명 최다",
+                "link": "https://n.news.naver.com/mnews/article/082/0001261623?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 07:22:00 +0900",
+                "title": "22대 총선 후보 3명 중 1명은 전과자…횡령·음주운전 11범까지",
+                "link": "https://n.news.naver.com/mnews/article/079/0003877131?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:01:00 +0900",
+                "title": "울산 총선 후보 18명 중 8명이 전과있어.. 군 미필 2명 [2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160526?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 06:01:00 +0900",
+                "title": "김기현 70억 7400만원 신고.. 울산 총선 후보 중 가장 많아[2024 총선]",
+                "link": "https://n.news.naver.com/mnews/article/014/0005160525?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 01:45:00 +0900",
+                "title": "후보 등록 마감날…끝까지 파행 공천",
+                "link": "https://n.news.naver.com/mnews/article/353/0000047571?sid=100"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:44:00 +0900",
+                "title": "22대 총선 지역구 출마자 699명…전체 후보 경쟁률 2.75대 1(종합2보)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445589?sid=165"
+            },
+            {
+                "date": "Sat, 23 Mar 2024 00:17:00 +0900",
+                "title": "세금 체납한 총선 후보 9명…83명은 5년내 체납 이력(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583558?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 23:04:00 +0900",
+                "title": "국민대표 뽑는데… 22대 총선 후보, 전과자·체납자 多",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3121457"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:32:00 +0900",
+                "title": "울산 총선후보 최고 자산가 70억7천만원 김기현…납세액도 최다",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583517?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:28:00 +0900",
+                "title": "총선 후보 9명, 등록 때까지 세금 체납… 5년내 체납 이력 후보는 83명",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980131?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 22:11:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 울산(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583509?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:56:00 +0900",
+                "title": "[총선 D-19] 4·10 총선 후보 18명..경쟁률 3대 1",
+                "link": "https://www.usmbc.co.kr/article/ccTZfUdVwCzeJ1_NWk"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:27:00 +0900",
+                "title": "총선후보 9명, 등록 때까지 세금체납…82명은 5년내 체납 이력",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583485?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:12:00 +0900",
+                "title": "울산 18명 후보 등록.. 4년 전보다 10명 줄어",
+                "link": "http://web.ubc.co.kr/wp/archives/112996"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:07:00 +0900",
+                "title": "5년내 세금 체납 후보 82명…체납액 1위 민주 주철현 1억1662만원(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445538?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:23:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 울산(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583318?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:08:00 +0900",
+                "title": "울산 후보자 중 김기현 재산 70억 1위…후보 44% 전과 '음주 운전' 가장 많아",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430831?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 18:45:00 +0900",
+                "title": "5년내 세금 체납 후보 69명…체납액 1위 민주 주철현 1억1662만원",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445424?sid=100"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 51167
+            }
+        ],
+        "huboid": "100152256",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-7-3.jpg"
+        ]
+    },
+    {
+        "id": "2310201-8",
+        "regionId": "2310201",
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2310201-8.jpg",
+        "기호": 8,
+        "이름": "허언욱",
+        "생년월일": "19640312",
+        "정당": "무소속",
+        "성별": "남",
+        "직업": "정치인",
+        "학력": "한양대학교 행정대학원 행정학과 졸업",
+        "경력": "(전)울산광역시 행정부시장\n(전)행정안전부 안전정책실장",
+        "재산": 1811740,
+        "군필여부": true,
+        "전과건수": 0,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 00:12:00 +0900",
+                "title": "울산 남갑 무소속 허언욱 사퇴 \"김상욱 지지\"(종합)",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996261"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 21:02:00 +0900",
+                "title": "울산, 허언욱 후보 사퇴… \"남구갑 보수 승리 총력\"",
+                "link": "http://www.ujeil.com/news/articleView.html?idxno=345396"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:42:00 +0900",
+                "title": "허언욱 사퇴에 김상욱 \"보수 단일화 천군만마\" 전은수 \"예견된 구태정치 답습...",
+                "link": "https://www.ulsanpress.net/news/articleView.html?idxno=525488"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 18:02:00 +0900",
+                "title": "울산 남구갑 무소속 허언욱 사퇴..국민의힘 김상욱 지지(종합)",
+                "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1037591"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+                "title": "남구갑 허언욱 후보 사퇴…\"기표하면 무효\"",
+                "link": "https://www.usmbc.co.kr/article/yjyAA9sF_npBd"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:06:00 +0900",
+                "title": "울산 남구갑 무소속 허언욱 후보 5일 전격 사퇴",
+                "link": "https://n.news.naver.com/mnews/article/658/0000070557?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:32:00 +0900",
+                "title": "울산남구갑 선거구 4자구도로 재편…무소속 허언욱 후보직 사퇴로 보수단일화",
+                "link": "https://www.ajunews.com/view/20240405145735839"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:59:00 +0900",
+                "title": "울산 남갑 민주당 전은수 \"허언욱 사퇴, 전형적 구태정치 답습\"",
+                "link": "https://n.news.naver.com/mnews/article/421/0007462315?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:08:00 +0900",
+                "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…\"국힘 김상욱 지지\"",
+                "link": "https://n.news.naver.com/mnews/article/586/0000076047?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:05:00 +0900",
+                "title": "울산 남구갑 허언욱 돌연 사퇴.. 민주당 전은수 \"정치 야합\" 비판 [2024 총선...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005167511?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:42:00 +0900",
+                "title": "무소속 허언욱, 울산 남구갑 후보 사퇴…국힘 김상욱으로 단일화",
+                "link": "https://n.news.naver.com/mnews/article/003/0012474337?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:38:00 +0900",
+                "title": "무소속 허언욱 후보, 사전 투표 첫날 후보직 사퇴…국민의힘 김상욱 후보 공식...",
+                "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=996192"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:18:00 +0900",
+                "title": "허언욱 울산 남구갑 후보 사퇴 수리…\"기표하면 무효\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012474228?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:18:00 +0900",
+                "title": "울산 남구갑 무소속 허언욱 사퇴...\"보수 승리 위해 수용\"",
+                "link": "https://www.pennmike.com/news/articleView.html?idxno=79083"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:09:00 +0900",
+                "title": "무소속 허언욱 울산 남구갑 후보 전격 사퇴…\"국힘 김상욱 지지\"",
+                "link": "https://www.kpinews.kr/newsView/1065578405851142"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:57:00 +0900",
+                "title": "\"사퇴자에 기표하면 무효\" 울산시선관위, 남구갑 무소속 허언욱 사퇴 수리",
+                "link": "https://n.news.naver.com/mnews/article/421/0007461300?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:41:00 +0900",
+                "title": "울산 남구갑 무소속 허언욱 후보 사퇴…\"보수 승리 노력\"",
+                "link": "https://n.news.naver.com/mnews/article/079/0003882276?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:41:00 +0900",
+                "title": "울산선관위, 남구갑 허언욱 후보 사퇴 수리…\"기표하면 무효\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014612816?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:40:00 +0900",
+                "title": "울산 남갑 무소속 허언욱, 후보 사퇴...국힘 김상욱으로 단일화",
+                "link": "https://www.etoday.co.kr/news/view/2348039"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:28:00 +0900",
+                "title": "울산 남갑 무소속 허언욱 후보 사퇴…\"김상욱 지지\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012473923?sid=165"
+            }
+        ],
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1811740
+            }
+        ],
+        "huboid": "100151331",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2310201-8.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2310201-8.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2310201-8-7.jpg"
+        ]
+    }
 ]

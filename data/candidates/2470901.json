@@ -1,972 +1,972 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-1.jpg",
-    "id": "2470901-1",
-    "재산": 113539,
-    "생년월일": "19740818",
-    "경력": "(현)더불어민주당 영천청도 지역위원장\n(현)더불어민주당 전국농어민위원회 부위원장",
-    "학력": "서울대학교 농경제사회학부 졸업",
-    "직업": "농업",
-    "성별": "남",
-    "regionId": "2470901",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Thu, 04 Apr 2024 21:34:00 +0900",
-        "title": "영천·청도 TV토론회, 이영수 \"농지 규제, 농민 불만\"…이만희 \"文 정부 시절...",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456126"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 09:56:00 +0900",
-        "title": "[위클리오늘] 22대 총선 영천·청도 이영수-이만희 후보 측 관계자 몸싸움 논...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=617766"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 21:14:00 +0900",
-        "title": "영천·청도 이영수 후보 지원 나선 우상호 \"이영수가 대구경북의 새로운 변화...",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455883"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 14:44:00 +0900",
-        "title": "영천시·청도군 한농연 임원, 이영수 민주당 후보 만나 농정 요구사항 전달",
-        "link": "http://www.agrinet.co.kr/news/articleView.html?idxno=326369"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 20:00:00 +0900",
-        "title": "이영수 영천·청도 후보 선거사무소 개소…\"경북 최초 민주당 지역구 의원 될...",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004476"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:36:00 +0900",
-        "title": "[선택 4·10] 제22대 총선 영천시·청도군, 민주 이영수 · 국힘 이만희 · 무...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065507"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 20:04:00 +0900",
-        "title": "만주당 이영수 후보(경북 영천청도)국회의원 후보 등록",
-        "link": "http://www.breaknews.com/1022475"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 17:24:00 +0900",
-        "title": "이영수 영천·청도선거구 더불어민주당 후보 등록",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004279"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:46:00 +0900",
-        "title": "'3선 이장' 출신 이영수 \"실사구시 정치할 것\"…영천·청도 민주당 후보 등록",
-        "link": "https://n.news.naver.com/mnews/article/421/0007427886?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:41:00 +0900",
-        "title": "이만희·이영수 영천청도 후보, 지역구 후보자 등록…승리 다짐",
-        "link": "https://n.news.naver.com/mnews/article/088/0000868576?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:36:00 +0900",
-        "title": "대구 중구남구·경산 'TK 최대 격전지'로",
-        "link": "https://n.news.naver.com/mnews/article/088/0000868571?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 16:26:00 +0900",
-        "title": "이영수 민주당 후보 등록",
-        "link": "https://n.news.naver.com/mnews/article/421/0007427794?sid=165"
-      },
-      {
-        "date": "Thu, 21 Mar 2024 09:01:00 +0900",
-        "title": "[4·10 총선] 여야 대진표 확정…농업계 인사 격전지 공천",
-        "link": "https://n.news.naver.com/mnews/article/662/0000039747?sid=102"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 16:20:00 +0900",
-        "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 00:18:00 +0900",
-        "title": "국힘 이번도 TK권 전역 석권하나...'무소속 강풍'에 곳곳 난기류",
-        "link": "https://www.newspim.com/news/view/20240318001161"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 20:46:00 +0900",
-        "title": "후보 등록 앞두고 TK 본선 대진표 완성",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988764"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 21:44:00 +0900",
-        "title": "與, 링 위 오를 대구·경북 선수 25명 전원 확정",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=453728"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 18:00:00 +0900",
-        "title": "4·10 총선 경북지역 출마자 대진표 완성",
-        "link": "https://www.idaegu.com/newsView/idg202403170123"
-      },
-      {
-        "date": "Sun, 17 Mar 2024 15:56:00 +0900",
-        "title": "영천·청도, 국힘 이만희·민주당 이영수·무소속 김장주 '3파전' 예고",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4003821"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 16:22:00 +0900",
-        "title": "[선택 4·10] 민주당 이영수 영천시·청도군 예비후보, 출마 선언",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1062776"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이영수",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 113539
-      }
-    ],
-    "huboid": "100151738",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-7.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-2.jpg",
-    "id": "2470901-2",
-    "재산": 2868460,
-    "생년월일": "19631211",
-    "경력": "(현) 국회의원(제20대, 제21대)\n(전) 국민의힘 사무총장",
-    "학력": "고려대학교 정책대학원 졸업(행정학 석사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "980",
-    "regionId": "2470901",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Fri, 05 Apr 2024 14:28:00 +0900",
-        "title": "[한국인 이만희 평화실화│평화교육-말리·모잠비크·미크로네시아] \"평화의 ...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3126606"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:56:00 +0900",
-        "title": "[한국인 이만희 평화실화│평화교육-코트디부아르·파푸아뉴기니] 교사‧학생...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3126599"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:34:00 +0900",
-        "title": "영천·청도 TV토론회, 이영수 \"농지 규제, 농민 불만\"…이만희 \"文 정부 시절...",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456126"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 09:56:00 +0900",
-        "title": "[위클리오늘] 22대 총선 영천·청도 이영수-이만희 후보 측 관계자 몸싸움 논...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=617766"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 21:14:00 +0900",
-        "title": "국민의힘 이만희 후보 영천 총력유세, 1천여명 집결하며 대성황",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455882"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 17:10:00 +0900",
-        "title": "[4·10 필드 속으로] 이만희 후보, 영천공설시장 앞에서 집중유세전 펼쳐",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240403010000544"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 10:24:00 +0900",
-        "title": "'4·10총선' 영천 국힘 이만희 총력 유세전....막바지 표밭다지기 돌입",
-        "link": "https://www.newspim.com/news/view/20240403000261"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:36:00 +0900",
-        "title": "한농연경북도연합회, 이만희 국회의원에 농정 요구사항 전달",
-        "link": "http://www.agrinet.co.kr/news/articleView.html?idxno=326310"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 15:12:00 +0900",
-        "title": "[4.10총선-169] 영천·청도, 이영수vs이만희, 여권 후보 난립",
-        "link": "http://www.mhj21.com/160216"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 00:04:00 +0900",
-        "title": "이만희 후보, 보육·의료·복지 등 세대별 생활 밀착형 공약 내놔",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469838"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 20:16:00 +0900",
-        "title": "이만희 국힘 영천·청도 야간·휴일 어린이병원 운영 늘봄학교 전면적 확대 추...",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990428"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 18:52:00 +0900",
-        "title": "이만희, 보육·의료·복지 등 세대별 생활 밀착형 공약 발표",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544128"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 14:18:00 +0900",
-        "title": "[열전 4.10 총선] 이만희, 실생활과 연관이 높은세대별 생활 밀착형 공약 발표",
-        "link": "http://www.kbsm.net/news/view.php?idx=428140"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 15:23:00 +0900",
-        "title": "이만희 국회의원 후보, 선대위 발대식 이어 공식 선거운동 시작",
-        "link": "https://n.news.naver.com/mnews/article/002/0002325612?sid=102"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 07:02:00 +0900",
-        "title": "[한국인 이만희 평화실화│평화교육-태국] 평화교사 \"평화교재, 모든 과목에 ...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123722"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 22:58:00 +0900",
-        "title": "이만희 후보, 본격 선거운동 돌입 \"지역소멸 위기 극복 전기 마련할 것\"",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469732"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 21:56:00 +0900",
-        "title": "與이만희 영천·청도 후보, 선대위 발대식 개최… 본격 선거운동 돌입",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3123677"
-      },
-      {
-        "date": "Wed, 27 Mar 2024 18:12:00 +0900",
-        "title": "[위클리오늘] 이만희 의원, 22대 총선 선대위 발대식...선대위 공동위원장 김...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=616376"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:08:00 +0900",
-        "title": "출정 나선 與 경북 후보자들 \"경북 넘어 수도권 승리 견인\" 결의",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454674"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 12:46:00 +0900",
-        "title": "[위클리오늘] 4.10 총선 영천·청도 후보자 방송토론 개최...4월 4일 17시(대...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=615590"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "이만희",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 2490802
-      },
-      {
-        "연도": 2021,
-        "재산": 2614076
-      },
-      {
-        "연도": 2022,
-        "재산": 2871306
-      },
-      {
-        "연도": 2023,
-        "재산": 2868460
-      }
-    ],
-    "huboid": "100152571",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-2.pdf",
-    "21th": {
-      "연락처": "의원회관 819호 | 전화 02-784-5901 | 팩스 02-6788-6945",
-      "당선횟수": 2,
-      "본회의_출석률": 86.83,
-      "소속위원회": "행정안전위원회",
-      "id": "980",
-      "주요경력": "고려대학교 정책대학원 졸업(행정학 석사)",
-      "본회의_출석률_등수": 241,
-      "재산등수": 153,
-      "상임위원회_출석률": [
-        {
-          "위원회": "행정안전위원회",
-          "출석률": 80,
-          "등수": 21,
-          "총원": 22
-        }
-      ],
-      "이름": "이만희",
-      "정당": "국민의힘",
-      "위원회별_발의법안": [
-        {
-          "발의수": 38,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 23,
-          "위원회": "농림축산식품해양수산위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "정무위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "기획재정위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "산업통상자원중소벤처기업위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "보건복지위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "국토교통위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "법제사법위원회"
-        }
-      ],
-      "대표발의법안_등수": 144,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 2490802
-        },
-        {
-          "연도": 2021,
-          "재산": 2614076
-        },
-        {
-          "연도": 2022,
-          "재산": 2871306
-        }
-      ],
-      "대표발의법안": 73,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "기권"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "반대"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "찬성"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "국가",
-          "count": "197"
-        },
-        {
-          "단어": "기관",
-          "count": "184"
-        },
-        {
-          "단어": "코로나",
-          "count": "181"
-        },
-        {
-          "단어": "경찰",
-          "count": "164"
-        },
-        {
-          "단어": "수용",
-          "count": "161"
-        },
-        {
-          "단어": "선관위",
-          "count": "144"
-        },
-        {
-          "단어": "수사",
-          "count": "143"
-        },
-        {
-          "단어": "선거",
-          "count": "133"
-        },
-        {
-          "단어": "농업",
-          "count": "132"
-        },
-        {
-          "단어": "농민",
-          "count": "124"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2023-12-11",
-          "의안명": "10ㆍ29이태원참사 피해구제 및 지원 등을 위한 특별법안(이만희의원 등 13인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-08",
-          "의안명": "조세특례제한법 일부개정법률안(이만희의원 등 11인) ",
-          "발의자": "이만희",
-          "상임위원회": "기획재정위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-08",
-          "의안명": "초고층 및 지하연계 복합건축물 재난관리에 관한 특별법 일부개정법률안(이만희의원 등 11인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-08",
-          "의안명": "소방공무원 보건안전 및 복지 기본법 일부개정법률안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-10-26",
-          "의안명": "고향사랑 기부금에 관한 법률 일부개정법률안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-10-25",
-          "의안명": "집회 및 시위에 관한 법률 일부개정법률안(이만희의원 등 12인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-15",
-          "의안명": "재해영향평가법안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-12",
-          "의안명": "119구조·구급에 관한 법률 일부개정법률안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-07",
-          "의안명": "경찰공무원 보건안전 및 복지 기본법 일부개정법률안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-08-29",
-          "의안명": "경찰관 직무집행법 일부개정법률안(이만희의원 등 10인) ",
-          "발의자": "이만희",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        }
-      ],
-      "공약이행률": {
-        "총공약수": 87,
-        "공약이행수": 70
-      },
-      "공약이행률등수": 26,
-      "공약이행수등수": 9
+    {
+        "전과건수": 1,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-1.jpg",
+        "id": "2470901-1",
+        "재산": 113539,
+        "생년월일": "19740818",
+        "경력": "(현)더불어민주당 영천청도 지역위원장\n(현)더불어민주당 전국농어민위원회 부위원장",
+        "학력": "서울대학교 농경제사회학부 졸업",
+        "직업": "농업",
+        "성별": "남",
+        "regionId": "2470901",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 09:48:00 +0900",
+                "title": "[위클리오늘] 경북 영천 이영수_이만희_김지미 후보, 대국민 '교통안전 서약서...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=618266"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 21:34:00 +0900",
+                "title": "영천·청도 TV토론회, 이영수 \"농지 규제, 농민 불만\"…이만희 \"文 정부 시절...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456126"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 09:56:00 +0900",
+                "title": "[위클리오늘] 22대 총선 영천·청도 이영수-이만희 후보 측 관계자 몸싸움 논...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=617766"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:14:00 +0900",
+                "title": "영천·청도 이영수 후보 지원 나선 우상호 \"이영수가 대구경북의 새로운 변화...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455883"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 14:44:00 +0900",
+                "title": "영천시·청도군 한농연 임원, 이영수 민주당 후보 만나 농정 요구사항 전달",
+                "link": "http://www.agrinet.co.kr/news/articleView.html?idxno=326369"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 20:00:00 +0900",
+                "title": "이영수 영천·청도 후보 선거사무소 개소…\"경북 최초 민주당 지역구 의원 될...",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004476"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:36:00 +0900",
+                "title": "[선택 4·10] 제22대 총선 영천시·청도군, 민주 이영수 · 국힘 이만희 · 무...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065507"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 09:10:00 +0900",
+                "title": "[4·10총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007429087?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:54:00 +0900",
+                "title": "후보 등록 첫날 대구 31명·경북 32명",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454421"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 21:49:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 마감)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014581019?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:56:00 +0900",
+                "title": "4.10 총선 경북·대구 후보 등록 첫날 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989322"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:51:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(21일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014580794?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 20:04:00 +0900",
+                "title": "만주당 이영수 후보(경북 영천청도)국회의원 후보 등록",
+                "link": "http://www.breaknews.com/1022475"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 17:24:00 +0900",
+                "title": "이영수 영천·청도선거구 더불어민주당 후보 등록",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004279"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:46:00 +0900",
+                "title": "'3선 이장' 출신 이영수 \"실사구시 정치할 것\"…영천·청도 민주당 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427886?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:41:00 +0900",
+                "title": "이만희·이영수 영천청도 후보, 지역구 후보자 등록…승리 다짐",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868576?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:36:00 +0900",
+                "title": "대구 중구남구·경산 'TK 최대 격전지'로",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868571?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 16:26:00 +0900",
+                "title": "이영수 민주당 후보 등록",
+                "link": "https://n.news.naver.com/mnews/article/421/0007427794?sid=165"
+            },
+            {
+                "date": "Thu, 21 Mar 2024 09:01:00 +0900",
+                "title": "[4·10 총선] 여야 대진표 확정…농업계 인사 격전지 공천",
+                "link": "https://n.news.naver.com/mnews/article/662/0000039747?sid=102"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이영수",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 113539
+            }
+        ],
+        "huboid": "100151738",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-1-7.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-7.jpg",
-    "id": "2470901-7",
-    "재산": 1648827,
-    "생년월일": "19670109",
-    "경력": "(전)대구경북첨단벤처기업연합회 회장\n(전)한국여성경제인협회 대구경북지회 이사",
-    "학력": "계명대학교 대학원 박사과정 졸업(패션비즈니스학박사)",
-    "직업": "(주)시마 대표이사",
-    "성별": "여",
-    "regionId": "2470901",
-    "기호": 7,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Tue, 02 Apr 2024 17:06:00 +0900",
-        "title": "영천·청도의 큰딸, 제22대 국회의원 후보 김지미 기호 7번",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=544304"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:29:00 +0900",
-        "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
-        "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 21:04:00 +0900",
-        "title": "[위클리오늘] 22대 총선 영천·청도 본 후보 총 5명 등록….민주당(1)-국힘(1...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=615536"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:54:00 +0900",
-        "title": "경북, 4·10 총선 후보자 등록 최종 현황",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:34:00 +0900",
-        "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:31:00 +0900",
-        "title": "대구경북 총선후보 중 20억이상 재산 16명…與 최은석 110억(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583388?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 20:12:00 +0900",
-        "title": "대구·경북 22대 국회의원 선거 후보 22일 등록 명단",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989341"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:57:00 +0900",
-        "title": "[4·10총선 후보자 등록]경북",
-        "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:41:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 19:29:00 +0900",
-        "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 16:36:00 +0900",
-        "title": "[선택 4·10] 제22대 총선 영천시·청도군, 민주 이영수 · 국힘 이만희 · 무...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065507"
-      },
-      {
-        "date": "Fri, 22 Mar 2024 11:24:00 +0900",
-        "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
-      },
-      {
-        "date": "Thu, 06 Feb 2020 09:12:00 +0900",
-        "title": "[이 법 어떻게 생각하십니까] ‘현직 법관 2년간 정당추천 선거출마 제한’ 법...",
-        "link": "https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=159284"
-      },
-      {
-        "date": "Wed, 02 Jan 2019 21:34:00 +0900",
-        "title": "[2019년 대구경북 신년교례회-신청·참석자 명단] 자리를 빛내주신 분들께 감...",
-        "link": "https://n.news.naver.com/mnews/article/088/0000570500?sid=004"
-      },
-      {
-        "date": "Sun, 17 Jun 2018 11:45:00 +0900",
-        "title": "“만우절날 돌아가신 어머니…서러운 소년기의 시작이었다”",
-        "link": "https://n.news.naver.com/mnews/article/028/0002414016?sid=102"
-      },
-      {
-        "date": "Wed, 26 Apr 2017 18:15:00 +0900",
-        "title": "한국섬유패션산업의 미래방향~' 정책토론회 개최",
-        "link": "http://okfashion.co.kr/detail.php?number=46903&thread=81r02r02"
-      },
-      {
-        "date": "Sun, 20 Mar 2016 21:55:00 +0900",
-        "title": "유권자가묻고 후보자가 답한다 (6) 김해 갑",
-        "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1175116"
-      },
-      {
-        "date": "Tue, 18 Dec 2012 16:36:00 +0900",
-        "title": "대선 때만 되면 등장하는 연예인은 누구?",
-        "link": "http://www.ilyosisa.co.kr/news/article.html?no=28034"
-      },
-      {
-        "date": "Thu, 06 Dec 2012 16:23:00 +0900",
-        "title": "대한민국 최초의 연예인 출신 국회의원은 누구?",
-        "link": "https://n.news.naver.com/mnews/article/020/0002388734?sid=103"
-      },
-      {
-        "date": "Sat, 03 Nov 2012 18:20:00 +0900",
-        "title": "영화판은 완전 좌파세상!",
-        "link": "http://www.newdaily.co.kr/news/article.html?no=128630"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "김지미",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1648827
-      }
-    ],
-    "huboid": "100153177",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-7.jpg"
-    ]
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-8.jpg",
-    "id": "2470901-8",
-    "재산": 1754166,
-    "생년월일": "19621202",
-    "경력": "(전)부산과학기술대학교 겸임교수\n(전)국민의힘 중앙위원회 자문위원",
-    "학력": "동의대학교 대학원 졸업(철학박사)",
-    "직업": "무",
-    "성별": "남",
-    "regionId": "2470901",
-    "기호": 8,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 25 Mar 2024 16:29:00 +0900",
-        "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
-        "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
-      },
-      {
-        "date": "Mon, 19 Feb 2024 01:12:00 +0900",
-        "title": "김경원·김장주·이승록 영천·청도 예비후보 \"이만희 단수공천은 민심 무시\"",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4001375"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 15:06:00 +0900",
-        "title": "국민의힘 이만희 단수공천 후유증···김경원·김장주·이승록 예비후보 이의...",
-        "link": "https://n.news.naver.com/mnews/article/002/0002319857?sid=102"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 13:49:00 +0900",
-        "title": "4·10 총선 경북 영천·청도 지역구 단수 공천 ‘반발 기류’ 확산",
-        "link": "https://n.news.naver.com/mnews/article/088/0000862759?sid=165"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 13:34:00 +0900",
-        "title": "국힘 TK 단수공천지역 '파열음'...영천·청도 경선 탈락 예비후보 '반발'",
-        "link": "https://www.newspim.com/news/view/20240218000064"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 12:52:00 +0900",
-        "title": "국힘 영천·청도 예비후보자들 “이만희 단수 공천 철회해야”",
-        "link": "http://www.kukinews.com/newsView/kuk202402180028"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 12:48:00 +0900",
-        "title": "국민의힘 TK 공천 '후폭풍'...영천시·청도군 단수공천에 반발",
-        "link": "https://n.news.naver.com/mnews/article/629/0000267845?sid=102"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 12:30:00 +0900",
-        "title": "'영천·청도 이만희 단수공천' 반발…\"지역민심 무시 처사\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012378626?sid=165"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 11:43:00 +0900",
-        "title": "이만희 의원 단수 공천, 매끄럽던 국민의힘 공천 지뢰되나?",
-        "link": "https://n.news.naver.com/mnews/article/031/0000813436?sid=102"
-      },
-      {
-        "date": "Sun, 18 Feb 2024 10:45:00 +0900",
-        "title": "與 이만희 단수 공천에 반발…영천·청도 후보 \"지역민심 무시\"",
-        "link": "https://n.news.naver.com/mnews/article/018/0005675482?sid=165"
-      },
-      {
-        "date": "Fri, 16 Feb 2024 18:12:00 +0900",
-        "title": "[22대 총선기획-영·호남편] 국민의힘·민주당 텃밭 음주운전 전과 전수조사",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=484428"
-      },
-      {
-        "date": "Thu, 08 Feb 2024 01:19:00 +0900",
-        "title": "경북 영천 원로들, 이만희 의원 공천배제 요구 건의문 국민의힘 공관위에 전달",
-        "link": "https://n.news.naver.com/mnews/article/047/0002421678?sid=100"
-      },
-      {
-        "date": "Mon, 05 Feb 2024 09:56:00 +0900",
-        "title": "[위클리오늘] 국민의힘 경북 공천신청자 68명, 5.15대 1...대구 44명, 3.67대...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=608660"
-      },
-      {
-        "date": "Thu, 01 Feb 2024 21:46:00 +0900",
-        "title": "[총선격전지] 영천·청도, 공약 차별없이 '내가 적임자' 말잔치 무성",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=429495"
-      },
-      {
-        "date": "Tue, 30 Jan 2024 08:30:00 +0900",
-        "title": "\"공약 차별없이 적임자론만 무성\"…치열한 공천 경쟁 영천·청도",
-        "link": "https://n.news.naver.com/mnews/article/001/0014475335?sid=100"
-      },
-      {
-        "date": "Tue, 30 Jan 2024 00:12:00 +0900",
-        "title": "영천·청도, 정치변화 갈망 속 분위기 어수선…국민의힘 공천에 시선 집중",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=2153894"
-      },
-      {
-        "date": "Tue, 09 Jan 2024 12:41:00 +0900",
-        "title": "김현준, 전정일, 원경희.. 총선 출격 앞둔 '세무인'들 분주",
-        "link": "https://n.news.naver.com/mnews/article/123/0002324885?sid=101"
-      },
-      {
-        "date": "Sat, 30 Dec 2023 09:23:00 +0900",
-        "title": "[22대 총선 프로젝트][대구 경북](2)4.10총선 뛰는 사람들...대구 경북 현역 ...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=629451"
-      },
-      {
-        "date": "Fri, 29 Dec 2023 14:30:00 +0900",
-        "title": "[위클리오늘] (22대 총선 출마) 김경원 전 대구지방국세청장...경북 영천시·...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=603855"
-      },
-      {
-        "date": "Wed, 20 Dec 2023 21:43:00 +0900",
-        "title": "TK 총선 예비후보 10명 중 3명'전과'",
-        "link": "https://www.dkilbo.com/news/articleView.html?idxno=424119"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "이승록",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1754166
-      }
-    ],
-    "huboid": "100151610",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-8.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-8.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-7.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-9.jpg",
-    "id": "2470901-9",
-    "재산": 419080,
-    "생년월일": "19641010",
-    "경력": "(전)경상북도 행정부지사\n(전)영천부시장",
-    "학력": "성균관대학교 행정학과 졸업",
-    "직업": "무",
-    "성별": "남",
-    "regionId": "2470901",
-    "기호": 9,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 19:34:00 +0900",
-        "title": "김장주 후보측, 선관위에 '이만희 고소장'",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456346"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:14:00 +0900",
-        "title": "김장주 후보, 영천 장날 거리 유세 나서",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456043"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:02:00 +0900",
-        "title": "김장주 후보, 영천청도 지방정치행정혁신 상생협력체제 마련 약속",
-        "link": "https://www.cnbnews.com/news/article.html?no=651879"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 13:34:00 +0900",
-        "title": "김장주 후보, 청도군민 앞에서 3보1배",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851183"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:54:00 +0900",
-        "title": "김장주 무소속 후보, 본격 선거전 돌입",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455208"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 11:04:00 +0900",
-        "title": "[위클리오늘] 4.10 총선 영천·청도 무소속 김장주 후보, 정치자금 펀드 모금...",
-        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=615844"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:34:00 +0900",
-        "title": "김장주 '시군민의힘 펀드' 목표 금액 달성",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454743"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 19:36:00 +0900",
-        "title": "무소속 김장주 후보, 시군민의힘 펀드 일주일만에 목표금액 달성",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989618"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 17:24:00 +0900",
-        "title": "[선택 4·10] 김장주 영천·청도 무소속 후보 \"돈 없어도 정치에 입문할 수 있...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066280"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 16:29:00 +0900",
-        "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
-        "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 22:14:00 +0900",
-        "title": "김장주 영천·청도 시군민 추천후보, 무소속 지역구 후보자 등록",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454605"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 21:00:00 +0900",
-        "title": "김장주 “투명한 정치자금 통한 깨끗한 정치 실현”",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=474048"
-      },
-      {
-        "date": "Sun, 24 Mar 2024 16:20:00 +0900",
-        "title": "김장주 후보 '시군민의 힘으로 확 바꾸시더!' 슬로건, 표심잡기 활동 돌입",
-        "link": "https://n.news.naver.com/mnews/article/088/0000868930?sid=165"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:54:00 +0900",
-        "title": "김장주, '시·군민의힘 펀드' 출시… 선거비용 빌려주는 방식",
-        "link": "http://www.hidomin.com/news/articleView.html?idxno=543152"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 18:16:00 +0900",
-        "title": "김장주 영천·청도 예비후보, '시·군민의힘 펀드' 출시",
-        "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004199"
-      },
-      {
-        "date": "Wed, 20 Mar 2024 14:44:00 +0900",
-        "title": "김장주 무소속 영천·청도 국회의원 예비후보,'시군민의힘 펀드' 출시",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454148"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 18:38:00 +0900",
-        "title": "김장주 예비후보 ‘시군민의힘 펀드’ 출시",
-        "link": "https://www.cnbnews.com/news/article.html?no=649511"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 18:06:00 +0900",
-        "title": "[4.10총선 이슈] TK서 부는 무소속바람, 얼마나 셀까",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639633"
-      },
-      {
-        "date": "Tue, 19 Mar 2024 17:18:00 +0900",
-        "title": "[선택 4·10] 김장주 무소속 영천시·청도군 예비후보, '시군민의힘 펀드' 출...",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1063949"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 20:46:00 +0900",
-        "title": "후보 등록 앞두고 TK 본선 대진표 완성",
-        "link": "http://www.kbmaeil.com/news/articleView.html?idxno=988764"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "김장주",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 419080
-      }
-    ],
-    "huboid": "100151414",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-9.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-9.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-9.jpg"
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-2.jpg",
+        "id": "2470901-2",
+        "재산": 2868460,
+        "생년월일": "19631211",
+        "경력": "(현) 국회의원(제20대, 제21대)\n(전) 국민의힘 사무총장",
+        "학력": "고려대학교 정책대학원 졸업(행정학 석사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "980",
+        "regionId": "2470901",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 09:48:00 +0900",
+                "title": "[위클리오늘] 경북 영천 이영수_이만희_김지미 후보, 대국민 '교통안전 서약서...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=618266"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:28:00 +0900",
+                "title": "[한국인 이만희 평화실화│평화교육-말리·모잠비크·미크로네시아] \"평화의 ...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126606"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:56:00 +0900",
+                "title": "[한국인 이만희 평화실화│평화교육-코트디부아르·파푸아뉴기니] 교사‧학생...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3126599"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 21:34:00 +0900",
+                "title": "영천·청도 TV토론회, 이영수 \"농지 규제, 농민 불만\"…이만희 \"文 정부 시절...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456126"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 09:56:00 +0900",
+                "title": "[위클리오늘] 22대 총선 영천·청도 이영수-이만희 후보 측 관계자 몸싸움 논...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=617766"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:14:00 +0900",
+                "title": "국민의힘 이만희 후보 영천 총력유세, 1천여명 집결하며 대성황",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455882"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:10:00 +0900",
+                "title": "[4·10 필드 속으로] 이만희 후보, 영천공설시장 앞에서 집중유세전 펼쳐",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240403010000544"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:24:00 +0900",
+                "title": "'4·10총선' 영천 국힘 이만희 총력 유세전....막바지 표밭다지기 돌입",
+                "link": "https://www.newspim.com/news/view/20240403000261"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:36:00 +0900",
+                "title": "한농연경북도연합회, 이만희 국회의원에 농정 요구사항 전달",
+                "link": "http://www.agrinet.co.kr/news/articleView.html?idxno=326310"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 15:12:00 +0900",
+                "title": "[4.10총선-169] 영천·청도, 이영수vs이만희, 여권 후보 난립",
+                "link": "http://www.mhj21.com/160216"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 00:04:00 +0900",
+                "title": "이만희 후보, 보육·의료·복지 등 세대별 생활 밀착형 공약 내놔",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469838"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 20:16:00 +0900",
+                "title": "이만희 국힘 영천·청도 야간·휴일 어린이병원 운영 늘봄학교 전면적 확대 추...",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990428"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 18:52:00 +0900",
+                "title": "이만희, 보육·의료·복지 등 세대별 생활 밀착형 공약 발표",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544128"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 14:18:00 +0900",
+                "title": "[열전 4.10 총선] 이만희, 실생활과 연관이 높은세대별 생활 밀착형 공약 발표",
+                "link": "http://www.kbsm.net/news/view.php?idx=428140"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 15:23:00 +0900",
+                "title": "이만희 국회의원 후보, 선대위 발대식 이어 공식 선거운동 시작",
+                "link": "https://n.news.naver.com/mnews/article/002/0002325612?sid=102"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 07:02:00 +0900",
+                "title": "[한국인 이만희 평화실화│평화교육-태국] 평화교사 \"평화교재, 모든 과목에 ...",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123722"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 22:58:00 +0900",
+                "title": "이만희 후보, 본격 선거운동 돌입 \"지역소멸 위기 극복 전기 마련할 것\"",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469732"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:56:00 +0900",
+                "title": "與이만희 영천·청도 후보, 선대위 발대식 개최… 본격 선거운동 돌입",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3123677"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:24:00 +0900",
+                "title": "국힘 선대위 종합상황실 4명 모두 영남…“수도권 민심 못 읽는다” 내부 비판",
+                "link": "https://n.news.naver.com/mnews/article/005/0001684545?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:46:00 +0900",
+                "title": "[위클리오늘] 경북 영천·청도 첫 유세 동향...우중에 4.10 총선 13일간 공식...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=616574"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "이만희",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 2490802
+            },
+            {
+                "연도": 2021,
+                "재산": 2614076
+            },
+            {
+                "연도": 2022,
+                "재산": 2871306
+            },
+            {
+                "연도": 2023,
+                "재산": 2868460
+            }
+        ],
+        "huboid": "100152571",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-2.pdf",
+        "21th": {
+            "연락처": "의원회관 819호 | 전화 02-784-5901 | 팩스 02-6788-6945",
+            "당선횟수": 2,
+            "본회의_출석률": 86.83,
+            "소속위원회": "행정안전위원회",
+            "id": "980",
+            "주요경력": "고려대학교 정책대학원 졸업(행정학 석사)",
+            "본회의_출석률_등수": 241,
+            "재산등수": 153,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "행정안전위원회",
+                    "출석률": 80,
+                    "등수": 21,
+                    "총원": 22
+                }
+            ],
+            "이름": "이만희",
+            "정당": "국민의힘",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 38,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 23,
+                    "위원회": "농림축산식품해양수산위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "정무위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "기획재정위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "산업통상자원중소벤처기업위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "보건복지위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "국토교통위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "법제사법위원회"
+                }
+            ],
+            "대표발의법안_등수": 144,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 2490802
+                },
+                {
+                    "연도": 2021,
+                    "재산": 2614076
+                },
+                {
+                    "연도": 2022,
+                    "재산": 2871306
+                }
+            ],
+            "대표발의법안": 73,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "기권"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "반대"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "찬성"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "국가",
+                    "count": "197"
+                },
+                {
+                    "단어": "기관",
+                    "count": "184"
+                },
+                {
+                    "단어": "코로나",
+                    "count": "181"
+                },
+                {
+                    "단어": "경찰",
+                    "count": "164"
+                },
+                {
+                    "단어": "수용",
+                    "count": "161"
+                },
+                {
+                    "단어": "선관위",
+                    "count": "144"
+                },
+                {
+                    "단어": "수사",
+                    "count": "143"
+                },
+                {
+                    "단어": "선거",
+                    "count": "133"
+                },
+                {
+                    "단어": "농업",
+                    "count": "132"
+                },
+                {
+                    "단어": "농민",
+                    "count": "124"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2023-12-11",
+                    "의안명": "10ㆍ29이태원참사 피해구제 및 지원 등을 위한 특별법안(이만희의원 등 13인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-08",
+                    "의안명": "조세특례제한법 일부개정법률안(이만희의원 등 11인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-08",
+                    "의안명": "초고층 및 지하연계 복합건축물 재난관리에 관한 특별법 일부개정법률안(이만희의원 등 11인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-08",
+                    "의안명": "소방공무원 보건안전 및 복지 기본법 일부개정법률안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-10-26",
+                    "의안명": "고향사랑 기부금에 관한 법률 일부개정법률안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-10-25",
+                    "의안명": "집회 및 시위에 관한 법률 일부개정법률안(이만희의원 등 12인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-15",
+                    "의안명": "재해영향평가법안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-12",
+                    "의안명": "119구조·구급에 관한 법률 일부개정법률안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-07",
+                    "의안명": "경찰공무원 보건안전 및 복지 기본법 일부개정법률안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-08-29",
+                    "의안명": "경찰관 직무집행법 일부개정법률안(이만희의원 등 10인) ",
+                    "발의자": "이만희",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                }
+            ],
+            "공약이행률": {
+                "총공약수": 87,
+                "공약이행수": 70
+            },
+            "공약이행률등수": 26,
+            "공약이행수등수": 9
+        },
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-2-9.jpg"
+        ]
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-7.jpg",
+        "id": "2470901-7",
+        "재산": 1648827,
+        "생년월일": "19670109",
+        "경력": "(전)대구경북첨단벤처기업연합회 회장\n(전)한국여성경제인협회 대구경북지회 이사",
+        "학력": "계명대학교 대학원 박사과정 졸업(패션비즈니스학박사)",
+        "직업": "(주)시마 대표이사",
+        "성별": "여",
+        "regionId": "2470901",
+        "기호": 7,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 09:48:00 +0900",
+                "title": "[위클리오늘] 경북 영천 이영수_이만희_김지미 후보, 대국민 '교통안전 서약서...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=618266"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 17:06:00 +0900",
+                "title": "영천·청도의 큰딸, 제22대 국회의원 후보 김지미 기호 7번",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=544304"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:29:00 +0900",
+                "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:07:00 +0900",
+                "title": "5년내 세금 체납 후보 82명…체납액 1위 민주 주철현 1억1662만원(종합)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012445538?sid=100"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 21:04:00 +0900",
+                "title": "[위클리오늘] 22대 총선 영천·청도 본 후보 총 5명 등록….민주당(1)-국힘(1...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=615536"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:54:00 +0900",
+                "title": "경북, 4·10 총선 후보자 등록 최종 현황",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004382"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:34:00 +0900",
+                "title": "[4·10 총선 후보자 등록]경북(22일 최종)",
+                "link": "https://www.yeongnam.com/web/view.php?key=20240322010003125"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:31:00 +0900",
+                "title": "대구경북 총선후보 중 20억이상 재산 16명…與 최은석 110억(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583388?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 20:12:00 +0900",
+                "title": "대구·경북 22대 국회의원 선거 후보 22일 등록 명단",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989341"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:57:00 +0900",
+                "title": "[4·10총선 후보자 등록]경북",
+                "link": "https://n.news.naver.com/mnews/article/421/0007430876?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:41:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 최종)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583342?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 19:29:00 +0900",
+                "title": "[4·10 총선 후보자 등록] 경북(22일 오후 7시 현재)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014583330?sid=165"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 16:36:00 +0900",
+                "title": "[선택 4·10] 제22대 총선 영천시·청도군, 민주 이영수 · 국힘 이만희 · 무...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1065507"
+            },
+            {
+                "date": "Fri, 22 Mar 2024 11:24:00 +0900",
+                "title": "대구‧경북 4·10 총선 후보자 등록 명단(22일 최종)",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=435668"
+            },
+            {
+                "date": "Thu, 06 Feb 2020 09:12:00 +0900",
+                "title": "[이 법 어떻게 생각하십니까] ‘현직 법관 2년간 정당추천 선거출마 제한’ 법...",
+                "link": "https://www.lawtimes.co.kr/Legal-News/Legal-News-View?serial=159284"
+            },
+            {
+                "date": "Wed, 02 Jan 2019 21:34:00 +0900",
+                "title": "[2019년 대구경북 신년교례회-신청·참석자 명단] 자리를 빛내주신 분들께 감...",
+                "link": "https://n.news.naver.com/mnews/article/088/0000570500?sid=004"
+            },
+            {
+                "date": "Sun, 17 Jun 2018 11:45:00 +0900",
+                "title": "“만우절날 돌아가신 어머니…서러운 소년기의 시작이었다”",
+                "link": "https://n.news.naver.com/mnews/article/028/0002414016?sid=102"
+            },
+            {
+                "date": "Wed, 26 Apr 2017 18:15:00 +0900",
+                "title": "한국섬유패션산업의 미래방향~' 정책토론회 개최",
+                "link": "http://okfashion.co.kr/detail.php?number=46903&thread=81r02r02"
+            },
+            {
+                "date": "Sun, 20 Mar 2016 21:55:00 +0900",
+                "title": "유권자가묻고 후보자가 답한다 (6) 김해 갑",
+                "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1175116"
+            },
+            {
+                "date": "Tue, 18 Dec 2012 16:36:00 +0900",
+                "title": "대선 때만 되면 등장하는 연예인은 누구?",
+                "link": "http://www.ilyosisa.co.kr/news/article.html?no=28034"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "김지미",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1648827
+            }
+        ],
+        "huboid": "100153177",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-7-7.jpg"
+        ]
+    },
+    {
+        "전과건수": 2,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-8.jpg",
+        "id": "2470901-8",
+        "재산": 1754166,
+        "생년월일": "19621202",
+        "경력": "(전)부산과학기술대학교 겸임교수\n(전)국민의힘 중앙위원회 자문위원",
+        "학력": "동의대학교 대학원 졸업(철학박사)",
+        "직업": "무",
+        "성별": "남",
+        "regionId": "2470901",
+        "기호": 8,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 25 Mar 2024 16:29:00 +0900",
+                "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
+            },
+            {
+                "date": "Mon, 19 Feb 2024 01:12:00 +0900",
+                "title": "김경원·김장주·이승록 영천·청도 예비후보 \"이만희 단수공천은 민심 무시\"",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4001375"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 15:14:00 +0900",
+                "title": "국힘 공천 방식 두고 영천·청도 선거구서 TK 첫 이의신청…\" 파렴치한 현역 ...",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=450197"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 15:06:00 +0900",
+                "title": "국민의힘 이만희 단수공천 후유증···김경원·김장주·이승록 예비후보 이의...",
+                "link": "https://n.news.naver.com/mnews/article/002/0002319857?sid=102"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 13:49:00 +0900",
+                "title": "4·10 총선 경북 영천·청도 지역구 단수 공천 ‘반발 기류’ 확산",
+                "link": "https://n.news.naver.com/mnews/article/088/0000862759?sid=165"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 13:34:00 +0900",
+                "title": "국힘 TK 단수공천지역 '파열음'...영천·청도 경선 탈락 예비후보 '반발'",
+                "link": "https://www.newspim.com/news/view/20240218000064"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 12:52:00 +0900",
+                "title": "국힘 영천·청도 예비후보자들 “이만희 단수 공천 철회해야”",
+                "link": "http://www.kukinews.com/newsView/kuk202402180028"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 12:48:00 +0900",
+                "title": "국민의힘 TK 공천 '후폭풍'...영천시·청도군 단수공천에 반발",
+                "link": "https://n.news.naver.com/mnews/article/629/0000267845?sid=102"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 12:30:00 +0900",
+                "title": "'영천·청도 이만희 단수공천' 반발…\"지역민심 무시 처사\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012378626?sid=165"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 11:43:00 +0900",
+                "title": "이만희 의원 단수 공천, 매끄럽던 국민의힘 공천 지뢰되나?",
+                "link": "https://n.news.naver.com/mnews/article/031/0000813436?sid=102"
+            },
+            {
+                "date": "Sun, 18 Feb 2024 10:45:00 +0900",
+                "title": "與 이만희 단수 공천에 반발…영천·청도 후보 \"지역민심 무시\"",
+                "link": "https://n.news.naver.com/mnews/article/018/0005675482?sid=165"
+            },
+            {
+                "date": "Fri, 16 Feb 2024 18:12:00 +0900",
+                "title": "[22대 총선기획-영·호남편] 국민의힘·민주당 텃밭 음주운전 전과 전수조사",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=484428"
+            },
+            {
+                "date": "Thu, 08 Feb 2024 01:19:00 +0900",
+                "title": "경북 영천 원로들, 이만희 의원 공천배제 요구 건의문 국민의힘 공관위에 전달",
+                "link": "https://n.news.naver.com/mnews/article/047/0002421678?sid=100"
+            },
+            {
+                "date": "Mon, 05 Feb 2024 09:56:00 +0900",
+                "title": "[위클리오늘] 국민의힘 경북 공천신청자 68명, 5.15대 1...대구 44명, 3.67대...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=608660"
+            },
+            {
+                "date": "Thu, 01 Feb 2024 21:46:00 +0900",
+                "title": "[총선격전지] 영천·청도, 공약 차별없이 '내가 적임자' 말잔치 무성",
+                "link": "https://www.dkilbo.com/news/articleView.html?idxno=429495"
+            },
+            {
+                "date": "Tue, 30 Jan 2024 08:30:00 +0900",
+                "title": "\"공약 차별없이 적임자론만 무성\"…치열한 공천 경쟁 영천·청도",
+                "link": "https://n.news.naver.com/mnews/article/001/0014475335?sid=100"
+            },
+            {
+                "date": "Tue, 30 Jan 2024 00:12:00 +0900",
+                "title": "영천·청도, 정치변화 갈망 속 분위기 어수선…국민의힘 공천에 시선 집중",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=2153894"
+            },
+            {
+                "date": "Tue, 09 Jan 2024 12:41:00 +0900",
+                "title": "김현준, 전정일, 원경희.. 총선 출격 앞둔 '세무인'들 분주",
+                "link": "https://n.news.naver.com/mnews/article/123/0002324885?sid=101"
+            },
+            {
+                "date": "Sat, 30 Dec 2023 09:23:00 +0900",
+                "title": "[22대 총선 프로젝트][대구 경북](2)4.10총선 뛰는 사람들...대구 경북 현역 ...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=629451"
+            },
+            {
+                "date": "Fri, 29 Dec 2023 14:30:00 +0900",
+                "title": "[위클리오늘] (22대 총선 출마) 김경원 전 대구지방국세청장...경북 영천시·...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=603855"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "이승록",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1754166
+            }
+        ],
+        "huboid": "100151610",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-8.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-8.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-8-7.jpg"
+        ]
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2470901-9.jpg",
+        "id": "2470901-9",
+        "재산": 419080,
+        "생년월일": "19641010",
+        "경력": "(전)경상북도 행정부지사\n(전)영천부시장",
+        "학력": "성균관대학교 행정학과 졸업",
+        "직업": "무",
+        "성별": "남",
+        "regionId": "2470901",
+        "기호": 9,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 19:34:00 +0900",
+                "title": "김장주 후보측, 선관위에 '이만희 고소장'",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456346"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 16:14:00 +0900",
+                "title": "김장주 후보, 영천 장날 거리 유세 나서",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=456043"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 17:02:00 +0900",
+                "title": "김장주 후보, 영천청도 지방정치행정혁신 상생협력체제 마련 약속",
+                "link": "https://www.cnbnews.com/news/article.html?no=651879"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 13:34:00 +0900",
+                "title": "김장주 후보, 청도군민 앞에서 3보1배",
+                "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1851183"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:54:00 +0900",
+                "title": "김장주 무소속 후보, 본격 선거전 돌입",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=455208"
+            },
+            {
+                "date": "Tue, 26 Mar 2024 11:04:00 +0900",
+                "title": "[위클리오늘] 4.10 총선 영천·청도 무소속 김장주 후보, 정치자금 펀드 모금...",
+                "link": "http://www.weeklytoday.com/news/articleView.html?idxno=615844"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 21:34:00 +0900",
+                "title": "김장주 '시군민의힘 펀드' 목표 금액 달성",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454743"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 19:36:00 +0900",
+                "title": "무소속 김장주 후보, 시군민의힘 펀드 일주일만에 목표금액 달성",
+                "link": "http://www.kbmaeil.com/news/articleView.html?idxno=989618"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 17:24:00 +0900",
+                "title": "[선택 4·10] 김장주 영천·청도 무소속 후보 \"돈 없어도 정치에 입문할 수 있...",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1066280"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 16:29:00 +0900",
+                "title": "김장주 영천청도 후보, 김지미·이승록 후보에 '무소속 단일화' 제안",
+                "link": "https://n.news.naver.com/mnews/article/088/0000869156?sid=165"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 22:14:00 +0900",
+                "title": "김장주 영천·청도 시군민 추천후보, 무소속 지역구 후보자 등록",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454605"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 21:00:00 +0900",
+                "title": "김장주 “투명한 정치자금 통한 깨끗한 정치 실현”",
+                "link": "http://www.ksmnews.co.kr/news/view.php?idx=474048"
+            },
+            {
+                "date": "Sun, 24 Mar 2024 16:20:00 +0900",
+                "title": "김장주 후보 '시군민의 힘으로 확 바꾸시더!' 슬로건, 표심잡기 활동 돌입",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868930?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:54:00 +0900",
+                "title": "김장주, '시·군민의힘 펀드' 출시… 선거비용 빌려주는 방식",
+                "link": "http://www.hidomin.com/news/articleView.html?idxno=543152"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 18:16:00 +0900",
+                "title": "김장주 영천·청도 예비후보, '시·군민의힘 펀드' 출시",
+                "link": "http://www.kyongbuk.co.kr/news/articleView.html?idxno=4004199"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 17:47:00 +0900",
+                "title": "TK 낙천 현역 승복 잇달아…무소속 바람 멎은 이유는",
+                "link": "https://n.news.naver.com/mnews/article/088/0000868378?sid=165"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 16:20:00 +0900",
+                "title": "[22대 총선 대진표] ⑧대구·경북…링 위에 오른 친박계 부활하나",
+                "link": "https://ilyo.co.kr/?ac=article_view&entry_id=468932"
+            },
+            {
+                "date": "Wed, 20 Mar 2024 14:44:00 +0900",
+                "title": "김장주 무소속 영천·청도 국회의원 예비후보,'시군민의힘 펀드' 출시",
+                "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454148"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:38:00 +0900",
+                "title": "김장주 예비후보 ‘시군민의힘 펀드’ 출시",
+                "link": "https://www.cnbnews.com/news/article.html?no=649511"
+            },
+            {
+                "date": "Tue, 19 Mar 2024 18:06:00 +0900",
+                "title": "[4.10총선 이슈] TK서 부는 무소속바람, 얼마나 셀까",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=639633"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "김장주",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 419080
+            }
+        ],
+        "huboid": "100151414",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2470901-9.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2470901-9.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2470901-9-9.jpg"
+        ]
+    }
 ]

@@ -1,976 +1,976 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-1.jpg",
-    "id": "2415001-1",
-    "재산": 3002469,
-    "생년월일": "19721207",
-    "경력": "(전)청와대 민정수석실 비서관\n(전)대검찰청 검찰연구관",
-    "학력": "서울대학교 법과대학 공법학과 졸업",
-    "직업": "변호사(법무법인(유) 한빛 대표변호사)",
-    "성별": "남",
-    "regionId": "2415001",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 14:38:00 +0900",
-        "title": "김기표 민주당 부천시을 후보 “국힘 박성중 허위사실 유포” 고발 입장 밝혀",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=227322"
-      },
-      {
-        "date": "Sat, 06 Apr 2024 14:22:00 +0900",
-        "title": "‘부천을’ 총선 과열 양상…김기표, 박성중 ‘허위사실 유포’로 고발",
-        "link": "http://www.kukinews.com/newsView/kuk202404060022"
-      },
-      {
-        "date": "Sat, 06 Apr 2024 10:02:00 +0900",
-        "title": "설훈 의원, 김기표 후보에 대한 부동산 투기 및 법 위반 혐의로 고발",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581159"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 22:36:00 +0900",
-        "title": "설훈, 부천시을 김기표 후보 부동산 투기 의혹 고발",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=100034"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 21:48:00 +0900",
-        "title": "[일요서울TV] 논란의 민주당 김기표... 새로운 '공익제보'",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486419"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 21:18:00 +0900",
-        "title": "설훈 “부천시을 '김기표 후보, 투기 의혹' 고발”",
-        "link": "http://www.mhj21.com/160356"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 19:08:00 +0900",
-        "title": "'경기 부천을' 김기표, \"박성중 후보 허위사실 유포로 고발\"",
-        "link": "http://www.metroseoul.co.kr/article/20240405500299"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:16:00 +0900",
-        "title": "김기표 VS 박성중 치열한 공방전…설훈도 참전, 金 경찰에 고발",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220541"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:10:00 +0900",
-        "title": "박성중, 대장동 변호사 출신 김기표 '탈세, 협박 혐의' 고발할 것",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581041"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:40:00 +0900",
-        "title": "설훈 후보, \"부천시을 '김기표 후보, 투기 의혹' 당 차원 고발\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317832"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:30:00 +0900",
-        "title": "박성중 \"민주당 김기표 후보...5천만원 현금 요구.수령\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317831"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:20:00 +0900",
-        "title": "새미래, 민주 김기표 '짬짜미 부동산 투기거래 의혹' 고발...\"공천 취소 촉구...",
-        "link": "https://n.news.naver.com/mnews/article/014/0005167504?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:08:00 +0900",
-        "title": "與 박성중 \"김기표 후보 부동산 투기 의혹 재수사 해야\"",
-        "link": "https://www.ajunews.com/view/20240404172009343"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:01:00 +0900",
-        "title": "‘3자 대결’ 경기 부천을, 민주 김기표 여유 있게 앞서",
-        "link": "https://n.news.naver.com/mnews/article/629/0000278817?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:20:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 승자는 누구?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817122?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:19:00 +0900",
-        "title": "김기표 민주당 부천을 후보 '등교길 학생과 하이프이브'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817121?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:18:00 +0900",
-        "title": "지지 호소하는 김기표 더불어민주당 경기 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817119?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:18:00 +0900",
-        "title": "시민과 함께 기념촬영하는 김기표 민주당 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817120?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:18:00 +0900",
-        "title": "인사하며 지지 호소하는 김기표 민주당 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817118?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:14:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 표심은 어디로?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817108?sid=165"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "김기표",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 3002469
-      }
-    ],
-    "huboid": "100151278",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-2.jpg",
-    "id": "2415001-2",
-    "재산": 9503577,
-    "생년월일": "19580801",
-    "경력": "(현)제20대, 제21대 재선 국회의원\n(전)제20대 대통령직인수위원회 과학기술교육분과 간사",
-    "학력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "897",
-    "regionId": "2415001",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 14:38:00 +0900",
-        "title": "김기표 민주당 부천시을 후보 “국힘 박성중 허위사실 유포” 고발 입장 밝혀",
-        "link": "https://www.skyedaily.com/news/news_view.html?ID=227322"
-      },
-      {
-        "date": "Sat, 06 Apr 2024 14:22:00 +0900",
-        "title": "‘부천을’ 총선 과열 양상…김기표, 박성중 ‘허위사실 유포’로 고발",
-        "link": "http://www.kukinews.com/newsView/kuk202404060022"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 19:08:00 +0900",
-        "title": "'경기 부천을' 김기표, \"박성중 후보 허위사실 유포로 고발\"",
-        "link": "http://www.metroseoul.co.kr/article/20240405500299"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:16:00 +0900",
-        "title": "김기표 VS 박성중 치열한 공방전…설훈도 참전, 金 경찰에 고발",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220541"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:10:00 +0900",
-        "title": "박성중, 대장동 변호사 출신 김기표 '탈세, 협박 혐의' 고발할 것",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581041"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:30:00 +0900",
-        "title": "박성중 \"민주당 김기표 후보...5천만원 현금 요구.수령\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317831"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:30:00 +0900",
-        "title": "박성중 국민의힘 부천을 후보, 오세훈 서울시장과 '부천-서울 통합' 논의",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220500"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:28:00 +0900",
-        "title": "부천 갑·을 김복덕·박성중 후보, '부천-서울 통합 정책제안' 건의서 전달",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082135"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:08:00 +0900",
-        "title": "與 박성중 \"김기표 후보 부동산 투기 의혹 재수사 해야\"",
-        "link": "https://www.ajunews.com/view/20240404172009343"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:32:00 +0900",
-        "title": "박성중, 원희룡, 계양을 합동 유세...시민과 소통하는 모습 보여",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580951"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:20:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 승자는 누구?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817122?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:16:00 +0900",
-        "title": "지지 호소하는 박성중 국민의힘 경기 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817112?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:15:00 +0900",
-        "title": "시민들과 대화하는 박성중 국민의힘 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817111?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:15:00 +0900",
-        "title": "시민들에게 인사하는 박성중 국민의힘 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817110?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:14:00 +0900",
-        "title": "시민들에게 지지 호소하는 박성중 국민의힘 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817109?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:14:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 표심은 어디로?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817108?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 08:04:00 +0900",
-        "title": "경기 부천을, 민주 김기표 47.6% vs 국힘 박성중 24.4% [여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331254?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:14:00 +0900",
-        "title": "부천을 박성중, 김기표 후보 부동산 투기 의혹 제기",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=99913"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 17:06:00 +0900",
-        "title": "김기표, 다운계약서 및 짬짜미 투기 거래 의혹…박성중‧설훈 한 목소리",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220283"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 12:38:00 +0900",
-        "title": "[총선 여론조사-경기 부천을] '민주 김기표 47.6% vs 국힘 박성중 24.4%'",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=247058"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박성중",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 6400227
-      },
-      {
-        "연도": 2021,
-        "재산": 7931195
-      },
-      {
-        "연도": 2022,
-        "재산": 8444303
-      },
-      {
-        "연도": 2023,
-        "재산": 9503577
-      }
-    ],
-    "huboid": "100152966",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-2.pdf",
-    "21th": {
-      "연락처": "의원회관 936호 | 전화 02-784-4364 | 팩스 02-6788-6485",
-      "당선횟수": 2,
-      "본회의_출석률": 85.63,
-      "소속위원회": "과학기술정보방송통신위원회",
-      "id": "897",
-      "주요경력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
-      "본회의_출석률_등수": 253,
-      "재산등수": 9,
-      "상임위원회_출석률": [
-        {
-          "위원회": "과학기술정보방송통신위원회",
-          "출석률": 92,
-          "등수": 9,
-          "총원": 19
-        }
-      ],
-      "이름": "박성중",
-      "정당": "국민의힘",
-      "위원회별_발의법안": [
-        {
-          "발의수": 42,
-          "위원회": "과학기술정보방송통신위원회"
-        },
-        {
-          "발의수": 7,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 6,
-          "위원회": "기획재정위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "국토교통위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "정무위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "산업통상자원중소벤처기업위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "보건복지위원회"
-        }
-      ],
-      "대표발의법안_등수": 183,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 6400227
-        },
-        {
-          "연도": 2021,
-          "재산": 7931195
-        },
-        {
-          "연도": 2022,
-          "재산": 8444303
-        }
-      ],
-      "대표발의법안": 63,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "기권"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "불참"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "KBS",
-          "count": "505"
-        },
-        {
-          "단어": "MBC",
-          "count": "319"
-        },
-        {
-          "단어": "민주당",
-          "count": "236"
-        },
-        {
-          "단어": "사장",
-          "count": "221"
-        },
-        {
-          "단어": "의사진행",
-          "count": "182"
-        },
-        {
-          "단어": "노조",
-          "count": "175"
-        },
-        {
-          "단어": "네이버",
-          "count": "151"
-        },
-        {
-          "단어": "언론",
-          "count": "147"
-        },
-        {
-          "단어": "국가",
-          "count": "119"
-        },
-        {
-          "단어": "구글",
-          "count": "119"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2024-02-28",
-          "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-30",
-          "의안명": "디지털서비스의 안정성 관리 및 지원에 관한 법률안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-16",
-          "의안명": "연구개발특구의 육성에 관한 특별법 일부개정법률안(박성중의원 등 11인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-16",
-          "의안명": "전파법 일부개정법률안(박성중의원 등 11인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-16",
-          "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 11인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-14",
-          "의안명": "과학기술문화진흥법안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-13",
-          "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-12",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박성중의원 등 11인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-11-15",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-11-10",
-          "의안명": "연구개발성과의 확산에 관한 법률안(박성중의원 등 10인) ",
-          "발의자": "박성중",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        }
-      ],
-      "공약이행률": null,
-      "공약이행률등수": null,
-      "공약이행수등수": null
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-1.jpg",
+        "id": "2415001-1",
+        "재산": 3002469,
+        "생년월일": "19721207",
+        "경력": "(전)청와대 민정수석실 비서관\n(전)대검찰청 검찰연구관",
+        "학력": "서울대학교 법과대학 공법학과 졸업",
+        "직업": "변호사(법무법인(유) 한빛 대표변호사)",
+        "성별": "남",
+        "regionId": "2415001",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 09 Apr 2024 17:32:00 +0900",
+                "title": "이종배 서울시의원, 野 김기표 부천을 후보 부동산 투기 의혹 고발",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220916"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 10:50:00 +0900",
+                "title": "김기표 \"허위사실 공표한 박성중 후보 2차례 고발\"",
+                "link": "https://n.news.naver.com/mnews/article/018/0005710621?sid=102"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 14:38:00 +0900",
+                "title": "김기표 민주당 부천시을 후보 “국힘 박성중 허위사실 유포” 고발 입장 밝혀",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=227322"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 14:22:00 +0900",
+                "title": "‘부천을’ 총선 과열 양상…김기표, 박성중 ‘허위사실 유포’로 고발",
+                "link": "http://www.kukinews.com/newsView/kuk202404060022"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 10:02:00 +0900",
+                "title": "설훈 의원, 김기표 후보에 대한 부동산 투기 및 법 위반 혐의로 고발",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581159"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 22:36:00 +0900",
+                "title": "설훈, 부천시을 김기표 후보 부동산 투기 의혹 고발",
+                "link": "http://www.iminju.net/news/articleView.html?idxno=100034"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 21:48:00 +0900",
+                "title": "[일요서울TV] 논란의 민주당 김기표... 새로운 '공익제보'",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486419"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 21:18:00 +0900",
+                "title": "설훈 “부천시을 '김기표 후보, 투기 의혹' 고발”",
+                "link": "http://www.mhj21.com/160356"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 19:08:00 +0900",
+                "title": "'경기 부천을' 김기표, \"박성중 후보 허위사실 유포로 고발\"",
+                "link": "http://www.metroseoul.co.kr/article/20240405500299"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:16:00 +0900",
+                "title": "김기표 VS 박성중 치열한 공방전…설훈도 참전, 金 경찰에 고발",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220541"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:10:00 +0900",
+                "title": "박성중, 대장동 변호사 출신 김기표 '탈세, 협박 혐의' 고발할 것",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581041"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:40:00 +0900",
+                "title": "설훈 후보, \"부천시을 '김기표 후보, 투기 의혹' 당 차원 고발\"",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317832"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:30:00 +0900",
+                "title": "박성중 \"민주당 김기표 후보...5천만원 현금 요구.수령\"",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317831"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:20:00 +0900",
+                "title": "새미래, 민주 김기표 '짬짜미 부동산 투기거래 의혹' 고발...\"공천 취소 촉구...",
+                "link": "https://n.news.naver.com/mnews/article/014/0005167504?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:08:00 +0900",
+                "title": "與 박성중 \"김기표 후보 부동산 투기 의혹 재수사 해야\"",
+                "link": "https://www.ajunews.com/view/20240404172009343"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:01:00 +0900",
+                "title": "‘3자 대결’ 경기 부천을, 민주 김기표 여유 있게 앞서",
+                "link": "https://n.news.naver.com/mnews/article/629/0000278817?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:20:00 +0900",
+                "title": "'김기표-박성중-설훈, 경기 부천을 승자는 누구?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817122?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:19:00 +0900",
+                "title": "김기표 민주당 부천을 후보 '등교길 학생과 하이프이브'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817121?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:18:00 +0900",
+                "title": "지지 호소하는 김기표 더불어민주당 경기 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817119?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:18:00 +0900",
+                "title": "시민과 함께 기념촬영하는 김기표 민주당 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817120?sid=165"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "김기표",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 3002469
+            }
+        ],
+        "huboid": "100151278",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-1-9.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 3,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-6.jpg",
-    "id": "2415001-6",
-    "재산": 913075,
-    "생년월일": "19530423",
-    "경력": "(전)더불어민주당 최고위원\n(현)부천시을 국회의원",
-    "학력": "고려대학교 사학과 졸업",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "117",
-    "regionId": "2415001",
-    "기호": 6,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sat, 06 Apr 2024 11:30:00 +0900",
-        "title": "설훈 부천시을 후보, 총선 사전투표 마쳐",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3126854"
-      },
-      {
-        "date": "Sat, 06 Apr 2024 10:02:00 +0900",
-        "title": "설훈 의원, 김기표 후보에 대한 부동산 투기 및 법 위반 혐의로 고발",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581159"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 22:36:00 +0900",
-        "title": "설훈, 부천시을 김기표 후보 부동산 투기 의혹 고발",
-        "link": "http://www.iminju.net/news/articleView.html?idxno=100034"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 21:18:00 +0900",
-        "title": "설훈 “부천시을 '김기표 후보, 투기 의혹' 고발”",
-        "link": "http://www.mhj21.com/160356"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:16:00 +0900",
-        "title": "김기표 VS 박성중 치열한 공방전…설훈도 참전, 金 경찰에 고발",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220541"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:40:00 +0900",
-        "title": "설훈 후보, \"부천시을 '김기표 후보, 투기 의혹' 당 차원 고발\"",
-        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317832"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:28:00 +0900",
-        "title": "새로운미래 설훈 후보, '민주당 김기표 후보 부동산 투기 의혹' 고발장 접수",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082133"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:20:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 승자는 누구?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817122?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:17:00 +0900",
-        "title": "시민들에게 지지 호소하는 설훈 새로운미래 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817116?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:17:00 +0900",
-        "title": "지지 호소하는 설훈 새로운미래 경기 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817117?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:16:00 +0900",
-        "title": "시민들 향해 인사하는 설훈 새로운미래 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817113?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:16:00 +0900",
-        "title": "시민들 향해 지지 호소하는 설훈 새로운미래 부천을 후보",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817115?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 12:14:00 +0900",
-        "title": "'김기표-박성중-설훈, 경기 부천을 표심은 어디로?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817108?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 17:06:00 +0900",
-        "title": "김기표, 다운계약서 및 짬짜미 투기 거래 의혹…박성중‧설훈 한 목소리",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220283"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 13:12:00 +0900",
-        "title": "[총선동서남북] 설훈 새로운미래 부천시을 후보, 김기표 민주당 후보 부동산투...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645244"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 23:58:00 +0900",
-        "title": "[경기 부천을] 민주당 김기표 48.5%, 국민의힘 박성중 34.5%, 새미래 설훈 7....",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428652?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:25:00 +0900",
-        "title": "[총선돋보기-부천을] 설훈 \"김기표, 투기의혹 진실 밝혀라\"",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2109902"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:34:00 +0900",
-        "title": "'대장 변호사' 김기표, 광주 송정동 불법투기 의혹에...설훈 \"합당한 해명없을...",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220188"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 18:28:00 +0900",
-        "title": "새로운미래 설훈 \"민주당 김기표 후보, 부동산투기 의혹 진실을 밝혀라\"",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315540"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:14:00 +0900",
-        "title": "설훈, 더불어민주당 김기표 부천시을 국회의원 후보 투기의혹 기자회견",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2959389"
-      }
-    ],
-    "정당": "새로운미래",
-    "이름": "설훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 762251
-      },
-      {
-        "연도": 2021,
-        "재산": 831899
-      },
-      {
-        "연도": 2022,
-        "재산": 827528
-      },
-      {
-        "연도": 2023,
-        "재산": 913075
-      }
-    ],
-    "huboid": "100152915",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-6.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-6.pdf",
-    "21th": {
-      "연락처": "의원회관 948호 | 전화 02-784-8570 | 팩스 02-6788-6620",
-      "당선횟수": 5,
-      "본회의_출석률": 94.01,
-      "소속위원회": "국방위원회",
-      "id": "117",
-      "주요경력": "마산고등학교\n고려대학교 사학과",
-      "본회의_출석률_등수": 130,
-      "재산등수": 217,
-      "상임위원회_출석률": [
-        {
-          "위원회": "국방위원회",
-          "출석률": 91.09,
-          "등수": 10,
-          "총원": 17
-        }
-      ],
-      "이름": "설훈",
-      "정당": "새로운미래",
-      "위원회별_발의법안": [
-        {
-          "발의수": 30,
-          "위원회": "국방위원회"
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-2.jpg",
+        "id": "2415001-2",
+        "재산": 9503577,
+        "생년월일": "19580801",
+        "경력": "(현)제20대, 제21대 재선 국회의원\n(전)제20대 대통령직인수위원회 과학기술교육분과 간사",
+        "학력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "897",
+        "regionId": "2415001",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 09 Apr 2024 10:50:00 +0900",
+                "title": "김기표 \"허위사실 공표한 박성중 후보 2차례 고발\"",
+                "link": "https://n.news.naver.com/mnews/article/018/0005710621?sid=102"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 18:40:00 +0900",
+                "title": "부천을 박성중·부천병 이건태 후보, 중앙공원·남부역 세몰이 유세",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082538"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 10:54:00 +0900",
+                "title": "국민의힘 박성중 후보, 부천중앙공원 찾아 집중 '유세'",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220650"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 14:38:00 +0900",
+                "title": "김기표 민주당 부천시을 후보 “국힘 박성중 허위사실 유포” 고발 입장 밝혀",
+                "link": "https://www.skyedaily.com/news/news_view.html?ID=227322"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 14:22:00 +0900",
+                "title": "‘부천을’ 총선 과열 양상…김기표, 박성중 ‘허위사실 유포’로 고발",
+                "link": "http://www.kukinews.com/newsView/kuk202404060022"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 19:08:00 +0900",
+                "title": "'경기 부천을' 김기표, \"박성중 후보 허위사실 유포로 고발\"",
+                "link": "http://www.metroseoul.co.kr/article/20240405500299"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:16:00 +0900",
+                "title": "김기표 VS 박성중 치열한 공방전…설훈도 참전, 金 경찰에 고발",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220541"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:10:00 +0900",
+                "title": "박성중, 대장동 변호사 출신 김기표 '탈세, 협박 혐의' 고발할 것",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581041"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:30:00 +0900",
+                "title": "박성중 \"민주당 김기표 후보...5천만원 현금 요구.수령\"",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317831"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 11:30:00 +0900",
+                "title": "박성중 국민의힘 부천을 후보, 오세훈 서울시장과 '부천-서울 통합' 논의",
+                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220500"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:28:00 +0900",
+                "title": "부천 갑·을 김복덕·박성중 후보, '부천-서울 통합 정책제안' 건의서 전달",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082135"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:08:00 +0900",
+                "title": "與 박성중 \"김기표 후보 부동산 투기 의혹 재수사 해야\"",
+                "link": "https://www.ajunews.com/view/20240404172009343"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:32:00 +0900",
+                "title": "박성중, 원희룡, 계양을 합동 유세...시민과 소통하는 모습 보여",
+                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580951"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:20:00 +0900",
+                "title": "'김기표-박성중-설훈, 경기 부천을 승자는 누구?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817122?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:16:00 +0900",
+                "title": "지지 호소하는 박성중 국민의힘 경기 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817112?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:15:00 +0900",
+                "title": "시민들과 대화하는 박성중 국민의힘 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817111?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:15:00 +0900",
+                "title": "시민들에게 인사하는 박성중 국민의힘 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817110?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:14:00 +0900",
+                "title": "시민들에게 지지 호소하는 박성중 국민의힘 부천을 후보",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817109?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 12:14:00 +0900",
+                "title": "'김기표-박성중-설훈, 경기 부천을 표심은 어디로?'",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817108?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 08:04:00 +0900",
+                "title": "경기 부천을, 민주 김기표 47.6% vs 국힘 박성중 24.4% [여론조사꽃]",
+                "link": "https://n.news.naver.com/mnews/article/123/0002331254?sid=100"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박성중",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 6400227
+            },
+            {
+                "연도": 2021,
+                "재산": 7931195
+            },
+            {
+                "연도": 2022,
+                "재산": 8444303
+            },
+            {
+                "연도": 2023,
+                "재산": 9503577
+            }
+        ],
+        "huboid": "100152966",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-2.pdf",
+        "21th": {
+            "연락처": "의원회관 936호 | 전화 02-784-4364 | 팩스 02-6788-6485",
+            "당선횟수": 2,
+            "본회의_출석률": 85.63,
+            "소속위원회": "과학기술정보방송통신위원회",
+            "id": "897",
+            "주요경력": "성균관대학교 대학원 졸업(도시행정전공, 행정학박사)",
+            "본회의_출석률_등수": 253,
+            "재산등수": 9,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "과학기술정보방송통신위원회",
+                    "출석률": 92,
+                    "등수": 9,
+                    "총원": 19
+                }
+            ],
+            "이름": "박성중",
+            "정당": "국민의힘",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 42,
+                    "위원회": "과학기술정보방송통신위원회"
+                },
+                {
+                    "발의수": 7,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 6,
+                    "위원회": "기획재정위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "국토교통위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "정무위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "산업통상자원중소벤처기업위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "보건복지위원회"
+                }
+            ],
+            "대표발의법안_등수": 183,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 6400227
+                },
+                {
+                    "연도": 2021,
+                    "재산": 7931195
+                },
+                {
+                    "연도": 2022,
+                    "재산": 8444303
+                }
+            ],
+            "대표발의법안": 63,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "기권"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "불참"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "KBS",
+                    "count": "505"
+                },
+                {
+                    "단어": "MBC",
+                    "count": "319"
+                },
+                {
+                    "단어": "민주당",
+                    "count": "236"
+                },
+                {
+                    "단어": "사장",
+                    "count": "221"
+                },
+                {
+                    "단어": "의사진행",
+                    "count": "182"
+                },
+                {
+                    "단어": "노조",
+                    "count": "175"
+                },
+                {
+                    "단어": "네이버",
+                    "count": "151"
+                },
+                {
+                    "단어": "언론",
+                    "count": "147"
+                },
+                {
+                    "단어": "국가",
+                    "count": "119"
+                },
+                {
+                    "단어": "구글",
+                    "count": "119"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2024-02-28",
+                    "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-30",
+                    "의안명": "디지털서비스의 안정성 관리 및 지원에 관한 법률안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-16",
+                    "의안명": "연구개발특구의 육성에 관한 특별법 일부개정법률안(박성중의원 등 11인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-16",
+                    "의안명": "전파법 일부개정법률안(박성중의원 등 11인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-16",
+                    "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 11인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-14",
+                    "의안명": "과학기술문화진흥법안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-13",
+                    "의안명": "전기통신사업법 일부개정법률안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-12",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박성중의원 등 11인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-11-15",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-11-10",
+                    "의안명": "연구개발성과의 확산에 관한 법률안(박성중의원 등 10인) ",
+                    "발의자": "박성중",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                }
+            ],
+            "공약이행률": null,
+            "공약이행률등수": null,
+            "공약이행수등수": null
         },
-        {
-          "발의수": 9,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 5,
-          "위원회": "보건복지위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "외교통일위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "정무위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "국토교통위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "농림축산식품해양수산위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "법제사법위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "환경노동위원회"
-        }
-      ],
-      "대표발의법안_등수": 203,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 762251
-        },
-        {
-          "연도": 2021,
-          "재산": 831899
-        },
-        {
-          "연도": 2022,
-          "재산": 827528
-        }
-      ],
-      "대표발의법안": 57,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "불참"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "북한",
-          "count": "226"
-        },
-        {
-          "단어": "대한민국",
-          "count": "197"
-        },
-        {
-          "단어": "군인",
-          "count": "187"
-        },
-        {
-          "단어": "미국",
-          "count": "169"
-        },
-        {
-          "단어": "국방부",
-          "count": "164"
-        },
-        {
-          "단어": "국가",
-          "count": "124"
-        },
-        {
-          "단어": "전쟁",
-          "count": "110"
-        },
-        {
-          "단어": "일본",
-          "count": "109"
-        },
-        {
-          "단어": "국방부장관",
-          "count": "96"
-        },
-        {
-          "단어": "조사",
-          "count": "91"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2024-01-18",
-          "의안명": "병역법 일부개정법률안(설훈의원 등 11인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-17",
-          "의안명": "병역법 일부개정법률안(설훈의원 등 11인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2024-01-17",
-          "의안명": "예비군법 일부개정법률안(설훈의원 등 10인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "군무원인사법 일부개정법률안(설훈의원 등 15인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "군인사법 일부개정법률안(설훈의원 등 15인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "아동복지법 일부개정법률안(설훈의원 등 11인) ",
-          "발의자": "설훈",
-          "상임위원회": "보건복지위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "여권법 일부개정법률안(설훈의원 등 12인) ",
-          "발의자": "설훈",
-          "상임위원회": "외교통일위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "공탁법 일부개정법률안(설훈의원 등 15인) ",
-          "발의자": "설훈",
-          "상임위원회": "법제사법위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "군인복지기본법 일부개정법률안(설훈의원 등 11인) ",
-          "발의자": "설훈",
-          "상임위원회": "국방위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-27",
-          "의안명": "주차장법 일부개정법률안(설훈의원 등 16인) ",
-          "발의자": "설훈",
-          "상임위원회": "국토교통위원회",
-          "진행상황": ""
-        }
-      ],
-      "공약이행률": {
-        "총공약수": 18,
-        "공약이행수": 14
-      },
-      "공약이행률등수": 30,
-      "공약이행수등수": 128
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-2-9.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-9.jpg"
-    ]
-  }
+    {
+        "전과건수": 3,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2415001-6.jpg",
+        "id": "2415001-6",
+        "재산": 913075,
+        "생년월일": "19530423",
+        "경력": "(전)더불어민주당 최고위원\n(현)부천시을 국회의원",
+        "학력": "고려대학교 사학과 졸업",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "117",
+        "regionId": "2415001",
+        "기호": 6,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 17:26:00 +0900",
+                "title": "[OBS 뉴스오늘2] 설훈 \"'야권 대통합' 구심점 역할할 것\"",
+                "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1437498"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 16:30:00 +0900",
+                "title": "설훈 \"통합과 대화 정치 복원\" 강조",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964189"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:43:00 +0900",
+                "title": "녹색정의당, 새로운미래 ‘3% 고지’ 생존 투쟁…무릎 호소까지 등장",
+                "link": "https://n.news.naver.com/mnews/article/025/0003352697?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:38:00 +0900",
+                "title": "특권교육 반대 등 질문에 경기 후보 24명만 답변... \"걱정스러워\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429583?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:15:00 +0900",
+                "title": "국회서 호소하는 설훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467349?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:15:00 +0900",
+                "title": "국회 소통관에서 호소하는 설훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467353?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:15:00 +0900",
+                "title": "총선 관련 기자회견하는 설훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467352?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:15:00 +0900",
+                "title": "국회 소통관에서 호소하는 설훈 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467354?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 11:29:00 +0900",
+                "title": "내일 총선 유세 '피날레'…한동훈 청계광장·이재명 용산·조국 광화문",
+                "link": "https://n.news.naver.com/mnews/article/008/0005022804?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 09:36:00 +0900",
+                "title": "설훈 부천시을 후보, 집중유세 마쳐",
+                "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=317956"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 05:41:00 +0900",
+                "title": "22대 국회, '헌정사 최초 여성 국회의장' 나올까",
+                "link": "https://n.news.naver.com/mnews/article/011/0004324630?sid=100"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 17:44:00 +0900",
+                "title": "[4·10총선] 조국혁신당 10석+α, 진보당 5석, 녹색정의당·개혁신당 1-2석, ...",
+                "link": "https://n.news.naver.com/mnews/article/016/0002291703?sid=102"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:43:00 +0900",
+                "title": "[총선 D-2]제3지대도 주말 표심잡기 혈안…양당 기득권 정치 쇄신 강조",
+                "link": "https://n.news.naver.com/mnews/article/030/0003195894?sid=100"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 15:54:00 +0900",
+                "title": "22대 총선 최다선은 누가 될까…‘제1당 최다선’은 국회의장 가능성",
+                "link": "https://www.viva100.com/main/view.php?key=20240407010002301"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 14:56:00 +0900",
+                "title": "[총선 D-3]소수정당 의석…조국혁신당 10석+α, 진보당 5석, 녹색정의당·개혁...",
+                "link": "http://www.namdonews.com/news/articleView.html?idxno=765930"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 11:00:00 +0900",
+                "title": "[총선 D-3]소수정당 의석…조국당 10석+α 진보당 5석 개혁신당 1~2석",
+                "link": "https://n.news.naver.com/mnews/article/003/0012476960?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 01:52:00 +0900",
+                "title": "총선 사전투표 마지막 날...與 PK·野 수도권 '집중'",
+                "link": "https://n.news.naver.com/mnews/article/052/0002020045?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 23:03:00 +0900",
+                "title": "총선 전 마지막 주말…제3지대 정당도 '막판 스퍼트' 유세",
+                "link": "https://n.news.naver.com/mnews/article/003/0012476671?sid=165"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 22:45:00 +0900",
+                "title": "조국 \"비난 전에 특검법 수용해야\"…제3지대 유세전 '박차'",
+                "link": "https://n.news.naver.com/mnews/article/422/0000653868?sid=100"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 21:45:00 +0900",
+                "title": "총선 사전투표 마지막 날...與 PK·野 수도권 '집중'",
+                "link": "https://n.news.naver.com/mnews/article/052/0002019984?sid=100"
+            }
+        ],
+        "정당": "새로운미래",
+        "이름": "설훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 762251
+            },
+            {
+                "연도": 2021,
+                "재산": 831899
+            },
+            {
+                "연도": 2022,
+                "재산": 827528
+            },
+            {
+                "연도": 2023,
+                "재산": 913075
+            }
+        ],
+        "huboid": "100152915",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2415001-6.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2415001-6.pdf",
+        "21th": {
+            "연락처": "의원회관 948호 | 전화 02-784-8570 | 팩스 02-6788-6620",
+            "당선횟수": 5,
+            "본회의_출석률": 94.01,
+            "소속위원회": "국방위원회",
+            "id": "117",
+            "주요경력": "마산고등학교\n고려대학교 사학과",
+            "본회의_출석률_등수": 130,
+            "재산등수": 217,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "국방위원회",
+                    "출석률": 91.09,
+                    "등수": 10,
+                    "총원": 17
+                }
+            ],
+            "이름": "설훈",
+            "정당": "새로운미래",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 30,
+                    "위원회": "국방위원회"
+                },
+                {
+                    "발의수": 9,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 5,
+                    "위원회": "보건복지위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "외교통일위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "정무위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "국토교통위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "농림축산식품해양수산위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "법제사법위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "환경노동위원회"
+                }
+            ],
+            "대표발의법안_등수": 203,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 762251
+                },
+                {
+                    "연도": 2021,
+                    "재산": 831899
+                },
+                {
+                    "연도": 2022,
+                    "재산": 827528
+                }
+            ],
+            "대표발의법안": 57,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "불참"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "북한",
+                    "count": "226"
+                },
+                {
+                    "단어": "대한민국",
+                    "count": "197"
+                },
+                {
+                    "단어": "군인",
+                    "count": "187"
+                },
+                {
+                    "단어": "미국",
+                    "count": "169"
+                },
+                {
+                    "단어": "국방부",
+                    "count": "164"
+                },
+                {
+                    "단어": "국가",
+                    "count": "124"
+                },
+                {
+                    "단어": "전쟁",
+                    "count": "110"
+                },
+                {
+                    "단어": "일본",
+                    "count": "109"
+                },
+                {
+                    "단어": "국방부장관",
+                    "count": "96"
+                },
+                {
+                    "단어": "조사",
+                    "count": "91"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2024-01-18",
+                    "의안명": "병역법 일부개정법률안(설훈의원 등 11인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-17",
+                    "의안명": "병역법 일부개정법률안(설훈의원 등 11인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2024-01-17",
+                    "의안명": "예비군법 일부개정법률안(설훈의원 등 10인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "군무원인사법 일부개정법률안(설훈의원 등 15인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "군인사법 일부개정법률안(설훈의원 등 15인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "아동복지법 일부개정법률안(설훈의원 등 11인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "보건복지위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "여권법 일부개정법률안(설훈의원 등 12인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "외교통일위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "공탁법 일부개정법률안(설훈의원 등 15인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "법제사법위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "군인복지기본법 일부개정법률안(설훈의원 등 11인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국방위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-27",
+                    "의안명": "주차장법 일부개정법률안(설훈의원 등 16인) ",
+                    "발의자": "설훈",
+                    "상임위원회": "국토교통위원회",
+                    "진행상황": ""
+                }
+            ],
+            "공약이행률": {
+                "총공약수": 18,
+                "공약이행수": 14
+            },
+            "공약이행률등수": 30,
+            "공약이행수등수": 128
+        },
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2415001-6-9.jpg"
+        ]
+    }
 ]

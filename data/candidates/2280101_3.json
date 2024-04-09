@@ -1,725 +1,725 @@
 [
-  {
-    "전과건수": 1,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-1.jpg",
-    "id": "2280101_3-1",
-    "재산": 1046919,
-    "생년월일": "19590211",
-    "경력": "(전)인천광역시 균형발전정무부시장\n(전)인천광역시 동구청장",
-    "학력": "중앙대학교 행정대학원 지방행정학과 졸업 (행정학석사)",
-    "직업": "정당인",
-    "성별": "남",
-    "regionId": "2280101_3",
-    "기호": 1,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 16:36:00 +0900",
-        "title": "[르포] 인천 서부 4년만에 '리턴매치' 2곳, '배준영 VS 조택상', '윤상현 VS ...",
-        "link": "http://www.metroseoul.co.kr/article/20240407500230"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 16:16:00 +0900",
-        "title": "[총선 D-3] 더불어민주당 조택상 인천 중구·영종·강화·옹진 후보, 중구 원...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027848"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 16:10:00 +0900",
-        "title": "[총선 D-3] 금속노조 현대ISC지회, 더불어민주당 조택상 인천 중구·영종·강...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027844"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 18:50:00 +0900",
-        "title": "[4·10 총선현장] 민주당 조택상 후보, 영종도서 사전투표",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243488"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 16:23:00 +0900",
-        "title": "[인천 중구강화옹진] 국민의힘 배준영 46.9%, 더불어민주당 조택상 43.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429277?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:50:00 +0900",
-        "title": "[조원씨앤아이] 인천 중구·강화·옹진, 민주 조택상 49.2% 국힘 배준영 47.6...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348247"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:20:00 +0900",
-        "title": "[여론조사꽃] 인천 중구·강화·옹진, 국힘 배준영 46.9% 민주 조택상 43.6%",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348225"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:11:00 +0900",
-        "title": "인천 중구·강화·옹진 국힘 배준영 46.9% vs 민주 조택상 43.6%[여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331388?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:16:00 +0900",
-        "title": "[인천 중·강·옹] 같은 날 다른 여론조사, 조택상·배준영 '장군멍군'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244566"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:20:00 +0900",
-        "title": "[격전지를 가다] '공룡 선거구' 인천 중·강화·옹진…조택상-배준영 3번째 대...",
-        "link": "https://n.news.naver.com/mnews/article/448/0000454155?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:07:00 +0900",
-        "title": "[인천 중구강화옹진] 더불어민주당 조택상 49.2%, 국민의힘 배준영 47.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429117?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:48:00 +0900",
-        "title": "조택상·배준영 “해상풍력 활용 전력공급 다변화”… ‘영흥도 정전’ 방지 ...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240404027444855"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:46:00 +0900",
-        "title": "[중구강화군옹진군 TV토론] \"성과 뭐 있냐\" 설전…조택상-배준영 '진실 공방'...",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=168621"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:50:00 +0900",
-        "title": "[인천 중·강·옹] 민주 조택상 49.2% 국힘 배준영 47.6% '박빙'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244539"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:06:00 +0900",
-        "title": "[4·10 총선현장] 조택상-배준영 후보, '영종 몰빵' 놓고 '내탓 네탓' 공방…...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243274"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:48:00 +0900",
-        "title": "[총선특집 여론조사-인천 중·강화·옹진] '민주 조택상 49.2% vs 국힘 배준영...",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=247096"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 10:26:00 +0900",
-        "title": "[인천 중·강·옹] 조택상·배준영 '제3연륙교·평화도로' 성과 날선 공방",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244467"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 10:26:00 +0900",
-        "title": "조택상 VS 배준영, 선거 공보물 성과 놓고 ‘티격태격’",
-        "link": "https://n.news.naver.com/mnews/article/016/0002290525?sid=102"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 19:26:00 +0900",
-        "title": "배준영 후보 \"정무부시장 취임 이전 업적 포함\" vs 조택상 후보 \"기계적 논리...",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645404"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 08:48:00 +0900",
-        "title": "[인천 중·강·옹] 조택상·배준영 공약 대동소이 '서해평화' 실종",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244362"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "조택상",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1046919
-      }
-    ],
-    "huboid": "100151593",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-2.jpg",
-    "id": "2280101_3-2",
-    "재산": 5261452,
-    "생년월일": "19701021",
-    "경력": "(현)제21대 국회의원(중구강화군옹진군)\n(현)국민의힘 인천시당위원장",
-    "학력": "연세대학교 정치외교학과 졸업",
-    "직업": "제21대 국회의원",
-    "성별": "남",
-    "id_21th": "1075",
-    "regionId": "2280101_3",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 16:36:00 +0900",
-        "title": "[르포] 인천 서부 4년만에 '리턴매치' 2곳, '배준영 VS 조택상', '윤상현 VS ...",
-        "link": "http://www.metroseoul.co.kr/article/20240407500230"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 13:52:00 +0900",
-        "title": "[총선 D-3] 국민의힘 배준영 인천 중구·강화군·옹진군 후보, GTX-D Y자·E ...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027691"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 13:48:00 +0900",
-        "title": "[총선 D-3] 국민의힘 배준영 인천 중구·강화군·옹진군 후보, 옹진군서 사전...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027685"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 19:36:00 +0900",
-        "title": "배준영 후보, 옹진군서 사전투표... 배우자 강화, 딸 중구, 아들 군부대에서도...",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=447984"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 16:44:00 +0900",
-        "title": "배준영, 옹진군서 사전투표...배우자는 강화, 딸은 중구, 아들은 군부대에서 ...",
-        "link": "http://www.incheonnews.com/news/articleView.html?idxno=417620"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 16:23:00 +0900",
-        "title": "[인천 중구강화옹진] 국민의힘 배준영 46.9%, 더불어민주당 조택상 43.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429277?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:04:00 +0900",
-        "title": "배준영 후보 \"GTX-D·E '예타면제' 강력 추진...당파 떠나 여야 모두 앞장서야...",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=130063"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:50:00 +0900",
-        "title": "[조원씨앤아이] 인천 중구·강화·옹진, 민주 조택상 49.2% 국힘 배준영 47.6...",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348247"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:40:00 +0900",
-        "title": "배준영 후보, 옹진군서 사전투표...\"배우자는 강화·딸은 중구·아들 군부대서...",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=130042"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:20:00 +0900",
-        "title": "[여론조사꽃] 인천 중구·강화·옹진, 국힘 배준영 46.9% 민주 조택상 43.6%",
-        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348225"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 11:11:00 +0900",
-        "title": "인천 중구·강화·옹진 국힘 배준영 46.9% vs 민주 조택상 43.6%[여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331388?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:16:00 +0900",
-        "title": "[인천 중·강·옹] 같은 날 다른 여론조사, 조택상·배준영 '장군멍군'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244566"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:20:00 +0900",
-        "title": "[격전지를 가다] '공룡 선거구' 인천 중·강화·옹진…조택상-배준영 3번째 대...",
-        "link": "https://n.news.naver.com/mnews/article/448/0000454155?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:07:00 +0900",
-        "title": "[인천 중구강화옹진] 더불어민주당 조택상 49.2%, 국민의힘 배준영 47.6%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429117?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:48:00 +0900",
-        "title": "조택상·배준영 “해상풍력 활용 전력공급 다변화”… ‘영흥도 정전’ 방지 ...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240404027444855"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:46:00 +0900",
-        "title": "[중구강화군옹진군 TV토론] \"성과 뭐 있냐\" 설전…조택상-배준영 '진실 공방'...",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=168621"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:50:00 +0900",
-        "title": "[인천 중·강·옹] 민주 조택상 49.2% 국힘 배준영 47.6% '박빙'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244539"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:06:00 +0900",
-        "title": "[4·10 총선현장] 조택상-배준영 후보, '영종 몰빵' 놓고 '내탓 네탓' 공방…...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243274"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:48:00 +0900",
-        "title": "[총선특집 여론조사-인천 중·강화·옹진] '민주 조택상 49.2% vs 국힘 배준영...",
-        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=247096"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 11:20:00 +0900",
-        "title": "[총선 D-6] 국민의힘 배준영 인천 중구·강화군·옹진군 후보, 한유총 인천지...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027118"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "배준영",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 4168623
-      },
-      {
-        "연도": 2021,
-        "재산": 4379518
-      },
-      {
-        "연도": 2022,
-        "재산": 4918172
-      },
-      {
-        "연도": 2023,
-        "재산": 5261452
-      }
-    ],
-    "huboid": "100152617",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-2.pdf",
-    "21th": {
-      "연락처": "의원회관 829호 | 전화 02-784-5087 | 팩스 02-6788-6550",
-      "당선횟수": 1,
-      "본회의_출석률": 85.63,
-      "소속위원회": "기획재정위원회\n연금개혁특별위원회\n정치개혁특별위원회",
-      "id": "1075",
-      "주요경력": "연세대학교 정치외교학과 졸업",
-      "본회의_출석률_등수": 253,
-      "재산등수": 27,
-      "상임위원회_출석률": [
-        {
-          "위원회": "기획재정위원회",
-          "출석률": 94.44,
-          "등수": 13,
-          "총원": 26
-        },
-        {
-          "위원회": "연금개혁특별위원회",
-          "출석률": 90,
-          "등수": 5,
-          "총원": 15
-        },
-        {
-          "위원회": "정치개혁특별위원회",
-          "출석률": 100,
-          "등수": 1,
-          "총원": 17
-        }
-      ],
-      "이름": "배준영",
-      "정당": "국민의힘",
-      "위원회별_발의법안": [
-        {
-          "발의수": 30,
-          "위원회": "기획재정위원회"
-        },
-        {
-          "발의수": 10,
-          "위원회": "국토교통위원회"
-        },
-        {
-          "발의수": 6,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "법제사법위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "농림축산식품해양수산위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "산업통상자원중소벤처기업위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "교육위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": ""
-        },
-        {
-          "발의수": 2,
-          "위원회": "민생경제안정특별위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "문화체육관광위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "정무위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "환경노동위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "보건복지위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "정치개혁특별위원회"
-        }
-      ],
-      "대표발의법안_등수": 161,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 4168623
-        },
-        {
-          "연도": 2021,
-          "재산": 4379518
-        },
-        {
-          "연도": 2022,
-          "재산": 4918172
-        }
-      ],
-      "대표발의법안": 69,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "기권"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "불참"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "인천",
-          "count": "130"
-        },
-        {
-          "단어": "교육부",
-          "count": "129"
-        },
-        {
-          "단어": "학생",
-          "count": "113"
-        },
-        {
-          "단어": "국가",
-          "count": "80"
-        },
-        {
-          "단어": "민주당",
-          "count": "69"
-        },
-        {
-          "단어": "수도권",
-          "count": "67"
-        },
-        {
-          "단어": "국세청",
-          "count": "59"
-        },
-        {
-          "단어": "코로나19",
-          "count": "58"
-        },
-        {
-          "단어": "추경",
-          "count": "52"
-        },
-        {
-          "단어": "교육감",
-          "count": "49"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2023-11-01",
-          "의안명": "관세법 일부개정법률안(배준영의원 등 10인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-10-11",
-          "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-10-05",
-          "의안명": "지방세법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-10-05",
-          "의안명": "소득세법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-10-05",
-          "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 12인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-09-19",
-          "의안명": "법인세법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-07-24",
-          "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-07-21",
-          "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-07-20",
-          "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 10인) ",
-          "발의자": "배준영",
-          "상임위원회": "기획재정위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-06-28",
-          "의안명": "공항소음 방지 및 소음대책지역 지원에 관한 법률 일부개정법률안(배준영의원 등 11인) ",
-          "발의자": "배준영",
-          "상임위원회": "국토교통위원회",
-          "진행상황": "수정가결"
-        }
-      ],
-      "공약이행률": {
-        "총공약수": 128,
-        "공약이행수": 76
-      },
-      "공약이행률등수": 82,
-      "공약이행수등수": 5
+    {
+        "전과건수": 1,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-1.jpg",
+        "id": "2280101_3-1",
+        "재산": 1046919,
+        "생년월일": "19590211",
+        "경력": "(전)인천광역시 균형발전정무부시장\n(전)인천광역시 동구청장",
+        "학력": "중앙대학교 행정대학원 지방행정학과 졸업 (행정학석사)",
+        "직업": "정당인",
+        "성별": "남",
+        "regionId": "2280101_3",
+        "기호": 1,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 09 Apr 2024 21:02:00 +0900",
+                "title": "[격전지 중·강·옹] 조택상·배준영 영종서 막판 '표심잡기' 큰절 호소",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244767"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 13:56:00 +0900",
+                "title": "[4·10 총선 현장] 인천 중구강화군옹진군 조택상vs배준영",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244023"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 13:50:00 +0900",
+                "title": "[총선 D-1] 중·강·옹 조택상·배준영 막판까지 '헐뜯기' 선거",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244708"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 19:22:00 +0900",
+                "title": "배준영 vs 조택상 '불법선거운동' 막판 공방",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363646227"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 19:14:00 +0900",
+                "title": "[총선] 배준영 선대위, 조택상 후보에 \"불법 선거운동 멈춰라\"",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385466"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 16:06:00 +0900",
+                "title": "[4·10 총선=인천 지역구별 후보 주요 공약] 중구강화군옹진군 조택상vs배준영",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243816"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:24:00 +0900",
+                "title": "초접전 인천 중구강화군옹진군, 배준영·조택상 연일 진흙탕 싸움 \"몸살\"",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788975"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:11:00 +0900",
+                "title": "국민의힘 배준영, 민주당 조택상 후보 불법 선거운동 중단 '촉구'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000279453?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:06:00 +0900",
+                "title": "'인천 강화 유권자 실어나르기' 논란에 이재명 \"선관위 뭐하나\"·조택상\"경찰...",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243796"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:02:00 +0900",
+                "title": "인천 중·강화·옹진 조택상, 명계남과 유세 vs배준영, 발로 뛰며 표밭갈이",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467272?sid=102"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 10:02:00 +0900",
+                "title": "“강화서 유권자 실어나르는 불법선거… 철저한 수사를” 민주 조택상",
+                "link": "https://n.news.naver.com/mnews/article/421/0007466032?sid=102"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 20:58:00 +0900",
+                "title": "전국 50개 지역구 ‘초접전’…끝날 때까지 끝난 게 아니다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003289201?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 19:33:00 +0900",
+                "title": "122석 걸린 수도권…국힘 “15~30석” 민주 “78~90석” 기대",
+                "link": "https://n.news.naver.com/mnews/article/020/0003557677?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 19:06:00 +0900",
+                "title": "[총선 후보 현안현답] 인천 중 · 강화· 옹진",
+                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082256"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 17:18:00 +0900",
+                "title": "[총선] 인천 서부권역 공약 보니…'닮은 듯 다른' 공약으로 표심 경쟁 '후끈'",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385333"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 17:14:00 +0900",
+                "title": "전국 50곳 초접전지가 4·10 총선 결과 좌우한다",
+                "link": "https://n.news.naver.com/mnews/article/032/0003289163?sid=165"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:36:00 +0900",
+                "title": "[르포] 인천 서부 4년만에 '리턴매치' 2곳, '배준영 VS 조택상', '윤상현 VS ...",
+                "link": "http://www.metroseoul.co.kr/article/20240407500230"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:16:00 +0900",
+                "title": "[총선 D-3] 더불어민주당 조택상 인천 중구·영종·강화·옹진 후보, 중구 원...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027848"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:10:00 +0900",
+                "title": "[총선 D-3] 금속노조 현대ISC지회, 더불어민주당 조택상 인천 중구·영종·강...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027844"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 15:14:00 +0900",
+                "title": "인천 지역구 3곳 최대 승부처로 떠올라",
+                "link": "http://www.incheonin.com/news/articleView.html?idxno=100754"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "조택상",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1046919
+            }
+        ],
+        "huboid": "100151593",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-1-9.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-6.jpg"
-    ]
-  },
-  {
-    "전과건수": 1,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-7.jpg",
-    "id": "2280101_3-7",
-    "재산": 1886024,
-    "생년월일": "19590124",
-    "경력": "(전)제18대 국회의원\n(현)삼성파운드리반도체 유치 인천범추진준비위원장",
-    "학력": "미국 사우스플로리다 대학교 대학원졸업 전기공학박사('89.9~'94.5)",
-    "직업": "사업가",
-    "성별": "남",
-    "regionId": "2280101_3",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Mon, 25 Mar 2024 16:04:00 +0900",
-        "title": "제22대 총선 '인천 중구강화군옹진군' 누가 뛰나? 조택상·배준영·구본철 '3...",
-        "link": "http://www.joongang.tv/news/articleView.html?idxno=71022"
-      },
-      {
-        "date": "Mon, 18 Mar 2024 22:42:00 +0900",
-        "title": "구본철 후보, 통합의 정치로 행동하다",
-        "link": "https://www.kmaeil.com/news/articleView.html?idxno=444605"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 20:20:00 +0900",
-        "title": "[인천 중구·강화·옹진 여론조사] 민주 43.8% 국힘 45.7% '초박빙'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=243241"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 14:36:00 +0900",
-        "title": "[인천 중·강·옹 여론조사] 민주 43.8% 국힘 45.7% '초박빙'",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=243204"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 11:46:00 +0900",
-        "title": "[인천 총선 대진표] 제3정당도 출마 '채비'··· 공천 반발 영향",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=242880"
-      },
-      {
-        "date": "Thu, 07 Mar 2024 17:00:00 +0900",
-        "title": "[인천 중·강·옹] 22대 총선, 조택상·배준영 3번째 대결 성사",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=242846"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 18:00:00 +0900",
-        "title": "[22대 총선 누가 뛰나 - 중구강화군옹진군] ② 보수 텃밭 수성 나선 국힘…무...",
-        "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=166989"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 21:12:00 +0900",
-        "title": "민주 윤관석·국힘 윤상현 '총선 출마 부적격 후보' 선정",
-        "link": "http://www.joongboo.com/news/articleView.html?idxno=363635984"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 19:42:00 +0900",
-        "title": "인천 시민단체 총선 모드 돌입...부적격 후보자 솎아내기 시동",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1234310"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 19:06:00 +0900",
-        "title": "인천 평복, '총선 출마 부적합 후보' 10명 발표",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=380458"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 16:34:00 +0900",
-        "title": "[2024 총선] 인천평화복지연대, '윤상현·윤관석' 총선 출마 부적격후보 발표",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1014344"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 10:50:00 +0900",
-        "title": "인천평복연대, 인천지역 총선 출마 부적격 후보 10명 발표",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=99831"
-      },
-      {
-        "date": "Wed, 14 Feb 2024 09:42:00 +0900",
-        "title": "인천평화복지연대, 윤상현·윤관석, '총선 낙선 대상자' 선정",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=240981"
-      },
-      {
-        "date": "Sun, 11 Feb 2024 09:04:00 +0900",
-        "title": "[22대 총선 중·강·옹] 여야 강세지역 뚜렷 옹진군 캐스팅보트",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=240840"
-      },
-      {
-        "date": "Fri, 09 Feb 2024 20:28:00 +0900",
-        "title": "설 연휴 이후 빨라질 총선 시계… 인천 예비후보 누가 뛰나 ②",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=99793"
-      },
-      {
-        "date": "Thu, 08 Feb 2024 09:16:00 +0900",
-        "title": "[설특집: 22대 총선 수도권 대진표-경기/인천] 여·야 72곳 500명 출마 현황",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483922"
-      },
-      {
-        "date": "Wed, 07 Feb 2024 19:44:00 +0900",
-        "title": "[22대 총선 나요나-중구강화군옹진군] 신도시 중심 野 지지세 커진 중구… 보...",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240208010000778"
-      },
-      {
-        "date": "Wed, 07 Feb 2024 16:36:00 +0900",
-        "title": "[4‧10 총선 인천은]“니가 왜 거기서 나와”…타지역에 사는 출마자들",
-        "link": "https://www.kgnews.co.kr/news/article.html?no=781324"
-      },
-      {
-        "date": "Mon, 05 Feb 2024 18:44:00 +0900",
-        "title": "[미리보는 총선] '보수 심장' 중구·강화·옹진…젊은 바람 '영종'에 예측불허",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=379705"
-      },
-      {
-        "date": "Mon, 05 Feb 2024 11:20:00 +0900",
-        "title": "인천 총선 예비후보 74명… 원희룡, 맹성규, 이성만 추가 등록",
-        "link": "http://www.incheonin.com/news/articleView.html?idxno=99707"
-      }
-    ],
-    "정당": "무소속",
-    "이름": "구본철",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1886024
-      }
-    ],
-    "huboid": "100151320",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-3.jpg"
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-2.jpg",
+        "id": "2280101_3-2",
+        "재산": 5261452,
+        "생년월일": "19701021",
+        "경력": "(현)제21대 국회의원(중구강화군옹진군)\n(현)국민의힘 인천시당위원장",
+        "학력": "연세대학교 정치외교학과 졸업",
+        "직업": "제21대 국회의원",
+        "성별": "남",
+        "id_21th": "1075",
+        "regionId": "2280101_3",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 09 Apr 2024 21:02:00 +0900",
+                "title": "[격전지 중·강·옹] 조택상·배준영 영종서 막판 '표심잡기' 큰절 호소",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244767"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 20:14:00 +0900",
+                "title": "[이렇게 하겠습니다] 배준영 국민의힘 중구·강화·옹진군 후보 \"GTX-D Y E노...",
+                "link": "https://www.joongboo.com/news/articleView.html?idxno=363646529"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 18:02:00 +0900",
+                "title": "민주당 \"與배준영, 돈봉투 살포 의혹\"…배 \"허위사실유포혐의 고발\"",
+                "link": "https://n.news.naver.com/mnews/article/018/0005710973?sid=165"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 13:56:00 +0900",
+                "title": "[4·10 총선 현장] 인천 중구강화군옹진군 조택상vs배준영",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244023"
+            },
+            {
+                "date": "Tue, 09 Apr 2024 13:50:00 +0900",
+                "title": "[총선 D-1] 중·강·옹 조택상·배준영 막판까지 '헐뜯기' 선거",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=244708"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 19:14:00 +0900",
+                "title": "[총선] 배준영 선대위, 조택상 후보에 \"불법 선거운동 멈춰라\"",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=385466"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 16:06:00 +0900",
+                "title": "[4·10 총선=인천 지역구별 후보 주요 공약] 중구강화군옹진군 조택상vs배준영",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243816"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:24:00 +0900",
+                "title": "초접전 인천 중구강화군옹진군, 배준영·조택상 연일 진흙탕 싸움 \"몸살\"",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=788975"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:11:00 +0900",
+                "title": "국민의힘 배준영, 민주당 조택상 후보 불법 선거운동 중단 '촉구'",
+                "link": "https://n.news.naver.com/mnews/article/629/0000279453?sid=165"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:02:00 +0900",
+                "title": "인천 중·강화·옹진 조택상, 명계남과 유세 vs배준영, 발로 뛰며 표밭갈이",
+                "link": "https://n.news.naver.com/mnews/article/421/0007467272?sid=102"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 16:36:00 +0900",
+                "title": "[르포] 인천 서부 4년만에 '리턴매치' 2곳, '배준영 VS 조택상', '윤상현 VS ...",
+                "link": "http://www.metroseoul.co.kr/article/20240407500230"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 13:52:00 +0900",
+                "title": "[총선 D-3] 국민의힘 배준영 인천 중구·강화군·옹진군 후보, GTX-D Y자·E ...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027691"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 13:48:00 +0900",
+                "title": "[총선 D-3] 국민의힘 배준영 인천 중구·강화군·옹진군 후보, 옹진군서 사전...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027685"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 19:36:00 +0900",
+                "title": "배준영 후보, 옹진군서 사전투표... 배우자 강화, 딸 중구, 아들 군부대에서도...",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=447984"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:44:00 +0900",
+                "title": "배준영, 옹진군서 사전투표...배우자는 강화, 딸은 중구, 아들은 군부대에서 ...",
+                "link": "http://www.incheonnews.com/news/articleView.html?idxno=417620"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 16:23:00 +0900",
+                "title": "[인천 중구강화옹진] 국민의힘 배준영 46.9%, 더불어민주당 조택상 43.6%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002429277?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:04:00 +0900",
+                "title": "배준영 후보 \"GTX-D·E '예타면제' 강력 추진...당파 떠나 여야 모두 앞장서야...",
+                "link": "http://www.kdfnews.com/news/articleView.html?idxno=130063"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 13:50:00 +0900",
+                "title": "[조원씨앤아이] 인천 중구·강화·옹진, 민주 조택상 49.2% 국힘 배준영 47.6...",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348247"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:40:00 +0900",
+                "title": "배준영 후보, 옹진군서 사전투표...\"배우자는 강화·딸은 중구·아들 군부대서...",
+                "link": "http://www.kdfnews.com/news/articleView.html?idxno=130042"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:22:00 +0900",
+                "title": "[총선여론] 전국 박빙 지역 50여곳.. 투표함 열어봐야 안다",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642156"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "배준영",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 4168623
+            },
+            {
+                "연도": 2021,
+                "재산": 4379518
+            },
+            {
+                "연도": 2022,
+                "재산": 4918172
+            },
+            {
+                "연도": 2023,
+                "재산": 5261452
+            }
+        ],
+        "huboid": "100152617",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-2.pdf",
+        "21th": {
+            "연락처": "의원회관 829호 | 전화 02-784-5087 | 팩스 02-6788-6550",
+            "당선횟수": 1,
+            "본회의_출석률": 85.63,
+            "소속위원회": "기획재정위원회\n연금개혁특별위원회\n정치개혁특별위원회",
+            "id": "1075",
+            "주요경력": "연세대학교 정치외교학과 졸업",
+            "본회의_출석률_등수": 253,
+            "재산등수": 27,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "기획재정위원회",
+                    "출석률": 94.44,
+                    "등수": 13,
+                    "총원": 26
+                },
+                {
+                    "위원회": "연금개혁특별위원회",
+                    "출석률": 90,
+                    "등수": 5,
+                    "총원": 15
+                },
+                {
+                    "위원회": "정치개혁특별위원회",
+                    "출석률": 100,
+                    "등수": 1,
+                    "총원": 17
+                }
+            ],
+            "이름": "배준영",
+            "정당": "국민의힘",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 30,
+                    "위원회": "기획재정위원회"
+                },
+                {
+                    "발의수": 10,
+                    "위원회": "국토교통위원회"
+                },
+                {
+                    "발의수": 6,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "법제사법위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "농림축산식품해양수산위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "산업통상자원중소벤처기업위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "교육위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": ""
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "민생경제안정특별위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "문화체육관광위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "정무위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "환경노동위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "보건복지위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "정치개혁특별위원회"
+                }
+            ],
+            "대표발의법안_등수": 161,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 4168623
+                },
+                {
+                    "연도": 2021,
+                    "재산": 4379518
+                },
+                {
+                    "연도": 2022,
+                    "재산": 4918172
+                }
+            ],
+            "대표발의법안": 69,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "기권"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "불참"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "인천",
+                    "count": "130"
+                },
+                {
+                    "단어": "교육부",
+                    "count": "129"
+                },
+                {
+                    "단어": "학생",
+                    "count": "113"
+                },
+                {
+                    "단어": "국가",
+                    "count": "80"
+                },
+                {
+                    "단어": "민주당",
+                    "count": "69"
+                },
+                {
+                    "단어": "수도권",
+                    "count": "67"
+                },
+                {
+                    "단어": "국세청",
+                    "count": "59"
+                },
+                {
+                    "단어": "코로나19",
+                    "count": "58"
+                },
+                {
+                    "단어": "추경",
+                    "count": "52"
+                },
+                {
+                    "단어": "교육감",
+                    "count": "49"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2023-11-01",
+                    "의안명": "관세법 일부개정법률안(배준영의원 등 10인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-10-11",
+                    "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-10-05",
+                    "의안명": "지방세법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-10-05",
+                    "의안명": "소득세법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-10-05",
+                    "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 12인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-09-19",
+                    "의안명": "법인세법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-07-24",
+                    "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-07-21",
+                    "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-07-20",
+                    "의안명": "조세특례제한법 일부개정법률안(배준영의원 등 10인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-06-28",
+                    "의안명": "공항소음 방지 및 소음대책지역 지원에 관한 법률 일부개정법률안(배준영의원 등 11인) ",
+                    "발의자": "배준영",
+                    "상임위원회": "국토교통위원회",
+                    "진행상황": "수정가결"
+                }
+            ],
+            "공약이행률": {
+                "총공약수": 128,
+                "공약이행수": 76
+            },
+            "공약이행률등수": 82,
+            "공약이행수등수": 5
+        },
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-2-6.jpg"
+        ]
+    },
+    {
+        "전과건수": 1,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2280101-7.jpg",
+        "id": "2280101_3-7",
+        "재산": 1886024,
+        "생년월일": "19590124",
+        "경력": "(전)제18대 국회의원\n(현)삼성파운드리반도체 유치 인천범추진준비위원장",
+        "학력": "미국 사우스플로리다 대학교 대학원졸업 전기공학박사('89.9~'94.5)",
+        "직업": "사업가",
+        "성별": "남",
+        "regionId": "2280101_3",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 25 Mar 2024 16:04:00 +0900",
+                "title": "제22대 총선 '인천 중구강화군옹진군' 누가 뛰나? 조택상·배준영·구본철 '3...",
+                "link": "http://www.joongang.tv/news/articleView.html?idxno=71022"
+            },
+            {
+                "date": "Mon, 18 Mar 2024 22:42:00 +0900",
+                "title": "구본철 후보, 통합의 정치로 행동하다",
+                "link": "https://www.kmaeil.com/news/articleView.html?idxno=444605"
+            },
+            {
+                "date": "Thu, 14 Mar 2024 10:12:00 +0900",
+                "title": "[인천 총선 대진표] 민주·국힘 공천 완료... 제3지대 여전히 변수",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=243261"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 20:20:00 +0900",
+                "title": "[인천 중구·강화·옹진 여론조사] 민주 43.8% 국힘 45.7% '초박빙'",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=243241"
+            },
+            {
+                "date": "Wed, 13 Mar 2024 14:36:00 +0900",
+                "title": "[인천 중·강·옹 여론조사] 민주 43.8% 국힘 45.7% '초박빙'",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=243204"
+            },
+            {
+                "date": "Fri, 08 Mar 2024 11:46:00 +0900",
+                "title": "[인천 총선 대진표] 제3정당도 출마 '채비'··· 공천 반발 영향",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=242880"
+            },
+            {
+                "date": "Thu, 07 Mar 2024 17:00:00 +0900",
+                "title": "[인천 중·강·옹] 22대 총선, 조택상·배준영 3번째 대결 성사",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=242846"
+            },
+            {
+                "date": "Thu, 22 Feb 2024 18:00:00 +0900",
+                "title": "[22대 총선 누가 뛰나 - 중구강화군옹진군] ② 보수 텃밭 수성 나선 국힘…무...",
+                "link": "http://ch1.skbroadband.com/content/view?parent_no=24&content_no=58&p_no=166989"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 21:12:00 +0900",
+                "title": "민주 윤관석·국힘 윤상현 '총선 출마 부적격 후보' 선정",
+                "link": "http://www.joongboo.com/news/articleView.html?idxno=363635984"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 19:42:00 +0900",
+                "title": "인천 시민단체 총선 모드 돌입...부적격 후보자 솎아내기 시동",
+                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1234310"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 19:06:00 +0900",
+                "title": "인천 평복, '총선 출마 부적합 후보' 10명 발표",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=380458"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 16:34:00 +0900",
+                "title": "[2024 총선] 인천평화복지연대, '윤상현·윤관석' 총선 출마 부적격후보 발표",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1014344"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 10:50:00 +0900",
+                "title": "인천평복연대, 인천지역 총선 출마 부적격 후보 10명 발표",
+                "link": "http://www.incheonin.com/news/articleView.html?idxno=99831"
+            },
+            {
+                "date": "Wed, 14 Feb 2024 09:42:00 +0900",
+                "title": "인천평화복지연대, 윤상현·윤관석, '총선 낙선 대상자' 선정",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=240981"
+            },
+            {
+                "date": "Sun, 11 Feb 2024 09:04:00 +0900",
+                "title": "[22대 총선 중·강·옹] 여야 강세지역 뚜렷 옹진군 캐스팅보트",
+                "link": "http://www.incheontoday.com/news/articleView.html?idxno=240840"
+            },
+            {
+                "date": "Fri, 09 Feb 2024 20:28:00 +0900",
+                "title": "설 연휴 이후 빨라질 총선 시계… 인천 예비후보 누가 뛰나 ②",
+                "link": "http://www.incheonin.com/news/articleView.html?idxno=99793"
+            },
+            {
+                "date": "Thu, 08 Feb 2024 09:16:00 +0900",
+                "title": "[설특집: 22대 총선 수도권 대진표-경기/인천] 여·야 72곳 500명 출마 현황",
+                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=483922"
+            },
+            {
+                "date": "Wed, 07 Feb 2024 19:44:00 +0900",
+                "title": "[22대 총선 나요나-중구강화군옹진군] 신도시 중심 野 지지세 커진 중구… 보...",
+                "link": "http://www.kyeongin.com/main/view.php?key=20240208010000778"
+            },
+            {
+                "date": "Wed, 07 Feb 2024 16:36:00 +0900",
+                "title": "[4‧10 총선 인천은]“니가 왜 거기서 나와”…타지역에 사는 출마자들",
+                "link": "https://www.kgnews.co.kr/news/article.html?no=781324"
+            },
+            {
+                "date": "Mon, 05 Feb 2024 18:44:00 +0900",
+                "title": "[미리보는 총선] '보수 심장' 중구·강화·옹진…젊은 바람 '영종'에 예측불허",
+                "link": "https://news.ifm.kr/news/articleView.html?idxno=379705"
+            }
+        ],
+        "정당": "무소속",
+        "이름": "구본철",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1886024
+            }
+        ],
+        "huboid": "100151320",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2280101-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2280101_3-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2280101_3-7-3.jpg"
+        ]
+    }
 ]

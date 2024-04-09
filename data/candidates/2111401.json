@@ -1,842 +1,842 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-1.jpg",
-    "id": "2111401-1",
-    "재산": 1362758,
-    "생년월일": "19780311",
-    "경력": "(전)마포경찰서 홍익지구대장\n(현)더불어민주당 대변인",
-    "학력": "케임브리지 대학교(철학 석사) 졸업(2009년 10월~2010년 10월)",
-    "직업": "변호사",
-    "성별": "여",
-    "regionId": "2111401",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Sat, 06 Apr 2024 07:24:00 +0900",
-        "title": "전여옥, ‘로스쿨 징계 논란’ 이지은 직격…“양심도 ‘미니스커트’로 잘라...",
-        "link": "https://n.news.naver.com/mnews/article/029/0002865846?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 20:58:00 +0900",
-        "title": "\"'편법 휴직' 이지은 물러나야, 투표로 범죄세력 이긴단 것 보여주자\"…한동훈...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817776?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:21:00 +0900",
-        "title": "조정훈, 이지은 '편법 휴직' 논란에 \"혈세로 개인스펙\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0004969344?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:07:00 +0900",
-        "title": "이지은 마포갑 후보, ‘편법 휴직’ 복직 뒤엔 ‘112상황실장’ 근무 중 로스...",
-        "link": "https://n.news.naver.com/mnews/article/021/0002630687?sid=102"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:05:00 +0900",
-        "title": "‘이지은 로스쿨 징계 의혹’ 등 野 후보들 휴직 논란 계속",
-        "link": "https://n.news.naver.com/mnews/article/022/0003921526?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 09:20:00 +0900",
-        "title": "[22대 총선] 조정훈, 이지은 '편법 휴직' 논란에 \"도덕과 법치 무너뜨려...입...",
-        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503514"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 08:48:00 +0900",
-        "title": "조정훈, 이지은 '편법 휴직' 논란에 \"경찰 생명같은 법·질서 어겨\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012473368?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 05:51:00 +0900",
-        "title": "여 \"민주 이지은, 경찰 재직 중 휴직하고 로스쿨 다니다 징계\"",
-        "link": "https://n.news.naver.com/mnews/article/055/0001144682?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 23:14:00 +0900",
-        "title": "與 \"민주 이지은, 경찰 재직 중 로스쿨 다니다 징계...사퇴해야\"",
-        "link": "https://n.news.naver.com/mnews/article/052/0002019259?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:20:00 +0900",
-        "title": "與 “민주당 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계”",
-        "link": "https://n.news.naver.com/mnews/article/366/0000983374?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 19:15:00 +0900",
-        "title": "[총선] 국힘 “민주 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계”",
-        "link": "https://n.news.naver.com/mnews/article/056/0011695522?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:56:00 +0900",
-        "title": "與 \"민주 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0014611714?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:40:00 +0900",
-        "title": "민주당 마포갑 이지은, 경찰 재직중 `연수 휴직` 후 로스쿨 다니다 적발 징계",
-        "link": "https://n.news.naver.com/mnews/article/029/0002865662?sid=102"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:15:00 +0900",
-        "title": "[4·10 총선 Who] 마포갑 이지은 더불어민주당 후보",
-        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519204&seq_800=20511985"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:38:00 +0900",
-        "title": "한동훈 \"이지은, 경찰 속이고 로스쿨 다녀…시민 대표할 수 있나\"",
-        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315657"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:31:00 +0900",
-        "title": "마포갑 이지은, 경찰 재직 중 '편법 휴직'으로 로스쿨 공부",
-        "link": "https://n.news.naver.com/mnews/article/421/0007459539?sid=102"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:00:00 +0900",
-        "title": "민주당 마포갑 이지은, 경찰 재직 당시 '편법 휴직' 후 로스쿨 다니다 감사원...",
-        "link": "https://www.wikitree.co.kr/articles/940705"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 14:55:00 +0900",
-        "title": "조정훈, '편법 휴직 논란' 이지은에 \"경찰 명예·사기 떨어뜨려…입장 밝혀야...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817193?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 14:24:00 +0900",
-        "title": "한동훈, 민주 이지은 후보 징계 겨냥…\"시민들을 대표할 수 있나\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012471717?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 13:56:00 +0900",
-        "title": "野 마포갑 이지은, '편법 휴직' 통해 로스쿨 진학·변호사자격 취득...징계까...",
-        "link": "https://www.pennmike.com/news/articleView.html?idxno=79038"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "이지은",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1362758
-      }
-    ],
-    "huboid": "100152921",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-2.jpg",
-    "id": "2111401-2",
-    "재산": 1434747,
-    "생년월일": "19721007",
-    "경력": "(전)세계은행 15년 재직\n(현)제21대 국회의원",
-    "학력": "하버드 대학교 케네디스쿨 행정대학원 국제개발행정학 석사 졸업(2000.9.~2002.6.)",
-    "직업": "제21대 국회의원",
-    "성별": "남",
-    "id_21th": "1173",
-    "regionId": "2111401",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 19:30:00 +0900",
-        "title": "[포토] 조정훈 후보 경의선숲길서 유세",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3127179"
-      },
-      {
-        "date": "Sun, 07 Apr 2024 09:28:00 +0900",
-        "title": "한동훈·함운경·조정훈 3인3색 연설은? [현장에서+영상]",
-        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160120"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 15:21:00 +0900",
-        "title": "조정훈, 이지은 '편법 휴직' 논란에 \"혈세로 개인스펙\"",
-        "link": "https://n.news.naver.com/mnews/article/015/0004969344?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 10:21:00 +0900",
-        "title": "[사전투표] 조정훈, 배우자 김경희씨와 도화동서…\"마포를 '앞으로' 나아가게...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817503?sid=165"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 09:20:00 +0900",
-        "title": "[22대 총선] 조정훈, 이지은 '편법 휴직' 논란에 \"도덕과 법치 무너뜨려...입...",
-        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503514"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 08:48:00 +0900",
-        "title": "조정훈, 이지은 '편법 휴직' 논란에 \"경찰 생명같은 법·질서 어겨\"",
-        "link": "https://n.news.naver.com/mnews/article/003/0012473368?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 14:55:00 +0900",
-        "title": "조정훈, '편법 휴직 논란' 이지은에 \"경찰 명예·사기 떨어뜨려…입장 밝혀야...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817193?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 10:32:00 +0900",
-        "title": "\"대통령 혼내야\" \"이재명 벌해야\"…마포갑 조정훈 대 이지은 '영입인사 맞대결...",
-        "link": "https://www.etoday.co.kr/news/view/2347378"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 07:58:00 +0900",
-        "title": "[총선 지지율] 서울 마포갑·도봉갑·양천갑…이지은·조정훈, 안귀령·김재섭...",
-        "link": "http://www.topstarnews.net/news/articleView.html?idxno=15476491"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 07:13:00 +0900",
-        "title": "서울 마포갑…이지은 46% 조정훈 38%[케이스탯리서치]",
-        "link": "https://n.news.naver.com/mnews/article/003/0012470309?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 00:38:00 +0900",
-        "title": "[서울 마포갑] 더불어민주당 이지은 46%, 국민의힘 조정훈 38%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428893?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 21:04:00 +0900",
-        "title": "[서울 마포갑] 이지은 46%, 조정훈 38%...응답 54%가 “정부 견제”",
-        "link": "https://n.news.naver.com/mnews/article/023/0003826271?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 21:02:00 +0900",
-        "title": "황희 46:41 구자룡, 안귀령 44:38 김재섭, 이지은 46:38 조정훈",
-        "link": "https://n.news.naver.com/mnews/article/023/0003826266?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:31:00 +0900",
-        "title": "[총선] 또 한강변 ‘지하화’ 공약…“필요하지만 재원이 문제”",
-        "link": "https://n.news.naver.com/mnews/article/056/0011694577?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:00:00 +0900",
-        "title": "[총선 르포] 조정훈 국민의힘 서울 마포갑 후보… \"마포를 제1도시로\"",
-        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=1853481"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 17:58:00 +0900",
-        "title": "[4·10 총선 Who] 마포갑 조정훈 국민의힘 후보",
-        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519116&seq_800=20511897"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 16:58:00 +0900",
-        "title": "‘모두 이수’ 26명뿐…21대 국회 4대 폭력 예방교육 미이수자 명단 공개",
-        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=470009"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 16:48:00 +0900",
-        "title": "한동훈·이재명 유세 집중된 한강벨트... '최대 승부처'",
-        "link": "http://www.kbsm.net/news/view.php?idx=428637"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 16:04:00 +0900",
-        "title": "총선 D-7 판세 ‘박빙’ 55곳…국힘 “90∼100석” 민주 “110석+α”",
-        "link": "https://www.ekn.kr/web/view.php?key=20240403026398842"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 15:00:00 +0900",
-        "title": "엄홍길이 왜 계양산에...유세차 오른 '폴리테이너'들",
-        "link": "https://www.etoday.co.kr/news/view/2347271"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "조정훈",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 1454242
-      },
-      {
-        "연도": 2021,
-        "재산": 1144379
-      },
-      {
-        "연도": 2022,
-        "재산": 1247979
-      },
-      {
-        "연도": 2023,
-        "재산": 1434747
-      }
-    ],
-    "huboid": "100152946",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-2.pdf",
-    "21th": {
-      "연락처": "의원회관 544호 | 전화 02-784-2181 | 팩스 02-6788-7300",
-      "당선횟수": 1,
-      "본회의_출석률": 83.23,
-      "소속위원회": "법제사법위원회\n예산결산특별위원회",
-      "id": "1173",
-      "주요경력": "미국 하버드대학교 케네디스쿨 행정대학원 국제개발행정학 석사(2000.9.~2002.6.)",
-      "본회의_출석률_등수": 267,
-      "재산등수": 259,
-      "상임위원회_출석률": [
-        {
-          "위원회": "법제사법위원회",
-          "출석률": 80.9,
-          "등수": 18,
-          "총원": 18
-        },
-        {
-          "위원회": "예산결산특별위원회",
-          "출석률": 60,
-          "등수": 50,
-          "총원": 50
-        }
-      ],
-      "이름": "조정훈",
-      "정당": "국민의힘",
-      "위원회별_발의법안": [
-        {
-          "발의수": 10,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 7,
-          "위원회": "법제사법위원회"
-        },
-        {
-          "발의수": 6,
-          "위원회": "산업통상자원중소벤처기업위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "환경노동위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "기획재정위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "보건복지위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": ""
-        },
-        {
-          "발의수": 1,
-          "위원회": "농림축산식품해양수산위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "문화체육관광위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "국토교통위원회"
-        }
-      ],
-      "대표발의법안_등수": 251,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 1454242
-        },
-        {
-          "연도": 2021,
-          "재산": 1144379
-        },
-        {
-          "연도": 2022,
-          "재산": 1247979
-        }
-      ],
-      "대표발의법안": 39,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "불참"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "국가",
-          "count": "227"
-        },
-        {
-          "단어": "대한민국",
-          "count": "180"
-        },
-        {
-          "단어": "감사원",
-          "count": "165"
-        },
-        {
-          "단어": "수도",
-          "count": "151"
-        },
-        {
-          "단어": "슬라이드",
-          "count": "146"
-        },
-        {
-          "단어": "기관",
-          "count": "120"
-        },
-        {
-          "단어": "대기업",
-          "count": "118"
-        },
-        {
-          "단어": "피해자",
-          "count": "110"
-        },
-        {
-          "단어": "손실보상",
-          "count": "107"
-        },
-        {
-          "단어": "피해",
-          "count": "99"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2023-12-28",
-          "의안명": "예술인 복지법 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "문화체육관광위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-27",
-          "의안명": "옥외광고물 등의 관리와 옥외광고산업 진흥에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "행정안전위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-26",
-          "의안명": "남녀고용평등과 일·가정 양립 지원에 관한 법률 일부개정법률안(조정훈의원 등 12인) ",
-          "발의자": "조정훈",
-          "상임위원회": "환경노동위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-12-26",
-          "의안명": "소득세법 일부개정법률안(조정훈의원 등 11인) ",
-          "발의자": "조정훈",
-          "상임위원회": "기획재정위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-08-09",
-          "의안명": "형법 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "법제사법위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-15",
-          "의안명": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-15",
-          "의안명": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-05-09",
-          "의안명": "남녀고용평등과 일·가정 양립 지원에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "환경노동위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-04-20",
-          "의안명": "범죄피해자 보호법 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "법제사법위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-04-14",
-          "의안명": "변리사법 일부개정법률안(조정훈의원 등 10인) ",
-          "발의자": "조정훈",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        }
-      ],
-      "공약이행률": null,
-      "공약이행률등수": null,
-      "공약이행수등수": null
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-1.jpg",
+        "id": "2111401-1",
+        "재산": 1362758,
+        "생년월일": "19780311",
+        "경력": "(전)마포경찰서 홍익지구대장\n(현)더불어민주당 대변인",
+        "학력": "케임브리지 대학교(철학 석사) 졸업(2009년 10월~2010년 10월)",
+        "직업": "변호사",
+        "성별": "여",
+        "regionId": "2111401",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 21:06:00 +0900",
+                "title": "김부겸 \"이지은 후보, 늘 일선 현장서 민심 살피던 사람\"",
+                "link": "http://www.newsworks.co.kr/news/articleView.html?idxno=749440"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 19:42:00 +0900",
+                "title": "'마포갑' 野이지은 \"마포구민 삶 개선 위해 현장서 청취\"… 김부겸 지원 사격",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3127573"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 16:02:00 +0900",
+                "title": "[선택4·10] 김부겸, '마포갑' 이지은 지원유세…\"늘 민심 살핀 사람\"",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071564"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:30:00 +0900",
+                "title": "[D-2현장] 서울 마포갑 국힘 조정훈, 중장년 밀착유세로 민주 이지은 추격",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348425"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:21:00 +0900",
+                "title": "민주 김부겸, '마포갑' 이지은 지원유세 \"이지은 꼭 국회로 보내달라\"",
+                "link": "https://www.newspim.com/news/view/20240408000677"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 15:04:00 +0900",
+                "title": "마포'갑' 이지은 후보 승리 눈앞?",
+                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7346"
+            },
+            {
+                "date": "Sat, 06 Apr 2024 07:24:00 +0900",
+                "title": "전여옥, ‘로스쿨 징계 논란’ 이지은 직격…“양심도 ‘미니스커트’로 잘라...",
+                "link": "https://n.news.naver.com/mnews/article/029/0002865846?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 20:58:00 +0900",
+                "title": "\"'편법 휴직' 이지은 물러나야, 투표로 범죄세력 이긴단 것 보여주자\"…한동훈...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817776?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:21:00 +0900",
+                "title": "조정훈, 이지은 '편법 휴직' 논란에 \"혈세로 개인스펙\"",
+                "link": "https://n.news.naver.com/mnews/article/015/0004969344?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:07:00 +0900",
+                "title": "이지은 마포갑 후보, ‘편법 휴직’ 복직 뒤엔 ‘112상황실장’ 근무 중 로스...",
+                "link": "https://n.news.naver.com/mnews/article/021/0002630687?sid=102"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 12:05:00 +0900",
+                "title": "‘이지은 로스쿨 징계 의혹’ 등 野 후보들 휴직 논란 계속",
+                "link": "https://n.news.naver.com/mnews/article/022/0003921526?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 09:20:00 +0900",
+                "title": "[22대 총선] 조정훈, 이지은 '편법 휴직' 논란에 \"도덕과 법치 무너뜨려...입...",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503514"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 08:48:00 +0900",
+                "title": "조정훈, 이지은 '편법 휴직' 논란에 \"경찰 생명같은 법·질서 어겨\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012473368?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 05:51:00 +0900",
+                "title": "여 \"민주 이지은, 경찰 재직 중 휴직하고 로스쿨 다니다 징계\"",
+                "link": "https://n.news.naver.com/mnews/article/055/0001144682?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 23:14:00 +0900",
+                "title": "與 \"민주 이지은, 경찰 재직 중 로스쿨 다니다 징계...사퇴해야\"",
+                "link": "https://n.news.naver.com/mnews/article/052/0002019259?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 20:20:00 +0900",
+                "title": "與 “민주당 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계”",
+                "link": "https://n.news.naver.com/mnews/article/366/0000983374?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 19:15:00 +0900",
+                "title": "[총선] 국힘 “민주 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계”",
+                "link": "https://n.news.naver.com/mnews/article/056/0011695522?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 18:56:00 +0900",
+                "title": "與 \"민주 이지은, 경찰 재직중 휴직하고 로스쿨 다니다 징계\"",
+                "link": "https://n.news.naver.com/mnews/article/001/0014611714?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:40:00 +0900",
+                "title": "민주당 마포갑 이지은, 경찰 재직중 `연수 휴직` 후 로스쿨 다니다 적발 징계",
+                "link": "https://n.news.naver.com/mnews/article/029/0002865662?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:20:00 +0900",
+                "title": "바람 불면 흔들리는 박빙 지역…여야 과반 151석 확보 전쟁",
+                "link": "https://www.asiatoday.co.kr/view.php?key=20240404010002737"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "이지은",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1362758
+            }
+        ],
+        "huboid": "100152921",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-1-9.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-5.jpg",
-    "id": "2111401-5",
-    "재산": 23966,
-    "생년월일": "19940729",
-    "경력": "(전)녹색당 부대표\n(현)녹색정의당 공동대변인",
-    "학력": "중앙대학교 대학원 사회복지학과 석사 졸업",
-    "직업": "정당인",
-    "성별": "여",
-    "regionId": "2111401",
-    "기호": 5,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Fri, 15 Mar 2024 20:37:00 +0900",
-        "title": "녹색정의당, 총선 출마 후보 확정…‘비례 14명·지역구 17명’",
-        "link": "https://n.news.naver.com/mnews/article/005/0001681318?sid=100"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 19:33:00 +0900",
-        "title": "녹색정의당, 총선 출마 후보 31명 공천 확정…비례 1번에 나순자",
-        "link": "https://n.news.naver.com/mnews/article/003/0012429899?sid=165"
-      },
-      {
-        "date": "Fri, 15 Mar 2024 13:40:00 +0900",
-        "title": "녹색정의당 \"기후위기 대응, 국정 최우선 과제로\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002425934?sid=165"
-      },
-      {
-        "date": "Thu, 14 Mar 2024 13:01:00 +0900",
-        "title": "[인생내컷] 끈기있는 유학생·다둥이 아빠·문학 청년 [4·10 총선]",
-        "link": "https://n.news.naver.com/mnews/article/057/0001805634?sid=100"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 11:50:00 +0900",
-        "title": "[오늘의 주요 정치 일정] 국회(3월13일 수요일)",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=330260"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 09:42:00 +0900",
-        "title": "[오늘의 국회] 2024년 3월13일",
-        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202403130927226680850"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 08:06:00 +0900",
-        "title": "[2024년 3월 13일 정치 주요일정] 이재명 민주당 상임공동선대위원장 제2차 중...",
-        "link": "https://www.mediapen.com/news/view/903888"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 07:04:00 +0900",
-        "title": "[오늘의 주요 일정] 의사 집단행동 중앙재난안전대책본부 회의",
-        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=212959"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 07:00:00 +0900",
-        "title": "[오늘의 국회일정](13일·수)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014559212?sid=100"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 07:00:00 +0900",
-        "title": "[오늘의 국회일정] 김진표 의장, 구글코리아 디지털책임위 발족식 참석(3.13)",
-        "link": "https://www.newspim.com/news/view/20240312001099"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 05:08:00 +0900",
-        "title": "【오늘의 국회일정】 2024년 3월 13일",
-        "link": "https://www.lawtimes.co.kr/news/196702"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 국회일정] (13일, 수)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007407052?sid=100"
-      },
-      {
-        "date": "Wed, 13 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정]국회(3월13일 수요일)",
-        "link": "https://n.news.naver.com/mnews/article/003/0012422737?sid=100"
-      },
-      {
-        "date": "Sun, 10 Mar 2024 05:00:00 +0900",
-        "title": "[오늘의 주요일정] 정치·정부(10일, 일)",
-        "link": "https://n.news.naver.com/mnews/article/421/0007400563?sid=165"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 16:34:00 +0900",
-        "title": "3.8 여성의날 기념 '성평등 총선 외치는 녹색정의당' [TF사진관]",
-        "link": "https://n.news.naver.com/mnews/article/629/0000272310?sid=165"
-      },
-      {
-        "date": "Fri, 08 Mar 2024 12:36:00 +0900",
-        "title": "[특별인터뷰] 기후정치인, 색깔 달라도 지혜를 모아",
-        "link": "http://www.newspenguin.com/news/articleView.html?idxno=16230"
-      },
-      {
-        "date": "Tue, 05 Mar 2024 18:06:00 +0900",
-        "title": "[폴리-한길리서치 총선 여론조사] 서울 마포구갑 민주당 이지은 43.7%, 국힘 ...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=637703"
-      },
-      {
-        "date": "Tue, 05 Mar 2024 11:12:00 +0900",
-        "title": "[포토] 현안 브리핑하는 김혜미 녹색정의당 대변인",
-        "link": "https://www.newdaily.co.kr/site/data/html/2024/03/05/2024030500147.html"
-      },
-      {
-        "date": "Sun, 03 Mar 2024 19:20:00 +0900",
-        "title": "발등에 불 떨어졌는데... 갈 길 먼 '기후 총선'",
-        "link": "https://n.news.naver.com/mnews/article/047/0002424213?sid=100"
-      },
-      {
-        "date": "Sat, 02 Mar 2024 14:22:00 +0900",
-        "title": "이보라미 전 전남도의원, 녹색정의 비례 3번",
-        "link": "http://www.kwangju.co.kr/article.php?aid=1709356802765134004"
-      }
-    ],
-    "정당": "녹색정의당",
-    "이름": "김혜미",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 23966
-      }
-    ],
-    "huboid": "100152354",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-5.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-5.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-3.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-7.jpg",
-    "id": "2111401-7",
-    "재산": 1670880,
-    "생년월일": "19821129",
-    "경력": "(전)서울서부지방법원 국선전담변호사\n(현)법률사무소 도화 대표변호사",
-    "학력": "서울대학교 법과대학 법학부 졸업",
-    "직업": "변호사",
-    "성별": "남",
-    "regionId": "2111401",
-    "기호": 7,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Thu, 04 Apr 2024 17:13:00 +0900",
-        "title": "[4·10 총선 Who] 마포갑 김기정 개혁신당 후보",
-        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519203&seq_800=20511984"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 15:24:00 +0900",
-        "title": "'꼴찌' 김기정의 당찬 도전…\"개혁 보수의 명맥 지키겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/277/0005398652?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 13:42:00 +0900",
-        "title": "[총선, 이사람] ‘격전지’ 마포갑 출사표 김기정 변호사 “바른 목소리 낼 보...",
-        "link": "https://n.news.naver.com/mnews/article/366/0000980511?sid=165"
-      },
-      {
-        "date": "Sun, 08 Jan 2017 19:49:00 +0900",
-        "title": "‘보수’ 떼고…새누리 탈당파 당명 ‘바른정당’",
-        "link": "https://n.news.naver.com/mnews/article/449/0000120624?sid=100"
-      },
-      {
-        "date": "Thu, 07 Jan 2016 08:35:00 +0900",
-        "title": "야권 몰락 시나리오는 ‘경보 단계’로 바뀌었다",
-        "link": "https://n.news.naver.com/mnews/article/028/0002302707?sid=100"
-      },
-      {
-        "date": "Tue, 25 Sep 2012 09:42:00 +0900",
-        "title": "문재인, 남북경제연합 위원장에 정동영 임명(종합)",
-        "link": "http://news1.kr/articles/828218"
-      },
-      {
-        "date": "Thu, 16 Feb 2012 17:48:00 +0900",
-        "title": "민주당 공천 신청자 명단",
-        "link": "https://n.news.naver.com/mnews/article/079/0002331803?sid=100"
-      },
-      {
-        "date": "Thu, 16 Feb 2012 16:50:00 +0900",
-        "title": "민주통합당, 지역구 공천 신청자 명단",
-        "link": "https://n.news.naver.com/mnews/article/022/0002363268?sid=102"
-      },
-      {
-        "date": "Thu, 16 Feb 2012 15:10:00 +0900",
-        "title": "[전국]민주통합당 4.11 총선 공천자①-서울",
-        "link": "http://polinews.co.kr/news/newsview.html?no=141922"
-      },
-      {
-        "date": "Mon, 13 Feb 2012 17:40:00 +0900",
-        "title": "민주통합당 지역별 공천 신청자 명단",
-        "link": "http://siminilbo.co.kr/main/list.html?bmain=view&num=291567"
-      },
-      {
-        "date": "Mon, 13 Feb 2012 16:57:00 +0900",
-        "title": "민주통합당 공천경쟁 2.9대 1",
-        "link": "http://www.mediaus.co.kr/news/articleView.html?idxno=23200"
-      },
-      {
-        "date": "Mon, 13 Feb 2012 16:29:00 +0900",
-        "title": "<민주 공천신청자 명단>-1(수도권)(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0005510354?sid=100"
-      },
-      {
-        "date": "Mon, 13 Feb 2012 00:40:00 +0900",
-        "title": "<고침> 정치(민주 공천신청자 명단-1)",
-        "link": "https://n.news.naver.com/mnews/article/001/0005508813?sid=100"
-      },
-      {
-        "date": "Sun, 12 Feb 2012 22:22:00 +0900",
-        "title": "민주 공천신청자 명단",
-        "link": "https://n.news.naver.com/mnews/article/022/0002361584?sid=100"
-      },
-      {
-        "date": "Sun, 12 Feb 2012 21:50:00 +0900",
-        "title": "<민주 공천신청자 명단>-1(서울ㆍ경기ㆍ인천)",
-        "link": "https://n.news.naver.com/mnews/article/001/0005508791?sid=100"
-      },
-      {
-        "date": "Sun, 12 Feb 2012 20:06:00 +0900",
-        "title": "민주 공천 신청, 영남서도 북적",
-        "link": "https://n.news.naver.com/mnews/article/028/0002129898?sid=100"
-      },
-      {
-        "date": "Sat, 21 Jan 2012 01:30:00 +0900",
-        "title": "[총선특집Ⅱ] 폴리뉴스 19대 총선 출마예상자 전수조사 ① 서울",
-        "link": "http://polinews.co.kr/news/newsview.html?no=140808"
-      },
-      {
-        "date": "Thu, 19 Jan 2012 17:57:00 +0900",
-        "title": "[표] 19대 국회의원 주요 출마 예상자(1월 19일 기준)",
-        "link": "https://n.news.naver.com/mnews/article/009/0002622082?sid=100"
-      },
-      {
-        "date": "Sun, 03 Jan 2010 17:45:00 +0900",
-        "title": "[인사]2010년 1월 4일",
-        "link": "https://n.news.naver.com/mnews/article/032/0002046134?sid=102"
-      },
-      {
-        "date": "Tue, 03 Mar 2009 15:30:00 +0900",
-        "title": "<인사>국회사무처 外",
-        "link": "https://n.news.naver.com/mnews/article/021/0001984150?sid=102"
-      }
-    ],
-    "정당": "개혁신당",
-    "이름": "김기정",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 1670880
-      }
-    ],
-    "huboid": "100153008",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-7.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-7.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-7.jpg"
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-2.jpg",
+        "id": "2111401-2",
+        "재산": 1434747,
+        "생년월일": "19721007",
+        "경력": "(전)세계은행 15년 재직\n(현)제21대 국회의원",
+        "학력": "하버드 대학교 케네디스쿨 행정대학원 국제개발행정학 석사 졸업(2000.9.~2002.6.)",
+        "직업": "제21대 국회의원",
+        "성별": "남",
+        "id_21th": "1173",
+        "regionId": "2111401",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 15:30:00 +0900",
+                "title": "[D-2현장] 서울 마포갑 국힘 조정훈, 중장년 밀착유세로 민주 이지은 추격",
+                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348425"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 19:30:00 +0900",
+                "title": "[포토] 조정훈 후보 경의선숲길서 유세",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3127179"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 09:28:00 +0900",
+                "title": "한동훈·함운경·조정훈 3인3색 연설은? [현장에서+영상]",
+                "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=160120"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 15:21:00 +0900",
+                "title": "조정훈, 이지은 '편법 휴직' 논란에 \"혈세로 개인스펙\"",
+                "link": "https://n.news.naver.com/mnews/article/015/0004969344?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 10:21:00 +0900",
+                "title": "[사전투표] 조정훈, 배우자 김경희씨와 도화동서…\"마포를 '앞으로' 나아가게...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817503?sid=165"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 09:20:00 +0900",
+                "title": "[22대 총선] 조정훈, 이지은 '편법 휴직' 논란에 \"도덕과 법치 무너뜨려...입...",
+                "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=503514"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 08:48:00 +0900",
+                "title": "조정훈, 이지은 '편법 휴직' 논란에 \"경찰 생명같은 법·질서 어겨\"",
+                "link": "https://n.news.naver.com/mnews/article/003/0012473368?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 14:55:00 +0900",
+                "title": "조정훈, '편법 휴직 논란' 이지은에 \"경찰 명예·사기 떨어뜨려…입장 밝혀야...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002817193?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:41:00 +0900",
+                "title": "격전지 대부분 민주당 우세·접전…'21대 총선 압승' 재연하나",
+                "link": "https://www.kpinews.kr/newsView/1065573569388307"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 11:39:00 +0900",
+                "title": "이변 나오나…수도권 '오차범위 내 접전' 지역 확산, 野 악재 영향",
+                "link": "https://n.news.naver.com/mnews/article/421/0007458155?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 10:32:00 +0900",
+                "title": "\"대통령 혼내야\" \"이재명 벌해야\"…마포갑 조정훈 대 이지은 '영입인사 맞대결...",
+                "link": "https://www.etoday.co.kr/news/view/2347378"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 09:25:00 +0900",
+                "title": "“50석이 왔다갔다”…지금 접전지 상황은 [4월4일 뉴스뷰리핑]",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683865?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 09:02:00 +0900",
+                "title": "지금, 서울 민심② “국민의힘이 마포래미안푸르지오 종부세 줄여줬잖아요”",
+                "link": "https://n.news.naver.com/mnews/article/262/0000017345?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 07:58:00 +0900",
+                "title": "[총선 지지율] 서울 마포갑·도봉갑·양천갑…이지은·조정훈, 안귀령·김재섭...",
+                "link": "http://www.topstarnews.net/news/articleView.html?idxno=15476491"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 07:13:00 +0900",
+                "title": "서울 마포갑…이지은 46% 조정훈 38%[케이스탯리서치]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012470309?sid=100"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 04:58:00 +0900",
+                "title": "2~3%p 차에 오락가락…여야, 50여곳서 오차범위 내 살얼음판 승부",
+                "link": "https://www.ajunews.com/view/20240403163144387"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 00:38:00 +0900",
+                "title": "[서울 마포갑] 더불어민주당 이지은 46%, 국민의힘 조정훈 38%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428893?sid=165"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 00:10:00 +0900",
+                "title": "사전투표 D-1…범야권 '200석 압승론' 속, 국민의힘 '개헌선 저지' 총력 [정국...",
+                "link": "https://n.news.naver.com/mnews/article/119/0002816877?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:53:00 +0900",
+                "title": "양천갑·도봉갑·마포갑 오차범위 내 민주 앞서…하남갑 13％p차",
+                "link": "https://n.news.naver.com/mnews/article/421/0007457151?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 21:10:00 +0900",
+                "title": "[TV조선·조선일보 여론조사] \"후보 결정 못했다\" 2030 가장 높아…'20대 남녀...",
+                "link": "https://n.news.naver.com/mnews/article/448/0000453988?sid=165"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "조정훈",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 1454242
+            },
+            {
+                "연도": 2021,
+                "재산": 1144379
+            },
+            {
+                "연도": 2022,
+                "재산": 1247979
+            },
+            {
+                "연도": 2023,
+                "재산": 1434747
+            }
+        ],
+        "huboid": "100152946",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-2.pdf",
+        "21th": {
+            "연락처": "의원회관 544호 | 전화 02-784-2181 | 팩스 02-6788-7300",
+            "당선횟수": 1,
+            "본회의_출석률": 83.23,
+            "소속위원회": "법제사법위원회\n예산결산특별위원회",
+            "id": "1173",
+            "주요경력": "미국 하버드대학교 케네디스쿨 행정대학원 국제개발행정학 석사(2000.9.~2002.6.)",
+            "본회의_출석률_등수": 267,
+            "재산등수": 259,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "법제사법위원회",
+                    "출석률": 80.9,
+                    "등수": 18,
+                    "총원": 18
+                },
+                {
+                    "위원회": "예산결산특별위원회",
+                    "출석률": 60,
+                    "등수": 50,
+                    "총원": 50
+                }
+            ],
+            "이름": "조정훈",
+            "정당": "국민의힘",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 10,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 7,
+                    "위원회": "법제사법위원회"
+                },
+                {
+                    "발의수": 6,
+                    "위원회": "산업통상자원중소벤처기업위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "환경노동위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "기획재정위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "보건복지위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": ""
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "농림축산식품해양수산위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "문화체육관광위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "국토교통위원회"
+                }
+            ],
+            "대표발의법안_등수": 251,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 1454242
+                },
+                {
+                    "연도": 2021,
+                    "재산": 1144379
+                },
+                {
+                    "연도": 2022,
+                    "재산": 1247979
+                }
+            ],
+            "대표발의법안": 39,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "불참"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "국가",
+                    "count": "227"
+                },
+                {
+                    "단어": "대한민국",
+                    "count": "180"
+                },
+                {
+                    "단어": "감사원",
+                    "count": "165"
+                },
+                {
+                    "단어": "수도",
+                    "count": "151"
+                },
+                {
+                    "단어": "슬라이드",
+                    "count": "146"
+                },
+                {
+                    "단어": "기관",
+                    "count": "120"
+                },
+                {
+                    "단어": "대기업",
+                    "count": "118"
+                },
+                {
+                    "단어": "피해자",
+                    "count": "110"
+                },
+                {
+                    "단어": "손실보상",
+                    "count": "107"
+                },
+                {
+                    "단어": "피해",
+                    "count": "99"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2023-12-28",
+                    "의안명": "예술인 복지법 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "문화체육관광위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-27",
+                    "의안명": "옥외광고물 등의 관리와 옥외광고산업 진흥에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "행정안전위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-26",
+                    "의안명": "남녀고용평등과 일·가정 양립 지원에 관한 법률 일부개정법률안(조정훈의원 등 12인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "환경노동위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-12-26",
+                    "의안명": "소득세법 일부개정법률안(조정훈의원 등 11인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "기획재정위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-08-09",
+                    "의안명": "형법 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "법제사법위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-15",
+                    "의안명": "국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-15",
+                    "의안명": "산업기술의 유출방지 및 보호에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-05-09",
+                    "의안명": "남녀고용평등과 일·가정 양립 지원에 관한 법률 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "환경노동위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-04-20",
+                    "의안명": "범죄피해자 보호법 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "법제사법위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-04-14",
+                    "의안명": "변리사법 일부개정법률안(조정훈의원 등 10인) ",
+                    "발의자": "조정훈",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                }
+            ],
+            "공약이행률": null,
+            "공약이행률등수": null,
+            "공약이행수등수": null
+        },
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-2-9.jpg"
+        ]
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-5.jpg",
+        "id": "2111401-5",
+        "재산": 23966,
+        "생년월일": "19940729",
+        "경력": "(전)녹색당 부대표\n(현)녹색정의당 공동대변인",
+        "학력": "중앙대학교 대학원 사회복지학과 석사 졸업",
+        "직업": "정당인",
+        "성별": "여",
+        "regionId": "2111401",
+        "기호": 5,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Mon, 08 Apr 2024 14:13:00 +0900",
+                "title": "[4·10 총선 Who] 마포갑 김혜미 녹색정의당 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519397&seq_800=20512167"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:54:00 +0900",
+                "title": "마포갑 김혜미후보 지원유세 하는 녹색 정의당 김준우 상임선대위원장",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2963883"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:34:00 +0900",
+                "title": "한표 호소하는 김혜미 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014617901?sid=100"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:34:00 +0900",
+                "title": "한표 호소하는 김혜미 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014617902?sid=100"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:33:00 +0900",
+                "title": "김준우 상임선대위원장, 김혜미 후보 지원 유세",
+                "link": "https://n.news.naver.com/mnews/article/001/0014617895?sid=100"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 13:33:00 +0900",
+                "title": "율동 하는 김혜미 후보",
+                "link": "https://n.news.naver.com/mnews/article/001/0014617894?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 07:00:00 +0900",
+                "title": "[오늘의 정치일정] 4월 3일(수)",
+                "link": "https://www.newspim.com/news/view/20240402001034"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정] 정치·정부(3일, 수)",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454417?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 05:00:00 +0900",
+                "title": "[오늘의 주요일정]정치(4월3일 수요일)",
+                "link": "https://n.news.naver.com/mnews/article/003/0012467545?sid=100"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 09:52:00 +0900",
+                "title": "[서울 마포갑 여론조사] 이지은 44.1%·조정훈 38.2% 지지율",
+                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2958840"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 00:22:00 +0900",
+                "title": "[서울 마포갑] 더불어민주당 이지은 44.1%, 국민의힘 조정훈 38.2%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428454?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:39:00 +0900",
+                "title": "녹색정의당 승부수 ‘성평등 정치’ 전면에",
+                "link": "https://n.news.naver.com/mnews/article/028/0002683480?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 18:31:00 +0900",
+                "title": "[폴리-한길리서치 총선 여론조사] 서울 마포갑 민주당 이지은 44.1%, 국힘 조...",
+                "link": "https://www.polinews.co.kr/news/articleView.html?idxno=641339"
+            },
+            {
+                "date": "Sun, 31 Mar 2024 16:35:00 +0900",
+                "title": "수도권 대표 ‘스윙 보터’ 마포갑, 재개발 민심 속 정권심판론 변수",
+                "link": "https://n.news.naver.com/mnews/article/032/0003287785?sid=100"
+            },
+            {
+                "date": "Sat, 30 Mar 2024 08:01:00 +0900",
+                "title": "'마포왕' 노웅래 빠진 마포갑, 누가 될까?",
+                "link": "https://n.news.naver.com/mnews/article/053/0000042538?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:54:00 +0900",
+                "title": "\"지구 지키기엔 여야 없어요\" 기후정치 팔걷은 '젊치인' 3인[지구용리포트]",
+                "link": "https://n.news.naver.com/mnews/article/011/0004320404?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:14:00 +0900",
+                "title": "군소정당 \"제3지대에도 눈길 달라\"",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792101"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:24:00 +0900",
+                "title": "'각자도생' 군소정당도 선거운동 개시…\"제3지대에 눈길 달라\"(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 16:02:00 +0900",
+                "title": "28세 최연소부터 MZ 맞대결까지…2030 후보 38명 총선 도전장",
+                "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=686747"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:24:00 +0900",
+                "title": "'꼴찌' 김기정의 당찬 도전…\"개혁 보수의 명맥 지키겠다\"",
+                "link": "https://n.news.naver.com/mnews/article/277/0005398652?sid=165"
+            }
+        ],
+        "정당": "녹색정의당",
+        "이름": "김혜미",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 23966
+            }
+        ],
+        "huboid": "100152354",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-5.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-5.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-5-3.jpg"
+        ]
+    },
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2111401-7.jpg",
+        "id": "2111401-7",
+        "재산": 1670880,
+        "생년월일": "19821129",
+        "경력": "(전)서울서부지방법원 국선전담변호사\n(현)법률사무소 도화 대표변호사",
+        "학력": "서울대학교 법과대학 법학부 졸업",
+        "직업": "변호사",
+        "성별": "남",
+        "regionId": "2111401",
+        "기호": 7,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Thu, 04 Apr 2024 17:13:00 +0900",
+                "title": "[4·10 총선 Who] 마포갑 김기정 개혁신당 후보",
+                "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519203&seq_800=20511984"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 15:24:00 +0900",
+                "title": "'꼴찌' 김기정의 당찬 도전…\"개혁 보수의 명맥 지키겠다\"",
+                "link": "https://n.news.naver.com/mnews/article/277/0005398652?sid=165"
+            },
+            {
+                "date": "Mon, 25 Mar 2024 13:42:00 +0900",
+                "title": "[총선, 이사람] ‘격전지’ 마포갑 출사표 김기정 변호사 “바른 목소리 낼 보...",
+                "link": "https://n.news.naver.com/mnews/article/366/0000980511?sid=165"
+            },
+            {
+                "date": "Wed, 17 May 2017 21:51:00 +0900",
+                "title": "태극기 애국신당 새누리당 책임당원들, 당 개혁의 선봉에 서다",
+                "link": "http://www.mediawatch.kr/news/article.html?no=252046"
+            },
+            {
+                "date": "Tue, 16 May 2017 03:37:00 +0900",
+                "title": "[문재인 시대 파워엘리트] 국민이 먼저다, 국민을 섬기다",
+                "link": "https://n.news.naver.com/mnews/article/081/0002821280?sid=100"
+            },
+            {
+                "date": "Sun, 08 Jan 2017 19:49:00 +0900",
+                "title": "‘보수’ 떼고…새누리 탈당파 당명 ‘바른정당’",
+                "link": "https://n.news.naver.com/mnews/article/449/0000120624?sid=100"
+            },
+            {
+                "date": "Thu, 07 Jan 2016 08:35:00 +0900",
+                "title": "야권 몰락 시나리오는 ‘경보 단계’로 바뀌었다",
+                "link": "https://n.news.naver.com/mnews/article/028/0002302707?sid=100"
+            },
+            {
+                "date": "Tue, 25 Sep 2012 09:42:00 +0900",
+                "title": "문재인, 남북경제연합 위원장에 정동영 임명(종합)",
+                "link": "http://news1.kr/articles/828218"
+            },
+            {
+                "date": "Thu, 16 Feb 2012 17:48:00 +0900",
+                "title": "민주당 공천 신청자 명단",
+                "link": "https://n.news.naver.com/mnews/article/079/0002331803?sid=100"
+            },
+            {
+                "date": "Thu, 16 Feb 2012 16:50:00 +0900",
+                "title": "민주통합당, 지역구 공천 신청자 명단",
+                "link": "https://n.news.naver.com/mnews/article/022/0002363268?sid=102"
+            },
+            {
+                "date": "Thu, 16 Feb 2012 15:10:00 +0900",
+                "title": "[전국]민주통합당 4.11 총선 공천자①-서울",
+                "link": "http://polinews.co.kr/news/newsview.html?no=141922"
+            },
+            {
+                "date": "Mon, 13 Feb 2012 17:40:00 +0900",
+                "title": "민주통합당 지역별 공천 신청자 명단",
+                "link": "http://siminilbo.co.kr/main/list.html?bmain=view&num=291567"
+            },
+            {
+                "date": "Mon, 13 Feb 2012 16:57:00 +0900",
+                "title": "민주통합당 공천경쟁 2.9대 1",
+                "link": "http://www.mediaus.co.kr/news/articleView.html?idxno=23200"
+            },
+            {
+                "date": "Mon, 13 Feb 2012 16:29:00 +0900",
+                "title": "<민주 공천신청자 명단>-1(수도권)(종합)",
+                "link": "https://n.news.naver.com/mnews/article/001/0005510354?sid=100"
+            },
+            {
+                "date": "Mon, 13 Feb 2012 00:40:00 +0900",
+                "title": "<고침> 정치(민주 공천신청자 명단-1)",
+                "link": "https://n.news.naver.com/mnews/article/001/0005508813?sid=100"
+            },
+            {
+                "date": "Sun, 12 Feb 2012 22:22:00 +0900",
+                "title": "민주 공천신청자 명단",
+                "link": "https://n.news.naver.com/mnews/article/022/0002361584?sid=100"
+            },
+            {
+                "date": "Sun, 12 Feb 2012 21:50:00 +0900",
+                "title": "<민주 공천신청자 명단>-1(서울ㆍ경기ㆍ인천)",
+                "link": "https://n.news.naver.com/mnews/article/001/0005508791?sid=100"
+            },
+            {
+                "date": "Sun, 12 Feb 2012 20:06:00 +0900",
+                "title": "민주 공천 신청, 영남서도 북적",
+                "link": "https://n.news.naver.com/mnews/article/028/0002129898?sid=100"
+            },
+            {
+                "date": "Sat, 21 Jan 2012 01:30:00 +0900",
+                "title": "[총선특집Ⅱ] 폴리뉴스 19대 총선 출마예상자 전수조사 ① 서울",
+                "link": "http://polinews.co.kr/news/newsview.html?no=140808"
+            },
+            {
+                "date": "Thu, 19 Jan 2012 17:57:00 +0900",
+                "title": "[표] 19대 국회의원 주요 출마 예상자(1월 19일 기준)",
+                "link": "https://n.news.naver.com/mnews/article/009/0002622082?sid=100"
+            }
+        ],
+        "정당": "개혁신당",
+        "이름": "김기정",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 1670880
+            }
+        ],
+        "huboid": "100153008",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2111401-7.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2111401-7.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2111401-7-7.jpg"
+        ]
+    }
 ]

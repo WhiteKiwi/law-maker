@@ -1,730 +1,730 @@
 [
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-1.jpg",
-    "id": "2300501-1",
-    "재산": 344619,
-    "생년월일": "19641104",
-    "경력": "(전)민선 7기 대덕구청장\n(현)더불어민주당 최고위원",
-    "학력": "충남대학교 법학과 졸업",
-    "직업": "정당인",
-    "성별": "여",
-    "regionId": "2300501",
-    "기호": 1,
-    "군필여부": false,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 12:03:00 +0900",
-        "title": "충청권 여성 후보 단 3명…김수민·황정아·박정현",
-        "link": "https://n.news.naver.com/mnews/article/081/0003442518?sid=100"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 20:02:00 +0900",
-        "title": "대전 대덕구 박정현, 사전투표 완료…\"투표해야 바뀝니다\"",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=360564"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:46:00 +0900",
-        "title": "[포토] 박정현 대덕구 후보 \"투표해야 바뀝니다\"",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071036"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:05:00 +0900",
-        "title": "사전투표하는 박정현 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012475495?sid=102"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:12:00 +0900",
-        "title": "\"살림은 제가\"…박정현 대전 대덕구 후보 딸 유세 '뭉클'",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307577"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 20:26:00 +0900",
-        "title": "민주 박정현 최고 \"한동훈 말 어떻게 믿나\"…헛공약으로 전락 예상",
-        "link": "https://n.news.naver.com/mnews/article/421/0007457073?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 20:24:00 +0900",
-        "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
-        "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:21:00 +0900",
-        "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 12:20:00 +0900",
-        "title": "[대전 대덕] 더불어민주당 박정현 47%, 국민의힘 박경호 31%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428730?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 19:34:00 +0900",
-        "title": "[총선 브리핑] 민주 박정현 대덕구 후보 \"4·3항쟁 꼭 기억해야\"",
-        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193757"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:50:00 +0900",
-        "title": "[총선 D-8] 더불어민주당 박정현 대전 대덕구 후보 \"4・3항쟁 아픔 잊지 않고...",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026431"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 16:24:00 +0900",
-        "title": "박정현 \"4.3항쟁 아픔 잊지 않고 기억해야\"",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764580"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:26:00 +0900",
-        "title": "박정현 대전 대덕구 국회의원 후보 \"4.3항쟁 아픔 잊지 않고 기억해야\"",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=359192"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:15:00 +0900",
-        "title": "대전 대덕, 민주 박정현 41.9% vs 국힘 박경호 28.8% [여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331107?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:02:00 +0900",
-        "title": "\"정권에 의한 폭력 되풀이 막겠다\" 박정현 후보 '4⋅3항쟁 추념 메시지'",
-        "link": "http://www.kukinews.com/newsView/kuk202404020162"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 13:46:00 +0900",
-        "title": "대전 대덕구 박정현, 법동서 집중유세 펼쳐",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=359144"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "대덕구 박정현 41.9% vs 박경호 28.8% vs 박영순 5.2%",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792456"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 18:10:00 +0900",
-        "title": "박정현, 허태정 전 시장과 집중 유세",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022617"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:56:00 +0900",
-        "title": "박정현 대덕구 후보, 법동서 집중 유세 펼쳐",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764391"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:48:00 +0900",
-        "title": "[포토] 박정현 후보, 대덕구 법동서 허태정 위원장과 집중유세 펼쳐",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1069002"
-      }
-    ],
-    "정당": "더불어민주당",
-    "이름": "박정현",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 344619
-      }
-    ],
-    "huboid": "100152462",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-1.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-1.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 0,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-2.jpg",
-    "id": "2300501-2",
-    "재산": 4415300,
-    "생년월일": "19630910",
-    "경력": "(전)국민의힘 대전 대덕구 당협위원장\n(전)국민권익위원회 부패방지 부위원장(차관급)",
-    "학력": "연세대학교 대학원 법학과 석사과정 졸업",
-    "직업": "변호사",
-    "성별": "남",
-    "regionId": "2300501",
-    "기호": 2,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Sun, 07 Apr 2024 13:50:00 +0900",
-        "title": "[대전] 박경호 \"대덕구 결집 완료, 승리가 바로 눈앞에\"",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3127053"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:30:00 +0900",
-        "title": "[선택4·10] 박경호 \"대덕구 결집 완료, 승리 눈앞에\"",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1070879"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:06:00 +0900",
-        "title": "대전 대덕구 박경호 \"결집 완료…승리가 바로 눈앞에\"",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=360453"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 20:24:00 +0900",
-        "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
-        "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:21:00 +0900",
-        "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 17:08:00 +0900",
-        "title": "한동훈, 국힘 박경호 대전 대덕구 국회의원 후보 지원",
-        "link": "http://www.kukinews.com/newsView/kuk202404030065"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 12:20:00 +0900",
-        "title": "[대전 대덕] 더불어민주당 박정현 47%, 국민의힘 박경호 31%",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428730?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 10:16:00 +0900",
-        "title": "대전 찾은 한동훈, 대덕구 박경호 지원유세",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=359453"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 08:50:00 +0900",
-        "title": "한동훈 \"박경호와 맨 앞에 서서 싸우겠다\"",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330530"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 17:02:00 +0900",
-        "title": "[총선 D-8] 국민의힘 유승민 전 의원, 대전 대덕구서 박경호 후보 지지 유세",
-        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026472"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 14:15:00 +0900",
-        "title": "대전 대덕, 민주 박정현 41.9% vs 국힘 박경호 28.8% [여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002331107?sid=100"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 07:50:00 +0900",
-        "title": "유승민 전 의원, 대전 대덕구 박경호 후보 지원 유세",
-        "link": "http://www.breaknews.com/1024358"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:03:00 +0900",
-        "title": "李, 친문 임종석 끌어안았는데… ‘중도 확장력’ 유승민과 선긋는 韓",
-        "link": "https://n.news.naver.com/mnews/article/081/0003441323?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 21:15:00 +0900",
-        "title": "한동훈, '흔들리는 PK' 지원유세 \"부족함 반성, 박박 기겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/448/0000453662?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "대전 찾은 유승민, 이상민·윤소식·박경호 후보 지원 유세",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451500?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "대덕구 박정현 41.9% vs 박경호 28.8% vs 박영순 5.2%",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792456"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:21:00 +0900",
-        "title": "유승민 \"R&D예산 줄어 대전이 가장 큰 타격…정부·여당 반성할 것\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085267?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:08:00 +0900",
-        "title": "`직함없는 선대위원장` 종횡무진… 러브콜 쇄도 박지원·유승민, 왜?",
-        "link": "https://n.news.naver.com/mnews/article/029/0002864864?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:59:00 +0900",
-        "title": "유승민 \"R&D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:44:00 +0900",
-        "title": "유승민, 대전 지원…\"R&D 예산삭감 반성…매 얼마든 맞겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/001/0014603764?sid=100"
-      }
-    ],
-    "정당": "국민의힘",
-    "이름": "박경호",
-    "연도별_재산": [
-      {
-        "연도": 2023,
-        "재산": 4415300
-      }
-    ],
-    "huboid": "100151009",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-2.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-2.pdf",
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-9.jpg"
-    ]
-  },
-  {
-    "전과건수": 2,
-    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-6.jpg",
-    "id": "2300501-6",
-    "재산": 760195,
-    "생년월일": "19641207",
-    "경력": "(전)대전광역시 정무부시장\n(현)제21대 국회의원(대전 대덕구)",
-    "학력": "충남대학교 대학원 석사과정 수료(동양철학 전공)",
-    "직업": "국회의원",
-    "성별": "남",
-    "id_21th": "1088",
-    "regionId": "2300501",
-    "기호": 6,
-    "군필여부": true,
-    "news": [
-      {
-        "date": "Wed, 03 Apr 2024 20:24:00 +0900",
-        "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
-        "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 18:21:00 +0900",
-        "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 20:38:00 +0900",
-        "title": "대덕구 박정현 41.9% vs 박경호 28.8% vs 박영순 5.2%",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=792456"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:51:00 +0900",
-        "title": "박영순 후보 '선거운동원과 함께'",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451032?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:50:00 +0900",
-        "title": "지지 호소하는 박영순 새로운 미래 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451031?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:47:00 +0900",
-        "title": "박영순 후보 지지 호소",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451013?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:47:00 +0900",
-        "title": "지지 호소하는 박영순 새로운미래 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451014?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 16:46:00 +0900",
-        "title": "지지 호소하는 박영순 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007451011?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 11:58:00 +0900",
-        "title": "[대전 대덕] 민주당 박정현 41.9%, 국민의힘 박경호 28.8%, 새미래 박영순 5....",
-        "link": "https://n.news.naver.com/mnews/article/047/0002428322?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 09:27:00 +0900",
-        "title": "대전 대덕구 여론조사…박정현 41.9%, 박경호 28.8%, 박영순 5.2%",
-        "link": "https://n.news.naver.com/mnews/article/421/0007449064?sid=165"
-      },
-      {
-        "date": "Fri, 29 Mar 2024 09:02:00 +0900",
-        "title": "박영순 후보 ”중단없는 대덕 발전 위해 반드시 총선 승리하겠다“",
-        "link": "http://www.breaknews.com/1023863"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 19:12:00 +0900",
-        "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
-        "link": "https://n.news.naver.com/mnews/article/056/0011690727?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:46:00 +0900",
-        "title": "공식 선거운동 첫날, 대전 여야 민생현장·출정식 통해 ‘한표’ 호소",
-        "link": "https://n.news.naver.com/mnews/article/003/0012457728?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:40:00 +0900",
-        "title": "선거운동 첫날…민주 대규모 출정식, 국힘 세종서 출정식",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022135"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:24:00 +0900",
-        "title": "'각자도생' 군소정당도 선거운동 개시…\"제3지대에 눈길 달라\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:19:00 +0900",
-        "title": "조국, 부산 시작 대구·대전·서울 ‘역귀성’ 유세",
-        "link": "https://n.news.naver.com/mnews/article/022/0003919004?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:18:00 +0900",
-        "title": "'막 오른 총선' 공식 선거운동 개막… 충청권 여야 열전 돌입",
-        "link": "https://n.news.naver.com/mnews/article/656/0000084830?sid=100"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:10:00 +0900",
-        "title": "새로운미래, 대전서 출정식… “국민에 희망 주는 정치”",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240328010017181"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:10:00 +0900",
-        "title": "박영순 ”중단없는 대덕 발전 위해 반드시 총선 승리하겠다“",
-        "link": "https://www.wikitree.co.kr/articles/938836"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:48:00 +0900",
-        "title": "공식 선거운동 첫날 대전지역 여야 빗속 표심잡기 총력",
-        "link": "https://n.news.naver.com/mnews/article/421/0007443951?sid=165"
-      }
-    ],
-    "정당": "새로운미래",
-    "이름": "박영순",
-    "연도별_재산": [
-      {
-        "연도": 2020,
-        "재산": 473004
-      },
-      {
-        "연도": 2021,
-        "재산": 516548
-      },
-      {
-        "연도": 2022,
-        "재산": 635712
-      },
-      {
-        "연도": 2023,
-        "재산": 760195
-      }
-    ],
-    "huboid": "100152601",
-    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-6.jpg",
-    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-6.pdf",
-    "21th": {
-      "연락처": "의원회관 430호 | 전화 02-784-2066 | 팩스 02-6788-6495",
-      "당선횟수": 1,
-      "본회의_출석률": 92.81,
-      "소속위원회": "산업통상자원중소벤처기업위원회",
-      "id": "1088",
-      "주요경력": "충남대학교 대학원 석사과정 수료(동양철학전공)",
-      "본회의_출석률_등수": 149,
-      "재산등수": 180,
-      "상임위원회_출석률": [
-        {
-          "위원회": "산업통상자원중소벤처기업위원회",
-          "출석률": 92.75,
-          "등수": 12,
-          "총원": 30
-        }
-      ],
-      "이름": "박영순",
-      "정당": "새로운미래",
-      "위원회별_발의법안": [
-        {
-          "발의수": 18,
-          "위원회": "산업통상자원중소벤처기업위원회"
-        },
-        {
-          "발의수": 14,
-          "위원회": "국토교통위원회"
-        },
-        {
-          "발의수": 8,
-          "위원회": "과학기술정보방송통신위원회"
-        },
-        {
-          "발의수": 6,
-          "위원회": "행정안전위원회"
-        },
-        {
-          "발의수": 4,
-          "위원회": "정무위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "법제사법위원회"
-        },
-        {
-          "발의수": 3,
-          "위원회": "기획재정위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "국회운영위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "환경노동위원회"
-        },
-        {
-          "발의수": 2,
-          "위원회": "교육위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "여성가족위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "민생경제안정특별위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "외교통일위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "농림축산식품해양수산위원회"
-        },
-        {
-          "발의수": 1,
-          "위원회": "보건복지위원회"
-        }
-      ],
-      "대표발의법안_등수": 168,
-      "연도별_재산": [
-        {
-          "연도": 2020,
-          "재산": 473004
-        },
-        {
-          "연도": 2021,
-          "재산": 516548
-        },
-        {
-          "연도": 2022,
-          "재산": 635712
-        }
-      ],
-      "대표발의법안": 67,
-      "주요법안표결": [
-        {
-          "별칭": "전세사기피해자 지원 특별법",
-          "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2122268,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "임대차 보호법",
-          "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
-          "의안번호": 2102500,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "간호법",
-          "의안명": "간호법안(대안)",
-          "의안번호": 2120877,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "중대재해법",
-          "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
-          "의안번호": 2107249,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "이태원 참사 특별법",
-          "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
-          "의안번호": 2121515,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "노란봉투법",
-          "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
-          "의안번호": 2123038,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "학자금 무이자 대출",
-          "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
-          "의안번호": 2125809,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "양곡관리법",
-          "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
-          "의안번호": 2119727,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
-          "의안번호": 2119142,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "개망신법",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
-          "의안번호": 2126369,
-          "찬반여부": "찬성"
-        },
-        {
-          "별칭": "1기 신도시 특별법",
-          "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
-          "의안번호": 2125837,
-          "찬반여부": "불참"
-        },
-        {
-          "별칭": "신공항 특별법",
-          "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
-          "의안번호": 2120933,
-          "찬반여부": "불참"
-        }
-      ],
-      "워드클라우드": [
-        {
-          "단어": "대전",
-          "count": "86"
-        },
-        {
-          "단어": "소상공인",
-          "count": "78"
-        },
-        {
-          "단어": "국가",
-          "count": "77"
-        },
-        {
-          "단어": "실장",
-          "count": "75"
-        },
-        {
-          "단어": "산업부",
-          "count": "74"
-        },
-        {
-          "단어": "LH",
-          "count": "64"
-        },
-        {
-          "단어": "원전",
-          "count": "58"
-        },
-        {
-          "단어": "기관",
-          "count": "56"
-        },
-        {
-          "단어": "한전",
-          "count": "53"
-        },
-        {
-          "단어": "중소기업",
-          "count": "44"
-        }
-      ],
-      "대표법안목록": [
-        {
-          "제안일": "2023-07-13",
-          "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-07-13",
-          "의안명": "성매매알선 등 행위의 처벌에 관한 법률 일부개정법률안(박영순의원 등 11인) ",
-          "발의자": "박영순",
-          "상임위원회": "법제사법위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-20",
-          "의안명": "장애인기업활동 촉진법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-20",
-          "의안명": "여성기업지원에 관한 법률 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-20",
-          "의안명": "산업디자인진흥법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-06-16",
-          "의안명": "교통약자의 이동편의 증진법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "국토교통위원회",
-          "진행상황": "대안반영폐기"
-        },
-        {
-          "제안일": "2023-06-16",
-          "의안명": "생명공학육성법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": "수정가결"
-        },
-        {
-          "제안일": "2023-06-15",
-          "의안명": "해저광물자원 개발법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "산업통상자원중소벤처기업위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-15",
-          "의안명": "삼차원프린팅산업 진흥법 일부개정법률안(박영순의원 등 10인) ",
-          "발의자": "박영순",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": ""
-        },
-        {
-          "제안일": "2023-06-15",
-          "의안명": "방사선 및 방사성동위원소 이용진흥법 일부개정법률안(박영순의원 등 11인) ",
-          "발의자": "박영순",
-          "상임위원회": "과학기술정보방송통신위원회",
-          "진행상황": "수정가결"
-        }
-      ],
-      "공약이행률": {
-        "총공약수": 29,
-        "공약이행수": 5
-      },
-      "공약이행률등수": 201,
-      "공약이행수등수": 183
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-1.jpg",
+        "id": "2300501-1",
+        "재산": 344619,
+        "생년월일": "19641104",
+        "경력": "(전)민선 7기 대덕구청장\n(현)더불어민주당 최고위원",
+        "학력": "충남대학교 법학과 졸업",
+        "직업": "정당인",
+        "성별": "여",
+        "regionId": "2300501",
+        "기호": 1,
+        "군필여부": false,
+        "news": [
+            {
+                "date": "Sun, 07 Apr 2024 12:03:00 +0900",
+                "title": "충청권 여성 후보 단 3명…김수민·황정아·박정현",
+                "link": "https://n.news.naver.com/mnews/article/081/0003442518?sid=100"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 20:02:00 +0900",
+                "title": "대전 대덕구 박정현, 사전투표 완료…\"투표해야 바뀝니다\"",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=360564"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:46:00 +0900",
+                "title": "[포토] 박정현 대덕구 후보 \"투표해야 바뀝니다\"",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071036"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 17:05:00 +0900",
+                "title": "사전투표하는 박정현 후보",
+                "link": "https://n.news.naver.com/mnews/article/003/0012475495?sid=102"
+            },
+            {
+                "date": "Thu, 04 Apr 2024 17:12:00 +0900",
+                "title": "\"살림은 제가\"…박정현 대전 대덕구 후보 딸 유세 '뭉클'",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307577"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 20:26:00 +0900",
+                "title": "민주 박정현 최고 \"한동훈 말 어떻게 믿나\"…헛공약으로 전락 예상",
+                "link": "https://n.news.naver.com/mnews/article/421/0007457073?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 20:24:00 +0900",
+                "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:21:00 +0900",
+                "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 12:20:00 +0900",
+                "title": "[대전 대덕] 더불어민주당 박정현 47%, 국민의힘 박경호 31%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428730?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:50:00 +0900",
+                "title": "대전 대덕구 후보들 '지역 발전 공감대' 속 다른 접근법",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307483"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 09:33:00 +0900",
+                "title": "대전 중구 여론조사…박용갑 48%, 이은권 39%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454816?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 08:02:00 +0900",
+                "title": "[대전MBC 여론조사1] '오차 밖 격차'..지지층 결",
+                "link": "https://tjmbc.co.kr/article/iRUGSvP8UpeXd4x"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 21:02:00 +0900",
+                "title": "[대전MBC 여론조사1] '오차 밖 격차'..지지층 결",
+                "link": "https://tjmbc.co.kr/article/gg9Y_IOXwreSX"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 19:34:00 +0900",
+                "title": "[총선 브리핑] 민주 박정현 대덕구 후보 \"4·3항쟁 꼭 기억해야\"",
+                "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193757"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 18:10:00 +0900",
+                "title": "허태정 선대위원장, 장종태 후보 지원 유세",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022823"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:50:00 +0900",
+                "title": "[총선 D-8] 더불어민주당 박정현 대전 대덕구 후보 \"4・3항쟁 아픔 잊지 않고...",
+                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026431"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 16:24:00 +0900",
+                "title": "박정현 \"4.3항쟁 아픔 잊지 않고 기억해야\"",
+                "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=764580"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 15:12:00 +0900",
+                "title": "'민주당 탈당' 현역 의원들, 한 자릿수 지지율 '굴욕'",
+                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/02/2024040200210.html"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:54:00 +0900",
+                "title": "\"당에 있으니까 찍어줬지\" 맥 못추는 탈당 현역 의원들",
+                "link": "http://www.metroseoul.co.kr/article/20240402500464"
+            },
+            {
+                "date": "Tue, 02 Apr 2024 14:26:00 +0900",
+                "title": "박정현 대전 대덕구 국회의원 후보 \"4.3항쟁 아픔 잊지 않고 기억해야\"",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359192"
+            }
+        ],
+        "정당": "더불어민주당",
+        "이름": "박정현",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 344619
+            }
+        ],
+        "huboid": "100152462",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-1.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-1.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-1-9.jpg"
+        ]
     },
-    "공보ImgUrls": [
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-0.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-1.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-10.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-11.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-2.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-3.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-4.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-5.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-6.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-7.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-8.jpg",
-      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-9.jpg"
-    ]
-  }
+    {
+        "전과건수": 0,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-2.jpg",
+        "id": "2300501-2",
+        "재산": 4415300,
+        "생년월일": "19630910",
+        "경력": "(전)국민의힘 대전 대덕구 당협위원장\n(전)국민권익위원회 부패방지 부위원장(차관급)",
+        "학력": "연세대학교 대학원 법학과 석사과정 졸업",
+        "직업": "변호사",
+        "성별": "남",
+        "regionId": "2300501",
+        "기호": 2,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Tue, 09 Apr 2024 14:22:00 +0900",
+                "title": "대전 대덕구 박경호 \"이번 총선, 국가 흥망의 기로…민주당 심판해야\"",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=361330"
+            },
+            {
+                "date": "Mon, 08 Apr 2024 12:40:00 +0900",
+                "title": "대덕구 박경호 후보 딸 민지양, \"아버지 힘내세요\" 지지호소",
+                "link": "http://www.gocj.net/news/articleView.html?idxno=133481"
+            },
+            {
+                "date": "Sun, 07 Apr 2024 13:50:00 +0900",
+                "title": "[대전] 박경호 \"대덕구 결집 완료, 승리가 바로 눈앞에\"",
+                "link": "https://www.newscj.com/news/articleView.html?idxno=3127053"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:30:00 +0900",
+                "title": "[선택4·10] 박경호 \"대덕구 결집 완료, 승리 눈앞에\"",
+                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1070879"
+            },
+            {
+                "date": "Fri, 05 Apr 2024 14:06:00 +0900",
+                "title": "대전 대덕구 박경호 \"결집 완료…승리가 바로 눈앞에\"",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=360453"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 20:24:00 +0900",
+                "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:21:00 +0900",
+                "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 17:08:00 +0900",
+                "title": "한동훈, 국힘 박경호 대전 대덕구 국회의원 후보 지원",
+                "link": "http://www.kukinews.com/newsView/kuk202404030065"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 16:24:00 +0900",
+                "title": "'교육은 뒷전?' 대전 與野 후보 교육공약 천차만별",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769562"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 15:42:00 +0900",
+                "title": "국민의힘, 대덕구 '어부지리' 예측 빗나가나",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330633"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 15:34:00 +0900",
+                "title": "\"사전투표로 윤석열 정권 폭주에 제동 걸어 달라\"",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428787?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 15:08:00 +0900",
+                "title": "[관점] 총선 그 후, 대전 정치권 판도 변화는?",
+                "link": "http://www.dtnews24.com/news/articleView.html?idxno=769579"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 12:20:00 +0900",
+                "title": "[대전 대덕] 더불어민주당 박정현 47%, 국민의힘 박경호 31%",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428730?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 12:16:00 +0900",
+                "title": "'네번째 맞대결' 대전 중구 민주 박용갑 48%-국힘 이은권 39%[코리아리서치]",
+                "link": "https://n.news.naver.com/mnews/article/003/0012468623?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:50:00 +0900",
+                "title": "대전 대덕구 후보들 '지역 발전 공감대' 속 다른 접근법",
+                "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307483"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 10:16:00 +0900",
+                "title": "대전 찾은 한동훈, 대덕구 박경호 지원유세",
+                "link": "http://www.newstnt.com/news/articleView.html?idxno=359453"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 09:33:00 +0900",
+                "title": "대전 중구 여론조사…박용갑 48%, 이은권 39%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007454816?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 08:50:00 +0900",
+                "title": "한동훈 \"박경호와 맨 앞에 서서 싸우겠다\"",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330530"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 08:02:00 +0900",
+                "title": "[대전MBC 여론조사1] '오차 밖 격차'..지지층 결",
+                "link": "https://tjmbc.co.kr/article/iRUGSvP8UpeXd4x"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 00:04:00 +0900",
+                "title": "한동훈, 대전서 '이조심판론 호소' 통할까",
+                "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330524"
+            }
+        ],
+        "정당": "국민의힘",
+        "이름": "박경호",
+        "연도별_재산": [
+            {
+                "연도": 2023,
+                "재산": 4415300
+            }
+        ],
+        "huboid": "100151009",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-2.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-2.pdf",
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-2-9.jpg"
+        ]
+    },
+    {
+        "전과건수": 2,
+        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2300501-6.jpg",
+        "id": "2300501-6",
+        "재산": 760195,
+        "생년월일": "19641207",
+        "경력": "(전)대전광역시 정무부시장\n(현)제21대 국회의원(대전 대덕구)",
+        "학력": "충남대학교 대학원 석사과정 수료(동양철학 전공)",
+        "직업": "국회의원",
+        "성별": "남",
+        "id_21th": "1088",
+        "regionId": "2300501",
+        "기호": 6,
+        "군필여부": true,
+        "news": [
+            {
+                "date": "Wed, 03 Apr 2024 20:24:00 +0900",
+                "title": "대전 대덕구 박정현·박경호·박영순, 방탄·갈라치기·찐윤 언급하며 '격돌'",
+                "link": "https://n.news.naver.com/mnews/article/003/0012470081?sid=165"
+            },
+            {
+                "date": "Wed, 03 Apr 2024 18:21:00 +0900",
+                "title": "대전 대덕 박정현·박경호·박영순, 공약 이행 방안 파고들어",
+                "link": "https://n.news.naver.com/mnews/article/656/0000085578?sid=100"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 20:38:00 +0900",
+                "title": "대덕구 박정현 41.9% vs 박경호 28.8% vs 박영순 5.2%",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792456"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:51:00 +0900",
+                "title": "박영순 후보 '선거운동원과 함께'",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451032?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:50:00 +0900",
+                "title": "지지 호소하는 박영순 새로운 미래 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451031?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:47:00 +0900",
+                "title": "박영순 후보 지지 호소",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451013?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:47:00 +0900",
+                "title": "지지 호소하는 박영순 새로운미래 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451014?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 16:46:00 +0900",
+                "title": "지지 호소하는 박영순 후보",
+                "link": "https://n.news.naver.com/mnews/article/421/0007451011?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 11:58:00 +0900",
+                "title": "[대전 대덕] 민주당 박정현 41.9%, 국민의힘 박경호 28.8%, 새미래 박영순 5....",
+                "link": "https://n.news.naver.com/mnews/article/047/0002428322?sid=165"
+            },
+            {
+                "date": "Mon, 01 Apr 2024 09:27:00 +0900",
+                "title": "대전 대덕구 여론조사…박정현 41.9%, 박경호 28.8%, 박영순 5.2%",
+                "link": "https://n.news.naver.com/mnews/article/421/0007449064?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 12:02:00 +0900",
+                "title": "새미래 \"민주·조국당과 다르다\"…'도덕성' 차별화 성공할까",
+                "link": "https://n.news.naver.com/mnews/article/421/0007445056?sid=165"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 09:02:00 +0900",
+                "title": "박영순 후보 ”중단없는 대덕 발전 위해 반드시 총선 승리하겠다“",
+                "link": "http://www.breaknews.com/1023863"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:30:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011691218?sid=100"
+            },
+            {
+                "date": "Fri, 29 Mar 2024 08:06:00 +0900",
+                "title": "[리포트]공식 선거운동 첫날 각 당 총력전",
+                "link": "https://tjmbc.co.kr/article/EI5fffMwJ59"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 21:35:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690922?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:52:00 +0900",
+                "title": "[리포트]공식 선거운동 첫날 각 당 총력전",
+                "link": "https://tjmbc.co.kr/article/vVj2Gksanw6odNE"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 20:14:00 +0900",
+                "title": "군소정당 \"제3지대에도 눈길 달라\"",
+                "link": "http://www.cctimes.kr/news/articleView.html?idxno=792101"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 19:12:00 +0900",
+                "title": "[총선] 공식 선거운동 시작…여야 13일간 열전 돌입",
+                "link": "https://n.news.naver.com/mnews/article/056/0011690727?sid=100"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:46:00 +0900",
+                "title": "공식 선거운동 첫날, 대전 여야 민생현장·출정식 통해 ‘한표’ 호소",
+                "link": "https://n.news.naver.com/mnews/article/003/0012457728?sid=165"
+            },
+            {
+                "date": "Thu, 28 Mar 2024 18:40:00 +0900",
+                "title": "선거운동 첫날…민주 대규모 출정식, 국힘 세종서 출정식",
+                "link": "https://www.ggilbo.com/news/articleView.html?idxno=1022135"
+            }
+        ],
+        "정당": "새로운미래",
+        "이름": "박영순",
+        "연도별_재산": [
+            {
+                "연도": 2020,
+                "재산": 473004
+            },
+            {
+                "연도": 2021,
+                "재산": 516548
+            },
+            {
+                "연도": 2022,
+                "재산": 635712
+            },
+            {
+                "연도": 2023,
+                "재산": 760195
+            }
+        ],
+        "huboid": "100152601",
+        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2300501-6.jpg",
+        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2300501-6.pdf",
+        "21th": {
+            "연락처": "의원회관 430호 | 전화 02-784-2066 | 팩스 02-6788-6495",
+            "당선횟수": 1,
+            "본회의_출석률": 92.81,
+            "소속위원회": "산업통상자원중소벤처기업위원회",
+            "id": "1088",
+            "주요경력": "충남대학교 대학원 석사과정 수료(동양철학전공)",
+            "본회의_출석률_등수": 149,
+            "재산등수": 180,
+            "상임위원회_출석률": [
+                {
+                    "위원회": "산업통상자원중소벤처기업위원회",
+                    "출석률": 92.75,
+                    "등수": 12,
+                    "총원": 30
+                }
+            ],
+            "이름": "박영순",
+            "정당": "새로운미래",
+            "위원회별_발의법안": [
+                {
+                    "발의수": 18,
+                    "위원회": "산업통상자원중소벤처기업위원회"
+                },
+                {
+                    "발의수": 14,
+                    "위원회": "국토교통위원회"
+                },
+                {
+                    "발의수": 8,
+                    "위원회": "과학기술정보방송통신위원회"
+                },
+                {
+                    "발의수": 6,
+                    "위원회": "행정안전위원회"
+                },
+                {
+                    "발의수": 4,
+                    "위원회": "정무위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "법제사법위원회"
+                },
+                {
+                    "발의수": 3,
+                    "위원회": "기획재정위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "국회운영위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "환경노동위원회"
+                },
+                {
+                    "발의수": 2,
+                    "위원회": "교육위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "여성가족위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "민생경제안정특별위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "외교통일위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "농림축산식품해양수산위원회"
+                },
+                {
+                    "발의수": 1,
+                    "위원회": "보건복지위원회"
+                }
+            ],
+            "대표발의법안_등수": 168,
+            "연도별_재산": [
+                {
+                    "연도": 2020,
+                    "재산": 473004
+                },
+                {
+                    "연도": 2021,
+                    "재산": 516548
+                },
+                {
+                    "연도": 2022,
+                    "재산": 635712
+                }
+            ],
+            "대표발의법안": 67,
+            "주요법안표결": [
+                {
+                    "별칭": "전세사기피해자 지원 특별법",
+                    "의안명": "전세사기피해자 지원 및 주거안정에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2122268,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "임대차 보호법",
+                    "의안명": "주택임대차보호법 일부개정법률안(대안)(법제사법위원장)",
+                    "의안번호": 2102500,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "간호법",
+                    "의안명": "간호법안(대안)",
+                    "의안번호": 2120877,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "중대재해법",
+                    "의안명": "중대재해 처벌 등에 관한 법률안(대안)(법제사법위원장)",
+                    "의안번호": 2107249,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "이태원 참사 특별법",
+                    "의안명": "10·29이태원참사 피해자 권리보장과 진상규명 및 재발방지를 위한 특별법안",
+                    "의안번호": 2121515,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "노란봉투법",
+                    "의안명": "노동조합 및 노동관계조정법 일부개정법률안(대안)(환경노동위원장)",
+                    "의안번호": 2123038,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "학자금 무이자 대출",
+                    "의안명": "취업 후 학자금 상환 특별법 일부개정법률안(교육위원장)",
+                    "의안번호": 2125809,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "양곡관리법",
+                    "의안명": "양곡관리법 일부개정법률안(대안)(김성환의원 외 30인)",
+                    "의안번호": 2119727,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "신용정보의 이용 및 보호에 관한 법률 일부개정법률안",
+                    "의안번호": 2119142,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "개망신법",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)(과학기술정보방송통신위원장)",
+                    "의안번호": 2126369,
+                    "찬반여부": "찬성"
+                },
+                {
+                    "별칭": "1기 신도시 특별법",
+                    "의안명": "노후계획도시 정비 및 지원에 관한 특별법안(대안)(국토교통위원장)",
+                    "의안번호": 2125837,
+                    "찬반여부": "불참"
+                },
+                {
+                    "별칭": "신공항 특별법",
+                    "의안명": "가덕도신공항 건설을 위한 특별법 일부개정법률안(대안)(국토교통위원장)",
+                    "의안번호": 2120933,
+                    "찬반여부": "불참"
+                }
+            ],
+            "워드클라우드": [
+                {
+                    "단어": "대전",
+                    "count": "86"
+                },
+                {
+                    "단어": "소상공인",
+                    "count": "78"
+                },
+                {
+                    "단어": "국가",
+                    "count": "77"
+                },
+                {
+                    "단어": "실장",
+                    "count": "75"
+                },
+                {
+                    "단어": "산업부",
+                    "count": "74"
+                },
+                {
+                    "단어": "LH",
+                    "count": "64"
+                },
+                {
+                    "단어": "원전",
+                    "count": "58"
+                },
+                {
+                    "단어": "기관",
+                    "count": "56"
+                },
+                {
+                    "단어": "한전",
+                    "count": "53"
+                },
+                {
+                    "단어": "중소기업",
+                    "count": "44"
+                }
+            ],
+            "대표법안목록": [
+                {
+                    "제안일": "2023-07-13",
+                    "의안명": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-07-13",
+                    "의안명": "성매매알선 등 행위의 처벌에 관한 법률 일부개정법률안(박영순의원 등 11인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "법제사법위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-20",
+                    "의안명": "장애인기업활동 촉진법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-20",
+                    "의안명": "여성기업지원에 관한 법률 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-20",
+                    "의안명": "산업디자인진흥법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-06-16",
+                    "의안명": "교통약자의 이동편의 증진법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "국토교통위원회",
+                    "진행상황": "대안반영폐기"
+                },
+                {
+                    "제안일": "2023-06-16",
+                    "의안명": "생명공학육성법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": "수정가결"
+                },
+                {
+                    "제안일": "2023-06-15",
+                    "의안명": "해저광물자원 개발법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "산업통상자원중소벤처기업위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-15",
+                    "의안명": "삼차원프린팅산업 진흥법 일부개정법률안(박영순의원 등 10인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": ""
+                },
+                {
+                    "제안일": "2023-06-15",
+                    "의안명": "방사선 및 방사성동위원소 이용진흥법 일부개정법률안(박영순의원 등 11인) ",
+                    "발의자": "박영순",
+                    "상임위원회": "과학기술정보방송통신위원회",
+                    "진행상황": "수정가결"
+                }
+            ],
+            "공약이행률": {
+                "총공약수": 29,
+                "공약이행수": 5
+            },
+            "공약이행률등수": 201,
+            "공약이행수등수": 183
+        },
+        "공보ImgUrls": [
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-0.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-1.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-10.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-11.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-2.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-3.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-4.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-5.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-6.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-7.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-8.jpg",
+            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2300501-6-9.jpg"
+        ]
+    }
 ]
