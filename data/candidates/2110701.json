@@ -15,8 +15,18 @@
     "군필여부": false,
     "news": [
       {
+        "date": "Mon, 08 Apr 2024 14:25:00 +0900",
+        "title": "[4·10 총선 Who] 중랑갑 서영교 더불어민주당 후보",
+        "link": "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3519400&seq_800=20512170"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 12:00:00 +0900",
+        "title": "서영교 후보 \"임신부터 수당지급, 아동수당은 18세까지 월 50만 원씩\"",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=116369"
+      },
+      {
         "date": "Fri, 05 Apr 2024 17:31:00 +0900",
-        "title": "[4·10 총선 격전지] 중랑갑 '중진' 서영교 VS '새로움' 김삼화",
+        "title": "[4·10 총선 격전지] 중랑갑 ‘공약 이행 1등’ 서영교 VS ‘새로움’ 김삼화",
         "link": "https://n.news.naver.com/mnews/article/310/0000115635?sid=100"
       },
       {
@@ -95,24 +105,14 @@
         "link": "https://n.news.naver.com/mnews/article/003/0012466933?sid=165"
       },
       {
-        "date": "Mon, 01 Apr 2024 12:20:00 +0900",
-        "title": "서영교 더불어민주당 중랑구갑 후보, 첫 집중 유세",
-        "link": "http://www.breaknews.com/1024196"
+        "date": "Tue, 02 Apr 2024 16:28:00 +0900",
+        "title": "한동훈 \"조국혁신당, 출근 안 하고 월급 타먹던 검사만 데려가\"",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085384?sid=100"
       },
       {
-        "date": "Sun, 31 Mar 2024 09:52:00 +0900",
-        "title": "'총선 D-10' 집단속 나선 이재명, '인천 계양을' 지역구 표심 공략",
-        "link": "https://n.news.naver.com/mnews/article/008/0005019333?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 09:27:00 +0900",
-        "title": "'계양을'표밭다지는 이재명, 부활절 예배·미사 '참석'",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070241?sid=100"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 09:02:00 +0900",
-        "title": "선거운동 나흘차 여야 선거전 총력… 이재명 '안방' 표밭다지기-한동훈 수도권...",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3124335"
+        "date": "Tue, 02 Apr 2024 09:14:00 +0900",
+        "title": "여의도 능가하는 총선 열기, 친여.친야 유튜브판 대전, 구독자&조회수 승자는...",
+        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486171"
       }
     ],
     "정당": "더불어민주당",
@@ -471,7 +471,7 @@
     "news": [
       {
         "date": "Fri, 05 Apr 2024 17:31:00 +0900",
-        "title": "[4·10 총선 격전지] 중랑갑 '중진' 서영교 VS '새로움' 김삼화",
+        "title": "[4·10 총선 격전지] 중랑갑 ‘공약 이행 1등’ 서영교 VS ‘새로움’ 김삼화",
         "link": "https://n.news.naver.com/mnews/article/310/0000115635?sid=100"
       },
       {
@@ -531,6 +531,16 @@
       },
       {
         "date": "Thu, 04 Apr 2024 11:14:00 +0900",
+        "title": "한동훈 '조용한 유세'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457996?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:14:00 +0900",
+        "title": "한동훈 위원장 '학생 듣기평가…조용히 유세'",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457998?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 11:14:00 +0900",
         "title": "한동훈 위원장 '학생 듣기평가…조용히 유세'",
         "link": "https://n.news.naver.com/mnews/article/421/0007458000?sid=165"
       },
@@ -541,13 +551,13 @@
       },
       {
         "date": "Thu, 04 Apr 2024 11:13:00 +0900",
-        "title": "이승환 후보 포옹하는 한동훈 위원장",
-        "link": "https://n.news.naver.com/mnews/article/421/0007457993?sid=165"
+        "title": "중랑구 찾은 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457994?sid=165"
       },
       {
         "date": "Thu, 04 Apr 2024 11:13:00 +0900",
-        "title": "중랑구 찾은 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007457994?sid=165"
+        "title": "이승환 후보 포옹하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/421/0007457993?sid=165"
       },
       {
         "date": "Thu, 04 Apr 2024 11:13:00 +0900",
@@ -558,16 +568,6 @@
         "date": "Tue, 02 Apr 2024 21:22:00 +0900",
         "title": "[격전지를 가다] 서영교·김삼화 4년 만의 리턴매치 '서울 중랑갑'",
         "link": "https://n.news.naver.com/mnews/article/448/0000453840?sid=165"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 05:40:00 +0900",
-        "title": "'반윤본색' 유승민 \"왜 어려운지 다 알 것\"…'중도 확장' 열쇠될까?",
-        "link": "https://n.news.naver.com/mnews/article/008/0005020102?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 19:59:00 +0900",
-        "title": "유승민 \"R&D 예산삭감 반성…尹정부·국힘 잘못한 것 매 얼마든 맞겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/016/0002288994?sid=100"
       }
     ],
     "정당": "국민의힘",

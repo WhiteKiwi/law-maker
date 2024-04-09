@@ -14,6 +14,16 @@
     "군필여부": false,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 13:22:00 +0900",
+        "title": "[4·10 총선현장] 인천 부평을 박선원vs이현웅vs김응호vs홍영표",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244022"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 16:06:00 +0900",
+        "title": "[4·10 총선=인천 지역구별 후보 주요 공약] 부평구을 박선원vs이현웅",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243817"
+      },
+      {
         "date": "Sat, 06 Apr 2024 17:20:00 +0900",
         "title": "박선원 \"부평 사람이 부천·청라 가서 돈 쓸 일 없게\"…복합쇼핑몰 공약 재확...",
         "link": "https://n.news.naver.com/mnews/article/119/0002817902?sid=165"
@@ -102,16 +112,6 @@
         "date": "Wed, 03 Apr 2024 17:14:00 +0900",
         "title": "[부평을] 민주당 박선원 \"윤석열 정권 외교·안보 무능 서해평화 위협\"",
         "link": "http://www.incheontoday.com/news/articleView.html?idxno=244446"
-      },
-      {
-        "date": "Tue, 02 Apr 2024 20:14:00 +0900",
-        "title": "[현장] '박선원 박지원' '이현웅 유승민' '홍영표 오영환'…부평을 '유명 정치...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816386?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 17:40:00 +0900",
-        "title": "'인천 호남' 부평을 민심은? 박선원 45.4%, 이현웅 35.2%, 홍영표 11.8%",
-        "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
       }
     ],
     "정당": "더불어민주당",
@@ -154,6 +154,26 @@
     "기호": 2,
     "군필여부": true,
     "news": [
+      {
+        "date": "Tue, 09 Apr 2024 16:08:00 +0900",
+        "title": "이현웅 후보 \"진짜 부평사람 선택해달라\"",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=100799"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 13:22:00 +0900",
+        "title": "[4·10 총선현장] 인천 부평을 박선원vs이현웅vs김응호vs홍영표",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244022"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 16:06:00 +0900",
+        "title": "[4·10 총선=인천 지역구별 후보 주요 공약] 부평구을 박선원vs이현웅",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243817"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 06:02:00 +0900",
+        "title": "與 부평을 후보 이현웅 \"후보는 저를, 비례는 소신껏\"",
+        "link": "https://n.news.naver.com/mnews/article/079/0003882834?sid=165"
+      },
       {
         "date": "Sun, 07 Apr 2024 06:40:00 +0900",
         "title": "[현장] 유승민, '부평을' 재등판…\"제대로 일할 사람 이현웅 뿐\"",
@@ -205,6 +225,26 @@
         "link": "https://n.news.naver.com/mnews/article/586/0000075694?sid=100"
       },
       {
+        "date": "Mon, 01 Apr 2024 14:20:00 +0900",
+        "title": "[총선현장] '부평을' 박선원 \"말로는 누구나 떠들어…몸으로 뛰는 대행자 되겠...",
+        "link": "https://www.newspim.com/news/view/20240329000730"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 13:08:00 +0900",
+        "title": "[내일의 눈] ‘국민’은 그냥 재활용품일 뿐인가",
+        "link": "https://www.naeil.com/news/read/506052?ref=naver"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 12:54:00 +0900",
+        "title": "여당 함운경 후보, 尹 대국민담화에 \"쇠귀에 경 읽기…탈당하라\"",
+        "link": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3016059"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 10:21:00 +0900",
+        "title": "\"尹 정부 많이 부족\" \"유승민 와달라\"…어수선한 與",
+        "link": "https://n.news.naver.com/mnews/article/277/0005399890?sid=165"
+      },
+      {
         "date": "Mon, 01 Apr 2024 09:22:00 +0900",
         "title": "[인천 부평을] 민주당 박선원 45.4%, 국민의힘 이현웅 35.2%, 새미래 홍영표 ...",
         "link": "https://n.news.naver.com/mnews/article/047/0002428273?sid=165"
@@ -213,46 +253,6 @@
         "date": "Mon, 01 Apr 2024 08:38:00 +0900",
         "title": "부평을, 박선원 45.4% 이현웅 35.2%…춘천갑, 허영 49.8% 김혜란 42.4%",
         "link": "https://n.news.naver.com/mnews/article/421/0007448946?sid=165"
-      },
-      {
-        "date": "Mon, 01 Apr 2024 07:00:00 +0900",
-        "title": "'부평을' 박선원 45.4% 이현웅 35.2% 홍영표 11.8% [데일리안 격전지 여론조사...",
-        "link": "https://n.news.naver.com/mnews/article/119/0002815518?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 19:01:00 +0900",
-        "title": "사기 대출, 꼼수 증여, 성범죄 가해자 변호… 여야, 도덕성 흠집내기 ‘이전투...",
-        "link": "https://n.news.naver.com/mnews/article/022/0003919707?sid=165"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 17:10:00 +0900",
-        "title": "\"민주당, 의미없는 정쟁으로 대통령·여당 발목\"",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1430839"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 14:50:00 +0900",
-        "title": "민주당 충북 총선 예비후보들 \"윤 정권 심판, 원팀\"",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307272"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 14:34:00 +0900",
-        "title": "새미래 오영환 선대위원장 \"조국·민주·국민의힘, 불공정 후보 공천 취소해야...",
-        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1242255"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 12:08:00 +0900",
-        "title": "새미래 \"민주·국힘·조국당 '불공정 4인방'…공천 즉각 취소해야\"",
-        "link": "http://www.metroseoul.co.kr/article/20240331500154"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 11:46:00 +0900",
-        "title": "새로운미래 “‘전관비리’·‘아빠찬스’ 후보 공천 취소해야”",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240331010017998"
-      },
-      {
-        "date": "Sun, 31 Mar 2024 11:29:00 +0900",
-        "title": "[총선] 새미래 오영환, 여야 후보 ‘아빠찬스·편법대출’ 등 비판…“사퇴가...",
-        "link": "https://n.news.naver.com/mnews/article/056/0011692161?sid=100"
       }
     ],
     "정당": "국민의힘",
@@ -292,6 +292,21 @@
     "기호": 5,
     "군필여부": false,
     "news": [
+      {
+        "date": "Tue, 09 Apr 2024 18:14:00 +0900",
+        "title": "녹색정의당 김응호 “뜨거운 지구와 낯뜨거운 정치 멈추자”",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240409027166150"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 13:22:00 +0900",
+        "title": "[4·10 총선현장] 인천 부평을 박선원vs이현웅vs김응호vs홍영표",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244022"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 21:38:00 +0900",
+        "title": "[총선 후보 현안현답] 인천 부평을 녹색정의당 김응호",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082571"
+      },
       {
         "date": "Sun, 07 Apr 2024 17:42:00 +0900",
         "title": "녹색정의당 지도부, 김응호 후보 지원 총집결...복지돌봄 노동자 500여명 지원...",
@@ -358,39 +373,24 @@
         "link": "https://www.joongboo.com/news/articleView.html?idxno=363645174"
       },
       {
-        "date": "Sat, 30 Mar 2024 17:34:00 +0900",
-        "title": "녹색정의당 김종대 선대위원장, 인천 유일 김응호 후보 지원 사격",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240330022303306"
+        "date": "Sun, 31 Mar 2024 20:04:00 +0900",
+        "title": "공식선거운동 첫 주말 인천 여야 후보 거리로 나서 표심 잡기 총력전",
+        "link": "https://www.newspim.com/news/view/20240331000208"
       },
       {
-        "date": "Thu, 28 Mar 2024 20:06:00 +0900",
-        "title": "[총선] 인천 부평을...홍영표 vs 박선원 vs 이현웅 vs 김응호, 본격 유세 '돌...",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=384531"
+        "date": "Sun, 31 Mar 2024 19:18:00 +0900",
+        "title": "인천 총선 여론조사서 민주당 후보들 크게 앞서",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=100631"
       },
       {
-        "date": "Thu, 28 Mar 2024 19:34:00 +0900",
-        "title": "공식 선거운동 개막...인천 여·야 후보들, 유권자 속으로",
-        "link": "https://news.ifm.kr/news/articleView.html?idxno=384522"
+        "date": "Sun, 31 Mar 2024 17:42:00 +0900",
+        "title": "뜨거웠던 인천 유세 현장… ‘심판론’ 맞불 거대양당, 3지대는 ‘민생’ 초점",
+        "link": "http://www.kyeongin.com/main/view.php?key=20240331025183389"
       },
       {
-        "date": "Thu, 28 Mar 2024 19:30:00 +0900",
-        "title": "김응호 녹색정의당 부평을 후보, 선거 운동 출정식 진행",
-        "link": "https://www.joongboo.com/news/articleView.html?idxno=363644207"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 18:24:00 +0900",
-        "title": "'각자도생' 군소정당도 선거운동 개시…\"제3지대에 눈길 달라\"(종합)",
-        "link": "https://n.news.naver.com/mnews/article/001/0014596560?sid=165"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:08:00 +0900",
-        "title": "[여론조사 꽃 총선/인천 부평을] 野 박선원, 與 이현웅에 오차범위 밖 우세.....",
-        "link": "http://www.goodmorningcc.com/news/articleView.html?idxno=307166"
-      },
-      {
-        "date": "Thu, 28 Mar 2024 17:03:00 +0900",
-        "title": "인천 부평을, 민주 박선원 42.3% vs 국힘 이현웅 22.1% [여론조사꽃]",
-        "link": "https://n.news.naver.com/mnews/article/123/0002330774?sid=100"
+        "date": "Sun, 31 Mar 2024 17:01:00 +0900",
+        "title": "‘심판론’만 띄우는 여야… 인천지역 현안은 ‘뒷전’",
+        "link": "https://n.news.naver.com/mnews/article/666/0000037834?sid=165"
       }
     ],
     "정당": "녹색정의당",
@@ -431,6 +431,31 @@
     "군필여부": true,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 21:08:00 +0900",
+        "title": "홍영표 새로운미래 공동상임선대위원장 지지호소문",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082736"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 13:22:00 +0900",
+        "title": "[4·10 총선현장] 인천 부평을 박선원vs이현웅vs김응호vs홍영표",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1244022"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 12:54:00 +0900",
+        "title": "홍영표 후보, D-1 총력 유세 \"당당하게 정치해왔다\" 투표 지지 호소",
+        "link": "http://www.breaknews.com/1025881"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 21:30:00 +0900",
+        "title": "[총선 후보 현안현답] 인천 부평을 새로운 미래 홍영표",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082572"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 10:20:00 +0900",
+        "title": "홍영표 후보, '대한민국 국정 정상화' 위한 6대 공약 발표",
+        "link": "http://www.breaknews.com/1025578"
+      },
+      {
         "date": "Sun, 07 Apr 2024 16:56:00 +0900",
         "title": "홍영표 새로운미래 부평을후보, 청년·희귀질환자 등 대상 공약 발표",
         "link": "http://www.kyeongin.com/main/view.php?key=20240407021035390"
@@ -446,9 +471,19 @@
         "link": "https://n.news.naver.com/mnews/article/119/0002817682?sid=165"
       },
       {
+        "date": "Fri, 05 Apr 2024 15:02:00 +0900",
+        "title": "\"소중한 한 표 부탁드린다\"… 인천 부평구 후보들, 첫날부터 사전투표 모두 완...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645801"
+      },
+      {
         "date": "Fri, 05 Apr 2024 13:58:00 +0900",
         "title": "[4·10 총선현장] 새로운미래 홍영표 부평구 을 후보, 가족들과 사전투표…\"새...",
         "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243433"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 13:54:00 +0900",
+        "title": "인천 선거구별 후보자 공약 비교 - ⑤ 부평구 갑·을",
+        "link": "http://www.incheonin.com/news/articleView.html?idxno=100730"
       },
       {
         "date": "Fri, 05 Apr 2024 09:38:00 +0900",
@@ -456,79 +491,44 @@
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348190"
       },
       {
-        "date": "Fri, 05 Apr 2024 05:00:00 +0900",
-        "title": "'진보 텃밭' 부평을 박선원 43% 이현웅 27% 홍영표 12% [중앙일보 여론조사]",
-        "link": "https://n.news.naver.com/mnews/article/025/0003352209?sid=165"
+        "date": "Fri, 05 Apr 2024 09:14:00 +0900",
+        "title": "김병욱 46% 김은혜 42%…추미애 46% 이용 43%[한국갤럽]",
+        "link": "https://n.news.naver.com/mnews/article/003/0012473452?sid=165"
       },
       {
-        "date": "Thu, 04 Apr 2024 22:43:00 +0900",
-        "title": "[인천 부평을] 민주당 박선원 44.5%, 국민의힘 이현웅 35.7%, 새미래 홍영표 ...",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429137?sid=165"
+        "date": "Fri, 05 Apr 2024 08:07:00 +0900",
+        "title": "여야 지도부, 사전투표 첫날 전국 각지에서 투표",
+        "link": "https://n.news.naver.com/mnews/article/055/0001144715?sid=165"
       },
       {
-        "date": "Thu, 04 Apr 2024 17:34:00 +0900",
-        "title": "[22대 총선] 민주노총 인천 정책질의, 맹성규·박선원·홍영표·김응호만 답변",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244536"
+        "date": "Fri, 05 Apr 2024 07:52:00 +0900",
+        "title": "[4.10 총선]오늘부터 전국 3565곳 사전투표소서 사전투표...첫날 사전투표율 ...",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=40633"
       },
       {
-        "date": "Thu, 04 Apr 2024 16:46:00 +0900",
-        "title": "[부평을] 부평구, 박선원 사무소 불법임대 고발...홍영표 \"사퇴하라\"",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244519"
+        "date": "Fri, 05 Apr 2024 07:46:00 +0900",
+        "title": "총선 사전투표 첫날, 여야 지도부도 전국에서 투표",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3126395"
       },
       {
-        "date": "Wed, 03 Apr 2024 20:43:00 +0900",
-        "title": "손학규, 부평을 깜짝 방문…\"유능한 정치인 홍영표 일으켜 세워달라\"",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816855?sid=165"
+        "date": "Fri, 05 Apr 2024 07:28:00 +0900",
+        "title": "[오늘의 정치일정] 4월 5일(금)",
+        "link": "https://www.newspim.com/news/view/20240405000035"
       },
       {
-        "date": "Wed, 03 Apr 2024 20:26:00 +0900",
-        "title": "[4·10 총선 현장] 홍영표 \"한국지엠 미래차 라인 유치\"",
-        "link": "http://www.kyeongin.com/main/view.php?key=20240404010000447"
+        "date": "Fri, 05 Apr 2024 06:45:00 +0900",
+        "title": "韓은 신촌, 李는 대전서… 여야 지도부 사전투표 나선다",
+        "link": "https://n.news.naver.com/mnews/article/366/0000983406?sid=165"
       },
       {
-        "date": "Wed, 03 Apr 2024 19:00:00 +0900",
-        "title": "홍영표 부평을 후보, 한국지엠 부평공장 찾아 현안 청취 간담회",
-        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1081815"
+        "date": "Fri, 05 Apr 2024 06:00:00 +0900",
+        "title": "여야 지도부, 사전투표 첫날 전국 각지에서 투표",
+        "link": "https://n.news.naver.com/mnews/article/001/0014612043?sid=165"
       },
       {
-        "date": "Wed, 03 Apr 2024 16:26:00 +0900",
-        "title": "홍영표 후보 \"땀방울 존중받는 사회 만들어야 \" 5대 공약 발표",
-        "link": "http://www.breaknews.com/1024863"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 16:10:00 +0900",
-        "title": "[부평을] 새미래 홍영표 \"한국지엠 실적 역대최대 미래차 생산 필요\"",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244443"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 15:44:00 +0900",
-        "title": "홍영표 \"1조원대 흑자 전망 한국GM, 전기차·상생 논의 시작해야\"",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3125686"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 14:22:00 +0900",
-        "title": "인천 부평구을 후보들, \"변전소·데이터센터 NO\"",
-        "link": "http://news.lghellovision.net/news/articleView.html?idxno=461980"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 14:14:00 +0900",
-        "title": "[부평을] 민주노총 인천본부, 녹색정의 김응호 지지 선언",
-        "link": "http://www.incheontoday.com/news/articleView.html?idxno=244423"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 13:12:00 +0900",
-        "title": "[여기가 승부처 ③ | 인천 부평구 을] 빗나간 ‘삼분지계’ 홍영표 득표력 변...",
-        "link": "https://www.naeil.com/news/read/506459?ref=naver"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 12:28:00 +0900",
-        "title": "이재명發 운동권 청산론: 86운동권 진자리 한총련.통진당 점령, '대권 방탄무...",
-        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=486123"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 11:14:00 +0900",
-        "title": "유승민 \"'이재명·조국' 자격 미달…홍영표·이준석 안타까워\"",
-        "link": "https://n.news.naver.com/mnews/article/031/0000825584?sid=100"
+        "date": "Fri, 05 Apr 2024 05:01:00 +0900",
+        "title": "[인터뷰] 이낙연 \"선거에 '전직 대통령' 활용하고 싶지 않다\"",
+        "link": "https://n.news.naver.com/mnews/article/031/0000826175?sid=100"
       }
     ],
     "정당": "새로운미래",

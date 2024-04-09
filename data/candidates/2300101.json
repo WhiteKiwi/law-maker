@@ -15,6 +15,31 @@
     "군필여부": true,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 14:02:00 +0900",
+        "title": "한국노총·공공연맹, 대전 동구 장철민 지지선언",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=361329"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 10:46:00 +0900",
+        "title": "한국노총, 장철민 민주당 후보 지지 선언",
+        "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=228825"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 09:54:00 +0900",
+        "title": "한국노총·공공연맹, 민주 장철민 지지선언",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=331161"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 17:32:00 +0900",
+        "title": "\"끝까지 달리겠습니다\"...장철민 막판 자전거 유세 돌입",
+        "link": "https://www.newspim.com/news/view/20240408000933"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 14:42:00 +0900",
+        "title": "[유권자에 전하는 메시지] 野 장철민 대전시당위원장 직무대행 \"무너진 대한민...",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=765434"
+      },
+      {
         "date": "Fri, 05 Apr 2024 14:51:00 +0900",
         "title": "[4.10총선 격전지] 대전 동구, 국힘 윤창현 vs 민주 장철민 현역의원간 '한판...",
         "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642029"
@@ -66,13 +91,18 @@
       },
       {
         "date": "Thu, 04 Apr 2024 20:39:00 +0900",
+        "title": "장철민 더불어민주당 대전동 후보, 유세 차량 향해서",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817314?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:39:00 +0900",
         "title": "장철민 더불어민주당 대전동구 후보 '지지 호소'",
         "link": "https://n.news.naver.com/mnews/article/119/0002817315?sid=165"
       },
       {
-        "date": "Thu, 04 Apr 2024 20:39:00 +0900",
-        "title": "장철민 더불어민주당 대전동 후보, 유세 차량 향해서",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817314?sid=165"
+        "date": "Thu, 04 Apr 2024 18:53:00 +0900",
+        "title": "[4·10 총선 레이더] 윤창현 \"동구는 '경합우세'… 무관심한 후보에 또 4년 맡...",
+        "link": "https://n.news.naver.com/mnews/article/656/0000085749?sid=100"
       },
       {
         "date": "Thu, 04 Apr 2024 18:48:00 +0900",
@@ -83,36 +113,6 @@
         "date": "Thu, 04 Apr 2024 17:40:00 +0900",
         "title": "윤창현 \"장철민, 인동체육센터 건 뭉개고 넘어가선 안돼\"",
         "link": "https://www.newspim.com/news/view/20240404001110"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:28:00 +0900",
-        "title": "사무금융노조 등 3개 단체, 장철민 후보 릴레이 지지 방문",
-        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=765027"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:56:00 +0900",
-        "title": "전국전력산업노조 등 3개 단체, 대전 동구 장철민 후보 지지",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=360097"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:26:00 +0900",
-        "title": "전력산업노조 등 민주 장철민 릴레이 지지 방문",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330833"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 11:30:00 +0900",
-        "title": "시민에게 봉사로 유세하는 윤창현·장철민 후보",
-        "link": "https://n.news.naver.com/mnews/article/421/0007458093?sid=102"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 15:29:00 +0900",
-        "title": "'대전 동구' 장철민 vs 윤창현, 길어지는 국비 증감 진실 공방",
-        "link": "https://n.news.naver.com/mnews/article/119/0002816731?sid=165"
-      },
-      {
-        "date": "Wed, 03 Apr 2024 15:08:00 +0900",
-        "title": "[관점] 총선 그 후, 대전 정치권 판도 변화는?",
-        "link": "http://www.dtnews24.com/news/articleView.html?idxno=769579"
       }
     ],
     "정당": "더불어민주당",
@@ -441,6 +441,61 @@
     "군필여부": true,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 15:40:00 +0900",
+        "title": "[22대 총선] 윤창현 동구 후보, 거리유세 중 화재 신고 큰 사고 막아",
+        "link": "https://cc.newdaily.co.kr/site/data/html/2024/04/09/2024040900193.html"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 13:46:00 +0900",
+        "title": "대전 동구 윤창현 캠프, 유세 중 대형화재 막아",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=361327"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 11:10:00 +0900",
+        "title": "'대전 동구' 윤창현 마지막 호소 \"경제전문가 필요한 시점…일꾼 손 잡아달라...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818674?sid=165"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 09:54:00 +0900",
+        "title": "[선택4·10] 윤창현 동구 후보, 거리유세 중 화재 신고해 큰 사고 막았다",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071805"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 09:42:00 +0900",
+        "title": "윤창현 캠프, 거리유세 중 화재 신고... 큰 피해 없어",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=765513"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 19:14:00 +0900",
+        "title": "[총선 D- 2] 한동훈 '대전살리기 집중유세'...윤창현 후보 등 지원사격",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1028265"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 16:02:00 +0900",
+        "title": "윤창현 \"교육 1번지 대전 동구가 선도하는 경제일류도시\"",
+        "link": "http://www.goodkyung.com/news/articleView.html?idxno=233818"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 15:08:00 +0900",
+        "title": "국힘 윤창현, 선거 막바지 표심 모으기 '총력'",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=331095"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 10:34:00 +0900",
+        "title": "[선택4·10] 윤창현, 한동훈과 '대전살리기'선거 막바지 '총력'",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071377"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 09:30:00 +0900",
+        "title": "윤창현, 대전 동구 16개 행정동 '꼼꼼한 공약' 화제",
+        "link": "https://www.mediapen.com/news/view/910630"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 09:16:00 +0900",
+        "title": "한동훈-윤창현, 대전 살리기 집중유세…선거 막바지 스퍼트",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=360788"
+      },
+      {
         "date": "Sun, 07 Apr 2024 18:02:00 +0900",
         "title": "국힘, 대전 동구 윤창현 집중지원 본격화",
         "link": "http://www.newstnt.com/news/articleView.html?idxno=360699"
@@ -451,94 +506,39 @@
         "link": "https://www.mediapen.com/news/view/910566"
       },
       {
+        "date": "Sun, 07 Apr 2024 13:28:00 +0900",
+        "title": "한동훈, 대전 방문… 국민의힘 8명 후보 지원유세",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3127048"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 13:28:00 +0900",
+        "title": "한동훈 국힘 비대위원장, 대전 재차 방문하며 충청권 '집중 유세' 나서",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=765239"
+      },
+      {
         "date": "Sun, 07 Apr 2024 13:26:00 +0900",
         "title": "[포토] 윤창현 동구 후보, 윤재옥과 함께 중앙시장서 지지 호소",
         "link": "https://daily.hankooki.com/news/articleView.html?idxno=1071209"
       },
       {
-        "date": "Sat, 06 Apr 2024 13:22:00 +0900",
-        "title": "민주당 지지층, 국힘 윤창현 응원 이어져",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=360594"
+        "date": "Sun, 07 Apr 2024 13:22:00 +0900",
+        "title": "한동훈, 유성 찾아 \"역대 최고 수준 R&D 예산 증액\" 표심 호소",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330995"
       },
       {
-        "date": "Sat, 06 Apr 2024 12:23:00 +0900",
-        "title": "윤창현 지원유세하는 윤재옥",
-        "link": "https://n.news.naver.com/mnews/article/003/0012476212?sid=165"
+        "date": "Sun, 07 Apr 2024 11:54:00 +0900",
+        "title": "한동훈 \"저들이 200석 갖게 되면…나라를 지켜 달라\"",
+        "link": "https://n.news.naver.com/mnews/article/421/0007464584?sid=165"
       },
       {
-        "date": "Fri, 05 Apr 2024 16:16:00 +0900",
-        "title": "윤창현 \"투표에 동구의 미래 달려있다\" 사전투표 인증",
-        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=560118"
+        "date": "Sun, 07 Apr 2024 11:30:00 +0900",
+        "title": "[신하연 여의도 돋보기] 법제화 하세월… 발목잡힌 미술 조각투자",
+        "link": "https://n.news.naver.com/mnews/article/029/0002865927?sid=101"
       },
       {
-        "date": "Fri, 05 Apr 2024 15:48:00 +0900",
-        "title": "국힘 윤창현 사전투표...\"투표에 동구 미래 달려있다\"",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330937"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:51:00 +0900",
-        "title": "[4.10총선 격전지] 대전 동구, 국힘 윤창현 vs 민주 장철민 현역의원간 '한판...",
-        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=642029"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:26:00 +0900",
-        "title": "대전 동구 윤창현, 사전투표 완료…\"투표에 동구 미래 달려있어\"",
-        "link": "http://www.newstnt.com/news/articleView.html?idxno=360459"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 14:14:00 +0900",
-        "title": "[포토] 윤창현 \"투표에 동구의 미래 달려있다\"사전투표 인증",
-        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1070872"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:52:00 +0900",
-        "title": "사전투표 인증샷 찍는 윤창현 후보",
-        "link": "https://n.news.naver.com/mnews/article/003/0012474748?sid=102"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:38:00 +0900",
-        "title": "윤창현-인요한 \"2판 4판 총선승리\" 막판 총력전",
-        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=330921"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 12:50:00 +0900",
-        "title": "[총선열전] 윤창현, \"인요한과 동행으로 2판 4판 민심잡기\"",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001872"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 09:30:00 +0900",
-        "title": "윤창현 대전 동구 후보, 인요한과 동행…'2판 4판' 민심잡기",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3126443"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 02:04:00 +0900",
-        "title": "윤창현 후보, '민주당의 대전 , 잃어버린 4 년 심판' 호소",
-        "link": "http://www.breaknews.com/1025248"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:54:00 +0900",
-        "title": "윤창현-장철민 '대전 동구 승자는?'",
-        "link": "https://n.news.naver.com/mnews/article/119/0002817324?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:48:00 +0900",
-        "title": "[티타임] 인요한 \"침묵의 다수 믿어…이재명 '나베' 발언 큰 실례\"",
-        "link": "https://www.asiatoday.co.kr/view.php?key=20240404010003077"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:38:00 +0900",
-        "title": "윤창현후보 , 고등학교 신설 공약 지역민 희망고문 될 수도",
-        "link": "http://www.gocj.net/news/articleView.html?idxno=133435"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:01:00 +0900",
-        "title": "[주간 뉴스타파] 국민의 국회 vs 로비스트의 국회",
-        "link": "https://n.news.naver.com/mnews/article/607/0000001948?sid=102"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 18:53:00 +0900",
-        "title": "[4·10 총선 레이더] 윤창현 \"동구는 '경합우세'… 무관심한 후보에 또 4년 맡...",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085749?sid=100"
+        "date": "Sun, 07 Apr 2024 11:19:00 +0900",
+        "title": "대전 지원 유세 나선 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012477018?sid=165"
       }
     ],
     "정당": "국민의힘",

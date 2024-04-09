@@ -14,6 +14,16 @@
     "군필여부": false,
     "news": [
       {
+        "date": "Mon, 08 Apr 2024 01:01:00 +0900",
+        "title": "[총선톡톡]전성 후보 “군 장병 복지여건 개선할 것”",
+        "link": "https://n.news.naver.com/mnews/article/087/0001036751?sid=165"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 00:06:00 +0900",
+        "title": "[4·10총선 발언대] 전성 \"한기호 천안함 사건 발언 명백한 허위\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000071040?sid=100"
+      },
+      {
         "date": "Fri, 05 Apr 2024 18:00:00 +0900",
         "title": "전성 VS 한기호, 공약 현실성 따지며 '설전'",
         "link": "https://chmbc.co.kr/article/knFswuom5C"
@@ -102,16 +112,6 @@
         "date": "Thu, 04 Apr 2024 09:58:00 +0900",
         "title": "[케이스탯리서치] 춘천·철원·화천·양구을, 국힘 한기호 51.7% 민주 전성 3...",
         "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348030"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 08:26:00 +0900",
-        "title": "농어촌기본소득운동본부, 전성 국회의원 후보와 정책협약",
-        "link": "http://www.ikpnews.net/news/articleView.html?idxno=63410"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 01:12:00 +0900",
-        "title": "[2차 여론조사: 춘천 을] 전성 32.1 VS 한기호 51.7, '현역 강세'",
-        "link": "https://chmbc.co.kr/article/22hU4ztnbyO"
       }
     ],
     "정당": "더불어민주당",
@@ -155,6 +155,11 @@
     "기호": 2,
     "군필여부": true,
     "news": [
+      {
+        "date": "Mon, 08 Apr 2024 00:06:00 +0900",
+        "title": "[4·10총선 발언대] 전성 \"한기호 천안함 사건 발언 명백한 허위\"",
+        "link": "https://n.news.naver.com/mnews/article/654/0000071040?sid=100"
+      },
       {
         "date": "Fri, 05 Apr 2024 18:00:00 +0900",
         "title": "전성 VS 한기호, 공약 현실성 따지며 '설전'",
@@ -249,11 +254,6 @@
         "date": "Thu, 04 Apr 2024 00:07:00 +0900",
         "title": "한기호·송기헌·이양수·유상범 현역 오차 밖 우세",
         "link": "https://n.news.naver.com/mnews/article/654/0000070723?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 00:04:00 +0900",
-        "title": "[선택 4·10 총선 D-6 여론조사] 현역 국회의원 한기호·송기헌·이양수·유상...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001036151?sid=165"
       }
     ],
     "정당": "국민의힘",
@@ -592,13 +592,13 @@
       },
       {
         "date": "Wed, 03 Apr 2024 16:01:00 +0900",
-        "title": "춘천을 한기호 51.7%, 전성 32.1%, 이호범 2.5% [4·10총선 여론조사]",
-        "link": "https://n.news.naver.com/mnews/article/654/0000070656?sid=100"
+        "title": "[2차 여론조사-춘철화양을] 전성 32.1% vs 한기호 51.7% vs 이호범 2.5%",
+        "link": "https://n.news.naver.com/mnews/article/087/0001036013?sid=165"
       },
       {
         "date": "Wed, 03 Apr 2024 16:01:00 +0900",
-        "title": "[2차 여론조사-춘철화양을] 전성 32.1% vs 한기호 51.7% vs 이호범 2.5%",
-        "link": "https://n.news.naver.com/mnews/article/087/0001036013?sid=165"
+        "title": "춘천을 한기호 51.7%, 전성 32.1%, 이호범 2.5% [4·10총선 여론조사]",
+        "link": "https://n.news.naver.com/mnews/article/654/0000070656?sid=100"
       },
       {
         "date": "Wed, 03 Apr 2024 09:00:00 +0900",
@@ -624,6 +624,26 @@
         "date": "Wed, 27 Mar 2024 17:32:00 +0900",
         "title": "이호범 무소속 후보 ″제2청사, 영동·영서 갈등 초래 우려″",
         "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=89920"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 21:03:00 +0900",
+        "title": "[선택 4·10총선]접경지역 고려한 개발, 농업, 상권, 교통망 공약 제시",
+        "link": "https://n.news.naver.com/mnews/article/087/0001034368?sid=165"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 20:30:00 +0900",
+        "title": "<여론>춘철화양 을, 한기호 오차범위 밖 우세",
+        "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=304844"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 19:23:00 +0900",
+        "title": "[자막뉴스] 4·10 총선 매니페스토 협약식 열려",
+        "link": "https://n.news.naver.com/mnews/article/654/0000069834?sid=102"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 18:59:00 +0900",
+        "title": "[총선/여론조사]⑤ 춘천을, 1위 한기호…2위 전성",
+        "link": "https://n.news.naver.com/mnews/article/056/0011688878?sid=100"
       },
       {
         "date": "Tue, 26 Mar 2024 18:56:00 +0900",
@@ -659,26 +679,6 @@
         "date": "Tue, 26 Mar 2024 16:12:00 +0900",
         "title": "[5시 리포트]국회의원 선거 후보자 여론조사 결과 공개",
         "link": "https://chmbc.co.kr/article/UktQBsGQDMVji6OJqSy4"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:03:00 +0900",
-        "title": "[여론조사 종합] ‘송기헌-김완섭’ 오차범위 접전···‘춘-철-화-양을’ ‘...",
-        "link": "https://n.news.naver.com/mnews/article/087/0001034273?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:02:00 +0900",
-        "title": "[여론조사-춘철화양 을] 전성 32% vs 한기호 50% vs 이호범 2%",
-        "link": "https://n.news.naver.com/mnews/article/087/0001034271?sid=165"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:00:00 +0900",
-        "title": "춘천을 전성 32%, 한기호 50% [4·10 총선 여론조사]",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069805?sid=100"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 16:00:00 +0900",
-        "title": "원주을 오차범위 접전… 춘천을, 홍·횡·영·평, 속·인·고·양 국힘 우세 ...",
-        "link": "https://n.news.naver.com/mnews/article/654/0000069806?sid=100"
       }
     ],
     "정당": "무소속",

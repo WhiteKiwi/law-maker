@@ -16,6 +16,21 @@
     "전과건수": 2,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 14:04:00 +0900",
+        "title": "민주당 청주 청원 송재봉 후보 \"새로운 역사 만들자\"...투표 참여 호소",
+        "link": "https://www.newspim.com/news/view/20240409000577"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 13:42:00 +0900",
+        "title": "민주당 송재봉 후보, 선거 D-1일 지지 호소와 투표 참여 독려",
+        "link": "http://www.breaknews.com/1025895"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 17:49:00 +0900",
+        "title": "[청주청원] 송재봉 \"윤 정권 심판해야\" vs 김수민 \"준비된 국회의원\"",
+        "link": "https://n.news.naver.com/mnews/article/655/0000017729?sid=165"
+      },
+      {
         "date": "Fri, 05 Apr 2024 19:58:00 +0900",
         "title": "[4.10총선] 청주 청원 민주당 송재봉 후보, 물리치료사협회 충북도회와 정책간...",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962592"
@@ -26,94 +41,79 @@
         "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746929"
       },
       {
+        "date": "Fri, 05 Apr 2024 10:11:00 +0900",
+        "title": "[사전투표] \"소중한 주권 행사하러 왔어요\"…충북 곳곳 투표 행렬",
+        "link": "https://n.news.naver.com/mnews/article/001/0014612685?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:48:00 +0900",
+        "title": "김포 사우사거리에서 지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/025/0003352252?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:02:00 +0900",
+        "title": "총선 코앞…금융노조 누구 '픽'했나",
+        "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=213854"
+      },
+      {
         "date": "Fri, 05 Apr 2024 08:19:00 +0900",
         "title": "與 “송재봉, ‘상속 농지’ 방치도 농지법 위반…진실 밝히라” 촉구",
         "link": "https://n.news.naver.com/mnews/article/021/0002630535?sid=165"
       },
       {
+        "date": "Thu, 04 Apr 2024 22:08:00 +0900",
+        "title": "청주YWCA, 청주 4개구 후보자에게 정책의제 제안",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746798"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 21:28:00 +0900",
+        "title": "[총선] 충북지역 민주당 , 국힘 후보들 사전 투표 일정 발표",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580971"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:41:00 +0900",
+        "title": "[총선 D-6] \"삼성바이오 유치\" vs \"청와대 이전\"…현실성 공방",
+        "link": "https://n.news.naver.com/mnews/article/001/0014611889?sid=100"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+        "title": "오창읍 표심이 당락 좌우",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793052"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
+        "title": "오늘 사전투표 … 여야 지도부 `청주대첩'",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793053"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:53:00 +0900",
+        "title": "청주YWCA 정책의제 22대 총선 청주지역 4개구 후보자에게 제안",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969212"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:53:00 +0900",
+        "title": "사전투표 앞두고 여야 지도부, 충북서 선거 지원 유세",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969211"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:52:00 +0900",
+        "title": "더불어민주당 청주권 후보, 공명선거감시단 발족",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969279"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:44:00 +0900",
+        "title": "이재명 vs 한동훈, 선거 막판 '충청표심' 호소",
+        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431560"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:28:00 +0900",
+        "title": "[총선 레이더] \"너는 부적격자\" 시민단체 낙인찍기에 후보들 속앓이",
+        "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2193902"
+      },
+      {
         "date": "Thu, 04 Apr 2024 18:35:00 +0900",
         "title": "김수민 \"송재봉, 강원도 1만평 땅 농지법 위반 혐의 신고 예정\"",
         "link": "https://www.newspim.com/news/view/20240404001168"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:54:00 +0900",
-        "title": "국힘 \"민주 송재봉 상속 농지 방치는 명백한 법 위반\"[2024 총선]",
-        "link": "https://n.news.naver.com/mnews/article/014/0005167139?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:44:00 +0900",
-        "title": "충청권 격전지 찾은 김부겸 \"휘청거리는 대한민국 똑바로 세우겠다\"",
-        "link": "https://n.news.naver.com/mnews/article/656/0000085721?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:36:00 +0900",
-        "title": "여야 지도부, 사전투표 하루 전 충북서 유세 지원 사격",
-        "link": "https://www.inews365.com/news/article.html?no=808871"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 17:06:00 +0900",
-        "title": "\"대청호 보호 정책질의에 충북 후보 단 2명만 응답\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002429058?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:52:00 +0900",
-        "title": "민주당·국민의힘, '네탓 공방'…충북서 심판·견제론 역설",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431550"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:38:00 +0900",
-        "title": "청주YWCA, 22대 총선 정책의제 청주지역 4개구 후보자에게 제안",
-        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431546"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:38:00 +0900",
-        "title": "청주·진천 찾은 김부겸 위원장 \"민주당 후보 지지 해달라\"",
-        "link": "https://www.newspim.com/news/view/20240404001062"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 16:24:00 +0900",
-        "title": "與, 민주 송재봉 `농지법 위반 의혹`에 \"진실 밝히라\"",
-        "link": "https://n.news.naver.com/mnews/article/029/0002865633?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 15:54:00 +0900",
-        "title": "[포토] 송재봉 민주당 청주청원 후보, 사직동 일대서 선거운동",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220401"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 15:47:00 +0900",
-        "title": "김부겸 “청주서 대한민국 바꾸는 변화 일어날 것”",
-        "link": "https://n.news.naver.com/mnews/article/031/0000826084?sid=102"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 15:25:00 +0900",
-        "title": "사전투표 D-1…여야 지도부, 충북에서 총선지원 화력전",
-        "link": "https://n.news.naver.com/mnews/article/003/0012472078?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 15:18:00 +0900",
-        "title": "사전투표 'D-1' 여야 지도부 청주서 지원사격",
-        "link": "https://n.news.naver.com/mnews/article/421/0007459141?sid=165"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 15:02:00 +0900",
-        "title": "청주에서 지지를 호소하는 김부겸 상임공동선대위원장",
-        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=969198"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 14:12:00 +0900",
-        "title": "與청주청원 김수민 \"野송재봉, 1만평 땅 농지법 위반…신고 예정\"",
-        "link": "https://n.news.naver.com/mnews/article/011/0004323390?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 13:52:00 +0900",
-        "title": "민주당 송재봉 1만평 소유…김수민 “농지법 위반 소지”",
-        "link": "https://n.news.naver.com/mnews/article/277/0005401755?sid=100"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 13:18:00 +0900",
-        "title": "[기획-4·10 총선] 여론 판세 與 100∼130, 野 150∼180…PK·충청 총선 좌우",
-        "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=21221"
       }
     ],
     "연도별_재산": [
@@ -157,6 +157,16 @@
     "전과건수": 0,
     "news": [
       {
+        "date": "Mon, 08 Apr 2024 17:49:00 +0900",
+        "title": "[청주청원] 송재봉 \"윤 정권 심판해야\" vs 김수민 \"준비된 국회의원\"",
+        "link": "https://n.news.naver.com/mnews/article/655/0000017729?sid=165"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 09:08:00 +0900",
+        "title": "뽀빠이 이상용 김수민 국민의힘 청주청원 후보 지원유세",
+        "link": "http://www.jbnews.com/news/articleView.html?idxno=1431787"
+      },
+      {
         "date": "Sun, 07 Apr 2024 20:21:00 +0900",
         "title": "국민의힘 한동훈 “김수민 기용, 내가 잘한 일 중 하나”",
         "link": "https://n.news.naver.com/mnews/article/031/0000826612?sid=102"
@@ -184,12 +194,12 @@
       {
         "date": "Sun, 07 Apr 2024 19:34:00 +0900",
         "title": "김수민 후보 지지호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007465434?sid=165"
+        "link": "https://n.news.naver.com/mnews/article/421/0007465437?sid=165"
       },
       {
         "date": "Sun, 07 Apr 2024 19:34:00 +0900",
         "title": "김수민 후보 지지호소하는 한동훈",
-        "link": "https://n.news.naver.com/mnews/article/421/0007465437?sid=165"
+        "link": "https://n.news.naver.com/mnews/article/421/0007465434?sid=165"
       },
       {
         "date": "Sun, 07 Apr 2024 19:16:00 +0900",
@@ -217,44 +227,34 @@
         "link": "https://n.news.naver.com/mnews/article/081/0003442518?sid=100"
       },
       {
+        "date": "Sun, 07 Apr 2024 10:46:00 +0900",
+        "title": "[총선돋보기] 금강벨트 승패 '초박빙' 경합지역에 달렸다",
+        "link": "https://www.joongdo.co.kr/web/view.php?key=20240407010002135"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 10:26:00 +0900",
+        "title": "지방 험지 출전 여성후보들 선전 할까",
+        "link": "https://n.news.naver.com/mnews/article/029/0002865909?sid=100"
+      },
+      {
         "date": "Sun, 07 Apr 2024 10:19:00 +0900",
         "title": "총선 충북·충남 女후보 각 1명 불과…김수민 등 당선 가능성 주목",
         "link": "https://n.news.naver.com/mnews/article/018/0005709083?sid=165"
       },
       {
+        "date": "Sun, 07 Apr 2024 05:00:00 +0900",
+        "title": "충남 1명·충북 1명…'지방' 출마 여성 후보들, 생환할 수 있을까",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817941?sid=165"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 19:15:00 +0900",
+        "title": "역대 최고 사전투표율에 與野 모두 환호…유불리 따져 보니",
+        "link": "https://n.news.naver.com/mnews/article/629/0000279160?sid=165"
+      },
+      {
         "date": "Sat, 06 Apr 2024 15:05:00 +0900",
         "title": "한동훈 또 청주 방문…김수민 등 국민의힘 후보 지원 유세",
         "link": "https://n.news.naver.com/mnews/article/031/0000826488?sid=102"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 19:02:00 +0900",
-        "title": "[포토] 김수민 후보, 오창초 사전투표소 방문… 총선 사전투표",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220581"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 17:52:00 +0900",
-        "title": "[충청총선]국힘 청주 청원 국회의원 후보 김수민, 사전투표 마쳐",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20240405010001959"
-      },
-      {
-        "date": "Fri, 05 Apr 2024 13:48:00 +0900",
-        "title": "사전투표 마친 국민의힘 청주청원 김수민 후보",
-        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=746879"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 21:28:00 +0900",
-        "title": "[총선] 충북지역 민주당 , 국힘 후보들 사전 투표 일정 발표",
-        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=580971"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
-        "title": "오늘 사전투표 … 여야 지도부 `청주대첩'",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793053"
-      },
-      {
-        "date": "Thu, 04 Apr 2024 20:40:00 +0900",
-        "title": "오창읍 표심이 당락 좌우",
-        "link": "http://www.cctimes.kr/news/articleView.html?idxno=793052"
       }
     ],
     "연도별_재산": [

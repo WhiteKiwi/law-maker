@@ -14,6 +14,16 @@
     "군필여부": true,
     "news": [
       {
+        "date": "Tue, 09 Apr 2024 20:32:00 +0900",
+        "title": "황태성 김천 민주당 국회의원 후보 \"시민 여러분과 늘 함께 하겠습니다\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2965510"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 13:52:00 +0900",
+        "title": "황태성 김천 민주당 국회의원 후보, \"민생경제 파탄·고통받는 시민...\"이제 ...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2963872"
+      },
+      {
         "date": "Fri, 05 Apr 2024 13:00:00 +0900",
         "title": "황태성 김천 민주당 국회의원 후보, 어머니와 함께 사전 투표...변화와 혁신 ...",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962178"
@@ -27,6 +37,31 @@
         "date": "Thu, 28 Mar 2024 21:24:00 +0900",
         "title": "황태성 김천 민주당 국회의원 후보, 충혼탑 참배...선거 승리의 굳은 의지 다...",
         "link": "https://www.gukjenews.com/news/articleView.html?idxno=2956037"
+      },
+      {
+        "date": "Tue, 27 Feb 2024 10:44:00 +0900",
+        "title": "민주당, 경북 선거구 9곳 공천 확정",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=432472"
+      },
+      {
+        "date": "Tue, 27 Feb 2024 10:22:00 +0900",
+        "title": "민주당, 경북지역 국회의원 선거구  '9곳 공천' 확정",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=313463"
+      },
+      {
+        "date": "Tue, 27 Feb 2024 10:16:00 +0900",
+        "title": "민주당, 포항시남구·울릉선거구 김상헌, 포항시북구 오중기 후보 공천 확정",
+        "link": "https://n.news.naver.com/mnews/article/016/0002272352?sid=100"
+      },
+      {
+        "date": "Tue, 27 Feb 2024 10:12:00 +0900",
+        "title": "더불어민주당, 경북 13개 선거구 9곳 공천 확정",
+        "link": "https://www.ekn.kr/web/view.php?key=20240227027475063"
+      },
+      {
+        "date": "Tue, 27 Feb 2024 10:05:00 +0900",
+        "title": "경북 민주당, 도내 선거구 9곳 공천 확정",
+        "link": "https://n.news.naver.com/mnews/article/079/0003867938?sid=165"
       },
       {
         "date": "Tue, 27 Feb 2024 09:56:00 +0900",
@@ -77,41 +112,6 @@
         "date": "Thu, 22 Feb 2024 20:52:00 +0900",
         "title": "민주 경북도당 출마자들 공동기자회견 공약 발표",
         "link": "http://www.kbmaeil.com/news/articleView.html?idxno=985816"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 20:42:00 +0900",
-        "title": "민주당, 포항 남울릉 김상헌, 구미을 김현권 공",
-        "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=189782&mode=view"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 18:28:00 +0900",
-        "title": "황태성 김천 민주당 국회의원 예비후보, 공동 기자회견...\"시민들과 행복한 김...",
-        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2927924"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 18:02:00 +0900",
-        "title": "[R]여야, 국회의원 공천자와 방식 서서히 드러나",
-        "link": "http://andongmbc.co.kr/adboard/NewsView68977"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 17:47:00 +0900",
-        "title": "민주당, 경북 13곳 중 8곳 후보 공천 확정…나머지 5곳은 미정",
-        "link": "https://n.news.naver.com/mnews/article/088/0000863671?sid=100"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 17:47:00 +0900",
-        "title": "[심층] 국민의힘, '공천 최대한 잡음 없게'···민주당, '공천 학살' 아니라...",
-        "link": "https://n.news.naver.com/mnews/article/657/0000023271?sid=100"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 17:46:00 +0900",
-        "title": "민주당, 경북 포항남울릉 '김상헌'·구미을 '김현권' 2명 공천 확정",
-        "link": "https://www.pn.or.kr/news/articleView.html?idxno=20987"
-      },
-      {
-        "date": "Thu, 22 Feb 2024 16:58:00 +0900",
-        "title": "민주당 경북도당 총선 출마자, 공동기자회견 갖고 1·2호 공약발표",
-        "link": "http://www.kbsm.net/news/view.php?idx=423562"
       }
     ],
     "정당": "더불어민주당",
@@ -155,6 +155,11 @@
     "기호": 2,
     "군필여부": true,
     "news": [
+      {
+        "date": "Tue, 09 Apr 2024 17:58:00 +0900",
+        "title": "[김천 총선] 국민의힘 송언석 후보, 3선 도전 마지막 열정 불태운다",
+        "link": "https://n.news.naver.com/mnews/article/002/0002327113?sid=102"
+      },
       {
         "date": "Sat, 06 Apr 2024 11:36:00 +0900",
         "title": "김천 국민의힘 송언석 후보 사전투표 독려 유세",
@@ -211,49 +216,44 @@
         "link": "http://www.kbmaeil.com/news/articleView.html?idxno=990264"
       },
       {
+        "date": "Thu, 28 Mar 2024 09:18:00 +0900",
+        "title": "[열전 4·10 총선] 보수 전통 지역 '김천시'…이번 선택은 누구?",
+        "link": "http://www.kbsm.net/news/view.php?idx=427742"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 00:00:00 +0900",
+        "title": "[재산공개] 국회의원 재산 감소 1위는 박정…전년 대비 165억↓",
+        "link": "https://n.news.naver.com/mnews/article/421/0007440792?sid=165"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 21:36:00 +0900",
+        "title": "중소기업중앙회 경북본부, 국민의힘에 제22대 총선 중소기업 정책과제 전달",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=436350"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 12:56:00 +0900",
+        "title": "중기중앙회 경북본부, 국민의힘에 '제22대 총선 정책과제' 전달",
+        "link": "http://www.kbsm.net/news/view.php?idx=427648"
+      },
+      {
+        "date": "Wed, 27 Mar 2024 08:07:00 +0900",
+        "title": "[총선] 보수 전통 김천…이번 선택은?",
+        "link": "https://n.news.naver.com/mnews/article/056/0011689361?sid=100"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 14:46:00 +0900",
+        "title": "'친윤 불패' 뚜렷하네…국민의힘 지역구 후보자 '라인' 전수조사",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=469529"
+      },
+      {
+        "date": "Tue, 26 Mar 2024 12:42:00 +0900",
+        "title": "“PK 표심 단디 잡아라” 파격 공약 내세운 與野",
+        "link": "https://www.skyedaily.com/news/news_view.html?ID=225981"
+      },
+      {
         "date": "Tue, 26 Mar 2024 10:32:00 +0900",
         "title": "국민의힘 경북도당 '22대 총선 선거대책위원회' 발대식",
         "link": "https://n.news.naver.com/mnews/article/002/0002324950?sid=102"
-      },
-      {
-        "date": "Tue, 26 Mar 2024 07:12:00 +0900",
-        "title": "송언석 \"경산 이겨야 경북 완성…최대 격전지 총력지원\"",
-        "link": "https://www.yeongnam.com/web/view.php?key=20240325010003468"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 23:14:00 +0900",
-        "title": "선대위 발족한 국민의힘 경북도당 \"13개 선거구 모두 석권\"",
-        "link": "https://n.news.naver.com/mnews/article/047/0002427368?sid=165"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 22:47:00 +0900",
-        "title": "국민의힘 경북도당, 총선 선거대책위원회 발대식 개최",
-        "link": "https://n.news.naver.com/mnews/article/016/0002285469?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:34:00 +0900",
-        "title": "국민의힘 경북 선대위 발대식 \"경산 조지연이 이겨야 완승이다\"",
-        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=454735"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:28:00 +0900",
-        "title": "국민의힘 경북도당, 선거대책위원회 발대식 개최",
-        "link": "https://n.news.naver.com/mnews/article/031/0000823163?sid=102"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:24:00 +0900",
-        "title": "본격 선거체제 돌입...\"국정안정 vs 정권심판\"",
-        "link": "https://www.tbc.co.kr/news/view?pno=20240325172412AE00798&id=185821"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 21:11:00 +0900",
-        "title": "국회의원 후보 등록 끝···선대위 출범하고 선거운동 준비 '박차'",
-        "link": "https://n.news.naver.com/mnews/article/657/0000024266?sid=100"
-      },
-      {
-        "date": "Mon, 25 Mar 2024 20:56:00 +0900",
-        "title": "국민의힘 경북도당 선대委 발족",
-        "link": "http://www.ksmnews.co.kr/news/view.php?idx=474479"
       }
     ],
     "정당": "국민의힘",
@@ -604,6 +604,11 @@
         "link": "http://www.mhj21.com/160217"
       },
       {
+        "date": "Tue, 28 Sep 2021 10:28:00 +0900",
+        "title": "증인 면면 살펴 보니...복지위 국감, 백신부터 약 배달까지",
+        "link": "http://www.monews.co.kr/news/articleView.html?idxno=307316"
+      },
+      {
         "date": "Tue, 28 Sep 2021 04:51:00 +0900",
         "title": "네이버‧맥도널드‧남양유업…복지위 국감 증인들 나올까",
         "link": "https://n.news.naver.com/mnews/article/092/0002234584?sid=105"
@@ -692,11 +697,6 @@
         "date": "Sat, 28 Mar 2020 19:18:00 +0900",
         "title": "[4·15총선-영남권] 경북 후보자 등록",
         "link": "http://www.ajunews.com/view/20200328190833815"
-      },
-      {
-        "date": "Sat, 28 Mar 2020 10:04:00 +0900",
-        "title": "4·15 총선 대구경북 최종 후보 명단",
-        "link": "http://www.idaegu.com/newsView/idg202003280005"
       }
     ],
     "정당": "무소속",
