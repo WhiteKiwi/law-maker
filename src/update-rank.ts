@@ -206,7 +206,7 @@ async function main() {
         이름: candidate.이름,
         지역구: 지역구(candidate.regionId),
         정당: candidate.정당,
-        공약이행수: candidate["21th"]!.공약이행수등수 || null,
+        공약이행수: candidate["21th"]!.공약이행률?.공약이행수 || null,
         rank: ranks[i],
         총원: 정렬.length,
       });
@@ -243,7 +243,10 @@ async function main() {
         이름: candidate.이름,
         지역구: 지역구(candidate.regionId),
         정당: candidate.정당,
-        공약이행률: candidate["21th"]!.공약이행률등수 || null,
+        공약이행률: candidate["21th"]!.공약이행률
+          ? candidate["21th"]!.공약이행률.공약이행수 /
+            candidate["21th"]!.공약이행률.총공약수
+          : null,
         rank: ranks[i],
         총원: 정렬.length,
       });
