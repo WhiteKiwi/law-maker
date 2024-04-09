@@ -1,425 +1,425 @@
 [
-    {
-        "id": "2112401-1",
-        "regionId": "2112401",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-1.jpg",
-        "기호": 1,
-        "이름": "조재희",
-        "생년월일": "19590217",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
-        "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
-        "재산": 402525,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Sun, 07 Apr 2024 18:00:00 +0900",
-                "title": "조재희-박정훈, 송파갑 후보들의 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818082?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:39:00 +0900",
-                "title": "이재명 더불어민주당 대표, 조재희 후보를 지지합니다",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818069?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:39:00 +0900",
-                "title": "엄지 올리는 조재희 더불어민주당 송파갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818068?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:38:00 +0900",
-                "title": "조재희 더불어민주당 송파갑 후보 '석촌호수에서 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818066?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:38:00 +0900",
-                "title": "조재희 더불어민주당 송파갑 후보 '시민들에게 인사'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818067?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:37:00 +0900",
-                "title": "유세 차량 올라 지지 호소하는 조재희 더불어민주당 송파갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818065?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:37:00 +0900",
-                "title": "지지 호소하는 조재희 더불어민주당 송파갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818064?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:36:00 +0900",
-                "title": "이재명 더불어민주당 대표, 조재희 송파갑 후보 지원 유세",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818063?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:24:00 +0900",
-                "title": "[총선 D-3] 이재명 \"주인 두려워않는 일꾼은 해악…왕 뽑은 게 아니다\"",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027878"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:04:00 +0900",
-                "title": "이재명, 강남3구에서 \"보수 후보 선택, 삶에 도움되더냐\"",
-                "link": "https://n.news.naver.com/mnews/article/002/0002326799?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:55:00 +0900",
-                "title": "정치가 궁금해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616543?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:55:00 +0900",
-                "title": "정치가 궁금해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616544?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:55:00 +0900",
-                "title": "정치가 궁금해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616545?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:54:00 +0900",
-                "title": "꽃보다 선거",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616542?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:53:00 +0900",
-                "title": "'대파'와 '디올백'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616541?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:53:00 +0900",
-                "title": "'대파'와 '디올백'",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616539?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:53:00 +0900",
-                "title": "정치가 궁금해",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616540?sid=100"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:52:00 +0900",
-                "title": "'총선 D-3' 마지막 주말…이재명, '가능성' 찾아 '강남 3구' 향했다",
-                "link": "https://n.news.naver.com/mnews/article/008/0005022538?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:42:00 +0900",
-                "title": "이재명 서울 강남 3구 지원 유세, “삶을 개선하지 않는 그들에게 경종을”",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348347"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:39:00 +0900",
-                "title": "벚꽃구경 한창인 석촌호수에서",
-                "link": "https://n.news.naver.com/mnews/article/001/0014616510?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 402525
-            }
-        ],
-        "huboid": "100151711",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2112401-2",
-        "regionId": "2112401",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-2.jpg",
-        "기호": 2,
-        "이름": "박정훈",
-        "생년월일": "19710208",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
-        "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
-        "재산": 3230376,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Mon, 08 Apr 2024 08:01:00 +0900",
-                "title": "“송파도, 국민의힘도 바꿀 것” 베테랑 기자 박정훈의 꿈 [금배지 원정대]",
-                "link": "https://n.news.naver.com/mnews/article/009/0005284777?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 18:00:00 +0900",
-                "title": "조재희-박정훈, 송파갑 후보들의 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818082?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:56:00 +0900",
-                "title": "박정훈 국민의힘 송파구갑 후보 '주먹 불끈 쥐고'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818080?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:55:00 +0900",
-                "title": "박정훈 국민의힘 송파구갑 후보 '지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818079?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:55:00 +0900",
-                "title": "박정훈 국민의힘 송파구갑 후보 '시민들에게 전하는 메시지'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818076?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:55:00 +0900",
-                "title": "박정훈 국민의힘 송파구갑 후보의 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818078?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:54:00 +0900",
-                "title": "지지 호소하는 박정훈 국민의힘 송파구갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818074?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:54:00 +0900",
-                "title": "박정훈 국민의힘 송파구갑 후보 '유세 차량 올라 지지 호소'",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818075?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:53:00 +0900",
-                "title": "지지 호소하는 박정훈 국민의힘 송파구갑 후보",
-                "link": "https://n.news.naver.com/mnews/article/119/0002818073?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:01:00 +0900",
-                "title": "[사전투표] '송파갑' 박정훈 \"초심 잃지 않고 꼭 더 좋은 송파를\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817577?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 06:20:00 +0900",
-                "title": "조재희 \"아이 낳으면 1억원\"…박정훈 \"추계해본 것 맞나\" [송파갑 TV토론]",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817369?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:30:00 +0900",
-                "title": "[포토] 지지 호소하는 송파구갑 박정훈 후보",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315671"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 17:10:00 +0900",
-                "title": "[포토] 한동훈, 송파구 찾아 박정훈·배현진 후보 지원유세",
-                "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315669"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:58:00 +0900",
-                "title": "[포토] 박정훈 후보 지원 유세하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/277/0005401901?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:03:00 +0900",
-                "title": "박정훈-배현진 후보, 풍선인형과 함께 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/003/0012472364?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:03:00 +0900",
-                "title": "박정훈-배현진 후보, 풍선인형과 함께 지지 호소",
-                "link": "https://n.news.naver.com/mnews/article/003/0012472359?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:03:00 +0900",
-                "title": "지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012472363?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:03:00 +0900",
-                "title": "지지 호소하는 한동훈 위원장",
-                "link": "https://n.news.naver.com/mnews/article/003/0012472358?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 16:02:00 +0900",
-                "title": "‘하느님이 어디 있냐!’라고 말하는 이들에게",
-                "link": "http://www.catholicpress.kr/news/view.php?idx=7895"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:58:00 +0900",
-                "title": "박정훈·배현진 후보 지원 나선 한동훈",
-                "link": "https://n.news.naver.com/mnews/article/421/0007459412?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 3230376
-            }
-        ],
-        "huboid": "100152140",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-9.jpg"
-        ]
-    },
-    {
-        "id": "2112401-7",
-        "regionId": "2112401",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-7.jpg",
-        "기호": 7,
-        "이름": "송재열",
-        "생년월일": "19800715",
-        "정당": "개혁신당",
-        "성별": "남",
-        "직업": "송재열교육개혁연구소 소장",
-        "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
-        "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
-        "재산": -78984,
-        "군필여부": true,
-        "전과건수": 5,
-        "news": [
-            {
-                "date": "Sun, 24 Mar 2024 10:34:00 +0900",
-                "title": "與박정훈 \"보수에도 새 얼굴 필요…소명의식 갖고 출마\"[총선人]",
-                "link": "https://n.news.naver.com/mnews/article/018/0005698807?sid=165"
-            },
-            {
-                "date": "Sat, 23 Mar 2024 12:27:00 +0900",
-                "title": "[표] 22대 총선 전국 지역구 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 23:02:00 +0900",
-                "title": "[4·10총선 후보자 등록] 서울",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 22:46:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:37:00 +0900",
-                "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:26:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 20:17:00 +0900",
-                "title": "총선 후보자 평균재산 28억…국힘 김복덕 1446억 1위(종합)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445485?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 17:42:00 +0900",
-                "title": "[홍준철의 여의도안테나] 벌써 두 번째 윤석열-한동훈 충돌, 총선 공멸로 가는...",
-                "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485828"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 00:10:00 +0900",
-                "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
-                "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 17:16:00 +0900",
-                "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
-                "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
-            },
-            {
-                "date": "Wed, 20 Mar 2024 14:34:00 +0900",
-                "title": "총선 맞아 송파구 장애인들, 지역구 후보에 '탈시설권리 요구'",
-                "link": "https://www.beminor.com/news/articleView.html?idxno=26100"
-            },
-            {
-                "date": "Wed, 13 Mar 2024 17:40:00 +0900",
-                "title": "서울 민심 ‘바로미터’ 송파갑…22대 총선 기류 변화?",
-                "link": "https://www.etoday.co.kr/news/view/2339972"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 18:41:00 +0900",
-                "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
-                "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 18:40:00 +0900",
-                "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 공천",
-                "link": "http://www.00news.co.kr/news/articleView.html?idxno=84020"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 18:34:00 +0900",
-                "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 17:54:00 +0900",
-                "title": "[선택4·10] 개혁신당, 양향자 용인갑·조응천 남양주갑·류호정 분당갑 등 경...",
-                "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060212"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 17:38:00 +0900",
-                "title": "개혁신당, 양향자·조응천·류호정 등 공천…수도권 다수 포진",
-                "link": "https://n.news.naver.com/mnews/article/031/0000818877?sid=100"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 17:32:00 +0900",
-                "title": "류호정 \"서운한 것 없다\" 이준석 \"뜻 맞출 수 있다\"…개혁신당 35명 공천",
-                "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 17:24:00 +0900",
-                "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
-                "link": "https://www.newspim.com/news/view/20240308000944"
-            },
-            {
-                "date": "Fri, 08 Mar 2024 17:10:00 +0900",
-                "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
-                "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": -78984
-            }
-        ],
-        "huboid": "100152906",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-7.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-9.jpg"
-        ]
-    }
+  {
+    "id": "2112401-1",
+    "regionId": "2112401",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-1.jpg",
+    "기호": 1,
+    "이름": "조재희",
+    "생년월일": "19590217",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 대학원 정치외교학과 졸업(정치학박사)",
+    "경력": "(전) 대통령 비서실 국정과제비서관\n(전) 한국폴리텍대학 이사장",
+    "재산": 402525,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Sun, 07 Apr 2024 18:00:00 +0900",
+        "title": "조재희-박정훈, 송파갑 후보들의 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818082?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:39:00 +0900",
+        "title": "이재명 더불어민주당 대표, 조재희 후보를 지지합니다",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818069?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:39:00 +0900",
+        "title": "엄지 올리는 조재희 더불어민주당 송파갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818068?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:38:00 +0900",
+        "title": "조재희 더불어민주당 송파갑 후보 '석촌호수에서 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818066?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:38:00 +0900",
+        "title": "조재희 더불어민주당 송파갑 후보 '시민들에게 인사'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818067?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:37:00 +0900",
+        "title": "유세 차량 올라 지지 호소하는 조재희 더불어민주당 송파갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818065?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:37:00 +0900",
+        "title": "지지 호소하는 조재희 더불어민주당 송파갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818064?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:36:00 +0900",
+        "title": "이재명 더불어민주당 대표, 조재희 송파갑 후보 지원 유세",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818063?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:24:00 +0900",
+        "title": "[총선 D-3] 이재명 \"주인 두려워않는 일꾼은 해악…왕 뽑은 게 아니다\"",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1027878"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:04:00 +0900",
+        "title": "이재명, 강남3구에서 \"보수 후보 선택, 삶에 도움되더냐\"",
+        "link": "https://n.news.naver.com/mnews/article/002/0002326799?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:55:00 +0900",
+        "title": "정치가 궁금해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616543?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:55:00 +0900",
+        "title": "정치가 궁금해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616544?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:55:00 +0900",
+        "title": "정치가 궁금해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616545?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:54:00 +0900",
+        "title": "꽃보다 선거",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616542?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:53:00 +0900",
+        "title": "'대파'와 '디올백'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616541?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:53:00 +0900",
+        "title": "'대파'와 '디올백'",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616539?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:53:00 +0900",
+        "title": "정치가 궁금해",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616540?sid=100"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:52:00 +0900",
+        "title": "'총선 D-3' 마지막 주말…이재명, '가능성' 찾아 '강남 3구' 향했다",
+        "link": "https://n.news.naver.com/mnews/article/008/0005022538?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:42:00 +0900",
+        "title": "이재명 서울 강남 3구 지원 유세, “삶을 개선하지 않는 그들에게 경종을”",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348347"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:39:00 +0900",
+        "title": "벚꽃구경 한창인 석촌호수에서",
+        "link": "https://n.news.naver.com/mnews/article/001/0014616510?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 402525
+      }
+    ],
+    "huboid": "100151711",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2112401-2",
+    "regionId": "2112401",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-2.jpg",
+    "기호": 2,
+    "이름": "박정훈",
+    "생년월일": "19710208",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "뉴욕주립대학교 스토니브룩캠퍼스 기술경영 이학석사(2003.7. ~ 2004.7.)",
+    "경력": "(전) TV조선 보도본부 시사제작국장\n(전) '박정훈의 정치다' 앵커",
+    "재산": 3230376,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Mon, 08 Apr 2024 08:01:00 +0900",
+        "title": "“송파도, 국민의힘도 바꿀 것” 베테랑 기자 박정훈의 꿈 [금배지 원정대]",
+        "link": "https://n.news.naver.com/mnews/article/009/0005284777?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 18:00:00 +0900",
+        "title": "조재희-박정훈, 송파갑 후보들의 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818082?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:56:00 +0900",
+        "title": "박정훈 국민의힘 송파구갑 후보 '주먹 불끈 쥐고'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818080?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:55:00 +0900",
+        "title": "박정훈 국민의힘 송파구갑 후보 '지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818079?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:55:00 +0900",
+        "title": "박정훈 국민의힘 송파구갑 후보 '시민들에게 전하는 메시지'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818076?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:55:00 +0900",
+        "title": "박정훈 국민의힘 송파구갑 후보의 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818078?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:54:00 +0900",
+        "title": "지지 호소하는 박정훈 국민의힘 송파구갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818074?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:54:00 +0900",
+        "title": "박정훈 국민의힘 송파구갑 후보 '유세 차량 올라 지지 호소'",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818075?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:53:00 +0900",
+        "title": "지지 호소하는 박정훈 국민의힘 송파구갑 후보",
+        "link": "https://n.news.naver.com/mnews/article/119/0002818073?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:01:00 +0900",
+        "title": "[사전투표] '송파갑' 박정훈 \"초심 잃지 않고 꼭 더 좋은 송파를\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817577?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 06:20:00 +0900",
+        "title": "조재희 \"아이 낳으면 1억원\"…박정훈 \"추계해본 것 맞나\" [송파갑 TV토론]",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817369?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:30:00 +0900",
+        "title": "[포토] 지지 호소하는 송파구갑 박정훈 후보",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315671"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 17:10:00 +0900",
+        "title": "[포토] 한동훈, 송파구 찾아 박정훈·배현진 후보 지원유세",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=315669"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:58:00 +0900",
+        "title": "[포토] 박정훈 후보 지원 유세하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/277/0005401901?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:03:00 +0900",
+        "title": "박정훈-배현진 후보, 풍선인형과 함께 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/003/0012472364?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:03:00 +0900",
+        "title": "박정훈-배현진 후보, 풍선인형과 함께 지지 호소",
+        "link": "https://n.news.naver.com/mnews/article/003/0012472359?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:03:00 +0900",
+        "title": "지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012472363?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:03:00 +0900",
+        "title": "지지 호소하는 한동훈 위원장",
+        "link": "https://n.news.naver.com/mnews/article/003/0012472358?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 16:02:00 +0900",
+        "title": "‘하느님이 어디 있냐!’라고 말하는 이들에게",
+        "link": "http://www.catholicpress.kr/news/view.php?idx=7895"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:58:00 +0900",
+        "title": "박정훈·배현진 후보 지원 나선 한동훈",
+        "link": "https://n.news.naver.com/mnews/article/421/0007459412?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 3230376
+      }
+    ],
+    "huboid": "100152140",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-2-9.jpg"
+    ]
+  },
+  {
+    "id": "2112401-7",
+    "regionId": "2112401",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2112401-7.jpg",
+    "기호": 7,
+    "이름": "송재열",
+    "생년월일": "19800715",
+    "정당": "개혁신당",
+    "성별": "남",
+    "직업": "송재열교육개혁연구소 소장",
+    "학력": "코넬대학교 건축학과 휴학중(2006.8. ~ 2008.12.)",
+    "경력": "(현) 송재열 교육개혁연구소 소장\n(현) 개혁신당 정책위 부의장",
+    "재산": -78984,
+    "군필여부": true,
+    "전과건수": 5,
+    "news": [
+      {
+        "date": "Sun, 24 Mar 2024 10:34:00 +0900",
+        "title": "與박정훈 \"보수에도 새 얼굴 필요…소명의식 갖고 출마\"[총선人]",
+        "link": "https://n.news.naver.com/mnews/article/018/0005698807?sid=165"
+      },
+      {
+        "date": "Sat, 23 Mar 2024 12:27:00 +0900",
+        "title": "[표] 22대 총선 전국 지역구 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445829?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 23:02:00 +0900",
+        "title": "[4·10총선 후보자 등록] 서울",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430969?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 22:46:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 서울(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583523?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:37:00 +0900",
+        "title": "[표] 22대 총선 서울 지역 후보 등록 현황(22일 오후 7시 기준)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430904?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:26:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 서울(22일 오후 7시 현재)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583384?sid=100"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 20:17:00 +0900",
+        "title": "총선 후보자 평균재산 28억…국힘 김복덕 1446억 1위(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445485?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 17:42:00 +0900",
+        "title": "[홍준철의 여의도안테나] 벌써 두 번째 윤석열-한동훈 충돌, 총선 공멸로 가는...",
+        "link": "http://www.ilyoseoul.co.kr/news/articleView.html?idxno=485828"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 00:10:00 +0900",
+        "title": "4·10 총선 대진표 짜였다…“우리 지역 후보 확인하세요”",
+        "link": "https://n.news.naver.com/mnews/article/025/0003348729?sid=165"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 17:16:00 +0900",
+        "title": "개혁신당, 비례배표 10명 후보…지역구 50명 후보",
+        "link": "http://www.newswhoplus.com/news/articleView.html?idxno=7107"
+      },
+      {
+        "date": "Wed, 20 Mar 2024 14:34:00 +0900",
+        "title": "총선 맞아 송파구 장애인들, 지역구 후보에 '탈시설권리 요구'",
+        "link": "https://www.beminor.com/news/articleView.html?idxno=26100"
+      },
+      {
+        "date": "Wed, 13 Mar 2024 17:40:00 +0900",
+        "title": "서울 민심 ‘바로미터’ 송파갑…22대 총선 기류 변화?",
+        "link": "https://www.etoday.co.kr/news/view/2339972"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 18:41:00 +0900",
+        "title": "개혁신당, 지역구 후보자 35명 발표… 경기 남부에 추가 투입",
+        "link": "https://n.news.naver.com/mnews/article/022/0003912024?sid=100"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 18:40:00 +0900",
+        "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 공천",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=84020"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 18:34:00 +0900",
+        "title": "개혁신당, 양향자·조응천·류호정 등 1차 공천 심사 발표",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240308010004368"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:54:00 +0900",
+        "title": "[선택4·10] 개혁신당, 양향자 용인갑·조응천 남양주갑·류호정 분당갑 등 경...",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1060212"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:38:00 +0900",
+        "title": "개혁신당, 양향자·조응천·류호정 등 공천…수도권 다수 포진",
+        "link": "https://n.news.naver.com/mnews/article/031/0000818877?sid=100"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:32:00 +0900",
+        "title": "류호정 \"서운한 것 없다\" 이준석 \"뜻 맞출 수 있다\"…개혁신당 35명 공천",
+        "link": "https://n.news.naver.com/mnews/article/421/0007399811?sid=165"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:24:00 +0900",
+        "title": "개혁신당, 남양주갑 조응천·분당갑 류호정 등 36명 공천",
+        "link": "https://www.newspim.com/news/view/20240308000944"
+      },
+      {
+        "date": "Fri, 08 Mar 2024 17:10:00 +0900",
+        "title": "개혁신당, 조응천 남양주갑·류호정 분당갑·문병호 부평갑 등 공천 확정[202...",
+        "link": "https://n.news.naver.com/mnews/article/014/0005153434?sid=100"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": -78984
+      }
+    ],
+    "huboid": "100152906",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2112401-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2112401-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2112401-7-9.jpg"
+    ]
+  }
 ]

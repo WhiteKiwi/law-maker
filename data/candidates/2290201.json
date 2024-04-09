@@ -1,558 +1,558 @@
 [
-    {
-        "id": "2290201-1",
-        "regionId": "2290201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-1.jpg",
-        "기호": 1,
-        "이름": "조인철",
-        "생년월일": "19640819",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "조인철 민생예산연구소(이사장)",
-        "학력": "영국 버밍엄대학교 (정책학 박사, 2007.9~2010.12)",
-        "경력": "(전)광주광역시 문화경제부시장\n(전)기획재정부 예산실 총사업비관리과장",
-        "재산": 1762617,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Thu, 04 Apr 2024 17:11:00 +0900",
-                "title": "송영길 캠프 \"조인철 후보 '토론회 찬성' 거짓이었나, 답하라\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278798?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:06:00 +0900",
-                "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
-                "link": "http://www.mhj21.com/160304"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 10:35:00 +0900",
-                "title": "민주당 조인철, 법정 토론 불참으로 과태료 천만 원",
-                "link": "https://n.news.naver.com/mnews/article/056/0011695253?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 21:32:00 +0900",
-                "title": "토론회 불참 서구갑 조인철 후보 과태료 1천만 원 부과",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058713?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 20:34:00 +0900",
-                "title": "‘법정 토론회 불참’ 조인철 과태료 1천만원",
-                "link": "http://www.kjdaily.com/article.php?aid=1712142776626516002"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 19:56:00 +0900",
-                "title": "‘선거토론회 불참’ 민주당 광주 서구갑 조인철 후보 과태료",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1712141700766574358"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:58:00 +0900",
-                "title": "조인철 민주당 광주 서구갑 후보 “후보자 토론회 열리길 기대”",
-                "link": "https://www.asiatoday.co.kr/view.php?key=20240403001852261"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 18:06:00 +0900",
-                "title": "토론 불참 민주당 조인철 후보 과태료 1천만원",
-                "link": "http://www.jndn.com/article.php?aid=1712134970383250003"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:42:00 +0900",
-                "title": "'방송 토론회 불참' 민주당 조인철 후보에게 과태료 1천만원 의결",
-                "link": "https://n.news.naver.com/mnews/article/079/0003881492?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:38:00 +0900",
-                "title": "더불어민주당 광주 서구갑 조인철 후보 과태료 1000만원 처분",
-                "link": "https://www.ajunews.com/view/20240403162018364"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:28:00 +0900",
-                "title": "[총선 D-7] \"더불어민주당 조인철 광주 서구갑 후보 '토론회 불참' 과태료 과...",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026895"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:20:00 +0900",
-                "title": "민주당 조인철 후보, 법정 토론 불참으로 과태료 천만 원",
-                "link": "https://n.news.naver.com/mnews/article/056/0011694512?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 16:08:00 +0900",
-                "title": "'방송토론 불참' 조인철 민주당 후보 과태료 1천만 원",
-                "link": "https://kjmbc.co.kr/article/b-89Owk5bZSXPz-XRQZ"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 14:07:00 +0900",
-                "title": "‘법정 TV토론 불참 민주당 광주서구갑 조인철 후보 “과태료 1000만원”",
-                "link": "https://n.news.naver.com/mnews/article/016/0002290080?sid=102"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 14:06:00 +0900",
-                "title": "국민의힘 하헌식 \"방송 토론 불참한 조인철 후보 토론회 다시 열자\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278401?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 12:08:00 +0900",
-                "title": "[총선 D-7] 더불어민주당 조인철 광주 서구갑 후보 \"TV토론 불참 사죄...다시...",
-                "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026726"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:46:00 +0900",
-                "title": "'법정 TV토론 불참' 민주당 조인철 후보 과태료 1천만원 의결",
-                "link": "https://n.news.naver.com/mnews/article/001/0014607666?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:23:00 +0900",
-                "title": "'방송토론 불참' 조인철 민주당 후보 과태료 1000만원",
-                "link": "https://n.news.naver.com/mnews/article/421/0007455373?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:20:00 +0900",
-                "title": "조인철 광주 서구갑 후보 \"토론회 불참 죄송…다시 열리길 기대\"",
-                "link": "https://n.news.naver.com/mnews/article/277/0005401141?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:14:00 +0900",
-                "title": "하헌식 후보, 긴급 기자회견 열고 민주당 토론회 불참 조인철 후보 맹비난",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051366"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1762617
-            }
-        ],
-        "huboid": "100151282",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2290201-2",
-        "regionId": "2290201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-2.jpg",
-        "기호": 2,
-        "이름": "하헌식",
-        "생년월일": "19660803",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "조선대학교 경영대학원 경영학과 졸업(경영학 석사)",
-        "경력": "(현)조선대학교 외래교수\n(현)대통령직속 국민통합위원회 지역위원",
-        "재산": 2060234,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 09 Apr 2024 20:36:00 +0900",
-                "title": "하헌식 후보, \"4월 10일은 광주 미래와 대한민국 미래에 투표하는 날\"",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2052032"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:06:00 +0900",
-                "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
-                "link": "http://www.mhj21.com/160304"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 21:34:00 +0900",
-                "title": "국민의힘 하헌식, 토론회 불참 민주당 조인철 사과 촉구",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058715?sid=100"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 14:06:00 +0900",
-                "title": "국민의힘 하헌식 \"방송 토론 불참한 조인철 후보 토론회 다시 열자\"",
-                "link": "https://n.news.naver.com/mnews/article/629/0000278401?sid=165"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:14:00 +0900",
-                "title": "하헌식 후보, 긴급 기자회견 열고 민주당 토론회 불참 조인철 후보 맹비난",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051366"
-            },
-            {
-                "date": "Wed, 03 Apr 2024 11:13:00 +0900",
-                "title": "하헌식 광주 서구갑 국힘 후보 \"조인철 후보 토론회 불참 사과하라\"",
-                "link": "https://n.news.naver.com/mnews/article/277/0005401136?sid=165"
-            },
-            {
-                "date": "Mon, 01 Apr 2024 16:59:00 +0900",
-                "title": "송영길팀 “아들이 대신 인사드립니다” 與 하헌식 “민주 후보 토론 불참은 ...",
-                "link": "https://n.news.naver.com/mnews/article/023/0003825734?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 15:12:00 +0900",
-                "title": "민주당 조인철 후보, 선관위 TV토론 불참 '파행'(종합)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014598415?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:33:00 +0900",
-                "title": "조인철 후보, 국회의원 후보자 TV 토론회 불참'논란'",
-                "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051034"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:22:00 +0900",
-                "title": "민주당 조인철 광주 서구갑 후보 생방송 토론회 ‘불참’",
-                "link": "https://n.news.naver.com/mnews/article/056/0011691480?sid=100"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:14:00 +0900",
-                "title": "선관위 주관, 광주 서구갑 TV토론 파행…“민주당 조인철 후보 불참”",
-                "link": "https://n.news.naver.com/mnews/article/016/0002287872?sid=102"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 14:00:00 +0900",
-                "title": "조인철 후보, 토론회 돌연 '불참 통보'..건강 이상? 민주당 오만?",
-                "link": "https://n.news.naver.com/mnews/article/660/0000058394?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:54:00 +0900",
-                "title": "'서구갑' 民 조인철, 갑작스런 토론회 불참 '논란 증폭'",
-                "link": "http://www.mdilbo.com/detail/RHfGUG/716542"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:52:00 +0900",
-                "title": "\"유권자 기만·오만함\" 방송토론 불참한 조인철 더불어민주당 광주 서구갑 후...",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=764878"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:41:00 +0900",
-                "title": "조인철 민주당 광주 서구갑 후보 방송 토론회 불참 '무산'",
-                "link": "https://www.newspim.com/news/view/20240329000571"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:28:00 +0900",
-                "title": "\"유권자 기만·오만함\" 방송토론 불참한 민주당 조인철 뭇매",
-                "link": "https://n.news.naver.com/mnews/article/003/0012458996?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 13:12:00 +0900",
-                "title": "민주당 광주 서구갑 조인철, 선관위 주관 방송토론 '고의 불참' 논란",
-                "link": "https://n.news.naver.com/mnews/article/421/0007445259?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 12:01:00 +0900",
-                "title": "광주 서구갑 TV토론 파행…민주당 조인철 후보 불참",
-                "link": "https://n.news.naver.com/mnews/article/001/0014597854?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:35:00 +0900",
-                "title": "민주당 조인철 광주 서구갑 후보, 방송토론회 불참해 '파행'…건강상 이유",
-                "link": "https://n.news.naver.com/mnews/article/079/0003879579?sid=165"
-            },
-            {
-                "date": "Fri, 29 Mar 2024 11:04:00 +0900",
-                "title": "\"목소리가 나오지 않아\" 민주당 조인철 서구갑 후보, 선관위 토론회 돌연 불참",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=764852"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 2060234
-            }
-        ],
-        "huboid": "100152491",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-7.jpg"
-        ]
-    },
-    {
-        "id": "2290201-7",
-        "regionId": "2290201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-7.jpg",
-        "기호": 7,
-        "이름": "강승철",
-        "생년월일": "19701113",
-        "정당": "진보당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "광주석산고등학교 졸업",
-        "경력": "(전)전국민주노동조합총연맹 사무총장\n(현)진보당 광주시당 서구갑 지역위원장",
-        "재산": 342191,
-        "군필여부": true,
-        "전과건수": 5,
-        "news": [
-            {
-                "date": "Fri, 05 Apr 2024 12:26:00 +0900",
-                "title": "강승철 진보당 광주 서구갑 후보 사전 투표 완료",
-                "link": "https://n.news.naver.com/mnews/article/421/0007461761?sid=165"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 15:06:00 +0900",
-                "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
-                "link": "http://www.mhj21.com/160304"
-            },
-            {
-                "date": "Thu, 28 Mar 2024 10:03:00 +0900",
-                "title": "거리 유세하는 강승철 진보당 후보",
-                "link": "https://n.news.naver.com/mnews/article/003/0012455374?sid=165"
-            },
-            {
-                "date": "Mon, 25 Mar 2024 09:40:00 +0900",
-                "title": "<총선브리핑> 안도걸 강승철 김정명",
-                "link": "https://kjmbc.co.kr/article/ta1HEvqDOz_0ZQuLv9JR"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:31:00 +0900",
-                "title": "[4·10총선 후보등록]광주·전남 후보 중 37.5% 전과…군 미필 11명",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445558?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 21:05:00 +0900",
-                "title": "광주 총선후보 10명 중 3명 전과자…집회·시위 전력 다수",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583435?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:36:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 광주(22일 최종)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014583337?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:31:00 +0900",
-                "title": "광주전남 22대 총선 후보 10명 중 4명 전과",
-                "link": "https://n.news.naver.com/mnews/article/079/0003877098?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:24:00 +0900",
-                "title": "[4·10총선 후보자 등록] 광주",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430840?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:10:00 +0900",
-                "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
-                "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 19:07:00 +0900",
-                "title": "[4·10총선 후보 등록] 광주(22일·최종)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012445431?sid=165"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 18:58:00 +0900",
-                "title": "[전국네트워크]총선 D-19...광주·전남 여야 본선 대진표 확정",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149457"
-            },
-            {
-                "date": "Fri, 22 Mar 2024 11:27:00 +0900",
-                "title": "총선 후보등록 첫날 광주·전남 문금주 후보 등 61명 등록",
-                "link": "https://n.news.naver.com/mnews/article/417/0000990868?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 23:26:00 +0900",
-                "title": "총선 후보 등록 첫날 광주·전남 18개 선거구에 61명 등록",
-                "link": "http://www.kwangju.co.kr/article.php?aid=1711030872766011358"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 22:12:00 +0900",
-                "title": "[4·10총선 광주 지역구 후보 등록 현황] (21일 오후 10시 현재)",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=763844"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 21:29:00 +0900",
-                "title": "총선 후보 등록 첫날 광주·전남 18곳 61명 신청(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007428554?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 21:08:00 +0900",
-                "title": "[4·10 총선 후보자 등록] 광주(21일 마감)",
-                "link": "https://n.news.naver.com/mnews/article/001/0014580886?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:39:00 +0900",
-                "title": "총선 후보 등록 첫날 광주 8개 선거구에 27명 신청(종합)",
-                "link": "https://n.news.naver.com/mnews/article/421/0007428413?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 20:07:00 +0900",
-                "title": "[4·10총선 후보 등록] 광주(21일 오후 8시 현재)(종합)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012443075?sid=165"
-            },
-            {
-                "date": "Thu, 21 Mar 2024 19:53:00 +0900",
-                "title": "[4·10총선 후보 등록] 광주(21일 오후 19시 50분 현재)",
-                "link": "https://n.news.naver.com/mnews/article/003/0012443060?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 342191
-            }
-        ],
-        "huboid": "100151295",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-7.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-7.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-7.jpg"
-        ]
-    },
-    {
-        "id": "2290201-8",
-        "regionId": "2290201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-8.jpg",
-        "기호": 8,
-        "이름": "송영길",
-        "생년월일": "19630321",
-        "정당": "소나무당",
-        "성별": "남",
-        "직업": "변호사",
-        "학력": "연세대학교 상경대학 경영학과 졸업",
-        "경력": "(전)더불어민주당 대표\n(전)국회의원(5선)",
-        "재산": 853846,
-        "군필여부": false,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Tue, 09 Apr 2024 20:56:00 +0900",
-                "title": "국회 5선 관록의 '송영길' 정치 재개 성공하나",
-                "link": "http://www.namdonews.com/news/articleView.html?idxno=766357"
-            },
-            {
-                "date": "Tue, 09 Apr 2024 15:32:00 +0900",
-                "title": "결국 이재명에 등 돌렸나…송영길 “민주당의 ‘침대축구’ 보기 싫지 않나”",
-                "link": "https://n.news.naver.com/mnews/article/022/0003922612?sid=100"
-            },
-            {
-                "date": "Tue, 09 Apr 2024 15:24:00 +0900",
-                "title": "이준석·송영길·이낙연…'前 대표' 생환 여부에 '촉각'",
-                "link": "https://n.news.naver.com/mnews/article/015/0004970584?sid=165"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 14:34:00 +0900",
-                "title": "송영길 “태블릿PC 증거조작 의혹 밝혀낼 것”",
-                "link": "https://www.mediawatch.kr/news/article.html?no=257103"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 14:32:00 +0900",
-                "title": "송영길 “야당 180석보다 소나무당 10명 화력이 더 좋아” 지지 호소",
-                "link": "https://www.mediawatch.kr/news/article.html?no=257102"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 10:08:00 +0900",
-                "title": "송영길 '옥중출마'···'인지도 VS 민주당' 대결 구도",
-                "link": "http://www.mdilbo.com/detail/RHfGUG/717302"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 18:34:00 +0900",
-                "title": "함세웅 신부 “송영길 지지 5·18정신 실현”",
-                "link": "http://www.jndn.com/article.php?aid=1712482268383473003"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 14:06:00 +0900",
-                "title": "송영길 \"조국혁신당, 소나무당 성과 편승\"",
-                "link": "http://www.jnilbo.com/73248371617"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 22:20:00 +0900",
-                "title": "소나무당, \"국민 가슴에 '송영길 소나무' 심자\"",
-                "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151476"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 13:59:00 +0900",
-                "title": "“변치 않는 소나무가 되겠다” 송영길 연설에 “눈물이 난다”는 손혜원",
-                "link": "https://n.news.naver.com/mnews/article/022/0003921773?sid=100"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 05:10:00 +0900",
-                "title": "\"구속 송영길에 구인장 발부 가능하지만…강제로 끌고 가는 건 안 하는 추세\"...",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817799?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 21:06:00 +0900",
-                "title": "송영길 '옥중연설'..유권자 움직일까",
-                "link": "https://www.mpmbc.co.kr/article/xjFFD8WhCN1PpcUr"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 20:10:00 +0900",
-                "title": "송영길 '옥중연설'..유권자 움직일까",
-                "link": "https://kjmbc.co.kr/article/HMi_6mAdysPONuVrY"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 20:07:00 +0900",
-                "title": "[현장] 한동훈 \"나경원과 장진영은 지켜야할 범죄자가 없다\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817770?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 19:55:00 +0900",
-                "title": "조국혁신당 30.3%로 1위…국민의미래 29.6%·민주연합 16.3% [리얼미터]",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630732?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:00:00 +0900",
-                "title": "[인터뷰] 소나무당 비례후보 권윤지 \"'한동훈 가발 벗기기' 공약 아냐…비동의...",
-                "link": "https://www.viva100.com/main/view.php?key=20240405010002058"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:08:00 +0900",
-                "title": "'송영길 소나무' 심는 소나무당 당원들",
-                "link": "https://n.news.naver.com/mnews/article/001/0014614373?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:08:00 +0900",
-                "title": "송영길 소나무 심기 식수 행사",
-                "link": "https://n.news.naver.com/mnews/article/001/0014614374?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:07:00 +0900",
-                "title": "'송영길 소나무' 심는 소나무당 당원들",
-                "link": "https://n.news.naver.com/mnews/article/001/0014614372?sid=100"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:48:00 +0900",
-                "title": "\"당선되면 1년 내에 탄핵\"‥'소나무당' 송영길 옥중 연설",
-                "link": "https://n.news.naver.com/mnews/article/214/0001340983?sid=165"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 853846
-            }
-        ],
-        "huboid": "100153089",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-8.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-8.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-9.jpg"
-        ]
-    }
+  {
+    "id": "2290201-1",
+    "regionId": "2290201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-1.jpg",
+    "기호": 1,
+    "이름": "조인철",
+    "생년월일": "19640819",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "조인철 민생예산연구소(이사장)",
+    "학력": "영국 버밍엄대학교 (정책학 박사, 2007.9~2010.12)",
+    "경력": "(전)광주광역시 문화경제부시장\n(전)기획재정부 예산실 총사업비관리과장",
+    "재산": 1762617,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Thu, 04 Apr 2024 17:11:00 +0900",
+        "title": "송영길 캠프 \"조인철 후보 '토론회 찬성' 거짓이었나, 답하라\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278798?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:06:00 +0900",
+        "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
+        "link": "http://www.mhj21.com/160304"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 10:35:00 +0900",
+        "title": "민주당 조인철, 법정 토론 불참으로 과태료 천만 원",
+        "link": "https://n.news.naver.com/mnews/article/056/0011695253?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 21:32:00 +0900",
+        "title": "토론회 불참 서구갑 조인철 후보 과태료 1천만 원 부과",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058713?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 20:34:00 +0900",
+        "title": "‘법정 토론회 불참’ 조인철 과태료 1천만원",
+        "link": "http://www.kjdaily.com/article.php?aid=1712142776626516002"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 19:56:00 +0900",
+        "title": "‘선거토론회 불참’ 민주당 광주 서구갑 조인철 후보 과태료",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1712141700766574358"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:58:00 +0900",
+        "title": "조인철 민주당 광주 서구갑 후보 “후보자 토론회 열리길 기대”",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20240403001852261"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 18:06:00 +0900",
+        "title": "토론 불참 민주당 조인철 후보 과태료 1천만원",
+        "link": "http://www.jndn.com/article.php?aid=1712134970383250003"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:42:00 +0900",
+        "title": "'방송 토론회 불참' 민주당 조인철 후보에게 과태료 1천만원 의결",
+        "link": "https://n.news.naver.com/mnews/article/079/0003881492?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:38:00 +0900",
+        "title": "더불어민주당 광주 서구갑 조인철 후보 과태료 1000만원 처분",
+        "link": "https://www.ajunews.com/view/20240403162018364"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:28:00 +0900",
+        "title": "[총선 D-7] \"더불어민주당 조인철 광주 서구갑 후보 '토론회 불참' 과태료 과...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026895"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:20:00 +0900",
+        "title": "민주당 조인철 후보, 법정 토론 불참으로 과태료 천만 원",
+        "link": "https://n.news.naver.com/mnews/article/056/0011694512?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 16:08:00 +0900",
+        "title": "'방송토론 불참' 조인철 민주당 후보 과태료 1천만 원",
+        "link": "https://kjmbc.co.kr/article/b-89Owk5bZSXPz-XRQZ"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 14:07:00 +0900",
+        "title": "‘법정 TV토론 불참 민주당 광주서구갑 조인철 후보 “과태료 1000만원”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002290080?sid=102"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 14:06:00 +0900",
+        "title": "국민의힘 하헌식 \"방송 토론 불참한 조인철 후보 토론회 다시 열자\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278401?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 12:08:00 +0900",
+        "title": "[총선 D-7] 더불어민주당 조인철 광주 서구갑 후보 \"TV토론 불참 사죄...다시...",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1026726"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:46:00 +0900",
+        "title": "'법정 TV토론 불참' 민주당 조인철 후보 과태료 1천만원 의결",
+        "link": "https://n.news.naver.com/mnews/article/001/0014607666?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:23:00 +0900",
+        "title": "'방송토론 불참' 조인철 민주당 후보 과태료 1000만원",
+        "link": "https://n.news.naver.com/mnews/article/421/0007455373?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:20:00 +0900",
+        "title": "조인철 광주 서구갑 후보 \"토론회 불참 죄송…다시 열리길 기대\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005401141?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:14:00 +0900",
+        "title": "하헌식 후보, 긴급 기자회견 열고 민주당 토론회 불참 조인철 후보 맹비난",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051366"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1762617
+      }
+    ],
+    "huboid": "100151282",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2290201-2",
+    "regionId": "2290201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-2.jpg",
+    "기호": 2,
+    "이름": "하헌식",
+    "생년월일": "19660803",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "조선대학교 경영대학원 경영학과 졸업(경영학 석사)",
+    "경력": "(현)조선대학교 외래교수\n(현)대통령직속 국민통합위원회 지역위원",
+    "재산": 2060234,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 09 Apr 2024 20:36:00 +0900",
+        "title": "하헌식 후보, \"4월 10일은 광주 미래와 대한민국 미래에 투표하는 날\"",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2052032"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:06:00 +0900",
+        "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
+        "link": "http://www.mhj21.com/160304"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 21:34:00 +0900",
+        "title": "국민의힘 하헌식, 토론회 불참 민주당 조인철 사과 촉구",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058715?sid=100"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 14:06:00 +0900",
+        "title": "국민의힘 하헌식 \"방송 토론 불참한 조인철 후보 토론회 다시 열자\"",
+        "link": "https://n.news.naver.com/mnews/article/629/0000278401?sid=165"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:14:00 +0900",
+        "title": "하헌식 후보, 긴급 기자회견 열고 민주당 토론회 불참 조인철 후보 맹비난",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051366"
+      },
+      {
+        "date": "Wed, 03 Apr 2024 11:13:00 +0900",
+        "title": "하헌식 광주 서구갑 국힘 후보 \"조인철 후보 토론회 불참 사과하라\"",
+        "link": "https://n.news.naver.com/mnews/article/277/0005401136?sid=165"
+      },
+      {
+        "date": "Mon, 01 Apr 2024 16:59:00 +0900",
+        "title": "송영길팀 “아들이 대신 인사드립니다” 與 하헌식 “민주 후보 토론 불참은 ...",
+        "link": "https://n.news.naver.com/mnews/article/023/0003825734?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 15:12:00 +0900",
+        "title": "민주당 조인철 후보, 선관위 TV토론 불참 '파행'(종합)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014598415?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:33:00 +0900",
+        "title": "조인철 후보, 국회의원 후보자 TV 토론회 불참'논란'",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2051034"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:22:00 +0900",
+        "title": "민주당 조인철 광주 서구갑 후보 생방송 토론회 ‘불참’",
+        "link": "https://n.news.naver.com/mnews/article/056/0011691480?sid=100"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:14:00 +0900",
+        "title": "선관위 주관, 광주 서구갑 TV토론 파행…“민주당 조인철 후보 불참”",
+        "link": "https://n.news.naver.com/mnews/article/016/0002287872?sid=102"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 14:00:00 +0900",
+        "title": "조인철 후보, 토론회 돌연 '불참 통보'..건강 이상? 민주당 오만?",
+        "link": "https://n.news.naver.com/mnews/article/660/0000058394?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:54:00 +0900",
+        "title": "'서구갑' 民 조인철, 갑작스런 토론회 불참 '논란 증폭'",
+        "link": "http://www.mdilbo.com/detail/RHfGUG/716542"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:52:00 +0900",
+        "title": "\"유권자 기만·오만함\" 방송토론 불참한 조인철 더불어민주당 광주 서구갑 후...",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=764878"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:41:00 +0900",
+        "title": "조인철 민주당 광주 서구갑 후보 방송 토론회 불참 '무산'",
+        "link": "https://www.newspim.com/news/view/20240329000571"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:28:00 +0900",
+        "title": "\"유권자 기만·오만함\" 방송토론 불참한 민주당 조인철 뭇매",
+        "link": "https://n.news.naver.com/mnews/article/003/0012458996?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 13:12:00 +0900",
+        "title": "민주당 광주 서구갑 조인철, 선관위 주관 방송토론 '고의 불참' 논란",
+        "link": "https://n.news.naver.com/mnews/article/421/0007445259?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 12:01:00 +0900",
+        "title": "광주 서구갑 TV토론 파행…민주당 조인철 후보 불참",
+        "link": "https://n.news.naver.com/mnews/article/001/0014597854?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:35:00 +0900",
+        "title": "민주당 조인철 광주 서구갑 후보, 방송토론회 불참해 '파행'…건강상 이유",
+        "link": "https://n.news.naver.com/mnews/article/079/0003879579?sid=165"
+      },
+      {
+        "date": "Fri, 29 Mar 2024 11:04:00 +0900",
+        "title": "\"목소리가 나오지 않아\" 민주당 조인철 서구갑 후보, 선관위 토론회 돌연 불참",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=764852"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 2060234
+      }
+    ],
+    "huboid": "100152491",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-2-7.jpg"
+    ]
+  },
+  {
+    "id": "2290201-7",
+    "regionId": "2290201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-7.jpg",
+    "기호": 7,
+    "이름": "강승철",
+    "생년월일": "19701113",
+    "정당": "진보당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "광주석산고등학교 졸업",
+    "경력": "(전)전국민주노동조합총연맹 사무총장\n(현)진보당 광주시당 서구갑 지역위원장",
+    "재산": 342191,
+    "군필여부": true,
+    "전과건수": 5,
+    "news": [
+      {
+        "date": "Fri, 05 Apr 2024 12:26:00 +0900",
+        "title": "강승철 진보당 광주 서구갑 후보 사전 투표 완료",
+        "link": "https://n.news.naver.com/mnews/article/421/0007461761?sid=165"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 15:06:00 +0900",
+        "title": "[4.10총선-218] 광주 서구갑, 조인철vs하헌식vs강승철vs송영길",
+        "link": "http://www.mhj21.com/160304"
+      },
+      {
+        "date": "Thu, 28 Mar 2024 10:03:00 +0900",
+        "title": "거리 유세하는 강승철 진보당 후보",
+        "link": "https://n.news.naver.com/mnews/article/003/0012455374?sid=165"
+      },
+      {
+        "date": "Mon, 25 Mar 2024 09:40:00 +0900",
+        "title": "<총선브리핑> 안도걸 강승철 김정명",
+        "link": "https://kjmbc.co.kr/article/ta1HEvqDOz_0ZQuLv9JR"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:31:00 +0900",
+        "title": "[4·10총선 후보등록]광주·전남 후보 중 37.5% 전과…군 미필 11명",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445558?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 21:05:00 +0900",
+        "title": "광주 총선후보 10명 중 3명 전과자…집회·시위 전력 다수",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583435?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:36:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 광주(22일 최종)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014583337?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:31:00 +0900",
+        "title": "광주전남 22대 총선 후보 10명 중 4명 전과",
+        "link": "https://n.news.naver.com/mnews/article/079/0003877098?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:24:00 +0900",
+        "title": "[4·10총선 후보자 등록] 광주",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430840?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:10:00 +0900",
+        "title": "광주 총선 8개 선거구에 36명 등록 마쳐…평균경쟁률 4.5대1",
+        "link": "https://n.news.naver.com/mnews/article/421/0007430832?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 19:07:00 +0900",
+        "title": "[4·10총선 후보 등록] 광주(22일·최종)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012445431?sid=165"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 18:58:00 +0900",
+        "title": "[전국네트워크]총선 D-19...광주·전남 여야 본선 대진표 확정",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3149457"
+      },
+      {
+        "date": "Fri, 22 Mar 2024 11:27:00 +0900",
+        "title": "총선 후보등록 첫날 광주·전남 문금주 후보 등 61명 등록",
+        "link": "https://n.news.naver.com/mnews/article/417/0000990868?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 23:26:00 +0900",
+        "title": "총선 후보 등록 첫날 광주·전남 18개 선거구에 61명 등록",
+        "link": "http://www.kwangju.co.kr/article.php?aid=1711030872766011358"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 22:12:00 +0900",
+        "title": "[4·10총선 광주 지역구 후보 등록 현황] (21일 오후 10시 현재)",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=763844"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 21:29:00 +0900",
+        "title": "총선 후보 등록 첫날 광주·전남 18곳 61명 신청(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007428554?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 21:08:00 +0900",
+        "title": "[4·10 총선 후보자 등록] 광주(21일 마감)",
+        "link": "https://n.news.naver.com/mnews/article/001/0014580886?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:39:00 +0900",
+        "title": "총선 후보 등록 첫날 광주 8개 선거구에 27명 신청(종합)",
+        "link": "https://n.news.naver.com/mnews/article/421/0007428413?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 20:07:00 +0900",
+        "title": "[4·10총선 후보 등록] 광주(21일 오후 8시 현재)(종합)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012443075?sid=165"
+      },
+      {
+        "date": "Thu, 21 Mar 2024 19:53:00 +0900",
+        "title": "[4·10총선 후보 등록] 광주(21일 오후 19시 50분 현재)",
+        "link": "https://n.news.naver.com/mnews/article/003/0012443060?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 342191
+      }
+    ],
+    "huboid": "100151295",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-7.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-7.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-7-7.jpg"
+    ]
+  },
+  {
+    "id": "2290201-8",
+    "regionId": "2290201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2290201-8.jpg",
+    "기호": 8,
+    "이름": "송영길",
+    "생년월일": "19630321",
+    "정당": "소나무당",
+    "성별": "남",
+    "직업": "변호사",
+    "학력": "연세대학교 상경대학 경영학과 졸업",
+    "경력": "(전)더불어민주당 대표\n(전)국회의원(5선)",
+    "재산": 853846,
+    "군필여부": false,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Tue, 09 Apr 2024 20:56:00 +0900",
+        "title": "국회 5선 관록의 '송영길' 정치 재개 성공하나",
+        "link": "http://www.namdonews.com/news/articleView.html?idxno=766357"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 15:32:00 +0900",
+        "title": "결국 이재명에 등 돌렸나…송영길 “민주당의 ‘침대축구’ 보기 싫지 않나”",
+        "link": "https://n.news.naver.com/mnews/article/022/0003922612?sid=100"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 15:24:00 +0900",
+        "title": "이준석·송영길·이낙연…'前 대표' 생환 여부에 '촉각'",
+        "link": "https://n.news.naver.com/mnews/article/015/0004970584?sid=165"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 14:34:00 +0900",
+        "title": "송영길 “태블릿PC 증거조작 의혹 밝혀낼 것”",
+        "link": "https://www.mediawatch.kr/news/article.html?no=257103"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 14:32:00 +0900",
+        "title": "송영길 “야당 180석보다 소나무당 10명 화력이 더 좋아” 지지 호소",
+        "link": "https://www.mediawatch.kr/news/article.html?no=257102"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 10:08:00 +0900",
+        "title": "송영길 '옥중출마'···'인지도 VS 민주당' 대결 구도",
+        "link": "http://www.mdilbo.com/detail/RHfGUG/717302"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 18:34:00 +0900",
+        "title": "함세웅 신부 “송영길 지지 5·18정신 실현”",
+        "link": "http://www.jndn.com/article.php?aid=1712482268383473003"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 14:06:00 +0900",
+        "title": "송영길 \"조국혁신당, 소나무당 성과 편승\"",
+        "link": "http://www.jnilbo.com/73248371617"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 22:20:00 +0900",
+        "title": "소나무당, \"국민 가슴에 '송영길 소나무' 심자\"",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=3151476"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 13:59:00 +0900",
+        "title": "“변치 않는 소나무가 되겠다” 송영길 연설에 “눈물이 난다”는 손혜원",
+        "link": "https://n.news.naver.com/mnews/article/022/0003921773?sid=100"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 05:10:00 +0900",
+        "title": "\"구속 송영길에 구인장 발부 가능하지만…강제로 끌고 가는 건 안 하는 추세\"...",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817799?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 21:06:00 +0900",
+        "title": "송영길 '옥중연설'..유권자 움직일까",
+        "link": "https://www.mpmbc.co.kr/article/xjFFD8WhCN1PpcUr"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 20:10:00 +0900",
+        "title": "송영길 '옥중연설'..유권자 움직일까",
+        "link": "https://kjmbc.co.kr/article/HMi_6mAdysPONuVrY"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 20:07:00 +0900",
+        "title": "[현장] 한동훈 \"나경원과 장진영은 지켜야할 범죄자가 없다\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817770?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 19:55:00 +0900",
+        "title": "조국혁신당 30.3%로 1위…국민의미래 29.6%·민주연합 16.3% [리얼미터]",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630732?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:00:00 +0900",
+        "title": "[인터뷰] 소나무당 비례후보 권윤지 \"'한동훈 가발 벗기기' 공약 아냐…비동의...",
+        "link": "https://www.viva100.com/main/view.php?key=20240405010002058"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:08:00 +0900",
+        "title": "'송영길 소나무' 심는 소나무당 당원들",
+        "link": "https://n.news.naver.com/mnews/article/001/0014614373?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:08:00 +0900",
+        "title": "송영길 소나무 심기 식수 행사",
+        "link": "https://n.news.naver.com/mnews/article/001/0014614374?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:07:00 +0900",
+        "title": "'송영길 소나무' 심는 소나무당 당원들",
+        "link": "https://n.news.naver.com/mnews/article/001/0014614372?sid=100"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:48:00 +0900",
+        "title": "\"당선되면 1년 내에 탄핵\"‥'소나무당' 송영길 옥중 연설",
+        "link": "https://n.news.naver.com/mnews/article/214/0001340983?sid=165"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 853846
+      }
+    ],
+    "huboid": "100153089",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2290201-8.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2290201-8.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2290201-8-9.jpg"
+    ]
+  }
 ]

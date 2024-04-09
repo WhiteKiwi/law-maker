@@ -1,284 +1,284 @@
 [
-    {
-        "id": "2412201-1",
-        "regionId": "2412201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412201-1.jpg",
-        "기호": 1,
-        "이름": "김영환",
-        "생년월일": "19710707",
-        "정당": "더불어민주당",
-        "성별": "남",
-        "직업": "정당인",
-        "학력": "고려대학교 사회학과 졸업",
-        "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
-        "재산": 1688057,
-        "군필여부": true,
-        "전과건수": 0,
-        "news": [
-            {
-                "date": "Tue, 09 Apr 2024 12:04:00 +0900",
-                "title": "김준혁·양문석·김영환 국회입성? … 말 많던 민주 후보 3人에 쏠린 눈",
-                "link": "https://n.news.naver.com/mnews/article/021/0002631272?sid=165"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 21:20:00 +0900",
-                "title": "\"문화일보 '김영환 때리기' 왜곡보도 도 넘었다\"...김영환, '법적 책임 물을 ...",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964459"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 19:38:00 +0900",
-                "title": "데이터 센터 두고 고양시정 민주 김영환, 국힘 김용태 후보에 '허위사실유포'...",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964381"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 12:04:00 +0900",
-                "title": "‘갑질 의혹’ 김영환 거짓 해명 논란… 도의원 시절 교육감에 ‘압력성 질의...",
-                "link": "https://n.news.naver.com/mnews/article/021/0002631030?sid=165"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 11:46:00 +0900",
-                "title": "\"도의원 갑질이라고요?\"...김영환 후보 \"왜곡보도, 정치공세 멈춰야\"",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962738"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 11:41:00 +0900",
-                "title": "선거기사심의위, 김영환 '학부모 갑질' 보도에 '주의사실 게재' 결정",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429522?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:20:00 +0900",
-                "title": "‘갑질 논란’ 김영환, ‘허위경력 논란’ 조지연…막판 네거티브 난무",
-                "link": "https://n.news.naver.com/mnews/article/025/0003352497?sid=165"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 11:36:00 +0900",
-                "title": "경기 고양정 김용태 \"'악질적인 교권침해·교사갑질' 김영환 후보에 경악\"",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220622"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 12:50:00 +0900",
-                "title": "언론중재위 선거기사심의위, 김영환 후보 관련 '도의원 갑질' 보도 제재",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962896"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 19:00:00 +0900",
-                "title": "국민의힘 \"'유치원 교사갑질' 고양정 김영환, 민주당 이중적 행태\"",
-                "link": "https://n.news.naver.com/mnews/article/119/0002817768?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 18:22:00 +0900",
-                "title": "[총선 현장] 이탄희 정동영, 일산 지원유세 \"이기헌, 김영환 뽑아주세요\"",
-                "link": "http://www.mygoyang.com/news/articleView.html?idxno=78756"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:18:00 +0900",
-                "title": "野 김영환 고양정 후보 교사 갑질 의혹…일산주민들 \"경악 금치 못해, 당장 사...",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220580"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 17:16:00 +0900",
-                "title": "김용태, 허위사실 반복 유포한 김영환 후보 추가 고발",
-                "link": "http://www.iminju.net/news/articleView.html?idxno=100015"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:48:00 +0900",
-                "title": "일산 주민, 김영환 '유치원 학부모 갑질' 논란에 사과 촉구",
-                "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500262.html"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 16:30:00 +0900",
-                "title": "김용태, 김영환, 축사 허가 발언 '허위사실' 밝혀져 고발 예고",
-                "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581060"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 12:07:00 +0900",
-                "title": "경기도교육청 ‘김영환 갑질의혹’ 전면 재조사",
-                "link": "https://n.news.naver.com/mnews/article/021/0002630688?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 11:10:00 +0900",
-                "title": "고양정 김영환 \"아동학대 사건을 갑질로 둔갑\"... 언론보도 반박",
-                "link": "https://n.news.naver.com/mnews/article/047/0002429192?sid=165"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 10:56:00 +0900",
-                "title": "야당 김영환 후보 '유치원 학부모 갑질' 논란 재조사",
-                "link": "https://n.news.naver.com/mnews/article/417/0000994465?sid=102"
-            },
-            {
-                "date": "Fri, 05 Apr 2024 09:40:00 +0900",
-                "title": "민주 김영환 'K-콘텐츠 육성지원 특별법 제정' vs 국힘 김용태 '경제자유구역...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363645743"
-            },
-            {
-                "date": "Thu, 04 Apr 2024 19:26:00 +0900",
-                "title": "경기도교육청, 김영환 고양정 후보 교사 갑질 의혹 '재조사' 착수",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220478"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1688057
-            }
-        ],
-        "huboid": "100153135",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412201-1.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412201-1.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-9.jpg"
-        ]
-    },
-    {
-        "id": "2412201-2",
-        "regionId": "2412201",
-        "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412201-2.jpg",
-        "기호": 2,
-        "이름": "김용태",
-        "생년월일": "19680326",
-        "정당": "국민의힘",
-        "성별": "남",
-        "직업": "(사)한국보험대리점협회 회장",
-        "학력": "서울대학교 정치학과 졸업",
-        "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
-        "재산": 1844381,
-        "군필여부": true,
-        "전과건수": 2,
-        "news": [
-            {
-                "date": "Tue, 09 Apr 2024 11:18:00 +0900",
-                "title": "국힘 김용태 후보, 포천·가평 발전 정책제안서 전달",
-                "link": "https://www.viva100.com/main/view.php?key=20240409010002952"
-            },
-            {
-                "date": "Tue, 09 Apr 2024 09:08:00 +0900",
-                "title": "포천깨시민연대, 박윤국 후보와 진보당 정책협약에 대한 김용태 후보의 발언 ...",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014681"
-            },
-            {
-                "date": "Tue, 09 Apr 2024 09:02:00 +0900",
-                "title": "천아‘용’인 김용태 금배지 다나",
-                "link": "https://n.news.naver.com/mnews/article/262/0000017359?sid=100"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 21:36:00 +0900",
-                "title": "포천·가평 김용태 후보 \"박윤국 후보는 진보당과 잡은 손을 당장 놔라\" 비판",
-                "link": "http://www.kukinews.com/newsView/kuk202404080218"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 19:38:00 +0900",
-                "title": "데이터 센터 두고 고양시정 민주 김영환, 국힘 김용태 후보에 '허위사실유포'...",
-                "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964381"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 18:40:00 +0900",
-                "title": "김용태 포천·가평 후보, 박윤국 후보 진보당의 정책협약 강력 비판",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082537"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 16:38:00 +0900",
-                "title": "김용태 포천·가평 후보, 각 지자체에 정책제안서 전달",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082455"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 15:26:00 +0900",
-                "title": "포천·가평 與 김용태 \"끝까지 낮은 자세로...지역 발전으로 보답\"",
-                "link": "https://www.pennmike.com/news/articleView.html?idxno=79213"
-            },
-            {
-                "date": "Mon, 08 Apr 2024 10:30:00 +0900",
-                "title": "[총선] 국민의힘 포천·가평 김용태 후보, 박윤국 후보와 진보당 정책협약에 ...",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014612"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 19:16:00 +0900",
-                "title": "[4·10 총선] 국힘 포천가평 김용태 후보 '포천 술자리 비용 대납 의혹' 기자...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243727"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 17:26:00 +0900",
-                "title": "[총선 동서남북] 박윤국 유세에 이재명 당대표 참석… 김용태는 청년들과 맥주...",
-                "link": "https://www.joongboo.com/news/articleView.html?idxno=363646008"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 16:36:00 +0900",
-                "title": "김용태 포천가평 후보, 포천 송우사거리서 청년들과 맥주미팅",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082295"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 15:16:00 +0900",
-                "title": "'고양정' 김용태, '히어위아'로 지역주민과 1대1 채팅 소통",
-                "link": "https://www.mediapen.com/news/view/910553"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 12:44:00 +0900",
-                "title": "[총선] 포천·가평 지역구, 김용태 후보 청년과의 맥주미팅으로 '화제'",
-                "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014561"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 11:36:00 +0900",
-                "title": "경기 고양정 김용태 \"'악질적인 교권침해·교사갑질' 김영환 후보에 경악\"",
-                "link": "https://www.thepublic.kr/news/articleView.html?idxno=220622"
-            },
-            {
-                "date": "Sun, 07 Apr 2024 06:20:00 +0900",
-                "title": "[총선핫스팟] 경기 고양정 탈환이냐 수성이냐, '3선 경력' 국힘 김용태 VS '지...",
-                "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348319"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 18:47:00 +0900",
-                "title": "경기 광명갑, 최근 선거·판세 조사에서 민주당 ‘우세’",
-                "link": "https://n.news.naver.com/mnews/article/629/0000279158?sid=165"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 15:57:00 +0900",
-                "title": "[열전 25시] 국민의힘 포천·가평 김용태 “청년 꿈 펼치는 곳 만들 것”",
-                "link": "https://n.news.naver.com/mnews/article/666/0000038442?sid=165"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 11:50:00 +0900",
-                "title": "김용태 포천가평 후보, 사전투표 참여 시민들 동참 호소",
-                "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082175"
-            },
-            {
-                "date": "Sat, 06 Apr 2024 11:40:00 +0900",
-                "title": "[4·10 총선] 박윤국은 전 가평군수, 김용태는 전 포천시장 '선택'...누가 웃...",
-                "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243528"
-            }
-        ],
-        "연도별_재산": [
-            {
-                "연도": 2023,
-                "재산": 1844381
-            }
-        ],
-        "huboid": "100153136",
-        "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412201-2.jpg",
-        "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412201-2.pdf",
-        "공보ImgUrls": [
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-0.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-1.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-10.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-11.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-2.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-3.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-4.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-5.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-6.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-7.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-8.jpg",
-            "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-9.jpg"
-        ]
-    }
+  {
+    "id": "2412201-1",
+    "regionId": "2412201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412201-1.jpg",
+    "기호": 1,
+    "이름": "김영환",
+    "생년월일": "19710707",
+    "정당": "더불어민주당",
+    "성별": "남",
+    "직업": "정당인",
+    "학력": "고려대학교 사회학과 졸업",
+    "경력": "(전)더불어민주당 정책위원회 부의장\n(현)더불어민주당 고양시정 지역위원장",
+    "재산": 1688057,
+    "군필여부": true,
+    "전과건수": 0,
+    "news": [
+      {
+        "date": "Tue, 09 Apr 2024 12:04:00 +0900",
+        "title": "김준혁·양문석·김영환 국회입성? … 말 많던 민주 후보 3人에 쏠린 눈",
+        "link": "https://n.news.naver.com/mnews/article/021/0002631272?sid=165"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 21:20:00 +0900",
+        "title": "\"문화일보 '김영환 때리기' 왜곡보도 도 넘었다\"...김영환, '법적 책임 물을 ...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964459"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 19:38:00 +0900",
+        "title": "데이터 센터 두고 고양시정 민주 김영환, 국힘 김용태 후보에 '허위사실유포'...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964381"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 12:04:00 +0900",
+        "title": "‘갑질 의혹’ 김영환 거짓 해명 논란… 도의원 시절 교육감에 ‘압력성 질의...",
+        "link": "https://n.news.naver.com/mnews/article/021/0002631030?sid=165"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 11:46:00 +0900",
+        "title": "\"도의원 갑질이라고요?\"...김영환 후보 \"왜곡보도, 정치공세 멈춰야\"",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962738"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 11:41:00 +0900",
+        "title": "선거기사심의위, 김영환 '학부모 갑질' 보도에 '주의사실 게재' 결정",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429522?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:20:00 +0900",
+        "title": "‘갑질 논란’ 김영환, ‘허위경력 논란’ 조지연…막판 네거티브 난무",
+        "link": "https://n.news.naver.com/mnews/article/025/0003352497?sid=165"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 11:36:00 +0900",
+        "title": "경기 고양정 김용태 \"'악질적인 교권침해·교사갑질' 김영환 후보에 경악\"",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220622"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 12:50:00 +0900",
+        "title": "언론중재위 선거기사심의위, 김영환 후보 관련 '도의원 갑질' 보도 제재",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2962896"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 19:00:00 +0900",
+        "title": "국민의힘 \"'유치원 교사갑질' 고양정 김영환, 민주당 이중적 행태\"",
+        "link": "https://n.news.naver.com/mnews/article/119/0002817768?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 18:22:00 +0900",
+        "title": "[총선 현장] 이탄희 정동영, 일산 지원유세 \"이기헌, 김영환 뽑아주세요\"",
+        "link": "http://www.mygoyang.com/news/articleView.html?idxno=78756"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:18:00 +0900",
+        "title": "野 김영환 고양정 후보 교사 갑질 의혹…일산주민들 \"경악 금치 못해, 당장 사...",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220580"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 17:16:00 +0900",
+        "title": "김용태, 허위사실 반복 유포한 김영환 후보 추가 고발",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=100015"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:48:00 +0900",
+        "title": "일산 주민, 김영환 '유치원 학부모 갑질' 논란에 사과 촉구",
+        "link": "https://www.newdaily.co.kr/site/data/html/2024/04/05/2024040500262.html"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 16:30:00 +0900",
+        "title": "김용태, 김영환, 축사 허가 발언 '허위사실' 밝혀져 고발 예고",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=581060"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 12:07:00 +0900",
+        "title": "경기도교육청 ‘김영환 갑질의혹’ 전면 재조사",
+        "link": "https://n.news.naver.com/mnews/article/021/0002630688?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 11:10:00 +0900",
+        "title": "고양정 김영환 \"아동학대 사건을 갑질로 둔갑\"... 언론보도 반박",
+        "link": "https://n.news.naver.com/mnews/article/047/0002429192?sid=165"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 10:56:00 +0900",
+        "title": "야당 김영환 후보 '유치원 학부모 갑질' 논란 재조사",
+        "link": "https://n.news.naver.com/mnews/article/417/0000994465?sid=102"
+      },
+      {
+        "date": "Fri, 05 Apr 2024 09:40:00 +0900",
+        "title": "민주 김영환 'K-콘텐츠 육성지원 특별법 제정' vs 국힘 김용태 '경제자유구역...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363645743"
+      },
+      {
+        "date": "Thu, 04 Apr 2024 19:26:00 +0900",
+        "title": "경기도교육청, 김영환 고양정 후보 교사 갑질 의혹 '재조사' 착수",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220478"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1688057
+      }
+    ],
+    "huboid": "100153135",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412201-1.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412201-1.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-1-9.jpg"
+    ]
+  },
+  {
+    "id": "2412201-2",
+    "regionId": "2412201",
+    "imageUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/candidates/2412201-2.jpg",
+    "기호": 2,
+    "이름": "김용태",
+    "생년월일": "19680326",
+    "정당": "국민의힘",
+    "성별": "남",
+    "직업": "(사)한국보험대리점협회 회장",
+    "학력": "서울대학교 정치학과 졸업",
+    "경력": "(전)국회의원(18, 19, 20대)\n(전)국회 정무위원회 위원장",
+    "재산": 1844381,
+    "군필여부": true,
+    "전과건수": 2,
+    "news": [
+      {
+        "date": "Tue, 09 Apr 2024 11:18:00 +0900",
+        "title": "국힘 김용태 후보, 포천·가평 발전 정책제안서 전달",
+        "link": "https://www.viva100.com/main/view.php?key=20240409010002952"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 09:08:00 +0900",
+        "title": "포천깨시민연대, 박윤국 후보와 진보당 정책협약에 대한 김용태 후보의 발언 ...",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014681"
+      },
+      {
+        "date": "Tue, 09 Apr 2024 09:02:00 +0900",
+        "title": "천아‘용’인 김용태 금배지 다나",
+        "link": "https://n.news.naver.com/mnews/article/262/0000017359?sid=100"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 21:36:00 +0900",
+        "title": "포천·가평 김용태 후보 \"박윤국 후보는 진보당과 잡은 손을 당장 놔라\" 비판",
+        "link": "http://www.kukinews.com/newsView/kuk202404080218"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 19:38:00 +0900",
+        "title": "데이터 센터 두고 고양시정 민주 김영환, 국힘 김용태 후보에 '허위사실유포'...",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=2964381"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 18:40:00 +0900",
+        "title": "김용태 포천·가평 후보, 박윤국 후보 진보당의 정책협약 강력 비판",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082537"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 16:38:00 +0900",
+        "title": "김용태 포천·가평 후보, 각 지자체에 정책제안서 전달",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082455"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 15:26:00 +0900",
+        "title": "포천·가평 與 김용태 \"끝까지 낮은 자세로...지역 발전으로 보답\"",
+        "link": "https://www.pennmike.com/news/articleView.html?idxno=79213"
+      },
+      {
+        "date": "Mon, 08 Apr 2024 10:30:00 +0900",
+        "title": "[총선] 국민의힘 포천·가평 김용태 후보, 박윤국 후보와 진보당 정책협약에 ...",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014612"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 19:16:00 +0900",
+        "title": "[4·10 총선] 국힘 포천가평 김용태 후보 '포천 술자리 비용 대납 의혹' 기자...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243727"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 17:26:00 +0900",
+        "title": "[총선 동서남북] 박윤국 유세에 이재명 당대표 참석… 김용태는 청년들과 맥주...",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363646008"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 16:36:00 +0900",
+        "title": "김용태 포천가평 후보, 포천 송우사거리서 청년들과 맥주미팅",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082295"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 15:16:00 +0900",
+        "title": "'고양정' 김용태, '히어위아'로 지역주민과 1대1 채팅 소통",
+        "link": "https://www.mediapen.com/news/view/910553"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 12:44:00 +0900",
+        "title": "[총선] 포천·가평 지역구, 김용태 후보 청년과의 맥주미팅으로 '화제'",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=3014561"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 11:36:00 +0900",
+        "title": "경기 고양정 김용태 \"'악질적인 교권침해·교사갑질' 김영환 후보에 경악\"",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=220622"
+      },
+      {
+        "date": "Sun, 07 Apr 2024 06:20:00 +0900",
+        "title": "[총선핫스팟] 경기 고양정 탈환이냐 수성이냐, '3선 경력' 국힘 김용태 VS '지...",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=348319"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 18:47:00 +0900",
+        "title": "경기 광명갑, 최근 선거·판세 조사에서 민주당 ‘우세’",
+        "link": "https://n.news.naver.com/mnews/article/629/0000279158?sid=165"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 15:57:00 +0900",
+        "title": "[열전 25시] 국민의힘 포천·가평 김용태 “청년 꿈 펼치는 곳 만들 것”",
+        "link": "https://n.news.naver.com/mnews/article/666/0000038442?sid=165"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 11:50:00 +0900",
+        "title": "김용태 포천가평 후보, 사전투표 참여 시민들 동참 호소",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1082175"
+      },
+      {
+        "date": "Sat, 06 Apr 2024 11:40:00 +0900",
+        "title": "[4·10 총선] 박윤국은 전 가평군수, 김용태는 전 포천시장 '선택'...누가 웃...",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1243528"
+      }
+    ],
+    "연도별_재산": [
+      {
+        "연도": 2023,
+        "재산": 1844381
+      }
+    ],
+    "huboid": "100153136",
+    "전과ImgUrl": "https://s3.whitekiwi.link/vote-for.kr/data/images/jeon-gwa/2412201-2.jpg",
+    "공보PdfUrl": "https://s3.whitekiwi.link/vote-for.kr/공보/2412201-2.pdf",
+    "공보ImgUrls": [
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-0.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-1.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-10.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-11.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-2.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-3.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-4.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-5.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-6.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-7.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-8.jpg",
+      "https://s3.whitekiwi.link/vote-for.kr/공보/images/2412201-2-9.jpg"
+    ]
+  }
 ]
