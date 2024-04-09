@@ -191,7 +191,7 @@ async function main() {
   {
     const rankItems: 공약이행수RankItem[] = [];
     function 공약이행수(candidate: LawMakerCadidate): number {
-      return candidate["21th"]!.공약이행수등수 || 999;
+      return candidate["21th"]!.공약이행률?.공약이행수 || -1;
     }
 
     const 정렬 = candidates
@@ -222,7 +222,13 @@ async function main() {
   {
     const rankItems: 공약이행률RankItem[] = [];
     function 공약이행률(candidate: LawMakerCadidate): number {
-      return candidate["21th"]!.공약이행률등수 || 999;
+      if (!candidate["21th"]!.공약이행률) {
+        return -1;
+      }
+      return (
+        candidate["21th"]!.공약이행률.공약이행수 /
+        candidate["21th"]!.공약이행률.총공약수
+      );
     }
 
     const 정렬 = candidates
